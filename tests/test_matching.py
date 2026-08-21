@@ -14,6 +14,7 @@ from dnb_toc_ground_truth.matching import (
     align_toc_entries,
     diff_toc_entries,
     gate_book,
+    gate_books,
     toc_entry_to_gt_dict,
 )
 
@@ -375,3 +376,38 @@ class TestTitleNearIdenticalNormalization(unittest.TestCase):
         a = _entry('"Therefore I Quit, and I Am Consoled Over Dust and Ashes" (Job 42:6).', 315)
         b = _entry('"Therefore I Quit, and I Am Consoled Over Dust and Ashes" (Job 42:6)', 315)
         self.assertTrue(_title_near_identical(a, b))
+
+
+class TestGateBooks(unittest.TestCase):
+    def test_raises_on_fewer_than_two_lists(self):
+        with self.assertRaises(ValueError):
+            gate_books([[_entry("A", "1")]])
+
+    def test_passes_when_two_of_three_agree(self):
+        a = [_entry("Introduction", "1"), _entry("Chapter One", "5")]
+        b = [_entry("Introduction", "1"), _entry("Chapter One", "5")]
+        c = [_entry("Totally different reading", "99")]
+        passed, merged, winning_pair = gate_books([a, b, c], threshold=0.90)
+        self.assertTrue(passed)
+        self.assertEqual(winning_pair, (0, 1))
+        self.assertEqual({e.title for e in merged}, {"Introduction", "Chapter One"})
+
+    def test_fails_when_no_pair_agrees(self):
+        a = [_entry("Reading A", "1")]
+        b = [_entry("Reading B", "2")]
+        c = [_entry("Reading C", "3")]
+        passed, merged, winning_pair = gate_books([a, b, c], threshold=0.90)
+        self.assertFalse(passed)
+        self.assertEqual(merged, [])
+        self.assertIsNone(winning_pair)
+
+    def test_prefers_highest_agreement_pair_when_multiple_pass(self):
+        # a/b agree fully (2/2); a/c agree on only one of two (page mismatch
+        # on the second entry) -- both clear a low 0.5 threshold, but a/b's
+        # higher rate must win.
+        a = [_entry("Introduction", "1"), _entry("Chapter One", "5")]
+        b = [_entry("Introduction", "1"), _entry("Chapter One", "5")]
+        c = [_entry("Introduction", "1"), _entry("Chapter One", "999")]
+        passed, merged, winning_pair = gate_books([a, b, c], threshold=0.5)
+        self.assertTrue(passed)
+        self.assertEqual(winning_pair, (0, 1))

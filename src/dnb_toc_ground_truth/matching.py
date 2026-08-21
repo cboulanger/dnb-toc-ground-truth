@@ -8,6 +8,7 @@ list[TocEntry] shape."""
 
 import re
 from dataclasses import replace
+from typing import Optional
 
 from rapidfuzz import fuzz
 
@@ -381,3 +382,49 @@ def toc_entry_to_gt_dict(entry: TocEntry) -> dict:
         "printed_page_number": entry.printed_page_number,
         "skip": entry.skip,
     }
+
+
+def gate_books(
+    entry_lists: list[list[TocEntry]], threshold: float = 0.90,
+) -> tuple[bool, list[TocEntry], Optional[tuple[int, int]]]:
+    """Extends gate_book to N >= 2 independently-produced TocEntry lists
+    -- "best pair wins" (design spec
+    docs/superpowers/specs/2026-08-21-dnb-toc-ground-truth-extraction-design.md
+    "N-way gating"): every pair among entry_lists is checked with the SAME
+    pairwise alignment + agreement-rate + near-identical-title gate
+    gate_book already implements, unchanged. The book passes if at least
+    one pair clears `threshold`; among passing pairs, the one with the
+    HIGHEST agreement rate is used, and its merged output (gate_book's own
+    merge -- union of matched pairs plus each side's singletons) becomes
+    the result. Returns (passed, merged_entries, winning_pair_indices) --
+    winning_pair_indices names which two positions in entry_lists produced
+    the result (for logging which two models actually agreed), None if
+    every pair failed.
+
+    Deliberately does NOT attempt a multi-way consensus merge across more
+    than one passing pair -- see the design spec section this implements
+    for why: reusing gate_book's proven, heavily-tested two-list merge
+    logic verbatim was chosen over a new N-way merge algorithm."""
+    if len(entry_lists) < 2:
+        raise ValueError(f"gate_books needs at least 2 entry lists to gate, got {len(entry_lists)}")
+    best_rate = -1.0
+    best_pair: Optional[tuple[int, int]] = None
+    for i in range(len(entry_lists)):
+        for j in range(i + 1, len(entry_lists)):
+            a, b = entry_lists[i], entry_lists[j]
+            if not a and not b:
+                continue
+            matched_pairs, _, _ = diff_toc_entries(a, b)
+            rate = len(matched_pairs) / max(len(a), len(b))
+            if rate < threshold or rate <= best_rate:
+                continue
+            if any(not _title_near_identical(entry_a, entry_b) for entry_a, entry_b in matched_pairs):
+                continue
+            best_rate = rate
+            best_pair = (i, j)
+    if best_pair is None:
+        return False, [], None
+    i, j = best_pair
+    passed, merged = gate_book(entry_lists[i], entry_lists[j], threshold=threshold)
+    assert passed  # guaranteed by the loop above having already checked this exact pair
+    return True, merged, best_pair
