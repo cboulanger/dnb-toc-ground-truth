@@ -1,6 +1,6 @@
 """Generic OpenAI-compatible inference-endpoint resolution --
 forked from chapter-segmentation's evaluation/inference_endpoints.py with
-all KISSKI-specific auto-discovery removed. Every model must be named
+all provider-specific auto-discovery removed. Every model must be named
 explicitly via --use-vision/--use-text and resolved against an
 --endpoints-file; see design spec
 docs/superpowers/specs/2026-08-21-dnb-toc-ground-truth-extraction-design.md
