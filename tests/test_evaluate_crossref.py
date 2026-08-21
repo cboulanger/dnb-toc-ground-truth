@@ -71,6 +71,21 @@ class TestEvaluateBook(unittest.TestCase):
         self.assertEqual(result.only_in_crossref, 0)
         self.assertEqual(result.agreement_rate, 0.5)
 
+    def test_all_gt_entries_skipped_degrades_to_zero_agreement_without_crashing(self):
+        gt_entries = (
+            TocEntry(title="Part I", printed_page_number="9", source_page_index=0, skip=True),
+            TocEntry(title="Part II", printed_page_number="50", source_page_index=0, skip=True),
+        )
+        crossref_data = CrossrefBookData(
+            isbn="9783899718188", doi="10.1/x", fetched_at="",
+            chapters=(TocEntry(title="Introduction", printed_page_number="11", source_page_index=-1, skip=False),),
+        )
+        result = evaluate_book("9783899718188", gt_entries, crossref_data)
+        self.assertEqual(result.matched, 0)
+        self.assertEqual(result.only_in_gt, 0)
+        self.assertEqual(result.only_in_crossref, 1)
+        self.assertEqual(result.agreement_rate, 0.0)
+
 
 class TestEvaluateCorpus(unittest.TestCase):
     def test_skips_books_with_no_cached_crossref_data(self):

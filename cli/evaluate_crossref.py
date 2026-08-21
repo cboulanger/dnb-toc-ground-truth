@@ -22,7 +22,7 @@ import json
 from dataclasses import dataclass
 
 from dnb_toc_ground_truth import corpus, matching
-from dnb_toc_ground_truth.crossref import CrossrefBookData
+from dnb_toc_ground_truth.crossref import CrossrefBookData, _load_cache as _load_crossref_cache
 from dnb_toc_ground_truth.toc_entry import TocEntry
 
 
@@ -47,18 +47,7 @@ def _load_gt_entries(key: str) -> tuple[TocEntry, ...]:
 
 
 def _load_crossref_data(key: str) -> CrossrefBookData | None:
-    path = corpus.crossref_cache_dir() / f"{key}.crossref.json"
-    if not path.exists():
-        return None
-    data = json.loads(path.read_text(encoding="utf-8"))
-    chapters = tuple(
-        TocEntry(
-            title=c["title"], authors=tuple(c["authors"]),
-            printed_page_number=c["printed_page_number"], source_page_index=-1, skip=False,
-        )
-        for c in data["chapters"]
-    )
-    return CrossrefBookData(isbn=key, doi=data.get("doi"), chapters=chapters, fetched_at=data["fetched_at"])
+    return _load_crossref_cache(corpus.crossref_cache_dir(), key)
 
 
 def evaluate_book(key: str, gt_entries: tuple[TocEntry, ...], crossref_data: CrossrefBookData) -> BookAgreement:
