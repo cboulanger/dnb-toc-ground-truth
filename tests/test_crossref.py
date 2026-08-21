@@ -105,6 +105,20 @@ class TestFetchCrossrefBook(unittest.TestCase):
         self.assertIsNone(data.doi)
         self.assertEqual(len(data.chapters), 2)
 
+    def test_confirmed_empty_response_is_cached(self):
+        client = Mock()
+        client.get.return_value = _json_response({"message": {"items": []}})
+        with tempfile.TemporaryDirectory() as tmp:
+            cache_dir = Path(tmp)
+            data = fetch_crossref_book("9783899718188", client, None, cache_dir)
+
+            self.assertIsNone(data.doi)
+            self.assertEqual(data.chapters, ())
+            cache_path = cache_dir / "9783899718188.crossref.json"
+            self.assertTrue(cache_path.exists())
+            cached_payload = json.loads(cache_path.read_text(encoding="utf-8"))
+            self.assertTrue(cached_payload["fetched_at"])
+
     def test_writes_and_reads_cache(self):
         client = Mock()
         client.get.return_value = _json_response(_MIXED_TYPE_RESPONSE)

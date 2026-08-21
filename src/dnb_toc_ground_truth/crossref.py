@@ -197,6 +197,8 @@ def fetch_crossref_book(
     items = _query_crossref(isbn, client, contact_email)
     if items is None:
         return CrossrefBookData(isbn=isbn, doi=None, chapters=(), fetched_at="")
+    if len(items) == 100:
+        print(f"  [warn] Crossref returned {len(items)} items for {isbn} (rows cap) -- book DOI or chapters may be incomplete")
 
     doi = _book_doi(items)
     chapters = tuple(c for item in items if (c := _parse_chapter_item(item)) is not None)
