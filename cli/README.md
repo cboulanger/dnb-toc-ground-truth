@@ -8,20 +8,20 @@ change.
 ## `arbitrate.py`
 
 Surfaces books whose model reads didn't clear `generate_ground_truth.py`'s
-agreement gate, so a human/Claude session can arbitrate the conflict
-directly -- see `CLAUDE.md`'s "Arbitrating below-gate books". This
+agreement gate, so an AI agent (or human) session can arbitrate the conflict
+directly -- see `AGENTS.md`'s "Arbitrating below-gate books". This
 script only REPORTS and records rejections; it never decides.
 
 ```
 usage: arbitrate.py [-h] {list,reject} ...
 
 Surfaces pilot-corpus books whose two vision-model TOC extractions didn't
-clear cli/generate_ground_truth.py's agreement gate, so a Claude Code session
-can arbitrate the conflict directly -- see design spec
-docs/superpowers/specs/2026-08-16-dnb-toc-arbitration-design.md. This script
-only REPORTS and records rejections; it never decides. The arbitrator reads a
-book's report, opens the PDF's actual TOC pages via the Read tool when the
-text alone doesn't settle it, then either writes data/corpus/pilot/ground-
+clear cli/generate_ground_truth.py's agreement gate, so a strong, multimodal
+AI agent (such as Claude) can arbitrate the conflict directly -- see design
+spec docs/superpowers/specs/2026-08-16-dnb-toc-arbitration-design.md. This
+script only REPORTS and records rejections; it never decides. The arbitrator
+reads a book's report, opens the PDF's actual TOC pages via the Read tool when
+the text alone doesn't settle it, then either writes data/corpus/pilot/ground-
 truth/<key>.expected.json directly (same schema as a passing book, "verified":
 true) or runs this script's `reject` subcommand to permanently record the book
 as unrecoverable.
@@ -128,7 +128,7 @@ options:
                         Path to the endpoints file (default: .endpoints, or
                         config file's "endpoints_file")
   --config-file CONFIG_FILE
-                        Path to the config file (default: .config)
+                        Path to the config file (default: .config.json)
   --gate-threshold GATE_THRESHOLD
                         Whole-book agreement threshold, 0-1 (default: 0.90, or
                         config file's "gate_threshold")

@@ -1,7 +1,8 @@
 """Surfaces pilot-corpus books whose two vision-model TOC extractions
 didn't clear cli/generate_ground_truth.py's agreement gate, so a
-Claude Code session can arbitrate the conflict directly -- see design
-spec docs/superpowers/specs/2026-08-16-dnb-toc-arbitration-design.md.
+strong, multimodal AI agent (such as Claude) can arbitrate the conflict
+directly -- see design spec
+docs/superpowers/specs/2026-08-16-dnb-toc-arbitration-design.md.
 This script only REPORTS and records rejections; it never decides. The
 arbitrator reads a book's report, opens the PDF's actual TOC pages via
 the Read tool when the text alone doesn't settle it, then either writes
@@ -111,7 +112,7 @@ def format_book_report(
     kinds: dict[str, str] | None = None,
 ) -> str:
     """Human-readable diff for one book -- the actual disagreement, ready
-    for Claude (or a human) to arbitrate. Handles the normal two-model
+    for an AI agent (or a human) to arbitrate. Handles the normal two-model
     case, the single-surviving-model case (the other model's response
     was empty/malformed), and defensively falls back to a plain per-model
     listing for any other count. Each model name in the rendered report is

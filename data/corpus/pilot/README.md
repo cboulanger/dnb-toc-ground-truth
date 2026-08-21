@@ -18,7 +18,7 @@ list of that:
     {"title": "...", "authors": ["..."], "printed_page_number": "N", "skip": false}
   ],
   "verified": true,
-  "source": "claude_arbitration"
+  "source": "agent_arbitration"
 }
 ```
 
@@ -75,20 +75,21 @@ where the last run left off. A pre-2026-08-17 `bulk_gate` file (missing
 the `"skip"` key -- see above) is the one exception: it's treated as
 undecided and silently regenerated under the current verbatim standard,
 since it was never human-reviewed anyway; a pre-2026-08-17
-`claude_arbitration` file is left untouched instead, per this repo's own
-`CLAUDE.md`'s note on retrofitting those by hand:
+`agent_arbitration` file is left untouched instead, per this repo's own
+`AGENTS.md`'s note on retrofitting those by hand:
 
 ```bash
 cp .endpoints.dist .endpoints  # fill in real values, see docs/llm-inference-providers.md
 uv run python cli/generate_ground_truth.py --use-vision <model-a>,<model-b> --limit 100 --concurrency 4
 ```
 
-**Arbitration** (`"verified": true, "source": "claude_arbitration"`) — for
+**Arbitration** (`"verified": true, "source": "agent_arbitration"`) — for
 books the bulk tier skipped (models disagreed, or one/both failed outright).
 `cli/arbitrate.py` surfaces each one's raw extractions
 (from `llm-cache/<schema-version>/<key>.<model>.json`, kept regardless of
-gate outcome) side by side; a human (or Claude Code, per this repo's own
-`CLAUDE.md`) reads the disagreement, opens the actual TOC page images when
+gate outcome) side by side; a strong, multimodal AI agent (such as
+Claude, per this repo's own `AGENTS.md`) or a human reads the
+disagreement, opens the actual TOC page images when
 the text diff alone doesn't settle it, and hand-writes the final
 `.expected.json`, transcribing every printed line (not just chapters) with
 the same `"skip"` flag convention as the bulk tier. A book that turns out

@@ -4,7 +4,7 @@ __pycache__/
 .pytest_cache/
 .DS_Store
 .endpoints
-.config
+.config.json
 data/corpus/pilot/pdf/
 data/corpus/pilot/.lobid-cache/
 data/corpus/pilot/.locks/

@@ -7,7 +7,11 @@ it never deletes any endpoint's cached raw extraction
 (`data/corpus/pilot/llm-cache/<key>.<model>.json`). Rather than
 re-running the whole book from scratch or leaving it discarded, walk
 through the following after a generation run leaves books below the
-gate (design spec `docs/superpowers/specs/2026-08-16-dnb-toc-arbitration-design.md`):
+gate (design spec `docs/superpowers/specs/2026-08-16-dnb-toc-arbitration-design.md`).
+
+This arbitration work -- and manual inspection generally, wherever the
+gate's weaker models fail -- is done by a strong, multimodal AI agent
+(such as Claude), not by a human reading the scans directly:
 
 1. List every book still needing a decision:
 
@@ -35,12 +39,12 @@ gate (design spec `docs/superpowers/specs/2026-08-16-dnb-toc-arbitration-design.
 
 4. Write the final `data/corpus/pilot/ground-truth/<key>.expected.json`
    yourself -- same schema as a passing book
-   (`{"entries": [...], "verified": true, "source": "claude_arbitration"}`,
+   (`{"entries": [...], "verified": true, "source": "agent_arbitration"}`,
    each entry via `dnb_toc_ground_truth.matching.toc_entry_to_gt_dict`),
    but with `"verified": true` rather than `false`: unlike the bulk-tier
    gate's own output, this went through direct scrutiny (including the
    images, when needed) -- excluded from `_spot_check`'s sampling pool
-   going forward. The `"source": "claude_arbitration"` field (vs. the
+   going forward. The `"source": "agent_arbitration"` field (vs. the
    bulk gate's own `"source": "bulk_gate"`) records that this entry's
    ground truth came from an arbitrated review, not the automated
    agreement gate.

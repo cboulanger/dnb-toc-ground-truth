@@ -16,7 +16,7 @@ from openai import AsyncOpenAI
 
 DEFAULT_TIMEOUT = 90.0
 DEFAULT_ENDPOINTS_FILENAME = ".endpoints"
-DEFAULT_CONFIG_FILENAME = ".config"
+DEFAULT_CONFIG_FILENAME = ".config.json"
 
 _MODEL_ARG_RE = re.compile(r"--model[= ](\S+)")
 

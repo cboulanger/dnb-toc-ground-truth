@@ -262,7 +262,7 @@ def _is_stale_bulk_gate_entry(gt_path: Path) -> bool:
     missing the "skip" key on at least one entry -- the current
     extraction standard (verbatim per-line extraction plus a "skip"
     flag) always sets it, so its absence marks a file written to an
-    older standard that should be regenerated. A "claude_arbitration"
+    older standard that should be regenerated. An "agent_arbitration"
     file is never touched here regardless of this check."""
     try:
         data = json.loads(gt_path.read_text(encoding="utf-8"))

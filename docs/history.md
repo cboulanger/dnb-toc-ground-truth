@@ -9,15 +9,15 @@ lost.
 
 ## Current status
 
-`dnb-toc-only` has **612 books with ground truth** out of ~1251 in the
-manifest (~639 never yet attempted). Each passed either the automated
-two-vision-model >=90%-agreement gate (`"source": "bulk_gate"`,
-`"verified": false`) or direct human/Claude review against the real PDF
-page images (`"source": "claude_arbitration"`, `"verified": true`).
+`dnb-toc-only` has **547 books with ground truth** out of ~1251 in the
+manifest (~704 never yet attempted or awaiting arbitration). Each passed
+either the automated two-vision-model >=90%-agreement gate
+(`"source": "bulk_gate"`, `"verified": false`) or direct review by a
+strong, multimodal AI agent (such as Claude) or a human against the real
+PDF page images (`"source": "agent_arbitration"`, `"verified": true`).
 Books currently used as the two vision-capable models:
-`Qwen/Qwen3-Omni-30B-A3B-Instruct` (also cached under the older
-KISSKI-era ID `qwen3-omni-30b-a3b-instruct` -- see the data gotcha
-below) and `mistralai/Mistral-Small-3.2-24B-Instruct-2506`.
+`Qwen/Qwen3-Omni-30B-A3B-Instruct` and
+`mistralai/Mistral-Small-3.2-24B-Instruct-2506`.
 
 ### Known model weaknesses
 
@@ -67,17 +67,6 @@ agreement number:**
   everything after it look like a disagreement even when the underlying
   readings mostly agree -- check the whole sequence, not just individual
   mismatched pairs, before concluding a book is a genuine mess.
-
-### A data gotcha to watch for
-
-`Qwen/Qwen3-Omni-30B-A3B-Instruct` (MPCDF-hosted) and
-`qwen3-omni-30b-a3b-instruct` (older KISSKI-hosted) are cached under two
-different literal model-ID strings but are the same underlying model.
-The pipeline does not canonicalize this -- a book whose only two cached
-"models" are these two labels has NOT been cross-model-verified, no
-matter how well they agree with each other. Treat such a book as a
-single-model book (verify directly against the real page image) rather
-than trusting the apparent agreement.
 
 ## History
 
@@ -845,3 +834,31 @@ has failed a *different* one of these three, which is why the search has
 felt like it keeps finding new problems rather than converging --
 narrowing on any future candidate should check all three before spending
 a batch on it, not just the one that sank the previous attempt.
+
+### Qwen model-ID duplication cleaned up, 76 falsely-passed books re-checked (2026-08-21)
+
+Resolved the "data gotcha" this section used to warn about:
+`Qwen/Qwen3-Omni-30B-A3B-Instruct` (MPCDF-hosted) and
+`qwen3-omni-30b-a3b-instruct` (older KISSKI-hosted) were the same
+underlying model cached under two different literal ID strings, so any
+book whose only two cached "models" were these two labels had never
+actually been cross-model-verified -- `gate_books` was picking that pair
+as its highest-agreeing (near-identical, same model, same
+temperature=0.0 request) match and passing the book on it, same as any
+other Qwen3-Omni-30B-A3B-Instruct read of itself.
+
+Fixed by canonicalizing `llm-cache/v2/`: every KISSKI-era
+`qwen3-omni-30b-a3b-instruct` cache file was renamed to the MPCDF
+model-ID naming where no canonical file already existed for that book
+(540 files), or deleted as a redundant duplicate where one did (128
+files, since both are the same model's output). Of those 128, 76 were
+the only two "models" backing a passing `"source": "bulk_gate"` book --
+each was reverted (`.expected.json` deleted) and re-checked from cache
+against the real second model, `mistralai/Mistral-Small-3.2-24B-Instruct-2506`,
+with no live endpoint calls needed. 11 re-passed on genuine two-model
+agreement (their previous "winning pair" turned out to already be
+Qwen-vs-Mistral despite the duplicate also being cached, so their
+`.expected.json` came back byte-identical); the other 65 dropped back to
+needing arbitration via `cli/arbitrate.py`, per this section's own former
+advice to treat a duplicate-only book as unverified. Net change: 612 ->
+547 ground-truthed books.

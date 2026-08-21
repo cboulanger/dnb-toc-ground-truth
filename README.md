@@ -4,7 +4,8 @@ A pilot case for generating structured, machine-checkable ground truth
 from openly available data -- the Deutsche Nationalbibliothek's
 CC0-licensed "Kataloganreicherung" table-of-contents scans -- using
 independent LLM reads gated against each other for agreement, with
-human/Claude arbitration for the disagreements.
+arbitration by a strong, multimodal AI agent (such as Claude) or a
+human for the disagreements.
 
 The output (`data/corpus/pilot/ground-truth/*.expected.json`) is meant
 as an input to *other* pipelines, not an end in itself: fine-tuning a
@@ -14,6 +15,35 @@ corpus without depending on this repo's own LLM pipeline. The LLM-based
 generation pipeline in this repo is the means of producing that data,
 not the point -- the point is the ground-truth data itself, general
 enough to feed pipelines this repo doesn't build.
+
+If you are an AI agent asked to work on this repo, read `AGENTS.md`
+first -- it documents the arbitration workflow you're expected to
+follow for books the automated gate can't resolve on its own.
+
+## Methodology
+
+Each book's ground truth comes from one of two routes:
+
+- **Two-model agreement** (`"source": "bulk_gate"`, `"verified": false`)
+  -- two independent vision-LLM reads of the same TOC page images are
+  diffed against each other (`dnb_toc_ground_truth.matching.gate_books`);
+  if the best-agreeing pair matches on at least 90% of entries, that
+  merge is written out directly, with no review by anyone.
+- **Full arbitration** (`"source": "agent_arbitration"`, `"verified": true`)
+  -- for every book the gate can't auto-resolve (the two models disagree,
+  or one/both fail outright), a strong, multimodal AI agent such as
+  Claude reads the actual TOC page images directly and transcribes the
+  ground truth by hand (see `AGENTS.md`). This is generally done by an
+  AI agent, not a human, since it scales far better across a corpus this
+  size.
+
+As of the last count (`docs/history.md`'s "Current status"), **~69% of
+ground-truthed books (375 of 547) needed full arbitration** -- the
+two-model gate alone resolved the rest. That arbitration rate is the
+project's core efficiency metric: the aim is to iteratively improve the
+gate (better prompts, better-paired models, a higher-quality second
+reader) so fewer books need a frontier-model agent's direct attention,
+not to keep leaning on arbitration indefinitely.
 
 ## Setup
 
@@ -34,11 +64,11 @@ enough to feed pipelines this repo doesn't build.
 
    ```bash
    cp .endpoints.dist .endpoints
-   cp .config.dist .config
+   cp .config.json.dist .config.json
    ```
 
    `.endpoints` lists every inference endpoint you can call (see
-   `docs/llm-inference-providers.md`); `.config` sets defaults for
+   `docs/llm-inference-providers.md`); `.config.json` sets defaults for
    `cli/generate_ground_truth.py`'s flags (which models to use, gate
    threshold, concurrency) so you don't have to repeat them on every
    invocation.

@@ -580,8 +580,8 @@ class TestStillNeedsADecision(unittest.TestCase):
             self.assertFalse(_still_needs_a_decision(book, set(), set()))
 
     def test_false_for_a_stale_arbitration_file_never_auto_reprocessed(self):
-        # Unlike a stale bulk_gate file, a claude_arbitration file went
-        # through direct human/Claude review -- it must never be silently
+        # Unlike a stale bulk_gate file, an agent_arbitration file went
+        # through direct human/AI-agent review -- it must never be silently
         # overwritten by an automated, unreviewed re-run just because it
         # also predates the "skip" key. Retrofitting it is a deliberate
         # manual task, not this function's job.
@@ -589,7 +589,7 @@ class TestStillNeedsADecision(unittest.TestCase):
             corpus.ground_truth_dir().mkdir(parents=True)
             corpus.expected_json_path("book1").write_text(
                 json.dumps({"entries": [{"title": "Einleitung", "authors": [], "printed_page_number": "9"}],
-                            "verified": True, "source": "claude_arbitration"}),
+                            "verified": True, "source": "agent_arbitration"}),
                 encoding="utf-8",
             )
             book = {"filename": "book1.pdf"}
@@ -622,7 +622,7 @@ class TestIsStaleBulkGateEntry(unittest.TestCase):
             path = Path(tmp) / "book1.expected.json"
             path.write_text(
                 json.dumps({"entries": [{"title": "X", "authors": [], "printed_page_number": "1"}],
-                            "verified": True, "source": "claude_arbitration"}),
+                            "verified": True, "source": "agent_arbitration"}),
                 encoding="utf-8",
             )
             self.assertFalse(_is_stale_bulk_gate_entry(path))
