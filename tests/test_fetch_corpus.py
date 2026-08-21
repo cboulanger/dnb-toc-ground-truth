@@ -15,7 +15,7 @@ from unittest.mock import Mock, patch
 
 import httpx
 
-from dnb_toc_ground_truth import corpus
+from dnb_toc_ground_truth import corpus, crossref
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "cli"))
 
@@ -255,6 +255,71 @@ class TestAcquireRecord(unittest.TestCase):
             data = json.loads(manifest_path.read_text(encoding="utf-8"))
             self.assertEqual(data["books"], [])
             self.assertEqual(seen_keys, set())
+
+
+class TestAcquireRecordCrossref(unittest.TestCase):
+    """_acquire_record's Crossref hook -- see TestAcquireRecord's own
+    docstring for the tempdir-isolation pattern this reuses."""
+
+    def _setup(self, tmp):
+        manifest_path = corpus.manifest_path()
+        _ensure_manifest_shell(manifest_path)
+        return manifest_path
+
+    def test_writes_doi_found_via_crossref(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            manifest_path = self._setup(tmp)
+            pdf_response = Mock()
+            pdf_response.raise_for_status = Mock()
+            pdf_response.content = b"%PDF-1.4 fake toc bytes"
+            crossref_response = _json_response(
+                {"message": {"items": [{"type": "book", "DOI": "10.1515/book-doi", "title": ["X"]}]}}
+            )
+            client = Mock()
+            client.get.side_effect = [pdf_response, crossref_response]
+            seen_keys = set()
+
+            result = _acquire_record(
+                _SAMPLE_RECORD, manifest_path, client, 0, seen_keys, contact_email="me@example.org",
+            )
+
+            self.assertIsNone(result)
+            data = json.loads(manifest_path.read_text(encoding="utf-8"))
+            self.assertEqual(data["books"][0]["doi"], "10.1515/book-doi")
+            cache_path = corpus.crossref_cache_dir() / "9783899718188.crossref.json"
+            self.assertTrue(cache_path.exists())
+
+    def test_crossref_failure_leaves_doi_null_and_still_acquires(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            manifest_path = self._setup(tmp)
+            pdf_response = Mock()
+            pdf_response.raise_for_status = Mock()
+            pdf_response.content = b"%PDF-1.4 fake toc bytes"
+            client = Mock()
+            client.get.side_effect = [pdf_response, httpx.HTTPError("boom")]
+            seen_keys = set()
+
+            result = _acquire_record(_SAMPLE_RECORD, manifest_path, client, 0, seen_keys)
+
+            self.assertIsNone(result)
+            data = json.loads(manifest_path.read_text(encoding="utf-8"))
+            self.assertIsNone(data["books"][0]["doi"])
+
+    def test_non_isbn_key_skips_crossref_lookup_entirely(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            manifest_path = self._setup(tmp)
+            record = {k: v for k, v in _SAMPLE_RECORD.items() if k != "isbn"}
+            pdf_response = Mock()
+            pdf_response.raise_for_status = Mock()
+            pdf_response.content = b"%PDF-1.4 fake toc bytes"
+            client = Mock()
+            client.get.return_value = pdf_response
+            seen_keys = set()
+
+            result = _acquire_record(record, manifest_path, client, 0, seen_keys)
+
+            self.assertIsNone(result)
+            client.get.assert_called_once()  # only the PDF download, no Crossref lookup
 
 
 class TestScanAndAcquire(unittest.TestCase):

@@ -41,7 +41,7 @@ from urllib.parse import urlsplit
 
 import httpx
 
-from dnb_toc_ground_truth import corpus
+from dnb_toc_ground_truth import corpus, crossref, inference
 
 _DUMP_URL_DEFAULT = "https://lobid.org/download/dumps/lobid-resources/latestLobidResources.jsonl.gz"
 _SEARCH_URL = "https://lobid.org/resources/search"
@@ -239,6 +239,8 @@ def _acquire_record(
     client: httpx.Client,
     rate_limit_seconds: float,
     seen_keys: set[str],
+    contact_email: Optional[str] = None,
+    crossref_cache_dir: Optional[Path] = None,
 ) -> Optional[str]:
     """Downloads one matched record's TOC PDF and appends its manifest
     entry. Returns None iff a new book was acquired (so callers can count
@@ -270,14 +272,25 @@ def _acquire_record(
     (corpus.lobid_cache_dir() / f"{key}.lobid.json").write_text(
         json.dumps(record, indent=2, ensure_ascii=False) + "\n", encoding="utf-8",
     )
-    _append_book(manifest_path, manifest_entry_from_record(record, filename))
+    entry = manifest_entry_from_record(record, filename)
+    isbn = crossref.normalize_isbn(key)
+    if isbn:
+        crossref_data = crossref.fetch_crossref_book(
+            isbn, client, contact_email, crossref_cache_dir or corpus.crossref_cache_dir(),
+        )
+        if crossref_data.doi:
+            entry["doi"] = crossref_data.doi
+    _append_book(manifest_path, entry)
     seen_keys.add(key)
     print(f"[fetch] {filename} <- {toc_url}")
     time.sleep(rate_limit_seconds)
     return None
 
 
-def _run_isbns_file(args: argparse.Namespace, manifest_path: Path, client: httpx.Client) -> None:
+def _run_isbns_file(
+    args: argparse.Namespace, manifest_path: Path, client: httpx.Client,
+    contact_email: Optional[str], crossref_cache_dir: Path,
+) -> None:
     seen_keys = _load_existing_keys(manifest_path)
     acquired = 0
     for isbn in _read_isbns_file(Path(args.isbns_file)):
@@ -291,7 +304,10 @@ def _run_isbns_file(args: argparse.Namespace, manifest_path: Path, client: httpx
         if record is None:
             print(f"[skip] {isbn}: no lobid-resources record found")
             continue
-        reason = _acquire_record(record, manifest_path, client, args.rate_limit_seconds, seen_keys)
+        reason = _acquire_record(
+            record, manifest_path, client, args.rate_limit_seconds, seen_keys,
+            contact_email, crossref_cache_dir,
+        )
         if reason is None:
             acquired += 1
         else:
@@ -307,6 +323,8 @@ def _scan_and_acquire(
     limit: Optional[int],
     seen_keys: set[str],
     acquired_so_far: int,
+    contact_email: Optional[str] = None,
+    crossref_cache_dir: Optional[Path] = None,
 ) -> tuple[int, int]:
     """Consumes records from the given iterator, acquiring matches until
     either the iterator is exhausted or acquired_so_far plus newly
@@ -324,7 +342,10 @@ def _scan_and_acquire(
             print(f"[scan] {scanned:,} records scanned this attempt, {acquired_so_far + acquired} acquired so far")
         if limit is not None and acquired_so_far + acquired >= limit:
             break
-        reason = _acquire_record(record, manifest_path, client, rate_limit_seconds, seen_keys)
+        reason = _acquire_record(
+            record, manifest_path, client, rate_limit_seconds, seen_keys,
+            contact_email, crossref_cache_dir,
+        )
         if reason is None:
             acquired += 1
         elif reason.startswith("download failed"):
@@ -337,7 +358,10 @@ def _scan_and_acquire(
     return scanned, acquired
 
 
-def _run_from_dump(args: argparse.Namespace, manifest_path: Path, client: httpx.Client) -> None:
+def _run_from_dump(
+    args: argparse.Namespace, manifest_path: Path, client: httpx.Client,
+    contact_email: Optional[str], crossref_cache_dir: Path,
+) -> None:
     seen_keys = _load_existing_keys(manifest_path)
     acquired = 0
     attempt = 0
@@ -346,6 +370,7 @@ def _run_from_dump(args: argparse.Namespace, manifest_path: Path, client: httpx.
             scanned, newly = _scan_and_acquire(
                 _iter_dump_records(args.dump_url, client), manifest_path, client,
                 args.rate_limit_seconds, args.limit, seen_keys, acquired,
+                contact_email, crossref_cache_dir,
             )
             acquired += newly
             if args.limit is not None and acquired >= args.limit:
@@ -404,20 +429,35 @@ def main() -> int:
             "finishes, without touching the committed file mid-run."
         ),
     )
+    parser.add_argument(
+        "--contact-email", default=None,
+        help="Crossref polite-pool contact email (default: config file's \"contact_email\")",
+    )
+    parser.add_argument(
+        "--crossref-cache-dir", type=Path, default=None,
+        help="Override where Crossref DOI/chapter data is cached (default: data/corpus/pilot/.crossref-cache/)",
+    )
+    parser.add_argument(
+        "--config-file", type=Path, default=Path(inference.DEFAULT_CONFIG_FILENAME),
+        help=f"Path to the config file (default: {inference.DEFAULT_CONFIG_FILENAME})",
+    )
     args = parser.parse_args()
 
     corpus.corpus_dir().mkdir(parents=True, exist_ok=True)
     manifest_path = args.manifest_path or corpus.manifest_path()
     _ensure_manifest_shell(manifest_path)
+    config = inference.load_config(args.config_file)
+    contact_email = args.contact_email or config.get("contact_email")
+    crossref_cache_dir = args.crossref_cache_dir or corpus.crossref_cache_dir()
 
     with httpx.Client(
         follow_redirects=True,
         timeout=httpx.Timeout(connect=30.0, read=120.0, write=30.0, pool=30.0),
     ) as client:
         if args.isbns_file:
-            _run_isbns_file(args, manifest_path, client)
+            _run_isbns_file(args, manifest_path, client, contact_email, crossref_cache_dir)
         else:
-            _run_from_dump(args, manifest_path, client)
+            _run_from_dump(args, manifest_path, client, contact_email, crossref_cache_dir)
     return 0
 
 
