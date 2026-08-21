@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+.endpoints
+.config
+data/corpus/pilot/pdf/
+data/corpus/pilot/.lobid-cache/
+data/corpus/pilot/.locks/
+data/corpus/pilot/.layout-cache/

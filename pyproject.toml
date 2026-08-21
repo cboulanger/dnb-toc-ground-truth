@@ -1,0 +1,33 @@
+[project]
+name = "dnb-toc-ground-truth"
+version = "0.1.0"
+description = "Pilot: structured ground truth from DNB's open table-of-contents scans, via gated independent LLM reads"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pypdf>=5.1.0",
+    "rapidfuzz>=3.10.0",
+    "openai>=1.0.0",
+    "httpx>=0.27.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+python_files = "test_*.py"
+python_classes = "Test*"
+python_functions = "test_*"
+asyncio_mode = "auto"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/dnb_toc_ground_truth"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3.0",
+    "pytest-asyncio>=0.24.0",
+]
