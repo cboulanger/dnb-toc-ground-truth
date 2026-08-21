@@ -1,0 +1,175 @@
+{
+  "entries": [
+    {
+      "title": "Fashion and Art: Critical Crossovers",
+      "authors": [
+        "Adam Geczy",
+        "Vicki Karaminas"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "List of Plates",
+      "authors": [],
+      "printed_page_number": "ix",
+      "skip": true
+    },
+    {
+      "title": "Acknowledgments",
+      "authors": [],
+      "printed_page_number": "xi",
+      "skip": true
+    },
+    {
+      "title": "1 Fashion",
+      "authors": [
+        "Valerie Steele"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "List of Contributors",
+      "authors": [],
+      "printed_page_number": "xiii",
+      "skip": true
+    },
+    {
+      "title": "2 Art",
+      "authors": [
+        "Nancy J. Troy"
+      ],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "3 Aesthetics",
+      "authors": [
+        "Llewellyn Negrin"
+      ],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "4 Modernity",
+      "authors": [
+        "Adam Geczy"
+      ],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "5 Conceptual Fashion",
+      "authors": [
+        "Hazel Clark"
+      ],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "6 Body",
+      "authors": [
+        "Joanne B. Eicher"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "7 Beauty",
+      "authors": [
+        "Morag Martin"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "8 Boundaries",
+      "authors": [
+        "Diana Crane"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "9 Authenticity",
+      "authors": [
+        "Efrat Tse\u00eblon"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "10 Performance",
+      "authors": [
+        "Herbert Blau"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "11 Dressing Up",
+      "authors": [
+        "Mary Gluck"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "12 Clothing",
+      "authors": [
+        "Margaret Maynard"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "13 Patronage",
+      "authors": [
+        "Nicky Ryan"
+      ],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "14 Painting",
+      "authors": [
+        "Aileen Ribeiro"
+      ],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "15 Image",
+      "authors": [
+        "Vicki Karaminas"
+      ],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "16 Exhibition",
+      "authors": [
+        "Alistair O'Neill"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "17 Curating an Exhibition",
+      "authors": [
+        "Barbara Heinemann"
+      ],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "211",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

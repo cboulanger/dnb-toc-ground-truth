@@ -1,0 +1,112 @@
+{
+  "entries": [
+    {
+      "title": "INHALTSVERZEICHNIS",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "VII",
+      "skip": true
+    },
+    {
+      "title": "Rheinische Großstädte nach dem Ende des Zweiten Weltkrieges. Notverwaltung oder Neubeginn?",
+      "authors": [
+        "Horst Matzerath"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Aachen am Ende des Zweiten Weltkrieges: Auftakt zur Nachkriegszeit?",
+      "authors": [
+        "Klaus Schwabe"
+      ],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "Alltagsgeschichte der Nachkriegszeit – nach Berichten von Zeitzeugen",
+      "authors": [
+        "Herbert Schwedt"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "Luxemburg am Ende der Besatzungszeit und der Neuanfang",
+      "authors": [
+        "Emile Krier"
+      ],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "Trier und sein Umland in der Schlußphase des Zweiten Weltkriegs",
+      "authors": [
+        "Kurt Düwell"
+      ],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "Koblenz und der Mittelrhein zwischen Zerstörung und Wiederaufbau",
+      "authors": [
+        "Peter Brommer"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "Vom Westwall zu den Rheinwiesenlagern",
+      "authors": [
+        "Jost Dülffer"
+      ],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "Die Hungerjahre nach dem Zweiten Weltkrieg am Beispiel von Rheinland-Pfalz",
+      "authors": [
+        "Karl-Heinz Rothenberger"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "Politische Säuberung im Südwesten unter französischer Besatzung",
+      "authors": [
+        "Rainer Möhler"
+      ],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "Zerstörung und Aufbau in Mainz 1945-1948",
+      "authors": [
+        "Helmut Mathy"
+      ],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "1945 – Kriegsende und Neubeginn in Alzey und Umgebung. Anmerkungen zu einer Sonderausstellung des Museums der Stadt Alzey (28.4.-11.6.1995)",
+      "authors": [
+        "Rainer Karneth"
+      ],
+      "printed_page_number": "245",
+      "skip": false
+    },
+    {
+      "title": "Orts- und Personenregister",
+      "authors": [],
+      "printed_page_number": "251",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

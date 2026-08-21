@@ -1,0 +1,124 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Arbeit, Lohnarbeit, ohne Arbeit. Zur Soziologie der Arbeitslosigkeit",
+      "authors": [
+        "Wolfgang Bonß",
+        "Rolf G. Heinze"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "I. Arbeitslosigkeit als soziales Problem",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Der Arbeitslosigkeitsprozeß. Theorie und Empirie strukturierter Arbeitslosigkeit in der Bundesrepublik Deutschland",
+      "authors": [
+        "Christoph F. Büchtemann"
+      ],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "Soziale Strukturierung der Arbeitslosigkeit: Auf dem Weg zu einer gespaltenen Gesellschaft?",
+      "authors": [
+        "Rolf G. Heinze"
+      ],
+      "printed_page_number": "106",
+      "skip": false
+    },
+    {
+      "title": "Das Ende des Belastungsdiskurses? Zur subjektiven und gesellschaftlichen Bedeutung von Arbeitslosigkeit",
+      "authors": [
+        "Wolfgang Bonß",
+        "Heiner Keupp",
+        "Elmar Koenen"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "II. Historische Erfahrungen und internationaler Vergleich",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Arbeitslosigkeit und politische Systemkrise. Ein Rückblick auf die Weimarer Republik",
+      "authors": [
+        "Arno Klönne"
+      ],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "Massenarbeitslosigkeit und ihre sozialen und politischen Wirkungen in Großbritannien",
+      "authors": [
+        "Karlheinz Dürr"
+      ],
+      "printed_page_number": "214",
+      "skip": false
+    },
+    {
+      "title": "Antizyklischer Sozialismus? Französische Beschäftigungspolitik in der Ära Mitterrand",
+      "authors": [
+        "Wolfgang Fach",
+        "Georg Simonis"
+      ],
+      "printed_page_number": "244",
+      "skip": false
+    },
+    {
+      "title": "III. Politische Verarbeitung und politische Perspektiven",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Arbeitslosigkeit und Wahlverhalten",
+      "authors": [
+        "Wilhelm P. Bürklin",
+        "Jürgen Wiegand"
+      ],
+      "printed_page_number": "273",
+      "skip": false
+    },
+    {
+      "title": "Arbeitslosigkeit und Kommunale Sozialpolitik",
+      "authors": [
+        "Bernhard Blanke",
+        "Hubert Heinelt",
+        "Carl-Wilhelm Macke"
+      ],
+      "printed_page_number": "299",
+      "skip": false
+    },
+    {
+      "title": "Arbeitslose: Von der gesellschaftlichen Randgruppe zum politischen Faktor? Einige Hypothesen zur zukünftigen Entwicklung der Interessenvertretung von Arbeitslosen",
+      "authors": [
+        "Peter Grottian",
+        "Rolf Paasch"
+      ],
+      "printed_page_number": "331",
+      "skip": false
+    },
+    {
+      "title": "Zu den Autoren",
+      "authors": [],
+      "printed_page_number": "349",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

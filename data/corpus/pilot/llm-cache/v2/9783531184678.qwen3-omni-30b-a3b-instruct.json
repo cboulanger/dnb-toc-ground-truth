@@ -1,0 +1,653 @@
+{
+  "generated_at": 1787009773.3905978,
+  "entries": [
+    {
+      "title": "Danksagung",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Teil 1: Perspektiven aus der Wissenschaft",
+      "printed_page_number": "19",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "A Der Migrations- und Integrationsdiskurs",
+      "printed_page_number": "21",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Karim Fereidooni",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Karim Fereidooni"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Schlaglicher der bundesdeutschen Migrations- und Integrationspolitik seit 1945 bis zur Gegenwart",
+      "printed_page_number": "23",
+      "source_page_index": -1,
+      "authors": [
+        "Karim Fereidooni"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Arian Schiffer-Nasserie",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Arian Schiffer-Nasserie"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Migration, Armut und Rassismus: Aporien des Kampfes f\u00fcr Gleichberechtigung (nicht nur) im Bildungswesen",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [
+        "Arian Schiffer-Nasserie"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Yalcin Yildiz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Yalcin Yildiz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Abitur + Diplom + Doktor = Hartz IV? \u2013 Der Massen-Exodus bildungserfolgreicher Deutsch-T\u00fcrkInnen in die T\u00fcrkei",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Yalcin Yildiz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Klaus-Peter Hufer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Klaus-Peter Hufer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Argumentationstraining gegen Stammtischparolen \u2013 eine Perspektive f\u00fcr den Integrationsdiskurs?",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus-Peter Hufer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "B Bildungsbiographien, Erfahrungsberichte, Erwartungshaltungen",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Drorit Lengyel und Lisa Rosen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Drorit Lengyel",
+        "Lisa Rosen"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vielfalt im Lehrerzimmer?! \u2013 Erste Einblicke in ein Lern-/Lehr- und Forschungsprojekt mit Lehramtsstudentinnen mit Migrationshintergrund an der Universit\u00e4t zu K\u00f6ln",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "Drorit Lengyel",
+        "Lisa Rosen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Magdalena Knappik und Inci Dirim",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Magdalena Knappik",
+        "Inci Dirim"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Von Ressourcen zu Qualifikationen \u2013 Was es hei\u00dft, Lehrerin mit Migrationshintergrund zu sein",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "Magdalena Knappik",
+        "Inci Dirim"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Y\u00fcksel Ekin\u00e7i-Kocks",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Y\u00fcksel Ekin\u00e7i-Kocks"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Interkulturelle Kommunikation: Interkulturelle Konflikte \u2013 M\u00f6gliche Vermittlerfunktion der Lehrkr\u00e4fte (Ein Fallbeispiel)",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [
+        "Y\u00fcksel Ekin\u00e7i-Kocks"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "C Bildungspolitik bzw. das deutsche Schulwesen",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Coskun Canan",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Coskun Canan"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bildungssituation von Einheimischen mit t\u00fcrkischem Migrationshintergrund: Stand und Perspektiven",
+      "printed_page_number": "107",
+      "source_page_index": -1,
+      "authors": [
+        "Coskun Canan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kemal Bozay",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Kemal Bozay"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Probleme und Ursachen der Re-Ethnisierung und Selbstethnisierung im Klassenzimmer",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "Kemal Bozay"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ebru Tepecik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ebru Tepecik"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Schule in der Einwanderungsgesellschaft: Ressourcen erkennen und Potenziale f\u00f6rdern",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [
+        "Ebru Tepecik"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nausikaa Schirilla",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Nausikaa Schirilla"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bildungsgerechtigkeit f\u00fcr Migrantinnen und Migranten \u2013 zu einigen aktuellen politischen Ans\u00e4tzen und ihren Grenzen",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [
+        "Nausikaa Schirilla"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "D Reformvorschl\u00e4ge f\u00fcr ein gerechtes deutsches Bildungssystem",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Karim Hassan",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Karim Hassan"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Fremdes und Eigenes im Kontinuum \u2013 Hybridit\u00e4t als Konzept f\u00fcr eine interkulturelle Bildung",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [
+        "Karim Hassan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erol Yildiz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Erol Yildiz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Von der schulischen Selektion zu einer diversit\u00e4tsbewussten Bildung",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [
+        "Erol Yildiz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antonietta P. Zeoli",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Antonietta P. Zeoli"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Chim\u00e4re einer interkulturellen Schule ohne Zuwanderer, sondern mit Menschen",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [
+        "Antonietta P. Zeoli"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anne Sliwka",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Anne Sliwka"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Diversit\u00e4t als Chance und als Ressource in der Gestaltung wirksamer Lernprozesse",
+      "printed_page_number": "169",
+      "source_page_index": -1,
+      "authors": [
+        "Anne Sliwka"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hamid Reza Yousefi",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hamid Reza Yousefi"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Interkulturalit\u00e4t als eine akademische Lehrdisziplin",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [
+        "Hamid Reza Yousefi"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil II: Perspektiven aus der Schule",
+      "printed_page_number": "193",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "A Der Migrations- und Integrationsdiskurs",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Shahriar Parvizi",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Shahriar Parvizi"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Integration mal anders",
+      "printed_page_number": "197",
+      "source_page_index": -1,
+      "authors": [
+        "Shahriar Parvizi"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anonyme(r) AutorIn I",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Anonyme(r) AutorIn I"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Danke Deutschland",
+      "printed_page_number": "203",
+      "source_page_index": -1,
+      "authors": [
+        "Anonyme(r) AutorIn I"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "B Bildungsbiographien",
+      "printed_page_number": "209",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Nilg\u00fcn Isfendiyar",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Nilg\u00fcn Isfendiyar"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Leidenschaftlich und professionell",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [
+        "Nilg\u00fcn Isfendiyar"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jelena Antonijevic",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Jelena Antonijevic"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Individualit\u00e4t st\u00e4rken",
+      "printed_page_number": "217",
+      "source_page_index": -1,
+      "authors": [
+        "Jelena Antonijevic"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anonyme(r) AutorIn II",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Anonyme(r) AutorIn II"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Meine Bildungsbiographie",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [
+        "Anonyme(r) AutorIn II"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00c7a\u011fatay G\u00fcrgen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "\u00c7a\u011fatay G\u00fcrgen"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\"Katr\u0131n?!\"",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [
+        "\u00c7a\u011fatay G\u00fcrgen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "C Erfahrungsberichte und Erwartungshaltungen",
+      "printed_page_number": "229",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Andrzej Bojarski",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Andrzej Bojarski"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Polnische Tipps f\u00fcr ein deutsches Abitur in Ostfriesland",
+      "printed_page_number": "231",
+      "source_page_index": -1,
+      "authors": [
+        "Andrzej Bojarski"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Muhammed Giraz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Muhammed Giraz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ein Pl\u00e4doyer f\u00fcr mehr Vorbilder mit Kopf, Herz und Hand",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [
+        "Muhammed Giraz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Tagrid Yousef",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Tagrid Yousef"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gibt es eine Zukunft der Inklusion innerhalb der Lehrerschaft?",
+      "printed_page_number": "239",
+      "source_page_index": -1,
+      "authors": [
+        "Tagrid Yousef"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Halis Kirdis (aus dem T\u00fcrkischen \u00fcbersetzt von Ali \u00d6g\u00fctl)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hal\u0131s Kirdis"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Meine Zeit als T\u00fcrkischlehrer in einer \u201et\u00fcrkischen Modellklasse\u201c an einem deutschen Gymnasium",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [
+        "Hal\u0131s Kirdis"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "D Bildungspolitik bzw. das deutsche Schulwesen/Reformvorschl\u00e4ge",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Andreas Prieb",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Prieb"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das deutsche Schulsystem aus der Sicht eines Berufsschullehrers",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Prieb"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

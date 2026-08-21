@@ -1,0 +1,90 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Leitfäden einer unwahrscheinlichen Debatte",
+      "authors": [
+        "Philippe Forget"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Text und Interpretation",
+      "authors": [
+        "Hans-Georg Gadamer"
+      ],
+      "printed_page_number": "24",
+      "skip": false
+    },
+    {
+      "title": "Guter Wille zur Macht (I). Drei Fragen an Hans-Georg Gadamer",
+      "authors": [
+        "Jacques Derrida"
+      ],
+      "printed_page_number": "56",
+      "skip": false
+    },
+    {
+      "title": "Und dennoch: Macht des guten Willens",
+      "authors": [
+        "Hans-Georg Gadamer"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "Guter Wille zur Macht (II). Die Unterschriften interpretieren (Nietzsche/Heidegger)",
+      "authors": [
+        "Jacques Derrida"
+      ],
+      "printed_page_number": "62",
+      "skip": false
+    },
+    {
+      "title": "Anti-Hermes",
+      "authors": [
+        "François Laruelle"
+      ],
+      "printed_page_number": "78",
+      "skip": false
+    },
+    {
+      "title": "Der Streit der Universalitäten",
+      "authors": [
+        "Jean Greisch"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "Aus der Seele geschrie(b)en? Zur Problematik des ‚Schreibens‘ (écriture) in Goethes ‚Werther‘",
+      "authors": [
+        "Philippe Forget"
+      ],
+      "printed_page_number": "130",
+      "skip": false
+    },
+    {
+      "title": "Die Grenzen der Beherrschbarkeit der Sprache. Das Gespräch als Ort der Differenz zwischen Neostrukturalismus und Hermeneutik",
+      "authors": [
+        "Manfred Frank"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "Auswahlbibliographie",
+      "authors": [],
+      "printed_page_number": "215",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

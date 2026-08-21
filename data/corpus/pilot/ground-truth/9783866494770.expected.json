@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "title": "Einleitung",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Theoretische Zugänge",
+      "authors": [],
+      "printed_page_number": "14",
+      "skip": true
+    },
+    {
+      "title": "Bildung und Erziehung – zur Hermeneutik vergessener Zusammenhänge",
+      "authors": ["Michael Winkler"],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "Schule als Ort von Generationenbegegnungen",
+      "authors": ["Gaby Lenz"],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "Schule und Jugendhilfe – Wie passt die Methode des Trainingsraumes in das Professionsverständnis von Sozialer Arbeit?",
+      "authors": ["Silvia Grad", "Bernd Kammermeier"],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "Forschungsergebnisse",
+      "authors": [],
+      "printed_page_number": "93",
+      "skip": true
+    },
+    {
+      "title": "Die Herstellung von Bildungsungleichheit durch die Schule: Grundschullehrerinnen und Grundschullehrer als Akteure",
+      "authors": ["Susanne Miller"],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "Widersprüchliche Erwartungen an die sozialpädagogische Profilbildung der Schule. Empirische Befunde der quantitativen Begleitforschung des Pilotprojektes „Schulsozialarbeit in Kärnten“",
+      "authors": ["Karl-Heinz Braun", "Barbara Hönig", "Konstanze Wetzel"],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "Handlungskompetenz in der Schulsozialarbeit?! – Eine ethnographische Reflexion",
+      "authors": ["Anja Terner"],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "„Wenn die Sozialpädagogen da sind, muss man nix lernen“ – Die Aneignung eines schulbezogenen Angebots der Jugendhilfe zum sozialen Lernen aus der Perspektive von Grundschulkindern",
+      "authors": ["Kathrin Agharmiri"],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Weiterführende Diskussionen",
+      "authors": [],
+      "printed_page_number": "175",
+      "skip": true
+    },
+    {
+      "title": "Geschlechtsreflexive Gewaltprävention – (k)ein gemeinsames Thema für Schule und Jugendhilfe?",
+      "authors": ["Angelika Henschel"],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "Kinder und Peerkulturen in schulischen und außerschulischen Kontexten",
+      "authors": ["Rita Braches-Chyrek"],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "Grenzen und Möglichkeiten des Datentransfers zwischen Jugendhilfe und Schule",
+      "authors": ["Rolf Krüger"],
+      "printed_page_number": "205",
+      "skip": false
+    },
+    {
+      "title": "Autoren und Autorinnen",
+      "authors": [],
+      "printed_page_number": "213",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,107 @@
+{
+  "entries": [
+    {
+      "title": "Film-Konzepte 6",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Superhelden zwischen Comic und Film",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Gastherausgeber: Andreas Friedrich und Andreas Rauscher",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Amazing Adventures Zur Einführung",
+      "authors": [
+        "Andreas Friedrich",
+        "Andreas Rauscher"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Magic Marvel Moments",
+      "authors": [
+        "Michael Gruteser"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Der Amerikanische Traum und sein Schatten Superman, Batman und ihre filmischen Metamorphosen",
+      "authors": [
+        "Andreas Friedrich"
+      ],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "Stadtneurotiker, Outlaws und Mutanten Das Marvel-Universum im Film",
+      "authors": [
+        "Andreas Rauscher"
+      ],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "Helden aus der zweiten Reihe Verfilmungen von Independent-Superhelden-Comics",
+      "authors": [
+        "Simon Ofenloch"
+      ],
+      "printed_page_number": "72",
+      "skip": false
+    },
+    {
+      "title": "Wicked City Superhelden im transnationalen Hongkong-Kino",
+      "authors": [
+        "Ivo Ritzer"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "Helden für Jedermann Heroenvielfalt im japanischen Manga und Anime",
+      "authors": [
+        "Sascha Koebner"
+      ],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "Mr. Glas vs. Captain Unzerbrechlich M. Night Shyamalans Meta-Comic Unbreakable",
+      "authors": [
+        "Bernd Zywietz"
+      ],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "Abstracts",
+      "authors": [],
+      "printed_page_number": "116",
+      "skip": true
+    },
+    {
+      "title": "Liste der erwähnten Filme",
+      "authors": [],
+      "printed_page_number": "119",
+      "skip": true
+    },
+    {
+      "title": "Autoren",
+      "authors": [],
+      "printed_page_number": "124",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

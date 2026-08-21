@@ -1,0 +1,124 @@
+{
+  "entries": [
+    {
+      "title": "Danksagung",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Ethik der Migration \u2013 Zur Einf\u00fchrung",
+      "authors": [
+        "Frank Dietrich"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Mitgliedschaft und Zugeh\u00f6rigkeit",
+      "authors": [
+        "Michael Walzer"
+      ],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "Libertarismus und transnationale Migration",
+      "authors": [
+        "Hillel Steiner"
+      ],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "Die drinnen und die drau\u00dfen",
+      "authors": [
+        "Peter Singer"
+      ],
+      "printed_page_number": "60",
+      "skip": false
+    },
+    {
+      "title": "Immigration und territoriale Rechte",
+      "authors": [
+        "David Miller"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Demokratietheoretische Argumente gegen die staatliche Grenzhoheit",
+      "authors": [
+        "Arash Abizadeh"
+      ],
+      "printed_page_number": "98",
+      "skip": false
+    },
+    {
+      "title": "Immigration und Assoziationsfreiheit",
+      "authors": [
+        "Christopher Heath Wellman"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "Assoziationsfreiheit ist nicht die L\u00f6sung",
+      "authors": [
+        "Sarah Fine"
+      ],
+      "printed_page_number": "148",
+      "skip": false
+    },
+    {
+      "title": "Ein Pl\u00e4doyer f\u00fcr offene Grenzen",
+      "authors": [
+        "Joseph H. Carens"
+      ],
+      "printed_page_number": "166",
+      "skip": false
+    },
+    {
+      "title": "Brain-Drain \u2013 welche Verantwortung tragen Emigranten?",
+      "authors": [
+        "Gillian Brock"
+      ],
+      "printed_page_number": "212",
+      "skip": false
+    },
+    {
+      "title": "Das Recht zu gehen",
+      "authors": [
+        "Michael Blake"
+      ],
+      "printed_page_number": "232",
+      "skip": false
+    },
+    {
+      "title": "Ausgew\u00e4hlte Literatur",
+      "authors": [],
+      "printed_page_number": "250",
+      "skip": true
+    },
+    {
+      "title": "Hinweise zu den Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "255",
+      "skip": true
+    },
+    {
+      "title": "Textnachweise",
+      "authors": [],
+      "printed_page_number": "258",
+      "skip": true
+    },
+    {
+      "title": "Register",
+      "authors": [],
+      "printed_page_number": "259",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

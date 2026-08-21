@@ -1,0 +1,120 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Emotion, Text und Alltagserfahrung. Ein Lektürevorschlag",
+      "authors": [
+        "Monika Bednarczuk",
+        "Justyna Górny"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "(Mit)geteilte Gefühle",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Emotionen in Bewegung. Briefe von Frauen an Eliza Orzeszkowa und Käthe Schirmacher, 1881 bis 1930",
+      "authors": [
+        "Corinna Oesch"
+      ],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "„Dein Leiden [...] verstehe ich zutiefst“. Alter, Krankheit und emotionale Frauengemeinschaft in den späten Briefen von Eliza Orzeszkowa",
+      "authors": [
+        "Katarzyna Kościewicz",
+        "Joanna Lekan-Mrzewka"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "Renata von Scheliha und die übergeschlechtliche Liebe. Sechs „Freundes-Gedichte“ im Kontext",
+      "authors": [
+        "Anna Wołkowicz"
+      ],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "Emotionen als strategisches Element der Selbstdarstellung in weiblichem autobiografischem Schreiben. Zofia Chądzyńskas Co mi zostało z tych lat",
+      "authors": [
+        "Annelie Bachmaier"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "Emotionen und/als textuelle Praktiken",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die Macht der queeren Gefühle. Literatur als affektive Praktik",
+      "authors": [
+        "Justyna Górny"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "„Krümmen sich die Lettern vor Lachen“. Dynamiken des Lachens in Yoko Tawadas Literatur",
+      "authors": [
+        "Julia Sowacka"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "Die liebevolle Egone, die liebevollen Lesenden. Zur Rolle von Emotionen in Olga Tokarczuks „Ein Besuch“",
+      "authors": [
+        "Agnieszka Jezierska-Wiśniewska"
+      ],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "Ungewöhnliche Alltäglichkeit",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Das Jahr 1990 als eine Zeit des Dazwischen. Alltagswelt und Emotionen in Daniela Kriens Roman Irgendwann werden wir uns alles erzählen",
+      "authors": [
+        "Anna Lux"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Harmonialismus und Heroismus. Malina Michalskas Yoga in der Volksrepublik Polen",
+      "authors": [
+        "Ulrike Lang"
+      ],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "Für mehr Selbstliebe und allgemeine Freundlichkeit. Emotionen und esoterische Praktiken im spätkommunistischen Polen am Beispiel der Akademia Życia",
+      "authors": [
+        "Monika Bednarczuk"
+      ],
+      "printed_page_number": "217",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

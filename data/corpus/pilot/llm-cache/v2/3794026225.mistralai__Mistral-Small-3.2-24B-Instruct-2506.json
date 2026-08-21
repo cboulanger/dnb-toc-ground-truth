@@ -1,0 +1,108 @@
+{
+  "generated_at": 1787246173.7922518,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Vorwort der Herausgeber",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Simon Moser: Kritik der traditionellen Technikphilosophie",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Simon Moser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans Rumpf: Gedanken zur Wissenschaftstheorie der Technikwissenschaften",
+      "printed_page_number": "82",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Rumpf"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Friedrich Rapp: Technik und Naturwissenschaften \u2013 eine methodologische Untersuchung",
+      "printed_page_number": "108",
+      "source_page_index": -1,
+      "authors": [
+        "Friedrich Rapp"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kurt H\u00fcbner: Philosophische Fragen der Technik",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [
+        "Kurt H\u00fcbner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "G\u00fcnter Ropohl: Prolegomena zu einem neuen Entwurf der allgemeinen Technologie",
+      "printed_page_number": "152",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter Ropohl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ulf Niederwemmer: Programmatische Skizze f\u00fcr eine Sozialphilosophie der Technik",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [
+        "Ulf Niederwemmer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans Lenk: Zu neueren Ans\u00e4tzen der Technikphilosophie",
+      "printed_page_number": "198",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Lenk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Auswahlbibliographie",
+      "printed_page_number": "232",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Namenregister",
+      "printed_page_number": "241",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00dcber die Autoren",
+      "printed_page_number": "246",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

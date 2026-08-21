@@ -1,0 +1,458 @@
+{
+  "generated_at": 1787237157.6567318,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einf\u00fchrung",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Marco Prestel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Marco Prestel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wundersame Wirrnis. Eine Einf\u00fchrung in die Theorie der phantastischen Kinder- und Jugendliteratur und die Poetik der Fantasy",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [
+        "Marco Prestel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "M\u00e4rchen, Mythen und Mythen-Adaptionen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Tatjana Fedjaewa",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Tatjana Fedjaewa"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Semantik des Sujets bei Tolkien",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [
+        "Tatjana Fedjaewa"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rudolf Simek",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf Simek"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Tolkien und die germanische Mythologie",
+      "printed_page_number": "65",
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf Simek"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Andreas Hammer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Hammer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "J.R.R. Tolkien und der Mythos. \u00dcberlegungen zum sagengeschichtlichen Hintergrund und zum epischen Erz\u00e4hlen in Tolkiens literarischem Weltentwurf",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Hammer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "R\u00fcdiger Steinlein",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "R\u00fcdiger Steinlein"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Initiation als Vollendung der Adoleszenz des Helden in Der Herr der Ringe. Bemerkungen zur Verwendung eines erfolgreichen Erz\u00e4hlformats mit mythologischem Hintergrund",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "R\u00fcdiger Steinlein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Martin Gehring",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Martin Gehring"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Fantasy f\u00fcr Kinder! Die theoretischen Positionen von J.R.R. Tolkien und C.S. Lewis und die aktuelle Bedeutung des Mythos in der literarischen Fantasy",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Gehring"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Saskia Heber",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Saskia Heber"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Mythische Adaption in Cornelia Funkes Tinten-Trilogie",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [
+        "Saskia Heber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "C.S. Lewis und Tove Jansson im Vergleich",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Stefan Neuhaus",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Neuhaus"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Spiegelwelten. Zur Funktion und Rezeption phantastischer Mythen bei Tove Jansson, C.S. Lewis und anderen",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Neuhaus"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jana Mikota",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Jana Mikota"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eDas kommt daher, weil du ein M\u00e4dchen bist.\u201c Die Darstellung von Weiblichkeit und M\u00e4nnlichkeit in den Werken von Tove Jansson und C. S. Lewis",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [
+        "Jana Mikota"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Tove Janssons Mumin-B\u00fccher: Studien zu Gattung, Narration und Rezeption",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ines Galling",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ines Galling"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Subversive Idyllen \u2013 Tove Janssons Mumin-B\u00fccher",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [
+        "Ines Galling"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Angelika Nix",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Angelika Nix"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Alle Alter im Mumintal. Die Konzeption von Alter in Tove Janssons Mumin-Erz\u00e4hlungen",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [
+        "Angelika Nix"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kathrin Hubli",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Kathrin Hubli"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Tove Janssons Mumins wundersame Inselabenteuer als psychologischer Kinderroman?",
+      "printed_page_number": "215",
+      "source_page_index": -1,
+      "authors": [
+        "Kathrin Hubli"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sylvia Zwettler-Otte",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Sylvia Zwettler-Otte"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Psychoanalytische Juwelen im Mumintal",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [
+        "Sylvia Zwettler-Otte"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Joachim Schiedermair",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Schiedermair"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Den Weg abschneiden. Medialit\u00e4t, Entwicklungspsychologie und das Kriterium des Kindgem\u00e4\u00dfen. Tove Janssons Bilderbuch Hur gick det sen? (1952)",
+      "printed_page_number": "233",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Schiedermair"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Klaus M\u00fcller-Wille",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Klaus M\u00fcller-Wille"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kartographien des Unbewussten. Tove Janssons Poetik des Raumes",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus M\u00fcller-Wille"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jan Leichsenring",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Jan Leichsenring"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eEs ist alles sehr unsicher, und gerade das beruhigt mich.\u201c Zum Verh\u00e4ltnis von \u00d6rtlichkeit, Imagination und Wirklichkeit in den Mumin-Geschichten",
+      "printed_page_number": "275",
+      "source_page_index": -1,
+      "authors": [
+        "Jan Leichsenring"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christine L\u00f6tscher",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Christine L\u00f6tscher"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Mumins und das Phantasieren. Liminale Zonen in Tove Janssons Mumin-B\u00fcchern",
+      "printed_page_number": "285",
+      "source_page_index": -1,
+      "authors": [
+        "Christine L\u00f6tscher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Andreas Bode",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Bode"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die \u00dcbersetzung der ersten drei Mumin-B\u00fccher ins Deutsche durch Vivica und Kurt Bandler",
+      "printed_page_number": "295",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Bode"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Peter Reisenzein",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Peter Reisenzein"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Auf Tove Janssons Spuren in \u00d6sterreich",
+      "printed_page_number": "303",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Reisenzein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beitr\u00e4gerInnen",
+      "printed_page_number": "307",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kinderliterarische Mythen-Translation",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2013",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "digitalisiert durch: IDS Basel Bern",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Danksagung",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": [],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "Teil I: Perspektiven aus der Wissenschaft",
+      "authors": [],
+      "printed_page_number": "19",
+      "skip": true
+    },
+    {
+      "title": "A Der Migrations- und Integrationsdiskurs",
+      "authors": [],
+      "printed_page_number": "21",
+      "skip": true
+    },
+    {
+      "title": "Schlaglichter der bundesdeutschen Migrations- und Integrationspolitik seit 1945 bis zur Gegenwart",
+      "authors": [
+        "Karim Fereidooni"
+      ],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "Migration, Armut und Rassismus: Aporien des Kampfes für Gleichberechtigung (nicht nur) im Bildungswesen",
+      "authors": [
+        "Arian Schiffer-Nasserie"
+      ],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "Abitur + Diplom + Doktor = Hartz IV? – Der Massen-Exodus bildungserfolgreicher Deutsch-TürkInnen in die Türkei",
+      "authors": [
+        "Yalcin Yildiz"
+      ],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "Argumentationstraining gegen Stammtischparolen – eine Perspektive für den Integrationsdiskurs?",
+      "authors": [
+        "Klaus-Peter Hufer"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "B Bildungsbiographien, Erfahrungsberichte, Erwartungshaltungen",
+      "authors": [],
+      "printed_page_number": "69",
+      "skip": true
+    },
+    {
+      "title": "Vielfalt im Lehrerzimmer?! – Erste Einblicke in ein Lern-/Lehr- und Forschungsprojekt mit Lehramtsstudentinnen mit Migrationshintergrund an der Universität zu Köln",
+      "authors": [
+        "Drorit Lengyel",
+        "Lisa Rosen"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Von Ressourcen zu Qualifikationen – Was es heißt, Lehrerin mit Migrationshintergrund zu sein",
+      "authors": [
+        "Magdalena Knappik",
+        "İnci Dirim"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "Interkulturelle Kommunikation: Interkulturelle Konflikte – Mögliche Vermittlerfunktion der Lehrkräfte (Ein Fallbeispiel)",
+      "authors": [
+        "Yüksel Ekinci-Kocks"
+      ],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "C Bildungspolitik bzw. das deutsche Schulwesen",
+      "authors": [],
+      "printed_page_number": "105",
+      "skip": true
+    },
+    {
+      "title": "Bildungssituation von Einheimischen mit türkischem Migrationshintergrund: Stand und Perspektiven",
+      "authors": [
+        "Coskun Canan"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "Probleme und Ursachen der Re-Ethnisierung und Selbstethnisierung im Klassenzimmer",
+      "authors": [
+        "Kemal Bozay"
+      ],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "Schule in der Einwanderungsgesellschaft: Ressourcen erkennen und Potenziale fördern",
+      "authors": [
+        "Ebru Tepecik"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "Bildungsgerechtigkeit für Migrantinnen und Migranten – zu einigen aktuellen politischen Ansätzen und ihren Grenzen",
+      "authors": [
+        "Nausikaa Schirilla"
+      ],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "D Reformvorschläge für ein gerechtes deutsches Bildungssystem",
+      "authors": [],
+      "printed_page_number": "141",
+      "skip": true
+    },
+    {
+      "title": "Fremdes und Eigenes im Kontinuum – Hybridität als Konzept für eine interkulturelle Bildung",
+      "authors": [
+        "Karim Hassan"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "Von der schulischen Selektion zu einer diversitätsbewussten Bildung",
+      "authors": [
+        "Erol Yildiz"
+      ],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "Die Chimäre einer interkulturellen Schule ohne Zuwanderer, sondern mit Menschen",
+      "authors": [
+        "Antonietta P. Zeoli"
+      ],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "Diversität als Chance und als Ressource in der Gestaltung wirksamer Lernprozesse",
+      "authors": [
+        "Anne Sliwka"
+      ],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "Interkulturalität als eine akademische Lehrdisziplin",
+      "authors": [
+        "Hamid Reza Yousefi"
+      ],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "Teil II: Perspektiven aus der Schule",
+      "authors": [],
+      "printed_page_number": "193",
+      "skip": true
+    },
+    {
+      "title": "A Der Migrations- und Integrationsdiskurs",
+      "authors": [],
+      "printed_page_number": "195",
+      "skip": true
+    },
+    {
+      "title": "Integration mal anders",
+      "authors": [
+        "Shahriar Parvizi"
+      ],
+      "printed_page_number": "197",
+      "skip": false
+    },
+    {
+      "title": "Danke Deutschland",
+      "authors": [
+        "Anonyme(r) AutorIn I"
+      ],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "B Bildungsbiographien",
+      "authors": [],
+      "printed_page_number": "209",
+      "skip": true
+    },
+    {
+      "title": "Leidenschaftlich und professionell",
+      "authors": [
+        "Nilgün Isfendiyar"
+      ],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "Individualität stärken",
+      "authors": [
+        "Jelena Antonijevic"
+      ],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "Meine Bildungsbiographie",
+      "authors": [
+        "Anonyme(r) AutorIn II"
+      ],
+      "printed_page_number": "221",
+      "skip": false
+    },
+    {
+      "title": "„Katrin?!“",
+      "authors": [
+        "Çağatay Gürgen"
+      ],
+      "printed_page_number": "225",
+      "skip": false
+    },
+    {
+      "title": "C Erfahrungsberichte und Erwartungshaltungen",
+      "authors": [],
+      "printed_page_number": "229",
+      "skip": true
+    },
+    {
+      "title": "Polnische Tipps für ein deutsches Abitur in Ostfriesland",
+      "authors": [
+        "Andrzej Bojarski"
+      ],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "Ein Plädoyer für mehr Vorbilder mit Kopf, Herz und Hand",
+      "authors": [
+        "Muhammed Giraz"
+      ],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "Gibt es eine Zukunft der Inklusion innerhalb der Lehrerschaft?",
+      "authors": [
+        "Tagrid Yousef"
+      ],
+      "printed_page_number": "239",
+      "skip": false
+    },
+    {
+      "title": "Meine Zeit als Türkischlehrer in einer „türkischen Modellklasse“ an einem deutschen Gymnasium",
+      "authors": [
+        "Halis Kirdis (aus dem Türkischen übersetzt von Ali Ögüt)"
+      ],
+      "printed_page_number": "245",
+      "skip": false
+    },
+    {
+      "title": "D Bildungspolitik bzw. das deutsche Schulwesen/ Reformvorschläge",
+      "authors": [],
+      "printed_page_number": "249",
+      "skip": true
+    },
+    {
+      "title": "Das deutsche Schulsystem aus der Sicht eines Berufsschullehrers",
+      "authors": [
+        "Andreas Prieb"
+      ],
+      "printed_page_number": "251",
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "authors": [],
+      "printed_page_number": "257",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

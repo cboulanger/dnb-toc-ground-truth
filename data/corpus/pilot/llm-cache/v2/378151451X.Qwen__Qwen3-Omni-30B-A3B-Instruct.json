@@ -1,0 +1,463 @@
+{
+  "generated_at": 1787234656.236056,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Diethard Cech, Hans-Joachim Fischer, Waltraud Holl-Giese, Martina Kn\u00f6rzer, Marcus Schrenk",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Diethard Cech",
+        "Hans-Joachim Fischer",
+        "Waltraud Holl-Giese",
+        "Martina Kn\u00f6rzer",
+        "Marcus Schrenk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bildungswert und Bildungswirkung des Sachunterrichts",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Walter K\u00f6hlein",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Walter K\u00f6hlein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Thesen und Beispiele zum Bildungswert des Sachunterrichts",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Andreas Nie\u00dfler",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Nie\u00dfler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bildungs- und Erinnerungsorte. Kulturtheoretische Perspektiven einer Begr\u00fcndung von Bildungsaspekten des Sachunterrichts",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wolfgang Hinrichs",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Hinrichs"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Soll die Kulturbasis wegbrechen? \u2013 Zum Bildungswert des Sachunterrichts",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Meike Wulfmeyer, Katrin Hauenschild",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [
+        "Meike Wulfmeyer",
+        "Katrin Hauenschild"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der selbstorganisierte Sch\u00fclerladen \u2013 ein Projekt zur \u00f6konomischen Bildung im Sachunterricht",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dirk Menzel",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Menzel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Beitrag des Sachunterrichts zur moralischen Bildung",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Johannes Jung",
+      "printed_page_number": "93",
+      "source_page_index": -1,
+      "authors": [
+        "Johannes Jung"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\"Vom Nutzen und Nachteil der Historie f\u00fcr das Leben\" \u2013 zum Bildungswert geschichtlichen Lernens im Sachunterricht",
+      "printed_page_number": "93",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Detlef Pech",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [
+        "Detlef Pech"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gesellschaft gestalten als Bildungsauftrag des Sachunterrichts",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ute Stoltenberg",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "Ute Stoltenberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Region und Bildung. Zukunftsf\u00e4hige Bildung durch Sachunterricht",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Doris Free\u00df",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [
+        "Doris Free\u00df"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Bildungswert \u00e4sthetischen Lernens",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kerstin Michalik",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "Kerstin Michalik"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Aufbau von Kompetenzen f\u00fcr Lehrende des Faches Sachunterricht \u2013 unter der Zielperspektive des \u201ePedagogical Content Knowledge\u201c",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eva Heran-D\u00f6rr",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [
+        "Eva Heran-D\u00f6rr"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Orientierung an Sch\u00fclervorstellungen \u2013 Wie verstehen Lehrkr\u00e4fte diesen Appell an ihre didaktische und methodische Kompetenz?",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dagmar Richter",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [
+        "Dagmar Richter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wer will den \u201ePoppy Pen\u201c haben? Anspr\u00fcche an Fallarbeit in der Lehrerbildung",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Daniela Schmeinck, Walter Kosack",
+      "printed_page_number": "193",
+      "source_page_index": -1,
+      "authors": [
+        "Daniela Schmeinck",
+        "Walter Kosack"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wie Kinder die Welt sehen \u2013 Forschungen zu Lernvoraussetzungen von Grundschulkindern",
+      "printed_page_number": "193",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gerd Bruderreck",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [
+        "Gerd Bruderreck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Produktivit\u00e4t von Fehlern beim Erwerb von Scientific Literacy in der Lehrerbildung",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Berenike Gais, Kornelia M\u00f6ller",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [
+        "Berenike Gais",
+        "Kornelia M\u00f6ller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verstehen f\u00f6rderndes Lehrerhandeln im naturwissenschaftsbezogenen Sachunterricht \u2013 eine Videostudie",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anja Vocilka, Marcus Schrenk",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [
+        "Anja Vocilka",
+        "Marcus Schrenk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sch\u00fclervorstellungen zum Zustandekommen kognitiver Leistungen unter besonderer Ber\u00fccksichtigung der Wahrnehmung",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Petra Baisch, Marcus Schrenk",
+      "printed_page_number": "243",
+      "source_page_index": -1,
+      "authors": [
+        "Petra Baisch",
+        "Marcus Schrenk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\"Der ist dann einfach weg und l\u00f6st sich in Luft auf\" \u2013 Erkl\u00e4rungen von Kindern zum Stoffkreislauf",
+      "printed_page_number": "243",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Claudia Schomaker",
+      "printed_page_number": "253",
+      "source_page_index": -1,
+      "authors": [
+        "Claudia Schomaker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "M\u00f6glichkeiten und Grenzen \u00e4sthetischer Erfahrungsr\u00e4ume im Sachunterricht",
+      "printed_page_number": "253",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eva Gl\u00e4ser",
+      "printed_page_number": "263",
+      "source_page_index": -1,
+      "authors": [
+        "Eva Gl\u00e4ser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Unterrichtssprache und Unterrichtsqualit\u00e4t. Fallstudien zu Klassengespr\u00e4chen aus fachdidaktischer Sicht",
+      "printed_page_number": "263",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hartmut Giest",
+      "printed_page_number": "279",
+      "source_page_index": -1,
+      "authors": [
+        "Hartmut Giest"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nutzung Neuer Medien \u2013 eine Kulturtechnik im Sachunterricht?",
+      "printed_page_number": "279",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beate Blaseio",
+      "printed_page_number": "293",
+      "source_page_index": -1,
+      "authors": [
+        "Beate Blaseio"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Bildungswert des Sachunterrichts in den L\u00e4ndern der Europ\u00e4ischen Union",
+      "printed_page_number": "293",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Silke Pfeiffer",
+      "printed_page_number": "305",
+      "source_page_index": -1,
+      "authors": [
+        "Silke Pfeiffer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Perspektiven auf Sachunterricht in Ost und West \u2013 eine Untersuchung in den Bundesl\u00e4ndern Mecklenburg-Vorpommern und Niedersachsen",
+      "printed_page_number": "305",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Iliana Mirtschewa",
+      "printed_page_number": "317",
+      "source_page_index": -1,
+      "authors": [
+        "Iliana Mirtschewa"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sachunterricht zwischen Kreativit\u00e4t und Trivialit\u00e4t",
+      "printed_page_number": "317",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "printed_page_number": "327",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

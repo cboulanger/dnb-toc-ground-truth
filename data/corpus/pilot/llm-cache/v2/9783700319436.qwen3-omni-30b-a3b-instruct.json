@@ -1,0 +1,304 @@
+{
+  "generated_at": 1787015993.5257118,
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": "V",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "VII",
+      "source_page_index": -1,
+      "authors": [
+        "Roland Burkart",
+        "Walter H\"omberg"
+      ],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Allgemeine Literatur.",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "I. Das Erkenntnisobjekt \u201eKommunikation\u201c \u2013 Eine fachbezogene Auswahl universaler Kommunikationstheorien",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Roland Burkart",
+        "Walter H\"omberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.1. Kommunikation als Prozess der Signal\"ubertragung",
+      "printed_page_number": "16",
+      "source_page_index": -1,
+      "authors": [
+        "Bernhard Badura"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mathematische und soziologische Theorie der Kommunikation",
+      "printed_page_number": "16",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1.2. Kommunikation als interaktiver Vorgang",
+      "printed_page_number": "24",
+      "source_page_index": -1,
+      "authors": [
+        "Herbert Blumer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der methodologische Standort des Symbolischen Interaktionismus",
+      "printed_page_number": "24",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Roland Burkart/Alfred Lang",
+      "printed_page_number": "42",
+      "source_page_index": -1,
+      "authors": [
+        "Roland Burkart",
+        "Alfred Lang"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Theorie des kommunikativen Handelns von J\"urgen Habermas \u2013 Eine kommentierte Textcollage",
+      "printed_page_number": "42",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1.3. Kommunikation als umweltabh\"angiges Ph\"anomen",
+      "printed_page_number": "72",
+      "source_page_index": -1,
+      "authors": [
+        "Horst Holzer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Medienkommunikation aus historisch-materialistischer Perspektive.",
+      "printed_page_number": "72",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ulrich Saxer",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrich Saxer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Systemtheorie und Kommunikationswissenschaft",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Weiterf\"uhrende Literatur zu Teil I.",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "II. Zum theoretischen Status kommunikationswissenschaftlicher Teildisziplinen \u2013 Eine Auswahl gegenst\"andlicher Kommunikationstheorien",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "Roland Burkart",
+        "Walter H\"omberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.1. Journalismus",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "Manfred R\"uhl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Theorie des Journalismus",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2.2. Public Relations",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [
+        "Benno Signitzer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Theorie der Public Relations.",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2.3. Werbung",
+      "printed_page_number": "174",
+      "source_page_index": -1,
+      "authors": [
+        "Holger Rust"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Theorie der Werbung",
+      "printed_page_number": "174",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2.4. Medienp\"adagogik",
+      "printed_page_number": "198",
+      "source_page_index": -1,
+      "authors": [
+        "Dieter Baacke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Theorie der Medienp\"adagogik",
+      "printed_page_number": "198",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2.5. Kommunikationspolitik",
+      "printed_page_number": "220",
+      "source_page_index": -1,
+      "authors": [
+        "Franz Ronneberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Theorie der Kommunikationspolitik.",
+      "printed_page_number": "220",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2.6. Kommunikationsgeschichte",
+      "printed_page_number": "234",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Schmolke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Theorie der Kommunikationsgeschichte",
+      "printed_page_number": "234",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2.7. Neue Kommunikationsr\"aume",
+      "printed_page_number": "258",
+      "source_page_index": -1,
+      "authors": [
+        "Roland Burkart",
+        "Walter H\"omberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Elektronisch mediatisierte Gemeinschaftskommunikation",
+      "printed_page_number": "258",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Weiterf\"uhrende Literatur zu Teil II.",
+      "printed_page_number": "270",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Autoren.",
+      "printed_page_number": "281",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

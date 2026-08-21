@@ -1,0 +1,239 @@
+{
+  "generated_at": 1787264141.287261,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einleitung und Vorbemerkung der Herausgeber",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Meyer",
+        "Rainer Patjens"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Handlungsfelder, Theorien, Konzepte, Strukturen und Inhalte der Kinder- und Jugendarbeit",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Theorien und Theoriekonzepte der Kinder- und Jugendarbeit",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "Sebastian Rahn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rechtsgrundlagen der Kinder- und Jugendarbeit",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Patjens"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jugendzentren, Jugendh\u00e4user, Jugendtreffs und Co \u2013 Jugendfreizeit- und Jugendbildungseinrichtungen",
+      "printed_page_number": "65",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Meyer",
+        "Sebastian Rahn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jugendverb\u00e4nde",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Patjens",
+        "Ingo S. Hettler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Offene Arbeit mit Kindern \u2013 Theoretische Grundlagen und Handlungsfelder",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Meyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Aufsuchende Ans\u00e4tze der Jugendarbeit \u2013 Arbeitsformen, theoretische Grundlagen und Vorgehensweisen",
+      "printed_page_number": "197",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Meyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schulsozialarbeit",
+      "printed_page_number": "253",
+      "source_page_index": -1,
+      "authors": [
+        "Mirjana Zipperle",
+        "Sebastian Rahn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Querschnittsthemen und Rahmenbedingungen der Kinder- und Jugendarbeit",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Rechtliche Rahmenbedingungen in der Kinder- und Jugendarbeit",
+      "printed_page_number": "285",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Patjens"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Projektarbeit als Arbeitsform und Methode in der Kinder- und Jugendarbeit",
+      "printed_page_number": "331",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Meyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ehrenamtliches Engagement",
+      "printed_page_number": "365",
+      "source_page_index": -1,
+      "authors": [
+        "Paul-Stefan Ro\u00df"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Partizipation \u2013 Kernaufgabe und Schl\u00fcsselbegriff in der Kinder- und Jugendarbeit",
+      "printed_page_number": "397",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Meyer",
+        "Sebastian Rahn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inklusion als Herausforderung und Chance f\u00fcr die Kinder und Jugendarbeit",
+      "printed_page_number": "425",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Meyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Extremismus und Radikalisierung \u2013 Eine Herausforderung f\u00fcr die Kinder- und Jugendarbeit",
+      "printed_page_number": "475",
+      "source_page_index": -1,
+      "authors": [
+        "Mathieu Coquelin",
+        "Jens Ostwald"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ausgew\u00e4hlte Praxisans\u00e4tze der Kinder- und Jugendarbeit",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Freizeit- und Erlebnisp\u00e4dagogik",
+      "printed_page_number": "509",
+      "source_page_index": -1,
+      "authors": [
+        "Karl-Heinz Konnerth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geschlechterbezogene Ans\u00e4tze",
+      "printed_page_number": "543",
+      "source_page_index": -1,
+      "authors": [
+        "Kai Kabs-Ballbach",
+        "Annette Ullrich",
+        "Karin E. Sauer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sexualp\u00e4dagogik der Vielfalt in der Kinder- und Jugendarbeit",
+      "printed_page_number": "565",
+      "source_page_index": -1,
+      "authors": [
+        "Robin Bauer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Medien- und Kulturp\u00e4dagogik",
+      "printed_page_number": "593",
+      "source_page_index": -1,
+      "authors": [
+        "Annette Ullrich",
+        "Karin E. Sauer",
+        "Pia Jaeger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Grundlagen der systemischen Beratungspraxis im Kontext der Kinder- und Jugendarbeit",
+      "printed_page_number": "615",
+      "source_page_index": -1,
+      "authors": [
+        "Ingo S. Hettler",
+        "Lilli G\u00f6rzen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

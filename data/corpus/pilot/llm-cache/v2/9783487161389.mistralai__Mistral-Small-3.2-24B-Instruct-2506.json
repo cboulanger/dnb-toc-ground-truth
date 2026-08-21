@@ -1,0 +1,648 @@
+{
+  "generated_at": 1787262178.08338,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "IX",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Grimmelshausens Simplicissimus \u2013 Spezifische Aspekte zum Roman, zu Pascal, Phil. Nicolai, Wolfram von Eschenbach, K. A. Hartmann, Joh. Strauss jr.",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ute Jung-Kaiser",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eFinsternis versus Licht\u201c. Geistlich-weltliche Dichotomien in Grimmelshausens Simplicissimus Teutsch",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Ute Jung-Kaiser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Grunds\u00e4tzliche Gedanken zu Werk und Deutung",
+      "printed_page_number": "4",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "a) Grimmelshausen als \u201eVolksschriftsteller\u201c",
+      "printed_page_number": "4",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "b) die Gro\u00dfstrukturierung der ersten sechs B\u00fccher",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "c) die \u201echristlich-ethische Sinndimension\u201c",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "d) der \u201echristliche Geist\u201c des Titelhelden",
+      "printed_page_number": "16",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Geistliche Dimensionen des Werkes",
+      "printed_page_number": "19",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "a) erg\u00e4nzende Anmerkungen zum Titelkupfer",
+      "printed_page_number": "19",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "b) Licht in der Finsternis",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "c) das Elend des Menschen ohne Gott \u2013 Parallelen zum Gedankengut Pascals",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "d) Musik und Fr\u00f6mmigkeit \u2013 Krisenbew\u00e4ltigung dank Musik",
+      "printed_page_number": "38",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Wie Karl Amadeus Hartmann das \u201efinstere Liecht\u201c zum Leuchten bringt",
+      "printed_page_number": "41",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J\u00fcrgen Schulz-Grobert",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eSchutzm\u00e4ntel der Einfalt\u201c \u2013 Grimmelshausens Narr in Parzivals Gewand?",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Schulz-Grobert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Handschriftenfunde",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Kleider-Motive und Bekleidungsmotivationen",
+      "printed_page_number": "54",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Enth\u00fcllungen",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Diana Rieger",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zur musikalischen Biographie des Titelhelden in Grimmelshausens Simplicissimus",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "Diana Rieger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Hinf\u00fchrung",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Musikalische Stationen",
+      "printed_page_number": "72",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Schlussbetrachtung",
+      "printed_page_number": "91",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ute Jung-Kaiser",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eKomm Trost der Nacht, o Nachtigall\u201c \u2013 Grimmelshausens Lied zur \u201eMelodey\u201c Philipp Nicolais",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [
+        "Ute Jung-Kaiser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Die trostspendende Funktion des Nachtigallenliedes",
+      "printed_page_number": "96",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Philipp Nicolais prachtvolles Kirchenlied Wie sch\u00f6n leuchtet der Morgenstern",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Kontrafakturen des Nachtigallenliedes",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Claudia Breitfeld",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Simplicius. Ein walzerseliger Simplex oder Verfremdung einer Vorlage? Zur Operette von Johann Strau\u00df jr.",
+      "printed_page_number": "119",
+      "source_page_index": -1,
+      "authors": [
+        "Claudia Breitfeld"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Zur Entstehung und inhaltlichen Adaption",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "a) Handlung",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "b) Figur des Simplicius",
+      "printed_page_number": "122",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "c) Die Rolle des Eremiten",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "d) Sprachgehalt",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "e) Liebeserfahrung",
+      "printed_page_number": "124",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "f) Textfassungen",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Zur Vertonung",
+      "printed_page_number": "126",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Rezeption",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "a) Die Z\u00fcricher Inszenierung 1999",
+      "printed_page_number": "135",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "b) Die konzertante Bearbeitung von Coburg",
+      "printed_page_number": "136",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Fazit",
+      "printed_page_number": "138",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Paul Gerhardts Liedgedichte \u2013 eine Auswahl",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Susanne Weichenhan",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wach auf, mein Herz, und singe! Ein Weckruf in bleierner Zeit",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [
+        "Susanne Weichenhan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Der Gedankengang des Liedes",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "a) Einleitung",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "b) R\u00fcckblick (Strophen 2\u20134)",
+      "printed_page_number": "144",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "c) Gegenwart (Strophen 5\u20137)",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "d) Vorblick (Strophen 8\u201310)",
+      "printed_page_number": "146",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Paul Gerhardts Gedichtver\u00f6ffentlichung",
+      "printed_page_number": "148",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Sprachliche Beobachtungen und Deutungen",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Die Vertonung",
+      "printed_page_number": "158",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Zur Wirkungsgeschichte",
+      "printed_page_number": "160",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ute Jung-Kaiser",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Paul Gerhardts tr\u00f6stlicher Abendgesang \u201eNun ruhen alle W\u00e4lder\u201c",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [
+        "Ute Jung-Kaiser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Gestaltungsmerkmale mit Verweischarakter",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Zum Melodiker Paul Gerhardt",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Das Abendlied \u2013 \u201egestaltgewordener Trost\u201c",
+      "printed_page_number": "187",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Schluss\u00fcberlegungen",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Heinrich Sch\u00fctz \u2013 \u201emusicus poeticus\u201c geistlicher Musik",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Heide Volckmar-Waschk",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Tod als Durchgang zum Leben: Trauer und Trauermusiken bei Heinrich Sch\u00fctz",
+      "printed_page_number": "203",
+      "source_page_index": -1,
+      "authors": [
+        "Heide Volckmar-Waschk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Memento mori",
+      "printed_page_number": "204",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Das Jahr 1625 \u2013 die Cantiones sacrae",
+      "printed_page_number": "206",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Ein Trostbuch",
+      "printed_page_number": "218",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. \u201eSein Welschland war sein Artzt\u201c",
+      "printed_page_number": "220",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. 1636 \u2013 Die Musikalischen Exequien",
+      "printed_page_number": "222",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. 1671 \u2013 Der Schwanengesang",
+      "printed_page_number": "226",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ute Jung-Kaiser",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Heinrich Sch\u00fctz \u2013 Bilddokumente zu Person und Werk",
+      "printed_page_number": "237",
+      "source_page_index": -1,
+      "authors": [
+        "Ute Jung-Kaiser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Zur allgemeinen Wertsch\u00e4tzung seiner Musik",
+      "printed_page_number": "237",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Sch\u00fctz-Bildnisse",
+      "printed_page_number": "239",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Lob des Musicus poeticus",
+      "printed_page_number": "255",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Personen- und Werkregister",
+      "printed_page_number": "263",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "printed_page_number": "269",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

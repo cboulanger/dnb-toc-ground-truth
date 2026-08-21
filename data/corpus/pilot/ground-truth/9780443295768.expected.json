@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "title": "On estimation problems based on type I Longla copulas",
+      "authors": [
+        "Martial Longla"
+      ],
+      "printed_page_number": "3"
+    },
+    {
+      "title": "Ladder processes: Symmetric functions and semigroups",
+      "authors": [
+        "Philip Feinsilver"
+      ],
+      "printed_page_number": "29"
+    },
+    {
+      "title": "Long time behaviour of continuous time Markov chains",
+      "authors": [
+        "Xueping Huang"
+      ],
+      "printed_page_number": "87"
+    },
+    {
+      "title": "Generalized steady-state distributions of somewhat stochastic matrices with eigenvalues 1, \u03bb2, \u03bb3, ..., \u03bbn and modulus |\u03bbi| < 1 for i = 2, 3, ..., n: Duality applications for calculating Gambler's ruin problems",
+      "authors": [
+        "Alan Krinik",
+        "Gerardo Rubino",
+        "Heba Ayeda",
+        "David Beecher",
+        "Sean Kanne",
+        "Raymond Benitez",
+        "Zackary Muraca",
+        "Sergio Navia",
+        "Corey Bangi"
+      ],
+      "printed_page_number": "127"
+    },
+    {
+      "title": "Continuous-time Markov chains and models: Bounding via forward Kolmogorov system",
+      "authors": [
+        "Alexander Zeifman",
+        "Yacov Satin",
+        "Victor Korolev",
+        "Ilya Usov"
+      ],
+      "printed_page_number": "179"
+    },
+    {
+      "title": "Markov chain estimation, approximation, and aggregation for average reward Markov decision processes and reinforcement learning",
+      "authors": [
+        "Ronald Ortner"
+      ],
+      "printed_page_number": "213"
+    },
+    {
+      "title": "Estimating the stationary distribution from trajectories",
+      "authors": [],
+      "printed_page_number": "236"
+    },
+    {
+      "title": "The role of the random-product technique in the theory of Markov chains on a countable state space",
+      "authors": [
+        "Brian Fralix",
+        "Farhad Hasankhani",
+        "Amin Khademi"
+      ],
+      "printed_page_number": "251"
+    },
+    {
+      "title": "Computational applications of poverty measurement through Markov model for income classes",
+      "authors": [
+        "Guglielmo D'Amico",
+        "Riccardo De Blasis",
+        "Salvatore Vergine"
+      ],
+      "printed_page_number": "283"
+    },
+    {
+      "title": "Additive high-order Markov chains",
+      "authors": [
+        "Serhii S. Melnyk",
+        "Galyna M. Pritula",
+        "Oleg V. Usatenko"
+      ],
+      "printed_page_number": "311"
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

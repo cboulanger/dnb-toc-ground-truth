@@ -1,0 +1,1415 @@
+{
+  "generated_at": 1787015202.3895402,
+  "entries": [
+    {
+      "title": "List of contributors",
+      "printed_page_number": "xi",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Foreword",
+      "printed_page_number": "xv",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Preface",
+      "printed_page_number": "xvii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "1. Overview of extreme weather events, impacts and forecasting techniques",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.1 Definition of extreme weather events",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Marina Astitha",
+        "Efthymios Nikolopoulos"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.1.1 Extreme heat",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.1.2 Extreme cold\u2014severe winter storms",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.1.3 Tropical and extratropical storms",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.1.4 Severe convective storms",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.1.5 Extreme rainfall",
+      "printed_page_number": "6",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.2 Weather forecasting",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Marina Astitha",
+        "Linus Magnusson",
+        "Efthymios Nikolopoulos"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.3 Extreme weather forecasting in urban areas",
+      "printed_page_number": "14",
+      "source_page_index": -1,
+      "authors": [
+        "Mukul Tewari",
+        "Zhihua Wang",
+        "Dan Chen",
+        "Quang-Van Doan",
+        "Hiroyuki Kusaka",
+        "Prathap Ramamurthy",
+        "Pallav Ray"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.3.1 Introduction",
+      "printed_page_number": "14",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.3.2 Urban heat island",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.3.3 Heat wave forecasting",
+      "printed_page_number": "18",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.3.4 Air quality modeling and prediction",
+      "printed_page_number": "22",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.3.5 Forecasting urban precipitation",
+      "printed_page_number": "26",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.3.6 Forecasting coastal urban flooding",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4 Wildfires and weather",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Branko Kosovi\u0107",
+        "Timothy W. Juliano",
+        "Amy DeCastro",
+        "Maria Frediani",
+        "Amanda Siems-Anderson",
+        "Pedro Jimenez",
+        "Domingo Mu\u00f1oz-Esparza",
+        "Jason C. Knievel",
+        "Masih Eghdami"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.1 Introduction: wildfires and weather\u2014a coupled system",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.1.1 Wildfire impacts",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.1.2 Wildfire severity and weather",
+      "printed_page_number": "35",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.1.3 Wind storms, droughts, and storm outflows",
+      "printed_page_number": "38",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.1.4 Pyrocumulus and pyrocumulonimbus clouds",
+      "printed_page_number": "41",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.1.5 Wildfire emissions and transport",
+      "printed_page_number": "44",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.2 Wildfire prediction and risk assessment",
+      "printed_page_number": "46",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.2.1 Wildfire prediction",
+      "printed_page_number": "46",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.2.2 Wildfire risk assessment",
+      "printed_page_number": "50",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.3 Data requirements and data quality",
+      "printed_page_number": "53",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.3.1 Meteorological data",
+      "printed_page_number": "53",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.3.2 Fuel data",
+      "printed_page_number": "54",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.3.3 Fire perimeter data",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.3.4 Data assimilation",
+      "printed_page_number": "60",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.4 Wildfire prediction sensitivities and uncertainties",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.4.1 Sensitivity to weather forecast",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.4.2 Sensitivity to fuel characteristics",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.4.3 Sensitivity to ignition location and fire perimeter",
+      "printed_page_number": "63",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.4.4 Ensemble prediction for uncertainty quantification",
+      "printed_page_number": "64",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.5 Improved wildfire modeling for improved wildfire preparedness",
+      "printed_page_number": "65",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.5.1 Data collection, quality control, archiving, and standards",
+      "printed_page_number": "65",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.5.2 Wildfire spread parameterizations",
+      "printed_page_number": "66",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4.5.3 Operational wildfire prediction and risk assessment systems",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "References",
+      "printed_page_number": "68",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2. Operational multiscale predictions of hazardous events",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [
+        "Linus Magnusson",
+        "C. Prudhomme",
+        "F. Di Giuseppe",
+        "C. Di Napoli",
+        "F. Pappenberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.1 Introduction",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.2 Example case: 2015 European heatwave",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.3 Key factors of predictability",
+      "printed_page_number": "94",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.3.1 European heatwaves",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.3.2 European cold spells",
+      "printed_page_number": "96",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.3.3 Northwestern European windstorms",
+      "printed_page_number": "97",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.3.4 Precipitation extremes due to North-Atlantic cyclones",
+      "printed_page_number": "98",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.3.5 Precipitation extremes in southern Europe",
+      "printed_page_number": "98",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.3.6 Severe convection",
+      "printed_page_number": "99",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4 Hazard forecasting",
+      "printed_page_number": "100",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4.1 Hydrological processes and predictability of flood and droughts",
+      "printed_page_number": "102",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4.2 Challenges",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4.2.1 Type of hydrological, floods and drought forecasting, models",
+      "printed_page_number": "106",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4.2.2 Improving usefulness of flood and drought forecasting systems",
+      "printed_page_number": "107",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4.2.3 Hazard thresholds",
+      "printed_page_number": "107",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4.3 Fire risk",
+      "printed_page_number": "110",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4.3.1 Forecasting fire at different spatial and temporal scales",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4.4 Heat stress",
+      "printed_page_number": "112",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4.4.1 Hazard forecasting",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4.4.2 Discussion",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.5 Evaluation of hazardous events",
+      "printed_page_number": "116",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.5.1 Observations for evaluation",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.5.2 Evaluation metrics",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.6 Conclusion",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.7 Summary",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "References",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "3. Forecasting extreme weather events and associated impacts: Case Studies",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1 Extreme heat",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [
+        "Martina Calovi",
+        "Weiming Hu",
+        "Laura Clemente",
+        "Guido Cervone"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1.1 Introduction",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1.1.1 Heat waves",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1.1.2 Social vulnerability",
+      "printed_page_number": "135",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1.1.3 Numerical weather forecasting",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1.2 Data",
+      "printed_page_number": "140",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1.2.1 North American Mesoscale Forecast System",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1.2.2 Weather Underground",
+      "printed_page_number": "142",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1.2.3 Socioeconomic",
+      "printed_page_number": "144",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1.3 Methodology",
+      "printed_page_number": "144",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1.3.1 Analog Ensemble independent search",
+      "printed_page_number": "144",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1.3.2 Advantages and disadvantages of the Analog Ensemble technique",
+      "printed_page_number": "146",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1.3.3 The Schaake Shuffle",
+      "printed_page_number": "146",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1.3.4 Bias correction for rare events",
+      "printed_page_number": "148",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1.3.5 Spatiotemporal downscaling",
+      "printed_page_number": "148",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1.3.6 Accessibility",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1.4 Results",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1.5 Conclusions",
+      "printed_page_number": "165",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Acronyms",
+      "printed_page_number": "166",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "References",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "3.2 Atmospheric rivers",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [
+        "Forest Cannon",
+        "Luca Delle Monache"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2.1 Introduction",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2.2 Atmospheric river evolution",
+      "printed_page_number": "174",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2.2.1 Mesoscale predictability challenges in atmospheric rivers",
+      "printed_page_number": "176",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2.2.2 Precipitation generation in atmospheric rivers",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2.2.3 Factors modifying hydrologic impacts during atmospheric rivers",
+      "printed_page_number": "178",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2.3 Forecasting atmospheric rivers",
+      "printed_page_number": "178",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2.3.1 Initialization",
+      "printed_page_number": "180",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2.3.2 Parameterization",
+      "printed_page_number": "183",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2.3.3 Grid resolution",
+      "printed_page_number": "184",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2.4 Regional models",
+      "printed_page_number": "186",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2.5 Ensemble forecast systems",
+      "printed_page_number": "188",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2.6 Verification",
+      "printed_page_number": "193",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2.7 Decision support",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2.7.1 Calibration of atmospheric river forecasts",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2.7.2 Role of partnerships between forecasting agencies and stakeholders",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2.8 Summary",
+      "printed_page_number": "196",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "References",
+      "printed_page_number": "196",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "3.3 The hydrological Hillslope-Link Model for space-time prediction of streamflow: insights and applications at the Iowa Flood Center",
+      "printed_page_number": "200",
+      "source_page_index": -1,
+      "authors": [
+        "Ricardo Mantilla",
+        "Witold F. Krajewski",
+        "Nicolas Velasquez",
+        "Scott Small",
+        "Tibebu Ayalew",
+        "Felipe Quintero",
+        "Navid Jadidoleslam",
+        "Morgan Fonley"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3.1 Introduction",
+      "printed_page_number": "200",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3.2 A generic set of ordinary differential equations to model water flows in the landscape and the river network",
+      "printed_page_number": "204",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3.3 Domain decomposition and model inputs for the implementation of Hillslope-Link Model",
+      "printed_page_number": "210",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3.3.1 Horizontal landscape decomposition",
+      "printed_page_number": "210",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3.3.2 Configurations of hillslope-scale vertical and horizontal flows",
+      "printed_page_number": "210",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3.3.3 Meteorological inputs",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3.3.4 Streamflow gage stations",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3.3.5 Automated flood forecasting system",
+      "printed_page_number": "214",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3.4 Example of model performance using different configurations of vertical and horizontal fluxes at the hillslope scale",
+      "printed_page_number": "215",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3.4.1 The simplest closure relationship: constant runoff coefficient",
+      "printed_page_number": "215",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3.4.2 A variable runoff-coefficient model dependent on top-layer soil moisture and ponded water storage",
+      "printed_page_number": "218",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3.4.3 A novel nonlinear parameterization for subsurface flows",
+      "printed_page_number": "220",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3.5 Insights and real-time applications of the Hillslope-Link Model at the Iowa Flood Center",
+      "printed_page_number": "222",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3.5.1 Effect of rainfall resolution and spatial randomness",
+      "printed_page_number": "222",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3.5.2 Propagation of hillslope scale oscillations",
+      "printed_page_number": "223",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3.5.3 A case study: real-time prediction of the September 2016 flood event along the Cedar River",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3.6 Summary and conclusions",
+      "printed_page_number": "233",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3.7 Future work and upcoming challenges",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Acknowledgments",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "References",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "3.4 Social impacts: integrating dynamic social vulnerability in impact-based weather forecasting",
+      "printed_page_number": "239",
+      "source_page_index": -1,
+      "authors": [
+        "Galateia Terti",
+        "Sandrine Anquetin",
+        "Isabelle Ruin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4.1 Drivers of social impacts from extreme weather events",
+      "printed_page_number": "239",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4.1.1 What is the role of human exposure and vulnerability in weather-related disasters?",
+      "printed_page_number": "239",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4.1.2 How is social vulnerability defined and measured?",
+      "printed_page_number": "241",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4.1.3 The space-time scales of human exposure: an intersection of the weather and vulnerability driving forces?",
+      "printed_page_number": "242",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4.1.4 How the concept of dynamic social vulnerability can support weather impacts prediction?",
+      "printed_page_number": "244",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4.2 The need for integrated forecasting tools to anticipate social impacts",
+      "printed_page_number": "247",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4.2.1 Are hazard forecasts sufficient to improve early warning systems?",
+      "printed_page_number": "247",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4.2.2 How to shift from hazard forecasts to impact-based forecasts?",
+      "printed_page_number": "250",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4.2.3 How vulnerability metrics can complement hydrologic forecasts toward impact estimation?",
+      "printed_page_number": "252",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4.3 Insights of methodological advances in modeling the coupled sociohydrometeorological system in high-impact weather events",
+      "printed_page_number": "255",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4.3.1 Examples of two aggregated and individual-based microscale interdisciplinary approaches",
+      "printed_page_number": "255",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4.3.2 Methodological comparison: strengths and weaknesses of the interdisciplinary modeling",
+      "printed_page_number": "261",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4.4 Toward operational decision-making in high-impact weather events: insights from a participatory role-playing experiment",
+      "printed_page_number": "264",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4.5 Conclusion",
+      "printed_page_number": "268",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "References",
+      "printed_page_number": "270",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "3.5 Landslides and debris flows",
+      "printed_page_number": "278",
+      "source_page_index": -1,
+      "authors": [
+        "Dalia B. Kirschbaum",
+        "Sana Khan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.5.1 Introduction",
+      "printed_page_number": "278",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.5.2 Data and methodology",
+      "printed_page_number": "280",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.5.2.1 Precipitation products",
+      "printed_page_number": "280",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.5.2.2 Methodology",
+      "printed_page_number": "281",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.5.3 Results",
+      "printed_page_number": "282",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.5.3.1 Contiguous United States evaluation",
+      "printed_page_number": "282",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.5.3.2 Global evaluation",
+      "printed_page_number": "288",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.5.3.3 Case studies",
+      "printed_page_number": "292",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.5.4 Discussion",
+      "printed_page_number": "297",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.5.5 Conclusions",
+      "printed_page_number": "301",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Acknowledgments",
+      "printed_page_number": "302",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "References",
+      "printed_page_number": "302",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "3.6 Weather-induced power outages",
+      "printed_page_number": "305",
+      "source_page_index": -1,
+      "authors": [
+        "Diego Cerrai",
+        "Emmanouil Anagnostou"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.6.1 Power grid outages and severe weather",
+      "printed_page_number": "305",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.6.2 Modeling weather impact on the electric grid",
+      "printed_page_number": "307",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.6.2.1 Power outages during tropical storms",
+      "printed_page_number": "312",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.6.2.2 Power outages during extratropical rain and wind storms",
+      "printed_page_number": "315",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.6.2.3 Power outages during thunderstorms",
+      "printed_page_number": "318",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.6.2.4 Power outages during snow and ice storms",
+      "printed_page_number": "320",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "References",
+      "printed_page_number": "323",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Afterword",
+      "printed_page_number": "327",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "329",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

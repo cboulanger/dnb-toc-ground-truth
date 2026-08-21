@@ -1,0 +1,123 @@
+{
+  "generated_at": 1787011342.30425,
+  "entries": [
+    {
+      "title": "VORWORT",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Claudia Resch",
+        "Wolfgang U. Dressler"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "I. CLARIAH-AT: Digitale Infrastrukturen f\u00fcr die Linguistik",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Karlheinz M\u00f6rth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. AMC (Austrian Media Corpus) \u2013 Korpusbasierte Forschungen zum \u00f6sterreichischen Deutsch",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [
+        "Jutta Ransmayr",
+        "Karlheinz M\u00f6rth",
+        "Matej \u0110ur\u010do"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. Morphosyntaktische Annotation historischer deutscher Texte: Das Austrian Baroque Corpus",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [
+        "Claudia Resch",
+        "Ulrike Czeitschner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IV. Die morphologische Annotation im Gralis-Korpus",
+      "printed_page_number": "63",
+      "source_page_index": -1,
+      "authors": [
+        "Branko To\u0161ovi\u0107"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "V. Kodierung und Analyse mit CHILDES: Erfahrungen mit kindersprachlichen Spontansprachkorpora und erste Arbeiten zu einem rein erwachsenensprachlichen Spontansprachkorpus",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "Katharina Korecky-Kr\u00f6ll"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VI. Eigennamen in der Korpuslinguistik: Eine praxisorientierte Erstanalyse",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Ernst"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VII. Pluraldubletten diachron und synchron: Eine korpusbasierte Untersuchung zu den Spuren der Diachronie im Gegenwartsdeutschen",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [
+        "Martina Werner",
+        "Wolfgang U. Dressler",
+        "Karlheinz M\u00f6rth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VIII. Phonotaktische versus morphonotaktische Konsonantengruppen im Slowakischen und Deutschen: Eine kontrastive korpuslinguistische Untersuchung",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [
+        "Miroslava Hlini\u010danov\u00e1",
+        "Matej \u0110ur\u010do",
+        "Karlheinz M\u00f6rth",
+        "Wolfgang U. Dressler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IX. Statistische maschinelle \u00dcbersetzung vom Standarddeutschen in den Wiener Dialekt",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [
+        "Friedrich Neubarth",
+        "Harald Trost"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "REGISTER",
+      "printed_page_number": "205",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

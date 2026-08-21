@@ -1,0 +1,148 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "5",
+      "skip": true
+    },
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Melanchthon – Leben, Werk, Bedeutung",
+      "authors": [
+        "Rudolf Keller"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Melanchthon in Bayern",
+      "authors": [
+        "Thomas Kothmann"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Melanchthon und die Confessio Augustana",
+      "authors": [
+        "Günther Wenz"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Philipp Melanchthon",
+      "authors": [
+        "Albrecht P. Luttenberger"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Calvin in Regensburg",
+      "authors": [
+        "Alasdair Heron"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "Melanchthon und die Frauen",
+      "authors": [
+        "Andrea König"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "Melanchthon als Dogmatiker",
+      "authors": [
+        "Hans Schwarz"
+      ],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "Freiheit am Scheideweg",
+      "authors": [
+        "Rolf Schönberger"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "An den Grenzen des Porträts",
+      "authors": [
+        "Hans-Christoph Dittscheid"
+      ],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "Certa Deus toti impressit vestigia mundo",
+      "authors": [
+        "Christoph Meinel"
+      ],
+      "printed_page_number": "229",
+      "skip": false
+    },
+    {
+      "title": "Die Heiligkeit des Lehrens und Lernens – Philipp Melanchthon als Pädagoge",
+      "authors": [
+        "Michael Fricke"
+      ],
+      "printed_page_number": "253",
+      "skip": false
+    },
+    {
+      "title": "Der Lehrer Deutschlands und die Philosophie des Lebens",
+      "authors": [
+        "Matthias Heesch"
+      ],
+      "printed_page_number": "281",
+      "skip": false
+    },
+    {
+      "title": "Philipp Melanchthon aus römisch-katholischer Sicht",
+      "authors": [
+        "Alfons Knoll"
+      ],
+      "printed_page_number": "311",
+      "skip": false
+    },
+    {
+      "title": "Im Aufblick zur himmlischen Kirche",
+      "authors": [
+        "Werner Thiede"
+      ],
+      "printed_page_number": "345",
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "authors": [],
+      "printed_page_number": "371",
+      "skip": true
+    },
+    {
+      "title": "Nachweis der Abbildungen",
+      "authors": [],
+      "printed_page_number": "373",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,200 @@
+{
+  "entries": [
+    {
+      "title": "Introduction",
+      "authors": [
+        "Gerda Ha\u00dfler",
+        "Sylvie Mutet"
+      ],
+      "printed_page_number": "1"
+    },
+    {
+      "title": "La notion de \u00ab modalit\u00e9 \u00bb. Types de modalit\u00e9",
+      "authors": [
+        "Nicole Le Querler"
+      ],
+      "printed_page_number": "23"
+    },
+    {
+      "title": "La modalit\u00e9 dans la s\u00e9mantique formelle",
+      "authors": [
+        "Teresa Solias"
+      ],
+      "printed_page_number": "41"
+    },
+    {
+      "title": "La modalit\u00e9 dans la grammaire g\u00e9n\u00e9rative",
+      "authors": [
+        "Eva-Maria Remberger"
+      ],
+      "printed_page_number": "59"
+    },
+    {
+      "title": "Les approches fonctionnelles de la modalit\u00e9",
+      "authors": [
+        "Gerda Ha\u00dfler"
+      ],
+      "printed_page_number": "83"
+    },
+    {
+      "title": "La modalit\u00e9 dans la linguistique cognitive et la grammaire de construction",
+      "authors": [
+        "Anja Hennemann"
+      ],
+      "printed_page_number": "107"
+    },
+    {
+      "title": "Modalit\u00e9 et typologie des langues romanes",
+      "authors": [
+        "Heiko Narrog",
+        "Hiroshi Abe"
+      ],
+      "printed_page_number": "125"
+    },
+    {
+      "title": "Modes et modalit\u00e9s en fran\u00e7ais",
+      "authors": [
+        "Gerda Ha\u00dfler",
+        "Udo Mai"
+      ],
+      "printed_page_number": "153"
+    },
+    {
+      "title": "Modes et modalit\u00e9s en espagnol",
+      "authors": [
+        "Emilio Ridruejo"
+      ],
+      "printed_page_number": "185"
+    },
+    {
+      "title": "Modes et modalit\u00e9s en italien",
+      "authors": [
+        "Sarah Dess\u00ec Schmid"
+      ],
+      "printed_page_number": "217"
+    },
+    {
+      "title": "Modes et modalit\u00e9s en portugais",
+      "authors": [
+        "F\u00e1tima Oliveira"
+      ],
+      "printed_page_number": "241"
+    },
+    {
+      "title": "Modes et modalit\u00e9s en roumain",
+      "authors": [
+        "Rodica Zafiu"
+      ],
+      "printed_page_number": "265"
+    },
+    {
+      "title": "Modes et modalit\u00e9s en catalan",
+      "authors": [
+        "Jenny Brumme"
+      ],
+      "printed_page_number": "297"
+    },
+    {
+      "title": "Modes et modalit\u00e9s en sarde",
+      "authors": [
+        "Simone Pisano",
+        "Eva-Maria Remberger"
+      ],
+      "printed_page_number": "321"
+    },
+    {
+      "title": "Le syst\u00e8me des modes verbaux dans les langues romanes et ses dynamiques en diachronie",
+      "authors": [
+        "Martin Becker"
+      ],
+      "printed_page_number": "351"
+    },
+    {
+      "title": "Les modes dans l'histoire des grammaires des langues romanes",
+      "authors": [
+        "Mar\u00eda Luisa Calero Vaquera",
+        "Mar\u00eda Mart\u00ednez-Atiensa"
+      ],
+      "printed_page_number": "385"
+    },
+    {
+      "title": "La s\u00e9lection du mode et ses d\u00e9clencheurs",
+      "authors": [
+        "Jan Lindschouw"
+      ],
+      "printed_page_number": "409"
+    },
+    {
+      "title": "L'usage du subjonctif et sa variabilit\u00e9",
+      "authors": [
+        "Josep Quer"
+      ],
+      "printed_page_number": "435"
+    },
+    {
+      "title": "Le conditionnel de \u00ab rumeur \u00bb ou \u00ab journalistique \u00bb",
+      "authors": [
+        "Waldtraud Weidenbusch"
+      ],
+      "printed_page_number": "453"
+    },
+    {
+      "title": "Les verbes modaux dans les langues romanes",
+      "authors": [
+        "Ana Bravo"
+      ],
+      "printed_page_number": "489"
+    },
+    {
+      "title": "Adverbes modaux et \u00e9videntiels",
+      "authors": [
+        "Anna-Maria De Cesare"
+      ],
+      "printed_page_number": "507"
+    },
+    {
+      "title": "Les adjectifs modaux",
+      "authors": [
+        "S\u00e9bastien Marengo"
+      ],
+      "printed_page_number": "533"
+    },
+    {
+      "title": "Intonation et modalit\u00e9",
+      "authors": [
+        "Philippe Martin"
+      ],
+      "printed_page_number": "551"
+    },
+    {
+      "title": "Modalit\u00e9 et temporalit\u00e9/aspectualit\u00e9",
+      "authors": [
+        "Ver\u00f3nica B\u00f6hm"
+      ],
+      "printed_page_number": "573"
+    },
+    {
+      "title": "Modalit\u00e9 et \u00e9videntialit\u00e9",
+      "authors": [
+        "Bert Cornillie"
+      ],
+      "printed_page_number": "593"
+    },
+    {
+      "title": "\u00c9nonciation m\u00e9diative",
+      "authors": [
+        "Zlatka Guentch\u00e9va"
+      ],
+      "printed_page_number": "611"
+    },
+    {
+      "title": "Modalit\u00e9 couverte",
+      "authors": [
+        "Gerda Ha\u00dfler"
+      ],
+      "printed_page_number": "637"
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

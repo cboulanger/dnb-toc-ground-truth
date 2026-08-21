@@ -1,0 +1,90 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": ["Barbara Stollberg-Rilinger"],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Eine Frage von Herrschaft. Religion und Geschlecht im alten Rom",
+      "authors": ["Ann-Cathrin Harders"],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Perversion als Argument. Sex und Geschlechterordnung in innerkirchlichen Polemiken des lateinischen Hoch- und Spätmittelalters",
+      "authors": ["Sita Steckel"],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Neue Grenzen und neue Möglichkeiten. Religiöse Lebensentwürfe geistlicher Frauen in der Umbruchzeit des 12. und 13. Jahrhunderts",
+      "authors": ["Eva Schlotheuber"],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Kulturkampf als Geschlechterkampf? Geschlecht als Grenze der Säkularisierung im 19. Jahrhundert",
+      "authors": ["Manuel Borutta"],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "Trösterin der Betrübten, Jungfrau, Mutter und Möhne. Pastorale Konzepte und weibliche Frömmigkeit im Bistum Münster um 1900",
+      "authors": ["Werner Freitag"],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "Fundamentalismus und Geschlecht",
+      "authors": ["Christina von Braun"],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "Religiös-weltanschauliche Neutralität und Geschlechterordnung. Strafrechtliche Burka-Verbote zwischen Paternalismus und Moralismus",
+      "authors": ["Bijan Fateh-Moghadam"],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "Women, Law and Religion. Dealing with (Potential) Conflicts between Freedom of Religion and Gender Equality from a Human Rights Perspective",
+      "authors": ["Titia Loenen"],
+      "printed_page_number": "215",
+      "skip": false
+    },
+    {
+      "title": "Zwischen Gewaltopfer und Haremsphantasie. Zum Selbst- und Fremdbild der muslimischen Frau",
+      "authors": ["Khola Maryam Hübsch"],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "Frauen im Rabbinat. Feministische Aufbrüche im Judentum von der ersten Rabbinerin Regina Jonas bis heute",
+      "authors": ["Elisa Klapheck"],
+      "printed_page_number": "267",
+      "skip": false
+    },
+    {
+      "title": "„… nicht mehr Mann und Frau“ (Gal 3,28). Geschlecht und Geschlechterverhältnisse – Provokation für Kirche und Theologie",
+      "authors": ["Marianne Heimbach-Steins"],
+      "printed_page_number": "279",
+      "skip": false
+    },
+    {
+      "title": "Verzeichnis der Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "295",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

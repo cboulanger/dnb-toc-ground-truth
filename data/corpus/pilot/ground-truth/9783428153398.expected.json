@@ -1,0 +1,414 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Grußwort (Christoph Kardinal Schönborn)",
+      "authors": [],
+      "printed_page_number": "15",
+      "skip": true
+    },
+    {
+      "title": "Grußwort (Bischof Dr. Dr. Klaus Küng)",
+      "authors": [],
+      "printed_page_number": "17",
+      "skip": true
+    },
+    {
+      "title": "Grußwort (Prof. Dr. Sigrid Müller)",
+      "authors": [],
+      "printed_page_number": "19",
+      "skip": true
+    },
+    {
+      "title": "Grundfragen des Kirchenrechts und Allgemeine Normen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die Erwägungen Ludger Müllers zur Analogie zwischen kanonischem und weltlichem Recht",
+      "authors": [
+        "Arturo Cattaneo"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "Neuevangelisierung. Weg und Herzmitte der Kirche in unserer Zeit",
+      "authors": [
+        "Georg Gänswein"
+      ],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "Mitbürger der Heiligen (Eph 2,19). Das Fördern der Heiligkeit der Kirche als Verpflichtung: Ein Paradigma für die kanonistische Hermeneutik?",
+      "authors": [
+        "Libero Gerosa"
+      ],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "„Die Säkularisierung kommt der Kirche zu Hilfe“. Drei Beispiele und eine Hoffnung",
+      "authors": [
+        "Martin Grichting"
+      ],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "Wieviel an Recht verträgt die Kirche? Eine theoretische und theologische Problemanzeige zur Reichweite des kirchlichen Regelungsanspruchs",
+      "authors": [
+        "Judith Hahn"
+      ],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "Fachwissen als Grundlage rechtskonformen Handelns. Ein Plädoyer für die kirchenrechtliche Ausbildung",
+      "authors": [
+        "Elisabeth Kandler-Mayr"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "In der Welt, nicht von der Welt. (Staats)Kirchenrechtliche Implikationen einer Entweltlichung der Kirche",
+      "authors": [
+        "Stefan Mückl"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "Auslegung von Gesetzen im Kirchenrecht. Ein rechtshistorischer und antekanonistischer Beitrag zur Debatte",
+      "authors": [
+        "Thomas Schüller"
+      ],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "Die Terminologie der kirchlichen Gesetzbücher. Versuch einer Bestandsaufnahme zur kirchlichen Rechtssprache des CIC und des CCEO",
+      "authors": [
+        "Klaus Zeller"
+      ],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "Kirchliches Verfassungsrecht",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Papa emeritus. Anmerkungen zum Titel eines Papstes post renuntiationem",
+      "authors": [
+        "Anna Egler"
+      ],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "Kollegiatkapitel und neue Strukturen in der Seelsorge. Ein Vorschlag",
+      "authors": [
+        "Johann Hirnsperger"
+      ],
+      "printed_page_number": "185",
+      "skip": false
+    },
+    {
+      "title": "Die Reform der Wirtschafts- und Finanzverwaltung des Heiligen Stuhls durch Papst Franziskus",
+      "authors": [
+        "Andreas Kowatsch"
+      ],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "Der Ruf nach mehr Synodalität",
+      "authors": [
+        "Georg May"
+      ],
+      "printed_page_number": "223",
+      "skip": false
+    },
+    {
+      "title": "Das kanonische Territorium in der kirchlichen Rechtspraxis. Ein Vergleich der Regelungen des CIC/1917 und des CIC/1983",
+      "authors": [
+        "Martin Rehak"
+      ],
+      "printed_page_number": "249",
+      "skip": false
+    },
+    {
+      "title": "100 Jahre persona in Ecclesia Christi",
+      "authors": [
+        "Ulrich Rhode"
+      ],
+      "printed_page_number": "283",
+      "skip": false
+    },
+    {
+      "title": "Grundvollzüge der Kirche und ihre rechtliche Ordnung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Tote bestatten. Das kirchliche Begräbnis zwischen Rechtsanspruch und Werk der Barmherzigkeit",
+      "authors": [
+        "Reinhild Ahlers"
+      ],
+      "printed_page_number": "317",
+      "skip": false
+    },
+    {
+      "title": "Divine Worship. Liturgierechtliche Anmerkungen zu einem neuen Usus des Römischen Ritus",
+      "authors": [
+        "Hans-Jürgen Feulner"
+      ],
+      "printed_page_number": "329",
+      "skip": false
+    },
+    {
+      "title": "Geht zu allen Völkern und tauft sie. Kirchenrechtliche Überlegungen zur Taufe von Flüchtlingen",
+      "authors": [
+        "Stefan Ihli"
+      ],
+      "printed_page_number": "371",
+      "skip": false
+    },
+    {
+      "title": "Das Phänomen der Basilica minor im 21. Jahrhundert. Relevanz und Mehrwert",
+      "authors": [
+        "Yves Kingata"
+      ],
+      "printed_page_number": "393",
+      "skip": false
+    },
+    {
+      "title": "De celebratione sacramenti paenitentiae. Die Rechtsnormen zur Feier des Bußsakraments im Licht ihrer theologischen Entfaltung",
+      "authors": [
+        "Christoph Ohly"
+      ],
+      "printed_page_number": "417",
+      "skip": false
+    },
+    {
+      "title": "Aktuelle tauf- und gliedschaftsrechtliche Fragen am Beispiel von Muslimen und Christen des Ostens",
+      "authors": [
+        "Beatrix Laukemper-Isermann"
+      ],
+      "printed_page_number": "433",
+      "skip": false
+    },
+    {
+      "title": "„Wir haben genügend Priester. Nur, wir weihen sie nicht.“. Für mutige Vorstöße in der Zulassungsfrage zum amtlichen Priestertum",
+      "authors": [
+        "Andreas Weiß"
+      ],
+      "printed_page_number": "445",
+      "skip": false
+    },
+    {
+      "title": "Kirchliches Sanktions- und Verfahrensrecht",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Zum Verhältnis von Gerichts- und Generalvikar",
+      "authors": [
+        "Michael Benz"
+      ],
+      "printed_page_number": "461",
+      "skip": false
+    },
+    {
+      "title": "Maßnahmen der Österreichischen Bischofskonferenz bei Missbrauch und Gewalt. Zivilrechtliche Aspekte",
+      "authors": [
+        "Burkhard Josef Berkmann"
+      ],
+      "printed_page_number": "473",
+      "skip": false
+    },
+    {
+      "title": "Kritische Anmerkungen zu c. 1399 CIC/1983",
+      "authors": [
+        "Konrad Breitsching"
+      ],
+      "printed_page_number": "495",
+      "skip": false
+    },
+    {
+      "title": "Strafe oder Sanktion? Überlegungen zum ordensrechtlichen Institut der auferlegten Exklaustration",
+      "authors": [
+        "Stephan Haering"
+      ],
+      "printed_page_number": "515",
+      "skip": false
+    },
+    {
+      "title": "Ne bis in idem. Kanonistische Überlegungen zu einem alten Rechtssprichwort angesichts problematischer Aspekte der Anwendung des kirchlichen Sanktionsrechts",
+      "authors": [
+        "Heribert Hallermann"
+      ],
+      "printed_page_number": "533",
+      "skip": false
+    },
+    {
+      "title": "Mitis Iudex. Anmerkungen zum Handeln des kirchlichen Richters",
+      "authors": [
+        "Alfred E. Hierold"
+      ],
+      "printed_page_number": "561",
+      "skip": false
+    },
+    {
+      "title": "Burchard von Worms (1000–1025) und die Entwicklung des kirchlichen Strafrechts",
+      "authors": [
+        "Lotte Kéry"
+      ],
+      "printed_page_number": "571",
+      "skip": false
+    },
+    {
+      "title": "„Soll etwa nur Hochhuth den ehrwürdigen Priester Bernhard Lichtenberg für sich in Anspruch nehmen dürfen?“. Die Seligsprechungs-Initiative aus dem Erzbischöflichen Amt Görlitz 1964",
+      "authors": [
+        "Gotthard Klein"
+      ],
+      "printed_page_number": "599",
+      "skip": false
+    },
+    {
+      "title": "Besitzt die Kirche das Recht zu strafen? Der c. 1311 CIC/1983 und das Postulat einer theologischen Begründung des Strafanspruchs der Kirche",
+      "authors": [
+        "Reinhard Knittel"
+      ],
+      "printed_page_number": "625",
+      "skip": false
+    },
+    {
+      "title": "Katholische Kirche und Menschenrechte. Erwartungen an ein künftiges Strafrecht",
+      "authors": [
+        "Wilhelm Rees"
+      ],
+      "printed_page_number": "639",
+      "skip": false
+    },
+    {
+      "title": "Die Anrufung eines staatlichen Gerichts mit dem Ziel, den kirchlichen Rechtsweg zweck- und wirkungslos zu machen, als mögliche Straftat in der kirchlichen Rechtsordnung gemäß c. 1375 CIC/1983",
+      "authors": [
+        "Nikolaus Schöch"
+      ],
+      "printed_page_number": "667",
+      "skip": false
+    },
+    {
+      "title": "Fragen zum Motu proprio „Mitis Iudex Dominus Iesus“",
+      "authors": [
+        "Markus Walser"
+      ],
+      "printed_page_number": "685",
+      "skip": false
+    },
+    {
+      "title": "Recht der orientalischen Kirchen und ökumenische Fragestellungen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die Rechtsstellung der Apostolischen Exarchie in der Tschechischen Republik",
+      "authors": [
+        "Jiří Dvořáček"
+      ],
+      "printed_page_number": "701",
+      "skip": false
+    },
+    {
+      "title": "Eherechtliche Verfahrensvorschriften im anglikanischen Kirchenrecht",
+      "authors": [
+        "Hanns Engelhardt"
+      ],
+      "printed_page_number": "721",
+      "skip": false
+    },
+    {
+      "title": "Die Disziplinarordnung für den Klerus der griechisch-orientalischen Metropolie der Bukowina und von Dalmatien (1908). Ein unveröffentlichter Dokumentenentwurf aus der Endzeit der Habsburgermonarchie",
+      "authors": [
+        "Thomas Mark Németh"
+      ],
+      "printed_page_number": "743",
+      "skip": false
+    },
+    {
+      "title": "Der „Codex Canonum Ecclesiarum Orientalium“. Sein Ort im katholischen Kirchenrecht und im ökumenischen Dialog",
+      "authors": [
+        "Helmuth Pree"
+      ],
+      "printed_page_number": "769",
+      "skip": false
+    },
+    {
+      "title": "Ist ein kirchlicher Eheabschluss orthodoxer Gläubiger mit Christen anderer Bekenntnisse (Mischehe) möglich?",
+      "authors": [
+        "Rudolf Prokschi"
+      ],
+      "printed_page_number": "783",
+      "skip": false
+    },
+    {
+      "title": "Vergleichendes Religionsrecht und das Verhältnis von Staat und Kirche",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Religionsverfassungsrechtliche Entwicklungen in der Schweiz",
+      "authors": [
+        "Claudius Luterbacher-Maineri"
+      ],
+      "printed_page_number": "801",
+      "skip": false
+    },
+    {
+      "title": "„Die Zukunft des konfessionellen Religionsunterrichts“. Die Konfessionalität des Religionsunterrichts aus der Sicht des Kirchenrechts und des Religionsrechts",
+      "authors": [
+        "Thomas Meckel"
+      ],
+      "printed_page_number": "825",
+      "skip": false
+    },
+    {
+      "title": "Schulische Integration und elterliches Erziehungsrecht. Die Unterrichtsbefreiung aus religiösen Gründen nach den „Burkini-Entscheidungen“ von BVerwG, BVerfG und EGMR",
+      "authors": [
+        "Arnd Uhle"
+      ],
+      "printed_page_number": "849",
+      "skip": false
+    },
+    {
+      "title": "Bibliographie Ludger Müller",
+      "authors": [],
+      "printed_page_number": "873",
+      "skip": true
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "authors": [],
+      "printed_page_number": "885",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

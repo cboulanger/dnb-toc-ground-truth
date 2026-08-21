@@ -1,0 +1,128 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "5",
+      "skip": true
+    },
+    {
+      "title": "Die geistesgeschichtliche Lage Anstösse und Möglichkeiten",
+      "authors": [
+        "Peter Classen"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Der Beitrag des Judentums",
+      "authors": [
+        "Hermann Levin Goldschmidt"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "Die hohen Schulen",
+      "authors": [
+        "Joachim Ehlers"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Die Theologie und die Wissenschaften",
+      "authors": [
+        "Albert Zimmermann"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Die Philosophie des Peter Abaelard",
+      "authors": [
+        "Helmut Meinhardt"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "Die Rechtswissenschaft",
+      "authors": [
+        "Gerhard Otte"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "Gesetzgebung und Kodifikationen",
+      "authors": [
+        "Armin Wolf"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "Die Rezeption arabisch-griechischer Medizin und ihr Einfluss auf die abendländische Heilkunde",
+      "authors": [
+        "Heinrich Schipperges"
+      ],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "Roger Bacons Begriff vom Naturgesetz",
+      "authors": [
+        "Matthias Schramm"
+      ],
+      "printed_page_number": "197",
+      "skip": false
+    },
+    {
+      "title": "Architekturlehre",
+      "authors": [
+        "Adolf Reinle"
+      ],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "Musica",
+      "authors": [
+        "Kurt von Fischer"
+      ],
+      "printed_page_number": "233",
+      "skip": false
+    },
+    {
+      "title": "Dichtungslehren und Briefsteller",
+      "authors": [
+        "Hans Martin Schaller"
+      ],
+      "printed_page_number": "249",
+      "skip": false
+    },
+    {
+      "title": "Der Begriff der Wissenschaft",
+      "authors": [
+        "Wolfgang Kluxen"
+      ],
+      "printed_page_number": "273",
+      "skip": false
+    },
+    {
+      "title": "Die Autoren",
+      "authors": [],
+      "printed_page_number": "295",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

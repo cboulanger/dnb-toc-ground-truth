@@ -1,0 +1,158 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [
+        "Katharina Neuburger"
+      ],
+      "printed_page_number": "10",
+      "skip": true
+    },
+    {
+      "title": "Foreword",
+      "authors": [
+        "Katharina Neuburger"
+      ],
+      "printed_page_number": "20",
+      "skip": true
+    },
+    {
+      "title": "Corpo-Reality. Zum Verhältnis von Kunstproduktion, Körperwissen und performativer Sprache",
+      "authors": [
+        "Paula Kohlmann"
+      ],
+      "printed_page_number": "26",
+      "skip": false
+    },
+    {
+      "title": "Corpo-Reality: On the Relationship between Art Production, Body Knowledge, and Performative Language",
+      "authors": [
+        "Paula Kohlmann"
+      ],
+      "printed_page_number": "44",
+      "skip": false
+    },
+    {
+      "title": "„lassen wir zeichen zurück [...], suchen wir keinen halt, bewegen wir uns.\" Günther Ueckers poetisches Werk",
+      "authors": [
+        "Barbara Könches"
+      ],
+      "printed_page_number": "56",
+      "skip": false
+    },
+    {
+      "title": "\"we leave a trail of signs [...], we do not seek footholds, we move.\" The Poetic Work of Günther Uecker",
+      "authors": [
+        "Barbara Könches"
+      ],
+      "printed_page_number": "78",
+      "skip": false
+    },
+    {
+      "title": "Zugänge zur künstlerischen Handlung. Über die Potenziale einer interkulturellen philosophischen Perspektive in der kunstwissenschaftlichen Forschung",
+      "authors": [
+        "Xiao Xiao"
+      ],
+      "printed_page_number": "96",
+      "skip": false
+    },
+    {
+      "title": "Approaches to Artistic Action. On the Potential for an Intercultural Philosophical Perspective in Art Historical Research",
+      "authors": [
+        "Xiao Xiao"
+      ],
+      "printed_page_number": "110",
+      "skip": false
+    },
+    {
+      "title": "Performance als Protestform",
+      "authors": [
+        "Lisa Beißwanger"
+      ],
+      "printed_page_number": "118",
+      "skip": false
+    },
+    {
+      "title": "Performance as a Form of Protest",
+      "authors": [
+        "Lisa Beißwanger"
+      ],
+      "printed_page_number": "134",
+      "skip": false
+    },
+    {
+      "title": "Museen können bewohnbare Orte sein. Günther Uecker und Gerhard Richter 1968 in der Staatlichen Kunsthalle Baden-Baden – eine kunsthistorische Annäherung",
+      "authors": [
+        "Klaus Gereon Beuckers"
+      ],
+      "printed_page_number": "148",
+      "skip": false
+    },
+    {
+      "title": "Museums Can Be Habitable Places: Günther Uecker and Gerhard Richter at the Staatliche Kunsthalle Baden-Baden in 1968. An Art Historical Approach",
+      "authors": [
+        "Klaus Gereon Beuckers"
+      ],
+      "printed_page_number": "172",
+      "skip": false
+    },
+    {
+      "title": "Ästhetische Nullpunkte – ZERO-Performance",
+      "authors": [
+        "Raha Golestani",
+        "Konstantin Schönfelder"
+      ],
+      "printed_page_number": "190",
+      "skip": false
+    },
+    {
+      "title": "Aesthetic Zero Points: ZERO Performance",
+      "authors": [
+        "Raha Golestani",
+        "Konstantin Schönfelder"
+      ],
+      "printed_page_number": "210",
+      "skip": false
+    },
+    {
+      "title": "Bildhandeln und Bildraum. Zu Günther Ueckers Aktion und Malerei Im Kreis gehen (1975)",
+      "authors": [
+        "Nick Böhnke"
+      ],
+      "printed_page_number": "226",
+      "skip": false
+    },
+    {
+      "title": "Pictorial Action and Pictorial Space. On Günther Uecker's Action and Painting Im Kreis Gehen (1975)",
+      "authors": [
+        "Nick Böhnke"
+      ],
+      "printed_page_number": "246",
+      "skip": false
+    },
+    {
+      "title": "Zustandsräume. Redemanuskript",
+      "authors": [
+        "Georg Winter"
+      ],
+      "printed_page_number": "262",
+      "skip": false
+    },
+    {
+      "title": "State Spaces. Lecture Manuscript",
+      "authors": [
+        "Georg Winter"
+      ],
+      "printed_page_number": "276",
+      "skip": false
+    },
+    {
+      "title": "Impressum",
+      "authors": [],
+      "printed_page_number": "286",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

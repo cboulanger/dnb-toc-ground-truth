@@ -1,0 +1,84 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Prolog: Die gute Gesellschaft",
+      "authors": [],
+      "printed_page_number": "14",
+      "skip": false
+    },
+    {
+      "title": "Der individualisierte Mensch \u2013 und seine Bindungen",
+      "authors": [],
+      "printed_page_number": "36",
+      "skip": false
+    },
+    {
+      "title": "Der flexible Mensch \u2013 und seine Sicherheiten",
+      "authors": [],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "Der sozialversicherte Mensch \u2013 und seine Solidarit\u00e4ten",
+      "authors": [],
+      "printed_page_number": "84",
+      "skip": false
+    },
+    {
+      "title": "Der solidarische Mensch \u2013 und seine Grenzen",
+      "authors": [],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "Der weltb\u00fcrgerliche Mensch \u2013 und seine Nationalit\u00e4t",
+      "authors": [],
+      "printed_page_number": "112",
+      "skip": false
+    },
+    {
+      "title": "Der friedfertige Mensch \u2013 und seine Feindbilder",
+      "authors": [],
+      "printed_page_number": "128",
+      "skip": false
+    },
+    {
+      "title": "Der kommunizierende Mensch \u2013 und seine Missverst\u00e4ndnisse",
+      "authors": [],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "Der genoptimierte Mensch \u2013 und sein soziales Erbe",
+      "authors": [],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "Der zukunftsgl\u00e4ubige Mensch \u2013 und seine Herkunftszw\u00e4nge",
+      "authors": [],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Epilog: Die Gesellschaft der Zukunft",
+      "authors": [],
+      "printed_page_number": "208",
+      "skip": false
+    },
+    {
+      "title": "Drucknachweise",
+      "authors": [],
+      "printed_page_number": "221",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

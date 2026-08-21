@@ -1,0 +1,372 @@
+{
+  "generated_at": 1787236083.236362,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Table des mati\u00e8res",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Gerda Ha\u00dfler",
+        "Sylvie Mutet"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "0 Introduction",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Gerda Ha\u00dfler",
+        "Sylvie Mutet"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Approches th\u00e9oriques de la modalit\u00e9",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1 La notion de \u00ab modalit\u00e9 \u00bb. Types de modalit\u00e9",
+      "printed_page_number": "23",
+      "source_page_index": -1,
+      "authors": [
+        "Nicole Le Querler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 La modalit\u00e9 dans la s\u00e9mantique formelle",
+      "printed_page_number": "41",
+      "source_page_index": -1,
+      "authors": [
+        "Teresa Solias"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 La modalit\u00e9 dans la grammaire g\u00e9n\u00e9rative",
+      "printed_page_number": "59",
+      "source_page_index": -1,
+      "authors": [
+        "Eva-Maria Remberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Les approches fonctionnelles de la modalit\u00e9",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [
+        "Gerda Ha\u00dfler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 La modalit\u00e9 dans la linguistique cognitive et la grammaire de construction",
+      "printed_page_number": "107",
+      "source_page_index": -1,
+      "authors": [
+        "Anja Hennemann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Modalit\u00e9 et typologie des langues romanes",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [
+        "Heiko Narrog",
+        "Hiroshi Abe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Les modes et les modalit\u00e9s dans les diff\u00e9rentes langues romanes",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "7 Modes et modalit\u00e9s en fran\u00e7ais",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [
+        "Gerda Ha\u00dfler",
+        "Udo Mai"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Modes et modalit\u00e9s en espagnol",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [
+        "Emilio Ridruejo"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 Modes et modalit\u00e9s en italien",
+      "printed_page_number": "217",
+      "source_page_index": -1,
+      "authors": [
+        "Sarah Dess\u00ec Schmid"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Modes et modalit\u00e9s en portugais",
+      "printed_page_number": "241",
+      "source_page_index": -1,
+      "authors": [
+        "F\u00e1tima Oliveira"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Table des mati\u00e8res",
+      "printed_page_number": "VIII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "11 Modes et modalit\u00e9s en roumain",
+      "printed_page_number": "265",
+      "source_page_index": -1,
+      "authors": [
+        "Rodica Zafiu"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12 Modes et modalit\u00e9s en catalan",
+      "printed_page_number": "297",
+      "source_page_index": -1,
+      "authors": [
+        "Jenny Brumme"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13 Modes et modalit\u00e9s en sarde",
+      "printed_page_number": "321",
+      "source_page_index": -1,
+      "authors": [
+        "Simone Pisano",
+        "Eva-Maria Remberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Les modes dans les langues romanes",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "14 Le syst\u00e8me des modes verbaux dans les langues romanes et ses dynamiques en diachronie",
+      "printed_page_number": "351",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Becker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15 Les modes dans l'histoire des grammaires des langues romanes",
+      "printed_page_number": "385",
+      "source_page_index": -1,
+      "authors": [
+        "Mar\u00eda Luisa Calero Vaquera",
+        "Mar\u00eda Mart\u00ednez-Atiensa"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16 La s\u00e9lection du mode et ses d\u00e9clencheurs",
+      "printed_page_number": "409",
+      "source_page_index": -1,
+      "authors": [
+        "Jan Lindschouw"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "17 L'usage du subjonctif et sa variabilit\u00e9",
+      "printed_page_number": "435",
+      "source_page_index": -1,
+      "authors": [
+        "Josep Quer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "18 Le conditionnel de \u00ab rumeur \u00bb ou \u00ab journalistique \u00bb",
+      "printed_page_number": "453",
+      "source_page_index": -1,
+      "authors": [
+        "Waldtraud Weidenbusch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Moyens d'expression des modalit\u00e9s autres que les modes",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "19 Les verbes modaux dans les langues romanes",
+      "printed_page_number": "489",
+      "source_page_index": -1,
+      "authors": [
+        "Ana Bravo"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "20 Adverbes modaux et \u00e9videntiels",
+      "printed_page_number": "507",
+      "source_page_index": -1,
+      "authors": [
+        "Anna-Maria De Cesare"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "21 Les adjectifs modaux",
+      "printed_page_number": "533",
+      "source_page_index": -1,
+      "authors": [
+        "S\u00e9bastien Marengo"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "22 Intonation et modalit\u00e9",
+      "printed_page_number": "551",
+      "source_page_index": -1,
+      "authors": [
+        "Philippe Martin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Table des mati\u00e8res",
+      "printed_page_number": "IX",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Probl\u00e8mes sp\u00e9cifiques de la modalit\u00e9 et chevauchements avec d'autres cat\u00e9gories",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "23 Modalit\u00e9 et temporalit\u00e9/aspectualit\u00e9",
+      "printed_page_number": "573",
+      "source_page_index": -1,
+      "authors": [
+        "Ver\u00f3nica B\u00f6hm"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "24 Modalit\u00e9 et \u00e9videntialit\u00e9",
+      "printed_page_number": "593",
+      "source_page_index": -1,
+      "authors": [
+        "Bert Cornillie"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "25 \u00c9nonciation m\u00e9diative",
+      "printed_page_number": "611",
+      "source_page_index": -1,
+      "authors": [
+        "Zlatka Guentch\u00e9va"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "26 Modalit\u00e9 couverte",
+      "printed_page_number": "637",
+      "source_page_index": -1,
+      "authors": [
+        "Gerda Ha\u00dfler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Liste des auteur(e)s",
+      "printed_page_number": "655",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Index des sujets",
+      "printed_page_number": "663",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Index des noms",
+      "printed_page_number": "677",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

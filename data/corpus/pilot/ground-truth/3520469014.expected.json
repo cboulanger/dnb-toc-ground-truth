@@ -1,0 +1,545 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Mitarbeiterverzeichnis",
+      "authors": [],
+      "printed_page_number": "VIII",
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [
+        "Peter Dinzelbacher"
+      ],
+      "printed_page_number": "IX",
+      "skip": true
+    },
+    {
+      "title": "Zu Theorie und Praxis der Mentalitätsgeschichte",
+      "authors": [
+        "Peter Dinzelbacher"
+      ],
+      "printed_page_number": "XV",
+      "skip": false
+    },
+    {
+      "title": "Individuum/Familie/Gesellschaft",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Antike",
+      "authors": [
+        "Barbara Feichtinger"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Mittelalter",
+      "authors": [
+        "Peter Dinzelbacher"
+      ],
+      "printed_page_number": "18",
+      "skip": false
+    },
+    {
+      "title": "Neuzeit",
+      "authors": [
+        "Martina Kessel"
+      ],
+      "printed_page_number": "38",
+      "skip": false
+    },
+    {
+      "title": "Sexualität/Liebe",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Antike",
+      "authors": [
+        "Barbara Feichtinger"
+      ],
+      "printed_page_number": "54",
+      "skip": false
+    },
+    {
+      "title": "Mittelalter",
+      "authors": [
+        "Peter Dinzelbacher"
+      ],
+      "printed_page_number": "70",
+      "skip": false
+    },
+    {
+      "title": "Neuzeit",
+      "authors": [
+        "Wolfgang Beutin"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "Religiosität",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Antike",
+      "authors": [
+        "Holger Sonnabend"
+      ],
+      "printed_page_number": "104",
+      "skip": false
+    },
+    {
+      "title": "Mittelalter",
+      "authors": [
+        "Peter Dinzelbacher"
+      ],
+      "printed_page_number": "120",
+      "skip": false
+    },
+    {
+      "title": "Neuzeit",
+      "authors": [
+        "Wolfgang Beutin"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "Körper und Seele",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Antike",
+      "authors": [
+        "Christian Böhme"
+      ],
+      "printed_page_number": "154",
+      "skip": false
+    },
+    {
+      "title": "Mittelalter",
+      "authors": [
+        "Peter Dinzelbacher",
+        "Rolf Sprandel"
+      ],
+      "printed_page_number": "160",
+      "skip": false
+    },
+    {
+      "title": "Neuzeit",
+      "authors": [
+        "Christina Vanja"
+      ],
+      "printed_page_number": "178",
+      "skip": false
+    },
+    {
+      "title": "Krankheit",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Antike",
+      "authors": [
+        "Ines Stahlmann"
+      ],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "Mittelalter",
+      "authors": [
+        "Christina Vanja"
+      ],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "Neuzeit",
+      "authors": [
+        "Christina Vanja"
+      ],
+      "printed_page_number": "200",
+      "skip": false
+    },
+    {
+      "title": "Lebensalter",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Antike",
+      "authors": [
+        "Ines Stahlmann"
+      ],
+      "printed_page_number": "208",
+      "skip": false
+    },
+    {
+      "title": "Mittelalter",
+      "authors": [
+        "Klaus Arnold"
+      ],
+      "printed_page_number": "216",
+      "skip": false
+    },
+    {
+      "title": "Neuzeit",
+      "authors": [
+        "Beatrix Bastl"
+      ],
+      "printed_page_number": "222",
+      "skip": false
+    },
+    {
+      "title": "Sterben/Tod",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Antike",
+      "authors": [
+        "Werner Portmann"
+      ],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "Mittelalter",
+      "authors": [
+        "Peter Dinzelbacher"
+      ],
+      "printed_page_number": "244",
+      "skip": false
+    },
+    {
+      "title": "Neuzeit",
+      "authors": [
+        "Martina Kessel"
+      ],
+      "printed_page_number": "260",
+      "skip": false
+    },
+    {
+      "title": "Ängste und Hoffnungen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Antike",
+      "authors": [
+        "Christian Böhme"
+      ],
+      "printed_page_number": "275",
+      "skip": false
+    },
+    {
+      "title": "Mittelalter",
+      "authors": [
+        "Peter Dinzelbacher"
+      ],
+      "printed_page_number": "285",
+      "skip": false
+    },
+    {
+      "title": "Neuzeit",
+      "authors": [
+        "Karl Vocelka"
+      ],
+      "printed_page_number": "295",
+      "skip": false
+    },
+    {
+      "title": "Freude, Leid und Glück",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Antike",
+      "authors": [
+        "Christian Böhme"
+      ],
+      "printed_page_number": "302",
+      "skip": false
+    },
+    {
+      "title": "Mittelalter",
+      "authors": [
+        "Urban Küsters"
+      ],
+      "printed_page_number": "307",
+      "skip": false
+    },
+    {
+      "title": "Neuzeit",
+      "authors": [
+        "Bea Lundt"
+      ],
+      "printed_page_number": "317",
+      "skip": false
+    },
+    {
+      "title": "Arbeit und Fest",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Antike",
+      "authors": [
+        "Hans Kloft"
+      ],
+      "printed_page_number": "326",
+      "skip": false
+    },
+    {
+      "title": "Mittelalter",
+      "authors": [
+        "Jacques Le Goff"
+      ],
+      "printed_page_number": "336",
+      "skip": false
+    },
+    {
+      "title": "Neuzeit",
+      "authors": [
+        "Andreas Wirsching"
+      ],
+      "printed_page_number": "349",
+      "skip": false
+    },
+    {
+      "title": "Kommunikation",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Antike",
+      "authors": [
+        "Hans Kloft"
+      ],
+      "printed_page_number": "362",
+      "skip": false
+    },
+    {
+      "title": "Mittelalter",
+      "authors": [
+        "Albrecht Classen"
+      ],
+      "printed_page_number": "370",
+      "skip": false
+    },
+    {
+      "title": "Neuzeit",
+      "authors": [
+        "Jörg Requate"
+      ],
+      "printed_page_number": "390",
+      "skip": false
+    },
+    {
+      "title": "Das Fremde und das Eigene",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Antike",
+      "authors": [
+        "Dagmar Stutzinger"
+      ],
+      "printed_page_number": "400",
+      "skip": false
+    },
+    {
+      "title": "Mittelalter",
+      "authors": [
+        "Harry Kühnel"
+      ],
+      "printed_page_number": "415",
+      "skip": false
+    },
+    {
+      "title": "Neuzeit",
+      "authors": [
+        "Albrecht Classen"
+      ],
+      "printed_page_number": "429",
+      "skip": false
+    },
+    {
+      "title": "Herrschaft",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Antike",
+      "authors": [
+        "Hans Kloft"
+      ],
+      "printed_page_number": "451",
+      "skip": false
+    },
+    {
+      "title": "Mittelalter",
+      "authors": [
+        "Hans-Werner Goetz"
+      ],
+      "printed_page_number": "466",
+      "skip": false
+    },
+    {
+      "title": "Neuzeit",
+      "authors": [
+        "Johann Baptist Müller"
+      ],
+      "printed_page_number": "476",
+      "skip": false
+    },
+    {
+      "title": "Recht",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Antike",
+      "authors": [
+        "J. Michael Rainer"
+      ],
+      "printed_page_number": "489",
+      "skip": false
+    },
+    {
+      "title": "Mittelalter",
+      "authors": [
+        "Wolfgang Schild"
+      ],
+      "printed_page_number": "513",
+      "skip": false
+    },
+    {
+      "title": "Neuzeit",
+      "authors": [
+        "Wolfgang Schild"
+      ],
+      "printed_page_number": "534",
+      "skip": false
+    },
+    {
+      "title": "Natur/Umwelt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Antike",
+      "authors": [
+        "Günther E. Thüry"
+      ],
+      "printed_page_number": "556",
+      "skip": false
+    },
+    {
+      "title": "Mittelalter",
+      "authors": [
+        "Harry Kühnel"
+      ],
+      "printed_page_number": "562",
+      "skip": false
+    },
+    {
+      "title": "Neuzeit",
+      "authors": [
+        "Rolf P. Sieferle"
+      ],
+      "printed_page_number": "580",
+      "skip": false
+    },
+    {
+      "title": "Raum",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Antike",
+      "authors": [
+        "Eckart Olshausen"
+      ],
+      "printed_page_number": "592",
+      "skip": false
+    },
+    {
+      "title": "Mittelalter",
+      "authors": [
+        "Peter Dinzelbacher"
+      ],
+      "printed_page_number": "604",
+      "skip": false
+    },
+    {
+      "title": "Neuzeit",
+      "authors": [
+        "Gerhard Strohmeier"
+      ],
+      "printed_page_number": "615",
+      "skip": false
+    },
+    {
+      "title": "Zeit/Geschichte",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Antike",
+      "authors": [
+        "Carl-Friedrich Geyer"
+      ],
+      "printed_page_number": "633",
+      "skip": false
+    },
+    {
+      "title": "Mittelalter",
+      "authors": [
+        "Hans-Werner Goetz"
+      ],
+      "printed_page_number": "640",
+      "skip": false
+    },
+    {
+      "title": "Neuzeit",
+      "authors": [
+        "Peter Dinzelbacher"
+      ],
+      "printed_page_number": "650",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,234 @@
+{
+  "generated_at": 1787258513.4991271,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Preface",
+      "printed_page_number": "ix",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgments",
+      "printed_page_number": "xix",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Prelude",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1 On Schubert Reading Poetry: A Primer in the Rhythm of Poetry and Music",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Rufus Hallmark"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part One: Close Readings and Comparative Studies",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2 The Musical \u201cSpirit\u201d of Goethe\u2019s \u201cSuleika\u201d: Schubert\u2019s Settings D. 720 and D. 717",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [
+        "Harry E. Seelig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Text-Music Relations in Schumann\u2019s Eichendorff Song \u201cFr\u00fchlingsfahrt\u201d",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Thym"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Hugo Wolf\u2019s Ghazal Settings from \u201cDas Schenkenbuch\u201d of Goethe\u2019s West-\u00f6stlicher Divan",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "Harry E. Seelig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Karl Weigl\u2019s Opus 1 in Its Nineteenth-Century Context: A Historic Literary-Musical Fusion of Goethe\u2019s \u201cWanderers Nachtlied\u201d and \u201cEin Gleiches\u201d",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [
+        "Harry E. Seelig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 \u201cHans Adam\u201d\u2014Goethe\u2019s Parodistic Creation Myth: A Parody Parodied by Hugo Wolf and Richard Strauss",
+      "printed_page_number": "136",
+      "source_page_index": -1,
+      "authors": [
+        "Harry E. Seelig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part Two: Poetic and Musical Structure",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "7 Text and Music in Schubert\u2019s Settings of Pentameter Poetry",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [
+        "Rufus Hallmark",
+        "Ann C. Fehn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Repetition as Structure in the German Lied: The Ghazal",
+      "printed_page_number": "220",
+      "source_page_index": -1,
+      "authors": [
+        "Ann C. Fehn",
+        "J\u00fcrgen Thym"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 Sonnet Structure and the German Lied: Shackles or Spurs?",
+      "printed_page_number": "240",
+      "source_page_index": -1,
+      "authors": [
+        "Ann C. Fehn",
+        "J\u00fcrgen Thym"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Schubert\u2019s Strategies in Setting Free Verse",
+      "printed_page_number": "261",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Thym",
+        "Ann C. Fehn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part Three: In Search of Cycles",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "11 Hugo Wolf and Goethe\u2019s \u201cDuodrama\u201d: Toward a \u201cBetter Understanding\u201d of the Problematic Divan-Trinity of Life, Love, and Spirit",
+      "printed_page_number": "283",
+      "source_page_index": -1,
+      "authors": [
+        "Harry E. Seelig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12 Text and Music in Mahler\u2019s Kindertotenlieder",
+      "printed_page_number": "322",
+      "source_page_index": -1,
+      "authors": [
+        "Ann C. Fehn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13 The R\u00fcckert Lieder of Robert and Clara Schumann",
+      "printed_page_number": "335",
+      "source_page_index": -1,
+      "authors": [
+        "Rufus Hallmark"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14 A Cycle in Flux: Schumann\u2019s Eichendorff Liederkreis",
+      "printed_page_number": "375",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Thym"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15 Why Dichterliebe Twice? The Case of Schumann\u2019s Opus 24 and Opus 48",
+      "printed_page_number": "390",
+      "source_page_index": -1,
+      "authors": [
+        "Rufus Hallmark"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Postlude",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "16 Discovering \u201cMusical Impressionism\u201d by Way of Eichendorff and Schumann: Wolf and Pfitzner at the Threshold",
+      "printed_page_number": "409",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Thym"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "437",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

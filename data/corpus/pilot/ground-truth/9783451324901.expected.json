@@ -1,0 +1,162 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "I P\u00e4dagogische und psychologische Grundlagen zur Selbstkompetenz",
+      "authors": [],
+      "printed_page_number": "15",
+      "skip": true
+    },
+    {
+      "title": "1 Wer sich angenommen f\u00fchlt, lernt besser: Begabungsf\u00f6rderung und Selbstkompetenzen",
+      "authors": [
+        "Julius Kuhl",
+        "Thomas K\u00fcnne",
+        "Frank Aufhammer"
+      ],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "2 Wollen und Wollen-K\u00f6nnen.",
+      "authors": [
+        "Alexandra Strehlau",
+        "Thomas K\u00fcnne"
+      ],
+      "printed_page_number": "28",
+      "skip": false
+    },
+    {
+      "title": "3 Individuelle F\u00f6rderung und Selbstkompetenzentwicklung aus p\u00e4dagogischer Perspektive",
+      "authors": [
+        "Claudia Solzbacher",
+        "Birgit Behrensen",
+        "Meike Sauerhering"
+      ],
+      "printed_page_number": "35",
+      "skip": false
+    },
+    {
+      "title": "4 Begabungsf\u00f6rderung als p\u00e4dagogische Aufgabe: Grundlegungen zu einem inklusiven Begabungsbegriff.",
+      "authors": [
+        "Christina Schwer",
+        "Inga Doll",
+        "Birgit Behrensen",
+        "Michaela Kruse-Heine",
+        "Susanne M\u00fcller-Using",
+        "Meike Sauerhering",
+        "Wiebke Warnecke"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "II Beziehungsgestaltung in Bildungsprozessen",
+      "authors": [],
+      "printed_page_number": "59",
+      "skip": true
+    },
+    {
+      "title": "5 Bindung und Begabungsentfaltung bei Kita-Kindern: Was sagt die Forschung?",
+      "authors": [
+        "Susanne V\u00f6lker",
+        "Christina Schwer"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "6 Bindung und Begabungsentfaltung: Analyse einer Szene aus dem Kita-Alltag",
+      "authors": [
+        "Susanne V\u00f6lker",
+        "Christina Schwer"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "7 Bewegung, Geste, Tanz: Bildung und Beziehung in einem musikp\u00e4dagogischen Projekt",
+      "authors": [
+        "Roswitha Staege"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "8 Beziehungskulturen und Schulqualit\u00e4t: Welche Werte leiten professionelles Alltagshandeln von Grundschullehrer/innen?",
+      "authors": [
+        "Susanne M\u00fcller-Using"
+      ],
+      "printed_page_number": "88",
+      "skip": false
+    },
+    {
+      "title": "III Begabungsf\u00f6rderung: Individuelle Ressourcen st\u00e4rken",
+      "authors": [],
+      "printed_page_number": "107",
+      "skip": true
+    },
+    {
+      "title": "9 Begabungsentfaltung, Verschiedenheit und Diversity \u2013 Beziehungen als Schutzraum und Ressource",
+      "authors": [
+        "Wiebke Warnecke"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "10 Feeling-seen \u2013 ein neurobiologisch orientiertes Konzept zur Beziehungsgestaltung",
+      "authors": [
+        "Michael Bach"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "11 \u00dcber Beziehung und Bildung von Anfang an",
+      "authors": [
+        "Gerd E. Sch\u00e4fer"
+      ],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "12 Mein Kopf mein Bauch mein Herz und ich \u2013 Lernen braucht Neugier und Kompetenzerleben",
+      "authors": [
+        "Hiltrud Bierbaum-Luttermann"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "13 Das Forder-F\u00f6rder-Projekt als Beispiel einer P\u00e4dagogik der individuellen F\u00f6rderung",
+      "authors": [
+        "Monika Kaiser-Haas",
+        "Monika Konrad"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "14 Ressourcen st\u00e4rken: Arbeit mit Kraft-Quellen",
+      "authors": [
+        "Brigitte Geupel"
+      ],
+      "printed_page_number": "178",
+      "skip": false
+    },
+    {
+      "title": "AutorInnen",
+      "authors": [],
+      "printed_page_number": "187",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

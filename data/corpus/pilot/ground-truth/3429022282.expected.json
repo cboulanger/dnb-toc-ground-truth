@@ -1,0 +1,164 @@
+{
+  "entries": [
+    {
+      "title": "Jenseits der City \u2013 Stadtteil-Gespr\u00e4che in K\u00f6ln",
+      "authors": [],
+      "printed_page_number": "3",
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [
+        "Erwin M\u00fcller-Ruckwitt",
+        "K\u00f6ln"
+      ],
+      "printed_page_number": "5",
+      "skip": true
+    },
+    {
+      "title": "Hermann Korte, Hamburg: Strukturwandel der St\u00e4dte",
+      "authors": [
+        "Hermann Korte",
+        "Hamburg"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Michael Ebertz, Freiburg: Zur Lage der Kirchengemeinden heute: Anmerkungen aus soziologischer Sicht",
+      "authors": [
+        "Michael Ebertz",
+        "Freiburg"
+      ],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "Wolfgang Guth, K\u00f6ln: Weiterbildungslandschaft K\u00f6lns",
+      "authors": [
+        "Wolfgang Guth",
+        "K\u00f6ln"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "Rudolf Englert, Essen: Keine halben Sachen! \u2013 Eine bildungstheoretisch inspirierte Begr\u00fcndungsperspektive kirchlicher Erwachsenenbildung",
+      "authors": [
+        "Rudolf Englert",
+        "Essen"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "Karl Heinz Paulus, K\u00f6ln: Zur Entstehung und Konzeption der Stadtteil-Gespr\u00e4che",
+      "authors": [
+        "Karl Heinz Paulus",
+        "K\u00f6ln"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "Gundula Meiners: Aufbruch zu neuen Ufern. \u201eSignale aus Vingst\u201c",
+      "authors": [
+        "Gundula Meiners"
+      ],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "Gundula Meiners: Von Teletubbies bis Cyberspace. \u2013 Maus-Klick \u2013 Mediengespr\u00e4che in Dellbr\u00fcck/Holweide",
+      "authors": [
+        "Gundula Meiners"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Ren\u00e9 Buchholz: L'ordre du discours: Die \u201eLindenthaler Gespr\u00e4che\u201c",
+      "authors": [
+        "Ren\u00e9 Buchholz"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "Ren\u00e9 Buchholz: \u00c4nst\u00f6\u00dfe \u2013 S\u00fclz-Klettenberger Literatur-Tage",
+      "authors": [
+        "Ren\u00e9 Buchholz"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "Rainer T\u00fcschenb\u00f6nnner: Die \u201eBickendorfer Gespr\u00e4che\u201c - Begegnung von Theologie, Musik, Kunst, Film, Tanz und Liturgie",
+      "authors": [
+        "Rainer T\u00fcschenb\u00f6nnner"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "Rainer Will: Die \u201eLongericher Gespr\u00e4che\u201c",
+      "authors": [
+        "Rainer Will"
+      ],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "Rainer Will: \u201eStadtteil-Gespr\u00e4che\u201c und/oder \u201eStadtteile im Gespr\u00e4ch\u201c?",
+      "authors": [
+        "Rainer Will"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "Statistiken",
+      "authors": [],
+      "printed_page_number": "121",
+      "skip": true
+    },
+    {
+      "title": "Zu den Autoren",
+      "authors": [],
+      "printed_page_number": "124",
+      "skip": true
+    },
+    {
+      "title": "I. Soziologische Voraussetzungen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "II. P\u00e4dagogische Voraussetzungen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "III. Jenseits der City: Anmerkungen zu ausgew\u00e4hlten Stadtteil-Gespr\u00e4chen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "IV. Anhang",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

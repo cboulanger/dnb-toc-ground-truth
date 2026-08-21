@@ -1,0 +1,308 @@
+{
+  "generated_at": 1787236914.117085,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1 Gesellschaftliche Aspekte",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kindheiten heute",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [
+        "Anke K\u00f6nig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Geschichte der au\u00dferfamili\u00e4ren Betreuung von Kindern unter drei Jahren in Kindertageseinrichtungen",
+      "printed_page_number": "24",
+      "source_page_index": -1,
+      "authors": [
+        "Iris Nentwig-Gesemann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ausbau der Krippenbetreuung \u2013 politische, wirtschaftliche und rechtliche Rahmenbedingungen",
+      "printed_page_number": "36",
+      "source_page_index": -1,
+      "authors": [
+        "Waltraud Weegmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Bedeutung der Krippenbetreuung f\u00fcr Gesellschaft, Familie und Kinder",
+      "printed_page_number": "48",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Sell"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Fr\u00fchkindliche Bildung und Entwicklung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wie lernen Kinder? Gehirn- und Denkentwicklung",
+      "printed_page_number": "65",
+      "source_page_index": -1,
+      "authors": [
+        "Manfred Spitzer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Entwicklungspsychologische Grundlagen f\u00fcr die Krippenerziehung",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [
+        "Sabina Pauen & Janna Pahnke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Entwicklungspsychologische Grundlagen II: Das Kleinstkind",
+      "printed_page_number": "92",
+      "source_page_index": -1,
+      "authors": [
+        "Hellgard Rauh"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Bedeutung der Bindungstheorie in der Fr\u00fchp\u00e4dagogik",
+      "printed_page_number": "100",
+      "source_page_index": -1,
+      "authors": [
+        "R\u00fcdiger Posth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fr\u00fchkindliches Selbstempfinden",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [
+        "Marjan Alemzadeh"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Theorien und Konzepte der Entwicklungspsychologie",
+      "printed_page_number": "124",
+      "source_page_index": -1,
+      "authors": [
+        "Hellgard Rauh"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Die J\u00fcngsten in der Kita \u2013 Grundpfeiler der P\u00e4dagogik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ziele in der Krippenp\u00e4dagogik: Bildungsziele der deutschen Fr\u00fchp\u00e4dagogik in der Diskussion",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "Gabriele Haug-Schnabel & Joachim Bensel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bildung in den ersten Lebensjahren \u2013 Wie kleine Kinder denken lernen",
+      "printed_page_number": "164",
+      "source_page_index": -1,
+      "authors": [
+        "Gerd Sch\u00e4fer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bewegung von Anfang an!",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [
+        "Julia Schmidt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sprache als Tor zur Welt",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [
+        "Karin Jampert & Andrea Sens"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Krippenkinder in Interaktion mit anderen Kindern \u2013 Lernen und Spielen in altersgemischten Gruppen",
+      "printed_page_number": "208",
+      "source_page_index": -1,
+      "authors": [
+        "Dagmar Kas\u00fcschke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ausdrucksformen von Krippenkindern",
+      "printed_page_number": "220",
+      "source_page_index": -1,
+      "authors": [
+        "Ursula Stenger & Angela Franzen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Die J\u00fcngsten in der Kita \u2013 Themen der p\u00e4dagogischen Praxis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Eingew\u00f6hnung",
+      "printed_page_number": "237",
+      "source_page_index": -1,
+      "authors": [
+        "\u00c9va H\u00e9derv\u00e1ri-Heller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Welt der Dinge: Anregende Materialien f\u00fcr S\u00e4uglinge, Krabbel- und Kleinkinder",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [
+        "Kornelia Schneider & Wiebke W\u00fcstenberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bildungsdokumentation in Krippen",
+      "printed_page_number": "266",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Fr\u00f6hlich-Gildhoff & Sibylle Fischer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erziehungspartnerschaft in Kindertageseinrichtungen",
+      "printed_page_number": "281",
+      "source_page_index": -1,
+      "authors": [
+        "Jorina Senger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Individuen \u2013 Interessen \u2013 Interaktion: Impulse als Entwicklungsanreize im Bildungs- und Erziehungsverst\u00e4ndnis der element-i-Konzeption f\u00fcr Kinderh\u00e4user",
+      "printed_page_number": "292",
+      "source_page_index": -1,
+      "authors": [
+        "Carola Kammerlander"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Qualit\u00e4t sichern",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gut ausgebildet f\u00fcr die J\u00fcngsten? Die Ausbildung von p\u00e4dagogischen Fachkr\u00e4ften f\u00fcr die Arbeit mit Kindern von null bis drei Jahren",
+      "printed_page_number": "311",
+      "source_page_index": -1,
+      "authors": [
+        "Henriette Harms & Stefanie Schwarz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Qualit\u00e4tsentwicklung im Bildungsbereich",
+      "printed_page_number": "323",
+      "source_page_index": -1,
+      "authors": [
+        "Jutta Hinke-Ruhnau"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "printed_page_number": "336",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Register",
+      "printed_page_number": "338",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

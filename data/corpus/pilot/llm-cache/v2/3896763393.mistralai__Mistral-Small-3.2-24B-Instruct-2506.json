@@ -1,0 +1,322 @@
+{
+  "generated_at": 1787237188.669146,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einf\u00fchrung",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "I Allgemeine Grundlagen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gerald A. Straka",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gerald A. Straka"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Lern-lehr-theoretische Grundlagen der beruflichen Bildung",
+      "printed_page_number": "6",
+      "source_page_index": -1,
+      "authors": [
+        "Gerald A. Straka"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans-J\u00fcrgen Albers",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hans-J\u00fcrgen Albers"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Modelle und didaktische Konzepte in der Berufsbildung",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-J\u00fcrgen Albers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rolf Dubs",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Dubs"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Curriculare Vorgaben und Lehr-Lernprozesse in beruflichen Schulen",
+      "printed_page_number": "50",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Dubs"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Thomas Dei\u00dfinger",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Dei\u00dfinger"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Entwicklung didaktisch-curricularer Vorgaben f\u00fcr die Berufsbildung in Deutschland",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Dei\u00dfinger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II Methodik der beruflichen Bildung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bernhard Bonz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Bernhard Bonz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Methoden in der schulischen Berufsbildung",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [
+        "Bernhard Bonz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "G\u00fcnter P\u00e4tzold",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter P\u00e4tzold"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Methoden betrieblicher Bildungsarbeit",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter P\u00e4tzold"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Andreas Schelten",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Schelten"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Berufsmotorisches Lernen in der Berufsbildung",
+      "printed_page_number": "135",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Schelten"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dieter Euler",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Dieter Euler"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Computer und Multimedia in der Berufsbildung",
+      "printed_page_number": "152",
+      "source_page_index": -1,
+      "authors": [
+        "Dieter Euler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III Zur didaktischen Diskussion in der beruflichen Bildung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Reinhard Czycholl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Czycholl"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Handlungsorientierung und Kompetenzentwicklung in der beruflichen Bildung",
+      "printed_page_number": "170",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Czycholl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Peter F. E. Sloane",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Peter F. E. Sloane"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Lernfelder als curriculare Vorgabe",
+      "printed_page_number": "187",
+      "source_page_index": -1,
+      "authors": [
+        "Peter F. E. Sloane"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Josef R\u00fctzel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Josef R\u00fctzel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Modularisierung in der Didaktik beruflicher Bildung",
+      "printed_page_number": "204",
+      "source_page_index": -1,
+      "authors": [
+        "Josef R\u00fctzel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Alfons Backes-Haase",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Alfons Backes-Haase"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Konstruktivismus als didaktischer Aspekt der Berufsbildung",
+      "printed_page_number": "220",
+      "source_page_index": -1,
+      "authors": [
+        "Alfons Backes-Haase"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Reinhold Nickolaus",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Reinhold Nickolaus"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Empirische Befunde zur Didaktik der Berufsbildung",
+      "printed_page_number": "239",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhold Nickolaus"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Autoren",
+      "printed_page_number": "253",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sachwortregister",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

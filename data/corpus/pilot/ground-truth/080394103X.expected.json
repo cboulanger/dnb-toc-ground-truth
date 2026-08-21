@@ -1,0 +1,200 @@
+{
+  "entries": [
+    {
+      "title": "About the Authors",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": true
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "6",
+      "skip": true
+    },
+    {
+      "title": "1. Macro-Micro Links in Gender Stratification",
+      "authors": [
+        "Joan Huber"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "2. The Microfoundations of Social Structure: An Exchange Perspective",
+      "authors": [
+        "Karen S. Cook"
+      ],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "3. From Exchange to Structure",
+      "authors": [
+        "Michael Hechter"
+      ],
+      "printed_page_number": "46",
+      "skip": false
+    },
+    {
+      "title": "4. The Problem of Identity in Collective Action",
+      "authors": [
+        "Craig Calhoun"
+      ],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "5. The Micro-Macro Dilemma in Organizational Research: Implications of Role-System Theory",
+      "authors": [
+        "Paul DiMaggio"
+      ],
+      "printed_page_number": "76",
+      "skip": false
+    },
+    {
+      "title": "6. The Truly Disadvantaged: A Synopsis",
+      "authors": [
+        "William Julius Wilson"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "7. Levels in the Logic of Macro-Historical Explanation",
+      "authors": [
+        "Morris Zelditch, Jr."
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "8. Historical Change and the Ritual Production of Gender",
+      "authors": [
+        "Randall Collins"
+      ],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "9. Women and the Wealth and Well-Being of Nations: Macro-Micro Interrelationships",
+      "authors": [
+        "Rae Lesser Blumberg"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "10. Parenthood, Work, and Women",
+      "authors": [
+        "Samuel H. Preston"
+      ],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "11. Creating Inequality in the Schools: A Structural Perspective",
+      "authors": [
+        "Alan C. Kerckhoff"
+      ],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "12. Labor Markets as Queues: A Structural Approach to Changing Occupational Sex Composition",
+      "authors": [
+        "Barbara F. Reskin"
+      ],
+      "printed_page_number": "170",
+      "skip": false
+    },
+    {
+      "title": "13. The Two Faces of Divorce: Women's and Children's Interests",
+      "authors": [
+        "Sara S. McLanahan"
+      ],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "14. Mountains or Molehills: Just What's So Bad About Aging Societies Anyway?",
+      "authors": [
+        "Timothy M. Smeeding"
+      ],
+      "printed_page_number": "208",
+      "skip": false
+    },
+    {
+      "title": "15. Multilevel Analysis in the Study of Social Institutions and Demographic Change",
+      "authors": [
+        "Karen Oppenheim Mason"
+      ],
+      "printed_page_number": "223",
+      "skip": false
+    },
+    {
+      "title": "16. Problems in Quantitative Comparative Analysis: Ugly Ducklings Are to Swans as Ugly Scatter Plots Are to . . .?",
+      "authors": [
+        "William M. Mason"
+      ],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "17. Poor People and Poor Places: Deciphering Neighborhood Effects on Poverty Outcomes",
+      "authors": [
+        "Marta Tienda"
+      ],
+      "printed_page_number": "244",
+      "skip": false
+    },
+    {
+      "title": "18. Markets, States, Nations, and Bedrooms in Western Europe, 1870-1960",
+      "authors": [
+        "Susan Cotts Watkins"
+      ],
+      "printed_page_number": "263",
+      "skip": false
+    },
+    {
+      "title": "19. Micro-Macro Theoretical Linkages in Social Demography: A Commentary",
+      "authors": [
+        "Barbara Entwisle"
+      ],
+      "printed_page_number": "280",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "287",
+      "skip": true
+    },
+    {
+      "title": "Part I: Metatheoretical Issues",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Part II: Perspectives on Gender Stratification",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Part III: Perspectives on Social Issues",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Part IV: Demographic Perspectives",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

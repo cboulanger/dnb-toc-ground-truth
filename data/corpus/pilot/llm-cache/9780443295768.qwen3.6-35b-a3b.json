@@ -1,0 +1,103 @@
+{
+  "generated_at": 1786936714.6987572,
+  "entries": [
+    {
+      "title": "On estimation problems based on type I Longla copulas",
+      "printed_page_number": 3,
+      "source_page_index": -1,
+      "authors": [
+        "Martial Longla"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Ladder processes: Symmetric functions and semigroups",
+      "printed_page_number": 29,
+      "source_page_index": -1,
+      "authors": [
+        "Philip Feinsilver"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Long time behaviour of continuous time Markov chains",
+      "printed_page_number": 87,
+      "source_page_index": -1,
+      "authors": [
+        "Xueping Huang"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Generalized steady-state distributions of somewhat stochastic matrices with eigenvalues 1, \u03bb2, \u03bb3, ..., \u03bbn and modulus |\u03bbi| < 1 for i = 2, 3, ..., n: Duality applications for calculating Gambler's ruin problems",
+      "printed_page_number": 127,
+      "source_page_index": -1,
+      "authors": [
+        "Alan Krinik",
+        "Gerardo Rubino",
+        "Heba Ayeda",
+        "David Beecher",
+        "Sean Kanne",
+        "Raymond Benitez",
+        "Zackary Muraca",
+        "Sergio Navia",
+        "Corey Bangi"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Continuous-time Markov chains and models: Bounding via forward Kolmogorov system",
+      "printed_page_number": 179,
+      "source_page_index": -1,
+      "authors": [
+        "Alexander Zeifman",
+        "Yacov Satin",
+        "Victor Korolev",
+        "Ilya Usov"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Markov chain estimation, approximation, and aggregation for average reward Markov decision processes and reinforcement learning",
+      "printed_page_number": 213,
+      "source_page_index": -1,
+      "authors": [
+        "Ronald Ortner"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "The role of the random-product technique in the theory of Markov chains on a countable state space",
+      "printed_page_number": 251,
+      "source_page_index": -1,
+      "authors": [
+        "Brian Fralix",
+        "Farhad Hasankhani",
+        "Amin Khademi"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Computational applications of poverty measurement through Markov model for income classes",
+      "printed_page_number": 283,
+      "source_page_index": -1,
+      "authors": [
+        "Guglielmo D'Amico",
+        "Riccardo De Blasis",
+        "Salvatore Vergine"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Additive high-order Markov chains",
+      "printed_page_number": 311,
+      "source_page_index": -1,
+      "authors": [
+        "Serhii S. Melnyk",
+        "Galyna M. Pritula",
+        "Oleg V. Usatenko"
+      ],
+      "printed_roman": false
+    }
+  ]
+}

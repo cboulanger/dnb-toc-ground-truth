@@ -1,0 +1,422 @@
+{
+  "entries": [
+    {
+      "title": "Einleitung",
+      "authors": [
+        "Nils Lehnert",
+        "Ina Schenker",
+        "Andreas Wicke"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": "vii",
+      "skip": true
+    },
+    {
+      "title": "VIII",
+      "authors": [],
+      "printed_page_number": "VIII",
+      "skip": true
+    },
+    {
+      "title": "Lesung \u2013 H\u00f6rspiel. Eine Genreuntersuchung am Beispiel von Volker Kutschers Der nasse Fisch",
+      "authors": [
+        "Ren\u00e9 Kegelmann"
+      ],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "Das Mundarth\u00f6rspiel",
+      "authors": [
+        "Matthias C. H\u00e4nselmann"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Podcast und H\u00f6rspiel. K\u00fcnstlerische Forschungen zur Post-Radiokunst",
+      "authors": [
+        "Ania Mauruschat"
+      ],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "Comic-Lesung. Geh\u00f6rte Bilder(-Geschichten)",
+      "authors": [
+        "Ursula Klingenb\u00f6ck"
+      ],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "Visuelle Kunst h\u00f6ren. Audioguides als transmediale Kunstvermittlungsformate",
+      "authors": [
+        "Janneke Schoene"
+      ],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "Im H\u00f6r-Spielraum. Transkription als Zwischen-Genre, am Beispiel eines Vortrags von Jean-Luc Nancy",
+      "authors": [
+        "Esther von der Osten"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Zeichen im H\u00f6rspiel. Erz\u00e4hlen durch technische Mittel von der Monophonie bis zur Digitalit\u00e4t",
+      "authors": [
+        "Elke Huwiler"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "Ger\u00e4usch. Ger\u00e4uscherleben und Erinnerung in Christoph Buggerts H\u00f6rspiel Ein Nachmittag im Museum der unvergessenen Ger\u00e4usche",
+      "authors": [
+        "Jan Sinning"
+      ],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "Musik im H\u00f6rtext. Das kalte Herz im Vergleich verschiedener Fassungen",
+      "authors": [
+        "Karla M\u00fcller"
+      ],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "Voicing. Vom Stimmen und den Stimmungen einer performativen Zeichensetzung",
+      "authors": [
+        "Ina Schenker"
+      ],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "Die Komposition der Stimmen und die Stimmen des Komponisten. Zur Figurenkonstellation in R\u00fchms Hugo Wolf und drei Grazien, letzter Akt",
+      "authors": [
+        "Philipp Hegel"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "Erz\u00e4hlinstanzen. Narrative Vielfalt im H\u00f6rspiel der 1950er Jahre",
+      "authors": [
+        "Andreas Wicke"
+      ],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "Medienorientierte Literaturinterpretation. Peter Rothins H\u00f6rspiel Solaris nach dem Roman von Stanislaw Lem",
+      "authors": [
+        "Heinz Hiebler"
+      ],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "Emotionsanalyse in der elektroakustischen Kunst. Techniken der Angsterregung am Beispiel der H\u00f6rspielserie Die drei ???",
+      "authors": [
+        "Matthias Mohn"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "Genderdiskurse im H\u00f6rspiel. Figur und Geschlecht am Beispiel von Elfriede Jelineks F\u00fcr den Funk dramatisierte Ballade von drei wichtigen M\u00e4nnern sowie dem Personenkreis um sie herum",
+      "authors": [
+        "Nils Lehnhert"
+      ],
+      "printed_page_number": "197",
+      "skip": false
+    },
+    {
+      "title": "\"Am liebsten h\u00f6re ich Stille\". Rolf Dieter Brinkmanns W\u00f6rter Sex Schnitt und der Sound des Aufbegehrens",
+      "authors": [
+        "Stefan Greif"
+      ],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "\"Menschenliebe\" und andere 'operative Vorg\u00e4nge'. Eine gestalttheoretische Analyse zur Gattungsproblematik von H\u00f6rst\u00fccken am Beispiel von Michael Lentz' Hotel zur Ewigen Lampe",
+      "authors": [
+        "Martin Maurach"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "Sonischer Materialismus. Klang als materialer Eingriff \u2013 Oder: who taught you to be white? (von Phoebe Unter)",
+      "authors": [
+        "Holger Schulze"
+      ],
+      "printed_page_number": "241",
+      "skip": false
+    },
+    {
+      "title": "Ein didaktisch orientiertes Modell der H\u00f6rspielanalyse. Medienwissenschaftliche und -didaktische Perspektivierung am Beispiel von Thabo. Detektiv und Gentleman \u2013 Der Nashorn-Fall",
+      "authors": [
+        "Sebastian Bernhardt"
+      ],
+      "printed_page_number": "255",
+      "skip": false
+    },
+    {
+      "title": "Vorstellungen von Raum und Zeit entwickeln. Auditive Gestaltungen in Milena Baischs Kinderh\u00f6rspiel Anton taucht ab",
+      "authors": [
+        "Henriette Hoppe"
+      ],
+      "printed_page_number": "269",
+      "skip": false
+    },
+    {
+      "title": "Perspektiv\u00fcbernahmekompetenz im Kinderh\u00f6rspiel. Multiperspektivisches Erz\u00e4hlen in Thilo Refferts Nina und Paul",
+      "authors": [
+        "Florian Rietz"
+      ],
+      "printed_page_number": "285",
+      "skip": false
+    },
+    {
+      "title": "Nils Lehnhert, Ina Schenker und Andreas Wicke",
+      "authors": [
+        "Nils Lehnhert",
+        "Ina Schenker",
+        "Andreas Wicke"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "I Genrevielfalt geh\u00f6rter Geschichten",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Ren\u00e9 Kegelmann",
+      "authors": [
+        "Ren\u00e9 Kegelmann"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Matthias C. H\u00e4nselmann",
+      "authors": [
+        "Matthias C. H\u00e4nselmann"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Ania Mauruschat",
+      "authors": [
+        "Ania Mauruschat"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Ursula Klingenb\u00f6ck",
+      "authors": [
+        "Ursula Klingenb\u00f6ck"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Janneke Schoene",
+      "authors": [
+        "Janneke Schoene"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Esther von der Osten",
+      "authors": [
+        "Esther von der Osten"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "II Basiemente geh\u00f6rter Geschichten",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Elke Huwiler",
+      "authors": [
+        "Elke Huwiler"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Jan Sinning",
+      "authors": [
+        "Jan Sinning"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Karla M\u00fcller",
+      "authors": [
+        "Karla M\u00fcller"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Ina Schenker",
+      "authors": [
+        "Ina Schenker"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Philipp Hegel",
+      "authors": [
+        "Philipp Hegel"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Andreas Wicke",
+      "authors": [
+        "Andreas Wicke"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "III Analyseverfahren geh\u00f6rter Geschichten",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Heinz Hiebler",
+      "authors": [
+        "Heinz Hiebler"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Matthias Mohn",
+      "authors": [
+        "Matthias Mohn"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Nils Lehnhert",
+      "authors": [
+        "Nils Lehnhert"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Stefan Greif",
+      "authors": [
+        "Stefan Greif"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Martin Maurach",
+      "authors": [
+        "Martin Maurach"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Holger Schulze",
+      "authors": [
+        "Holger Schulze"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "IV Didaktische Aspekte geh\u00f6rter Geschichten",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Sebastian Bernhardt",
+      "authors": [
+        "Sebastian Bernhardt"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Henriette Hoppe",
+      "authors": [
+        "Henriette Hoppe"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Florian Rietz",
+      "authors": [
+        "Florian Rietz"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "VIII Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

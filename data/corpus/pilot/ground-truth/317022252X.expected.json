@@ -1,0 +1,234 @@
+{
+  "entries": [
+    {
+      "title": "INHALT",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort zur Reihe",
+      "authors": [],
+      "printed_page_number": "5",
+      "skip": true
+    },
+    {
+      "title": "Zu diesem Buch",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "I Zentrale Begriffe und rechtliche Grundlagen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Soziale Ungleichheit, Stereotype, Vorurteile, Diskriminierung",
+      "authors": [
+        "Julia Bernstein",
+        "Lena Inowlocki"
+      ],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "„Wir diskriminieren nicht – wir studieren doch Soziale Arbeit\"",
+      "authors": [
+        "Heike Beck"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Gesellschaftliche Teilhabe als Grundlage Sozialer Arbeit",
+      "authors": [
+        "Beatrix Schwarzer"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "Recht im Kontext von Inklusion und Exklusion",
+      "authors": [
+        "Dagmar Oberlies"
+      ],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "II Vielfaltsdimensionen und Differenzkategorien",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Geschlecht als soziale Unterscheidungskategorie in unserer Lebenswelt",
+      "authors": [
+        "Lotte Rose"
+      ],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "Menschen mit sog. Migrationshintergrund",
+      "authors": [
+        "Thomas Kunz"
+      ],
+      "printed_page_number": "74",
+      "skip": false
+    },
+    {
+      "title": "Menschen mit Behinderung oder behinderte Menschen?",
+      "authors": [
+        "Bettina Bretländer"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Sexuelle Abweichungen oder sexuelle Vielfalt? Zur Verschiedenheit im Bereich sexueller Orientierungen und Identitäten",
+      "authors": [
+        "Ulrike Schmauch"
+      ],
+      "printed_page_number": "100",
+      "skip": false
+    },
+    {
+      "title": "Vielfalt im Alter: Altersbilder, Altersdiskriminierung und Soziale Arbeit",
+      "authors": [
+        "Ursula Kämmerer-Rütten"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "Mehrdimensionalität sozialer Ungleichheit – Intersektionalität als theoretische Rahmung und zur Analyse biografischer Erfahrung",
+      "authors": [
+        "Michaela Köttig"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "III Handlungsfelder und Konzepte der Sozialen Arbeit entlang ausgewählter Vielfaltsdimensionen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Genderkompetenz in der Kinder- und Jugendhilfe",
+      "authors": [
+        "Margitta Kunert-Zier"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "Interkulturelle Soziale Arbeit und Interkulturelle Öffnung",
+      "authors": [
+        "Thomas Kunz"
+      ],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "Förderung gesellschaftlicher Teilhabe von Menschen mit Behinderung – ein Praxisfeld Sozialer Arbeit",
+      "authors": [
+        "Thorsten Stoy",
+        "Patrizia Tolle"
+      ],
+      "printed_page_number": "160",
+      "skip": false
+    },
+    {
+      "title": "Sexuelle Vielfalt und Regenbogenkompetenz in der Sozialen Arbeit",
+      "authors": [
+        "Ulrike Schmauch"
+      ],
+      "printed_page_number": "170",
+      "skip": false
+    },
+    {
+      "title": "Leitbilder und strukturelle Verankerung von Lebensqualität pflegebedürftiger Menschen in der stationären Altenhilfe – Anforderungen an die Soziale Arbeit",
+      "authors": [
+        "Barbara Klein",
+        "Thomas Kaspar",
+        "Ralf Schetzkens"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "IV Inklusionsorientierte Ansätze, Konzepte und Instrumente",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Ansätze für eine diversity-sensible Soziale Arbeit",
+      "authors": [
+        "Beatrix Schwarzer"
+      ],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "Der Index für Inklusion: ein Instrument für inklusive Organisationsentwicklung",
+      "authors": [
+        "Bettina Bretländer",
+        "Susanne Heil"
+      ],
+      "printed_page_number": "206",
+      "skip": false
+    },
+    {
+      "title": "Inklusionsorientierte pädagogische Bildungsarbeit zum Umgang mit Verschiedenheit",
+      "authors": [
+        "Bettina Bretländer",
+        "Susanne Heil"
+      ],
+      "printed_page_number": "214",
+      "skip": false
+    },
+    {
+      "title": "Rekonstruktives Fallverstehen und Fallbegleitung. „Dialogische Biografiearbeit\" im Kontext inklusiver Sozialer Arbeit",
+      "authors": [
+        "Michaela Köttig"
+      ],
+      "printed_page_number": "225",
+      "skip": false
+    },
+    {
+      "title": "Selbstbestimmung, Partizipation und Inklusion mit Hilfe von Zukunftsfesten",
+      "authors": [
+        "Bettina Bretländer"
+      ],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "Inklusion durch die Gestaltung von Lebenswelten am Beispiel der Ausstellung „Barrierefreies Wohnen und Leben\" der Fachhochschule Frankfurt am Main",
+      "authors": [
+        "Barbara Klein"
+      ],
+      "printed_page_number": "244",
+      "skip": false
+    },
+    {
+      "title": "Stichwortverzeichnis",
+      "authors": [],
+      "printed_page_number": "253",
+      "skip": true
+    },
+    {
+      "title": "Über die Autor_innen",
+      "authors": [],
+      "printed_page_number": "257",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

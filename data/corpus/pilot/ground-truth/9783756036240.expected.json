@@ -1,0 +1,95 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [
+        "Peter Masuch"
+      ],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": [
+        "Sarah Schulz",
+        "Felix Welti"
+      ],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "Eine Akzentuierung des rechtssoziologischen Forschungsstandes zum Justizpersonal aus politikwissenschaftlicher Sicht",
+      "authors": [
+        "Sarah Schulz"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Soziale Herkunft und juristische Karrieren. Ein Forschungs\u00fcberblick",
+      "authors": [
+        "Frerk Blome"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Besonderheiten des sozialgerichtlichen Verfahrens",
+      "authors": [
+        "Davor \u0160u\u0161njar"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "Die kommunikative Dimension des sozialgerichtlichen Verfahrens und die Spielr\u00e4ume in Prozessrecht und richterlicher Arbeitsweise",
+      "authors": [
+        "Felix Welti"
+      ],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "Zur Sicherstellung des gleichen und wirksamen Zugangs zum Recht durch die Sozialgerichtsbarkeit",
+      "authors": [
+        "Tobias Mushoff"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Vom Berufsbild der Sozialrichterinnen und Sozialrichter",
+      "authors": [
+        "Anders Leopold"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Ehrenamtliche Richterinnen und Richter in der Sozialgerichtsbarkeit",
+      "authors": [
+        "Armin H\u00f6land"
+      ],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "Welches Interesse haben Versichertengemeinschaften und Steuerzahler? Beobachtungen zu einer Begr\u00fcndungspraxis des Bundessozialgerichts",
+      "authors": [
+        "Katie Baldschun"
+      ],
+      "printed_page_number": "209",
+      "skip": false
+    },
+    {
+      "title": "Von Wegweisern, Reformen und Umbr\u00fcchen. Theoretische und methodische Reflektionen begegnen dem Forschungsfeld",
+      "authors": [
+        "Sarah Schulz"
+      ],
+      "printed_page_number": "231",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,86 @@
+{
+  "generated_at": 1787245375.263516,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "VII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Kunst, Gesellschaft, Bildung - Perspektiven ihres Zusammenhangs",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Vernunft der Kunst - Hegels geschichtsphilosophische Analyse der Selbsttranszendierung des \u00c4sthetischen in der modernen Welt",
+      "printed_page_number": "30",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00c4sthetik als Geschichtstheorie",
+      "printed_page_number": "63",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Historismus und \u00c4sthetik - Geschichtstheoretische Voraussetzungen der Kunstgeschichte",
+      "printed_page_number": "88",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00dcber einige Beziehungen zwischen \u00c4sthetik, Historik und Didaktik",
+      "printed_page_number": "96",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bibliographische Nachweise",
+      "printed_page_number": "126",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Verzeichnis der zitierten Literatur",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Personenregister",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

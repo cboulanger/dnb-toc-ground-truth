@@ -1,0 +1,72 @@
+{
+  "generated_at": 1787022808.0729961,
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrich Hemel",
+        "Gerhard Kruip"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Joas"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Was sind religi\u00f6se \u00dcberzeugungen?",
+      "printed_page_number": "18",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Sch\u00e4rttl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Systematisch irref\u00fchrende \u00c4pfel",
+      "printed_page_number": "54",
+      "source_page_index": -1,
+      "authors": [
+        "Clemens Sedmak"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Was sind religi\u00f6se \u00dcberzeugungen?",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus von Stosch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00dcber das Forschungsinstitut f\u00fcr Philosophie Hannover",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Informationen zu den Preistr\u00e4gern",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

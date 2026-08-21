@@ -1,0 +1,473 @@
+{
+  "generated_at": 1787258145.946381,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "List of Figures",
+      "printed_page_number": "ix",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of Maps",
+      "printed_page_number": "xi",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of Tables",
+      "printed_page_number": "xii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of Contributors",
+      "printed_page_number": "xiii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgements",
+      "printed_page_number": "xv",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of Abbreviations",
+      "printed_page_number": "xvi",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Medieval Canon Law: Introduction",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "John C. Wei",
+        "Anders Winroth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART I",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "THE HISTORY OF MEDIEVAL CANON LAW",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "I. The Early Church",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Caroline Humfress"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Early Medieval Canon Law",
+      "printed_page_number": "32",
+      "source_page_index": -1,
+      "authors": [
+        "Abigail Firey"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Canon Law in the Long Tenth Century, 900-1050",
+      "printed_page_number": "46",
+      "source_page_index": -1,
+      "authors": [
+        "Greta Austin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. The Age of Reforms: Canon Law in the Century before Gratian",
+      "printed_page_number": "62",
+      "source_page_index": -1,
+      "authors": [
+        "Christof Rolker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. The Reinvention of Canon Law in the High Middle Ages",
+      "printed_page_number": "79",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang P. M\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Canon Law in a Time of Renewal, 1130-1234",
+      "printed_page_number": "96",
+      "source_page_index": -1,
+      "authors": [
+        "Anders Winroth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. The Late Middle Ages: Four Remarks Regarding the Present State of Research",
+      "printed_page_number": "108",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Bertram"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8. The Late Middle Ages: Sources",
+      "printed_page_number": "122",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Meyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9. The Canon Law of the Eastern Churches",
+      "printed_page_number": "142",
+      "source_page_index": -1,
+      "authors": [
+        "P\u00e9ter Erd\u0151"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART II",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "THE SOURCES AND DISSEMINATION OF MEDIEVAL CANON LAW",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "10. Theology and the Theological Sources of Canon Law",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [
+        "John C. Wei"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11. Church Councils",
+      "printed_page_number": "192",
+      "source_page_index": -1,
+      "authors": [
+        "Norman Tanner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12. Decretals and Lawmaking",
+      "printed_page_number": "208",
+      "source_page_index": -1,
+      "authors": [
+        "Gisela Drossbach"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13. Roman Law: Symbiotic Companion and Servant of Canon Law",
+      "printed_page_number": "230",
+      "source_page_index": -1,
+      "authors": [
+        "Gero R. Dolezal"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14. Law Schools and Legal Education",
+      "printed_page_number": "262",
+      "source_page_index": -1,
+      "authors": [
+        "Anders Winroth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15. Local Knowledge of Canon Law, c. 1150-1250",
+      "printed_page_number": "285",
+      "source_page_index": -1,
+      "authors": [
+        "Anthony Perron"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16. Medieval Canon Law Manuscripts and Early Printed Books",
+      "printed_page_number": "299",
+      "source_page_index": -1,
+      "authors": [
+        "Susan L'Engle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART III",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "DOCTRINE AND SOCIETY",
+      "printed_page_number": "323",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "IUDICIUM",
+      "printed_page_number": "325",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "17. Procedures and Courts",
+      "printed_page_number": "327",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang P. M\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "CLERUS",
+      "printed_page_number": "343",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "18. Ecclesiastical Property, Tithes, Spiritualia",
+      "printed_page_number": "345",
+      "source_page_index": -1,
+      "authors": [
+        "Charles de Miramon"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "19. The Law of Benefices",
+      "printed_page_number": "368",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Meyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "20. Religious Life",
+      "printed_page_number": "396",
+      "source_page_index": -1,
+      "authors": [
+        "Elizabeth Makowski"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "21. The Sacraments of Baptism, Confirmation, and the Eucharist",
+      "printed_page_number": "404",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas M. Izbicki"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "22. Confession, Penance, and Extreme Unction",
+      "printed_page_number": "421",
+      "source_page_index": -1,
+      "authors": [
+        "Rob Meens"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "23. Saints and Relics",
+      "printed_page_number": "437",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Wetzstein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "CONUBIUM",
+      "printed_page_number": "451",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "24. Marriage: Law and Practice",
+      "printed_page_number": "453",
+      "source_page_index": -1,
+      "authors": [
+        "Sara McDougall"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "25. Family Law",
+      "printed_page_number": "475",
+      "source_page_index": -1,
+      "authors": [
+        "Franck Roumy"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "CRIMEN",
+      "printed_page_number": "493",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "26. Criminal Law",
+      "printed_page_number": "495",
+      "source_page_index": -1,
+      "authors": [
+        "Lotte K\u00e9ry"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "27. Ecclesiastical Discipline: Heresy, Magic, and Superstition",
+      "printed_page_number": "511",
+      "source_page_index": -1,
+      "authors": [
+        "Edward Peters"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "28. Just War and Crusades",
+      "printed_page_number": "537",
+      "source_page_index": -1,
+      "authors": [
+        "Frederick H. Russell",
+        "Ryan Greenwood"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "29. Excommunication and Interdict",
+      "printed_page_number": "550",
+      "source_page_index": -1,
+      "authors": [
+        "Peter D. Clarke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "CONCLUSION",
+      "printed_page_number": "571",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "30. The Spirit of Canon Law",
+      "printed_page_number": "573",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Landau"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bibliography of Primary Sources",
+      "printed_page_number": "584",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas M. Izbicki",
+        "Anders Winroth"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "601",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

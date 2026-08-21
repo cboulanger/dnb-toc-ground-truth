@@ -1,0 +1,254 @@
+{
+  "generated_at": 1787264273.842551,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Band 1 \u2013 Ressourcen und Bereitstellung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1 Einleitung und Zielsetzung",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Biomasseentstehung",
+      "printed_page_number": "2",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Forstwirtschaftlich produzierte Biomasse",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Landwirtschaftlich produzierte Biomasse",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Nebenprodukte, R\u00fcckst\u00e4nde und Abf\u00e4lle",
+      "printed_page_number": "4",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Bereitstellungskonzepte",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Ernteprozesse",
+      "printed_page_number": "6",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Mechanische Aufbereitungsprozesse",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Transportprozesse",
+      "printed_page_number": "8",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 Trocknungsprozesse f\u00fcr biogene Festbrennstoffe",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Lagerungsprozesse",
+      "printed_page_number": "10",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11 Algenbiomasse",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Band 2 \u2013 Thermo-chemische Konversion",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1 Einleitung und Zielsetzung",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Brennstoffzusammensetzung und -eigenschaften",
+      "printed_page_number": "2",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Grundlagen der thermo-chemischen Umwandlung",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Einordnung der thermo-chemischen Umwandlungsverfahren",
+      "printed_page_number": "4",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Vollst\u00e4ndige thermo-chemische Umwandlungsverfahren (Verbrennung)",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Verfahren der Gaserzeugung in der Gasatmosph\u00e4re",
+      "printed_page_number": "6",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Pyrolyseverfahren",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Hydrothermale Verfahren",
+      "printed_page_number": "8",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 Synthese- und Weiterverarbeitungsverfahren",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Band 3 \u2013 Biochemische und physikalisch-chemische Konversion",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1 Einleitung und Zielsetzung",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Chemische Grundlagen des Biomasseaufbaus",
+      "printed_page_number": "2",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Grundlagen biochemischer Konversionen",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Bioethanolerzeugung",
+      "printed_page_number": "4",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Biogaserzeugung",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Weitere fermentative Prozesse",
+      "printed_page_number": "6",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Erzeugung Pflanzen\u00f6l-basierter Kraftstoffe",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "title": "Wissenschaftliche Revolutionen und Kontinuität der Erfahrung",
+      "authors": ["Lorenz Krüger"],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Geschichte als Herausforderung",
+      "authors": ["Elisabeth Ströker"],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Skeptischer und kritischer Theorienpluralismus",
+      "authors": ["Harald Pilot"],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "Objekte der Naturwissenschaft",
+      "authors": ["Michael Drieschner"],
+      "printed_page_number": "104",
+      "skip": false
+    },
+    {
+      "title": "Vom möglichen Nutzen der Forschungstheorie",
+      "authors": ["Gerard Radnitzky"],
+      "printed_page_number": "129",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

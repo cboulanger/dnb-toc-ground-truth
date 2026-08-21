@@ -1,0 +1,500 @@
+{
+  "generated_at": 1787154954.0960598,
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Konzeption der Studie",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Eckhard Klieme",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1 Systemmonitoring f\u00fcr den Sprachunterricht",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "B\u00e4rbel Beck",
+        "Svenja Bundt",
+        "Jens Gomolka"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Ziele und Anlage der DESI-Studie",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Thamar Dubberke",
+        "Birgit Harks"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.5 Zur curricularen Validit\u00e4t der DESI-Aufgaben: Ergebnisse eines Expertenratings",
+      "printed_page_number": "26",
+      "source_page_index": -1,
+      "authors": [
+        "Johannes Hartig",
+        "Nina Jude",
+        "Wolfgang Wagner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Methodische Grundlagen der Messung und Erkl\u00e4rung sprachlicher Kompetenzen",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-G\u00fcnter Rolff",
+        "Jan von der Gathen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 R\u00fcckmeldungen an Lehrkr\u00e4fte und Rezeption",
+      "printed_page_number": "55",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Leistungsverteilungen im Deutschen und Englischen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "5 Leseverst\u00e4ndnis Deutsch",
+      "printed_page_number": "60",
+      "source_page_index": -1,
+      "authors": [
+        "Steffen Ga\u00dfberger",
+        "Heiner Willenberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Wortschatz Deutsch",
+      "printed_page_number": "72",
+      "source_page_index": -1,
+      "authors": [
+        "Heiner Willenberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Argumentation Deutsch",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Krell",
+        "Heiner Willenberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Schreiben Deutsch",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "Astrid Neumann",
+        "Rainer H. Lehmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 Rechtschreiben Deutsch",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnther Thom\u00e9",
+        "Wolfgang Eichler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Sprachbewusstheit Deutsch",
+      "printed_page_number": "112",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Eichler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11 H\u00f6rverstehen Englisch",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter Nold",
+        "Henning Rossa",
+        "Kyriaki Chatzivassiliadou"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12 Leseverst\u00e4ndnis Englisch",
+      "printed_page_number": "130",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13 Schreiben Englisch",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [
+        "Claudia Harsch",
+        "Konrad Schr\u00f6der",
+        "Astrid Neumann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14 Textrekonstruktion Englisch",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [
+        "Claudia Harsch",
+        "Konrad Schr\u00f6der"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15 Sprachbewusstheit Englisch",
+      "printed_page_number": "157",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter Nold",
+        "Henning Rossa"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16 Sprechen Englisch",
+      "printed_page_number": "170",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter Nold",
+        "Henning Rossa"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "17 Interkulturelle Kompetenz",
+      "printed_page_number": "180",
+      "source_page_index": -1,
+      "authors": [
+        "Hermann-G\u00fcnter Hesse",
+        "Kerstin G\u00f6bel",
+        "Nina Jude"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Individuelle und famili\u00e4re Bedingungsfaktoren sprachlicher Kompetenzen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "18 Strukturen sprachlicher Kompetenzen",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [
+        "Nina Jude",
+        "Eckhard Klieme",
+        "Wolfgang Eichler",
+        "Rainer H. Lehmann",
+        "G\u00fcnter Nold",
+        "Konrad Schr\u00f6der",
+        "G\u00fcnther Thom\u00e9",
+        "Heiner Willenberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "19 Sprachkompetenzen von M\u00e4dchen und Jungen",
+      "printed_page_number": "202",
+      "source_page_index": -1,
+      "authors": [
+        "Johannes Hartig",
+        "Nina Jude"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "20 Sprachliche Kompetenzen von mehrsprachigen Jugendlichen und Jugendlichen nicht-deutscher Erstsprache",
+      "printed_page_number": "208",
+      "source_page_index": -1,
+      "authors": [
+        "Hermann-G\u00fcnter Hesse",
+        "Kerstin G\u00f6bel",
+        "Johannes Hartig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "21 Selbstkonzept und Motivation im Fach Deutsch",
+      "printed_page_number": "231",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Wagner",
+        "Andreas Helmke",
+        "Friedrich-Wilhelm Schrader",
+        "Wolfgang Eichler",
+        "G\u00fcnther Thom\u00e9",
+        "Heiner Willenberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "22 Selbstkonzept, Motivation und Englischleistung",
+      "printed_page_number": "244",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Helmke",
+        "Friedrich-Wilhelm Schrader",
+        "Wolfgang Wagner",
+        "G\u00fcnter Nold",
+        "Konrad Schr\u00f6der"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "23 Lernstrategien im Fach Deutsch",
+      "printed_page_number": "258",
+      "source_page_index": -1,
+      "authors": [
+        "Friedrich-Wilhelm Schrader",
+        "Andreas Helmke",
+        "Wolfgang Wagner",
+        "G\u00fcnter Nold",
+        "Konrad Schr\u00f6der"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "24 Lernstrategien im Fach Englisch",
+      "printed_page_number": "270",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "25 Sozialer und famili\u00e4rer Hintergrund",
+      "printed_page_number": "283",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-G\u00fcnter Rolff",
+        "Michael Leucht",
+        "Ernst R\u00f6sner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Unterricht und Lehrerkompetenzen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "26 Unterricht und Entwicklung sprachlicher Kompetenzen",
+      "printed_page_number": "301",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Helmke",
+        "Eckhard Klieme"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "27 Soziodemografische und fachdidaktisch relevante Merkmale von Deutsch-Lehrpersonen",
+      "printed_page_number": "313",
+      "source_page_index": -1,
+      "authors": [
+        "Holger Ehlers",
+        "Nina Jude",
+        "Eckhard Klieme",
+        "Andreas Helmke",
+        "Wolfgang Eichler",
+        "Heiner Willenberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "28 Alltagspr\u00e4xis, Qualit\u00e4t und Wirksamkeit des Deutschunterrichts",
+      "printed_page_number": "319",
+      "source_page_index": -1,
+      "authors": [
+        "Eckhard Klieme",
+        "Nina Jude",
+        "Dominique Rauch",
+        "Holger Ehlers",
+        "Andreas Helmke",
+        "Wolfgang Eichler",
+        "G\u00fcnther Thom\u00e9",
+        "Heiner Willenberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "29 Die Videostudie des Englischunterrichts",
+      "printed_page_number": "345",
+      "source_page_index": -1,
+      "authors": [
+        "Tuyet Helmke",
+        "Andreas Helmke",
+        "Friedrich-Wilhelm Schrader",
+        "Wolfgang Wagner",
+        "G\u00fcnter Nold",
+        "Konrad Schr\u00f6der"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "30 Soziodemografische und fachdidaktisch relevante Merkmale von Englischlehrpersonen",
+      "printed_page_number": "364",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Helmke",
+        "Tuyet Helmke",
+        "Friedrich-Wilhelm Schrader",
+        "Wolfgang Wagner",
+        "G\u00fcnter Nold",
+        "Konrad Schr\u00f6der"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "31 Alltagspr\u00e4xis des Englischunterrichts",
+      "printed_page_number": "371",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Helmke",
+        "Tuyet Helmke",
+        "Friedrich-Wilhelm Schrader",
+        "Wolfgang Wagner",
+        "Eckhard Klieme",
+        "G\u00fcnter Nold",
+        "Konrad Schr\u00f6der"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "32 Wirksamkeit des Englischunterrichts",
+      "printed_page_number": "382",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "33 Vermittlung interkultureller Kompetenzen im Englischunterricht",
+      "printed_page_number": "398",
+      "source_page_index": -1,
+      "authors": [
+        "Kerstin G\u00f6bel",
+        "Hermann-G\u00fcnter Hesse"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Institutionelle Bedingungsfaktoren sprachlicher Kompetenzen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "34 Institutionelle Bedingungen der Sprachkompetenzen",
+      "printed_page_number": "411",
+      "source_page_index": -1,
+      "authors": [
+        "Brigitte Steinert",
+        "Johannes Hartig",
+        "Eckhard Klieme"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "35 Klassen mit bilingualem Sachfachunterricht: Englisch als Arbeitssprache",
+      "printed_page_number": "451",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter Nold",
+        "Johannes Hartig",
+        "Silke Hinz",
+        "Henning Rossa"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Autorinnen und Autoren",
+      "printed_page_number": "458",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

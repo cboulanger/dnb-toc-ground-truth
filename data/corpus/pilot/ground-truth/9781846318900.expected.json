@@ -1,0 +1,132 @@
+{
+  "entries": [
+    {
+      "title": "List of illustrations",
+      "authors": [],
+      "printed_page_number": "ix",
+      "skip": true
+    },
+    {
+      "title": "Introduction",
+      "authors": [
+        "Maria Cristina Fumagalli",
+        "Peter Hulme",
+        "Owen Robinson",
+        "Lesley Wylie"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "A Tree Grows in Bajan Brooklyn: Writing Caribbean New York",
+      "authors": [
+        "Martha Jane Nadell"
+      ],
+      "printed_page_number": "22",
+      "skip": false
+    },
+    {
+      "title": "Reading the Novum World: The Literary Geography of Science Fiction in Junot Díaz's The Brief Wondrous Life of Oscar Wao",
+      "authors": [
+        "María del Pilar Blanco"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "Inventing Tropicality: Writing Fever, Writing Trauma in Leslie Marmon Silko's Almanac of the Dead and Gardens in the Dunes",
+      "authors": [
+        "Hsinya Huang"
+      ],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "Imperial Archaeology: The American Isthmus as Contested Scientific Contact Zone",
+      "authors": [
+        "Gesa Mackenthun"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "Space Age Tropics",
+      "authors": [
+        "Mimi Sheller"
+      ],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "Black Jacobins and New World Mediterraneans",
+      "authors": [
+        "Susan Gillman"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "The Oloffson",
+      "authors": [
+        "Alasdair Pettinger"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "Dark Thresholds in Trinidad: Regarding the Colonial House",
+      "authors": [
+        "Jak Peake"
+      ],
+      "printed_page_number": "202",
+      "skip": false
+    },
+    {
+      "title": "Micronations of the Caribbean",
+      "authors": [
+        "Russell McDougall"
+      ],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "Golden Kings, Cocaine Lords, and the Madness of El Dorado: Guayana as Native and Colonial Imaginary",
+      "authors": [
+        "Neil L. Whitehead"
+      ],
+      "printed_page_number": "263",
+      "skip": false
+    },
+    {
+      "title": "Suriname Literary Geography: The Changing Same",
+      "authors": [
+        "Richard Price",
+        "Sally Price"
+      ],
+      "printed_page_number": "285",
+      "skip": false
+    },
+    {
+      "title": "The Art of Observation: Race and Landscape in A Journey in Brazil",
+      "authors": [
+        "Nina Gerassi-Navarro"
+      ],
+      "printed_page_number": "313",
+      "skip": false
+    },
+    {
+      "title": "Notes on Contributors and Editors",
+      "authors": [],
+      "printed_page_number": "346",
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "351",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,851 @@
+{
+  "entries": [
+    {
+      "title": "Frontispiece",
+      "authors": [],
+      "printed_page_number": "6",
+      "skip": true
+    },
+    {
+      "title": "Preface",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": true
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "13",
+      "skip": true
+    },
+    {
+      "title": "Hupa Texts, with Notes and Lexicon",
+      "authors": [
+        "Edward Sapir",
+        "Victor Golla"
+      ],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "Yurok and Chimariko Materials",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Yurok Texts",
+      "authors": [
+        "Howard Berman"
+      ],
+      "printed_page_number": "1015",
+      "skip": false
+    },
+    {
+      "title": "Chimariko Linguistic Material",
+      "authors": [
+        "Howard Berman"
+      ],
+      "printed_page_number": "1039",
+      "skip": false
+    },
+    {
+      "title": "Appendix: Reports on Sapir's Northwest California Work",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Letters from the field to A. L. Kroeber",
+      "authors": [],
+      "printed_page_number": "1081",
+      "skip": true
+    },
+    {
+      "title": "Letters to J. P. Harrington regarding work on Chimariko",
+      "authors": [],
+      "printed_page_number": "1090",
+      "skip": true
+    },
+    {
+      "title": "An Expedition to Ancient America",
+      "authors": [],
+      "printed_page_number": "1094",
+      "skip": true
+    },
+    {
+      "title": "A Summary Report of Field Work among the Hupa, Summer 1927",
+      "authors": [],
+      "printed_page_number": "1097",
+      "skip": true
+    },
+    {
+      "title": "Reminiscences about Edward Sapir",
+      "authors": [
+        "Fang-Kuei Li"
+      ],
+      "printed_page_number": "1099",
+      "skip": true
+    },
+    {
+      "title": "References",
+      "authors": [],
+      "printed_page_number": "1101",
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "1113",
+      "skip": true
+    },
+    {
+      "title": "Preface",
+      "authors": [],
+      "printed_page_number": "25",
+      "skip": true
+    },
+    {
+      "title": "Key to the Orthography",
+      "authors": [],
+      "printed_page_number": "31",
+      "skip": true
+    },
+    {
+      "title": "Alphabetical Order",
+      "authors": [],
+      "printed_page_number": "33",
+      "skip": true
+    },
+    {
+      "title": "I. Ceremonies",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. The White Deerskin Dance",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "35",
+      "skip": false
+    },
+    {
+      "title": "2. The Jump Dance",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "3. The Origin of the Jump Dance",
+      "authors": [
+        "Mary Marshall"
+      ],
+      "printed_page_number": "72",
+      "skip": false
+    },
+    {
+      "title": "4. The Origin of the Misq'id Jump Dance",
+      "authors": [
+        "Jake Hostler"
+      ],
+      "printed_page_number": "76",
+      "skip": false
+    },
+    {
+      "title": "5. The Acorn Feast",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "84",
+      "skip": false
+    },
+    {
+      "title": "6. The First Salmon Ceremony",
+      "authors": [
+        "John Shoemaker"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "7. The Origin of the First Salmon Ceremony",
+      "authors": [
+        "John Shoemaker"
+      ],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "8. Bathing the Rain Rock at Sugar Bowl",
+      "authors": [
+        "John Shoemaker"
+      ],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "9. Formula for Bathing the Rain Rock",
+      "authors": [
+        "John Shoemaker"
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "10. The Flower Dance",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "118",
+      "skip": false
+    },
+    {
+      "title": "11. The Origin of the Flower Dance",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "12. The Brush Dance",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "II. Traditional Life",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "13. How to Treat Babies",
+      "authors": [
+        "Emma Frank"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "14. Traditional Standards of Beauty",
+      "authors": [
+        "Emma Frank"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "15. Tattooing",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "170",
+      "skip": false
+    },
+    {
+      "title": "16. Rules of Etiquette",
+      "authors": [
+        "Emma Frank"
+      ],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "17. How to Ensure a Long Life",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "18. Insults and Bad Behavior",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "19. A Jump Dance Sermon",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "185",
+      "skip": false
+    },
+    {
+      "title": "20. When there is a Death",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "188",
+      "skip": false
+    },
+    {
+      "title": "21. How to Gather and Prepare Acorns",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "194",
+      "skip": false
+    },
+    {
+      "title": "22. How Basketry Roots are Gathered and Baskets Woven",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "208",
+      "skip": false
+    },
+    {
+      "title": "23. How to Handle Firewood in the Old-Fashioned Way",
+      "authors": [
+        "Emma Frank"
+      ],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "III. Doctoring and the Spirit World",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "24. How I Became a Doctor",
+      "authors": [
+        "Emma Frank"
+      ],
+      "printed_page_number": "223",
+      "skip": false
+    },
+    {
+      "title": "25. Emma Frank's Method of Doctoring",
+      "authors": [
+        "Emma Frank"
+      ],
+      "printed_page_number": "230",
+      "skip": false
+    },
+    {
+      "title": "26. How Silis Became a Doctor",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "238",
+      "skip": false
+    },
+    {
+      "title": "27. Silis' Vision of Hell",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "251",
+      "skip": false
+    },
+    {
+      "title": "28. Silis Loses and Finds her Pipe",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "257",
+      "skip": false
+    },
+    {
+      "title": "29. The Kick Dance",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "260",
+      "skip": false
+    },
+    {
+      "title": "30. How I Became Fond of Kick Dancing",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "268",
+      "skip": false
+    },
+    {
+      "title": "31. Kʼiłwe· Sickness is Taken Out",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "274",
+      "skip": false
+    },
+    {
+      "title": "32. Hunting Magic and Prayers for Deer",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "280",
+      "skip": false
+    },
+    {
+      "title": "33. A Vision of Sam Brown's",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "283",
+      "skip": false
+    },
+    {
+      "title": "34. Power Over the Grizzly Bear",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "292",
+      "skip": false
+    },
+    {
+      "title": "35. Training for Striking Fear into the Grizzly Bear",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "300",
+      "skip": false
+    },
+    {
+      "title": "36. The Afterworld",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "303",
+      "skip": false
+    },
+    {
+      "title": "IV. Medicine Formulas",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Introductory Note",
+      "authors": [],
+      "printed_page_number": "305",
+      "skip": true
+    },
+    {
+      "title": "37. To Cure Vomit and Passing of Blood",
+      "authors": [
+        "Emma Frank"
+      ],
+      "printed_page_number": "307",
+      "skip": false
+    },
+    {
+      "title": "38. For Sickness",
+      "authors": [
+        "Jake Hostler"
+      ],
+      "printed_page_number": "312",
+      "skip": false
+    },
+    {
+      "title": "39. For a Menstruating Woman to Shorten her Period",
+      "authors": [
+        "Emma Frank"
+      ],
+      "printed_page_number": "315",
+      "skip": false
+    },
+    {
+      "title": "40. Pronounced over a Child to make him Wealthy and Brave",
+      "authors": [
+        "Emma Frank"
+      ],
+      "printed_page_number": "320",
+      "skip": false
+    },
+    {
+      "title": "41. To Purify one who has Handled a Corpse",
+      "authors": [
+        "John Shoemaker"
+      ],
+      "printed_page_number": "327",
+      "skip": false
+    },
+    {
+      "title": "42. To Induce Forgiveness",
+      "authors": [
+        "Mary Marshall"
+      ],
+      "printed_page_number": "342",
+      "skip": false
+    },
+    {
+      "title": "43. For War",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "344",
+      "skip": false
+    },
+    {
+      "title": "44. The Ugly Dog, a Medicine Formula for Love",
+      "authors": [
+        "John Shoemaker"
+      ],
+      "printed_page_number": "349",
+      "skip": false
+    },
+    {
+      "title": "45. A Woman's Love Medicine for Getting a Man",
+      "authors": [
+        "Emma Frank"
+      ],
+      "printed_page_number": "352",
+      "skip": false
+    },
+    {
+      "title": "46. A Man's Love Medicine",
+      "authors": [
+        "Emma Frank"
+      ],
+      "printed_page_number": "356",
+      "skip": false
+    },
+    {
+      "title": "47. For a Man who Desires Wealth and Success in Love",
+      "authors": [
+        "John Shoemaker"
+      ],
+      "printed_page_number": "362",
+      "skip": false
+    },
+    {
+      "title": "48. For Wealth",
+      "authors": [
+        "John Shoemaker"
+      ],
+      "printed_page_number": "366",
+      "skip": false
+    },
+    {
+      "title": "49. The Dawn Maiden",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "371",
+      "skip": false
+    },
+    {
+      "title": "50. Big Dentalia Comes to the Redwood People",
+      "authors": [
+        "Mary Marshall"
+      ],
+      "printed_page_number": "374",
+      "skip": false
+    },
+    {
+      "title": "V. Prayers",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Introductory Note",
+      "authors": [],
+      "printed_page_number": "377",
+      "skip": true
+    },
+    {
+      "title": "51. Prayer for Good Luck",
+      "authors": [
+        "Emma Frank"
+      ],
+      "printed_page_number": "378",
+      "skip": false
+    },
+    {
+      "title": "52. Prayer to the Sun",
+      "authors": [
+        "Emma Frank"
+      ],
+      "printed_page_number": "379",
+      "skip": false
+    },
+    {
+      "title": "53. Prayer in Going Over the Trails in the Mountains",
+      "authors": [
+        "Emma Frank"
+      ],
+      "printed_page_number": "380",
+      "skip": false
+    },
+    {
+      "title": "54. Prayer to the Acorn Feast Ground of Hostler Ranch",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "382",
+      "skip": false
+    },
+    {
+      "title": "55. Prayer to Yimantiwʼwinyay's Resting Place",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "384",
+      "skip": false
+    },
+    {
+      "title": "56. A Night Prayer",
+      "authors": [
+        "John Shoemaker"
+      ],
+      "printed_page_number": "386",
+      "skip": false
+    },
+    {
+      "title": "VI. Myths and Tales",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "57. Salmon's Grandmother",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "387",
+      "skip": false
+    },
+    {
+      "title": "58. Salmon's Grandmother and Timber Robin",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "394",
+      "skip": false
+    },
+    {
+      "title": "59. Water Dog and Acorn Worm",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "397",
+      "skip": false
+    },
+    {
+      "title": "60. Iris and Panther",
+      "authors": [
+        "Oscar Brown"
+      ],
+      "printed_page_number": "405",
+      "skip": false
+    },
+    {
+      "title": "61. Coyote and Frog",
+      "authors": [
+        "Emma Frank"
+      ],
+      "printed_page_number": "408",
+      "skip": false
+    },
+    {
+      "title": "62. Three Tales of Little Woodpecker",
+      "authors": [
+        "Emma Frank"
+      ],
+      "printed_page_number": "412",
+      "skip": false
+    },
+    {
+      "title": "63. Salmon-Trout is Doctored by Bluejay and Hummingbird",
+      "authors": [
+        "Jake Hostler"
+      ],
+      "printed_page_number": "430",
+      "skip": false
+    },
+    {
+      "title": "64. A Story of the South Wind",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "433",
+      "skip": false
+    },
+    {
+      "title": "65. The Lake Whale",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "437",
+      "skip": false
+    },
+    {
+      "title": "66. The Rival Wives",
+      "authors": [
+        "Mary Marshall"
+      ],
+      "printed_page_number": "438",
+      "skip": false
+    },
+    {
+      "title": "67. The Two Brothers",
+      "authors": [
+        "John Shoemaker"
+      ],
+      "printed_page_number": "446",
+      "skip": false
+    },
+    {
+      "title": "68. The One who Established a Medicine at Miyimida·qʼid, and his Grandmother",
+      "authors": [
+        "Emma Frank"
+      ],
+      "printed_page_number": "450",
+      "skip": false
+    },
+    {
+      "title": "69. The Hated Suitor",
+      "authors": [
+        "Jake Hostler"
+      ],
+      "printed_page_number": "468",
+      "skip": false
+    },
+    {
+      "title": "VII. Legends and Traditional History",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "70. How Ear Aches Started at Meʼdildiŋ",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "479",
+      "skip": false
+    },
+    {
+      "title": "71. The Acorn Provider Saves Weitchpec",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "486",
+      "skip": false
+    },
+    {
+      "title": "72. Two Young Men Do Indian Deviling",
+      "authors": [
+        "Jake Hostler"
+      ],
+      "printed_page_number": "490",
+      "skip": false
+    },
+    {
+      "title": "73. The Village that Blasphemed",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "497",
+      "skip": false
+    },
+    {
+      "title": "74. How a Man was Destroyed at New River",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "499",
+      "skip": false
+    },
+    {
+      "title": "75. How a Tattooed-Face Stole a Woman",
+      "authors": [
+        "John Shoemaker"
+      ],
+      "printed_page_number": "505",
+      "skip": false
+    },
+    {
+      "title": "76. The Chimariko Attack a Hupa Village",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "509",
+      "skip": false
+    },
+    {
+      "title": "77. A War Between the Hupa and Yurok",
+      "authors": [
+        "Sam Brown"
+      ],
+      "printed_page_number": "515",
+      "skip": false
+    },
+    {
+      "title": "Linguistic Notes to the Texts",
+      "authors": [
+        "Sean O'Neill"
+      ],
+      "printed_page_number": "531",
+      "skip": false
+    },
+    {
+      "title": "Analytic Lexicon",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Introductory Note",
+      "authors": [],
+      "printed_page_number": "725",
+      "skip": true
+    },
+    {
+      "title": "Element List",
+      "authors": [
+        "Sean O'Neill"
+      ],
+      "printed_page_number": "727",
+      "skip": false
+    },
+    {
+      "title": "Morphological Outline",
+      "authors": [],
+      "printed_page_number": "813",
+      "skip": false
+    },
+    {
+      "title": "Ethnographic Lexicon",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Introductory Note",
+      "authors": [],
+      "printed_page_number": "873",
+      "skip": true
+    },
+    {
+      "title": "General Glossary",
+      "authors": [],
+      "printed_page_number": "875",
+      "skip": false
+    },
+    {
+      "title": "Kinship Terminology",
+      "authors": [],
+      "printed_page_number": "999",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

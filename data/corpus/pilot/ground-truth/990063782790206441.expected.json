@@ -1,0 +1,78 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die Erziehung im Zeitalter der Organisation",
+      "authors": ["Theodor Litt"],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Die veränderte Gesellschaft und ihr Einfluß auf die Erziehung",
+      "authors": ["Oswald Kroh"],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "Das veränderte Bild vom Menschen und sein Einfluß auf das pädagogische Denken",
+      "authors": ["Otto Friedrich Bollnow"],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "Wesen und Unwesen der Schule",
+      "authors": ["Martin Wagenschein"],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "Wesen und Unwesen der Hochschulbildung",
+      "authors": ["Hans Schaefer"],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "Die unkontrollierte Erziehung",
+      "authors": ["Johannes Rudert"],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "Der Richter als Erzieher",
+      "authors": ["Rudolf Sieverts"],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "Die Eltern als Erzieher",
+      "authors": ["Gerhard Pfahler"],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "Die Notwendigkeit der politischen Erziehung",
+      "authors": ["Erich Weniger"],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "Die Möglichkeiten einer Selbsterziehung",
+      "authors": ["Johannes Neumann"],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Die Erziehung und das Leben",
+      "authors": ["Wilhelm Flitner"],
+      "printed_page_number": "149",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

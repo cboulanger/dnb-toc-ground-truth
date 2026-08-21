@@ -1,0 +1,471 @@
+{
+  "generated_at": 1787243522.267529,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Notes on contributors",
+      "printed_page_number": "ix",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Preface",
+      "printed_page_number": "xi",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgments",
+      "printed_page_number": "xxi",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Chronology",
+      "printed_page_number": "xxii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Maps",
+      "printed_page_number": "xxxvii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Volume I",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "I \u00b7 Africa and orality",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Liz Gunner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 \u00b7 The folktale and its extensions",
+      "printed_page_number": "19",
+      "source_page_index": -1,
+      "authors": [
+        "Kwesi Yankah"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 \u00b7 Festivals, ritual, and drama in Africa",
+      "printed_page_number": "35",
+      "source_page_index": -1,
+      "authors": [
+        "Tejumola Olaniyan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 \u00b7 Arab and Berber oral traditions in North Africa",
+      "printed_page_number": "49",
+      "source_page_index": -1,
+      "authors": [
+        "Sabra Webber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 \u00b7 Heroic and praise poetry in South Africa",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "Lupenga Mphande"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 \u00b7 African oral epics",
+      "printed_page_number": "98",
+      "source_page_index": -1,
+      "authors": [
+        "Isidore Okpewho"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 \u00b7 The oral tradition in the African diaspora",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "Maureen Warner-Lewis"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 \u00b7 Carnival and the folk origins of West Indian drama",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "Keith Q. Warner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 \u00b7 Africa and writing",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [
+        "Alain Ricard"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 \u00b7 Ethiopian literature",
+      "printed_page_number": "164",
+      "source_page_index": -1,
+      "authors": [
+        "Teodros Kiros"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II \u00b7 African literature in Arabic",
+      "printed_page_number": "178",
+      "source_page_index": -1,
+      "authors": [
+        "Farida Abu-Haidar"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12 \u00b7 The Swahili literary tradition: an intercultural heritage",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [
+        "Alamin M. Mazrui"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13 \u00b7 Africa and the European Renaissance",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [
+        "Sylvie Kand\u00e9"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14 \u00b7 The literature of slavery and abolition",
+      "printed_page_number": "238",
+      "source_page_index": -1,
+      "authors": [
+        "Moira Ferguson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15 \u00b7 Discourses of empire",
+      "printed_page_number": "255",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Eric Livingston"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16 \u00b7 African-language literatures of southern Africa",
+      "printed_page_number": "289",
+      "source_page_index": -1,
+      "authors": [
+        "Daniel P. Kunene"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "17 \u00b7 Gikuyu literature: development from early Christian writings to Ng\u0169g\u0129\u2019s later novels",
+      "printed_page_number": "306",
+      "source_page_index": -1,
+      "authors": [
+        "Ann Biersteker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "18 \u00b7 The emergence of written Hausa literature",
+      "printed_page_number": "329",
+      "source_page_index": -1,
+      "authors": [
+        "Ousseina Alidou"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "19 \u00b7 Literature in Yor\u00f9b\u00e1: poetry and prose; traveling theater and modern drama",
+      "printed_page_number": "357",
+      "source_page_index": -1,
+      "authors": [
+        "Karin Barber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "20 \u00b7 African literature and the colonial factor",
+      "printed_page_number": "379",
+      "source_page_index": -1,
+      "authors": [
+        "Simon Gikandi"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "21 \u00b7 The formative journals and institutions",
+      "printed_page_number": "398",
+      "source_page_index": -1,
+      "authors": [
+        "Milton Krieger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "22 \u00b7 Literature in Afrikaans",
+      "printed_page_number": "408",
+      "source_page_index": -1,
+      "authors": [
+        "Ampie Coetzee"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Volume 2",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "23 \u00b7 East African literature in English",
+      "printed_page_number": "425",
+      "source_page_index": -1,
+      "authors": [
+        "Simon Gikandi"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "24 \u00b7 Anglophone literature of Central Africa",
+      "printed_page_number": "445",
+      "source_page_index": -1,
+      "authors": [
+        "Flora Veit-Wild",
+        "Anthony Chennells"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "25 \u00b7 West African literature in English: beginnings to the mid-seventies",
+      "printed_page_number": "472",
+      "source_page_index": -1,
+      "authors": [
+        "Dan Izevbaye"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "26 \u00b7 South African literature in English",
+      "printed_page_number": "504",
+      "source_page_index": -1,
+      "authors": [
+        "David Attwell"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "27 \u00b7 African literature in French: sub-Saharan Africa during the colonial period",
+      "printed_page_number": "530",
+      "source_page_index": -1,
+      "authors": [
+        "Mildred Mortimer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "28 \u00b7 North African literature in French",
+      "printed_page_number": "552",
+      "source_page_index": -1,
+      "authors": [
+        "Patricia Geesey"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "29 \u00b7 Francophone literatures of the Indian Ocean",
+      "printed_page_number": "569",
+      "source_page_index": -1,
+      "authors": [
+        "B\u00e9n\u00e9dicte Maugui\u00e8re"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "30 \u00b7 African literature in Spanish",
+      "printed_page_number": "584",
+      "source_page_index": -1,
+      "authors": [
+        "M\u2019Barek N\u2019Gom"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "31 \u00b7 African literature in Portuguese",
+      "printed_page_number": "603",
+      "source_page_index": -1,
+      "authors": [
+        "Russell G. Hamilton"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "32 \u00b7 Popular literature in Africa",
+      "printed_page_number": "626",
+      "source_page_index": -1,
+      "authors": [
+        "Ode S. Ogedebe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "33 \u00b7 Caribbean literature in French: origins and development",
+      "printed_page_number": "643",
+      "source_page_index": -1,
+      "authors": [
+        "Nick Nesbitt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "34 \u00b7 Caribbean literature in Spanish",
+      "printed_page_number": "670",
+      "source_page_index": -1,
+      "authors": [
+        "Lizbeth Paravisini-Gebert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "35 \u00b7 Anglophone Caribbean literature",
+      "printed_page_number": "711",
+      "source_page_index": -1,
+      "authors": [
+        "Blaine Savory"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "36 \u00b7 The Harlem Renaissance and the Negritude movement",
+      "printed_page_number": "759",
+      "source_page_index": -1,
+      "authors": [
+        "F. Abiola Irele"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "37 \u00b7 Postcolonial Caribbean identities",
+      "printed_page_number": "785",
+      "source_page_index": -1,
+      "authors": [
+        "J. Michael Dash"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "38 \u00b7 African literature and post-independence disillusionment",
+      "printed_page_number": "797",
+      "source_page_index": -1,
+      "authors": [
+        "Derek Wright"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "39 \u00b7 \u201cPostcolonial\u201d African and Caribbean literature",
+      "printed_page_number": "809",
+      "source_page_index": -1,
+      "authors": [
+        "Adele King"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "40 \u00b7 Modernism and Postmodernism in African literature",
+      "printed_page_number": "824",
+      "source_page_index": -1,
+      "authors": [
+        "Ato Quayson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "853",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

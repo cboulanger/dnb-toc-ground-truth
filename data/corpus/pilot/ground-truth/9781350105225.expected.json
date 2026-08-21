@@ -1,0 +1,307 @@
+{
+  "entries": [
+    {
+      "title": "List of Figures",
+      "authors": [],
+      "printed_page_number": "viii",
+      "skip": true
+    },
+    {
+      "title": "Notes on Contributors",
+      "authors": [],
+      "printed_page_number": "xiii",
+      "skip": true
+    },
+    {
+      "title": "Preface to the Second Edition",
+      "authors": [],
+      "printed_page_number": "xvi",
+      "skip": true
+    },
+    {
+      "title": "Introduction: Material culture history: Methods, practices and disciplines",
+      "authors": [
+        "Anne Gerritsen",
+        "Giorgio Riello"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 1: Broken saints, house cats, other historical matter",
+      "authors": [
+        "Dana Leibsohn"
+      ],
+      "printed_page_number": "20",
+      "skip": false
+    },
+    {
+      "title": "Part I: The Disciplines of Material Culture",
+      "authors": [],
+      "printed_page_number": "29",
+      "skip": true
+    },
+    {
+      "title": "1 Material culture and the history of art(efacts)",
+      "authors": [
+        "Viccy Coltman"
+      ],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "2 Written texts and the performance of materiality",
+      "authors": [
+        "Catherine Richardson"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "3 Anthropology, archaeology, history and the material culture of Lycra®",
+      "authors": [
+        "Kaori O'Connor"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 2: Material culture, archaeology and defining modernity: Case studies in ceramic research",
+      "authors": [
+        "David Gaimster"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 3: Father Amiot’s cup: A Qing imperial porcelain sent to the court of Louis XV",
+      "authors": [
+        "Kee Il Choi Jr"
+      ],
+      "printed_page_number": "84",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 4: Broken objects: Using archaeological ceramics in the study of material culture",
+      "authors": [
+        "Suzanne Findlen Hood"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 5: Writing our Maritime Pasts: The Belitung Shipwreck Controversy",
+      "authors": [
+        "Natali Pearson"
+      ],
+      "printed_page_number": "98",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 6: Identity, heritage and memorialization: The Toraja Tongkonan of Indonesia",
+      "authors": [
+        "Kathleen M. Adams"
+      ],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 7: History by design: The UK Board of Trade Design Register",
+      "authors": [
+        "Dinah Eastop"
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "Part II: The Methods of Material Culture",
+      "authors": [],
+      "printed_page_number": "121",
+      "skip": true
+    },
+    {
+      "title": "4 Spaces of global interactions: The material landscapes of global history",
+      "authors": [
+        "Anne Gerritsen",
+        "Giorgio Riello"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "5 Material culture and materialism: The French Revolution in wallpaper",
+      "authors": [
+        "Ulrich Lehmann"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "6 How things shape us: Material culture and identity in the industrial age",
+      "authors": [
+        "Manuel Charpy"
+      ],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 8: Invisible beds: Health and the material culture of sleep",
+      "authors": [
+        "Sandra Cavallo"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 9: Material culture and sound: A sixteenth-century handbell",
+      "authors": [
+        "Flora Dennis"
+      ],
+      "printed_page_number": "188",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 10: Interwoven knowledge: Understanding and conserving three Islamic carpets",
+      "authors": [
+        "Jessica Hallett",
+        "Raquel Santos"
+      ],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 11: Lustrous things: Luminosity and reflection before the light bulb",
+      "authors": [
+        "Ann Smart Martin"
+      ],
+      "printed_page_number": "200",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 12: Cosmopolitan relationships in the crossroads of the Pacific Ocean",
+      "authors": [
+        "Christina Hellmich"
+      ],
+      "printed_page_number": "206",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 13: Digital microscopy and early modern embroidery",
+      "authors": [
+        "Stefan Hanß"
+      ],
+      "printed_page_number": "214",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 14: Objects of emotion: The London Foundling Hospital Tokens, 1741–60",
+      "authors": [
+        "John Styles"
+      ],
+      "printed_page_number": "222",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 15: Time, wear and maintenance: The afterlife of things",
+      "authors": [
+        "Victoria Kelley"
+      ],
+      "printed_page_number": "228",
+      "skip": false
+    },
+    {
+      "title": "Part III: The Preservation and Interpretation of Material Culture",
+      "authors": [],
+      "printed_page_number": "235",
+      "skip": true
+    },
+    {
+      "title": "7 The return of the Wunderkammer: Material culture in the museum",
+      "authors": [
+        "Ethan W. Lasser"
+      ],
+      "printed_page_number": "237",
+      "skip": false
+    },
+    {
+      "title": "8 Handle with care: The future of curatorial expertise",
+      "authors": [
+        "Glenn Adamson"
+      ],
+      "printed_page_number": "251",
+      "skip": false
+    },
+    {
+      "title": "9 As seen on the screen: Material culture, historical accuracy and the costume drama",
+      "authors": [
+        "Hannah Greig"
+      ],
+      "printed_page_number": "269",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 16: Europe 1600–1800 in a thousand objects",
+      "authors": [
+        "Lesley Ellis Miller"
+      ],
+      "printed_page_number": "284",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 17: Reading and writing the restoration history of an old French Bureau",
+      "authors": [
+        "Carolyn Sargentson"
+      ],
+      "printed_page_number": "292",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 18: Objects of empire: Museums, material culture and histories of empire",
+      "authors": [
+        "John McAleer"
+      ],
+      "printed_page_number": "299",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 19: The lost heritage of China: Dismantling Beijing, digitizing Beijing",
+      "authors": [
+        "Di Luo"
+      ],
+      "printed_page_number": "305",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 20: ‘Black Gold’: Industrial heritage of the nineteenth-century Ruhr area",
+      "authors": [
+        "Christian Kleinschmidt"
+      ],
+      "printed_page_number": "313",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 21: Indigeneity and race and the politics of museum collections",
+      "authors": [
+        "Beverly Lemire"
+      ],
+      "printed_page_number": "319",
+      "skip": false
+    },
+    {
+      "title": "Object in focus 22: Acts of creation: Debating Indigenous American repatriation from Britain",
+      "authors": [
+        "Jack Davy"
+      ],
+      "printed_page_number": "326",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "334",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

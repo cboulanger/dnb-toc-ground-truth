@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "title": "Einleitung",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Frauenbilder: Konstruktionen des anderen Geschlechts",
+      "authors": [
+        "Gitta Mühlen Achs"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "Machtvolle Blicke. Genderkonstruktion und Film",
+      "authors": [
+        "Ruth Seifert"
+      ],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "Die unsichtbare Allgegenwart des Männlichen in den Medien",
+      "authors": [
+        "Edgar J. Forster"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Neue Helden für die Männer. Eine sozialisationstheoretische Betrachtung von Männlichkeit und Medien",
+      "authors": [
+        "Stefan Aufenanger"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Geschlechtsspezifische Mediennutzung in Ost und West",
+      "authors": [
+        "Ute Karig",
+        "Hans-Jörg Stiehler"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Medien machen Männer. Lebensvorstellungen von Jungen, ihre alltäglichen und ihre medialen Vorbilder",
+      "authors": [
+        "Bernd Schorb"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "„Mädchen haben sich halt total daran gewöhnt, daß sie sowieso bloß Nebenrollen spielen“",
+      "authors": [
+        "Helga Theunert"
+      ],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "„...und dadurch wurde die Welt vernichtet.“ Medienspuren in freien Schüleraufsätzen",
+      "authors": [
+        "Helga Schraud"
+      ],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "Praktische Medienarbeit. K.O.-Edukation oder geht's auch anders?",
+      "authors": [
+        "Elke Stolzenburg"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "Zu den Autoren",
+      "authors": [],
+      "printed_page_number": "157",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

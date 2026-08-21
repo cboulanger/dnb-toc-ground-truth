@@ -1,0 +1,156 @@
+{
+  "entries": [
+    {
+      "title": "Feuilletons zur Welt des Kinos",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1919",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "1920",
+      "authors": [],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "1921",
+      "authors": [],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "1922",
+      "authors": [],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "1924",
+      "authors": [],
+      "printed_page_number": "98",
+      "skip": false
+    },
+    {
+      "title": "1925",
+      "authors": [],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "1926",
+      "authors": [],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "1929",
+      "authors": [],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "1930",
+      "authors": [],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "1931",
+      "authors": [],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "1934",
+      "authors": [],
+      "printed_page_number": "200",
+      "skip": false
+    },
+    {
+      "title": "1935",
+      "authors": [],
+      "printed_page_number": "208",
+      "skip": false
+    },
+    {
+      "title": "Treatments",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Kinder des Bösen",
+      "authors": [],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "Der letzte Karneval von Wien",
+      "authors": [],
+      "printed_page_number": "232",
+      "skip": false
+    },
+    {
+      "title": "[Die Eiffel ist eine sehr entlegene ...]",
+      "authors": [],
+      "printed_page_number": "258",
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Editorische Notiz",
+      "authors": [],
+      "printed_page_number": "265",
+      "skip": true
+    },
+    {
+      "title": "Abgekürzt zitierte Literatur",
+      "authors": [],
+      "printed_page_number": "267",
+      "skip": true
+    },
+    {
+      "title": "Anmerkungen",
+      "authors": [],
+      "printed_page_number": "270",
+      "skip": true
+    },
+    {
+      "title": "Nachwort",
+      "authors": [],
+      "printed_page_number": "352",
+      "skip": true
+    },
+    {
+      "title": "Dank",
+      "authors": [],
+      "printed_page_number": "390",
+      "skip": true
+    },
+    {
+      "title": "Register",
+      "authors": [],
+      "printed_page_number": "391",
+      "skip": true
+    },
+    {
+      "title": "Ausführliches Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": "395",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

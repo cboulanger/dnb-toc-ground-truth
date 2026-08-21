@@ -1,0 +1,598 @@
+{
+  "generated_at": 1787015734.949253,
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "V",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Verzeichnis der Autoren",
+      "printed_page_number": "XIII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "I. Laudatio",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Hermann-Ulrich Viskorf",
+        "Wolfgang Spindler"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "II. Steuern, Verfassung und Staat",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Steuermoral, Steuerkultur und R\u00fcckwirkung von Steuergesetzen",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [
+        "Dieter Birk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Systembildung und Systembindung im Steuerrecht",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus-Dieter Dr\u00fcen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Quadratur des Gordischen Knotens im Steuerrecht",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Iris Ebling",
+        "Klaus Ebling"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Spielger\u00e4testeuer und das Verfassungsrecht \u2013 eine unendliche Geschichte",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Eichberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geltung der IFRS als Verfassungsproblem?",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Heuermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Evidenz von Verfassungsverst\u00f6\u00dfen, Budgetschutz und Unvereinbarkeitsausspr\u00fcche \u2013 Zu den Rechtsfolgen verfahrensfehlerhaft zustande gekommener Gesetze aus Anlass des BVerfG-Beschlusses zum Haushaltsbegleitgesetz 2004 vom 8.12.2009",
+      "printed_page_number": "97",
+      "source_page_index": -1,
+      "authors": [
+        "Johanna Hey"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Rechtsprechung des Bundesfinanzhofs als Aus\u00fcbung der dritten Staatsgewalt",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "Monika Jachmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00dcber die Unf\u00e4higkeit deutscher Politik zur Steuervereinfachung",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Lang"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verfassungsbindung und weiter Gestaltungsspielraum des Gesetzgebers",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf M\u00f6llinghoff"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Legislativer Gehorsam im Steuerrecht",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [
+        "Heide Schaumburg",
+        "Harald Schaumburg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Besteuerungsgleichheit und Subventionsgleichheit",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Sch\u00f6n"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verfassungsrechtliche Prinzipien im Steuerrecht \u2013 Anmerkungen eines Steuerberaters",
+      "printed_page_number": "203",
+      "source_page_index": -1,
+      "authors": [
+        "Hartmut Schwab",
+        "Claudia Ende"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Finanzrichterlicher Rechtsschutz in Verfassungsfragen",
+      "printed_page_number": "219",
+      "source_page_index": -1,
+      "authors": [
+        "Roman Seer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Recht und Staat im Wandel \u2013 Vom Steuerstaat zur Steuer in der demokratischen Gesellschaft",
+      "printed_page_number": "231",
+      "source_page_index": -1,
+      "authors": [
+        "Heinrich Weber-Grellet"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. Steuern und Finanzen in Europa",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Rechtsschutz im \u00f6sterreichischen Abgabenrecht",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [
+        "Clemens Jabloner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rechtsprechungskontinuit\u00e4t und -wandel \u2013 Ein Beitrag zum judiziellen Vertrauensschutz",
+      "printed_page_number": "265",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Joachim Kanzler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Zusammenwirken von EuGH und nationalem Richter bei der Herstellung eines europarechtskonformen Zustands",
+      "printed_page_number": "279",
+      "source_page_index": -1,
+      "authors": [
+        "Juliane Kokott",
+        "Thomas Henze"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2005 \u2013 Eine Wende in der steuerlichen Rechtsprechung des EuGH zu den Grundfreiheiten?",
+      "printed_page_number": "297",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Lang"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Vorlagepflicht an den EuGH im Vorabentscheidungsverfahren",
+      "printed_page_number": "329",
+      "source_page_index": -1,
+      "authors": [
+        "Moris Lehner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wie gehen EuGH und BFH mit R\u00fcckwirkung und R\u00fcckwirkungsverboten bei \u00c4nderungen im Umsatzsteuerrecht um?",
+      "printed_page_number": "345",
+      "source_page_index": -1,
+      "authors": [
+        "Wilfried Wagner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Europ\u00e4ische Rechtsharmonisierung in der Praxis: M\u00f6glichkeiten und Grenzen einer europ\u00e4ischen Finanzaufsicht nach den Europ\u00e4ischen Vertr\u00e4gen und der Lissabon-Entscheidung des Bundesverfassungsgerichts",
+      "printed_page_number": "363",
+      "source_page_index": -1,
+      "authors": [
+        "Franz-Christoph Zeitler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IV. Finanzverwaltung und Finanzgerichtsbarkeit",
+      "printed_page_number": "379",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00dcber das Nichtanwenden h\u00f6chstrichterlicher Rechtsprechung \u2013 aufgezeigt am Beispiel der Spruchpraxis des I. Senats des BFH",
+      "printed_page_number": "379",
+      "source_page_index": -1,
+      "authors": [
+        "Dietmar Gosch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Causa finita? \u2013 Steuerrecht im Spannungsfeld der Gerichtsbarkeiten",
+      "printed_page_number": "429",
+      "source_page_index": -1,
+      "authors": [
+        "Monika Harms",
+        "Sonja Heine"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nichtanwendung von Entscheidungen des Bundesfinanzhofs",
+      "printed_page_number": "445",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Herden"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Methoden zur Sicherung zuk\u00fcnftigen Verwaltungsverhaltens \u2013 Zur unterschiedlichen Gestaltung von Zusagen und Zusicherungen in verschiedenen Bereichen des \u00f6ffentlichen Rechts",
+      "printed_page_number": "463",
+      "source_page_index": -1,
+      "authors": [
+        "Ferdinand Kirchhof"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Justiz in den neuen L\u00e4ndern \u2013 am Beispiel des Finanzgerichts Berlin-Brandenburg",
+      "printed_page_number": "473",
+      "source_page_index": -1,
+      "authors": [
+        "Claus Lambrecht"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "F\u00fchrungsinstrumente in einem obersten Bundesgericht",
+      "printed_page_number": "493",
+      "source_page_index": -1,
+      "authors": [
+        "Friedrich G. Nagelmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der ungeliebte Pr\u00e4sident \u2013 Herbert Dorn an der Spitze des Reichsfinanzhofs (1931\u20131934)",
+      "printed_page_number": "507",
+      "source_page_index": -1,
+      "authors": [
+        "Ekkehart Reimer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Risikomanagement \u2013 Zaubermittel oder Bankrotterkl\u00e4rung der Verwaltung?",
+      "printed_page_number": "529",
+      "source_page_index": -1,
+      "authors": [
+        "Eckehard Schmidt",
+        "Michael Schmitt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Nichtanwendungserlass im Steuerrecht \u2013 die Finanzverwaltung als \u201eKontrollinstanz\u201c der Rechtsprechung?",
+      "printed_page_number": "549",
+      "source_page_index": -1,
+      "authors": [
+        "Horst Vinken"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Kooperationsstrategie als Mittel zum gleichm\u00e4\u00dfigen Vollzug des Steuerrechts im Rahmen der Tax Compliance",
+      "printed_page_number": "563",
+      "source_page_index": -1,
+      "authors": [
+        "Werner Widmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "V. Materielles Steuerrecht",
+      "printed_page_number": "577",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "M\u00f6glichkeiten und Grenzen der Erstellung einer Einheitsbilanz \u2013 Zur Rolle und Entwicklung des Ma\u00dfgeblichkeitsprinzips",
+      "printed_page_number": "577",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Ballwieser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Begriff des Kapalkontos im Sinne von \u00a7 15a EStG",
+      "printed_page_number": "595",
+      "source_page_index": -1,
+      "authors": [
+        "Franz D\u00f6tsch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kein Gestaltungsmissbrauch bei Verkauf und Wiederverkauf von Wertpapieren \u2013 Eine Nachlese",
+      "printed_page_number": "619",
+      "source_page_index": -1,
+      "authors": [
+        "Lothar Fischer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Passivierungsverbot f\u00fcr Jubil\u00e4umsr\u00fcckstellungen zwischen Folgerichtigkeitsgrundsatz und Willk\u00fcrverbot",
+      "printed_page_number": "627",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer H\u00fcttemann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Recht verstehen und Recht sprechen \u2013 Zur Auslegung des Steuerrechts nach seinem Belastungsgrund",
+      "printed_page_number": "641",
+      "source_page_index": -1,
+      "authors": [
+        "Paul Kirchhof"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Bewertung von Betriebsverm\u00f6gen im reformierten Erbschaftsteuerrecht \u2013 Eine \u00f6konomische W\u00fcrdigung des vereinfachten Ertragswertverfahrens",
+      "printed_page_number": "661",
+      "source_page_index": -1,
+      "authors": [
+        "Kurt-Dieter Koschmieder",
+        "Nico Herrmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der \u201eGesamtplan\u201c \u2013 eine zul\u00e4ssige Rechtsfigur im Steuerrecht?",
+      "printed_page_number": "677",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Offerhaus"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zum Irrtum \u00fcber Steuerfolgen",
+      "printed_page_number": "693",
+      "source_page_index": -1,
+      "authors": [
+        "Detlev J. Piltz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gewinnerzielungsabsicht als Anwendungsfall des Fremdvergleichs",
+      "printed_page_number": "703",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Pl\u00fccker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen zur neueren Rechtsprechung des Bundesfinanzhofs zur \u201everbotswidrigen\u201c Privatnutzung des Dienst-Kfz durch den Gesellschafter-Gesch\u00e4ftsf\u00fchrer",
+      "printed_page_number": "721",
+      "source_page_index": -1,
+      "authors": [
+        "Hartmut Pust"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein paar Gedanken zu nachtr\u00e4glichen Schuldzinsen bei den Eink\u00fcnften aus Vermietung und Verpachtung",
+      "printed_page_number": "739",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrich Schallmoser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verm\u00f6gens\u00fcbergabe gegen Versorgungsleistungen",
+      "printed_page_number": "749",
+      "source_page_index": -1,
+      "authors": [
+        "Silvia Schuster"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Verlust als Gegenstand der Steuerpolitik aus Sicht der steuerberatenden Berufe",
+      "printed_page_number": "775",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Christoph Seewald"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Aufteilbarkeit gemischt veranlasster Aufwendungen \u2013 Zum Beschluss des Gro\u00dfen Senats des BFH vom 21.9.2009 \u2013 GrS 1/06",
+      "printed_page_number": "795",
+      "source_page_index": -1,
+      "authors": [
+        "Hartmut S\u00f6hn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rechtsmissbr\u00e4uchlicher Gesamtplan bei der Kettenschenkung",
+      "printed_page_number": "809",
+      "source_page_index": -1,
+      "authors": [
+        "Sebastian Spiegelberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Erzielung nichtsteuerbarer Einnahmen \u2013 systematisiert am Beispiel von Preis- und F\u00f6rdergeldern",
+      "printed_page_number": "819",
+      "source_page_index": -1,
+      "authors": [
+        "Manuel R. Theisen",
+        "Martin Ra\u00dfhofer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Rechtsprechung des Bundesfinanzhofs zur Ermittlung der Eink\u00fcnfte aus Vermietung und Verpachtung bei Ferienwohnungen",
+      "printed_page_number": "833",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Th\u00fcrmer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Struktur und Funktion des Steuertatbestands",
+      "printed_page_number": "853",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Waldhoff"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anschaffungsnahe Herstellungskosten \u2013 Erste Erfahrungen mit \u00a7 6 Abs. 1 Nr. 1a EStG",
+      "printed_page_number": "879",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Wendt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einnahmen und Schneeballsystem \u2013 \u00dcberlegungen zur Forderung als Gegenstand einer Einnahme gem\u00e4\u00df \u00a7 8 EStG",
+      "printed_page_number": "897",
+      "source_page_index": -1,
+      "authors": [
+        "Johannes Wolff-Diepenbrock"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schriftenverzeichnis Wolfgang Spindler",
+      "printed_page_number": "913",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Stichwortverzeichnis",
+      "printed_page_number": "919",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

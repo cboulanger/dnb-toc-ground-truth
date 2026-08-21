@@ -1,0 +1,309 @@
+{
+  "generated_at": 1787258556.816444,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "List of figures",
+      "printed_page_number": "vii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of tables",
+      "printed_page_number": "viii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of contributors",
+      "printed_page_number": "ix",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of abbreviations",
+      "printed_page_number": "xi",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgments",
+      "printed_page_number": "xiv",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Introduction to Research Handbook on International Taxation",
+      "printed_page_number": "xv",
+      "source_page_index": -1,
+      "authors": [
+        "Yariv Brauner"
+      ],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "PART I FUNDAMENTALS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1 Does customary international tax law exist?",
+      "printed_page_number": "2",
+      "source_page_index": -1,
+      "authors": [
+        "Reuven S. Avi-Yonah"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 The origins of the international tax regime",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [
+        "Sunita Jogarajan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 International tax organizations",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [
+        "Allison Christians"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Tax discrimination",
+      "printed_page_number": "44",
+      "source_page_index": -1,
+      "authors": [
+        "Elizabeth Adams",
+        "Michael Knoll",
+        "Ruth Mason"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART II DOCTRINAL BUILDING BLOCKS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "5 Taxation of employment",
+      "printed_page_number": "65",
+      "source_page_index": -1,
+      "authors": [
+        "Pasquale Pistone"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Taxation of cross-border services",
+      "printed_page_number": "78",
+      "source_page_index": -1,
+      "authors": [
+        "Andr\u00e9s B\u00e1ez Moreno"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Transfer pricing",
+      "printed_page_number": "97",
+      "source_page_index": -1,
+      "authors": [
+        "Aitor Navarro"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Taxation of entertainers and sportspersons and the force of attraction",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [
+        "Karolina Tetlak"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART III KEY DEBATES",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "9 Competition vs. cooperation in international taxation",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [
+        "Tsilly Dagan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 The arm\u2019s length standard: justification, content, and alternative proposals",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [
+        "Luis Eduardo Schoueri",
+        "Ricardo Andr\u00e9 Galendi J\u00fanior"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11 Can law regulate its own interpretation? Relevance and meaning of Articles 31\u201333 of the Vienna Convention on the Law of Treaties (VCLT) and Article 3 para. 2 of the Model Convention of the Organisation for Economic Co-Operation and Development (OECD MC) for the interpretation of double-taxation conventions",
+      "printed_page_number": "174",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Lang"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12 International tax treaty dispute resolution, the mutual agreement procedure, and the promise of mandatory arbitration for developing countries",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [
+        "Yariv Brauner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART IV FEEDBACK SYSTEMS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "13 The political science of global tax governance",
+      "printed_page_number": "218",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Hearson",
+        "Thomas Rixen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14 International taxation and international trade: common objectives, different paths, and inevitable clash",
+      "printed_page_number": "239",
+      "source_page_index": -1,
+      "authors": [
+        "Monica Victor",
+        "Yariv Brauner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15 International taxation and environmental protection",
+      "printed_page_number": "258",
+      "source_page_index": -1,
+      "authors": [
+        "Alice Pirlot"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16 Research strategies in comparative taxation",
+      "printed_page_number": "278",
+      "source_page_index": -1,
+      "authors": [
+        "Carlo Garbarino"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART V THE FUTURE OF INTERNATIONAL TAXATION",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "17 Multilateralism in international taxation: is it really the future?",
+      "printed_page_number": "317",
+      "source_page_index": -1,
+      "authors": [
+        "Juan Zornoza P\u00e9rez"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "18 General thoughts on illicitly obtained information in tax matters",
+      "printed_page_number": "341",
+      "source_page_index": -1,
+      "authors": [
+        "Hugo L\u00f3pez L\u00f3pez"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "19 International taxation and migrations",
+      "printed_page_number": "353",
+      "source_page_index": -1,
+      "authors": [
+        "Svetislav V. Kosti\u0107"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "20 Taxation of robots",
+      "printed_page_number": "369",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Englisch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "385",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

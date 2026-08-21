@@ -1,0 +1,652 @@
+{
+  "generated_at": 1787262001.6814709,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "IX",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Volker Kapp",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Volker Kapp"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Versailles als bezauberndes Gesamtkunstwerk und als Skandal",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Volker Kapp"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Der Modernisierungsschub im Absolutismus und Versailles als Baustelle des Klassischen",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Lob und Tadel in der Beschreibung von Versailles und die Bedeutung des Konzepts des Wunderbaren in der damaligen Kultur",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Die Entwicklung der Wissenschaften und der Wandel von Darstellungsmustern in Versailles",
+      "printed_page_number": "20",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Versailles als kultureller Bezugspunkt an der Wende vom 17. zum 18. Jahrhundert",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lars Olof Larsson",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Lars Olof Larsson"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Versailles. \u201eLieu enchant\u00e9\u201c \u2013 B\u00fchne der Macht \u2013 Triumph der K\u00fcnste",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [
+        "Lars Olof Larsson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Hinf\u00fchrung",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Anf\u00e4nge von Versailles",
+      "printed_page_number": "37",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Die Thetisgrotte und der Apollomythos",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Erweiterung des Schlosses: Die envelope",
+      "printed_page_number": "44",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Die Spiegelgalerie",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Der Garten",
+      "printed_page_number": "55",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. Die Gartenfeste",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8. Die Wasserk\u00fcnste",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9. R\u00fcckblick",
+      "printed_page_number": "64",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ute Jung-Kaiser",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ute Jung-Kaiser"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eDer Musiker der Sonne\u201c \u2013",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ute Jung-Kaiser"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zur beispiellosen Selbstinszenierung Jean-Baptiste Lullys",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [
+        "Ute Jung-Kaiser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Grundlegendes zu Lullys kometenhaftem Aufstieg",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Der Karrierestart \u2013 ein Dreiklang aus Zufall, Kalk\u00fcl und Begabung",
+      "printed_page_number": "70",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Der exzellente Geiger avanciert zum Komponisten",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Der Tanz als h\u00f6fisches \u201eplaisir\u201c par excellence",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Der K\u00f6nig als \u201eTanzmeister\u201c des Hofes",
+      "printed_page_number": "80",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Angekommen auf der h\u00f6chsten Stufe der Karriereleiter \u2013 die Jahre nach 1661",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. Die Voraussetzungen f\u00fcr die Geburt der Trag\u00e9die lyrique \u2013 die Jahre nach 1672",
+      "printed_page_number": "84",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8. K\u00f6nigsmythos und Herrscherlob",
+      "printed_page_number": "84",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9. Die \u201aErfindung\u2018 der franz\u00f6sischen Oper",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10. Charakterz\u00fcge, welche der Karriere Lullys f\u00f6rderlich waren",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Herbert Schneider",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Herbert Schneider"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Zukunft von Quinaults und Lullys Konzeption der Trag\u00e9die en musique",
+      "printed_page_number": "107",
+      "source_page_index": -1,
+      "authors": [
+        "Herbert Schneider"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Grunds\u00e4tzliches",
+      "printed_page_number": "107",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Stellung des Librettos",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Dramatisierung der Sologes\u00e4nge durch Beteiligung von Ensemble und Chor",
+      "printed_page_number": "112",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Divertissement und Tanz",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Schaffung von Vaudevilles und Erfolgsnummern",
+      "printed_page_number": "122",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Die Rolle der Instrumentalmusik",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. Apologie",
+      "printed_page_number": "129",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Diana Rieger",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Diana Rieger"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Orgel am Hof des Sonnenk\u00f6nigs",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [
+        "Diana Rieger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Hinf\u00fchrung",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Die Orgel der Chapelle royale von Versailles",
+      "printed_page_number": "136",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Die Orgelmusik der Organisten am K\u00f6nigshof",
+      "printed_page_number": "148",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Schlussbetrachtung",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pablo Schneider",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Pablo Schneider"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bild und Repr\u00e4sentation. Charles Le Brun \u2013 premier peintre du roy",
+      "printed_page_number": "157",
+      "source_page_index": -1,
+      "authors": [
+        "Pablo Schneider"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Einleitung",
+      "printed_page_number": "157",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Die Idee der Repr\u00e4sentation",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Repr\u00e4sentation \u2013 Les reines de Perse aux pieds d'Alexandre",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Der Kosmos, die Tugend und die Repr\u00e4sentation \u2013 Tapisserie du Roy",
+      "printed_page_number": "174",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Versailles",
+      "printed_page_number": "182",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Epilog",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Marie-Th\u00e9r\u00e8se Mourey",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Marie-Th\u00e9r\u00e8se Mourey"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der K\u00f6nig tanzt \u2013 choreographierte Performanzen der Macht",
+      "printed_page_number": "193",
+      "source_page_index": -1,
+      "authors": [
+        "Marie-Th\u00e9r\u00e8se Mourey"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Repraesentatio majestatis und k\u00f6nigliche Macht",
+      "printed_page_number": "193",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Der K\u00f6nig tanzt",
+      "printed_page_number": "196",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Die Versailler Feste oder von der symbolischen Selbstinszenierung des Herrschers",
+      "printed_page_number": "198",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Sonnenkult und k\u00f6niglicher Kult",
+      "printed_page_number": "200",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Das Modell und seine Rezeption im germanischen Raum",
+      "printed_page_number": "206",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Die Memorialisierung einer ephemeren Performanz: die \u201eMythistoire\u201c",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. Die Repr\u00e4sentation und ihre Ambivalenzen",
+      "printed_page_number": "212",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hendrik Schulze",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hendrik Schulze"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vom \u201eW\u00fcstling\u201c zum absoluten Herrscher: Der Wandel der Charakterisierung Ludwigs XIV. in seinen Hofspektakeln 1660\u20131662",
+      "printed_page_number": "217",
+      "source_page_index": -1,
+      "authors": [
+        "Hendrik Schulze"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang 1: Handlung der Oper Xerse, Prosaform",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang 2: Handlung der Oper Xerse, Versform",
+      "printed_page_number": "237",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang 3: Handlung der Oper Ercole amante",
+      "printed_page_number": "241",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Annette Simonis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Annette Simonis"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "G\u00e9rard Corbiau: Le Roi danse. Zur medialen Inszenierung des Pha\u00ebton-Mythos im Film",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [
+        "Annette Simonis"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Einf\u00fchrung",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Doppelstruktur und Genremischung in Corbiaus Film",
+      "printed_page_number": "250",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Die T\u00e4nze des Sonnenk\u00f6nigs \u2013 zur medialen Konstruktion und Dekonstruktion der Macht",
+      "printed_page_number": "254",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Der Mythos des Pha\u00ebton in der Oper Quinaults und Lullys und seine produktive Aneignung in Corbiaus Film",
+      "printed_page_number": "260",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Personen- und Werkregister",
+      "printed_page_number": "271",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

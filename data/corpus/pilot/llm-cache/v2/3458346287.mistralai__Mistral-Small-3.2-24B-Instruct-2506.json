@@ -1,0 +1,200 @@
+{
+  "generated_at": 1787245355.474862,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Nonnis Comeback",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f3n Svensson, Nonni"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Tante Else",
+      "printed_page_number": "32",
+      "source_page_index": -1,
+      "authors": [
+        "Else Ury, Nesth\u00e4kchen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Peter Pan oder: Sie waren f\u00fcnf",
+      "printed_page_number": "48",
+      "source_page_index": -1,
+      "authors": [
+        "James Barrie, Peter Pan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Heidi hat gelebt",
+      "printed_page_number": "63",
+      "source_page_index": -1,
+      "authors": [
+        "Johanna Spyri, Heidi"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein Ehrendoktor f\u00fcr Alice",
+      "printed_page_number": "79",
+      "source_page_index": -1,
+      "authors": [
+        "Lewis Carroll, Alice im Wunderland"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00bbIch bin das Zwieselchen!\u00ab",
+      "printed_page_number": "96",
+      "source_page_index": -1,
+      "authors": [
+        "Werner Bergengruen, Zwieselchen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Im Haus des kleinen Prinzen",
+      "printed_page_number": "110",
+      "source_page_index": -1,
+      "authors": [
+        "Antoine de Saint-Exup\u00e9ry, Der kleine Prinz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Option auf eine T\u00fcrklinke",
+      "printed_page_number": "124",
+      "source_page_index": -1,
+      "authors": [
+        "Erich K\u00e4stner, Emil und die Detektive"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das lungenkranke Paulinchen",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "Heinrich Hoffmann, Die gar traurige Geschichte mit dem Feuerzeug"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pinienkerne alla Toscana",
+      "printed_page_number": "150",
+      "source_page_index": -1,
+      "authors": [
+        "Carlo Collodi, Pinocchio"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Winnetoon, Nebraska",
+      "printed_page_number": "162",
+      "source_page_index": -1,
+      "authors": [
+        "Karl May, Winnetou"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00bbEiniges ist wirklich passiert ...\u00ab",
+      "printed_page_number": "176",
+      "source_page_index": -1,
+      "authors": [
+        "Wilhelm Busch, Max und Moritz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inhalt",
+      "printed_page_number": "10",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Mutter und Kind",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [
+        "Emmy von Rhoden, Trotzkopf"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mark Twain \u2013 zu Wasser, zu Lande und in der Luft",
+      "printed_page_number": "207",
+      "source_page_index": -1,
+      "authors": [
+        "Mark Twain, Tom Sawyer und Huckleberry Finn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wiedergutmachung an Tante Frieda",
+      "printed_page_number": "218",
+      "source_page_index": -1,
+      "authors": [
+        "Ludwig Thoma, Lausbubengeschichten"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nils Holgersson und die Folgen",
+      "printed_page_number": "226",
+      "source_page_index": -1,
+      "authors": [
+        "Selma Lagerl\u00f6f, Die wunderbare Reise des kleinen Nils Holgersson mit den Wildg\u00e4nsen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Meister Nagler und der kleine Lisi",
+      "printed_page_number": "233",
+      "source_page_index": -1,
+      "authors": [
+        "Ellis Kaut, Pumuckl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

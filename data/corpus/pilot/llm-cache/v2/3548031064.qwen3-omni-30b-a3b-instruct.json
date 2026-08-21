@@ -1,0 +1,357 @@
+{
+  "generated_at": 1787015647.357718,
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": "IX",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "XII",
+      "source_page_index": -1,
+      "authors": [
+        "Armin Hegelheimer"
+      ],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Texte zur Bildungs\u00f6konomie",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kapitel 1:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Theoretische Grundlagen der Bildungs\u00f6konomie:",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bildung als Faktor der sozio\u00f6konomischen Entwicklung",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Gottfried Bombach"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Udo Ludwig, Harry Maier und J\u00fcrgen Wahse: Die \u00f6konomische Potenz der Bildung und die marxistische Werttheorie",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [
+        "Udo Ludwig",
+        "Harry Maier",
+        "J\u00fcrgen Wahse"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Elmar Altvater: Qualifikation der Arbeitskraft und Kompliziertheit der Arbeit \u2013 Bemerkungen zum Reduktionsproblem",
+      "printed_page_number": "54",
+      "source_page_index": -1,
+      "authors": [
+        "Elmar Altvater"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kapitel 2:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Humankapital als Bestandteil des gesellschaftlichen Kapitalstocks:",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ans\u00e4tze zur theoretischen und empirischen Bestimmung des immateriellen Kapitals",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [
+        "Theodore W. Schultz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans H\u00f6sli: Das immaterielle Kapital: ein relevanter Bestandteil der Wachstumstheorie \u2013 Sach- und Humankapitalbildung in der Schweiz",
+      "printed_page_number": "118",
+      "source_page_index": -1,
+      "authors": [
+        "Hans H\u00f6sli"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Walter Krug: Quantitative Beziehungen zwischen materiellem und immateriellem Kapital im Deutschen Reich und in der Bundesrepublik Deutschland",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [
+        "Walter Krug"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Arnold Knauer, Harry Maier und Werner Wolter: Die Entwicklung der Bildungs- und Grundmittelfonds in der DDR",
+      "printed_page_number": "152",
+      "source_page_index": -1,
+      "authors": [
+        "Arnold Knauer",
+        "Harry Maier",
+        "Werner Wolter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kapitel 3:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bildungs\u00f6konomie im Kampf um die Zielbestimmung des Bildungswesens: Bildung zwischen Liberalismus, Sozialismus und Neomarxismus",
+      "printed_page_number": "180",
+      "source_page_index": -1,
+      "authors": [
+        "Milton Friedman"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erziehungswesen",
+      "printed_page_number": "180",
+      "source_page_index": -1,
+      "authors": [
+        "Hartmut Berg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hartmut Berg: Ausbildungsausgaben und Marktmechanismus",
+      "printed_page_number": "207",
+      "source_page_index": -1,
+      "authors": [
+        "Hartmut Berg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Arnold Knauer, Harry Maier und Werner Wolter: Aufgaben und Probleme der sozialistischen Bildungs\u00f6konomie",
+      "printed_page_number": "218",
+      "source_page_index": -1,
+      "authors": [
+        "Arnold Knauer",
+        "Harry Maier",
+        "Werner Wolter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Michael Masuch: Die Funktionen des Ausbildungssystems im Sp\u00e4tkapitalismus",
+      "printed_page_number": "244",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Masuch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kapitel 4:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bildungs\u00f6konomie als Planungstheorie: Ans\u00e4tze und Modelle zur Makro-Planung des Bildungssystems",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [
+        "Mark Blaug"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans-Peter Widmaier und Bruno Frey: Modelle der Bildungs\u00f6konomik",
+      "printed_page_number": "297",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Peter Widmaier",
+        "Bruno Frey"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hajo Riese: Theorie der Bildungsplanung und Struktur des Bildungswesens",
+      "printed_page_number": "344",
+      "source_page_index": -1,
+      "authors": [
+        "Hajo Riese"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Freerk Huisken: Kritik b\u00fcrgerlicher Theorie der Makro-Planung des Bildungswesens",
+      "printed_page_number": "377",
+      "source_page_index": -1,
+      "authors": [
+        "Freerk Huisken"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rolf Naumann und Bernhard Steinberger: Zur lang- und mittelfristigen Arbeitskr\u00e4fte- und Bildungsplanung im Sozialismus",
+      "printed_page_number": "415",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Naumann",
+        "Bernhard Steinberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kapitel 5:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bildungs\u00f6konomie und Qualit\u00e4t der Arbeit: Theorien zur Qualifikationsstrukturentwicklung",
+      "printed_page_number": "446",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Blauner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Radovan Richta und Kollektiv: Umw\u00e4lzungen in Arbeit, Qualifikation und Bildung bei gesetzm\u00e4\u00dfiger H\u00f6herqualifizierung des Gesamtarbeiters",
+      "printed_page_number": "452",
+      "source_page_index": -1,
+      "authors": [
+        "Radovan Richta",
+        "Kollektiv"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "James R. Bright: Automation und Qualifikationsanforderungen bei tendenzieller Dequalifizierung der Gesamtarbeitskraft",
+      "printed_page_number": "475",
+      "source_page_index": -1,
+      "authors": [
+        "James R. Bright"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Horst Kern und Michael Schumann: Technischer Wandel und industrielle Arbeit bei tendenzieller Polarisierung der mittleren Qualifikationen",
+      "printed_page_number": "511",
+      "source_page_index": -1,
+      "authors": [
+        "Horst Kern",
+        "Michael Schumann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Franz J\u00e1nossy: Arbeitskraft und Fortschritt bei stetiger Andersqualifikation des Gesamtarbeiters",
+      "printed_page_number": "547",
+      "source_page_index": -1,
+      "authors": [
+        "Franz J\u00e1nossy"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bibliographie",
+      "printed_page_number": "578",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Glossar",
+      "printed_page_number": "580",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sachregister",
+      "printed_page_number": "602",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Personenregister",
+      "printed_page_number": "613",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

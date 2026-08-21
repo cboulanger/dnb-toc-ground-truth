@@ -1,0 +1,451 @@
+{
+  "generated_at": 1787232207.26299,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Sinnlichkeit des Sozialen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eine Einleitung",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Sophia Prinz",
+        "Hanna Katharina G\u00f6bel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "I. DIE AFFEKTIVE MACHT DER DINGE",
+      "printed_page_number": "53",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Wuchern der Dinge",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Peter Hahn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00dcber Sachuniversen und die vergessenen Teile unseres Sachbesitzes",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ein Modernismus ohne Modernisierung",
+      "printed_page_number": "79",
+      "source_page_index": -1,
+      "authors": [
+        "Sophia Prinz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lina Bo Bardis k\u00fcnstlerische Forschung im Nordosten Brasiliens",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Leibliche Interaktion mit Dingen, Sachen und Halbdingen",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Gugutzer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Entgrenzung des Sozialen (nicht nur) im Sport",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Affekt. Macht. Dinge",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [
+        "Dorothy H.B. Kwek",
+        "Robert Seyfert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Aufteilung sozialer Sensorien in heterologischen Gesellschaften",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Sprache der Dinge",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [
+        "Kaja Silverman"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. DIE ATMOSPH\u00c4RISCHE KOMPOSITION VON ARCHITEKTUREN",
+      "printed_page_number": "169",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Eine Architektur der Einf\u00fchlung",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [
+        "Christina Threuter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eileen Grays Wohnhaus E.1027",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Missionierende R\u00e4ume?",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [
+        "Stefanie Duttweiler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neue religi\u00f6se R\u00e4ume als Medien religi\u00f6sen Wandels",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Aussicht",
+      "printed_page_number": "219",
+      "source_page_index": -1,
+      "authors": [
+        "Hanna Katharina G\u00f6bel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Herstellung \u00e4sthetischer Wahrnehmungsordnungen von Architektur",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sinnreiche Bewegungen",
+      "printed_page_number": "243",
+      "source_page_index": -1,
+      "authors": [
+        "Lars Frers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "A Conversation with Jane M. Jacobs",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [
+        "Hanna Katharina G\u00f6bel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Questions by Hanna Katharina G\u00f6bel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "III. DIE ENTGRENZUNG K\u00dcNSTLERISCHER PRAKTIKEN",
+      "printed_page_number": "277",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Existenzweisen musikalischer Performanz",
+      "printed_page_number": "285",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Liegl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Von Laptops, L\u00f6tkolben und anderen Vermittlern",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sinn als verk\u00f6rperte Sinnlichkeit",
+      "printed_page_number": "305",
+      "source_page_index": -1,
+      "authors": [
+        "Gabriele Klein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Performativit\u00e4t und Medialit\u00e4t des Sinnlichen in Alltag und (Tanz-)Kunst",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Blinde Flecken vor grauem Putz",
+      "printed_page_number": "317",
+      "source_page_index": -1,
+      "authors": [
+        "Christiane Sch\u00fcrkmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "K\u00fcnstlerische Praxis und ethnografische Grenzg\u00e4nge auf den Spuren sinnlicher Wahrnehmung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sensible Ethnographien",
+      "printed_page_number": "341",
+      "source_page_index": -1,
+      "authors": [
+        "Silvy Chakkalakal"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Modernistische Empfindsamkeit als Modus einer ethnographischen \u00c4sthetik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "A Conversation with Peter Osborne",
+      "printed_page_number": "363",
+      "source_page_index": -1,
+      "authors": [
+        "Sophia Prinz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Questions by Sophia Prinz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "IV. DIE PROFESSIONALISIERUNG SINNLICHER EXPERTISEN",
+      "printed_page_number": "375",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zwischen Formalsierbarkeit und Intuition",
+      "printed_page_number": "381",
+      "source_page_index": -1,
+      "authors": [
+        "Regula Val\u00e9rie Burri"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Visuelle Expertise in der Medizin",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sehen professionell Sehen",
+      "printed_page_number": "399",
+      "source_page_index": -1,
+      "authors": [
+        "Dirk vom Lehn",
+        "Helena Webb",
+        "Christian Heath",
+        "Will Gibson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die interaktive Konstitution visueller Wahrnehmung durch Optiker und ihre Klienten",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "V. HERAUSFORDERUNGEN UND POTENTIALE EINER SOZIOLOGIE DER SINNE",
+      "printed_page_number": "419",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sinnes Sinn der Sinne",
+      "printed_page_number": "423",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Fischer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zum vital turn der Soziologie",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sinne und Praktiken",
+      "printed_page_number": "441",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Reckwitz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die sinnliche Organisation des Sozialen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "printed_page_number": "457",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

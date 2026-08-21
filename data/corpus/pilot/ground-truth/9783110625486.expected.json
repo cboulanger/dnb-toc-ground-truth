@@ -1,0 +1,98 @@
+{
+  "entries": [
+    {
+      "title": "Introduction",
+      "authors": [
+        "Manjusha Deshmukh",
+        "Sangeeta Kakarwal"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Adaptive routing for emergency communication via MANET",
+      "authors": [
+        "Manjusha Deshmukh",
+        "Sangeeta Kakarwal"
+      ],
+      "printed_page_number": "5",
+      "skip": false
+    },
+    {
+      "title": "List of Contributors",
+      "authors": [],
+      "printed_page_number": "VII",
+      "skip": true
+    },
+    {
+      "title": "Partial face recognition using image fusion",
+      "authors": [
+        "Sanjukta Bhattacharya",
+        "Ananjan Maiti",
+        "Samhita Das",
+        "Shristee Ganguly"
+      ],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "Threat analysis and attack modeling for machine-to-machine communication toward Internet of things",
+      "authors": [
+        "Poonam N. Railkar",
+        "Parikshit N. Mahalle",
+        "Gitanjali R. Shinde",
+        "Hari R. Bhapkar"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "Security issues and trust management schemes in Internet of things",
+      "authors": [
+        "R. Thirukkumaran",
+        "P. Muthu Kannan"
+      ],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "Users' privacy at online social networks in Indian context: comprehensive multiged group survey and discussion",
+      "authors": [
+        "Rachana Ashetakr",
+        "Parikshit N. Mahalle",
+        "Gitanjali R. Shinde"
+      ],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "Early prediction of breast cancer from mammogram images using classification methods: a comparison",
+      "authors": [
+        "Snehal Mane",
+        "Vandana Jagtap"
+      ],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "Deep brain monitoring using implantable sensor and microcontroller: a review",
+      "authors": [
+        "Akshada Rathod",
+        "Sambhaji Sarode"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "Enhancement path assured transfer protocol to transmit urgent data",
+      "authors": [
+        "Avinash S. Devar",
+        "G. Krishna Mohan"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

@@ -1,0 +1,319 @@
+{
+  "generated_at": 1787016143.3999739,
+  "entries": [
+    {
+      "title": "Preface",
+      "printed_page_number": "ix",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Contributors",
+      "printed_page_number": "xi",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Part I: Human Learning and Cognition",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Introduction: Behavioral Approaches to the Study of Human Learning and Memory",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "A. S. Benjamin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The Role of Inhibition in Learning",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "J. C. Hulbert",
+        "M. C. Anderson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Short- vs. Long-Term Memory",
+      "printed_page_number": "21",
+      "source_page_index": -1,
+      "authors": [
+        "I. Neath",
+        "A. M. Surprenant"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hemispheric Asymmetries in Verbal Memory",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [
+        "K. M. Evans",
+        "K. D. Federmeier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Emotional Facilitation and Disruption of Memory",
+      "printed_page_number": "45",
+      "source_page_index": -1,
+      "authors": [
+        "S. L. Warren",
+        "G. A. Miller",
+        "W. Heller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Scheduling and Learning",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "D. A. Simon"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part II: Cognitive Neuroscience",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Introduction: Cognitive Neuroscience of Learning and Memory",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "T. Polk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The Computational Cognitive Neuroscience of Learning and Memory: Principles and Models",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [
+        "L. I. Newman",
+        "T. A. Polk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Cognitive Neuroscience of Skill Acquisition",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [
+        "J. Bo",
+        "J. Langan",
+        "R. D. Seidler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Cognitive Neuroscience of Declarative and Nondeclarative Memory",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [
+        "P. J. Reber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Learning and Memory for Emotional Events",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [
+        "A. S. Atkins",
+        "P. A. Reuter-Lorenz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Age Differences in Memory: Demands on Cognitive Control and Association Processes",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "C. Lustig",
+        "K. Flegal"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part III: Human Motor Learning",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Introduction: A Survey of Motor Learning Concepts and Findings",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [
+        "B. Etnyre"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Two Aspects of Motor Learning: Learning Movements and Learning Synergies",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [
+        "M. L. Latash"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neuroanatomical Correlates of Motor Skill Learning: Inferences from Neuroimaging to Behavior",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [
+        "K. Lindquist",
+        "M. A. Guadagnoli"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mechanisms Underlying Short-Term Motor Learning, Long-Term Motor Learning and Transfer",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [
+        "D. M. Corcos",
+        "J. Shemmell",
+        "D. E. Vaillancourt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "A Dynamical Framework for Human Skill Learning",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [
+        "C. Magee",
+        "J. A. Scott Kelso"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part IV: Animal Model Systems",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Animal Models of Behavioral and Neural Plasticity",
+      "printed_page_number": "207",
+      "source_page_index": -1,
+      "authors": [
+        "J. Steven de Belle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "A Biological Basis for Animal Model Studies of Learning and Memory",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [
+        "B. S. Dunkelberger",
+        "C. N. Serway",
+        "J. Steven de Belle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Caenorhabditis elegans as a Model System in Which to Study the Fundamentals of Learning and Memory",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [
+        "T. A. Timbers",
+        "C. H. Rankin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The Cell Biology of Learning and Memory in Aplysia",
+      "printed_page_number": "243",
+      "source_page_index": -1,
+      "authors": [
+        "D. L. Glanzman"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Insect Minds For Human Minds",
+      "printed_page_number": "271",
+      "source_page_index": -1,
+      "authors": [
+        "R. Menzel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Patterns of Learning, Memory, and Vocal Production in the Songbird Brain",
+      "printed_page_number": "287",
+      "source_page_index": -1,
+      "authors": [
+        "D. S. Vicario"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The cAMP/PKA Pathway and the Modeling of Human Memory Disorders in Mice",
+      "printed_page_number": "301",
+      "source_page_index": -1,
+      "authors": [
+        "F. X. Brennan",
+        "T. Abel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "317",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

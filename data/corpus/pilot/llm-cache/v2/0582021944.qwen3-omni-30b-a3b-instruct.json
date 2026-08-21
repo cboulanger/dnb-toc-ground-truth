@@ -1,0 +1,320 @@
+{
+  "generated_at": 1787014831.12079,
+  "entries": [
+    {
+      "title": "Sources",
+      "printed_page_number": "viii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgements",
+      "printed_page_number": "x",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Maps",
+      "printed_page_number": "xii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "I Introduction: English dialect grammar",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Trudgill",
+        "J. K. Chambers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART ONE: PRONOUNS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2 Pronouns and pronominal systems in English dialects",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Trudgill",
+        "J. K. Chambers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 The personal dative in Appalachian speech",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Donna Christian"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Demonstrative adjectives and pronouns in a Devonshire dialect",
+      "printed_page_number": "20",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Harris"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 The actuation problem for gender change in Wessex versus Newfoundland",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [
+        "Harold Paddock"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART TWO: VERB SYSTEMS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "6 Verb systems in English dialects",
+      "printed_page_number": "49",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Trudgill",
+        "J. K. Chambers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Variation in the use of ain't in an urban British English dialect",
+      "printed_page_number": "54",
+      "source_page_index": -1,
+      "authors": [
+        "Jenny Cheshire"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Double modals in Hawick Scots",
+      "printed_page_number": "74",
+      "source_page_index": -1,
+      "authors": [
+        "Keith Brown"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 On grammatical diffusion in Somerset folk speech",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [
+        "Ossi Ihalainen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Variation in the lexical verb in Inner-Sydney English",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [
+        "Edina Eisikovits"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART THREE: ASPECT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "11 Aspect in English dialects",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Trudgill",
+        "J. K. Chambers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12 Periphrastic do in affirmative sentences in the dialect of East Somerset",
+      "printed_page_number": "148",
+      "source_page_index": -1,
+      "authors": [
+        "Ossi Ihalainen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13 Preverbal done in Southern States English",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [
+        "Crawford Feagin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14 Conservatism versus substratal transfer in Irish English",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [
+        "John Harris"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART FOUR: NON-FINITE VERB FORMS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "15 Non-finite verb forms in English dialects",
+      "printed_page_number": "215",
+      "source_page_index": -1,
+      "authors": [
+        "J. K. Chambers",
+        "Peter Trudgill"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16 Transitivity and intransitivity in the dialects of South-west England",
+      "printed_page_number": "218",
+      "source_page_index": -1,
+      "authors": [
+        "Jean-Marc Gachelin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "17 Towards a description of a-prefixing in Appalachian English",
+      "printed_page_number": "229",
+      "source_page_index": -1,
+      "authors": [
+        "Walt Wolfram"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "18 A grammatical continuum for (ING)",
+      "printed_page_number": "241",
+      "source_page_index": -1,
+      "authors": [
+        "Ann Houston"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART FIVE: ADVERBIALS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "19 Adverbials in English dialects",
+      "printed_page_number": "261",
+      "source_page_index": -1,
+      "authors": [
+        "J. K. Chambers",
+        "Peter Trudgill"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "20 Affirmative 'any more' in present-day American English",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [
+        "Walter H. Eitner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "21 The boundaries of a grammar: inter-dialectal reactions to positive any more",
+      "printed_page_number": "273",
+      "source_page_index": -1,
+      "authors": [
+        "William Labov"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART SIX: CONCLUSION",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "22 Dialect grammar: data and theory",
+      "printed_page_number": "291",
+      "source_page_index": -1,
+      "authors": [
+        "J. K. Chambers",
+        "Peter Trudgill"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Notes on contributors",
+      "printed_page_number": "297",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "300",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

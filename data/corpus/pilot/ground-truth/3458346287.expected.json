@@ -1,0 +1,120 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": true
+    },
+    {
+      "title": "Nonnis Comeback. Jón Svensson, Nonni",
+      "authors": [],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Tante Else. Else Ury, Nesthäkchen",
+      "authors": [],
+      "printed_page_number": "32",
+      "skip": false
+    },
+    {
+      "title": "Peter Pan oder: Sie waren fünf. James Barrie, Peter Pan",
+      "authors": [],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "Heidi hat gelebt. Johanna Spyri, Heidi",
+      "authors": [],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "Ein Ehrendoktor für Alice. Lewis Carroll, Alice im Wunderland",
+      "authors": [],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "»Ich bin das Zwieselchen!«. Werner Bergengruen, Zwieselchen",
+      "authors": [],
+      "printed_page_number": "96",
+      "skip": false
+    },
+    {
+      "title": "Im Haus des kleinen Prinzen. Antoine de Saint-Exupéry, Der kleine Prinz",
+      "authors": [],
+      "printed_page_number": "110",
+      "skip": false
+    },
+    {
+      "title": "Option auf eine Türklinke. Erich Kästner, Emil und die Detektive",
+      "authors": [],
+      "printed_page_number": "124",
+      "skip": false
+    },
+    {
+      "title": "Das lungenkranke Paulinchen. Heinrich Hoffmann, Die gar traurige Geschichte mit dem Feuerzeug",
+      "authors": [],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "Pinienkerne alla Toscana. Carlo Collodi, Pinocchio",
+      "authors": [],
+      "printed_page_number": "150",
+      "skip": false
+    },
+    {
+      "title": "Winnetoon, Nebraska. Karl May, Winnetou",
+      "authors": [],
+      "printed_page_number": "162",
+      "skip": false
+    },
+    {
+      "title": "»Einiges ist wirklich passiert ...«. Wilhelm Busch, Max und Moritz",
+      "authors": [],
+      "printed_page_number": "176",
+      "skip": false
+    },
+    {
+      "title": "Mutter und Kind. Emmy von Rhoden, Trotzkopf",
+      "authors": [],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "Mark Twain – zu Wasser, zu Lande und in der Luft. Mark Twain, Tom Sawyer und Huckleberry Finn",
+      "authors": [],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "Wiedergutmachung an Tante Frieda. Ludwig Thoma, Lausbubengeschichten",
+      "authors": [],
+      "printed_page_number": "218",
+      "skip": false
+    },
+    {
+      "title": "Nils Holgersson und die Folgen. Selma Lagerlöf, Die wunderbare Reise des kleinen Nils Holgersson mit den Wildgänsen",
+      "authors": [],
+      "printed_page_number": "226",
+      "skip": false
+    },
+    {
+      "title": "Meister Nagler und der kleine Lisi. Ellis Kaut, Pumuckl",
+      "authors": [],
+      "printed_page_number": "233",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

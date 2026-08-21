@@ -1,0 +1,265 @@
+{
+  "generated_at": 1787264497.167682,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "I Einleitung",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "ANDREAS KOST",
+        "PETER MASSING",
+        "MARION REISER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II Ideengeschichtliche Grundlagen der Demokratie",
+      "printed_page_number": "23",
+      "source_page_index": -1,
+      "authors": [
+        "BERND LADWIG"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III Kernbegriffe und theoretische Grundlagen der Demokratie",
+      "printed_page_number": "41",
+      "source_page_index": -1,
+      "authors": [
+        "FRANZISKA MARTINSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IV Typen moderner Demokratie",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Demokratische und nicht-demokratische Herrschaftsformen",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "FRANK DECKER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Direkte und repr\u00e4sentative Demokratie",
+      "printed_page_number": "79",
+      "source_page_index": -1,
+      "authors": [
+        "ANDREAS KOST"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Konsens- und Mehrheitsdemokratie",
+      "printed_page_number": "91",
+      "source_page_index": -1,
+      "authors": [
+        "MARCEL SOLAR"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Parlamentarische, pr\u00e4sidentielle und semipr\u00e4sidentielle Regierungsformen",
+      "printed_page_number": "107",
+      "source_page_index": -1,
+      "authors": [
+        "FRANK DECKER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "V Das Demokratiemodell der Bundesrepublik Deutschland",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Historische Grundlagen",
+      "printed_page_number": "129",
+      "source_page_index": -1,
+      "authors": [
+        "EVERHARD HOLTMANN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Grundlegende Prinzipien",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [
+        "EVERHARD HOLTMANN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Institutionengef\u00fcge des bundesdeutschen Regierungssystems",
+      "printed_page_number": "157",
+      "source_page_index": -1,
+      "authors": [
+        "RAY HEBESTREIT",
+        "KARL-RUDOLF KORTE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Interessen- und Politikvermittlung in der Demokratie: Zur Rolle von politischen Parteien und anderen intermedi\u00e4ren Organisationen",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [
+        "UWE JUN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Entscheidungsprozesse im Demokratiemodell",
+      "printed_page_number": "193",
+      "source_page_index": -1,
+      "authors": [
+        "HELMAR SCH\u00d6NE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Europ\u00e4isierung der deutschen Demokratie",
+      "printed_page_number": "207",
+      "source_page_index": -1,
+      "authors": [
+        "EMANUEL RICHTER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lokale und regionale Demokratie im deutschen Mehrebenensystem",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [
+        "MARION REISER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Demokratie in der Einwanderungsgesellschaft",
+      "printed_page_number": "247",
+      "source_page_index": -1,
+      "authors": [
+        "SYBILLE M\u00dcNCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VI Die Zukunft der Demokratie",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Postdemokratie",
+      "printed_page_number": "263",
+      "source_page_index": -1,
+      "authors": [
+        "CHRISTOPH HELD",
+        "DIRK J\u00d6RKE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Algorithmen, Bots und Trolle: Vom Ende der demokratischen \u00d6ffentlichkeit, wie wir sie kennen",
+      "printed_page_number": "271",
+      "source_page_index": -1,
+      "authors": [
+        "ULRIKE KLINGER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Demokratie in der Krise?",
+      "printed_page_number": "281",
+      "source_page_index": -1,
+      "authors": [
+        "WOLFGANG MERKEL",
+        "SASCHA KNEIP"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VII Der Zusammenhang von Demokratie, Politikdidaktik und politischer Bildung",
+      "printed_page_number": "295",
+      "source_page_index": -1,
+      "authors": [
+        "PETER MASSING"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VIII Literaturverzeichnis",
+      "printed_page_number": "309",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "IX Sachregister",
+      "printed_page_number": "347",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "X Autor*innen",
+      "printed_page_number": "361",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bibliografische Informationen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

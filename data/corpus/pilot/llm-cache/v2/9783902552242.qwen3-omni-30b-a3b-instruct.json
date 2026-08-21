@@ -1,0 +1,866 @@
+{
+  "generated_at": 1787016211.3337111,
+  "entries": [
+    {
+      "title": "Das \u00e4rztliche Gutachten",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hans Erich Diemath",
+        "Kurt Grabner",
+        "Christian Kopetzki",
+        "Johannes Zahl"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Inhalt",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Abk\u00fcrzungsverzeichnis",
+      "printed_page_number": "10",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Abschnitt: Allgemeines \u2013 Rechtsgrundlagen",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Johannes Zahl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Sachverst\u00e4ndigen- und Dolmetschergesetz im \u00dcberblick",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Oskar Maleczky",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Geb\u00fchrenanspruch des medizinischen Sachverst\u00e4ndigen",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christian Kopetzki",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Stellung des Sachverst\u00e4ndigen nach dem \u00c4rztegesetz",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dietmar Jahnle \u2022 Johannes Zahl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Anforderung von \u00e4rztlichen Dokumentationen durch Sachverst\u00e4ndige, datenschutzrechtliche Fragen",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Oskar Maleczky \u2022 Johannes Zahl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der \u00e4rztliche Sachverst\u00e4ndige im Verfahren vor den Strafgerichten",
+      "printed_page_number": "55",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Oskar Maleczky \u2022 Johannes Zahl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die strafrechtliche Haftung des Sachverst\u00e4ndigen",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Matthias Neumayr \u2022 Johannes Zahl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der \u00e4rztliche Sachverst\u00e4ndige im Verfahren vor den Zivilgerichten",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Matthias Neumayr \u2022 Johannes Zahl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Schadenersatzrecht nach dem ABGB",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Matthias Neumayr \u2022 Johannes Zahl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die spezifische zivilrechtliche Haftung des \u00e4rztlichen Sachverst\u00e4ndigen f\u00fcr sein Gutachten",
+      "printed_page_number": "93",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Johannes Zahl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der \u00e4rztliche Sachverst\u00e4ndige im Verwaltungsverfahren",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Johannes Zahl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Privatgutachten \u2013 das \u00e4rztliche Zeugnis \u2013 die autonome Honorordnung der \u00d6sterreichischen \u00c4rztekammer",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Herbert Emberger",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Umsatzsteuer, Geb\u00fchren, Sozialversicherungspflicht \u00e4rztlicher Zeugnisse und Gutachten",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gerhard Kuras \u2022 Matthias Neumayr",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Sachverst\u00e4ndige im gerichtlichen Verfahren in Sozialrechtssachen",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Abschnitt: Schmerzengeld",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Karl-Heinz Danzl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Schmerzengeld in der Praxis der Gerichte",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans Erich Diemath",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Schmerzeinsch\u00e4tzung aus medizinischer Sicht",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Werner Laubichler",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Schmerzengeld aus neurologischer Sicht",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Reinhard Haller",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die forensisch-psychiatrische Bewertung \u00bbseelischer\u00ab Schmerzen",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans Erich Diemath",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Schmerzengeld und Minderung der Erwerbsf\u00e4higkeit nach Sch\u00e4del-Hirn-Verletzungen",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kurt Widhalm",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Bemessung des Schmerzengeldes im Kindes- und Jugendalter",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Michael Engels",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Schmerzengeld in der Kinderchirurgie",
+      "printed_page_number": "215",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Werner Brosch",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Fragen der psychiatrischen Begutachtung im h\u00f6heren Lebensalter",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Abschnitt: Begutachtungspraxis vor Gericht",
+      "printed_page_number": "241",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Maria Eder-Rieder \u2022 Werner Laubichler",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Grundlagen und Praxis der Begutachtung von Verletzungen im Strafverfahren",
+      "printed_page_number": "243",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Maria Eder-Rieder \u2022 Werner Laubichler",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Verletzungsanzeige, Attestierung und Begutachtung von Verhandlungs- und Haftunf\u00e4higkeit eines Beschuldigten bzw. Glaubw\u00fcrdigkeit eines Zeugen",
+      "printed_page_number": "277",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gerhard Hechtl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Unfallbegutachtung im Rahmen des Schadensersatzrechtes",
+      "printed_page_number": "287",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Maria Eder-Rieder \u2022 Werner Laubichler",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das forensisch-psychiatrische Gutachten",
+      "printed_page_number": "295",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Martin Emesz \u2022 G\u00fcnther Grabner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das augen\u00e4rztliche Gutachten",
+      "printed_page_number": "341",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wolfgang W. Kuchler",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gutachterliche Aspekte der Noxe \u00bbL\u00e4rm\u00ab",
+      "printed_page_number": "359",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Helmut Lindemayr",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Berufsdermatosen aus \u00e4rztlicher Sicht",
+      "printed_page_number": "371",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kurt Grabner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Begutachtung von Psoriasis und Arthropathia psoriatica aus dermatologischer Sicht",
+      "printed_page_number": "377",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kurt Grabner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zur Begutachtung von Venenerkrankungen",
+      "printed_page_number": "391",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Peter Freyberger",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zahn\u00e4rztliche Gutachtert\u00e4tigkeit",
+      "printed_page_number": "399",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Paul Umach",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "F\u00fchrerscheinbegutachtung.",
+      "printed_page_number": "423",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das \u00e4rztliche Gutachten zur Feststellung der Lenkeignung",
+      "printed_page_number": "423",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Abschnitt: Praxis der \u00e4rztlichen Begutachtung im Sozialwesen",
+      "printed_page_number": "447",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kurt Grabner \u2022 Monika Klobassa",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Begutachtung im Sozialgerichtsverfahren aus \u00e4rztlicher Sicht",
+      "printed_page_number": "449",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christel Frank \u2022 Gerhart Harrer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Neuropsychologische Untersuchungsmethoden in sozialgerichtlichen Verfahren",
+      "printed_page_number": "469",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hartmut Pelinka \u2022 Ernst Wener \u2022 Walter Titze",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Begutachtung im Rahmen der gesetzlichen Unfallversicherung",
+      "printed_page_number": "497",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "G\u00fcnther Grasl \u2022 Ingomar Heuberer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Begutachtung im Rahmen der privaten Unfallversicherung (AUVB)",
+      "printed_page_number": "507",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christina Wehringer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das \u00e4rztliche Gutachten im Auftrag des Bundessozialamtes",
+      "printed_page_number": "515",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Monika Klobassa",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Leistungen der Pensionsversicherung bei geminderter Arbeitsf\u00e4higkeit",
+      "printed_page_number": "547",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Abschnitt: Geb\u00fchrenanspruchsgesetz aus \u00e4rztlicher Sicht",
+      "printed_page_number": "561",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kurt Grabner \u2022 Monika Klobassa",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einige Bemerkungen zum Geb\u00fchrenanspruchsgesetz (GebAG) aus \u00e4rztlicher Sicht (mit Honorarnotenbeispielen)",
+      "printed_page_number": "563",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "printed_page_number": "575",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Anhang 1: Sachverst\u00e4ndigen- und Dolmetschergesetz",
+      "printed_page_number": "575",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang 2: Geb\u00fchrenanspruchsgesetz",
+      "printed_page_number": "587",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang 3: \u00c4rztegesetz (Ausz\u00fcge)",
+      "printed_page_number": "607",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang 4: Strafgesetzbuch (Ausz\u00fcge)",
+      "printed_page_number": "627",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang 5: Strafprozessordnung (Ausz\u00fcge)",
+      "printed_page_number": "644",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang 6: Jurisdiktionsnorm (Ausz\u00fcge)",
+      "printed_page_number": "656",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang 7: Zivilprozessordnung (Ausz\u00fcge)",
+      "printed_page_number": "670",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang 8: Allgemeines b\u00fcrgerliches Gesetzbuch (Ausz\u00fcge)",
+      "printed_page_number": "671",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang 9: Allgemeines Verwaltungsverfahrensgesetz (Ausz\u00fcge)",
+      "printed_page_number": "675",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang 10: Arbeits- und Sozialgerichtsgesetz (Ausz\u00fcge)",
+      "printed_page_number": "676",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang 11: Bundespflegegeldgesetz (Ausz\u00fcge)",
+      "printed_page_number": "679",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang 12: Einstufungsverordnung zum Bundespflegegeldgesetz",
+      "printed_page_number": "682",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang 13: Anwendungsrichtlinien zum Bundespflegegeldgesetz",
+      "printed_page_number": "691",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang 14: Konsensuspapier zur \u00e4rztlichen Begutachtung nach dem Bundespflegegeldgesetz",
+      "printed_page_number": "703",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang 15: Liste der Berufskrankheiten (\u00a7 177 ASVG) ASVG-Anlage 1",
+      "printed_page_number": "709",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang 16: Autonome Honorordnung der \u00d6sterreichischen \u00c4rztekammer f\u00fcr gutachterliche T\u00e4tigkeiten",
+      "printed_page_number": "709",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "printed_page_number": "713",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Register",
+      "printed_page_number": "727",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

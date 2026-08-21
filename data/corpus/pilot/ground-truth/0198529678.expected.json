@@ -1,0 +1,312 @@
+{
+  "entries": [
+    {
+      "title": "1 Levels of binding: types, mechanisms, and functions of binding in remembering",
+      "authors": [
+        "Hubert D. Zimmer",
+        "Axel Mecklinger",
+        "Ulman Lindenberger"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Contributors",
+      "authors": [],
+      "printed_page_number": "x",
+      "skip": true
+    },
+    {
+      "title": "Abbreviations",
+      "authors": [],
+      "printed_page_number": "xiv",
+      "skip": true
+    },
+    {
+      "title": "2 Memory binding in hippocampal relational networks",
+      "authors": [
+        "Howard Eichenbaum"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "3 Part or parcel? Contextual binding of events in episodic memory",
+      "authors": [
+        "Iris Trinkler",
+        "John A. King",
+        "Hugo J. Spiers",
+        "Neil Burgess"
+      ],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "4 Adaptive binding",
+      "authors": [
+        "Don M. Tucker",
+        "Phan Luu"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "5 Binding principles in the theta frequency range",
+      "authors": [
+        "Wolfgang Klimesch"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "6 Relationship between event-related potentials and oscillatory dynamics in episodic retrieval",
+      "authors": [
+        "Emrah D\u00fczel",
+        "Markus Neufang",
+        "Sebastian Guderian"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "7 Rhinal\u2013hippocampal contribution to declarative memory formation",
+      "authors": [
+        "Guill\u00e9n Fern\u00e1ndez",
+        "J\u00fcrgen Fell"
+      ],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "8 Neural mechanisms of binding in the hippocampus and neocortex: insights from computational models",
+      "authors": [
+        "Daniel M. Cer",
+        "Randall C. O'Reilly"
+      ],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "9 Binding in working memory and long-term memory: towards an integrated model",
+      "authors": [
+        "Jaap M. J. Murre",
+        "Gezinus Wolters",
+        "Antonino Raffone"
+      ],
+      "printed_page_number": "221",
+      "skip": false
+    },
+    {
+      "title": "10 The role of time in human memory and binding: a review of the evidence",
+      "authors": [
+        "Gordon D. A. Brown",
+        "Teresa McCormack"
+      ],
+      "printed_page_number": "251",
+      "skip": false
+    },
+    {
+      "title": "11 Ageing deficit in neuromodulation of representational distinctiveness and conjunctive binding: computational explorations of possible links",
+      "authors": [
+        "Shu-Chen Li",
+        "Ulman Lindenberger"
+      ],
+      "printed_page_number": "291",
+      "skip": false
+    },
+    {
+      "title": "12 Object tokens, binding, and visual memory",
+      "authors": [
+        "Anne Treisman"
+      ],
+      "printed_page_number": "315",
+      "skip": false
+    },
+    {
+      "title": "13 Psychophysiological evidence for binding and unbinding arithmetic knowledge representations",
+      "authors": [
+        "Frank R\u00f6sler",
+        "Kerstin Jost",
+        "Michael Niedeggen"
+      ],
+      "printed_page_number": "339",
+      "skip": false
+    },
+    {
+      "title": "14 Motivated binding: top-down influences in the encoding of compound objects",
+      "authors": [
+        "Andreas Voss",
+        "Klaus Rothermund",
+        "Jochen Brandtst\u00e4dter"
+      ],
+      "printed_page_number": "363",
+      "skip": false
+    },
+    {
+      "title": "15 Brain correlates of binding processes of emotion and memory",
+      "authors": [
+        "Esther Fujiwara",
+        "Hans J. Markowitsch"
+      ],
+      "printed_page_number": "379",
+      "skip": false
+    },
+    {
+      "title": "16 Associations and dissociations in recognition memory systems",
+      "authors": [
+        "M. W. Brown",
+        "E. C. Warburton"
+      ],
+      "printed_page_number": "413",
+      "skip": false
+    },
+    {
+      "title": "17 Unpacking explicit memory: the contribution of recollection and familiarity",
+      "authors": [
+        "Joel R. Quamme",
+        "Andrew P. Yonelinas",
+        "Neal E. A. Kroll"
+      ],
+      "printed_page_number": "445",
+      "skip": false
+    },
+    {
+      "title": "18 Event-related potential explorations of dual processes in recognition memory",
+      "authors": [
+        "Tim Curran",
+        "Katharine L. Tepe",
+        "Carley Piatt"
+      ],
+      "printed_page_number": "467",
+      "skip": false
+    },
+    {
+      "title": "19 Mnemonic binding in the medial temporal lobe",
+      "authors": [
+        "Barbara J. Knowlton",
+        "Laura L. Eldridge"
+      ],
+      "printed_page_number": "493",
+      "skip": false
+    },
+    {
+      "title": "20 Functional imaging studies of intentional and incidental reactivation: implications for the binding problem",
+      "authors": [
+        "Lars Nyberg"
+      ],
+      "printed_page_number": "517",
+      "skip": false
+    },
+    {
+      "title": "21 Binding memory fragments together to form declarative memories depends on cross-cortical storage",
+      "authors": [
+        "Ken A. Paller"
+      ],
+      "printed_page_number": "527",
+      "skip": false
+    },
+    {
+      "title": "22 Retrieval inhibition in episodic recall: effects on feature binding",
+      "authors": [
+        "Karl-Heinz B\u00e4uml"
+      ],
+      "printed_page_number": "545",
+      "skip": false
+    },
+    {
+      "title": "23 Remembering items and their contexts: effects of ageing and divided attention",
+      "authors": [
+        "Fergus I. M. Craik"
+      ],
+      "printed_page_number": "571",
+      "skip": false
+    },
+    {
+      "title": "24 Prefrontal and medial temporal lobe contributions to relational memory in young and older adults",
+      "authors": [
+        "Roberto Cabeza"
+      ],
+      "printed_page_number": "595",
+      "skip": false
+    },
+    {
+      "title": "25 Binding of memories: adult-age differences and the effects of divided attention in young adults on episodic memory",
+      "authors": [
+        "Moshe Naveh-Benjamin"
+      ],
+      "printed_page_number": "627",
+      "skip": false
+    },
+    {
+      "title": "26 Binding of source and content: new directions revealed by neuropsychological and age-related effects",
+      "authors": [
+        "Mark A. McDaniel",
+        "Karin M. Butler",
+        "Courtney C. Dornburg"
+      ],
+      "printed_page_number": "657",
+      "skip": false
+    },
+    {
+      "title": "27 Age-associated changes in episodic memory: event-related potential investigations of recollection and familiarity",
+      "authors": [
+        "David Friedman"
+      ],
+      "printed_page_number": "677",
+      "skip": false
+    },
+    {
+      "title": "28 Episodic memory impairment in preclinical Alzheimer's disease: the role of encoding, consolidation, and retrieval factors",
+      "authors": [
+        "Brent J. Small",
+        "Lars B\u00e4ckman"
+      ],
+      "printed_page_number": "705",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "719",
+      "skip": true
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Section 1 Neural mechanisms of binding",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Section 2 A computational approach to mechanisms of binding",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Section 3 Binding in perception and knowledge representation",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Section 4 Binding processes during retrieval",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Section 5 Binding in the ageing brain",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

@@ -1,0 +1,1759 @@
+{
+  "generated_at": 1787295776.46502,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Erster Halbband",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einleitung des Herausgebers",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anmerkung 10.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "ADOLF REMANE",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [
+        "ADOLF REMANE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die biologischen Grundlagen des Handelns",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "ADOLF REMANE"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Einleitung",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [
+        "ADOLF REMANE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. \u00dcbersicht \u00fcber die Handlungstypen",
+      "printed_page_number": "16",
+      "source_page_index": -1,
+      "authors": [
+        "ADOLF REMANE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Biologische Sozialstrukturen",
+      "printed_page_number": "37",
+      "source_page_index": -1,
+      "authors": [
+        "ADOLF REMANE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Erlebnisziele",
+      "printed_page_number": "53",
+      "source_page_index": -1,
+      "authors": [
+        "ADOLF REMANE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen",
+      "printed_page_number": "55",
+      "source_page_index": -1,
+      "authors": [
+        "ADOLF REMANE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ERNST JOKL",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [
+        "ERNST JOKL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zu den neurologischen Grundlagen des Handelns",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "ERNST JOKL"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Neurologische Aspekte des motorischen Lernprozesses",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "ERNST JOKL"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Anmerkungen",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "ERNST JOKL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "ERNST JOKL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "NIELS BIRBAUMER, WERNER LUTZENBERGER, THOMAS ELBERT und BRIGITTE ROCKSTROH",
+      "printed_page_number": "79",
+      "source_page_index": -1,
+      "authors": [
+        "NIELS BIRBAUMER",
+        "WERNER LUTZENBERGER",
+        "THOMAS ELBERT",
+        "BRIGITTE ROCKSTROH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Psychophysiologie der Handlungsbereitschaft",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "NIELS BIRBAUMER",
+        "WERNER LUTZENBERGER",
+        "THOMAS ELBERT",
+        "BRIGITTE ROCKSTROH"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Einleitung",
+      "printed_page_number": "79",
+      "source_page_index": -1,
+      "authors": [
+        "NIELS BIRBAUMER",
+        "WERNER LUTZENBERGER",
+        "THOMAS ELBERT",
+        "BRIGITTE ROCKSTROH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Langsame kortikale Potentiale (slow cortical potentials, SCP)",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [
+        "NIELS BIRBAUMER",
+        "WERNER LUTZENBERGER",
+        "THOMAS ELBERT",
+        "BRIGITTE ROCKSTROH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Die Bedeutung von SCP f\u00fcr menschliches Flucht- und Vermeidungsverhalten",
+      "printed_page_number": "84",
+      "source_page_index": -1,
+      "authors": [
+        "NIELS BIRBAUMER",
+        "WERNER LUTZENBERGER",
+        "THOMAS ELBERT",
+        "BRIGITTE ROCKSTROH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Selbstregulation von langsamen kortikalen Gleichspannungsverschiebungen (SCP)",
+      "printed_page_number": "88",
+      "source_page_index": -1,
+      "authors": [
+        "NIELS BIRBAUMER",
+        "WERNER LUTZENBERGER",
+        "THOMAS ELBERT",
+        "BRIGITTE ROCKSTROH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Zusammenfassung",
+      "printed_page_number": "91",
+      "source_page_index": -1,
+      "authors": [
+        "NIELS BIRBAUMER",
+        "WERNER LUTZENBERGER",
+        "THOMAS ELBERT",
+        "BRIGITTE ROCKSTROH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "91",
+      "source_page_index": -1,
+      "authors": [
+        "NIELS BIRBAUMER",
+        "WERNER LUTZENBERGER",
+        "THOMAS ELBERT",
+        "BRIGITTE ROCKSTROH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "GERHARD KAMINSKI",
+      "printed_page_number": "93",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00dcberlegungen zur Funktion von Handlungstheorien in der Psychologie",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "I. Allgemeiner Teil",
+      "printed_page_number": "93",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Vorl\u00e4ufige begrifflliche Erl\u00e4uterungen",
+      "printed_page_number": "93",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Stellung des Konzepts \u201eHandlung\u201c in der Psychologie",
+      "printed_page_number": "93",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Handlungstheorie und Experimentalpsychologie",
+      "printed_page_number": "94",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Integrative Implikationen des Konzepts \u201eHandeln\u201c",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Handlungstheorie und Probleml\u00f6sungspsychologie",
+      "printed_page_number": "97",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Beispiele psychologischer Handlungstheorien",
+      "printed_page_number": "98",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. Die Idee einer allgemeinen psychologischen Handlungstheorie",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8. Der Differenzierungsgrad einer Handlungstheorie",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9. Handlungstheorie als heuristisches Schema",
+      "printed_page_number": "102",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. Spezieller Teil",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Grundlegende Vorannahmen",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Zwei fundamentale Anforderungen an Handlungstheorien",
+      "printed_page_number": "106",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Aufbau eines Handlungsgrundmodells",
+      "printed_page_number": "107",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Zus\u00e4tzliche Erl\u00e4uterungen zum Handlungsgrundmodell",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "5. Die Organisation des Verhaltensstroms nach Handlungsebenen und -segmenten",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Neue Interpretation eines Beispiels",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. Kritische Beleuchtung",
+      "printed_page_number": "118",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anmerkung",
+      "printed_page_number": "119",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "119",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD KAMINSKI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "KLAUS KAUFMANN-MALL",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS KAUFMANN-MALL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Grundz\u00fcge einer kognitiv-hedonistischen Theorie menschlichen Verhaltens",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS KAUFMANN-MALL"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Bemerkungen zur Interdisziplinarit\u00e4t",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS KAUFMANN-MALL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Wissenschaftstheoretische Reflexionen zum Vergleich von Theorien",
+      "printed_page_number": "124",
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS KAUFMANN-MALL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Vergleich verhaltenstheoretischer Ans\u00e4tze in integrativer Absicht",
+      "printed_page_number": "129",
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS KAUFMANN-MALL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Die kognitiv-hedonistische Theorie menschlichen Verhaltens",
+      "printed_page_number": "132",
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS KAUFMANN-MALL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.1. Allgemeine Theorie des Verhaltens",
+      "printed_page_number": "132",
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS KAUFMANN-MALL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.2. Theorie der Handlung",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS KAUFMANN-MALL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.3. Theorie der Valenz",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS KAUFMANN-MALL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.4. Theorie der Erwartungsbildung und -\u00e4nderung",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS KAUFMANN-MALL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.5. Theorie der Kognition",
+      "printed_page_number": "164",
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS KAUFMANN-MALL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Kausal-kognition",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS KAUFMANN-MALL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur kognitiven Einheit und zur Konzeptbildung",
+      "printed_page_number": "172",
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS KAUFMANN-MALL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Weitere Beispiele der m\u00f6glichen Anwendungen der kognitiv-hedonistischen Theorie menschlichen Verhaltens",
+      "printed_page_number": "176",
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS KAUFMANN-MALL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS KAUFMANN-MALL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS KAUFMANN-MALL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MICHAEL STADLER, FALK SEEGER",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [
+        "MICHAEL STADLER",
+        "FALK SEEGER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Psychologische Handlungstheorie auf der Grundlage des materialistischen T\u00e4tigkeitsbegriffs",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "MICHAEL STADLER",
+        "FALK SEEGER"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ein Beispiel",
+      "printed_page_number": "194",
+      "source_page_index": -1,
+      "authors": [
+        "MICHAEL STADLER",
+        "FALK SEEGER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Grundbegriffe der materialistischen Handlungstheorie",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [
+        "MICHAEL STADLER",
+        "FALK SEEGER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bewusstsein und T\u00e4tigkeit",
+      "printed_page_number": "203",
+      "source_page_index": -1,
+      "authors": [
+        "MICHAEL STADLER",
+        "FALK SEEGER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Psychophysiologische Grundlagen der Handlungstheorie",
+      "printed_page_number": "209",
+      "source_page_index": -1,
+      "authors": [
+        "MICHAEL STADLER",
+        "FALK SEEGER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Handlungstheoretische Untersuchung psychischer Grundfunktionen",
+      "printed_page_number": "215",
+      "source_page_index": -1,
+      "authors": [
+        "MICHAEL STADLER",
+        "FALK SEEGER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Handlungsregulation und Handlungsstrukturanalyse",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [
+        "MICHAEL STADLER",
+        "FALK SEEGER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schlussbemerkung",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [
+        "MICHAEL STADLER",
+        "FALK SEEGER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen",
+      "printed_page_number": "228",
+      "source_page_index": -1,
+      "authors": [
+        "MICHAEL STADLER",
+        "FALK SEEGER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "228",
+      "source_page_index": -1,
+      "authors": [
+        "MICHAEL STADLER",
+        "FALK SEEGER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HELMUT KRAUCH",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bed\u00fcrfnisse und Handeln",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Einf\u00fchrung",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Definition",
+      "printed_page_number": "236",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Der Begriff \u201eBed\u00fcrfnis\u201c in historischer, interdisziplin\u00e4rer und politischer Sicht",
+      "printed_page_number": "237",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Ans\u00e4tze zu einer Theorie der Bed\u00fcrfnisse",
+      "printed_page_number": "243",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.1. Triebe und Instinkte als Handlungserkl\u00e4rung",
+      "printed_page_number": "244",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.2. Hierarchische Bed\u00fcrfnisstrukturen",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.3. Die Beeinflussung von Bed\u00fcrfnisstrukturen durch chemische Substanzen",
+      "printed_page_number": "247",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.4. Das Lernen von Bed\u00fcrfnissen",
+      "printed_page_number": "252",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.5. Gest\u00f6rtes Lernen von Bed\u00fcrfnissen",
+      "printed_page_number": "255",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.6. A. Gehlns handlungstheoretische Anthropologie",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.6.1. Werkzeuggebrauch",
+      "printed_page_number": "258",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.6.2. Plastizit\u00e4t der Bed\u00fcrfnisse",
+      "printed_page_number": "258",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.6.3. Experimentierendes Handeln",
+      "printed_page_number": "259",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.6.4. Bildbesetzung",
+      "printed_page_number": "260",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.6.5. Reaktionen auf Bed\u00fcrfnisse",
+      "printed_page_number": "262",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.6.6. Hintergrundserf\u00fcllung",
+      "printed_page_number": "263",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.6.7. Institutionen",
+      "printed_page_number": "263",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.7. Unterdr\u00fcckung der Bed\u00fcrfnisse durch Herrschaft",
+      "printed_page_number": "265",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.7.1. Herrschaft und Gewissen",
+      "printed_page_number": "265",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.7.2. Falsche und richtige Bed\u00fcrfnisse",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.7.3. Die Feudsche Triade",
+      "printed_page_number": "268",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.8. Sprache und symbolische Interaktion",
+      "printed_page_number": "270",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schlussbetrachtung",
+      "printed_page_number": "271",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen",
+      "printed_page_number": "272",
+      "source_page_index": -1,
+      "authors": [
+        "HELMUT KRAUCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HEINZ HECKHAUSEN",
+      "printed_page_number": "283",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein kognitives Motivationsmodell und die Verankerung von Motivkonstrukten",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zusammenfassung",
+      "printed_page_number": "283",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Motivationen und Motiv",
+      "printed_page_number": "285",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erwartungsmal-Wert-Modell",
+      "printed_page_number": "286",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anreize",
+      "printed_page_number": "287",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erwartungen",
+      "printed_page_number": "288",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Valenzen",
+      "printed_page_number": "292",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Handlungstendenz",
+      "printed_page_number": "294",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Internale Ursachenzuschreibung und Ergebnisvalenz",
+      "printed_page_number": "297",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anreiz von Selbst- und Fremdbewertung",
+      "printed_page_number": "302",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Handlungsvalenz in Leistungssituationen",
+      "printed_page_number": "304",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pr\u00e4ferenzprofile f\u00fcr Aufgaben",
+      "printed_page_number": "309",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Motivkonstrukte als summarische Konzepte",
+      "printed_page_number": "320",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verankerungen von Motivkonstrukten im Motivationsmodell",
+      "printed_page_number": "324",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Handlungsvalenz: Erwartungsvariable Khse",
+      "printed_page_number": "325",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Handlungsvalenz: Erwartungsvariable Khe",
+      "printed_page_number": "326",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Selbstbewertungsvalenz",
+      "printed_page_number": "331",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Oberzielvalenz",
+      "printed_page_number": "334",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Valenzen von Fremdbewertung, extrinsischen Oberzielen und Nebenwirkungen",
+      "printed_page_number": "339",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einige Modellparameter zur Verankerung von Motivkonstrukten",
+      "printed_page_number": "340",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen",
+      "printed_page_number": "342",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "344",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ HECKHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JOHN W. ATKINSON, DAVID BIRCH",
+      "printed_page_number": "353",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Dynamik leistungsorientierter T\u00e4tigkeit",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ein Wechsel der T\u00e4tigkeit",
+      "printed_page_number": "353",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Wirkung der veranlassenden Kraft auf eine Handlungstendenz",
+      "printed_page_number": "358",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die gemeinsamen Wirkungen der Antriebs- und der Vollzugskraft",
+      "printed_page_number": "360",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Prinzip des T\u00e4tigkeitswechsels",
+      "printed_page_number": "363",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verdr\u00e4ngung und Substitution",
+      "printed_page_number": "367",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Vorzugswahl zwischen Alternativen",
+      "printed_page_number": "371",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Effekt der Deprivation auf die Motivation",
+      "printed_page_number": "376",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Effekt experimentell induzierter Motivation auf das Vorstellungsverhalten",
+      "printed_page_number": "378",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Widerstand im T\u00e4tigkeitswechsel",
+      "printed_page_number": "387",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die St\u00e4rke des Widerstands: das Abschw\u00e4chen einer Nichthandlungstendenz",
+      "printed_page_number": "390",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Effekt des Widerstands gegen\u00fcber alternativer T\u00e4tigkeit",
+      "printed_page_number": "391",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Auswirkung des Widerstands auf Pr\u00e4ferenzen zwischen Alternativen",
+      "printed_page_number": "396",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Effekt des Widerstands gegen eine T\u00e4tigkeit im Ablauf",
+      "printed_page_number": "398",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Auswirkungen von Erfolg und Misserfolg",
+      "printed_page_number": "404",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der kognitive Lerneffekt: Wechsel in der Gr\u00f6\u00dfe der veranlassenden und der hemmenden Kraft",
+      "printed_page_number": "404",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der unmittelbare motivationale Effekt: Wechsel in der St\u00e4rke von Handlungstendenzen",
+      "printed_page_number": "407",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Pers\u00f6nlichkeit, aufgefasst als Hierarchie allgemeiner Motive",
+      "printed_page_number": "415",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der T\u00e4tigkeitsstrom",
+      "printed_page_number": "418",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Selektive Aufmerksamkeit",
+      "printed_page_number": "420",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Vollzugsverzug",
+      "printed_page_number": "421",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Computersimulation von Motivationsproblemen",
+      "printed_page_number": "431",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Abschlie\u00dfender Kommentar",
+      "printed_page_number": "430",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen",
+      "printed_page_number": "431",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "431",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN W. ATKINSON",
+        "DAVID BIRCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "KARL ADAM",
+      "printed_page_number": "435",
+      "source_page_index": -1,
+      "authors": [
+        "KARL ADAM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Handlungsmotivationskonzepte eines Praktikers",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "KARL ADAM"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ein hypothetischer Versuch \u00fcber die Grundstrukturen menschlicher Handlungsorientierung, besonders am Beispiel der sportlichen Leistung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "KARL ADAM"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Leistungssport als Denkmodell [f\u00fcr eine Handlungstheorie]",
+      "printed_page_number": "435",
+      "source_page_index": -1,
+      "authors": [
+        "KARL ADAM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "[Aktionen und Leistung im Sport]",
+      "printed_page_number": "438",
+      "source_page_index": -1,
+      "authors": [
+        "KARL ADAM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "[Ich formuliere einige zusammenfassende Thesen zum Leistungsbegriff]",
+      "printed_page_number": "445",
+      "source_page_index": -1,
+      "authors": [
+        "KARL ADAM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "[Verhalten im Licht von] Talent [und Lernen]",
+      "printed_page_number": "446",
+      "source_page_index": -1,
+      "authors": [
+        "KARL ADAM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Information [und Verhalten]",
+      "printed_page_number": "450",
+      "source_page_index": -1,
+      "authors": [
+        "KARL ADAM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "[Geregelte aggressives Verhalten, besonders am Beispiel: Sport und Aggression]",
+      "printed_page_number": "451",
+      "source_page_index": -1,
+      "authors": [
+        "KARL ADAM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Versuch \u00fcber die Grundstruktur menschlicher Motivation",
+      "printed_page_number": "456",
+      "source_page_index": -1,
+      "authors": [
+        "KARL ADAM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anmerkung eines Praktikers (Trainers)",
+      "printed_page_number": "463",
+      "source_page_index": -1,
+      "authors": [
+        "KARL ADAM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Versuch eines \u00dcberblicks \u00fcber die Motive des Athleten, Trainers, Funktion\u00e4rs",
+      "printed_page_number": "465",
+      "source_page_index": -1,
+      "authors": [
+        "KARL ADAM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Selbstbest\u00e4tigung",
+      "printed_page_number": "472",
+      "source_page_index": -1,
+      "authors": [
+        "KARL ADAM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Transfer",
+      "printed_page_number": "472",
+      "source_page_index": -1,
+      "authors": [
+        "KARL ADAM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen (des Herausgebers)",
+      "printed_page_number": "472",
+      "source_page_index": -1,
+      "authors": [
+        "KARL ADAM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "GUNTER GEBAUER",
+      "printed_page_number": "477",
+      "source_page_index": -1,
+      "authors": [
+        "GUNTER GEBAUER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wissen, K\u00f6rper, Handeln",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "GUNTER GEBAUER"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bemerkungen \u00fcber Handeln im Sport",
+      "printed_page_number": "477",
+      "source_page_index": -1,
+      "authors": [
+        "GUNTER GEBAUER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Beispiel: Leistungssportler",
+      "printed_page_number": "488",
+      "source_page_index": -1,
+      "authors": [
+        "GUNTER GEBAUER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Beispiel: 13-14j\u00e4hrige Sch\u00fcler",
+      "printed_page_number": "489",
+      "source_page_index": -1,
+      "authors": [
+        "GUNTER GEBAUER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Beispiel: Gelegenheitsfu\u00dfballspieler",
+      "printed_page_number": "490",
+      "source_page_index": -1,
+      "authors": [
+        "GUNTER GEBAUER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen",
+      "printed_page_number": "492",
+      "source_page_index": -1,
+      "authors": [
+        "GUNTER GEBAUER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

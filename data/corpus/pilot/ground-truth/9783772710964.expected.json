@@ -1,0 +1,113 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "5",
+      "skip": true
+    },
+    {
+      "title": "Zweitspracherwerb unter Migrationsbedingungen",
+      "authors": [
+        "Hartmut Günther",
+        "Gabriele Kniffka"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "„Integration\" – Erwartungen an die Schule, Möglichkeiten der öffentlichen Erziehung",
+      "authors": [
+        "Heinz-Elmar Tenorth"
+      ],
+      "printed_page_number": "22",
+      "skip": false
+    },
+    {
+      "title": "Sprachliche Anforderungen in der Schule",
+      "authors": [
+        "Gabriele Kniffka",
+        "Birgit Neuer"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "Schulische Integration zugewanderter Schülerinnen und Schüler",
+      "authors": [
+        "Maike Abshagen"
+      ],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "Lernziel sprachliche Handlungsfähigkeit",
+      "authors": [
+        "Jörg Roche",
+        "Elisabetta Terrasi-Haufe"
+      ],
+      "printed_page_number": "70",
+      "skip": false
+    },
+    {
+      "title": "Grammatik- und Wortschatzvermittlung",
+      "authors": [
+        "Inger Petersen",
+        "Jörg Kilian"
+      ],
+      "printed_page_number": "88",
+      "skip": false
+    },
+    {
+      "title": "Hören und Sprechen lehren und lernen",
+      "authors": [
+        "Silvia Dahmen"
+      ],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "Lesen und Schreiben lehren und lernen",
+      "authors": [
+        "Michael Becker-Mrotzek",
+        "Simone Jambor-Fahlen"
+      ],
+      "printed_page_number": "134",
+      "skip": false
+    },
+    {
+      "title": "Sprachdiagnose im Unterricht: Grundlagen, Zugänge und Beispiele",
+      "authors": [
+        "Markus Linnemann"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "Pädagogischer Umgang mit Heterogenität: Differenzierung und Individualisierung in Schule und Unterricht",
+      "authors": [
+        "Andrea Óhidy",
+        "Stefan Brömel"
+      ],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "Unterrichtsqualität im DaZ-Unterricht sichern",
+      "authors": [
+        "Thomas Riecke-Baulecke",
+        "Hartmut Günther"
+      ],
+      "printed_page_number": "192",
+      "skip": false
+    },
+    {
+      "title": "Autoren- und Herausgeberverzeichnis",
+      "authors": [],
+      "printed_page_number": "208",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

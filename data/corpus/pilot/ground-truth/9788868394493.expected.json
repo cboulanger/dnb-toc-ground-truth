@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [
+        "Bischof Ivo Muser"
+      ],
+      "printed_page_number": "6",
+      "skip": true
+    },
+    {
+      "title": "Johann Baptist Oberkofler – Anerkennung und Würdigung einer Ahrntaler Künstlerpersönlichkeit (1895–1969)",
+      "authors": [
+        "Helmut Klammer"
+      ],
+      "printed_page_number": "8",
+      "skip": false
+    },
+    {
+      "title": "Johann Baptist Oberkofler (1895–1969)",
+      "authors": [
+        "Elmar Oberkofler"
+      ],
+      "printed_page_number": "10",
+      "skip": false
+    },
+    {
+      "title": "Einer der bedeutendsten Priestermaler Südtirols – Johann Baptist Oberkofler (1895–1969)",
+      "authors": [
+        "Josef Gelmi"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "Bilder des Glaubens – Bilder der Heimat",
+      "authors": [
+        "Maria Hölzl Stifter"
+      ],
+      "printed_page_number": "34",
+      "skip": false
+    },
+    {
+      "title": "Johann Baptist Oberkoflers Werke",
+      "authors": [
+        "Maria Hölzl Stifter"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Meine geliebte Landschaft",
+      "authors": [
+        "Eva Gratl"
+      ],
+      "printed_page_number": "228",
+      "skip": false
+    },
+    {
+      "title": "Ich und die anderen: Johann Baptist Oberkofler und das Porträt",
+      "authors": [
+        "Eva Gratl"
+      ],
+      "printed_page_number": "253",
+      "skip": false
+    },
+    {
+      "title": "Werkverzeichnis",
+      "authors": [
+        "Maria Hölzl Stifter"
+      ],
+      "printed_page_number": "279",
+      "skip": true
+    },
+    {
+      "title": "Bibliografie",
+      "authors": [],
+      "printed_page_number": "285",
+      "skip": true
+    },
+    {
+      "title": "Ausstellungen",
+      "authors": [],
+      "printed_page_number": "286",
+      "skip": true
+    },
+    {
+      "title": "Bildnachweis, Dank, Zeitschriften",
+      "authors": [],
+      "printed_page_number": "287",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

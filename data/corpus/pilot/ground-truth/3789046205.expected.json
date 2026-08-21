@@ -1,0 +1,409 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "I. Grundlagen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Öffentliche Verwaltung im vereinigten Deutschland",
+      "authors": [
+        "Klaus König"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "2. Geschichte der öffentlichen Verwaltung",
+      "authors": [
+        "Thomas Ellwein"
+      ],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "3. Verfassungsrahmen der öffentlichen Verwaltung",
+      "authors": [
+        "Peter Badura"
+      ],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "4. Verwaltung im gesellschaftlichen und ökonomischen Umfeld",
+      "authors": [
+        "Carl Böhret",
+        "Götz Konzendorf"
+      ],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "5. Verwaltungsreformen",
+      "authors": [
+        "Wolfgang Seibel"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "II. Aufbau",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Staatsaufbau und Verwaltungsterritorien",
+      "authors": [
+        "Frido Wagener",
+        "Willi Blümel"
+      ],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "2. Aufbau der Bundesverwaltung",
+      "authors": [
+        "Volker Busse"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "3. Aufbau der Landesverwaltung",
+      "authors": [
+        "Martin Frank"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "4. Verflechtung der Verwaltungsebenen",
+      "authors": [
+        "Arthur Benz"
+      ],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "5. Innenaufbau der Verwaltungsbehörden",
+      "authors": [
+        "Horst Müller"
+      ],
+      "printed_page_number": "185",
+      "skip": false
+    },
+    {
+      "title": "III. Verselbständigung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Verfassung der kommunalen Selbstverwaltung",
+      "authors": [
+        "Franz-Ludwig Knemeyer"
+      ],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "2. Verwaltung der großen Städte",
+      "authors": [
+        "Jochen Dieckmann"
+      ],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "3. Verwaltung des ländlichen Raumes",
+      "authors": [
+        "Günter Seele"
+      ],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "4. Selbstverwaltung außerhalb der Kommunalverwaltung, insbesondere: Selbstverwaltung in der Sozialversicherung",
+      "authors": [
+        "Dieter Schimanke"
+      ],
+      "printed_page_number": "257",
+      "skip": false
+    },
+    {
+      "title": "5. Verwaltung zwischen staatlichem und privatem Sektor",
+      "authors": [
+        "Gunnar Folke Schuppert"
+      ],
+      "printed_page_number": "269",
+      "skip": false
+    },
+    {
+      "title": "6. Die öffentlichen Unternehmen Deutschlands",
+      "authors": [
+        "Achim von Loesch"
+      ],
+      "printed_page_number": "285",
+      "skip": false
+    },
+    {
+      "title": "IV. Aufgaben",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Aufgaben und Aufgabenverteilung",
+      "authors": [
+        "Werner Thieme"
+      ],
+      "printed_page_number": "303",
+      "skip": false
+    },
+    {
+      "title": "2. Öffentliche Dienstleistungen",
+      "authors": [
+        "Dieter Grunow"
+      ],
+      "printed_page_number": "325",
+      "skip": false
+    },
+    {
+      "title": "3. Aufgabenentwicklung und Aufgabenkritik",
+      "authors": [
+        "Hans Peter Bull"
+      ],
+      "printed_page_number": "343",
+      "skip": false
+    },
+    {
+      "title": "V. Steuerung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Gesetzes- und Rechtsbindung der Verwaltung",
+      "authors": [
+        "Eberhard Schmidt-Aßmann"
+      ],
+      "printed_page_number": "359",
+      "skip": false
+    },
+    {
+      "title": "2. Planung in Regierung und Verwaltung",
+      "authors": [
+        "Klaus-Eckart Gebauer"
+      ],
+      "printed_page_number": "377",
+      "skip": false
+    },
+    {
+      "title": "3. Räumliche Planung",
+      "authors": [
+        "Gottfried Schmitz"
+      ],
+      "printed_page_number": "395",
+      "skip": false
+    },
+    {
+      "title": "4. Haushalts- und Finanzplanung",
+      "authors": [
+        "Klaus Lüder"
+      ],
+      "printed_page_number": "417",
+      "skip": false
+    },
+    {
+      "title": "VI. Entscheidung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Entscheidungen in der öffentlichen Verwaltung",
+      "authors": [
+        "Bernd Becker"
+      ],
+      "printed_page_number": "435",
+      "skip": false
+    },
+    {
+      "title": "2. Verfahren der Verwaltungsentscheidung",
+      "authors": [
+        "Karl-Peter Sommermann"
+      ],
+      "printed_page_number": "459",
+      "skip": false
+    },
+    {
+      "title": "3. Entscheidungshilfen und Datenverarbeitung",
+      "authors": [
+        "Heinrich Reinermann"
+      ],
+      "printed_page_number": "477",
+      "skip": false
+    },
+    {
+      "title": "VII. Personal",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Die Gliederung des öffentlichen Dienstes",
+      "authors": [
+        "Helmut Lecheler"
+      ],
+      "printed_page_number": "501",
+      "skip": false
+    },
+    {
+      "title": "2. Die Situation des öffentlichen Dienstes",
+      "authors": [
+        "Helmut Klages"
+      ],
+      "printed_page_number": "517",
+      "skip": false
+    },
+    {
+      "title": "3. Führungspositionen in der Verwaltung",
+      "authors": [
+        "Franz Kroppenstedt",
+        "Kai-Uwe Menz"
+      ],
+      "printed_page_number": "539",
+      "skip": false
+    },
+    {
+      "title": "4. Personalwirtschaft",
+      "authors": [
+        "Gottfried Herbig"
+      ],
+      "printed_page_number": "559",
+      "skip": false
+    },
+    {
+      "title": "5. Aus- und Fortbildung für den öffentlichen Dienst",
+      "authors": [
+        "Christoph Hauschild"
+      ],
+      "printed_page_number": "577",
+      "skip": false
+    },
+    {
+      "title": "VIII. Leitung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Leitungsorganisation der Verwaltung",
+      "authors": [
+        "Manfred König"
+      ],
+      "printed_page_number": "597",
+      "skip": false
+    },
+    {
+      "title": "2. Personalführung in der Verwaltung",
+      "authors": [
+        "Rudolf Fisch"
+      ],
+      "printed_page_number": "615",
+      "skip": false
+    },
+    {
+      "title": "3. Neue Ansätze der Führung und Leitung",
+      "authors": [
+        "Christoph Reichard"
+      ],
+      "printed_page_number": "641",
+      "skip": false
+    },
+    {
+      "title": "IX. Kontrolle",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Netzwerk der Verwaltungskontrolle",
+      "authors": [
+        "Günter Püttner"
+      ],
+      "printed_page_number": "663",
+      "skip": false
+    },
+    {
+      "title": "2. Kontrolle der Verwaltung durch Verwaltungsgerichte",
+      "authors": [
+        "Hans Joachim von Oertzen",
+        "Christoph Hauschild"
+      ],
+      "printed_page_number": "675",
+      "skip": false
+    },
+    {
+      "title": "3. Verwaltungskontrolle durch Rechnungshöfe",
+      "authors": [
+        "Hedda Czasche"
+      ],
+      "printed_page_number": "695",
+      "skip": false
+    },
+    {
+      "title": "X. Internationalität",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Die Internationalität der öffentlichen Verwaltung",
+      "authors": [
+        "Heinrich Siedentopf"
+      ],
+      "printed_page_number": "711",
+      "skip": false
+    },
+    {
+      "title": "2. Die deutsche Verwaltung in der Europäischen Union",
+      "authors": [
+        "Georg Ress",
+        "Jörg Ukrow"
+      ],
+      "printed_page_number": "731",
+      "skip": false
+    },
+    {
+      "title": "3. Verwaltungszusammenarbeit in der Entwicklungspolitik",
+      "authors": [
+        "Franz Thedieck"
+      ],
+      "printed_page_number": "751",
+      "skip": false
+    },
+    {
+      "title": "XI. Autorenbiographien",
+      "authors": [],
+      "printed_page_number": "769",
+      "skip": true
+    },
+    {
+      "title": "XII. Schlagwortverzeichnis",
+      "authors": [],
+      "printed_page_number": "787",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

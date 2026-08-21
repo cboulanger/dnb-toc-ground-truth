@@ -1,0 +1,1012 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort zur zweiten Auflage",
+      "authors": [],
+      "printed_page_number": "V",
+      "skip": true
+    },
+    {
+      "title": "Vorwort zur ersten Auflage",
+      "authors": [],
+      "printed_page_number": "VII",
+      "skip": true
+    },
+    {
+      "title": "Abbildungsverzeichnis",
+      "authors": [],
+      "printed_page_number": "XV",
+      "skip": true
+    },
+    {
+      "title": "Abbildungsverzeichnis Praxisbeispiele",
+      "authors": [],
+      "printed_page_number": "XVII",
+      "skip": true
+    },
+    {
+      "title": "Tabellenverzeichnis",
+      "authors": [],
+      "printed_page_number": "XIX",
+      "skip": true
+    },
+    {
+      "title": "Abkürzungsverzeichnis",
+      "authors": [],
+      "printed_page_number": "XXI",
+      "skip": true
+    },
+    {
+      "title": "1 Servicemanagement im Personalwesen",
+      "authors": [
+        "Wolfgang Appel",
+        "Werner Felisiak"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "2 Die HR-Organisation – Re-loaded",
+      "authors": [
+        "Navid Nazemian",
+        "Wolfgang Appel"
+      ],
+      "printed_page_number": "5",
+      "skip": false
+    },
+    {
+      "title": "2.1 Die HR-Welt nach Dave Ulrich",
+      "authors": [],
+      "printed_page_number": "5",
+      "skip": false
+    },
+    {
+      "title": "2.2 HR-Zukunftsthemen und die nächste HR-Organisation",
+      "authors": [],
+      "printed_page_number": "10",
+      "skip": false
+    },
+    {
+      "title": "3 Der Bauplan",
+      "authors": [
+        "Werner Felisiak"
+      ],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "3.1 Der Entwicklungsprozess in der Personalorganisation",
+      "authors": [],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "3.2 Definition des Shared-Service-Centers",
+      "authors": [],
+      "printed_page_number": "18",
+      "skip": false
+    },
+    {
+      "title": "3.3 Organisatorische Zuordnung von Shared-Service-Centern",
+      "authors": [],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "3.3.1 Make-or-Buy",
+      "authors": [],
+      "printed_page_number": "20",
+      "skip": false
+    },
+    {
+      "title": "3.3.2 Organisatorische Verankerung",
+      "authors": [],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "3.3.3 Organisatorische Einordnung (Verrechnung)",
+      "authors": [],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "3.3.4 Marktsituation des internen Dienstleisters",
+      "authors": [],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "3.3.5 Schwachstellen traditioneller Kostenrechnungsverfahren",
+      "authors": [],
+      "printed_page_number": "22",
+      "skip": false
+    },
+    {
+      "title": "3.3.6 Marktorientierte Steuerung interner Dienstleistungen",
+      "authors": [],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "3.4 Merkmale eines HR-Shared-Service-Center",
+      "authors": [],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "3.5 Geeignete Geschäftsprozesse",
+      "authors": [],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "3.5.1 Transaktionsbasierte Prozesse und Services",
+      "authors": [],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "3.5.2 Expertisebasierte Prozesse und Services",
+      "authors": [],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "3.5.3 Prozessanalyse bildet die Entscheidungsgrundlage",
+      "authors": [],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "3.6 Das Geschäftsmodell eines HR-Shared-Service-Center",
+      "authors": [],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "3.6.1 Der Kundennutzen bestimmt das Geschäftsmodell",
+      "authors": [],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "3.6.2 Wer ist Kunde des Shared-Service-Centers?",
+      "authors": [],
+      "printed_page_number": "34",
+      "skip": false
+    },
+    {
+      "title": "3.6.3 Das Geschäftsmodell „Operational Excellence“",
+      "authors": [],
+      "printed_page_number": "35",
+      "skip": false
+    },
+    {
+      "title": "3.6.4 Divergierende Zielsetzungen ausbalancieren",
+      "authors": [],
+      "printed_page_number": "36",
+      "skip": false
+    },
+    {
+      "title": "3.6.5 Bedeutung der Servicequalität",
+      "authors": [],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "3.6.6 Unterschiede zwischen SSC und Outsourcing",
+      "authors": [],
+      "printed_page_number": "38",
+      "skip": false
+    },
+    {
+      "title": "Praxisbeispiel 1: Entwicklung der HR-Services bei Unilever Deutschland",
+      "authors": [
+        "Hendrik Böhmer"
+      ],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "4 Die Einführung von HR-Shared-Services als Projektaufgabe",
+      "authors": [
+        "Michael Schwarz"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "4.1 Projektvorbereitungen",
+      "authors": [],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "4.1.1 Projektfokus",
+      "authors": [],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "4.1.2 Wirtschaftlichkeitsbetrachtung",
+      "authors": [],
+      "printed_page_number": "52",
+      "skip": false
+    },
+    {
+      "title": "4.1.3 Projektplanung, -Controlling und -Steuerung",
+      "authors": [],
+      "printed_page_number": "54",
+      "skip": false
+    },
+    {
+      "title": "4.2 Aufbau und Ablauf eines typischen HR-Shared-Service-Center-Projektes",
+      "authors": [],
+      "printed_page_number": "56",
+      "skip": false
+    },
+    {
+      "title": "4.2.1 Projektorganisation",
+      "authors": [],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "4.2.2 Projektphasen",
+      "authors": [],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "4.2.3 Projektdokumentation",
+      "authors": [],
+      "printed_page_number": "62",
+      "skip": false
+    },
+    {
+      "title": "4.3 Herausforderungen bei der Einführung eines HR-Shared-Service-Center",
+      "authors": [],
+      "printed_page_number": "66",
+      "skip": false
+    },
+    {
+      "title": "4.3.1 Wissensmanagement",
+      "authors": [],
+      "printed_page_number": "66",
+      "skip": false
+    },
+    {
+      "title": "4.3.2 Organisatorische Konflikte",
+      "authors": [],
+      "printed_page_number": "68",
+      "skip": false
+    },
+    {
+      "title": "4.3.3 Umgang mit Widerständen",
+      "authors": [],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "4.4 Zusammenfassende Bewertung der Projektaufgabe",
+      "authors": [],
+      "printed_page_number": "70",
+      "skip": false
+    },
+    {
+      "title": "5 Prozesse",
+      "authors": [],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "5.1 Front-Office-Prozesse",
+      "authors": [
+        "Wolfgang Appel"
+      ],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "5.1.1 Anforderungen an das Front Office aus Kundensicht",
+      "authors": [],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "5.1.2 Kundenbedarfe und Interaktionskanäle",
+      "authors": [],
+      "printed_page_number": "74",
+      "skip": false
+    },
+    {
+      "title": "5.1.3 Interne Organisation des Front Office",
+      "authors": [],
+      "printed_page_number": "76",
+      "skip": false
+    },
+    {
+      "title": "5.2 Back-Office-Prozesse",
+      "authors": [
+        "Werner Felisiak"
+      ],
+      "printed_page_number": "82",
+      "skip": false
+    },
+    {
+      "title": "5.2.1 Aufbauorganisation eines Back Office",
+      "authors": [],
+      "printed_page_number": "82",
+      "skip": false
+    },
+    {
+      "title": "5.2.2 Ablauforganisation",
+      "authors": [],
+      "printed_page_number": "84",
+      "skip": false
+    },
+    {
+      "title": "5.3 Optimierung von HR-Prozessen mittels moderner Produktionsphilosophien",
+      "authors": [
+        "Thomas Merkl"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "5.3.1 Methoden und Vorgehen im BPS",
+      "authors": [],
+      "printed_page_number": "88",
+      "skip": false
+    },
+    {
+      "title": "5.3.2 Abschließende Bewertung",
+      "authors": [],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "Praxisbeispiel 2: Einsatz von Six Sigma + LEAN Tools bei der Deutschen Post DHL",
+      "authors": [
+        "Snezana Kerp",
+        "Stefanie Link",
+        "Arthur Seidl"
+      ],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "5.4 Spezielle Prozesse im HR-Servicecenter",
+      "authors": [
+        "Michael Wahler"
+      ],
+      "printed_page_number": "104",
+      "skip": false
+    },
+    {
+      "title": "5.4.1 Möglichkeiten der Diversifizierung",
+      "authors": [],
+      "printed_page_number": "104",
+      "skip": false
+    },
+    {
+      "title": "5.4.2 Das Development Center im HR-Shared-Service-Center",
+      "authors": [],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "5.4.3 Das Recruiting-Servicecenter",
+      "authors": [
+        "Wolfgang Appel"
+      ],
+      "printed_page_number": "110",
+      "skip": false
+    },
+    {
+      "title": "Praxisbeispiel 3: Innovatives Vertragsmanagement bei der Deutschen Post DHL",
+      "authors": [
+        "Christine Glörfeld",
+        "Joachim Krahl",
+        "Arthur Seidl"
+      ],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "6 Personalarbeit im Shared-Service-Center",
+      "authors": [
+        "Wolfgang Appel",
+        "Gabriele Jahn"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "6.1 Personalbeschaffung",
+      "authors": [],
+      "printed_page_number": "122",
+      "skip": false
+    },
+    {
+      "title": "6.1.1 Jobprofile",
+      "authors": [],
+      "printed_page_number": "122",
+      "skip": false
+    },
+    {
+      "title": "6.1.2 Zugangskanäle und Auswahlverfahren",
+      "authors": [],
+      "printed_page_number": "126",
+      "skip": false
+    },
+    {
+      "title": "6.2 Personaleinsatz",
+      "authors": [],
+      "printed_page_number": "130",
+      "skip": false
+    },
+    {
+      "title": "6.3 Anreizsysteme und Performance Management",
+      "authors": [],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "6.4 Personalentwicklung",
+      "authors": [],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "6.4.1 Grundlagen der Personalentwicklung im Shared-Service-Center",
+      "authors": [],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "6.4.2 Die Erstqualifizierung",
+      "authors": [],
+      "printed_page_number": "136",
+      "skip": false
+    },
+    {
+      "title": "6.4.3 Die laufende Erweiterung von Wissen und Fähigkeiten",
+      "authors": [],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "6.4.4 Karrierepfade als Weiterentwicklungsmöglichkeit",
+      "authors": [],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "6.5 Coaching als PE- und Führungsansatz",
+      "authors": [],
+      "printed_page_number": "144",
+      "skip": false
+    },
+    {
+      "title": "Praxisbeispiel 4: Produktionssteuerung der HR-Business-Services bei der Deutschen Telekom AG",
+      "authors": [
+        "Claus Peter Schlünder"
+      ],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "7 Rechtliche Aspekte bei der Gründung eines HR-Shared-Service-Centers",
+      "authors": [
+        "Michaela Felisiak"
+      ],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "7.1 Gesellschaftsrechtliche Aspekte",
+      "authors": [],
+      "printed_page_number": "156",
+      "skip": false
+    },
+    {
+      "title": "7.1.1 Gesellschaftsrechtliche Grundlagen",
+      "authors": [],
+      "printed_page_number": "156",
+      "skip": false
+    },
+    {
+      "title": "7.1.2 Durchführung einer Due-Diligence-Prüfung vor Einführung eines HR-Shared-Service-Centers",
+      "authors": [],
+      "printed_page_number": "158",
+      "skip": false
+    },
+    {
+      "title": "7.1.3 Gesellschaftsrechtliche Konstruktionen",
+      "authors": [],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "7.1.4 Aspekte der Vertragsgestaltung",
+      "authors": [],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "7.1.5 Grenzüberschreitende Sachverhalte",
+      "authors": [],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "7.1.6 Zwischenergebnis",
+      "authors": [],
+      "printed_page_number": "162",
+      "skip": false
+    },
+    {
+      "title": "7.2 Arbeitsrechtliche Aspekte",
+      "authors": [],
+      "printed_page_number": "162",
+      "skip": false
+    },
+    {
+      "title": "7.2.1 Arbeitsrechtliche Grundlagen",
+      "authors": [],
+      "printed_page_number": "162",
+      "skip": false
+    },
+    {
+      "title": "7.2.2 Betriebsübergang und HR-Shared-Service-Center",
+      "authors": [],
+      "printed_page_number": "164",
+      "skip": false
+    },
+    {
+      "title": "7.2.3 Grenzüberschreitender Betriebsübergang und HR-Shared-Service-Center",
+      "authors": [],
+      "printed_page_number": "166",
+      "skip": false
+    },
+    {
+      "title": "7.2.4 Betriebsänderung und HR-Shared-Service-Center",
+      "authors": [],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "7.2.5 Zwischenergebnis",
+      "authors": [],
+      "printed_page_number": "168",
+      "skip": false
+    },
+    {
+      "title": "7.3 Datenschutzrechtliche Aspekte",
+      "authors": [],
+      "printed_page_number": "168",
+      "skip": false
+    },
+    {
+      "title": "7.3.1 Abriss datenschutzrechtlicher Aspekte bei einem deutschen HR-Shared-Service-Center",
+      "authors": [],
+      "printed_page_number": "168",
+      "skip": false
+    },
+    {
+      "title": "7.3.2 Abriss datenschutzrechtlicher Aspekte bei einem grenzüberschreitenden HR-Shared-Service-Center",
+      "authors": [],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "7.4 Resümee",
+      "authors": [],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "8 Führung und Steuerung",
+      "authors": [
+        "Werner Felisiak"
+      ],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "8.1 Taylorismus oder ganzheitliches Managementsystem",
+      "authors": [],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "8.2 Performance Management",
+      "authors": [],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "8.2.1 Performance-Management-Prozess",
+      "authors": [],
+      "printed_page_number": "176",
+      "skip": false
+    },
+    {
+      "title": "8.2.2 PM-Ansätze für Shared-Service-Center",
+      "authors": [],
+      "printed_page_number": "178",
+      "skip": false
+    },
+    {
+      "title": "8.2.3 Auswahl relevanter Ansätze",
+      "authors": [],
+      "printed_page_number": "180",
+      "skip": false
+    },
+    {
+      "title": "8.2.4 Der Schlüssel zum Leistungserfolg = Key Performance Indicator (KPI)",
+      "authors": [],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "8.3 Service-Level-Agreements",
+      "authors": [],
+      "printed_page_number": "190",
+      "skip": false
+    },
+    {
+      "title": "8.4 Fertigungssteuerung",
+      "authors": [],
+      "printed_page_number": "192",
+      "skip": false
+    },
+    {
+      "title": "8.4.1 Planungsprozesse",
+      "authors": [],
+      "printed_page_number": "192",
+      "skip": false
+    },
+    {
+      "title": "8.4.2 Monitoring-Prozesse",
+      "authors": [],
+      "printed_page_number": "194",
+      "skip": false
+    },
+    {
+      "title": "8.4.3 Reklamationsmanagement",
+      "authors": [],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "8.5 Interne Kommunikation",
+      "authors": [],
+      "printed_page_number": "198",
+      "skip": false
+    },
+    {
+      "title": "8.5.1 Formelle/informelle Kommunikation",
+      "authors": [],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "8.5.2 Spezielle Instrumente der internen Kommunikation",
+      "authors": [],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "8.6 Ausrichten der gesamten Organisation auf Ziele",
+      "authors": [],
+      "printed_page_number": "200",
+      "skip": false
+    },
+    {
+      "title": "8.6.1 Verankerung der Ziele auf Mitarbeiterebene",
+      "authors": [],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "8.6.2 Kommunikation der Ziele",
+      "authors": [],
+      "printed_page_number": "202",
+      "skip": false
+    },
+    {
+      "title": "8.6.3 Kaskade Kostenbewusstsein",
+      "authors": [],
+      "printed_page_number": "202",
+      "skip": false
+    },
+    {
+      "title": "8.6.4 Kaskade SLA-Fulfillment-Rate",
+      "authors": [],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "8.6.5 Kaskade Customer Satisfaction",
+      "authors": [],
+      "printed_page_number": "204",
+      "skip": false
+    },
+    {
+      "title": "Praxisbeispiel 5: Service Management bei Merck HR-Services – inspiriert von ITIL®",
+      "authors": [
+        "Oliver Daraga"
+      ],
+      "printed_page_number": "206",
+      "skip": false
+    },
+    {
+      "title": "9 Technik als Effizienztreiber im HR-Servicecenter",
+      "authors": [],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "9.1 Megatrend Automatisierung",
+      "authors": [
+        "Franz Deitering",
+        "Rainer Schwarz"
+      ],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "9.1.1 Rückblick – Status quo – Ausblick",
+      "authors": [],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "9.1.2 Automatisieren der Kommunikation durch eine IT-Plattform",
+      "authors": [],
+      "printed_page_number": "214",
+      "skip": false
+    },
+    {
+      "title": "9.1.3 Automation mit einer IT-Plattform für auftragsbezogene Arbeiten",
+      "authors": [],
+      "printed_page_number": "215",
+      "skip": false
+    },
+    {
+      "title": "9.1.4 Das SAP Shared-Service-Framework als integrierte Business- und IT-Plattform",
+      "authors": [],
+      "printed_page_number": "219",
+      "skip": false
+    },
+    {
+      "title": "9.1.5 Mehrwerte durch ein gut integriertes IT-System",
+      "authors": [],
+      "printed_page_number": "221",
+      "skip": false
+    },
+    {
+      "title": "9.2 ACD-Anlagen und Kontaktsteuerung",
+      "authors": [
+        "Thomas Jäger"
+      ],
+      "printed_page_number": "223",
+      "skip": false
+    },
+    {
+      "title": "9.2.1 Von der Anrufsteuerung zur Steuerung aller Kontaktkanäle",
+      "authors": [],
+      "printed_page_number": "223",
+      "skip": false
+    },
+    {
+      "title": "9.2.2 Priorisierung von Kontaktanfragen",
+      "authors": [],
+      "printed_page_number": "224",
+      "skip": false
+    },
+    {
+      "title": "9.2.3 Steuerung und manuelle Eingriffe",
+      "authors": [],
+      "printed_page_number": "225",
+      "skip": false
+    },
+    {
+      "title": "9.2.4 Die Technik von ACD-Anlagen",
+      "authors": [],
+      "printed_page_number": "225",
+      "skip": false
+    },
+    {
+      "title": "9.2.5 Effizienzsteigerung durch Sprachsteuerung",
+      "authors": [],
+      "printed_page_number": "226",
+      "skip": false
+    },
+    {
+      "title": "9.3 ESS und MSS als Core-Element von HR-Servicecentern",
+      "authors": [
+        "Wolfgang Appel"
+      ],
+      "printed_page_number": "226",
+      "skip": false
+    },
+    {
+      "title": "9.4 Mobile HR erst am Anfang",
+      "authors": [
+        "Wolfgang Appel",
+        "Malte Beinhauer"
+      ],
+      "printed_page_number": "232",
+      "skip": false
+    },
+    {
+      "title": "9.5 Wissensmanagement",
+      "authors": [
+        "Malte Beinhauer",
+        "Sven Kayser"
+      ],
+      "printed_page_number": "239",
+      "skip": false
+    },
+    {
+      "title": "Praxisbeispiel 6: Das HR-Portal als Self-Services-Plattform bei RWE",
+      "authors": [
+        "Ralf Entrup"
+      ],
+      "printed_page_number": "245",
+      "skip": false
+    },
+    {
+      "title": "Praxisbeispiel 7: Aufbau einer europäischen HR-Servicestruktur bei TEVA",
+      "authors": [
+        "Andreas Mayer"
+      ],
+      "printed_page_number": "250",
+      "skip": false
+    },
+    {
+      "title": "10 Aspekte des HR-Shared-Service-Centers im internationalen Umfeld",
+      "authors": [
+        "Rainer Aries"
+      ],
+      "printed_page_number": "255",
+      "skip": false
+    },
+    {
+      "title": "10.1 Einleitung",
+      "authors": [],
+      "printed_page_number": "255",
+      "skip": false
+    },
+    {
+      "title": "10.2 Grundsätzliches",
+      "authors": [],
+      "printed_page_number": "256",
+      "skip": false
+    },
+    {
+      "title": "10.3 Vorstudie/Baselining",
+      "authors": [],
+      "printed_page_number": "257",
+      "skip": false
+    },
+    {
+      "title": "10.4 Herausforderungen",
+      "authors": [],
+      "printed_page_number": "259",
+      "skip": false
+    },
+    {
+      "title": "10.4.1 Standort",
+      "authors": [],
+      "printed_page_number": "259",
+      "skip": false
+    },
+    {
+      "title": "10.4.2 Prozesse und Organisation",
+      "authors": [],
+      "printed_page_number": "262",
+      "skip": false
+    },
+    {
+      "title": "10.4.3 IT",
+      "authors": [],
+      "printed_page_number": "263",
+      "skip": false
+    },
+    {
+      "title": "10.5 Internationales Projekt",
+      "authors": [],
+      "printed_page_number": "265",
+      "skip": false
+    },
+    {
+      "title": "10.5.1 Vorbereitung",
+      "authors": [],
+      "printed_page_number": "265",
+      "skip": false
+    },
+    {
+      "title": "10.5.2 Überblick und Design",
+      "authors": [],
+      "printed_page_number": "266",
+      "skip": false
+    },
+    {
+      "title": "10.5.3 Wissenstransfer und Übergabe",
+      "authors": [],
+      "printed_page_number": "267",
+      "skip": false
+    },
+    {
+      "title": "10.5.4 Stabilisierung und Abschluss",
+      "authors": [],
+      "printed_page_number": "269",
+      "skip": false
+    },
+    {
+      "title": "10.5.5 Regelbetrieb",
+      "authors": [],
+      "printed_page_number": "269",
+      "skip": false
+    },
+    {
+      "title": "10.6 Fazit",
+      "authors": [],
+      "printed_page_number": "269",
+      "skip": false
+    },
+    {
+      "title": "11 Schlusskapitel: Reifegrade",
+      "authors": [
+        "Wolfgang Appel",
+        "Werner Felisiak",
+        "Nicole Müller"
+      ],
+      "printed_page_number": "271",
+      "skip": false
+    },
+    {
+      "title": "11.1 Zieldimensionen von HR-Services",
+      "authors": [],
+      "printed_page_number": "271",
+      "skip": false
+    },
+    {
+      "title": "11.2 Ausgestaltung des Reifegradmodells",
+      "authors": [],
+      "printed_page_number": "273",
+      "skip": false
+    },
+    {
+      "title": "11.3 Fazit",
+      "authors": [],
+      "printed_page_number": "278",
+      "skip": false
+    },
+    {
+      "title": "Glossar",
+      "authors": [],
+      "printed_page_number": "281",
+      "skip": true
+    },
+    {
+      "title": "Quellenverzeichnis",
+      "authors": [],
+      "printed_page_number": "285",
+      "skip": true
+    },
+    {
+      "title": "Autorenporträts",
+      "authors": [],
+      "printed_page_number": "293",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

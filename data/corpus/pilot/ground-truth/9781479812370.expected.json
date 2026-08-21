@@ -1,0 +1,137 @@
+{
+  "entries": [
+    {
+      "title": "Introduction",
+      "authors": [
+        "SANFORD V. LEVINSON",
+        "JOEL PARKER"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Editors' Preface",
+      "authors": [],
+      "printed_page_number": "ix",
+      "skip": true
+    },
+    {
+      "title": "Contributors",
+      "authors": [],
+      "printed_page_number": "xi",
+      "skip": true
+    },
+    {
+      "title": "1. A History of Inherent Contradictions: The Origins and End of American Conservatism",
+      "authors": [
+        "JAMES R. KURTH"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "2. An Interpretation of American Conservative Thought: Political Issues, Conceptual Differences, and Attitudinal Disjunctions",
+      "authors": [
+        "DAVID SIDORSKY"
+      ],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "3. Conservatism in America? A Response to Sidorsky",
+      "authors": [
+        "PATRICK J. DENEEN"
+      ],
+      "printed_page_number": "140",
+      "skip": false
+    },
+    {
+      "title": "4. The Worms and the Octopus: Religious Freedom, Pluralism, and Conservatism",
+      "authors": [
+        "RICHARD W. GARNETT"
+      ],
+      "printed_page_number": "160",
+      "skip": false
+    },
+    {
+      "title": "5. Anti-Governmentism in Conservative Thought: A Note on Garnett's Conception of Religious Freedom",
+      "authors": [
+        "INGRID CREPPELL"
+      ],
+      "printed_page_number": "197",
+      "skip": false
+    },
+    {
+      "title": "6. Constitutive Stories about the Common Law in Modern American Conservatism",
+      "authors": [
+        "KEN I. KERSCH"
+      ],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "7. The Role of Conservatism in Securing and Maintaining Just Moral Constitutions: Toward a Theory of Complex Normative Systems",
+      "authors": [
+        "GERALD GAUS"
+      ],
+      "printed_page_number": "256",
+      "skip": false
+    },
+    {
+      "title": "8. Constitutional Conservatism and American Conservatism",
+      "authors": [
+        "JOHNATHAN O'NEILL"
+      ],
+      "printed_page_number": "292",
+      "skip": false
+    },
+    {
+      "title": "9. Fighting Over the Conservative Banner",
+      "authors": [
+        "CARL T. BOGUS"
+      ],
+      "printed_page_number": "336",
+      "skip": false
+    },
+    {
+      "title": "10. Uniting Conservatives: Comments on Bogus's Trifurcated Conservatism",
+      "authors": [
+        "ELDON EISENACH"
+      ],
+      "printed_page_number": "375",
+      "skip": false
+    },
+    {
+      "title": "11. Leo Strauss and American Conservative Thought and Politics",
+      "authors": [
+        "NATHAN TARCOV"
+      ],
+      "printed_page_number": "381",
+      "skip": false
+    },
+    {
+      "title": "12. What Fascism Teaches Us",
+      "authors": [
+        "ARTHUR J. JACOBSON"
+      ],
+      "printed_page_number": "402",
+      "skip": false
+    },
+    {
+      "title": "13. Segregation, Aggression, and Executive Power: Leo Strauss and 'the Boys'",
+      "authors": [
+        "ALAN GILBERT"
+      ],
+      "printed_page_number": "407",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "441",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

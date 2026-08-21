@@ -1,0 +1,126 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Einleitung und Überblick",
+      "authors": ["Peter Dehnbostel", "Uwe Elsholz", "Jörg Meister"],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "TEIL I: GEWERKSCHAFTLICHE NETZWERKKONZEPTE",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Gewerkschaftliche Netzwerke als zukunftsweisende Organisations- und Lernform",
+      "authors": ["Uwe Elsholz"],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "Kompetenzentwicklung im Betriebs- und Beraternetzwerk Kompenetz",
+      "authors": ["Thomas Habenicht", "Uwe Elsholz"],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "Erfahrungen bei der Initiierung eines Berufsbildungsnetzwerks für ver.di-organisierte betriebliche Interessenvertretungen",
+      "authors": ["Jörg-Peter Skroblin"],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "Vertrauen im Netzwerk – Reflexion am Beispiel einer strukturhomogenen bundesweiten Betriebsrätekooperation",
+      "authors": ["Gerald Proß"],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "Der IT-Arbeitskreis Rhein-Main als Beispiel für eine regionale gewerkschaftliche Kooperations- und Netzwerkstruktur",
+      "authors": ["Thomas Krischer", "Uwe Elsholz"],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Betriebsräte-Netzwerke – Eine Zukunftsoption für die IG Metall?",
+      "authors": ["Bernd Kaßebaum"],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "Zur Lernförderlichkeit von Netzwerken",
+      "authors": ["Joachim Ludwig"],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "TEIL II: NETZWERKKONZEPTE AUS BERUFBILDENDER UND SOZIALER SICHT",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Berufsbildungsnetzwerke als Lernortkooperation und Weiterentwicklung der Lernorttheorie",
+      "authors": ["Peter Dehnbostel"],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "Lernortkooperation und Berufsbildungsnetzwerke",
+      "authors": ["Günter Pätzold"],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "Individualisiert und doch gemeinsam – Wie IT-Spezialisten im Netzwerk lernen",
+      "authors": ["Rita Meyer"],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "CULIK – Ein Qualifizierungsnetzwerk für Lehrkräfte beruflicher Schulen",
+      "authors": ["Franz Gramlinger"],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "Netzwerkmoderatoren in unterschiedlichen Netzwerktypen. Funktionen, Aufgaben, Qualifikationsanforderungen",
+      "authors": ["Andreas Diettrich", "Julia Gillen"],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "Aufgaben und Qualifikationen der Netzwerk-Moderation in Kompetenzentwicklungsnetzwerken",
+      "authors": ["Julia Gillen", "Uwe Elsholz", "Elke Rosenbrock"],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "Management von Unternehmungsnetzwerken – Auf dem Weg zu einer reflexiven Netzwerkentwicklung?",
+      "authors": ["Jörg Sydow"],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "Netzwerke und Selbstorganisation",
+      "authors": ["John Erpenbeck"],
+      "printed_page_number": "239",
+      "skip": false
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "253",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

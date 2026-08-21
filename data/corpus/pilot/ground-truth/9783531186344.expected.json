@@ -1,0 +1,424 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": true
+    },
+    {
+      "title": "Das besondere Gespr\u00e4ch: Anonyme Seelsorge und Beratung am Telefon der TelefonSeelsorge",
+      "authors": [
+        "Ruth Belzner"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "Coaching ohne Blickkontakt \u2013 Coaching f\u00fcr F\u00fchrungskr\u00e4fte als Begleitma\u00dfnahme in einem berufsbegleitenden Weiterbildungsstudiengang",
+      "authors": [
+        "Herbert Asselmeyer",
+        "Juliane Delkeskamp"
+      ],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "Online-Beratung in der verbandlichen Caritas",
+      "authors": [
+        "Kirsten Schellack"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Coaching per Internet \u2013 wie es geht und wie es wirkt",
+      "authors": [
+        "Birgit Knatz"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "onlineCoaching: ein geschriebener Dialog unabh\u00e4ngig von Zeit und Raum",
+      "authors": [
+        "Brigitte Koch"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Virtuelle Strategie-Simulation im Telefoncoaching mit LPScooon\u00ae \u2013 Ein Coachingkonzept f\u00fcr alle Sinne",
+      "authors": [
+        "Christine Grabow"
+      ],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "Avatarbasierte Beratung und Coaching in 3D",
+      "authors": [
+        "Klaus Bredl",
+        "Barbara Br\u00e4utigam",
+        "Daniel Herz"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "Virtuelles Coaching \u2013 programmiertes Telefoncoaching mit Internet-Support",
+      "authors": [
+        "Harald Gei\u00dfler"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "Implementierung von Virtuellem Coaching zur Steigerung der Trainings- und Beratungseffizienz",
+      "authors": [
+        "J\u00fcrgen Kauschke"
+      ],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "Evaluation des Virtuellen Transfercoachings (VTC) bei einer Trainerqualifizierung",
+      "authors": [
+        "Trutz Lenzinger",
+        "Christian Rodust"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "Virtuelles Transfercoaching (VTC)",
+      "authors": [
+        "Ute Ebel",
+        "Christiane Thiele"
+      ],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "Der Einsatz Virtuellen Transfercoachings in einem Baumarktunternehmen und in einer Bank",
+      "authors": [
+        "Martina Held",
+        "Harald Korsten",
+        "Horst-W. Reckert"
+      ],
+      "printed_page_number": "209",
+      "skip": false
+    },
+    {
+      "title": "Theratalk: Ein Online-Portal f\u00fcr Paar und Partnerschaft",
+      "authors": [
+        "Peter Zezula",
+        "Ragnar Beer"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "Die virtuelle Kollegiale Coaching Konferenz\u00ae",
+      "authors": [
+        "Elke Berninger-Sch\u00e4fer"
+      ],
+      "printed_page_number": "247",
+      "skip": false
+    },
+    {
+      "title": "Textuelle und audio-visuelle Lernberatung im Kontext von E-Learning",
+      "authors": [
+        "Nadine Ojstersek",
+        "Mandy Schiefner-Rohs"
+      ],
+      "printed_page_number": "261",
+      "skip": false
+    },
+    {
+      "title": "Peer-E-Coaching: Gestaltung und Analyse asynchroner kollegialer Fallarbeit",
+      "authors": [
+        "Rolf Arnold",
+        "Christian Bogner",
+        "Thomas Prescher"
+      ],
+      "printed_page_number": "277",
+      "skip": false
+    },
+    {
+      "title": "Dienstleistung aus der Distanz: E-Coaching in Japan",
+      "authors": [
+        "Peter Dreyer"
+      ],
+      "printed_page_number": "301",
+      "skip": false
+    },
+    {
+      "title": "Die Entwicklung des deutschen Coaching-Marktes und das Marktpotential von Coaching mit neuen Medien \u2013 eine \u00f6konomische Analyse",
+      "authors": [
+        "Peter-Paul Gross",
+        "Michael Stephan"
+      ],
+      "printed_page_number": "319",
+      "skip": false
+    },
+    {
+      "title": "Schriftlichkeit in virtuellen Beratungssettings",
+      "authors": [
+        "Richard Reindl",
+        "Marina Hergenreider",
+        "Julia H\u00fcnninger"
+      ],
+      "printed_page_number": "339",
+      "skip": false
+    },
+    {
+      "title": "Coaching und Beratung mit und ohne moderne Medien \u2013 ein empirischer Vergleich",
+      "authors": [
+        "Harald Gei\u00dfler",
+        "Charlotte Kurzmann",
+        "Maren Metz"
+      ],
+      "printed_page_number": "359",
+      "skip": false
+    },
+    {
+      "title": "Verzeichnis der Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "381",
+      "skip": true
+    },
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Teil 1: Nutzung moderner Medien f\u00fcr Coaching und psychosoziale Beratung \u2013 \u00dcberblick \u00fcber die verschiedenen Formate",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1.1 Fernm\u00fcndliche Basiskommunikation ohne webbasierte Zusatztools",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Ruth Belzner",
+      "authors": [
+        "Ruth Belzner"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Herbert Asselmeyer, Juliane Delkeskamp",
+      "authors": [
+        "Herbert Asselmeyer",
+        "Juliane Delkeskamp"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1.2 Webbasiert-textliche Basiskommunikation ohne webbasierte Zusatztools",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Kirsten Schellack",
+      "authors": [
+        "Kirsten Schellack"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Birgit Knatz",
+      "authors": [
+        "Birgit Knatz"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1.3 Fernm\u00fcndliche Basiskommunikation mit webbasierten Zusatztools",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Christine Grabow",
+      "authors": [
+        "Christine Grabow"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Klaus Bredl, Barbara Br\u00e4utigam, Daniel Herz",
+      "authors": [
+        "Klaus Bredl",
+        "Barbara Br\u00e4utigam",
+        "Daniel Herz"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Harald Gei\u00dfler",
+      "authors": [
+        "Harald Gei\u00dfler"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "J\u00fcrgen Kauschke",
+      "authors": [
+        "J\u00fcrgen Kauschke"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Trutz Lenzinger, Christian Rodust",
+      "authors": [
+        "Trutz Lenzinger",
+        "Christian Rodust"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Ute Ebel, Christiane Thiele",
+      "authors": [
+        "Ute Ebel",
+        "Christiane Thiele"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Martina Held, Harald Korsten, Horst-W. Reckert",
+      "authors": [
+        "Martina Held",
+        "Harald Korsten",
+        "Horst-W. Reckert"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1.4 Webbasiert-textliche Basiskommunikation mit webbasierten Zusatztools",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Peter Zezula, Ragnar Beer",
+      "authors": [
+        "Peter Zezula",
+        "Ragnar Beer"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1.5 Multimodale Basiskommunikation",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Elke Berninger-Sch\u00e4fer",
+      "authors": [
+        "Elke Berninger-Sch\u00e4fer"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Nadine Ojstersek, Mandy Schiefner-Rohs",
+      "authors": [
+        "Nadine Ojstersek",
+        "Mandy Schiefner-Rohs"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Rolf Arnold, Christian Bogner, Thomas Prescher",
+      "authors": [
+        "Rolf Arnold",
+        "Christian Bogner",
+        "Thomas Prescher"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Teil 2: Beratung und Coaching mit modernen Medien \u2013 Format\u00fcbergreifende Analysen und Reflexionen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Peter Dreyer",
+      "authors": [
+        "Peter Dreyer"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Peter-Paul Gross, Michael Stephan",
+      "authors": [
+        "Peter-Paul Gross",
+        "Michael Stephan"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Richard Reindl, Marina Hergenreider, Julia H\u00fcnninger",
+      "authors": [
+        "Richard Reindl",
+        "Marina Hergenreider",
+        "Julia H\u00fcnninger"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Harald Gei\u00dfler, Charlotte Kurzmann, Maren Metz",
+      "authors": [
+        "Harald Gei\u00dfler",
+        "Charlotte Kurzmann",
+        "Maren Metz"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Brigitte Koch",
+      "authors": [
+        "Brigitte Koch"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

@@ -1,0 +1,82 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [
+        "Per \u00d8hrgaard"
+      ],
+      "printed_page_number": "5",
+      "skip": true
+    },
+    {
+      "title": "Per \u00d8hrgaard",
+      "authors": [],
+      "printed_page_number": "5",
+      "skip": true
+    },
+    {
+      "title": "\u00bbWhat we in Sweden call a skiftnyckel is in English an adjustable wrench\u00ab",
+      "authors": [
+        "Lars Gustafsson"
+      ],
+      "printed_page_number": "12",
+      "skip": false
+    },
+    {
+      "title": "Der wohltemperierte Computer",
+      "authors": [
+        "Miguel S\u00e1enz"
+      ],
+      "printed_page_number": "16",
+      "skip": false
+    },
+    {
+      "title": "Franz\u00f6sische Verluste an der ph\u00e4nomenologischen Front",
+      "authors": [
+        "Jean-Pierre Lefebvre"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Max Webers gesammelte methodologische Schriften auf Englisch \u2013 keine einfache Aufgabe f\u00fcr einen d\u00e4nischen \u00dcbersetzer",
+      "authors": [
+        "Hans Henrik Bruun"
+      ],
+      "printed_page_number": "38",
+      "skip": false
+    },
+    {
+      "title": "Noten zum Verknoten",
+      "authors": [
+        "Niels Brunse"
+      ],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Entfernungserfahrungen",
+      "authors": [
+        "Jurko Prochasko"
+      ],
+      "printed_page_number": "54",
+      "skip": false
+    },
+    {
+      "title": "Die Sprache europ\u00e4ischer Politik sollte \u00dcbersetzung sein",
+      "authors": [
+        "Antje Contius"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "\u00dcber die Autoren",
+      "authors": [],
+      "printed_page_number": "69",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

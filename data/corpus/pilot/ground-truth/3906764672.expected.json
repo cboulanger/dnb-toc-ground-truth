@@ -1,0 +1,114 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Die Bedeutung der Leibsprache für die Homöopathie",
+      "authors": [
+        "A. Thurneysen"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Der menschliche Körper im Einklang mit der Natur: Das Leitbild der Traditionellen Chinesischen Medizin (TCM)",
+      "authors": [
+        "B. Ausfeld-Hafter"
+      ],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "Der körpermündige Mensch",
+      "authors": [
+        "E. Kaeser"
+      ],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "Das Austrocknen der Frau: Ein Bericht aus der humoralen Somatologie",
+      "authors": [
+        "B. Duden"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "Neue Körperlichkeit (Leiblichkeit) in Psychotherapie und Gesellschaft. Körperzentrierte Psychotherapie IKP: Neuzeitliche Ganzheits-Psychotherapie",
+      "authors": [
+        "Y. Maurer-Groeli"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Über leibeigene und leibfremde komplementäre Chirurgie",
+      "authors": [
+        "R. Berchtold"
+      ],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "Regulation durch Neuraltherapie: Behandelt wird der Körper, gesund wird der Leib",
+      "authors": [
+        "A. Beck"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "Die Bedeutung des Körpers beim pflegerischen Handeln",
+      "authors": [
+        "R. Mathys"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "Heilkunde zwischen Medizin und Philosophie",
+      "authors": [
+        "S. Jenny"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Der Leib als grosse Vernunft. Zur Leibfeindlichkeit der Metaphysiker",
+      "authors": [
+        "A. Pieper"
+      ],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "Die viergliedrige Organisation des Menschen: Physischer Leib, Ätherleib, Astralleib und Ich",
+      "authors": [
+        "P. Heusser"
+      ],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "Leib und Gut – Die Bedeutung des Körpers für die heutige Medizin",
+      "authors": [
+        "A. Radvilla"
+      ],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "Die Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "183",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

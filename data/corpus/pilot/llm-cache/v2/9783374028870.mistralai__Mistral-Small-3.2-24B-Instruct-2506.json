@@ -1,0 +1,334 @@
+{
+  "generated_at": 1787260292.4955761,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Inhalt",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Rudolf Keller",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf Keller"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Melanchthon \u2013 Leben, Werk, Bedeutung",
+      "printed_page_number": "II",
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf Keller"
+      ],
+      "printed_roman": true,
+      "skip": false
+    },
+    {
+      "title": "Thomas Kothmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Kothmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Melanchthon in Bayern",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Kothmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gunther Wenz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gunther Wenz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Melanchthon und die Confessio Augustana",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "Gunther Wenz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Albrecht P. Luttenberger",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Albrecht P. Luttenberger"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Philipp Melanchthon",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [
+        "Albrecht P. Luttenberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Alasdair Heron",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Alasdair Heron"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Calvin in Regensburg",
+      "printed_page_number": "107",
+      "source_page_index": -1,
+      "authors": [
+        "Alasdair Heron"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Andrea K\u00f6nig",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Andrea K\u00f6nig"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Melanchthon und die Frauen",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [
+        "Andrea K\u00f6nig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans Schwarz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hans Schwarz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Melanchthon als Dogmatiker",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Schwarz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inhalt",
+      "printed_page_number": "10",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Rolf Sch\u00f6nberger",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Sch\u00f6nberger"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Freiheit am Scheideweg",
+      "printed_page_number": "183",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Sch\u00f6nberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans-Christoph Dittscheid",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Christoph Dittscheid"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "An den Grenzen des Portr\u00e4ts",
+      "printed_page_number": "207",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Christoph Dittscheid"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christoph Meinel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Christoph Meinel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Certa Deus toti impressit vestigia mundo",
+      "printed_page_number": "229",
+      "source_page_index": -1,
+      "authors": [
+        "Christoph Meinel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Michael Fricke",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Michael Fricke"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Heiligkeit des Lehrens und Lernens \u2013 Philipp Melanchthon als P\u00e4dagoge",
+      "printed_page_number": "253",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Fricke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Matthias Heesch",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Heesch"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Lehrer Deutschlands und die Philosophie des Lebens",
+      "printed_page_number": "281",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Heesch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Alfons Knoll",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Alfons Knoll"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Philipp Melanchthon aus r\u00f6misch-katholischer Sicht",
+      "printed_page_number": "311",
+      "source_page_index": -1,
+      "authors": [
+        "Alfons Knoll"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Werner Thiede",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Werner Thiede"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Im Aufblick zur himmlischen Kirche",
+      "printed_page_number": "345",
+      "source_page_index": -1,
+      "authors": [
+        "Werner Thiede"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "printed_page_number": "371",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Nachweis der Abbildungen",
+      "printed_page_number": "373",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "entries": [
+    {
+      "title": "Introduction: Behavioral Approaches to the Study of Human Learning and Memory",
+      "authors": [
+        "A. S. Benjamin"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "The Role of Inhibition in Learning",
+      "authors": [
+        "J. C. Hulbert",
+        "M. C. Anderson"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Preface",
+      "authors": [],
+      "printed_page_number": "ix",
+      "skip": true
+    },
+    {
+      "title": "Contributors",
+      "authors": [],
+      "printed_page_number": "xi",
+      "skip": true
+    },
+    {
+      "title": "Short- vs. Long-Term Memory",
+      "authors": [
+        "I. Neath",
+        "A. M. Surprenant"
+      ],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "Hemispheric Asymmetries in Verbal Memory",
+      "authors": [
+        "K. M. Evans",
+        "K. D. Federmeier"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "Emotional Facilitation and Disruption of Memory",
+      "authors": [
+        "S. L. Warren",
+        "G. A. Miller",
+        "W. Heller"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "Scheduling and Learning",
+      "authors": [
+        "D. A. Simon"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Introduction: Cognitive Neuroscience of Learning and Memory",
+      "authors": [
+        "T. Polk"
+      ],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "The Computational Cognitive Neuroscience of Learning and Memory: Principles and Models",
+      "authors": [
+        "L. I. Newman",
+        "T. A. Polk"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Cognitive Neuroscience of Skill Acquisition",
+      "authors": [
+        "J. Bo",
+        "J. Langan",
+        "R. D. Seidler"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "Cognitive Neuroscience of Declarative and Nondeclarative Memory",
+      "authors": [
+        "P. J. Reber"
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "Learning and Memory for Emotional Events",
+      "authors": [
+        "A. S. Atkins",
+        "P. A. Reuter-Lorenz"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "Age Differences in Memory: Demands on Cognitive Control and Association Processes",
+      "authors": [
+        "C. Lustig",
+        "K. Flegal"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "Introduction: A Survey of Motor Learning Concepts and Findings",
+      "authors": [
+        "B. Etnyre"
+      ],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "Two Aspects of Motor Learning: Learning Movements and Learning Synergies",
+      "authors": [
+        "M. L. Latash"
+      ],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "Neuroanatomical Correlates of Motor Skill Learning: Inferences from Neuroimaging to Behavior",
+      "authors": [
+        "K. Lindquist",
+        "M. A. Guadagnoli"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "Mechanisms Underlying Short-Term Motor Learning, Long-Term Motor Learning and Transfer",
+      "authors": [
+        "D. M. Corcos",
+        "J. Shemmell",
+        "D. E. Vaillancourt"
+      ],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "A Dynamical Framework for Human Skill Learning",
+      "authors": [
+        "C. Magee",
+        "J. A. Scott Kelso"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "Animal Models of Behavioral and Neural Plasticity",
+      "authors": [
+        "J. Steven de Belle"
+      ],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "A Biological Basis for Animal Model Studies of Learning and Memory",
+      "authors": [
+        "B. S. Dunkelberger",
+        "C. N. Serway",
+        "J. Steven de Belle"
+      ],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "Caenorhabditis elegans as a Model System in Which to Study the Fundamentals of Learning and Memory",
+      "authors": [
+        "T. A. Timbers",
+        "C. H. Rankin"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "The Cell Biology of Learning and Memory in Aplysia",
+      "authors": [
+        "D. L. Glanzman"
+      ],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "Insect Minds For Human Minds",
+      "authors": [
+        "R. Menzel"
+      ],
+      "printed_page_number": "271",
+      "skip": false
+    },
+    {
+      "title": "Patterns of Learning, Memory, and Vocal Production in the Songbird Brain",
+      "authors": [
+        "D. S. Vicario"
+      ],
+      "printed_page_number": "287",
+      "skip": false
+    },
+    {
+      "title": "The cAMP/PKA Pathway and the Modeling of Human Memory Disorders in Mice",
+      "authors": [
+        "F. X. Brennan",
+        "T. Abel"
+      ],
+      "printed_page_number": "301",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "317",
+      "skip": true
+    },
+    {
+      "title": "Part I: Human Learning and Cognition",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Part II: Cognitive Neuroscience",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Part III: Human Motor Learning",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Part IV: Animal Model Systems",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Contents",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

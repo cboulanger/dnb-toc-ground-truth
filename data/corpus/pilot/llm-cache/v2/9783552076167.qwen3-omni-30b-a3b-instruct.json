@@ -1,0 +1,936 @@
+{
+  "generated_at": 1787011483.977055,
+  "entries": [
+    {
+      "title": "\u00bbDEM STUMPFSINN DIE GEISTESKAPPE AUFSETZEN\u00ab",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Bernhard heute"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Herausgegeben von Bernhard Fetz, Katharina Manojlovic und Juliane Werner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Paul Zsolnay Verlag",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "BERNHARD FETZ, KATHARINA MANOJLOVIC, JULIANE WERNER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Bernhard Fetz",
+        "Katharina Manojlovic",
+        "Juliane Werner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00dcber diesen Band",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "WELTR\u00c4UME",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "jULIANE WERNER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Juliane Werner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The Age of Bernhard",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [
+        "Juliane Werner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "CHRISTOPH H. WINTER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Christoph H. Winter"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbTourismus der K\u00e4lte\u00ab. Reisen in Leben und Werk Thomas Bernhards",
+      "printed_page_number": "45",
+      "source_page_index": -1,
+      "authors": [
+        "Christoph H. Winter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "AUS EINEM INTERVIEW MIT DR. PETER FABJAN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbEs war ihm sehr wichtig, viel zu gehen\u00ab",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Fabjan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "LEBENSBAHNEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "MANFRED MITTERMAYER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Manfred Mittermayer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Eine \u00bbseiltanzende Zirkusfamilie\u00ab",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [
+        "Manfred Mittermayer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HARALD GSCHWANDTNER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Harald Gschwandtner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Becoming Thomas Bernhard",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [
+        "Harald Gschwandtner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "STEFANO APOSTOLO",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Stefano Apostolo"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Denken und notieren. Thomas Bernhards Notizb\u00fccher",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [
+        "Stefano Apostolo"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JULIANE WERNER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Juliane Werner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Thomas Bernhard: Lastwagenfahrer, Bibliothekar, Burgtheaterdirektor",
+      "printed_page_number": "98",
+      "source_page_index": -1,
+      "authors": [
+        "Juliane Werner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ROBERT MENASSE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Robert Menasse"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Thomas Bernhard im Br\u00e4unerhof",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Menasse"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "DENKGEB\u00c4UDE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "FATIMA NAQVI",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Fatima Naqvi"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zu h\u00f6chsten H\u00f6hen. Die architektonische Bildung Thomas Bernhards",
+      "printed_page_number": "107",
+      "source_page_index": -1,
+      "authors": [
+        "Fatima Naqvi"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MARTIN D\u00dcCHS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Martin Duchs"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Verachtung und Verehrung. Thomas Bernhard und die Architektur",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Duchs"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JULIANE WERNER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Juliane Werner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Eduardo Souto de Moura: Die Welt ist das Haus selbst",
+      "printed_page_number": "130",
+      "source_page_index": -1,
+      "authors": [
+        "Juliane Werner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "KERSTIN PUTZ",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Kerstin Putz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gedanken aus erster Hand",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Kerstin Putz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Antiphilosophie bei Alain Badiou und Thomas Bernhard",
+      "printed_page_number": "136",
+      "source_page_index": -1,
+      "authors": [
+        "Kerstin Putz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ROBIN-M. AUST",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Robin-M. Aust"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bernhardisieren mit Sprachmodellen, oder:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Robin-M. Aust"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der sogenannte Thomas-Bernhard-Bot",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [
+        "Robin-M. Aust"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "FRIEDER VON AMMON",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Frieder von Ammon"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Lesegymnastik. Das Kalkwerk und die Bernhardsche Methode",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [
+        "Frieder von Ammon"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "KUNSTNATURKATASTROPHEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "BERNHARD JUDEX",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Bernhard Judex"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Thomas Bernhard als \u00bbNature Writer\u00ab? \u00d6kokritik von Frost bis Heldenplatz",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [
+        "Bernhard Judex"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "RENATE LANGER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Renate Langer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbLuster und L\u00fcster und Laster\u00ab",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Renate Langer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Thomas Bernhard als erotischer Schriftsteller",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [
+        "Renate Langer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "INSTITUT F\u00dcR SPRACHKUNST, WIEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Institut f\u00fcr Sprachkunst, Wien"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "das hirn, das hirn",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [
+        "Institut f\u00fcr Sprachkunst, Wien"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ALEXANDER HONOLD",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Alexander Honold"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wortmusik und K\u00f6rpermotorik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Alexander Honold"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Musikdarstellung in Bernhards Der Untergeher",
+      "printed_page_number": "194",
+      "source_page_index": -1,
+      "authors": [
+        "Alexander Honold"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JULIANE WERNER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Juliane Werner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "GlobalBernhard-Playlist",
+      "printed_page_number": "210",
+      "source_page_index": -1,
+      "authors": [
+        "Juliane Werner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "THERESIA PRAMMER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Theresia Prammer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbzusehen wie der Maulwurf w\u00fchlt\u00ab",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Theresia Prammer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Thomas Bernhard, Dichter der \u00dcbertreibung",
+      "printed_page_number": "212",
+      "source_page_index": -1,
+      "authors": [
+        "Theresia Prammer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "GESELLSCHAFTSKREISE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "MARTIN HUBER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Martin Huber"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbIch sehne mich immer nach dem Alleinsein, aber bin ich allein, bin ich der ungl\u00fccklichste Mensch\u00ab. Betrachtungen \u00fcber das Alleinsein im Romanwerk Thomas Bernhards",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Huber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "KATHARINA MANOJLOVIC",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Katharina Manojlovic"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Von einer Perserin im Persianer und anderen Gl\u00fccksf\u00e4llen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Katharina Manojlovic"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Weiterleben in Thomas Bernhards Erz\u00e4hlung Ja",
+      "printed_page_number": "236",
+      "source_page_index": -1,
+      "authors": [
+        "Katharina Manojlovic"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "THOMAS MACHO",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Macho"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ein exotischer Garten. Selbstmordgedanken im Werk Thomas Bernhards",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Macho"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "RAINER BARBEY",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Barbey"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Thomas Bernhard und der anarchistische F\u00fcrst",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Barbey"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Lekt\u00fcre von Kropotkins Memoiren eines Revolution\u00e4rs",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Barbey"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "INSTITUTIONEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "DANIEL FIGUEROA",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Daniel Figueroa"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbVerordnungen und Verhaltensma\u00dfregeln\u00ab. Die Institution der Klinik in Thomas Bernhards Der Atem und Die K\u00e4lte",
+      "printed_page_number": "265",
+      "source_page_index": -1,
+      "authors": [
+        "Daniel Figueroa"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JULIANE WERNER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Juliane Werner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbWir h\u00f6ren das Unglaublichste. Wir sehen das Unglaublichste.\u00ab",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Juliane Werner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Am Steinhof",
+      "printed_page_number": "272",
+      "source_page_index": -1,
+      "authors": [
+        "Juliane Werner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "BURKHARDT WOLF",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Burkhardt Wolf"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bernhard und die B\u00fcrokratie",
+      "printed_page_number": "282",
+      "source_page_index": -1,
+      "authors": [
+        "Burkhardt Wolf"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "CLEMENS BRAUN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Clemens Braun"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbvor den unverr\u00fcckbaren Schranken des Gesetzes\u00ab",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Clemens Braun"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Schreiberfahrungen im Gerichtssaal",
+      "printed_page_number": "292",
+      "source_page_index": -1,
+      "authors": [
+        "Clemens Braun"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "BERNHARD FETZ",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Bernhard Fetz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bberbitte dringend zehntausend. herzlich = bernhard\u00ab",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Bernhard Fetz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Von der \u00d6konomie des Schreibens",
+      "printed_page_number": "300",
+      "source_page_index": -1,
+      "authors": [
+        "Bernhard Fetz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "INSZENIERUNGEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "DANIEL MILKOVITS & NORBERT CHRISTIAN WOLF",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Daniel Milkovits",
+        "Norbert Christian Wolf"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbEs gr\u00fc\u00dft der sogenannte richtige Herr Bernhard\u00ab",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Daniel Milkovits",
+        "Norbert Christian Wolf"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Thomas Bernhards transmediale Selbstinszenierung",
+      "printed_page_number": "311",
+      "source_page_index": -1,
+      "authors": [
+        "Daniel Milkovits",
+        "Norbert Christian Wolf"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "KATHARINA MANOJLOVIC",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Katharina Manojlovic"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Thomas Bernhard als Fotografierte",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Katharina Manojlovic"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gespr\u00e4ch mit Erika Schmied",
+      "printed_page_number": "321",
+      "source_page_index": -1,
+      "authors": [
+        "Katharina Manojlovic"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "CORNELIUS MITTERER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Cornelius Mitterer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Museum in Thomas Bernhards Alte Meister",
+      "printed_page_number": "331",
+      "source_page_index": -1,
+      "authors": [
+        "Cornelius Mitterer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "SASKIA HAAG",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Saskia Haag"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bernhard plakativ. Poster f\u00fcrs Theater",
+      "printed_page_number": "339",
+      "source_page_index": -1,
+      "authors": [
+        "Saskia Haag"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "THOMAS BERNHARD: WERKSIGLEN",
+      "printed_page_number": "363",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VERZEICHNIS DER AUSGESTELLTEN OBJEKTE UND MEDIEN",
+      "printed_page_number": "364",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "IMPRESSUM DER AUSSTELLUNG",
+      "printed_page_number": "374",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "VERZEICHNIS DER AUTOR:INNEN",
+      "printed_page_number": "375",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "ST\u00c4DTEBESCHIMPFUNGEN. EIN THOMAS-BERNHARD-QUIZ",
+      "printed_page_number": "380",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

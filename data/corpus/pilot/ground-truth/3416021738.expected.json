@@ -1,0 +1,80 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "I",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Das literarische Bild der Auflösung im Radetzkymarsch",
+      "authors": [
+        "David Bronsen"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Josef Roth: Hiob. Der Mythos des Skeptikers",
+      "authors": [
+        "Bernd Hüppauf"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "Flucht in die »Heimat«. Zu den Erzählungen Joseph Roths",
+      "authors": [
+        "Klaus Bohnen"
+      ],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "Kaddisch und Misere. Untergangsweisen eines jüdischen Katholiken. Joseph Roth im Exil",
+      "authors": [
+        "Fritz Hackert"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Frankreichbild und Katholizismus bei Joseph Roth",
+      "authors": [
+        "Carl Steiner"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "Joseph Roth: Zweimal politische Illusion",
+      "authors": [
+        "Klaus Zelewitz"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "II",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Bibliographie (Auswahl)",
+      "authors": [
+        "Bernd M. Kraske"
+      ],
+      "printed_page_number": "117",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

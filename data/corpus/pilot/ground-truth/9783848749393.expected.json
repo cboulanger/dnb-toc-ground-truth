@@ -1,0 +1,104 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": "5",
+      "skip": true
+    },
+    {
+      "title": "Zur Bedeutung von Theorien f\u00fcr die Soziale Arbeit: Eine Begr\u00fcndung",
+      "authors": [
+        "Michael May",
+        "Arne Sch\u00e4fer"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Stationen der Diskussion: Eine historisch-systematische Betrachtung der Vielfalt und Wandelbarkeit von Theorien der Sozialen Arbeit",
+      "authors": [
+        "Michael Winkler"
+      ],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "Soziale Probleme, Soziale Arbeit und Systemisches Paradigma. Auf dem Weg zur Sozialen Arbeit als kritischer Profession",
+      "authors": [
+        "Silvia Staub-Bernasconi"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "Systemische Soziale Arbeit",
+      "authors": [
+        "Michael Klassen"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "Macht- und diskursanalytische Perspektiven",
+      "authors": [
+        "Fabian Kessl"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "Der Capabilities Ansatz (und andere Elemente einer materialistisch-emanzipatorischen Theorie Sozialer Arbeit)",
+      "authors": [
+        "Holger Ziegler"
+      ],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "Lebensweltorientierung und Lebensbew\u00e4ltigung",
+      "authors": [
+        "Cornelia F\u00fcssenh\u00e4user"
+      ],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "Psychoanalytische Soziale Arbeit",
+      "authors": [
+        "Margret D\u00f6rr"
+      ],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "Aktueller Stand der Diskussion und Perspektiven f\u00fcr die Zukunft der Theorien Sozialer Arbeit",
+      "authors": [
+        "Michael May",
+        "Arne Sch\u00e4fer"
+      ],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "II.",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "III.",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "IV.",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

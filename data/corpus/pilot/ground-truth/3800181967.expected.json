@@ -1,0 +1,78 @@
+{
+  "entries": [
+    {
+      "title": "Some Effects of Milking Interval on Secretion",
+      "authors": [
+        "H. Grimm"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Extension Concerning Problems with Bulk Milk Quality",
+      "authors": [
+        "H. Grimm",
+        "V. Hoffmann",
+        "Renate Heckele"
+      ],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "The Role of Machine Milking Factors in the Aetiology and Pathogenesis of Mastitis",
+      "authors": [
+        "J. Hamann"
+      ],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "A Note on the Relative Superiority of Automation over Mechanization. Informations from Simulations of Milking Process",
+      "authors": [
+        "M. Mayntz"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Action of the Teatcup and Responses of the Teat to Milking",
+      "authors": [
+        "G.A. Mein"
+      ],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "Machine Milking Research at Moorepark",
+      "authors": [
+        "J. O'Shea",
+        "E. O'Callaghan"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Experimental Studies to Improve Effective Pulsation in Milking Machines",
+      "authors": [
+        "W. Strohmaier",
+        "A. Hermann",
+        "H. Grimm"
+      ],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "On the Determination of the Effect of Stimuli Caused by Purposeful Initiation of Incomplete Alveolar Milk Ejections",
+      "authors": [
+        "G. Wehowsky",
+        "P. Moritz",
+        "F. Tr\u00f6ger",
+        "H. Lohr"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

@@ -1,0 +1,264 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "IX",
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": [
+        "Armin Hegelheimer"
+      ],
+      "printed_page_number": "XII",
+      "skip": true
+    },
+    {
+      "title": "Texte zur Bildungsökonomie",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Kapitel 1: Theoretische Grundlagen der Bildungsökonomie: Bildung als Faktor der sozioökonomischen Entwicklung",
+      "authors": [],
+      "printed_page_number": "3",
+      "skip": true
+    },
+    {
+      "title": "Bildungsökonomie, Bildungspolitik und wirtschaftliche Entwicklung",
+      "authors": [
+        "Gottfried Bombach"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Die ökonomische Potenz der Bildung und die marxistische Werttheorie",
+      "authors": [
+        "Udo Ludwig",
+        "Harry Maier",
+        "Jürgen Wahse"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Qualifikation der Arbeitskraft und Kompliziertheit der Arbeit – Bemerkungen zum Reduktionsproblem",
+      "authors": [
+        "Elmar Altvater"
+      ],
+      "printed_page_number": "54",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 2: Humankapital als Bestandteil des gesellschaftlichen Kapitalstocks: Ansätze zur theoretischen und empirischen Bestimmung des immateriellen Kapitals",
+      "authors": [],
+      "printed_page_number": "104",
+      "skip": true
+    },
+    {
+      "title": "Das langfristige Wachstum des Humankapitals in den Vereinigten Staaten",
+      "authors": [
+        "Theodore W. Schultz"
+      ],
+      "printed_page_number": "104",
+      "skip": false
+    },
+    {
+      "title": "Das immaterielle Kapital: ein relevanter Bestandteil der Wachstumstheorie – Sach- und Humankapitalbildung in der Schweiz",
+      "authors": [
+        "Hans Hösli"
+      ],
+      "printed_page_number": "118",
+      "skip": false
+    },
+    {
+      "title": "Quantitative Beziehungen zwischen materiellem und immateriellem Kapital im Deutschen Reich und in der Bundesrepublik Deutschland",
+      "authors": [
+        "Walter Krug"
+      ],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "Die Entwicklung der Bildungs- und Grundmittelfonds in der DDR",
+      "authors": [
+        "Arnold Knauer",
+        "Harry Maier",
+        "Werner Wolter"
+      ],
+      "printed_page_number": "152",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 3: Bildungsökonomie im Kampf um die Zielbestimmung des Bildungswesens: Bildung zwischen Liberalismus, Sozialismus und Neomarxismus",
+      "authors": [],
+      "printed_page_number": "180",
+      "skip": true
+    },
+    {
+      "title": "Die Rolle des Staates im Erziehungswesen",
+      "authors": [
+        "Milton Friedman"
+      ],
+      "printed_page_number": "180",
+      "skip": false
+    },
+    {
+      "title": "Ausbildungsausgaben und Marktmechanismus",
+      "authors": [
+        "Hartmut Berg"
+      ],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "Aufgaben und Probleme der sozialistischen Bildungsökonomie",
+      "authors": [
+        "Arnold Knauer",
+        "Harry Maier",
+        "Werner Wolter"
+      ],
+      "printed_page_number": "218",
+      "skip": false
+    },
+    {
+      "title": "Die Funktionen des Ausbildungssystems im Spätkapitalismus",
+      "authors": [
+        "Michael Masuch"
+      ],
+      "printed_page_number": "244",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 4: Bildungsökonomie als Planungstheorie: Ansätze und Modelle zur Makro-Planung des Bildungssystems",
+      "authors": [],
+      "printed_page_number": "257",
+      "skip": true
+    },
+    {
+      "title": "Ansätze zur Bildungsplanung",
+      "authors": [
+        "Mark Blaug"
+      ],
+      "printed_page_number": "257",
+      "skip": false
+    },
+    {
+      "title": "Modelle der Bildungsökonomik",
+      "authors": [
+        "Hans-Peter Widmaier",
+        "Bruno Frey"
+      ],
+      "printed_page_number": "297",
+      "skip": false
+    },
+    {
+      "title": "Theorie der Bildungsplanung und Struktur des Bildungswesens",
+      "authors": [
+        "Hajo Riese"
+      ],
+      "printed_page_number": "344",
+      "skip": false
+    },
+    {
+      "title": "Kritik bürgerlicher Theorie der Makro-Planung des Bildungswesens",
+      "authors": [
+        "Freerk Huisken"
+      ],
+      "printed_page_number": "377",
+      "skip": false
+    },
+    {
+      "title": "Zur lang- und mittelfristigen Arbeitskräfte- und Bildungsplanung im Sozialismus",
+      "authors": [
+        "Rolf Naumann",
+        "Bernhard Steinberger"
+      ],
+      "printed_page_number": "415",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 5: Bildungsökonomie und Qualität der Arbeit: Theorien zur Qualifikationsstrukturentwicklung",
+      "authors": [],
+      "printed_page_number": "446",
+      "skip": true
+    },
+    {
+      "title": "Entfremdung, Technologie und Arbeitsqualifikation bei tendenzieller Höherqualifizierung der Gesamtarbeitskraft",
+      "authors": [
+        "Robert Blauner"
+      ],
+      "printed_page_number": "446",
+      "skip": false
+    },
+    {
+      "title": "Umwälzungen in Arbeit, Qualifikation und Bildung bei gesetzmäßiger Höherqualifizierung des Gesamtarbeiters",
+      "authors": [
+        "Radovan Richta",
+        "Kollektiv"
+      ],
+      "printed_page_number": "452",
+      "skip": false
+    },
+    {
+      "title": "Automation und Qualifikationsanforderungen bei tendenzieller Dequalifizierung der Gesamtarbeitskraft",
+      "authors": [
+        "James R. Bright"
+      ],
+      "printed_page_number": "475",
+      "skip": false
+    },
+    {
+      "title": "Technischer Wandel und industrielle Arbeit bei tendenzieller Polarisierung der mittleren Qualifikationen",
+      "authors": [
+        "Horst Kern",
+        "Michael Schumann"
+      ],
+      "printed_page_number": "511",
+      "skip": false
+    },
+    {
+      "title": "Arbeitskraft und Fortschritt bei stetiger Andersqualifikation des Gesamtarbeiters",
+      "authors": [
+        "Franz Jánossy"
+      ],
+      "printed_page_number": "547",
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Bibliographie",
+      "authors": [],
+      "printed_page_number": "578",
+      "skip": true
+    },
+    {
+      "title": "Glossar",
+      "authors": [],
+      "printed_page_number": "580",
+      "skip": true
+    },
+    {
+      "title": "Sachregister",
+      "authors": [],
+      "printed_page_number": "602",
+      "skip": true
+    },
+    {
+      "title": "Personenregister",
+      "authors": [],
+      "printed_page_number": "613",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

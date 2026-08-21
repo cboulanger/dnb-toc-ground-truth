@@ -1,0 +1,242 @@
+{
+  "generated_at": 1787015230.201121,
+  "entries": [
+    {
+      "title": "Contributors",
+      "printed_page_number": "v",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Preface",
+      "printed_page_number": "ix",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "I Introduction",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Global Change",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Herman H. Shugart"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II Biotic Responses to Global Environmental Change",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2. Biospheric Implications of Global Environmental Change",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [
+        "Allen M. Solomon",
+        "Wolfgang P. Cramer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. CO\u2082 Fertilization: The Great Uncertainty in Future Vegetation Development",
+      "printed_page_number": "53",
+      "source_page_index": -1,
+      "authors": [
+        "Christian K\u00f6rner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Leaf Responses to the Environment and Extrapolation to Larger Scales",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "F.I. Woodward"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. The Prediction and Physiological Significance of Tree Height",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [
+        "A.D. Friend"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Uncertainties in the Terrestrial Carbon Cycle",
+      "printed_page_number": "116",
+      "source_page_index": -1,
+      "authors": [
+        "W.M. Post"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. Coupling of the Atmosphere with Vegetation",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [
+        "Philippe Martin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III Measuring Global Vegetation Change",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "8. Monitoring Vegetation Change Using Satellite Data",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [
+        "B.N. Rock",
+        "D.L. Skole",
+        "B.J. Choudhury"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9. Global Geographic Information Systems and Databases for Vegetation Change Studies",
+      "printed_page_number": "168",
+      "source_page_index": -1,
+      "authors": [
+        "David L. Skole",
+        "Berrien Moore III",
+        "Walter H. Chomentowski"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10. Assessing Impacts of Climate Change on Vegetation Using Climate Classification Systems",
+      "printed_page_number": "190",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang P. Cramer",
+        "Rik Leemans"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11. Vegetation Diversity and Classification Systems",
+      "printed_page_number": "218",
+      "source_page_index": -1,
+      "authors": [
+        "G. Grabherr",
+        "S. Kojima"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IV Modeling Global Vegetation Change",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "12. Modeling Large-Scale Vegetation Dynamics",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [
+        "I. Colin Prentice",
+        "Robert A. Monsrud",
+        "Thomas M. Smith",
+        "William R. Emanuel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13. Rapid Simulations of Vegetation Stand Dynamics with Mixed Life-Forms",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [
+        "Mark R. Fulton"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14. Plant Functional Types",
+      "printed_page_number": "272",
+      "source_page_index": -1,
+      "authors": [
+        "T.M. Smith",
+        "H.H. Shugart",
+        "F.I. Woodward",
+        "P.J. Burton"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15. Vegetation Functional Classification Systems as Approaches to Predicting and Quantifying Global Vegetation Change",
+      "printed_page_number": "293",
+      "source_page_index": -1,
+      "authors": [
+        "J.P. Grime"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16. Modeling Crop Responses to Environmental Change",
+      "printed_page_number": "306",
+      "source_page_index": -1,
+      "authors": [
+        "Cynthia Rosenzweig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Concluding Comments",
+      "printed_page_number": "323",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "325",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

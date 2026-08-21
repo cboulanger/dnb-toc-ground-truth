@@ -1,0 +1,728 @@
+{
+  "generated_at": 1787237226.663945,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "INHALT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "KLAUS-DIETMAR HENKE",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS-DIETMAR HENKE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1989",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "RICHARD SCHR\u00d6DER",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [
+        "RICHARD SCHR\u00d6DER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Essay: Vor dem Sturm. Die unnormale Normalit\u00e4t der DDR",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "I. Krise und Aufbruch in der Deutschen Demokratischen Republik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "MARION DETJEN",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [
+        "MARION DETJEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Permanente Existenzbedrohung: Abwanderung, Flucht, Ausreise",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "CHRISTOPH BUCHHEIM",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [
+        "CHRISTOPH BUCHHEIM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Defizite der Sozialistischen Zentralverwaltungswirtschaft",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "WERNER PLUMPE",
+      "printed_page_number": "92",
+      "source_page_index": -1,
+      "authors": [
+        "WERNER PLUMPE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die allt\u00e4gliche Selbstzerm\u00fcrbung und der stille Sieg der D-Mark",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "RALF AHRENS",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [
+        "RALF AHRENS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Au\u00dfenwirtschaft in der Schuldenfalle",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "ANDR\u00c9 STEINER",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [
+        "ANDR\u00c9 STEINER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die DDR-Volkswirtschaft am Ende",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "JENS GIESEKE",
+      "printed_page_number": "130",
+      "source_page_index": -1,
+      "authors": [
+        "JENS GIESEKE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00bbSeit Langem angestaute Unzufriedenheit breitester Bev\u00f6lkerungskreise\u00ab \u2013 Das Volk in den Stimmungsberichten des Staatssicherheitsdienstes",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "STEFAN WOLLE",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [
+        "STEFAN WOLLE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Seltsame Nacht. Ein Nachtrag zum Revolutionstagebuch von 1989",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "RALPH JESSEN",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [
+        "RALPH JESSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Massenprotest und zivilgesellschaftliche Selbstorganisation in der B\u00fcrgerbewegung von 1989/90",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "DETLEF POLLACK",
+      "printed_page_number": "178",
+      "source_page_index": -1,
+      "authors": [
+        "DETLEF POLLACK"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00bbWir sind das Volk!\u00ab Sozialstrukturelle und ereignisgeschichtliche Bedingungen des friedlichen Massenprotests",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "MICHAEL RICHTER",
+      "printed_page_number": "198",
+      "source_page_index": -1,
+      "authors": [
+        "MICHAEL RICHTER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Revolution in der Provinz \u2013 Sachsen zum Beispiel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "RAINER ECKERT",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [
+        "RAINER ECKERT"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der 9. Oktober: Tag der Entscheidung in Leipzig",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "MANFRED WILKE",
+      "printed_page_number": "224",
+      "source_page_index": -1,
+      "authors": [
+        "MANFRED WILKE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der 9. November: Fall der Berliner Mauer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "EHRHART NEUBERT",
+      "printed_page_number": "238",
+      "source_page_index": -1,
+      "authors": [
+        "EHRHART NEUBERT"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gesicht und Stimme der Revolution: B\u00e4rbel Bohley",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "CLEMENS VOLLNHALS",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [
+        "CLEMENS VOLLNHALS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00bbNikolai ist Schicksalsstelle, aber nicht die ganze Kirche\u00ab. Die evangelische Kirche im Revolutionsjahr 1989",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "MARC-DIETRICH OHSE",
+      "printed_page_number": "269",
+      "source_page_index": -1,
+      "authors": [
+        "MARC-DIETRICH OHSE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00bbWir sind e i n Volk!\u00ab Die Wende in der \u00bbWende\"",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "WALTER S\u00dcSS",
+      "printed_page_number": "284",
+      "source_page_index": -1,
+      "authors": [
+        "WALTER S\u00dcSS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Untergang der Staatspartei",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "MATTHIAS JUDT",
+      "printed_page_number": "307",
+      "source_page_index": -1,
+      "authors": [
+        "MATTHIAS JUDT"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schalcks KoKo. Mythos und Realit\u00e4t des Bereichs Kommerzielle Koordination",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "FRANCESCA WEIL",
+      "printed_page_number": "316",
+      "source_page_index": -1,
+      "authors": [
+        "FRANCESCA WEIL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Runden Tische",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "SEBASTIAN RICHTER",
+      "printed_page_number": "329",
+      "source_page_index": -1,
+      "authors": [
+        "SEBASTIAN RICHTER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Weg zur freien Volkskammerwahl am 18. M\u00e4rz 1990",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "THOMAS LINDENBERGER",
+      "printed_page_number": "343",
+      "source_page_index": -1,
+      "authors": [
+        "THOMAS LINDENBERGER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der lange Sommer einer kurzen Demokratie: die DDR zwischen \u00bbWende\" und Vereinigung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "GERHARD S\u00c4LTER",
+      "printed_page_number": "353",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD S\u00c4LTER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Verschwinden der Berliner Mauer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "II. Die Reaktion der Bundesrepublik Deutschland und der M\u00e4chte",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "HANNS J\u00dcRGEN K\u00dcSTERS",
+      "printed_page_number": "365",
+      "source_page_index": -1,
+      "authors": [
+        "HANNS J\u00dcRGEN K\u00dcSTERS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Bundesregierung und die Krise der DDR vor dem Mauerfall",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "JENS H\u00dcTTMANN",
+      "printed_page_number": "374",
+      "source_page_index": -1,
+      "authors": [
+        "JENS H\u00dcTTMANN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Medien und Bev\u00f6lkerung in der Bundesrepublik angesichts der DDR-Krise",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "ROGER ENGELMANN",
+      "printed_page_number": "386",
+      "source_page_index": -1,
+      "authors": [
+        "ROGER ENGELMANN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Intellektuellen, die friedliche Revolution und die Debatte um die Vereinigung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "MIKE SCHMEITZNER",
+      "printed_page_number": "402",
+      "source_page_index": -1,
+      "authors": [
+        "MIKE SCHMEITZNER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die SPD und die deutsche Frage 1989/90",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "KARL-RUDOLF KORTE",
+      "printed_page_number": "419",
+      "source_page_index": -1,
+      "authors": [
+        "KARL-RUDOLF KORTE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Deutschlandpolitik der Regierung Kohl seit Herbst 1989",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "ANDR\u00c9 STEINER",
+      "printed_page_number": "441",
+      "source_page_index": -1,
+      "authors": [
+        "ANDR\u00c9 STEINER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Weg zur Wirtschafts- und W\u00e4hrungsunion vom 1. Juli 1990",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "MICHAEL LEMKE",
+      "printed_page_number": "456",
+      "source_page_index": -1,
+      "authors": [
+        "MICHAEL LEMKE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Sowjetunion und die deutsche Einheit. Warum Moskau die DDR aufgab",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "BERND ST\u00d6VER",
+      "printed_page_number": "474",
+      "source_page_index": -1,
+      "authors": [
+        "BERND ST\u00d6VER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00bbEinigerma\u00dfen \u00fcberrascht\u00ab. Die USA und der Einigungsprozess",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "G\u00dcNTHER HEYDEMANN",
+      "printed_page_number": "485",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00dcNTHER HEYDEMANN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gro\u00dfbritanniens Rolle und Politik unter Margaret Thatcher w\u00e4hrend der Wiedervereinigung Deutschlands",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "RAINER HUDEMANN",
+      "printed_page_number": "497",
+      "source_page_index": -1,
+      "authors": [
+        "RAINER HUDEMANN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Von alten Stereotypen zum neuen Europa: Frankreich und die deutsche Vereinigung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "KLAUS ZIEMER",
+      "printed_page_number": "509",
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS ZIEMER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zwischen Misstrauen und Hoffnung: Polen und die deutsche Vereinigung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "REINHARD M\u00dcLLER",
+      "printed_page_number": "525",
+      "source_page_index": -1,
+      "authors": [
+        "REINHARD M\u00dcLLER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Ende des Krieges: der Zwei-plus-vier-Vertrag",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "GERHARD A. RITTER",
+      "printed_page_number": "537",
+      "source_page_index": -1,
+      "authors": [
+        "GERHARD A. RITTER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Kosten der Einheit. Eine Bilanz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "CHARLES S. MAIER",
+      "printed_page_number": "553",
+      "source_page_index": -1,
+      "authors": [
+        "CHARLES S. MAIER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Essay: Die ostdeutsche Revolution",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Anmerkungen",
+      "printed_page_number": "577",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Verzeichnis der verwendeten Literatur",
+      "printed_page_number": "679",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Autoren",
+      "printed_page_number": "715",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

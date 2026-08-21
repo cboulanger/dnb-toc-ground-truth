@@ -1,0 +1,127 @@
+{
+  "entries": [
+    {
+      "title": "Einleitung",
+      "authors": [
+        "Diemut Kucharz",
+        "Katja Mackowiak",
+        "Margarete Dieck",
+        "Alexander Kaertz",
+        "Elisabeth Rathgeb-Schmierer",
+        "Sergio Ziroli"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Theoretischer Hintergrund und aktueller Forschungsstand",
+      "authors": [
+        "Diemut Kucharz",
+        "Katja Mackowiak",
+        "Margarete Dieck",
+        "Alexander Kauertz",
+        "Elisabeth Rathgeb-Schnierer",
+        "Sergio Zioli"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Das Forschungsprojekt PRIMEL: Fragestellung und Methode",
+      "authors": [
+        "Heike Wadepohl",
+        "Katja Mackowiak",
+        "Susanne Bossart",
+        "Ursula Billmeier",
+        "Carine Burkhardt Bossi",
+        "Margarete Dieck",
+        "Katharina Gierl",
+        "Caroline H\u00fcttel",
+        "Martina Jan\u00dfen",
+        "Alexander Kauertz",
+        "Diemut Kucharz",
+        "Catherine Lieger",
+        "Christoph Lindenfelser",
+        "Elisabeth Rathgeb-Schnierer",
+        "Maike Tournier",
+        "Sergio Zioli"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "Die Struktur der teilnehmenden fr\u00fchp\u00e4dagogischen Einrichtungen in der Schweiz und in Deutschland",
+      "authors": [
+        "Carine Burkhardt Bossi",
+        "Catherine Lieger",
+        "Diemut Kucharz"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "Analyse des p\u00e4dagogischen Handelns in der Freispielbegleitung",
+      "authors": [
+        "Maike Tournier",
+        "Heike Wadepohl",
+        "Diemut Kucharz"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "Bewegungsbildung in der fr\u00fchen Kindheit Zur Begleitung und Gestaltung von Bewegungssituationen",
+      "authors": [
+        "Ursula Billmeier",
+        "Sergio Zioli"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "Lernprozessgestaltung in mathematischen Bildungsangeboten",
+      "authors": [
+        "Caroline H\u00fcttel",
+        "Elisabeth Rathgeb-Schnierer"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "Naturwissenschaften im Elementarbereich. Analyse von Angeboten im naturwissenschaftlichen Bildungsbereich",
+      "authors": [
+        "Alexander Kauertz",
+        "Katharina Gierl"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "Analyse der Kompetenzen von p\u00e4dagogischen Fachkr\u00e4ften im Freispiel und in Bildungsangeboten Ausgew\u00e4hlte Ergebnisse zur Triangulation der Daten",
+      "authors": [
+        "Katja Mackowiak",
+        "Heike Wadepohl",
+        "Susanne Bossart"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Gesamtdiskussion",
+      "authors": [
+        "Diemut Kucharz",
+        "Katja Mackowiak"
+      ],
+      "printed_page_number": "205",
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "authors": [],
+      "printed_page_number": "217",
+      "skip": false
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

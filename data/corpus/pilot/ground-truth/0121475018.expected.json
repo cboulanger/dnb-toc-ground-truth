@@ -1,0 +1,187 @@
+{
+  "entries": [
+    {
+      "title": "List of Contributors",
+      "authors": [],
+      "printed_page_number": "v",
+      "skip": true
+    },
+    {
+      "title": "Preface",
+      "authors": [],
+      "printed_page_number": "vii",
+      "skip": true
+    },
+    {
+      "title": "1. Introduction",
+      "authors": [
+        "B. Butterworth"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Part I. The Conversational Setting and Pragmatic Constraints on Production",
+      "authors": [],
+      "printed_page_number": "19",
+      "skip": true
+    },
+    {
+      "title": "2. A Taxonomy for Repeating Action Sequences in Natural Conversation",
+      "authors": [
+        "J. Schenkein"
+      ],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "3. Pragmatic Constraints on Linguistic Production",
+      "authors": [
+        "G. Gazdar"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "4. The Role of Language Production Processes in the Organisation of Behaviour in Face-to-face Interaction",
+      "authors": [
+        "G. W. Beattie"
+      ],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "Part II. Ways of Investigating Psychological Processes",
+      "authors": [],
+      "printed_page_number": "109",
+      "skip": true
+    },
+    {
+      "title": "5. The Production of Sentences, Utterances and Speech Acts: Have Computers Anything to Say?",
+      "authors": [
+        "M. J. Steedman",
+        "P. N. Johnson-Laird"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "6. Psychological Mechanisms of Speech Production as Studied Through the Analysis of Simultaneous Translation",
+      "authors": [
+        "F. Goldman-Eisler"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "7. Evidence from Pauses in Speech",
+      "authors": [
+        "B. Butterworth"
+      ],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "8. Levels of Processing in Sentence Production",
+      "authors": [
+        "M. F. Garrett"
+      ],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "9. Evidence from Aphasia: Isolating the Components of a Production Model",
+      "authors": [
+        "E. M. Saffran",
+        "M. F. Schwartz",
+        "O. S. M. Martin"
+      ],
+      "printed_page_number": "221",
+      "skip": false
+    },
+    {
+      "title": "Part III. Prosody, Phonology and Phonetics",
+      "authors": [],
+      "printed_page_number": "243",
+      "skip": true
+    },
+    {
+      "title": "10. The Production of Prosody",
+      "authors": [
+        "A. Cutler",
+        "S. D. Isard"
+      ],
+      "printed_page_number": "245",
+      "skip": false
+    },
+    {
+      "title": "11. Diachronic Arguments for the Psychological Reality of Abstract Phonology: A Critical review",
+      "authors": [
+        "B. Comrie"
+      ],
+      "printed_page_number": "271",
+      "skip": false
+    },
+    {
+      "title": "12. Syntactic-to-Phonetic Coding",
+      "authors": [
+        "W. E. Cooper"
+      ],
+      "printed_page_number": "297",
+      "skip": false
+    },
+    {
+      "title": "Part IV. Articulatory Process",
+      "authors": [],
+      "printed_page_number": "335",
+      "skip": true
+    },
+    {
+      "title": "13. Phonetic Features and the Physiology of Speech Production",
+      "authors": [
+        "J. S. Perkell"
+      ],
+      "printed_page_number": "337",
+      "skip": false
+    },
+    {
+      "title": "14. Implications for Speech Production of A General Theory of Action",
+      "authors": [
+        "C. A. Fowler",
+        "P. Rubin",
+        "R. E. Remez",
+        "M. T. Turvey"
+      ],
+      "printed_page_number": "373",
+      "skip": false
+    },
+    {
+      "title": "Part V. Summary",
+      "authors": [],
+      "printed_page_number": "421",
+      "skip": true
+    },
+    {
+      "title": "15. Some Constraints on Models of Language Production",
+      "authors": [
+        "B. Butterworth"
+      ],
+      "printed_page_number": "423",
+      "skip": false
+    },
+    {
+      "title": "Author Index",
+      "authors": [],
+      "printed_page_number": "461",
+      "skip": true
+    },
+    {
+      "title": "Subject Index",
+      "authors": [],
+      "printed_page_number": "471",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

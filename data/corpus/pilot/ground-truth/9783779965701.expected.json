@@ -1,0 +1,239 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Danksagung",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": [
+        "Anna Kasten",
+        "Käthe von Bose",
+        "Ute Kalender"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "Feministische Perspektiven – theoretische Anschlüsse an die Soziale Arbeit",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Fokussierte Perspektiven",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Herausforderungen heteronormativitätskritischer Forschung im Kontext Sozialer Arbeit",
+      "authors": [
+        "María do Mar Castro Varela",
+        "Jutta Hartmann"
+      ],
+      "printed_page_number": "26",
+      "skip": false
+    },
+    {
+      "title": "Queere Vulnerabilitäten zwischen Widerstand und Partizipation",
+      "authors": [
+        "Tom Fixemer",
+        "Thomas Nestler"
+      ],
+      "printed_page_number": "42",
+      "skip": false
+    },
+    {
+      "title": "Dekonstruktive feministische Perspektiven auf Soziale Arbeit",
+      "authors": [
+        "Melanie Plößer",
+        "Christiane Micus-Loos"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Talking back: „Wir antworten auf eine Bedrohung\". Zur Notwendigkeit einer postkolonial-feministisch informierten Erziehungswissenschaft und Pädagogik in hegemonialen Verhältnissen",
+      "authors": [
+        "Saman A. Sarabi"
+      ],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "Trans*aktivistische Bewegungen und Soziale Arbeit – Rekonstruktion eines emanzipatorischen Potenzials",
+      "authors": [
+        "Utan Schirmer"
+      ],
+      "printed_page_number": "92",
+      "skip": false
+    },
+    {
+      "title": "Aktuelle Debatten – Anforderungen an die Soziale Arbeit",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Care in der Krise? Intersektionale Perspektiven auf Care-Arbeit",
+      "authors": [
+        "Käthe von Bose"
+      ],
+      "printed_page_number": "118",
+      "skip": false
+    },
+    {
+      "title": "Forschung – Vertrauen – Institution. Möglichkeiten und Grenzen einer feministisch-partizipativen Haltung beim Vertrauensaufbau in Forschungsbeziehungen im institutionellen Kontext",
+      "authors": [
+        "Sabine Tiefenthaler",
+        "Andrea Fleckinger"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Komplexe Verkörperung in digitalen Bildungsräumen. Eine queer-feministische Perspektive",
+      "authors": [
+        "Ute Kalender"
+      ],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "Dis/Kontinuitäten des Zwangs zu heteronormativer Mutterschaft: Repressionsstrategien im „Urteil\" des Verfassungsgerichts über den Schwangerschaftsabbruch in Polen",
+      "authors": [
+        "Anna Kasten"
+      ],
+      "printed_page_number": "170",
+      "skip": false
+    },
+    {
+      "title": "Perspektiven feministischer Digitalisierungsforschung: Querschnittsthemen gesellschaftlicher Transformation im komplexen Zusammenspiel",
+      "authors": [
+        "Susanne Richter"
+      ],
+      "printed_page_number": "188",
+      "skip": false
+    },
+    {
+      "title": "Dis/Kontinuitäten – neue Theoretisierungen in der Sozialen Arbeit",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Post- und dekoloniale Feminismen – das Zusammendenken von Kolonialität, Geschlecht und race",
+      "authors": [
+        "Patricia Baquero Torres"
+      ],
+      "printed_page_number": "206",
+      "skip": false
+    },
+    {
+      "title": "Alltagsstrategien von Alleinerziehenden zwischen Affirmation und Unterlaufen. Eine care-zentrierte Auseinandersetzung mehrdimensionaler Ungleichheitsverhältnisse",
+      "authors": [
+        "Julia Hahmann",
+        "Christine Hunner-Kreisel"
+      ],
+      "printed_page_number": "223",
+      "skip": false
+    },
+    {
+      "title": "Liebe, wie sie dir gefällt …: Polyamorie in der Sozialen Arbeit",
+      "authors": [
+        "Agostino Mazziotta",
+        "Birgit Möller-Kallista"
+      ],
+      "printed_page_number": "242",
+      "skip": false
+    },
+    {
+      "title": "Politisch-strategisch aufgestellt? Zum Umgang (feministischer) Sozialer Arbeit mit der Instrumentalisierung und rassistischen Thematisierung sexualisierter Gewalt – Überlegungen aus sozial- und politikwissenschaftlicher Perspektive",
+      "authors": [
+        "Christiane Leidinger"
+      ],
+      "printed_page_number": "261",
+      "skip": false
+    },
+    {
+      "title": "Scham – eine soziale Emotion: Warum die Sozialität der Scham für eine queer_feministische Soziale Arbeit relevant ist",
+      "authors": [
+        "Alessa Wenzlaff"
+      ],
+      "printed_page_number": "282",
+      "skip": false
+    },
+    {
+      "title": "Kritische Interventionen – Handlungsfelder der Sozialen Arbeit",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Differenzen im Jugendalter weiterdenken. Queer-feministisch-intersektionale Perspektiven auf Jugendforschung, Jugendarbeit und Schulsozialarbeit",
+      "authors": [
+        "Melanie Groß",
+        "Andrea Nachtigall"
+      ],
+      "printed_page_number": "300",
+      "skip": false
+    },
+    {
+      "title": "Pädagogische Professionalität und Rassismus – Erfahrungen und Strategien von Pädagog*innen of Color",
+      "authors": [
+        "Hanna Hoa Anh Mai"
+      ],
+      "printed_page_number": "323",
+      "skip": false
+    },
+    {
+      "title": "Frauenhausarbeit im Wandel – Möglichkeiten und Grenzen feministischer Sozialarbeit am Beispiel des Frauenhauses in Peine",
+      "authors": [
+        "Monika Alamdar-Niemann",
+        "Kathrin Kinateder",
+        "Nicole Reinert"
+      ],
+      "printed_page_number": "339",
+      "skip": false
+    },
+    {
+      "title": "Queer Studies als Perspektive Inklusiver Pädagogik",
+      "authors": [
+        "Sabrina Schramme"
+      ],
+      "printed_page_number": "355",
+      "skip": false
+    },
+    {
+      "title": "Intersektionale Perspektiven Sozialer Arbeit. Konturierung aktueller und zukünftiger Praxen am Beispiel unbegleiteter minderjähriger geflüchteter Mädchen",
+      "authors": [
+        "Kathrin Schulz"
+      ],
+      "printed_page_number": "372",
+      "skip": false
+    },
+    {
+      "title": "Autor*innen",
+      "authors": [],
+      "printed_page_number": "391",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

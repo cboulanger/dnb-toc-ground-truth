@@ -1,0 +1,210 @@
+{
+  "entries": [
+    {
+      "title": "Introduction",
+      "authors": [
+        "Heather Ingman",
+        "Cl\u00edona \u00d3 Gallchoir"
+      ],
+      "printed_page_number": "i",
+      "skip": false
+    },
+    {
+      "title": "Notes on Contributors",
+      "authors": [],
+      "printed_page_number": "vii",
+      "skip": true
+    },
+    {
+      "title": "Writing before 1700",
+      "authors": [
+        "Marie-Louise Coolahan"
+      ],
+      "printed_page_number": "18",
+      "skip": false
+    },
+    {
+      "title": "Eighteenth-Century Writing",
+      "authors": [
+        "Cl\u00edona \u00d3 Gallchoir"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "Writing under the Union, 1800\u20131845",
+      "authors": [
+        "James Kelly"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "Poetry, 1845\u20131891",
+      "authors": [
+        "Matthew Campbell"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Fiction, 1845\u20131900",
+      "authors": [
+        "James H. Murphy"
+      ],
+      "printed_page_number": "96",
+      "skip": false
+    },
+    {
+      "title": "New Woman Writers",
+      "authors": [
+        "Tina O'Toole"
+      ],
+      "printed_page_number": "114",
+      "skip": false
+    },
+    {
+      "title": "Poetry, Drama and Prose, 1891\u20131920",
+      "authors": [
+        "Paige Reynolds"
+      ],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "Writing for Children",
+      "authors": [
+        "Valerie Coghlan"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "Poetry, 1920\u20131970",
+      "authors": [
+        "Lucy Collins"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "Fiction, 1922\u20131960",
+      "authors": [
+        "Gerardine Meaney"
+      ],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "Elizabeth Bowen",
+      "authors": [
+        "Patricia Coughlan"
+      ],
+      "printed_page_number": "204",
+      "skip": false
+    },
+    {
+      "title": "Kate O'Brien",
+      "authors": [
+        "Eibhear Walshe"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "Edna O'Brien",
+      "authors": [
+        "Sin\u00e9ad Mooney"
+      ],
+      "printed_page_number": "244",
+      "skip": false
+    },
+    {
+      "title": "Fiction, 1960\u20131995",
+      "authors": [
+        "Anne Fogarty"
+      ],
+      "printed_page_number": "260",
+      "skip": false
+    },
+    {
+      "title": "The Short Story",
+      "authors": [
+        "Heather Ingman"
+      ],
+      "printed_page_number": "277",
+      "skip": false
+    },
+    {
+      "title": "Poetry, 1970\u2013Present",
+      "authors": [
+        "Patricia Boyle Haberstroh"
+      ],
+      "printed_page_number": "294",
+      "skip": false
+    },
+    {
+      "title": "Women's Traditions in Theatre, 1920\u20132015",
+      "authors": [
+        "Cathy Leeney"
+      ],
+      "printed_page_number": "312",
+      "skip": false
+    },
+    {
+      "title": "Writing in Irish, 1900\u20132013",
+      "authors": [
+        "R\u00edona Nic Cong\u00e1il",
+        "M\u00e1ir\u00edn Nic Eoin"
+      ],
+      "printed_page_number": "334",
+      "skip": false
+    },
+    {
+      "title": "Fiction from Northern Ireland, 1921\u20132015",
+      "authors": [
+        "Caroline Magennis"
+      ],
+      "printed_page_number": "365",
+      "skip": false
+    },
+    {
+      "title": "Life Writing and Personal Testimony, 1970\u2013Present",
+      "authors": [
+        "Anne Mulhall"
+      ],
+      "printed_page_number": "383",
+      "skip": false
+    },
+    {
+      "title": "Diasporic and Transnational Writing, 1950\u2013Present",
+      "authors": [
+        "Ellen McWilliams"
+      ],
+      "printed_page_number": "410",
+      "skip": false
+    },
+    {
+      "title": "Celtic Tiger Fiction",
+      "authors": [
+        "Susan Cahill"
+      ],
+      "printed_page_number": "426",
+      "skip": false
+    },
+    {
+      "title": "Select Bibliography of Secondary Works",
+      "authors": [],
+      "printed_page_number": "445",
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "473",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

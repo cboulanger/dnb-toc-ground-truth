@@ -1,0 +1,947 @@
+{
+  "generated_at": 1787239123.460016,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Preface and Acknowledgments",
+      "printed_page_number": "xi",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Introduction",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Jeffrey K. Olick",
+        "Vered Vinitzky-Seroussi",
+        "Daniel Levy"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part I. Precursors and Classics",
+      "printed_page_number": "63",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "EDMUND BURKE, from Reflections on the Revolution in France",
+      "printed_page_number": "65",
+      "source_page_index": -1,
+      "authors": [
+        "EDMUND BURKE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ALEXIS DE TOCQUEVILLE, from Democracy in America",
+      "printed_page_number": "68",
+      "source_page_index": -1,
+      "authors": [
+        "ALEXIS DE TOCQUEVILLE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "FRIEDRICH NIETZSCHE, from \"On the Uses and Disadvantages of History for Life\"",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [
+        "FRIEDRICH NIETZSCHE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ERNEST RENAN, from \"What Is a Nation?\"",
+      "printed_page_number": "80",
+      "source_page_index": -1,
+      "authors": [
+        "ERNEST RENAN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "SIGMUND FREUD, from Totem and Taboo: Resemblances between the Psychic Lives of Savages and Neurotics and Moses and Monotheism",
+      "printed_page_number": "84",
+      "source_page_index": -1,
+      "authors": [
+        "SIGMUND FREUD"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "KARL MARX, from \"The Eighteenth Brumaire of Louis Bonaparte\"",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "KARL MARX"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "KARL MANNHEIM, from \"The Sociological Problem of Generations\"",
+      "printed_page_number": "92",
+      "source_page_index": -1,
+      "authors": [
+        "KARL MANNHEIM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "WALTER BENJAMIN, from \"The Storyteller\" and \"Theses on the Philosophy of History\"",
+      "printed_page_number": "99",
+      "source_page_index": -1,
+      "authors": [
+        "WALTER BENJAMIN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ERNST GOMBRICH, from Aby Warburg: An Intellectual Biography",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [
+        "ERNST GOMBRICH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "THEODOR W. ADORNO, from \"Val\u00e9ry Proust Museum\" and \"In Memory of Eichendorff\"",
+      "printed_page_number": "110",
+      "source_page_index": -1,
+      "authors": [
+        "THEODOR W. ADORNO"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "LEV VYGOTSKY, from Mind in Society",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [
+        "LEV VYGOTSKY"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "FREDERIC BARTLETT, from Remembering: A Study in Experimental and Social Psychology",
+      "printed_page_number": "116",
+      "source_page_index": -1,
+      "authors": [
+        "FREDERIC BARTLETT"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "CARL BECKER, from \"Everyman His Own Historian\"",
+      "printed_page_number": "122",
+      "source_page_index": -1,
+      "authors": [
+        "CARL BECKER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "GEORGE HERBERT MEAD, from \"The Nature of the Past\"",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [
+        "GEORGE HERBERT MEAD"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "CHARLES HORTON COOLEY, from Social Process",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [
+        "CHARLES HORTON COOLEY"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00c9MILE DURKHEIM, from The Elementary Forms of Religious Life",
+      "printed_page_number": "136",
+      "source_page_index": -1,
+      "authors": [
+        "\u00c9MILE DURKHEIM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MAURICE HALBWACHS, from The Collective Memory",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [
+        "MAURICE HALBWACHS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MARC BLOCH, from \"M\u00e9moire collective, tradition et coutume: \u00c0 propos d'un livre r\u00e9cent\" [\"Collective Memory, Custom, and Tradition: About a Recent Book\"]",
+      "printed_page_number": "150",
+      "source_page_index": -1,
+      "authors": [
+        "MARC BLOCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "CHARLES BLONDEL, from \"Revue critique: M. Halbwachs Les cadres sociaux de la m\u00e9moire\" [\"Critical Review of M. Halbwachs Les cadres sociaux de la m\u00e9moire\"]",
+      "printed_page_number": "156",
+      "source_page_index": -1,
+      "authors": [
+        "CHARLES BLONDEL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ROGER BASTIDE, from The African Religions of Brazil: Toward a Sociology of the Interpenetration of Civilizations",
+      "printed_page_number": "157",
+      "source_page_index": -1,
+      "authors": [
+        "ROGER BASTIDE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "W. LLOYD WARNER, from The Living and the Dead: A Study of the Symbolic Life of Americans",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [
+        "W. LLOYD WARNER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "E. E. EVANS-PRITCHARD, from The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People",
+      "printed_page_number": "168",
+      "source_page_index": -1,
+      "authors": [
+        "E. E. EVANS-PRITCHARD"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "CLAUDE L\u00c9VI-STRAUSS, from The Savage Mind",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [
+        "CLAUDE L\u00c9VI-STRAUSS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part II. History, Memory, and Identity",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "HANS-GEORG GADAMER, from Truth and Method",
+      "printed_page_number": "180",
+      "source_page_index": -1,
+      "authors": [
+        "HANS-GEORG GADAMER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "EDWARD CASEY, from Remembering: A Phenomenological Study",
+      "printed_page_number": "184",
+      "source_page_index": -1,
+      "authors": [
+        "EDWARD CASEY"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PETER BURKE, from \"History as Social Memory\"",
+      "printed_page_number": "188",
+      "source_page_index": -1,
+      "authors": [
+        "PETER BURKE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ALLAN MEGILL, from \"History, Memory, Identity\"",
+      "printed_page_number": "193",
+      "source_page_index": -1,
+      "authors": [
+        "ALLAN MEGILL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ALON CONFINO, from \"Collective Memory and Cultural History: Problems of Method\"",
+      "printed_page_number": "198",
+      "source_page_index": -1,
+      "authors": [
+        "ALON CONFINO"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "YOSEF HAIM YERUSHALMI, from Zakhor: Jewish History and Jewish Memory",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [
+        "YOSEF HAIM YERUSHALMI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JAN ASSMANN, from Moses the Egyptian: The Memory of Egypt in Western Monotheism and \"Collective Memory and Cultural Identity\"",
+      "printed_page_number": "209",
+      "source_page_index": -1,
+      "authors": [
+        "JAN ASSMANN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PETER BERGER, from Invitation to Sociology: A Humanistic Approach",
+      "printed_page_number": "216",
+      "source_page_index": -1,
+      "authors": [
+        "PETER BERGER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "EVIATAR ZERUBAVEL, from \"Social Memories: Steps towards a Sociology of the Past\"",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [
+        "EVIATAR ZERUBAVEL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JEFFREY K. OLICK, from \"Collective Memory: The Two Cultures\"",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [
+        "JEFFREY K. OLICK"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ROBERT BELLAH, RICHARD MADSEN, WILLIAM M. SULLIVAN, ANN SWIDLER, and STEVEN M. TIPTON, from Habits of the Heart: Individualism and Commitment in American Life",
+      "printed_page_number": "229",
+      "source_page_index": -1,
+      "authors": [
+        "ROBERT BELLAH",
+        "RICHARD MADSEN",
+        "WILLIAM M. SULLIVAN",
+        "ANN SWIDLER",
+        "STEVEN M. TIPTON"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ANTHONY SMITH, from The Ethnic Origins of Nations",
+      "printed_page_number": "231",
+      "source_page_index": -1,
+      "authors": [
+        "ANTHONY SMITH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Yael Zerubavel, from Recovered Roots: Collective Memory and the Making of Israeli National Tradition",
+      "printed_page_number": "237",
+      "source_page_index": -1,
+      "authors": [
+        "Yael Zerubavel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part III. Power, Politics, and Contestation",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "MICHEL FOUCAULT, from \"Film in Popular Memory: An Interview with Michel Foucault\"",
+      "printed_page_number": "252",
+      "source_page_index": -1,
+      "authors": [
+        "MICHEL FOUCAULT"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "POPULAR MEMORY GROUP, from \"Popular Memory: Theory, Politics, Method\"",
+      "printed_page_number": "254",
+      "source_page_index": -1,
+      "authors": [
+        "POPULAR MEMORY GROUP"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "RAPHAEL SAMUEL, from Theatres of Memory",
+      "printed_page_number": "261",
+      "source_page_index": -1,
+      "authors": [
+        "RAPHAEL SAMUEL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JOHN BODNAR, from Remaking America: Public Memory, Commemoration and Patriotism in the Twentieth Century",
+      "printed_page_number": "265",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN BODNAR"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ROY ROSENZWEIG and DAVID THELEN, from The Presence of the Past: Popular Uses of History in American Life",
+      "printed_page_number": "269",
+      "source_page_index": -1,
+      "authors": [
+        "ROY ROSENZWEIG",
+        "DAVID THELEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ERIC HOBSBAWM, from \"Introduction: Inventing Traditions\"",
+      "printed_page_number": "271",
+      "source_page_index": -1,
+      "authors": [
+        "ERIC HOBSBAWM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "TERENCE RANGER, from \"The Invention of Tradition Revisited: The Case of Colonial Africa\"",
+      "printed_page_number": "275",
+      "source_page_index": -1,
+      "authors": [
+        "TERENCE RANGER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ORLANDO PATTERTON, from Slavery and Social Death: A Comparative Study",
+      "printed_page_number": "279",
+      "source_page_index": -1,
+      "authors": [
+        "ORLANDO PATTERTON"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "RICHARD SENNETT, from \"Disturbing Memories\"",
+      "printed_page_number": "283",
+      "source_page_index": -1,
+      "authors": [
+        "RICHARD SENNETT"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MICHAEL SCHUDSON, from \"The Past in the Present versus the Present in the Past\"",
+      "printed_page_number": "287",
+      "source_page_index": -1,
+      "authors": [
+        "MICHAEL SCHUDSON"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "GLADYS LANG and KURT LANG, from \"Recognition and Renown: The Survival of Artistic Reputation\"",
+      "printed_page_number": "291",
+      "source_page_index": -1,
+      "authors": [
+        "GLADYS LANG",
+        "KURT LANG"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "LORI DUCHARME and GARY ALAN FINE, from \"The Construction of Nonpersonhood and Demonization: Commemorating the 'Traitorous' Reputation of Benedict Arnold\"",
+      "printed_page_number": "296",
+      "source_page_index": -1,
+      "authors": [
+        "LORI DUCHARME",
+        "GARY ALAN FINE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "WULF KANSTEINER, from \"Finding Meaning in Memory: A Methodological Critique of Collective Memory Studies\"",
+      "printed_page_number": "300",
+      "source_page_index": -1,
+      "authors": [
+        "WULF KANSTEINER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "RON EYERMAN, from \"The Past in the Present: Culture and the Transmission of Memory\"",
+      "printed_page_number": "304",
+      "source_page_index": -1,
+      "authors": [
+        "RON EYERMAN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JEFFREY ALEXANDER, from \"Toward a Cultural Theory of Trauma\"",
+      "printed_page_number": "307",
+      "source_page_index": -1,
+      "authors": [
+        "JEFFREY ALEXANDER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part IV. Media and Modes of Transmission",
+      "printed_page_number": "311",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "ANDR\u00c9 LEROI-GOURHAN, from Gesture and Speech",
+      "printed_page_number": "314",
+      "source_page_index": -1,
+      "authors": [
+        "ANDR\u00c9 LEROI-GOURHAN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JACK GOODY, from \"Memory in Oral and Literate Traditions\"",
+      "printed_page_number": "321",
+      "source_page_index": -1,
+      "authors": [
+        "JACK GOODY"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MERLIN DONALD, from Origins of the Modern Mind: Three Stages in the Evolution of Culture and Cognition",
+      "printed_page_number": "325",
+      "source_page_index": -1,
+      "authors": [
+        "MERLIN DONALD"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ALEIDA ASSMANN, from \"Canon and Archive\"",
+      "printed_page_number": "334",
+      "source_page_index": -1,
+      "authors": [
+        "ALEIDA ASSMANN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PAUL CONNERTON, from How Societies Remember",
+      "printed_page_number": "338",
+      "source_page_index": -1,
+      "authors": [
+        "PAUL CONNERTON"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HARALD WELZER, SABINE MOLLER, KAROLINE TSCHUGGNALL, OLAF JENSEN, and TORSTEN KOCH, from \"Opa war kein Nazi:\" Nationalsozialismus und Holocaust im Familienged\u00e4chtnis [Grandpa Wasn't a Nazi: National Socialism and Holocaust in Family Memory]",
+      "printed_page_number": "343",
+      "source_page_index": -1,
+      "authors": [
+        "HARALD WELZER",
+        "SABINE MOLLER",
+        "KAROLINE TSCHUGGNALL",
+        "OLAF JENSEN",
+        "TORSTEN KOCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MARIANNE HIRSCH, from \"The Generation of Postmemory\"",
+      "printed_page_number": "346",
+      "source_page_index": -1,
+      "authors": [
+        "MARIANNE HIRSCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JOHN B. THOMPSON, from \"Tradition and Self in a Mediated World\"",
+      "printed_page_number": "348",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN B. THOMPSON"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "GEORGE LIPSITZ, from Time Passages: Collective Memory and American Popular Culture",
+      "printed_page_number": "352",
+      "source_page_index": -1,
+      "authors": [
+        "GEORGE LIPSITZ"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "BARBIE ZELIZER, from \"Why Memory's Work on Journalism Does Not Reflect Journalism's Work on Memory\"",
+      "printed_page_number": "358",
+      "source_page_index": -1,
+      "authors": [
+        "BARBIE ZELIZER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "DANIEL DAYAN and ELIHU KATZ, from Media Events: The Live Broadcasting of History",
+      "printed_page_number": "361",
+      "source_page_index": -1,
+      "authors": [
+        "DANIEL DAYAN",
+        "ELIHU KATZ"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "REINHART KOSELLECK, from \"War Memorials: Identity Formations of the Survivors\"",
+      "printed_page_number": "365",
+      "source_page_index": -1,
+      "authors": [
+        "REINHART KOSELLECK"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JAMES E. YOUNG, from At Memory's Edge: After-Images of the Holocaust in Contemporary Art and Architecture",
+      "printed_page_number": "371",
+      "source_page_index": -1,
+      "authors": [
+        "JAMES E. YOUNG"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VERED VINITZKY-SEROUSSI, from \"Commemorating a Difficult Past: Yitzhak Rabin's Memorials\"",
+      "printed_page_number": "375",
+      "source_page_index": -1,
+      "authors": [
+        "VERED VINITZKY-SEROUSSI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "M. CHRISTINE BOYER, from The City of Collective Memory: Its Historical Imagery and Architectural Entertainments",
+      "printed_page_number": "378",
+      "source_page_index": -1,
+      "authors": [
+        "M. CHRISTINE BOYER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "DANI\u00c8LE HERVIEU-L\u00c9GER, from Religion as a Chain of Memory",
+      "printed_page_number": "382",
+      "source_page_index": -1,
+      "authors": [
+        "DANI\u00c8LE HERVIEU-L\u00c9GER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HARALD WEINRICH, from Lethe: The Art and Critique of Forgetting",
+      "printed_page_number": "388",
+      "source_page_index": -1,
+      "authors": [
+        "HARALD WEINRICH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ROBIN WAGNER-PACIFICI, from \"Memories in the Making: The Shapes of Things That Went\"",
+      "printed_page_number": "394",
+      "source_page_index": -1,
+      "authors": [
+        "ROBIN WAGNER-PACIFICI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part V. Memory, Justice, and the Contemporary Epoch",
+      "printed_page_number": "399",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "EDWARD SHILS, from Tradition",
+      "printed_page_number": "402",
+      "source_page_index": -1,
+      "authors": [
+        "EDWARD SHILS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IAN HACKING, from \"Memory Sciences, Memory Politics\"",
+      "printed_page_number": "407",
+      "source_page_index": -1,
+      "authors": [
+        "IAN HACKING"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PATRICK HUTTON, from History as an Art of Memory",
+      "printed_page_number": "411",
+      "source_page_index": -1,
+      "authors": [
+        "PATRICK HUTTON"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ANTHONY GIDDENS, from \"Living in a Post-Traditional Society\"",
+      "printed_page_number": "416",
+      "source_page_index": -1,
+      "authors": [
+        "ANTHONY GIDDENS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "DAVID GROSS, from Lost Time: On Remembering and Forgetting in Late Modern Culture",
+      "printed_page_number": "420",
+      "source_page_index": -1,
+      "authors": [
+        "DAVID GROSS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JAY WINTER, from Remembering War: The Great War between Memory and History in the Twentieth Century",
+      "printed_page_number": "426",
+      "source_page_index": -1,
+      "authors": [
+        "JAY WINTER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ANDREAS HUYSSSEN, from \"Present Pasts: Media, Politics, Amnesia\"",
+      "printed_page_number": "430",
+      "source_page_index": -1,
+      "authors": [
+        "ANDREAS HUYSSSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PIERRE NORA, from \"Reasons for the Current Upsurge in Memory\"",
+      "printed_page_number": "437",
+      "source_page_index": -1,
+      "authors": [
+        "PIERRE NORA"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "CHARLES MAIER, from \"A Surfeit of Memory? Reflections on History, Melancholy, and Denial\"",
+      "printed_page_number": "442",
+      "source_page_index": -1,
+      "authors": [
+        "CHARLES MAIER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "FRED DAVIS, from Yearning for Yesterday: A Sociology of Nostalgia",
+      "printed_page_number": "446",
+      "source_page_index": -1,
+      "authors": [
+        "FRED DAVIS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "SVETLANA BOYM, from \"Nostalgia and Its Discontents\"",
+      "printed_page_number": "452",
+      "source_page_index": -1,
+      "authors": [
+        "SVETLANA BOYM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MICHEL-ROLPH TROUILLOT, from \"Abortive Rituals: Historical Apologies in the Global Era\"",
+      "printed_page_number": "458",
+      "source_page_index": -1,
+      "authors": [
+        "MICHEL-ROLPH TROUILLOT"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "DANIEL LEVY and NATAN SZNAIDER, from \"Memory Unbound: The Holocaust and the Formation of Cosmopolitan Memory\"",
+      "printed_page_number": "465",
+      "source_page_index": -1,
+      "authors": [
+        "DANIEL LEVY",
+        "NATAN SZNAIDER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MARK OSIEN, from Mass Atrocity, Collective Memory, and the Law",
+      "printed_page_number": "468",
+      "source_page_index": -1,
+      "authors": [
+        "MARK OSIEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "AVISHAI MARGALIT, from The Ethics of Memory",
+      "printed_page_number": "471",
+      "source_page_index": -1,
+      "authors": [
+        "AVISHAI MARGALIT"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MARC AUG\u00c9, from Oblivion",
+      "printed_page_number": "473",
+      "source_page_index": -1,
+      "authors": [
+        "MARC AUG\u00c9"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PAUL RICOEUR, from \"Memory\u2014History\u2014Forgetting\"",
+      "printed_page_number": "475",
+      "source_page_index": -1,
+      "authors": [
+        "PAUL RICOEUR"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "481",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

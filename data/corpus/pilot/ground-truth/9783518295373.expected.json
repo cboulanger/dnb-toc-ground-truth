@@ -1,0 +1,214 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Sammeln",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Porträtsammlung und Bilderverbot. Hans Blumenberg (1920–1996)",
+      "authors": [
+        "Felix Heidenreich"
+      ],
+      "printed_page_number": "10",
+      "skip": false
+    },
+    {
+      "title": "Die doppelte Epistemologie des Historismus. Carl Justi (1832–1912)",
+      "authors": [
+        "Johannes Rößler"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "Streuen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Begriffliches Denken — verkörpertes Sehen. Edgar Wind (1900–1971)",
+      "authors": [
+        "Pablo Schneider"
+      ],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "Vorbilder und Nachbilder. Friedrich Gundolf (1880–1931)",
+      "authors": [
+        "Michael Thimann"
+      ],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "Projizieren",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Im Bilde. Heinrich Wölfflin (1864–1945)",
+      "authors": [
+        "Gabriele Wimböck"
+      ],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "Bilderpolitik. Michel Foucault (1926–1984)",
+      "authors": [
+        "Ulrich Johannes Schneider"
+      ],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "Argumentieren",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Souveränes Kleingeld. Ernst Kantorowicz (1895–1963)",
+      "authors": [
+        "Jost Philipp Klenner"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "Der katholische Beobachter. Carl Schmitt (1888–1985)",
+      "authors": [
+        "Wolfgang Pircher"
+      ],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "Fotografieren",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Fotos für alle. André Malraux (1901–1976)",
+      "authors": [
+        "Claudia Bahmer"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Diagramm und Fotografie als Praxis des Visuellen. Pierre Bourdieu (1930–2002)",
+      "authors": [
+        "Holger Brohm"
+      ],
+      "printed_page_number": "197",
+      "skip": false
+    },
+    {
+      "title": "Analysieren",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Das Numinose. Hans Sedlmayr (1896–1984)",
+      "authors": [
+        "Jörg Probst"
+      ],
+      "printed_page_number": "219",
+      "skip": false
+    },
+    {
+      "title": "Wivenhoe Park. Ernst H. Gombrich (1909–2001)",
+      "authors": [
+        "Klaus Lepsky"
+      ],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "Beschreiben",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Möglichkeiten der Konfiguration. Roland Barthes (1915–1980)",
+      "authors": [
+        "Tom Holert"
+      ],
+      "printed_page_number": "266",
+      "skip": false
+    },
+    {
+      "title": "Zeichnen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Kritzeln als abstrakter Expressionismus. Gilles Deleuze (1925–1995)",
+      "authors": [
+        "Christian Driesen"
+      ],
+      "printed_page_number": "291",
+      "skip": false
+    },
+    {
+      "title": "Genetisches Zeichnen. Henri Focillon (1881–1943)",
+      "authors": [
+        "Jörg Probst"
+      ],
+      "printed_page_number": "314",
+      "skip": false
+    },
+    {
+      "title": "Fernsehen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "TV. Paul Feyerabend (1924–1994)",
+      "authors": [
+        "Michael Glasmeier"
+      ],
+      "printed_page_number": "338",
+      "skip": false
+    },
+    {
+      "title": "Magie der Technik. Aby M. Warburg (1866–1929)",
+      "authors": [
+        "Thomas Hensel"
+      ],
+      "printed_page_number": "360",
+      "skip": false
+    },
+    {
+      "title": "Hinweise zu den Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "383",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

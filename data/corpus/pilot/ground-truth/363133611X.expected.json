@@ -1,0 +1,169 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": true
+    },
+    {
+      "title": "I Einführung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Sangeslust und Singediktatur im nationalsozialistischen Deutschland",
+      "authors": [
+        "Gottfried Niedhart"
+      ],
+      "printed_page_number": "5",
+      "skip": false
+    },
+    {
+      "title": "II Übergänge und Abgrenzungen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Das \"gestohlene\" Lied. Adaptionen vom Liedgut der Arbeiterbewegung in NS-Liedern",
+      "authors": [
+        "Reinhard Dithmar"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Bündische Lieder in der Hitler-Jugend",
+      "authors": [
+        "Karin Stoverock"
+      ],
+      "printed_page_number": "35",
+      "skip": false
+    },
+    {
+      "title": "III SA und Reichsarbeitsdienst",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Das Kampflied der SA",
+      "authors": [
+        "George Broderick",
+        "Andrea Klein"
+      ],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "Liedpflege im Reichsarbeitsdienst: Programm und Realität",
+      "authors": [
+        "Manfred Seifert"
+      ],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "IV Kindersingen und Schulfeier",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Kinderlied und Kindersingen in der NS-Zeit",
+      "authors": [
+        "Günther Noll"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "Die Schulfeier und ihre Rolle im Erziehungssystem des Dritten Reichs",
+      "authors": [
+        "Sebastian Spratte"
+      ],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "V Bund Deutscher Mädel und Frauenbild",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "BDM-Identität zwischen Kampflied und Wiegenlied. Eine Betrachtung des Repertoires im BDM-Liederbuch \"Wir Mädel singen\"",
+      "authors": [
+        "Anna-Christine Brade"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "\"An unseren Liedern soll man uns erkennen\". Das nationalsozialistische Frauenbild im Spiegel von NS-Frauenliederbüchern",
+      "authors": [
+        "Erika Funk-Hennigs"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "VI Jungvolk und Hitler-Jugend",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Lieder und Singepraxis im Deutschen Jungvolk",
+      "authors": [
+        "Ulrich Günther"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "Das politische Lied als Bestandteil der Musikerziehung im NS-Staat",
+      "authors": [
+        "Wendelin Müller-Blattau"
+      ],
+      "printed_page_number": "209",
+      "skip": false
+    },
+    {
+      "title": "VII Oppositionelles Singen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Lieder des \"Politischen Katholizismus\" im Dritten Reich",
+      "authors": [
+        "Wilhelm Schepping"
+      ],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "Die Autoren",
+      "authors": [],
+      "printed_page_number": "279",
+      "skip": true
+    },
+    {
+      "title": "Register",
+      "authors": [],
+      "printed_page_number": "281",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

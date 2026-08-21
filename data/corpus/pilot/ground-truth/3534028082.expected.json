@@ -1,0 +1,217 @@
+{
+  "entries": [
+    {
+      "title": "INHALT",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [
+        "Heinz Rupp"
+      ],
+      "printed_page_number": "IX",
+      "skip": true
+    },
+    {
+      "title": "A. Nibelungenlied",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Nibelungenlied und höfischer Roman (1950)",
+      "authors": [
+        "Bodo Mergell"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Über die Formkunst des Dichters unseres Nibelungenlieds (1963)",
+      "authors": [
+        "Friedrich Maurer"
+      ],
+      "printed_page_number": "40",
+      "skip": false
+    },
+    {
+      "title": "Zum Aufbau des Nibelungenlieds und des Kudrunlieds (1954)",
+      "authors": [
+        "Jean Fourquet"
+      ],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "Zum sänglichen Vortrag mhd. strophischer Epen (1956/57)",
+      "authors": [
+        "Karl H. Bertau",
+        "Rudolf Stephan"
+      ],
+      "printed_page_number": "70",
+      "skip": false
+    },
+    {
+      "title": "Der Sinn des Nibelungenlieds (1960)",
+      "authors": [
+        "J. K. Bostock"
+      ],
+      "printed_page_number": "84",
+      "skip": false
+    },
+    {
+      "title": "Über den Erzähler im Nibelungenlied und seine künstlerische Funktion (1960)",
+      "authors": [
+        "Hansjürgen Linke"
+      ],
+      "printed_page_number": "110",
+      "skip": false
+    },
+    {
+      "title": "Rüdigers Schild. Zur 37. Aventiure des ›Nibelungenliedes‹ (1960)",
+      "authors": [
+        "Peter Wapnewski"
+      ],
+      "printed_page_number": "134",
+      "skip": false
+    },
+    {
+      "title": "Zur Interpretation des Nibelungenlieds (1961)",
+      "authors": [
+        "D. G. Mowatt"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Über Ironie und Symbolismus im Nibelungenlied. Zwei vorläufige Studien (1960/61)",
+      "authors": [
+        "Hugh Sacker"
+      ],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "Der Sinn des Nibelungenlieds — eine Entgegnung (1962)",
+      "authors": [
+        "K. C. King"
+      ],
+      "printed_page_number": "218",
+      "skip": false
+    },
+    {
+      "title": "Ordo und inordinatio im Nibelungenlied (1963)",
+      "authors": [
+        "H. Bernhard Willson"
+      ],
+      "printed_page_number": "237",
+      "skip": false
+    },
+    {
+      "title": "Betrachtungen über das Nibelungenlied (1965)",
+      "authors": [
+        "Jean Fourquet"
+      ],
+      "printed_page_number": "293",
+      "skip": false
+    },
+    {
+      "title": "Verhalten und Ansehen im Nibelungenlied (1965)",
+      "authors": [
+        "Kenneth J. Northcott"
+      ],
+      "printed_page_number": "311",
+      "skip": false
+    },
+    {
+      "title": "Das Nibelungenlied. Strukturelle Beobachtungen und Zeitgeschichte (1965)",
+      "authors": [
+        "Josef Szövérffy"
+      ],
+      "printed_page_number": "322",
+      "skip": false
+    },
+    {
+      "title": "Der Teufel im Nibelungenlied. Zu Gunthers und Kriemhilds Tod (1965)",
+      "authors": [
+        "Hans Kuhn"
+      ],
+      "printed_page_number": "333",
+      "skip": false
+    },
+    {
+      "title": "Widersprüche im Nibelungenlied (1954)",
+      "authors": [
+        "Bert Nagel"
+      ],
+      "printed_page_number": "367",
+      "skip": false
+    },
+    {
+      "title": "B. Kudrun",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Das Kudrunlied. Nach einem Vortrag (1963)",
+      "authors": [
+        "Ludwig Wolff"
+      ],
+      "printed_page_number": "435",
+      "skip": false
+    },
+    {
+      "title": "Die Rache als Motiv und Problem in der ›Kudrun‹. Interpretation und sagengeschichtlicher Ausblick (1956/66)",
+      "authors": [
+        "Adolf Beck"
+      ],
+      "printed_page_number": "454",
+      "skip": false
+    },
+    {
+      "title": "Kudrun (1969)",
+      "authors": [
+        "Hugo Kuhn"
+      ],
+      "printed_page_number": "502",
+      "skip": false
+    },
+    {
+      "title": "Zum Aufbau des Kudrun-Epos (1962)",
+      "authors": [
+        "Renate Janzen"
+      ],
+      "printed_page_number": "515",
+      "skip": false
+    },
+    {
+      "title": "Zur Hilde- und Kudrundichtung (1964)",
+      "authors": [
+        "Bruno Boesch"
+      ],
+      "printed_page_number": "542",
+      "skip": false
+    },
+    {
+      "title": "Aus der Einleitung der Kudrun-Ausgabe (1965)",
+      "authors": [
+        "Karl Stackmann"
+      ],
+      "printed_page_number": "561",
+      "skip": false
+    },
+    {
+      "title": "Die ›Kudrun‹: Eine Antwort auf das Nibelungenlied (1970)",
+      "authors": [
+        "Werner Hoffmann"
+      ],
+      "printed_page_number": "599",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

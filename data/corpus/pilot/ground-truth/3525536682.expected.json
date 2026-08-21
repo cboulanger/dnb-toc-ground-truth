@@ -1,0 +1,74 @@
+{
+  "entries": [
+    {
+      "title": "EINFUEHRUNG",
+      "authors": [
+        "Fritz Stolz"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "DIE ZEUGUNG DES SOHNES Bild, Spiel, Erzählung und das Problem des ägyptischen Mythos",
+      "authors": [
+        "Jan Assmann"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen",
+      "authors": [],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "authors": [],
+      "printed_page_number": "58",
+      "skip": false
+    },
+    {
+      "title": "LITERARISCHE TEXTE UND FUNKTIONALER MYTHOS ISTAR UND ATHRAHASIS",
+      "authors": [
+        "Walter Burkert"
+      ],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen",
+      "authors": [],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "authors": [],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "FUNKTIONEN UND BEDEUTUNGSBEREICHE DES UGARITISCHEN BA'ALSMYTHOS",
+      "authors": [
+        "Fritz Stolz"
+      ],
+      "printed_page_number": "83",
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen",
+      "authors": [],
+      "printed_page_number": "106",
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "authors": [],
+      "printed_page_number": "115",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

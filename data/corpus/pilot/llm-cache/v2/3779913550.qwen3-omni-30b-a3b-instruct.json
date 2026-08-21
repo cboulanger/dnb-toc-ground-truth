@@ -1,0 +1,339 @@
+{
+  "generated_at": 1787015876.170527,
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Teil I: Lesen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Norbert Groeben (I.1)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Groeben"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einleitung: Funktionen des Lesens \u2013 Normen der Gesellschaft",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Groeben"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christoph Klimmt & Peter Vorderer (I.2)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Christoph Klimmt",
+        "Peter Vorderer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Unterhaltung als unmittelbare Funktion des Lesens",
+      "printed_page_number": "36",
+      "source_page_index": -1,
+      "authors": [
+        "Christoph Klimmt",
+        "Peter Vorderer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ursula Christmann (I.3)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ursula Christmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Information als unmittelbare Funktion des Lesens",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Ursula Christmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gerhard Rupp, Petra Heyer & Helge Bonholt (I.4)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard Rupp",
+        "Petra Heyer",
+        "Helge Bonholt"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Folgefunktionen des Lesens \u2013 Von der Fantasie-Entwicklung zum Verst\u00e4ndnis des sozialen Wandels",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard Rupp",
+        "Petra Heyer",
+        "Helge Bonholt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil II: Sozialisation",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Norbert Groeben (II.1)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Groeben"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "(Lese-)Sozialisation als Ko-Konstruktion \u2013 Methodisch-methodologische Problem-(L\u00f6sungs-)Perspektiven",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Groeben"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bettina Hurrelmann (II.2)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Bettina Hurrelmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Informelle Sozialisationsinstanz Familie",
+      "printed_page_number": "169",
+      "source_page_index": -1,
+      "authors": [
+        "Bettina Hurrelmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Joachim Fritzsche (II.3)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Fritzsche"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Formelle Sozialisationsinstanz Schule",
+      "printed_page_number": "202",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Fritzsche"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Cornelia Rosebrock (II.4)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Cornelia Rosebrock"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Informelle Sozialisationsinstanz peer group",
+      "printed_page_number": "250",
+      "source_page_index": -1,
+      "authors": [
+        "Cornelia Rosebrock"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bettina Hurrelmann (II.5)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Bettina Hurrelmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bildungsnormen als Sozialisationsinstanz",
+      "printed_page_number": "280",
+      "source_page_index": -1,
+      "authors": [
+        "Bettina Hurrelmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Norbert Groeben & Sascha Schroeder (II.6)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Groeben",
+        "Sascha Schroeder"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Versuch einer Synopse: Sozialisationsinstanzen \u2013 Ko-Konstruktion",
+      "printed_page_number": "306",
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Groeben",
+        "Sascha Schroeder"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil III: Mediengesellschaft",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "G\u00fcnther Rager & Petra Werner (III.1)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnther Rager",
+        "Petra Werner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Entwicklung und Struktur der Mediengesellschaft",
+      "printed_page_number": "351",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnther Rager",
+        "Petra Werner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Marco Ennemoser & Wolfgang Schneider (III.2)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Marco Ennemoser",
+        "Wolfgang Schneider"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Entwicklung von Lesekompetenz \u2013 Hemmende Einfl\u00fcsse des medialen Umfeldes",
+      "printed_page_number": "375",
+      "source_page_index": -1,
+      "authors": [
+        "Marco Ennemoser",
+        "Wolfgang Schneider"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Margrit Schreier (III.3)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Margrit Schreier"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Entwicklung von Lesekompetenz \u2013 F\u00f6rdernde Einfl\u00fcsse des medialen Umfeldes",
+      "printed_page_number": "402",
+      "source_page_index": -1,
+      "authors": [
+        "Margrit Schreier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Norbert Groeben & Bettina Hurrelmann (III.4)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Groeben",
+        "Bettina Hurrelmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Fazit: Lesen als Schl\u00fcsselqualifikation?",
+      "printed_page_number": "440",
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Groeben",
+        "Bettina Hurrelmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "printed_page_number": "467",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

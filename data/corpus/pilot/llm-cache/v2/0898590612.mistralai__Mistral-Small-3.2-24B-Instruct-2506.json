@@ -1,0 +1,313 @@
+{
+  "generated_at": 1787243586.623395,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Preface",
+      "printed_page_number": "ix",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "PART I Issues",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Problems in Environmental Analyses\u2014An Introduction",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "David Magnusson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Wanted: A Psychology of Situations",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "David Magnusson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART II Actual Environments and Situations",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "3. Environmental Assessment and Situational Analysis",
+      "printed_page_number": "37",
+      "source_page_index": -1,
+      "authors": [
+        "Kenneth H. Craik"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Situation and Generalization in Two Behavioral Domains",
+      "printed_page_number": "49",
+      "source_page_index": -1,
+      "authors": [
+        "Donald W. Fiske"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. The Experimental Study of the Basic Features of Situations",
+      "printed_page_number": "63",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Argyle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Studying Situational Dimensions: A Grand Perspective and Some Limited Empiricism",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "Jack Block",
+        "Jeanne H. Block"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. Risky Situations",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [
+        "Richard H. Price"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8. Perceptions of and Reactions to Work Situations: Some Implications of an Action Control Approach",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [
+        "Winfried Hacker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9. Environment and Response",
+      "printed_page_number": "135",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00f6sta Carlsson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART III Perceived Situations and Environments",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "10. On Meanings of Situations and Social Control of Such Meaning in Human Communication",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [
+        "Ragnar Rommetveit"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11. The Psychological Situation in Social-Learning Theory",
+      "printed_page_number": "169",
+      "source_page_index": -1,
+      "authors": [
+        "Julian B. Rotter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12. Knowing More Than We Can Say Leads to Saying More Than We Can Know: On Being Implicitly Informed",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [
+        "Kenneth S. Bowers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13. The Importance of Cognition and Moderator Variables in Stress",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [
+        "Irwin G. Sarason",
+        "Barbara R. Sarason"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14. Structure of Situation and Action: Some Remarks on Formal Theory of Action",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [
+        "Maria Nowakowska"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15. Perceptions of Situations: Situation Prototypes and Person-Situation Prototypes",
+      "printed_page_number": "229",
+      "source_page_index": -1,
+      "authors": [
+        "Nancy Cantor"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16. Assessing Situations by Assessing Persons",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [
+        "Daryl J. Bem"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "17. Life Situations and Episodes as a Basis for Situational Influence on Action",
+      "printed_page_number": "259",
+      "source_page_index": -1,
+      "authors": [
+        "Lennart Sj\u00f6berg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "18. Psychological Climate: Theoretical Perspectives and Empirical Research",
+      "printed_page_number": "275",
+      "source_page_index": -1,
+      "authors": [
+        "Lawrence R. James",
+        "S. B. Sells"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "19. The Perceived Environment in Psychological Theory and Research",
+      "printed_page_number": "297",
+      "source_page_index": -1,
+      "authors": [
+        "Richard Jessor"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART IV Person-Environment Interactions",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "20. The Role of Situations in Early Psychological Development",
+      "printed_page_number": "323",
+      "source_page_index": -1,
+      "authors": [
+        "J. McVicker Hunt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "21. The Relation of Situations to Behavior",
+      "printed_page_number": "343",
+      "source_page_index": -1,
+      "authors": [
+        "Lawrence A. Pervin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "22. Situational Aspects of Interactional Psychology",
+      "printed_page_number": "361",
+      "source_page_index": -1,
+      "authors": [
+        "Norman S. Endler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "23. A Model for Studying the Interaction Between the Objective Situation and a Person\u2019s Construction of the Situation",
+      "printed_page_number": "375",
+      "source_page_index": -1,
+      "authors": [
+        "Lars Nystedt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "24. Group \u00d7 Place Transactions: Some Neglected Issues in Psychological Research on Settings",
+      "printed_page_number": "393",
+      "source_page_index": -1,
+      "authors": [
+        "Daniel Stokols"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "References",
+      "printed_page_number": "417",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Author Index",
+      "printed_page_number": "451",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Subject Index",
+      "printed_page_number": "461",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

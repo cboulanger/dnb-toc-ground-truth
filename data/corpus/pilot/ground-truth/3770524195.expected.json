@@ -1,0 +1,121 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort der Herausgeber",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": [
+        "Hartmut Stenzel",
+        "Heinz Thoma"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "André Chénier: Vierge au visage blanc, la jeune poésie",
+      "authors": [
+        "Michel Delon"
+      ],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "Alphonse de Lamartine: Le poète mourant",
+      "authors": [
+        "José-Louis Diaz"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "Victor Hugo: A Alphonse Rabbe, mort le 31 décembre 1829",
+      "authors": [
+        "Hartmut Stenzel"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Théophile Gautier: Dans la Sierra",
+      "authors": [
+        "Thomas Bremer"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "Leconte de Lisle: Les Éléphants",
+      "authors": [
+        "Edgar Pich"
+      ],
+      "printed_page_number": "110",
+      "skip": false
+    },
+    {
+      "title": "Gérard de Nerval: El Desdichado",
+      "authors": [
+        "Dietmar Rieger"
+      ],
+      "printed_page_number": "126",
+      "skip": false
+    },
+    {
+      "title": "Charles Baudelaire: Le Cygne",
+      "authors": [
+        "Dolf Oehler"
+      ],
+      "printed_page_number": "148",
+      "skip": false
+    },
+    {
+      "title": "Victor Hugo: A qui la faute?",
+      "authors": [
+        "Karlheinrich Biermann"
+      ],
+      "printed_page_number": "166",
+      "skip": false
+    },
+    {
+      "title": "Eugène Pottier: L'Internationale",
+      "authors": [
+        "Heinz Thoma"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "Arthur Rimbaud: Après le déluge",
+      "authors": [
+        "Hermann H. Wetzel"
+      ],
+      "printed_page_number": "200",
+      "skip": false
+    },
+    {
+      "title": "Stéphane Mallarmé: A la nue accablante tu",
+      "authors": [
+        "Claude Abastado"
+      ],
+      "printed_page_number": "219",
+      "skip": false
+    },
+    {
+      "title": "Biobibliographische Notizen",
+      "authors": [],
+      "printed_page_number": "235",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

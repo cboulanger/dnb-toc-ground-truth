@@ -1,0 +1,550 @@
+{
+  "generated_at": 1787014842.971508,
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "I. Grundlagen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. \u00d6ffentliche Verwaltung im vereinigten Deutschland",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus K\u00f6nig",
+        "Speyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Geschichte der \u00f6ffentlichen Verwaltung",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Ellwein",
+        "Konstanz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Verfassungsr\u00e4umen der \u00f6ffentlichen Verwaltung",
+      "printed_page_number": "55",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Badura",
+        "M\u00fcnchen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Verwaltung im gesellschaftlichen und \u00f6konomischen Umfeld",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [
+        "Carl B\u00f6hret/G\u00f6tz Konzendorf",
+        "Speyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Verwaltungsreformen",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Seibel",
+        "Konstanz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. Aufbau",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Staatsaufbau und Verwaltungsterritorien",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [
+        "Frido Wagerer",
+        "Willi Bl\u00fcmel",
+        "Speyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Aufbau der Bundesverwaltung",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [
+        "Volker Busse",
+        "Bonn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Aufbau der Landesverwaltung",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Frank",
+        "Karlsruhe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Verflechtung der Verwaltungsebenen",
+      "printed_page_number": "165",
+      "source_page_index": -1,
+      "authors": [
+        "Arthur Benz",
+        "Halle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Innenaufbau der Verwaltungsbeh\u00f6rden",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [
+        "Horst M\u00fcller",
+        "Bayreuth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. Verselbst\u00e4ndigung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Verfassung der kommunalen Selbstverwaltung",
+      "printed_page_number": "203",
+      "source_page_index": -1,
+      "authors": [
+        "Franz-Ludwig Knemeyer",
+        "W\u00fcrzburg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Verwaltung der gro\u00dfen St\u00e4dte",
+      "printed_page_number": "217",
+      "source_page_index": -1,
+      "authors": [
+        "Jochen Dieckmann",
+        "K\u00f6ln"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Verwaltung des l\u00e4ndlichen Raumes",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter Seele",
+        "Bonn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Selbstverwaltung au\u00dferhalb der Kommunalverwaltung, insbesondere: Selbstverwaltung in der Sozialversicherung",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [
+        "Dieter Schimanke",
+        "Magdeburg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Verwaltung zwischen staatlichem und privatem Sektor",
+      "printed_page_number": "269",
+      "source_page_index": -1,
+      "authors": [
+        "Gunnar Folke Schuppert",
+        "Berlin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Die \u00f6ffentlichen Unternehmen Deutschlands",
+      "printed_page_number": "285",
+      "source_page_index": -1,
+      "authors": [
+        "Achim von Loesch",
+        "Frankfurt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IV. Aufgaben",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Aufgaben und Aufgabenverteilung",
+      "printed_page_number": "303",
+      "source_page_index": -1,
+      "authors": [
+        "Werner Thieme",
+        "Hamburg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. \u00d6ffentliche Dienstleistungen",
+      "printed_page_number": "325",
+      "source_page_index": -1,
+      "authors": [
+        "Dieter Grunow",
+        "Duisburg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Aufgabenentwicklung und Aufgabenkritik",
+      "printed_page_number": "343",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Peter Bull",
+        "Hamburg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "V. Steuerung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Gesetzes- und Rechtsbindung der Verwaltung",
+      "printed_page_number": "359",
+      "source_page_index": -1,
+      "authors": [
+        "Eberhard Schmidt-Abmann",
+        "Heidelberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Planung in Regierung und Verwaltung",
+      "printed_page_number": "377",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus-Eckart Gebauer",
+        "Mainz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. R\u00e4umliche Planung",
+      "printed_page_number": "395",
+      "source_page_index": -1,
+      "authors": [
+        "Gottfried Schmitz",
+        "Mannheim"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Haushalts- und Finanzplanung",
+      "printed_page_number": "417",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus L\u00fcder",
+        "Speyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VI. Entscheidung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Entscheidungen in der \u00f6ffentlichen Verwaltung",
+      "printed_page_number": "435",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Becker",
+        "Neubiberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Verfahren der Verwaltungsentscheidung",
+      "printed_page_number": "459",
+      "source_page_index": -1,
+      "authors": [
+        "Karl-Peter Sommermann",
+        "Speyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Entscheidungshilfen und Datenverarbeitung",
+      "printed_page_number": "477",
+      "source_page_index": -1,
+      "authors": [
+        "Heinrich Reinermann",
+        "Speyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VII. Personal",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Die Gliederung des \u00f6ffentlichen Dienstes",
+      "printed_page_number": "501",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Lecheler",
+        "Berlin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Die Situation des \u00f6ffentlichen Dienstes",
+      "printed_page_number": "517",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Klages",
+        "Speyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. F\u00fchrungspositionen in der Verwaltung",
+      "printed_page_number": "539",
+      "source_page_index": -1,
+      "authors": [
+        "Franz Kroppenstedt/Kai-Uwe Menz",
+        "Bonn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Personalwirtschaft",
+      "printed_page_number": "559",
+      "source_page_index": -1,
+      "authors": [
+        "Gottfried Herbig",
+        "Bonn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Aus- und Fortbildung f\u00fcr den \u00f6ffentlichen Dienst",
+      "printed_page_number": "577",
+      "source_page_index": -1,
+      "authors": [
+        "Christoph Hauschild",
+        "Bonn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VIII. Leitung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Leitungsorganisation der Verwaltung",
+      "printed_page_number": "597",
+      "source_page_index": -1,
+      "authors": [
+        "Manfred K\u00f6nig",
+        "Stuttgart"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Personalf\u00fchrung in der Verwaltung",
+      "printed_page_number": "615",
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf Fisch",
+        "Speyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Neue Ans\u00e4tze der F\u00fchrung und Leitung",
+      "printed_page_number": "641",
+      "source_page_index": -1,
+      "authors": [
+        "Christoph Reichard",
+        "Berlin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IX. Kontrolle",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Netzwerk der Verwaltungskontrolle",
+      "printed_page_number": "663",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter P\u00fcttnner",
+        "T\u00fcbingen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Kontrolle der Verwaltung durch Verwaltungsgerichte",
+      "printed_page_number": "675",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Joachim von Oertzen/Christoph Hauschild",
+        "Bonn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Verwaltungskontrolle durch Rechnungsh\u00f6fe",
+      "printed_page_number": "695",
+      "source_page_index": -1,
+      "authors": [
+        "Hedda Czasche",
+        "Frankfurt/M."
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "X. Internationalit\u00e4t",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Die Internationalit\u00e4t der \u00f6ffentlichen Verwaltung",
+      "printed_page_number": "711",
+      "source_page_index": -1,
+      "authors": [
+        "Heinrich Siedentopf",
+        "Speyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Die deutsche Verwaltung in der Europ\u00e4ischen Union",
+      "printed_page_number": "731",
+      "source_page_index": -1,
+      "authors": [
+        "Georg Ress/J\u00f6rg Ukrow",
+        "Saarbr\u00fccken"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Verwaltungszusammenarbeit in der Entwicklungspolitik",
+      "printed_page_number": "751",
+      "source_page_index": -1,
+      "authors": [
+        "Franz Thedieck",
+        "Berlin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "XI. Autorenbiographien",
+      "printed_page_number": "769",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "XII. Schlagwortverzeichnis",
+      "printed_page_number": "787",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

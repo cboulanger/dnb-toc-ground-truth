@@ -1,0 +1,184 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einführung: Meinungs- und Einstellungsänderung",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Ein Feldexperiment zum Vergleich von Wahlergebnissen nach „emotionaler\" und „rationaler\" Propaganda",
+      "authors": [
+        "George W. Hartmann"
+      ],
+      "printed_page_number": "14",
+      "skip": false
+    },
+    {
+      "title": "Langzeiteffekte zweier Tageszeitungen auf politische Einstellungen der Leser",
+      "authors": [
+        "Ulrike Boden",
+        "Jürgen Bortz",
+        "Paul Braune",
+        "Joachim Franke"
+      ],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "Erzeugen von Angst und die Validität von Fragebogen: ein Feldexperiment",
+      "authors": [
+        "Howard Leventhal",
+        "Patricia Niles"
+      ],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "Meinungsänderung als Funktion der Ähnlichkeit zwischen Kommunikator und Rezipient",
+      "authors": [
+        "Timothy C. Brock"
+      ],
+      "printed_page_number": "72",
+      "skip": false
+    },
+    {
+      "title": "Beleidigung als Ursache von Bumerang-Effekten bei Meinungsänderungen",
+      "authors": [
+        "Robert P. Abelson",
+        "James C. Miller"
+      ],
+      "printed_page_number": "80",
+      "skip": false
+    },
+    {
+      "title": "Einstellungswandel als Funktion von Mitgliedsgruppen und Bezugsgruppen",
+      "authors": [
+        "Alberta E. Siegel",
+        "Sidney Siegel"
+      ],
+      "printed_page_number": "92",
+      "skip": false
+    },
+    {
+      "title": "Einführung: Soziale Induktion und soziale Beeinflussung",
+      "authors": [],
+      "printed_page_number": "101",
+      "skip": true
+    },
+    {
+      "title": "Sozialer Status und die Übertretung von Verkehrsvorschriften",
+      "authors": [
+        "Monroe Lefkowitz",
+        "Robert R. Blake",
+        "Jane S. Mouton"
+      ],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "Eine experimentelle Untersuchung über die Rollenbeziehung zwischen Krankenschwester und Arzt",
+      "authors": [
+        "Charles K. Hofling",
+        "Eveline Brotzman",
+        "Sarah Dalrymple",
+        "Nancy Graves",
+        "Chester M. Pierce"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "Situativer Kontext und soziale Beeinflussung",
+      "authors": [
+        "Robert N. Vidulich",
+        "Donna J. Wilson"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "Anpassung an situative und personspezifische Faktoren bei einer Unterschriftensammlung",
+      "authors": [
+        "Harry Helson",
+        "Robert R. Blake",
+        "Jane S. Mouton"
+      ],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "Konsequenzen eingeschränkter Entscheidungsfreiheit am Beispiel des Kaufverhaltens",
+      "authors": [
+        "Judith W. Regan",
+        "Jack W. Brehm"
+      ],
+      "printed_page_number": "140",
+      "skip": false
+    },
+    {
+      "title": "Reaktionen auf ein Angebot zu bedingungsloser Kooperation",
+      "authors": [
+        "J. William Dorris"
+      ],
+      "printed_page_number": "150",
+      "skip": false
+    },
+    {
+      "title": "Einführung: Verhalten in Gruppen und Organisationen",
+      "authors": [],
+      "printed_page_number": "163",
+      "skip": true
+    },
+    {
+      "title": "Experimentelle Untersuchungen zum Verhalten in Gruppen",
+      "authors": [
+        "Muzafer Sherif",
+        "Carolyn W. Sherif"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "Bedrohung, Gruppenkohäsion und Bedürfnis nach starker Führung: ein Laborexperiment in natürlicher Umgebung",
+      "authors": [
+        "Mauk Mulder",
+        "Ad Stemerding"
+      ],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "Widerstände gegen Neuerungen und ihre Überwindung",
+      "authors": [
+        "Lester Coch",
+        "John R. P. French, Jr."
+      ],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "Experimentelle Variation einer bedeutsamen Einflußgröße in Organisationen",
+      "authors": [
+        "Nancy C. Morse",
+        "Everett Reimer"
+      ],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "253",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

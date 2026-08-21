@@ -1,0 +1,179 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort (August Obermayer)",
+      "authors": [
+        "August Obermayer"
+      ],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Einleitung (Nora Hoffmann/Natalia Shchyhlevska)",
+      "authors": [
+        "Nora Hoffmann",
+        "Natalia Shchyhlevska"
+      ],
+      "printed_page_number": "15",
+      "skip": true
+    },
+    {
+      "title": "1. Stilbezogene Analysen der deutschen Originaltexte",
+      "authors": [],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "1.1. Joseph Roth zum Stil und zum Stil Joseph Roths. Ein doppelter \u00dcberblick (Nora Hoffmann)",
+      "authors": [
+        "Nora Hoffmann"
+      ],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "1.2. Stil und Stilisierung bei Joseph Roth (Achim K\u00fcpper)",
+      "authors": [
+        "Achim K\u00fcpper"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "1.3. Biblische Spuren im Stil Joseph Roths (Natalia Shchyhlevska)",
+      "authors": [
+        "Natalia Shchyhlevska"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "1.4. Phraseologische Modifikationen als Darstellungsmittel in Romanen von Joseph Roth (Nadija Tymostchuk)",
+      "authors": [
+        "Nadija Tymostchuk"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "1.5. Momentaufnahmen: Joseph Roths \u203adokumentarische Komik\u2039 (Erica Weitzman)",
+      "authors": [
+        "Erica Weitzman"
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "1.6. Ironie in Joseph Roths Radetzkymarsch (Katharina Kr\u010dal)",
+      "authors": [
+        "Katharina Kr\u010dal"
+      ],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "2. Stilbezogene Analysen der \u00dcbersetzungen",
+      "authors": [],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "2.1. Kann man den Erz\u00e4hler \u00fcbersetzen? \u00dcberlegungen zu Joseph Roths Roman Das falsche Gewicht (Vera Vieh\u00f6ver)",
+      "authors": [
+        "Vera Vieh\u00f6ver"
+      ],
+      "printed_page_number": "151",
+      "skip": false
+    },
+    {
+      "title": "2.2. Joseph Roth in englischer \u00dcbersetzung: \u00dcberlegungen zu Romanschl\u00fcssen und Reportage (Helen Chambers)",
+      "authors": [
+        "Helen Chambers"
+      ],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "2.3. Vergleichende Analyse von Romananf\u00e4ngen Joseph Roths und ihren englischen \u00dcbersetzungen (Ulrike Stange)",
+      "authors": [
+        "Ulrike Stange"
+      ],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "2.4. Joseph Roth: Stilmittel im Hiob \u2013 Ein Vergleich zwischen dem deutschen Original und seiner japanischen \u00dcbersetzung (Marion Grein)",
+      "authors": [
+        "Marion Grein"
+      ],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "3. Stilbezogene Erfahrungsberichte der \u00dcbersetzer/innen",
+      "authors": [],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "3.1. Nachruf Wilfred Oranje (Elly Schippers)",
+      "authors": [
+        "Elly Schippers"
+      ],
+      "printed_page_number": "237",
+      "skip": false
+    },
+    {
+      "title": "3.2. \u00bbDead was Deborah\u00ab: Die Vertrautheit des Fremden (Ross Benjamin)",
+      "authors": [
+        "Ross Benjamin"
+      ],
+      "printed_page_number": "239",
+      "skip": false
+    },
+    {
+      "title": "3.3. Aufzeichnungen an den R\u00e4ndern einiger ukrainischer Roth-\u00dcbersetzungen (Jurko Prochasko)",
+      "authors": [
+        "Jurko Prochasko"
+      ],
+      "printed_page_number": "251",
+      "skip": false
+    },
+    {
+      "title": "3.4. Joseph Roth als Geschenk (Berta Vias)",
+      "authors": [
+        "Berta Vias"
+      ],
+      "printed_page_number": "255",
+      "skip": false
+    },
+    {
+      "title": "Epilog (Fritz Hackert)",
+      "authors": [
+        "Fritz Hackert"
+      ],
+      "printed_page_number": "261",
+      "skip": true
+    },
+    {
+      "title": "Beitragende",
+      "authors": [],
+      "printed_page_number": "265",
+      "skip": true
+    },
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Bibliografische Informationen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

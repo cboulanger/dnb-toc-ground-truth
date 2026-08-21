@@ -1,0 +1,392 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "XI",
+      "skip": true
+    },
+    {
+      "title": "Auf Umwegen zurück zur Heimat. Gert Ueding über Otto Flake: Hortense oder Die Rückkehr nach Baden-Baden (1933)",
+      "authors": [
+        "Gert Ueding"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Höhere Stimmigkeit. Eckhard Heftrich über Thomas Mann: Die Geschichten Jaakobs (1933)",
+      "authors": [
+        "Eckhard Heftrich"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Ein Genozid, der offiziell nie stattgefunden hat. Hans Christoph Buch über Franz Werfel: Die vierzig Tage des Musa Dagh (1933)",
+      "authors": [
+        "Hans Christoph Buch"
+      ],
+      "printed_page_number": "18",
+      "skip": false
+    },
+    {
+      "title": "Der Haifisch schluckt eine Ladenkette. Walter Hinck über Bertolt Brecht: Dreigroschenroman (1934)",
+      "authors": [
+        "Walter Hinck"
+      ],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "Jeder Hoffnung bar. Reinhard Baumgart über Wolfgang Koeppen: Eine unglückliche Liebe (1934)",
+      "authors": [
+        "Reinhard Baumgart"
+      ],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "Ein Ritter des Absurden. Rainer Gruenter über Alexander Lernet-Holenia: Die Standarte (1934)",
+      "authors": [
+        "Rainer Gruenter"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "Das große Abendrot. Werner Ross über Ernst Wiechert: Die Majorin (1934)",
+      "authors": [
+        "Werner Ross"
+      ],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "Gegen den Hitler in uns selbst. Benno von Wiese über Werner Bergengruen: Der Großtyrann und das Gericht (1935)",
+      "authors": [
+        "Benno von Wiese"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Der gestiefelte Parzival. Wolfgang Leppmann über Arnold Zweig: Erziehung vor Verdun (1935)",
+      "authors": [
+        "Wolfgang Leppmann"
+      ],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "Humanist unter Waffen. Helmut Koopmann über Stefan Zweig: Triumph und Tragik des Erasmus von Rotterdam (1935)",
+      "authors": [
+        "Helmut Koopmann"
+      ],
+      "printed_page_number": "76",
+      "skip": false
+    },
+    {
+      "title": "Kopflos in die Unterwelt. Siegfried Lenz über Elias Canetti: Die Blendung (1935)",
+      "authors": [
+        "Siegfried Lenz"
+      ],
+      "printed_page_number": "83",
+      "skip": false
+    },
+    {
+      "title": "Licht aus dem Rachen der Schlange. Horst Krüger über Hans Carossa: Geheimnisse des reifen Lebens (1936)",
+      "authors": [
+        "Horst Krüger"
+      ],
+      "printed_page_number": "90",
+      "skip": false
+    },
+    {
+      "title": "Das Morsche hinter den Fassaden. Peter von Matt über Friedrich Glauser: Wachtmeister Studer (1936)",
+      "authors": [
+        "Peter von Matt"
+      ],
+      "printed_page_number": "98",
+      "skip": false
+    },
+    {
+      "title": "Behagen im Unglück. Reinhard Baumgart über Thomas Mann: Joseph in Ägypten (1936)",
+      "authors": [
+        "Reinhard Baumgart"
+      ],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "Hausbuch der Deutschen. Werner Fuld über Heinrich Spoerl: Der Maulkorb (1936)",
+      "authors": [
+        "Werner Fuld"
+      ],
+      "printed_page_number": "114",
+      "skip": false
+    },
+    {
+      "title": "Im brodelnden Vulkan. Walter Hinck über Hans Fallada: Wolf unter Wölfen (1937)",
+      "authors": [
+        "Walter Hinck"
+      ],
+      "printed_page_number": "120",
+      "skip": false
+    },
+    {
+      "title": "Hymnus auf einen Schmerzensreichen. Manfred Bieler über Jochen Klepper: Der Vater (1937)",
+      "authors": [
+        "Manfred Bieler"
+      ],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "Im Schatten der Katastrophe. Siegfried Lenz über Horst Lange: Schwarze Weide (1937)",
+      "authors": [
+        "Siegfried Lenz"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Ein Plädoyer für die Vernunft. Helmuth Nürnberger über Ludwig Winder: Der Thronfolger (1937)",
+      "authors": [
+        "Helmuth Nürnberger"
+      ],
+      "printed_page_number": "142",
+      "skip": false
+    },
+    {
+      "title": "Das Chaos hinter der Fassade. Günter Blöcker über Heimito von Doderer: Ein Mord den jeder begeht (1938)",
+      "authors": [
+        "Günter Blöcker"
+      ],
+      "printed_page_number": "154",
+      "skip": false
+    },
+    {
+      "title": "Außer Spesen nichts gewesen?. Adolf Muschg über Meinrad Inglin: Schweizerspiegel (1938)",
+      "authors": [
+        "Adolf Muschg"
+      ],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "Das deutsche Inwendige. Eckhard Heftrich über Kurt Kluge: Der Herr Kortüm (1938)",
+      "authors": [
+        "Eckhard Heftrich"
+      ],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "Der Sieg des guten Königs. Helmut Koopmann über Heinrich Mann: Die Jugend des Königs Henri Quatre (1935) und Die Vollendung des Königs Henri Quatre (1938)",
+      "authors": [
+        "Helmut Koopmann"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Finis Austriae. Eckhard Heftrich über Joseph Roth: Die Kapuzinergruft (1938)",
+      "authors": [
+        "Eckhard Heftrich"
+      ],
+      "printed_page_number": "186",
+      "skip": false
+    },
+    {
+      "title": "Vater der Indios. Gert Ueding über Reinhold Schneider: Las Casas vor Karl V. (1938)",
+      "authors": [
+        "Gert Ueding"
+      ],
+      "printed_page_number": "192",
+      "skip": false
+    },
+    {
+      "title": "Eine Muse konnte nicht schweigen. Dolf Sternberger über Ernst Jünger: Auf den Marmorklippen (1939)",
+      "authors": [
+        "Dolf Sternberger"
+      ],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "Die Herausforderung der Hitlerei. Rolf Schneider über Klaus Mann: Der Vulkan (1939)",
+      "authors": [
+        "Rolf Schneider"
+      ],
+      "printed_page_number": "208",
+      "skip": false
+    },
+    {
+      "title": "Eine Fata Morgana deutscher Kultur. Reinhard Baumgart über Thomas Mann: Lotte in Weimar (1939)",
+      "authors": [
+        "Reinhard Baumgart"
+      ],
+      "printed_page_number": "215",
+      "skip": false
+    },
+    {
+      "title": "Totentanz und Tingeltangel. Reinhard Baumgart über Joseph Roth: Die Geschichte von der 1002. Nacht (1939)",
+      "authors": [
+        "Reinhard Baumgart"
+      ],
+      "printed_page_number": "224",
+      "skip": false
+    },
+    {
+      "title": "Göttlich-teuflische Welt. Eckart Kleßmann über Franz Werfel: Der veruntreute Himmel (1939)",
+      "authors": [
+        "Eckart Kleßmann"
+      ],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "Ein Denkmal deutscher Innerlichkeit. Horst Krüger über Ernst Wiechert: Das einfache Leben (1939)",
+      "authors": [
+        "Horst Krüger"
+      ],
+      "printed_page_number": "238",
+      "skip": false
+    },
+    {
+      "title": "Heidnisches Urgestein. Hermann Kurzke über Werner Bergengruen: Am Himmel wie auf Erden (1940)",
+      "authors": [
+        "Hermann Kurzke"
+      ],
+      "printed_page_number": "246",
+      "skip": false
+    },
+    {
+      "title": "Emigrantenschicksal, melodramatisch. Gert Ueding über Lion Feuchtwanger: Exil (1940)",
+      "authors": [
+        "Gert Ueding"
+      ],
+      "printed_page_number": "251",
+      "skip": false
+    },
+    {
+      "title": "Die Blindheit Adolf Hitlers. Rolf Schneider über Ernst Weiß: Der Augenzeuge (1940)",
+      "authors": [
+        "Rolf Schneider"
+      ],
+      "printed_page_number": "264",
+      "skip": false
+    },
+    {
+      "title": "Die Bitterkeit der gläsernen Menschen. Siegfried Lenz über Paul Kornfeld: Blanche oder Das Atelier im Garten (1942)",
+      "authors": [
+        "Siegfried Lenz"
+      ],
+      "printed_page_number": "271",
+      "skip": false
+    },
+    {
+      "title": "Nicht gedacht soll ihrer werden?. Marcel Reich-Ranicki über Anna Seghers: Das siebte Kreuz (1942)",
+      "authors": [
+        "Marcel Reich-Ranicki"
+      ],
+      "printed_page_number": "277",
+      "skip": false
+    },
+    {
+      "title": "Stillers jüngerer Bruder. Hermann Burger über Max Frisch: J'adore ce qui me brûle oder Die Schwierigen (1943)",
+      "authors": [
+        "Hermann Burger"
+      ],
+      "printed_page_number": "288",
+      "skip": false
+    },
+    {
+      "title": "Zauberpferd am Rande des Abgrunds. Renate Schostack über Hermann Hesse: Das Glasperlenspiel (1943)",
+      "authors": [
+        "Renate Schostack"
+      ],
+      "printed_page_number": "295",
+      "skip": false
+    },
+    {
+      "title": "Das lebenslängliche Schreibexperiment. Eckhard Heftrich über Robert Musil: Der Mann ohne Eigenschaften (1943)",
+      "authors": [
+        "Eckhard Heftrich"
+      ],
+      "printed_page_number": "304",
+      "skip": false
+    },
+    {
+      "title": "Faust mit Wünschelrute. Michael Schneider über Arnold Zweig: Das Beil von Wandsbek (1943)",
+      "authors": [
+        "Michael Schneider"
+      ],
+      "printed_page_number": "312",
+      "skip": false
+    },
+    {
+      "title": "Ein Zeichen aus der Tiefe. Peter von Matt über Anna Seghers: Transit (1944)",
+      "authors": [
+        "Peter von Matt"
+      ],
+      "printed_page_number": "322",
+      "skip": false
+    },
+    {
+      "title": "Wie aus der Theaterloge. Günter Kunert über Theodor Plievier: Stalingrad (1945)",
+      "authors": [
+        "Günter Kunert"
+      ],
+      "printed_page_number": "329",
+      "skip": false
+    },
+    {
+      "title": "Die mythische Erbschaft der Dichtung. Walter Hinderer über Hermann Broch: Der Tod des Vergil (1945)",
+      "authors": [
+        "Walter Hinderer"
+      ],
+      "printed_page_number": "335",
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Alphabetisches Verzeichnis der Romanautoren mit Lebensdaten",
+      "authors": [],
+      "printed_page_number": "344",
+      "skip": true
+    },
+    {
+      "title": "Bibliographie",
+      "authors": [],
+      "printed_page_number": "347",
+      "skip": true
+    },
+    {
+      "title": "Biographische Notizen zu den Interpreten",
+      "authors": [],
+      "printed_page_number": "351",
+      "skip": true
+    },
+    {
+      "title": "Die behandelten Romane sind nach den Erst-Erscheinungsdaten geordnet, bei den postum erschienenen Büchern nach dem Todesjahr des Autors.",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

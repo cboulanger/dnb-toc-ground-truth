@@ -1,0 +1,205 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "I Einleitung",
+      "authors": [
+        "Andreas Kost",
+        "Peter Massing",
+        "Marion Reiser"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "II Ideengeschichtliche Grundlagen der Demokratie",
+      "authors": [
+        "Bernd Ladwig"
+      ],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "III Kernbegriffe und theoretische Grundlagen der Demokratie",
+      "authors": [
+        "Franziska Martinsen"
+      ],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "IV Typen moderner Demokratie",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Demokratische und nicht-demokratische Herrschaftsformen",
+      "authors": [
+        "Frank Decker"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Direkte und repräsentative Demokratie",
+      "authors": [
+        "Andreas Kost"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Konsens- und Mehrheitsdemokratie",
+      "authors": [
+        "Marcel Solar"
+      ],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "Parlamentarische, präsidentielle und semipräsidentielle Regierungsformen",
+      "authors": [
+        "Frank Decker"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "V Das Demokratiemodell der Bundesrepublik Deutschland",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Historische Grundlagen",
+      "authors": [
+        "Everhard Holtmann"
+      ],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "Grundlegende Prinzipien",
+      "authors": [
+        "Everhard Holtmann"
+      ],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "Das Institutionengefüge des bundesdeutschen Regierungssystems",
+      "authors": [
+        "Ray Hebestreit",
+        "Karl-Rudolf Korte"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Interessen- und Politikvermittlung in der Demokratie: Zur Rolle von politischen Parteien und anderen intermediären Organisationen",
+      "authors": [
+        "Uwe Jun"
+      ],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "Entscheidungsprozesse im Demokratiemodell",
+      "authors": [
+        "Helmar Schöne"
+      ],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "Die Europäisierung der deutschen Demokratie",
+      "authors": [
+        "Emanuel Richter"
+      ],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "Lokale und regionale Demokratie im deutschen Mehrebenensystem",
+      "authors": [
+        "Marion Reiser"
+      ],
+      "printed_page_number": "221",
+      "skip": false
+    },
+    {
+      "title": "Demokratie in der Einwanderungsgesellschaft",
+      "authors": [
+        "Sybille Münch"
+      ],
+      "printed_page_number": "247",
+      "skip": false
+    },
+    {
+      "title": "VI Die Zukunft der Demokratie",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Postdemokratie",
+      "authors": [
+        "Christoph Held",
+        "Dirk Jörke"
+      ],
+      "printed_page_number": "263",
+      "skip": false
+    },
+    {
+      "title": "Algorithmen, Bots und Trolle: Vom Ende der demokratischen Öffentlichkeit, wie wir sie kennen",
+      "authors": [
+        "Ulrike Klinger"
+      ],
+      "printed_page_number": "271",
+      "skip": false
+    },
+    {
+      "title": "Demokratie in der Krise?",
+      "authors": [
+        "Wolfgang Merkel",
+        "Sascha Kneip"
+      ],
+      "printed_page_number": "281",
+      "skip": false
+    },
+    {
+      "title": "VII Der Zusammenhang von Demokratie, Politikdidaktik und politischer Bildung",
+      "authors": [
+        "Peter Massing"
+      ],
+      "printed_page_number": "295",
+      "skip": false
+    },
+    {
+      "title": "VIII Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "309",
+      "skip": true
+    },
+    {
+      "title": "IX Sachregister",
+      "authors": [],
+      "printed_page_number": "347",
+      "skip": true
+    },
+    {
+      "title": "X Autor*innen",
+      "authors": [],
+      "printed_page_number": "361",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

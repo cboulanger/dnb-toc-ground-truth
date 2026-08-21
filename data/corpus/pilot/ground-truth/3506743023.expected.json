@@ -1,0 +1,134 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Kritische Überlegungen zur Interdependenz von Unterrichtsmethoden und Lehrerverhalten",
+      "authors": [
+        "Karl Aschersleben"
+      ],
+      "printed_page_number": "10",
+      "skip": false
+    },
+    {
+      "title": "Lehrerverhalten – didaktische Modellbildung – Planungshilfe",
+      "authors": [
+        "Edmund Kösel"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Takt als Form pädagogischen und didaktischen Handelns",
+      "authors": [
+        "Jakob Muth"
+      ],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "Denken und Machen in der Schule – ein Problem der Unterrichtsmethode am Beispiel der Ästhetischen Erziehung",
+      "authors": [
+        "Gunter Otto"
+      ],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "Präzisierung von Unterrichtsmethoden im Zusammenhang mit Lehrverhaltenstraining und Interaktionsanalyse",
+      "authors": [
+        "Walther Zifreund"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "Die Transaktionalität der Lehrer-Schüler-Beziehung und ihre Bedeutung für die Unterrichtspraxis",
+      "authors": [
+        "Horst Nickel"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Der Lehrer im Gruppenunterricht",
+      "authors": [
+        "Ernst Meyer"
+      ],
+      "printed_page_number": "94",
+      "skip": false
+    },
+    {
+      "title": "Die Förderung der Persönlichkeitsentwicklung von Lehrern und Jugendlichen in Gruppengesprächen",
+      "authors": [
+        "Reinhard Tausch"
+      ],
+      "printed_page_number": "112",
+      "skip": false
+    },
+    {
+      "title": "Die Qualität der Schülerbeiträge im Unterricht und ihr Zusammenhang mit 3 personenzentrierten Haltungen ihrer Lehrer",
+      "authors": [
+        "Jürgen Höder",
+        "Reinhard Tausch",
+        "Alexander Weber"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "Zwischen Theorien und Traditionen: Warum es so schwierig ist, das Unterrichten zu lernen",
+      "authors": [
+        "Jochen Grell"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "Lehrerhandeln und die Kunst des Unterrichtens",
+      "authors": [
+        "Alexander Weber"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Lehrerhandeln und demokratischer Unterricht",
+      "authors": [
+        "Helmer Smidt"
+      ],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "211",
+      "skip": true
+    },
+    {
+      "title": "Mitarbeiterverzeichnis",
+      "authors": [],
+      "printed_page_number": "221",
+      "skip": true
+    },
+    {
+      "title": "Sachregister",
+      "authors": [],
+      "printed_page_number": "230",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

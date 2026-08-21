@@ -1,0 +1,425 @@
+{
+  "generated_at": 1787015996.358619,
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": "6",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim W. Frank"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Jubil\u00e4umsjahr im \u00dcberblick",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Brakmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beitr\u00e4ge zum Festakt",
+      "printed_page_number": "21",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Begr\u00fc\u00dfung durch den Amtsleiter",
+      "printed_page_number": "23",
+      "source_page_index": -1,
+      "authors": [
+        "Udo Sch\u00e4fer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gru\u00dfwort des Senators",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Stuth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Ged\u00e4chtnis der Stadt als Beh\u00f6rde",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Postel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beitr\u00e4ge zur Geschichte des Archivwesens",
+      "printed_page_number": "49",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Stadtarchiv der Freien und Hansestadt Hamburg im Gro\u00dfen Brand von 1842",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Dieter Loose"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Hamburger Brand 1842",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hamburgs Stadtarchiv vor dem Brand",
+      "printed_page_number": "55",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der sich ausbreitende Brand, Ma\u00dfnahmen zur Fl\u00fcchtung und Rettung von Archivgut sowie deren Resultate",
+      "printed_page_number": "59",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bew\u00e4ltigung der \u00e4u\u00dferlichen Katastrophenfolgen und kontinuierliches Bem\u00fchen um Ersatz\u00fcberlieferung",
+      "printed_page_number": "76",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schlussbemerkung",
+      "printed_page_number": "84",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Staatsarchiv Hamburg und die Personenforschung in der NS-Zeit",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Sielemann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nun ist es schon Geschichte: die R\u00fcckkehr der hanseatischen Archivalien aus dem Osten vor zwanzig Jahren",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "Antjekathrin Gra\u00dfmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zehntausend Akten \u2013 Millionen Fakten",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus B\u00e4stlein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Erschlie\u00dfung der Hamburger Strafakten aus der NS-Zeit",
+      "printed_page_number": "126",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zu den Erkenntnism\u00f6glichkeiten anhand der Akten-Erschlie\u00dfung",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hergebrachte Recherche-M\u00f6glichkeiten",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Abfragem\u00f6glichkeiten nach dem \u201eSachverhalt\u201c",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zum Quellenwert von Strafakten und ihren Besonderheiten",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Weiterf\u00fchrende statistische Erkenntnism\u00f6glichkeiten anhand der Akten",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Beispiel des Projekts \u201eJustiz und NS-Verbrechen\u201c",
+      "printed_page_number": "138",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beitr\u00e4ge zur Stadtgeschichte Hamburgs",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die hamburgische Verfassung von 1860: Wegemarke des Verfassungswandels zwischen 1712 und 1921",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "Udo Sch\u00e4fer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Entwurf einer Verfassung des Freistaates Hamburg vom 11. Juli 1849",
+      "printed_page_number": "150",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Verfassung der freien und Hansestadt Hamburg vom 26. September 1860",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1712 \u2013 1860 \u2013 1921: Verfassung im Wandel",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Res\u00fcmee",
+      "printed_page_number": "172",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Biografische Forschung zu den \u201enicht arischen\u201c \u00c4rzten Hamburgs und ihrer Verfolgungsgeschichte",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [
+        "Anna von Villiez"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einf\u00fchrung",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fragen der Arbeit",
+      "printed_page_number": "176",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inhalt",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einf\u00fchrung in die Quellen",
+      "printed_page_number": "178",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ergebnisse: J\u00fcdische \u00c4rzte in Hamburg \u2013 das Ende einer fruchtbaren Beziehung 182",
+      "printed_page_number": "182",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fazit und Ausblick",
+      "printed_page_number": "186",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beitr\u00e4ge zur Geschichte von Geschichten",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sprechende Dokumente",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Brack"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nachforschungen im Staatsarchiv w\u00e4hrend der Arbeit an dem Roman \u201eUnd das Meer gab seine Toten wieder\u201c",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geiselnahme im Staatsarchiv",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [
+        "Boris Meyn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Staatsarchiv \u2013 eine Wundert\u00fcte",
+      "printed_page_number": "207",
+      "source_page_index": -1,
+      "authors": [
+        "Petra Oelker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bildanhang",
+      "printed_page_number": "210",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bildnachweis",
+      "printed_page_number": "216",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "F\u00fcr das Archiv zust\u00e4ndige Senatssekret\u00e4re und wissenschaftliche Leiter",
+      "printed_page_number": "218",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Personenregister",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "printed_page_number": "231",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ver\u00f6ffentlichungen aus dem Staatsarchiv der Freien und Hansestadt Hamburg",
+      "printed_page_number": "234",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

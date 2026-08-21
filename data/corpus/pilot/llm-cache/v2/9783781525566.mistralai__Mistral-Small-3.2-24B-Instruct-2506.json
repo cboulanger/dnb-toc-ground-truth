@@ -1,0 +1,476 @@
+{
+  "generated_at": 1787265061.9768488,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Daniela Schmeinck, Kerstin Michalik und Thomas Goll",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Daniela Schmeinck",
+        "Kerstin Michalik",
+        "Thomas Goll"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Herausforderungen und Zukunftsperspektiven f\u00fcr den Sachunterricht",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Digitalisierung und Digitalit\u00e4t",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Thomas Irion",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Irion"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Grundlegende Bildung in der Digitalit\u00e4t: Herausforderungen und Perspektiven f\u00fcr den Sachunterricht im 21. Jahrhundert",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Friedrich Gerv\u00e9, Markus Peschel, Michael Haider, Inga Gryl, Daniela Schmeinck und Martin Br\u00e4mer",
+      "printed_page_number": "32",
+      "source_page_index": -1,
+      "authors": [
+        "Friedrich Gerv\u00e9",
+        "Markus Peschel",
+        "Michael Haider",
+        "Inga Gryl",
+        "Daniela Schmeinck",
+        "Martin Br\u00e4mer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Herausforderungen und Zukunftsperspektiven eines Sachunterrichts mit und \u00fcber Medien",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ren\u00e9 Schroeder",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ren\u00e9 Schroeder"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Potentiale und Barrieren beim Einsatz digitaler Medien im inklusiven naturwissenschaftlichen Sachunterricht \u2013 Ergebnisse eines systematischen Reviews",
+      "printed_page_number": "48",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ines Oldenburg",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ines Oldenburg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sprachgesteuertes digitales Lernen im Sachunterricht im Rahmen von game-based learning \u2013 Eine UserXperience Studie",
+      "printed_page_number": "56",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Martin Br\u00e4mer, Peter Stammerjohann und Hilde K\u00f6ster",
+      "printed_page_number": "64",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Br\u00e4mer",
+        "Peter Stammerjohann",
+        "Hilde K\u00f6ster"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Implizite Wissensstrukturen und der Transfer neuer Inhalte in den Sachunterricht \u2013 Orientierungen und Distinktionsakte von Studierenden in Bezug auf Informatik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Marisa Alena Holzapfel, Silke Bakenhus, Nicolas Arndt und Maja Br\u00fcckmann",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "Marisa Alena Holzapfel",
+        "Silke Bakenhus",
+        "Nicolas Arndt",
+        "Maja Br\u00fcckmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Welche Einstellungen und Werthaltungen haben Sachunterrichtsstudierende zum Einsatz und Lernen mit AR und VR?",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bibliografische Informationen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Nachhaltigkeit und BNE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Birgit Weber",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Birgit Weber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Globales Lernen und Nachhaltige Entwicklung als Herausforderung f\u00fcr den Sachunterricht: Zwischen Verantwortungszumutung und \u00dcberw\u00e4ltigung?",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Aline Haustein und Leena Br\u00f6ll",
+      "printed_page_number": "93",
+      "source_page_index": -1,
+      "authors": [
+        "Aline Haustein",
+        "Leena Br\u00f6ll"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nachhaltig(e) Ern\u00e4hrung lehren \u2013 Eine empirische Untersuchung zur Sichtweise von Lehrkr\u00e4ften",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sarah Gaubitz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Sarah Gaubitz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bildung f\u00fcr nachhaltige Entwicklung im Verst\u00e4ndnis von Sachunterrichtsstudierenden",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Demokratiebildung und politische Bildung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Thomas Goll, Eva-Maria Goll, Gudrun Marci-Boehncke, Raphaela Tkotzyk, Michael Steinbrecher, Lisa Barbara K\u00f6nig und Laura Millmann",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Goll",
+        "Eva-Maria Goll",
+        "Gudrun Marci-Boehncke",
+        "Raphaela Tkotzyk",
+        "Michael Steinbrecher",
+        "Lisa Barbara K\u00f6nig",
+        "Laura Millmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Politik, Journalismus, Medien \u2013 Kompetenzen von Kindern im Vor- und Grundschulalter (PoJoMeC)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mirjam Wenzel und Katharina Asen-Molz",
+      "printed_page_number": "118",
+      "source_page_index": -1,
+      "authors": [
+        "Mirjam Wenzel",
+        "Katharina Asen-Molz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Entwicklung eines Instruments zur Erfassung des medienpolitischen Wissens (angehender) Grundschullehrkr\u00e4fte",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Julia Kristin D\u00f6rner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Julia Kristin D\u00f6rner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Partizipation f\u00f6rdern, Resilienzf\u00e4higkeit st\u00e4rken \u2013 Welchen Beitrag kann der Sachunterricht im Hinblick auf gesellschaftliche Herausforderungen leisten?",
+      "printed_page_number": "126",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bettina Blank",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Bettina Blank"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Vom Beutelsbacher Konsens zur erw\u00e4gungsorientierten Kontroversit\u00e4t: f\u00fcr einen demokratief\u00f6rderlichen Sachunterricht",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ungewissheit, Nicht-Wissen und Infragestellen bisheriger Gewissheiten",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kerstin Michalik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Kerstin Michalik"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ungewissheit als Dimension des Lernens im Sachunterricht",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Corinne Ruesch Schweizer und Svantje Schumann",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [
+        "Corinne Ruesch Schweizer",
+        "Svantje Schumann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ans\u00e4tze f\u00fcr einen reflektierten Umgang mit Nicht-Wissen in der Lehrer*innenbildung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christian Fischer und Sandra T\u00e4nzer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Christian Fischer",
+        "Sandra T\u00e4nzer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Infragestellung von Gewissheiten \u2013 ein bildungshistorischer Blick. Zum Wandel der Fachlichkeit beim \u00dcbergang vom DDR-Heimatkundeunterricht zum Sachunterricht",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Perspektiven\u00fcbergreifende und perspektivenbezogene Fragestellungen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Linya Coers, Sabine Erbst\u00f6\u00dfer, Nina Kallweit, Beatrice Kollinger und Toni Simon",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [
+        "Linya Coers",
+        "Sabine Erbst\u00f6\u00dfer",
+        "Nina Kallweit",
+        "Beatrice Kollinger",
+        "Toni Simon"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Herausforderung Sexuelle Bildung im Sachunterricht. Theoretische, empirische und praktische Perspektiven",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Swantje D\u00f6lle",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Swantje D\u00f6lle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lernunterst\u00fctzung im technischen Sachunterricht: Eine perspektivenspezifische Herausforderung",
+      "printed_page_number": "188",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Paul K\u00f6nig und Bernd Wagner",
+      "printed_page_number": "196",
+      "source_page_index": -1,
+      "authors": [
+        "Paul K\u00f6nig",
+        "Bernd Wagner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sachlernen und materielle Kultur",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Marc M\u00fcller und Juliane Gr\u00f6ber",
+      "printed_page_number": "204",
+      "source_page_index": -1,
+      "authors": [
+        "Marc M\u00fcller",
+        "Juliane Gr\u00f6ber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sachunterricht als Kulturwissenschaft f\u00fcr Kinder",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

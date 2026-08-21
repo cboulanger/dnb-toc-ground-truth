@@ -1,0 +1,533 @@
+{
+  "entries": [
+    {
+      "title": "List of figures",
+      "authors": [],
+      "printed_page_number": "x",
+      "skip": true
+    },
+    {
+      "title": "List of tables",
+      "authors": [],
+      "printed_page_number": "xi",
+      "skip": true
+    },
+    {
+      "title": "List of contributors",
+      "authors": [],
+      "printed_page_number": "xii",
+      "skip": true
+    },
+    {
+      "title": "Acknowledgements",
+      "authors": [],
+      "printed_page_number": "xvi",
+      "skip": true
+    },
+    {
+      "title": "PART I Reconceptualising youth transitions",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": true
+    },
+    {
+      "title": "1 The changing landscape of youth and young adulthood",
+      "authors": [
+        "Andy Furlong"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "2 Socio-economic reproduction",
+      "authors": [
+        "Ken Roberts"
+      ],
+      "printed_page_number": "12",
+      "skip": false
+    },
+    {
+      "title": "3 The sociology of generations and youth studies",
+      "authors": [
+        "Dan Woodman"
+      ],
+      "printed_page_number": "20",
+      "skip": false
+    },
+    {
+      "title": "4 Youth and reflexive life management",
+      "authors": [
+        "Rachel Thomson"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "5 The emergence of emerging adulthood: the new life stage between adolescence and young adulthood",
+      "authors": [
+        "Jennifer Lynn Tanner",
+        "Jeffrey Jensen Arnett"
+      ],
+      "printed_page_number": "34",
+      "skip": false
+    },
+    {
+      "title": "PART II Divisions",
+      "authors": [],
+      "printed_page_number": "41",
+      "skip": true
+    },
+    {
+      "title": "6 Young people and social class",
+      "authors": [
+        "Steven Roberts"
+      ],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "7 Post-crisis: youth, identity, class and gender",
+      "authors": [
+        "Linda McDowell"
+      ],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "8 Young people, race and ethnicity",
+      "authors": [
+        "Anoop Nayak"
+      ],
+      "printed_page_number": "58",
+      "skip": false
+    },
+    {
+      "title": "9 Youth and disability: growing up, getting out, getting on?",
+      "authors": [
+        "Alan Roulstone"
+      ],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "10 Young refugees",
+      "authors": [
+        "Elizabeth Heger Boyle",
+        "Jasmine Trang Ha"
+      ],
+      "printed_page_number": "82",
+      "skip": false
+    },
+    {
+      "title": "PART III Education",
+      "authors": [],
+      "printed_page_number": "89",
+      "skip": true
+    },
+    {
+      "title": "11 Educating for late modernity",
+      "authors": [
+        "Johanna Wyn"
+      ],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "12 The influence of basic skills and literacy practices on youth transitions and identities",
+      "authors": [
+        "Mark Cieslik",
+        "Donald Simpson"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "13 Young people and higher education",
+      "authors": [
+        "Rachel Brooks"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "14 Vocationalism",
+      "authors": [
+        "David B. Bills",
+        "Lukas Graf",
+        "Paula Protsch"
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "15 Vocational education and training and the transition from school to work: challenges and dilemmas",
+      "authors": [
+        "Jan Skrobanek"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "PART IV Employment",
+      "authors": [],
+      "printed_page_number": "131",
+      "skip": true
+    },
+    {
+      "title": "16 Changing experiences of work",
+      "authors": [
+        "Jeylan T. Mortimer"
+      ],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "17 Youth unemployment",
+      "authors": [
+        "Niall O'Higgins"
+      ],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "18 Precarious work: the growing précarité of youth",
+      "authors": [
+        "Robert MacDonald"
+      ],
+      "printed_page_number": "156",
+      "skip": false
+    },
+    {
+      "title": "19 NEETs in European agenda: characteristics and policy debate",
+      "authors": [
+        "Massimiliano Mascherini"
+      ],
+      "printed_page_number": "164",
+      "skip": false
+    },
+    {
+      "title": "20 Urban Chinese youth",
+      "authors": [
+        "Alex Cockain"
+      ],
+      "printed_page_number": "172",
+      "skip": false
+    },
+    {
+      "title": "21 Youth entrepreneurship: a developmental systems perspective",
+      "authors": [
+        "G. John Geldhof",
+        "Sara K. Johnson",
+        "Michelle B. Weiner",
+        "Dustin Hunt",
+        "Richard M. Lerner"
+      ],
+      "printed_page_number": "182",
+      "skip": false
+    },
+    {
+      "title": "PART V Dependency",
+      "authors": [],
+      "printed_page_number": "191",
+      "skip": true
+    },
+    {
+      "title": "22 Leaving the parental home as a transition marker to adulthood",
+      "authors": [
+        "Anne Berngruber"
+      ],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "23 Young, free and single? Young adults and independent living arrangements",
+      "authors": [
+        "Sue Heath"
+      ],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "24 Intergenerational support during the transition to adulthood",
+      "authors": [
+        "Teresa Toguchi Swartz",
+        "Kirsten Bengtson O'Brien"
+      ],
+      "printed_page_number": "205",
+      "skip": false
+    },
+    {
+      "title": "25 Early childbearing in the new era of delayed adulthood",
+      "authors": [
+        "Frank Furstenberg Jr"
+      ],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "26 Conceptualisations of youth homelessness and the role of the family",
+      "authors": [
+        "Justin Barker"
+      ],
+      "printed_page_number": "219",
+      "skip": false
+    },
+    {
+      "title": "PART VI Youth culture",
+      "authors": [],
+      "printed_page_number": "227",
+      "skip": true
+    },
+    {
+      "title": "27 Cultural transitions: celebrity and young people's aspirations",
+      "authors": [
+        "Kim Allen",
+        "Heather Mendick",
+        "Laura Harvey",
+        "Aisha Ahmad"
+      ],
+      "printed_page_number": "229",
+      "skip": false
+    },
+    {
+      "title": "28 Young adults and the night-time economy",
+      "authors": [
+        "Robert G. Hollands"
+      ],
+      "printed_page_number": "237",
+      "skip": false
+    },
+    {
+      "title": "29 Youth and consumer markets",
+      "authors": [
+        "Amy L. Best",
+        "Randy Lynn"
+      ],
+      "printed_page_number": "244",
+      "skip": false
+    },
+    {
+      "title": "30 Spectacular soundtracks: youth and music",
+      "authors": [
+        "Andy Bennett"
+      ],
+      "printed_page_number": "252",
+      "skip": false
+    },
+    {
+      "title": "31 Young people and intoxication: illegal drugs, alcohol and legal highs",
+      "authors": [
+        "Shane Blackman"
+      ],
+      "printed_page_number": "258",
+      "skip": false
+    },
+    {
+      "title": "32 Spectacular youth? Young people's fashion and style",
+      "authors": [
+        "Paul Hodkinson"
+      ],
+      "printed_page_number": "266",
+      "skip": false
+    },
+    {
+      "title": "33 Young cyborgs? Youth and the digital age",
+      "authors": [
+        "Kate C. Tilleczek",
+        "Ron Srigley"
+      ],
+      "printed_page_number": "273",
+      "skip": false
+    },
+    {
+      "title": "PART VII Civic engagement and disengagement",
+      "authors": [],
+      "printed_page_number": "285",
+      "skip": true
+    },
+    {
+      "title": "34 Youth political participation in Europe: a new participatory landscape",
+      "authors": [
+        "James Sloam"
+      ],
+      "printed_page_number": "287",
+      "skip": false
+    },
+    {
+      "title": "35 Young people, politics and citizenship",
+      "authors": [
+        "Anita Harris"
+      ],
+      "printed_page_number": "295",
+      "skip": false
+    },
+    {
+      "title": "36 Do the young still need trade unions and do unions want them?",
+      "authors": [
+        "Glynne Williams",
+        "Martin Quinn"
+      ],
+      "printed_page_number": "301",
+      "skip": false
+    },
+    {
+      "title": "37 Understanding online activism in a transition society",
+      "authors": [
+        "Airi-Alina Allaste",
+        "David Cairns"
+      ],
+      "printed_page_number": "308",
+      "skip": false
+    },
+    {
+      "title": "38 Young people and armed conflict",
+      "authors": [
+        "Colette Daiute"
+      ],
+      "printed_page_number": "316",
+      "skip": false
+    },
+    {
+      "title": "PART VIII Physical and mental health",
+      "authors": [],
+      "printed_page_number": "325",
+      "skip": true
+    },
+    {
+      "title": "39 Health in youth: changing times and changing influences",
+      "authors": [
+        "Patrick West"
+      ],
+      "printed_page_number": "327",
+      "skip": false
+    },
+    {
+      "title": "40 Sexualities and gender-based research in youth studies",
+      "authors": [
+        "Deevia Bhana"
+      ],
+      "printed_page_number": "339",
+      "skip": false
+    },
+    {
+      "title": "41 The social context of youth mental health",
+      "authors": [
+        "Evelina Landstedt",
+        "Julia Coffey"
+      ],
+      "printed_page_number": "346",
+      "skip": false
+    },
+    {
+      "title": "42 Pathways linking social class to smoking, drinking and psychiatric distress",
+      "authors": [
+        "Michael Green"
+      ],
+      "printed_page_number": "356",
+      "skip": false
+    },
+    {
+      "title": "PART IX Identities, values and beliefs",
+      "authors": [],
+      "printed_page_number": "365",
+      "skip": true
+    },
+    {
+      "title": "43 Youth-identity studies: history, controversies and future directions",
+      "authors": [
+        "James E. Côté"
+      ],
+      "printed_page_number": "367",
+      "skip": false
+    },
+    {
+      "title": "44 Young people, Islam and the significance of religious identities in British society",
+      "authors": [
+        "Louise Ryan"
+      ],
+      "printed_page_number": "377",
+      "skip": false
+    },
+    {
+      "title": "45 The influence of aspirations on educational and occupational outcomes",
+      "authors": [
+        "Nathan Jones",
+        "Barbara Schneider"
+      ],
+      "printed_page_number": "384",
+      "skip": false
+    },
+    {
+      "title": "46 Young people and the coming of the Third Industrial Revolution: new work ethics and the self as enterprise after the GFC, after neo-Liberalism",
+      "authors": [
+        "Peter Kelly"
+      ],
+      "printed_page_number": "391",
+      "skip": false
+    },
+    {
+      "title": "47 Understanding the sexual lives of young people",
+      "authors": [
+        "Janet Holland"
+      ],
+      "printed_page_number": "400",
+      "skip": false
+    },
+    {
+      "title": "PART X Crime and deviance",
+      "authors": [],
+      "printed_page_number": "409",
+      "skip": true
+    },
+    {
+      "title": "48 Young people and desistance",
+      "authors": [
+        "Briege Nugent",
+        "Fergus McNeill"
+      ],
+      "printed_page_number": "411",
+      "skip": false
+    },
+    {
+      "title": "49 Young people and anti-social behaviour",
+      "authors": [
+        "Alan France"
+      ],
+      "printed_page_number": "421",
+      "skip": false
+    },
+    {
+      "title": "50 Youth in a world of gangs",
+      "authors": [
+        "John M. Hagedorn"
+      ],
+      "printed_page_number": "427",
+      "skip": false
+    },
+    {
+      "title": "51 Young people, crime and justice",
+      "authors": [
+        "Rob White"
+      ],
+      "printed_page_number": "435",
+      "skip": false
+    },
+    {
+      "title": "52 Experiencing youth justice and penality",
+      "authors": [
+        "Siobhán McAlister",
+        "Nicola Carr"
+      ],
+      "printed_page_number": "446",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "455",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

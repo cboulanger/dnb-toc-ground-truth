@@ -1,0 +1,192 @@
+{
+  "entries": [
+    {
+      "title": "INHALTSVERZEICHNIS",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Tabula gratulatoria",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Zum Geleit",
+      "authors": [
+        "Wolfgang Kubin"
+      ],
+      "printed_page_number": "11",
+      "skip": true
+    },
+    {
+      "title": "Hinweise für die Leser",
+      "authors": [],
+      "printed_page_number": "16",
+      "skip": true
+    },
+    {
+      "title": "Philosophie und Kulturanalyse: Gedanken zu den sinologischen Studien Rolf Trauzettels",
+      "authors": [
+        "Hans-Georg Möller"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Verzeichnis der Schriften Rolf Trauzettels",
+      "authors": [
+        "Ingrid Krüßmann"
+      ],
+      "printed_page_number": "23",
+      "skip": true
+    },
+    {
+      "title": "Der einzelne und die Gemeinschaft",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Mensch, Natur, Fremdheit: Die Idee der Toleranz im Alten und Neuen China",
+      "authors": [
+        "Wolfgang Bauer"
+      ],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen zum Begriff der Freundschaft im älteren China",
+      "authors": [
+        "Helwig Schmidt-Glintzer"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "Heroen, Helden und Eisenfresser: Zur Anthropologie der Tapferkeit",
+      "authors": [
+        "Ulrich Unger"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Moral des Menschen und Moral der Welt: Ein Beitrag zu Zhou Dunyi",
+      "authors": [
+        "Ralf Moritz"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "Individuum und Religion",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Zur Symbolik des Bösen im Alten China",
+      "authors": [
+        "Livia Köhn"
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "Qubilai Qa'an im Licht der buddhistischen Hofhistoriographie",
+      "authors": [
+        "Herbert Franke"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Das Problem der Moderne",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Der Holzweg der Sinologie: Eine Polemik",
+      "authors": [
+        "Wolfgang Kubin"
+      ],
+      "printed_page_number": "151",
+      "skip": false
+    },
+    {
+      "title": "Der Abbruch des Turmbaus",
+      "authors": [
+        "Josef Simon"
+      ],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "Zur Bedeutung der Ironie",
+      "authors": [
+        "Hans-Georg Möller"
+      ],
+      "printed_page_number": "185",
+      "skip": false
+    },
+    {
+      "title": "Der literarische Geist",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Fiktionalität in der klassischen chinesischen Literatur",
+      "authors": [
+        "Rainer von Franz"
+      ],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "Die junge Bing Xin, der alte Tagore und der Gute Hirte: Ein Fallbeispiel aus der modernen chinesischen Geistesgeschichte",
+      "authors": [
+        "Marián Gálik"
+      ],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "Aus Eisen Gold machen: Chinesische Zitate aus komparatistischer Sicht",
+      "authors": [
+        "Monika Motsch"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "Franz Kafkas „Eine kaiserliche Botschaft“",
+      "authors": [
+        "Norbert Oellers"
+      ],
+      "printed_page_number": "251",
+      "skip": false
+    },
+    {
+      "title": "„Babel ist Shanghai“: Chinesisches bei Badr Šākir as-Sayyāb, einem arabischen Dichter der Moderne",
+      "authors": [
+        "Stefan Wild"
+      ],
+      "printed_page_number": "267",
+      "skip": false
+    },
+    {
+      "title": "Das Motiv des Sterbens und des Todes in den Essays und Kurzgeschichten von Zhou Zuoren (1885–1967) und Lu Xun (1881–1936)",
+      "authors": [
+        "Ingrid Krüßmann"
+      ],
+      "printed_page_number": "283",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

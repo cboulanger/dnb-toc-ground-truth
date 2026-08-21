@@ -1,0 +1,133 @@
+{
+  "entries": [
+    {
+      "title": "Introduction: Towards the Isagogical Crossroads",
+      "authors": [
+        "Anna Motta",
+        "Federico M. Petrucci"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Acknowledgements",
+      "authors": [],
+      "printed_page_number": "IX",
+      "skip": true
+    },
+    {
+      "title": "Contributors",
+      "authors": [],
+      "printed_page_number": "X",
+      "skip": true
+    },
+    {
+      "title": "Isagogical Conceptions in the Peripatetic Exegesis of the Post-Hellenistic Age: Aspasius and the Others",
+      "authors": [
+        "Federico M. Petrucci"
+      ],
+      "printed_page_number": "16",
+      "skip": false
+    },
+    {
+      "title": "A Middle-Platonist Plato: Introductory Schemata and the Construction of a System in Diogenes Laertius",
+      "authors": [
+        "Franco Ferrari"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "The Nature of Apuleius' De Platone: An Isagoge?",
+      "authors": [
+        "Justin A. Stover"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "Isagogical Patterns in Porphyry (Isagoge and Vita Plotini)",
+      "authors": [
+        "Irmgard M\u00e4nnlein-Robert"
+      ],
+      "printed_page_number": "72",
+      "skip": false
+    },
+    {
+      "title": "From the Stoic Division of Philosophy to the Reading Order of Plato's Dialogues",
+      "authors": [
+        "Anna Motta"
+      ],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "Interpretive Strategies in Proclus' Isagogical Remarks on the Timaeus",
+      "authors": [
+        "Gerd Van Riel"
+      ],
+      "printed_page_number": "110",
+      "skip": false
+    },
+    {
+      "title": "Eusebius and the Birth of Christian Isagogical Literature",
+      "authors": [
+        "S\u00e9bastien Morlet"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "Prolegomena to Medicine: The Role of the Hippocratic Aphorismi",
+      "authors": [
+        "Giulia Ecca"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "Isagogical Questions in Hipparchus' Commentary on the Phaenomena",
+      "authors": [
+        "Victor Gysembergh"
+      ],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "Musical Eisag\u014dgai",
+      "authors": [
+        "Eleonora Rocconi"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "Appendix: Gaudentius, Introduction to Harmonics. Introduction and Translation",
+      "authors": [
+        "Andrew Barker"
+      ],
+      "printed_page_number": "205",
+      "skip": true
+    },
+    {
+      "title": "Bibliography",
+      "authors": [],
+      "printed_page_number": "227",
+      "skip": true
+    },
+    {
+      "title": "General Index",
+      "authors": [],
+      "printed_page_number": "251",
+      "skip": true
+    },
+    {
+      "title": "Index Locorum",
+      "authors": [],
+      "printed_page_number": "258",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

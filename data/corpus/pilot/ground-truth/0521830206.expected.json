@@ -1,0 +1,312 @@
+{
+  "entries": [
+    {
+      "title": "List of figures, maps and tables",
+      "authors": [],
+      "printed_page_number": "page x",
+      "skip": true
+    },
+    {
+      "title": "Introduction",
+      "authors": [
+        "RAYMOND HICKEY"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Contributors",
+      "authors": [],
+      "printed_page_number": "xiii",
+      "skip": true
+    },
+    {
+      "title": "List of figures, maps and tables",
+      "authors": [],
+      "printed_page_number": "xiii",
+      "skip": true
+    },
+    {
+      "title": "Foreword",
+      "authors": [],
+      "printed_page_number": "xix",
+      "skip": true
+    },
+    {
+      "title": "1 Dialects of English and their transportation",
+      "authors": [
+        "RAYMOND HICKEY"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "2 Scots and Scottish English",
+      "authors": [
+        "CAROLINE MACAFEE"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "3 Development and diffusion of Irish English",
+      "authors": [
+        "RAYMOND HICKEY"
+      ],
+      "printed_page_number": "82",
+      "skip": false
+    },
+    {
+      "title": "4 The emergence of American English: evidence from seventeenth-century records in New England",
+      "authors": [
+        "MERJA KYT\u00d6"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "5 The language of transported Londoners: third-person-singular present-tense markers in depositions from Virginia and the Bermudas, 1607\u20131624",
+      "authors": [
+        "LAURA WRIGHT"
+      ],
+      "printed_page_number": "158",
+      "skip": false
+    },
+    {
+      "title": "6 Remnant dialects in the coastal United States",
+      "authors": [
+        "WALT WOLFRAM AND NATALIE SCHILLING-ESTES"
+      ],
+      "printed_page_number": "172",
+      "skip": false
+    },
+    {
+      "title": "7 Back to the present: verbal -s in the (African American) English diaspora",
+      "authors": [
+        "SHANA POPLACK AND SALI TAGLIAMONTE"
+      ],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "8 'Canadian Dainty': the rise and decline of Briticisms in Canada",
+      "authors": [
+        "J. K. CHAMBERS"
+      ],
+      "printed_page_number": "224",
+      "skip": false
+    },
+    {
+      "title": "9 The legacy of British and Irish English in Newfoundland",
+      "authors": [
+        "SANDRA CLARKE"
+      ],
+      "printed_page_number": "242",
+      "skip": false
+    },
+    {
+      "title": "10 The English dialect heritage of the southern United States",
+      "authors": [
+        "EDGAR W. SCHNEIDER"
+      ],
+      "printed_page_number": "262",
+      "skip": false
+    },
+    {
+      "title": "11 Solving Kurath's puzzle: establishing the antecedents of the American Midland dialect region",
+      "authors": [
+        "MICHAEL MONTGOMERY"
+      ],
+      "printed_page_number": "310",
+      "skip": false
+    },
+    {
+      "title": "12 English dialect input to the Caribbean",
+      "authors": [
+        "RAYMOND HICKEY"
+      ],
+      "printed_page_number": "326",
+      "skip": false
+    },
+    {
+      "title": "13 South African English",
+      "authors": [
+        "ROGER LASS"
+      ],
+      "printed_page_number": "363",
+      "skip": false
+    },
+    {
+      "title": "14 English transported to the South Atlantic Ocean: Tristan da Cunha",
+      "authors": [
+        "DANIEL SCHREIER"
+      ],
+      "printed_page_number": "387",
+      "skip": false
+    },
+    {
+      "title": "15 English on the Falklands",
+      "authors": [
+        "ANDREA SUDBURY"
+      ],
+      "printed_page_number": "402",
+      "skip": false
+    },
+    {
+      "title": "16 English input to Australia",
+      "authors": [
+        "SCOTT F. KIESLING"
+      ],
+      "printed_page_number": "418",
+      "skip": false
+    },
+    {
+      "title": "17 English input to New Zealand",
+      "authors": [
+        "ELIZABETH GORDON AND PETER TRUDGILL"
+      ],
+      "printed_page_number": "440",
+      "skip": false
+    },
+    {
+      "title": "18 English input to the English-lexicon pidgins and creoles of the Pacific",
+      "authors": [
+        "SUZANNE ROMAINE"
+      ],
+      "printed_page_number": "456",
+      "skip": false
+    },
+    {
+      "title": "19 Englishes in Asia and Africa: origin and structure",
+      "authors": [
+        "RAYMOND HICKEY"
+      ],
+      "printed_page_number": "503",
+      "skip": false
+    },
+    {
+      "title": "20 South Asian Englishes",
+      "authors": [
+        "RAYMOND HICKEY"
+      ],
+      "printed_page_number": "536",
+      "skip": false
+    },
+    {
+      "title": "21 South-East Asian Englishes",
+      "authors": [
+        "RAYMOND HICKEY"
+      ],
+      "printed_page_number": "559",
+      "skip": false
+    },
+    {
+      "title": "Appendix 1 Checklist of nonstandard features",
+      "authors": [
+        "RAYMOND HICKEY"
+      ],
+      "printed_page_number": "586",
+      "skip": true
+    },
+    {
+      "title": "Appendix 2 Timeline for varieties of English",
+      "authors": [
+        "RAYMOND HICKEY"
+      ],
+      "printed_page_number": "621",
+      "skip": true
+    },
+    {
+      "title": "Appendix 3 Maps of anglophone locations",
+      "authors": [
+        "RAYMOND HICKEY"
+      ],
+      "printed_page_number": "627",
+      "skip": true
+    },
+    {
+      "title": "Glossary of terms",
+      "authors": [
+        "RAYMOND HICKEY"
+      ],
+      "printed_page_number": "654",
+      "skip": true
+    },
+    {
+      "title": "General references",
+      "authors": [
+        "RAYMOND HICKEY"
+      ],
+      "printed_page_number": "671",
+      "skip": true
+    },
+    {
+      "title": "Index of names",
+      "authors": [],
+      "printed_page_number": "692",
+      "skip": true
+    },
+    {
+      "title": "Index of languages and varieties",
+      "authors": [],
+      "printed_page_number": "702",
+      "skip": true
+    },
+    {
+      "title": "General index",
+      "authors": [],
+      "printed_page_number": "709",
+      "skip": true
+    },
+    {
+      "title": "Part I",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Out of Britain",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Part II",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The New World",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Part III",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The southern hemisphere",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Part IV",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "English in Asia",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

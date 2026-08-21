@@ -1,0 +1,1170 @@
+{
+  "generated_at": 1786913959.0090702,
+  "entries": [
+    {
+      "title": "Financial econometrics and big data: A survey of volatility estimators and tests for the presence of jumps and co-jumps",
+      "printed_page_number": 3,
+      "source_page_index": -1,
+      "authors": [
+        "Arpita Mukherjee",
+        "Weijia Peng",
+        "Norman R. Swanson",
+        "Xiyue Yang"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Introduction",
+      "printed_page_number": 4,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Setup",
+      "printed_page_number": 6,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Realized measures of integrated volatility",
+      "printed_page_number": 8,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Realized volatility",
+      "printed_page_number": 9,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Realized bipower variation",
+      "printed_page_number": 9,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Tripower variation",
+      "printed_page_number": 10,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Two-scale realized volatility",
+      "printed_page_number": 10,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Multiscale realized volatility",
+      "printed_page_number": 11,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Realized kernel",
+      "printed_page_number": 11,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Truncated realized volatility",
+      "printed_page_number": 12,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Modulated bipower variation",
+      "printed_page_number": 12,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Threshold bipower variation",
+      "printed_page_number": 12,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Subsampled realized kernel",
+      "printed_page_number": 13,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "MedRV and MinRV",
+      "printed_page_number": 14,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Jump testing",
+      "printed_page_number": 14,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Barndorff-Nielsen and Shephard test",
+      "printed_page_number": 15,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Lee and Mykland test",
+      "printed_page_number": 15,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Jiang and Oomen test",
+      "printed_page_number": 16,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "A\u00eft-Sahalia and Jacod test",
+      "printed_page_number": 17,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Podolskij and Ziggel (PZ) test",
+      "printed_page_number": 18,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Corradi, Silvapulle, and Swanson test",
+      "printed_page_number": 18,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Co-jump testing",
+      "printed_page_number": 19,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "BLT co-jump testing",
+      "printed_page_number": 20,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "JT co-jump testing",
+      "printed_page_number": 21,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "MG threshold co-jump test",
+      "printed_page_number": 22,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "GST co-exceedance rule",
+      "printed_page_number": 22,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "CKR co-jump testing",
+      "printed_page_number": 23,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Empirical experiments",
+      "printed_page_number": 24,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Data description",
+      "printed_page_number": 24,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Methodology",
+      "printed_page_number": 25,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Findings",
+      "printed_page_number": 26,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Conclusion",
+      "printed_page_number": 48,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Real time monitoring of asset markets: Bubbles and crises",
+      "printed_page_number": 61,
+      "source_page_index": -1,
+      "authors": [
+        "Peter C.B. Phillips",
+        "Shuping Shi"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Introduction",
+      "printed_page_number": 62,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "The PSY Procedure",
+      "printed_page_number": 64,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "The Augmented Dickey-Fuller test",
+      "printed_page_number": 66,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "The Recursive Evolving Algorithm",
+      "printed_page_number": 66,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "The PSY Test for Bubble Identification",
+      "printed_page_number": 68,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "The Rationale",
+      "printed_page_number": 68,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Consistency",
+      "printed_page_number": 68,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "The PSY Test for Crisis Identification",
+      "printed_page_number": 70,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "The Rationale",
+      "printed_page_number": 70,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Consistency",
+      "printed_page_number": 71,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "A New Composite Bootstrap",
+      "printed_page_number": 72,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Empirical Applications with R",
+      "printed_page_number": 72,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Example 1: The S&P 500 Market",
+      "printed_page_number": 72,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Example 2: Credit Risk in the European Sovereign Sector",
+      "printed_page_number": 75,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Conclusion",
+      "printed_page_number": 77,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Component-wise AdaBoost algorithms for high-dimensional binary classification and class probability prediction",
+      "printed_page_number": 81,
+      "source_page_index": -1,
+      "authors": [
+        "Jianghao Chu",
+        "Tae-Hwy Lee",
+        "Aman Ullah"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Introduction",
+      "printed_page_number": 82,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "AdaBoost",
+      "printed_page_number": 83,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Extensions to AdaBoost algorithms",
+      "printed_page_number": 90,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Real AdaBoost",
+      "printed_page_number": 91,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "LogitBoost",
+      "printed_page_number": 92,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Gentle AdaBoost",
+      "printed_page_number": 94,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Alternative classification methods",
+      "printed_page_number": 96,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Deep Neural Network",
+      "printed_page_number": 96,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Logistic regression with LASSO",
+      "printed_page_number": 102,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Semiparametric single-index model",
+      "printed_page_number": 104,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Monte Carlo",
+      "printed_page_number": 107,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Mixed data sampling (MIDAS) regression models",
+      "printed_page_number": 117,
+      "source_page_index": -1,
+      "authors": [
+        "Eric Ghysels",
+        "Virmantas Kvedaras",
+        "Vaidotas Zemlys-Balevi\u010dius"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Introduction",
+      "printed_page_number": 117,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "A stylized MIDAS regression model",
+      "printed_page_number": 119,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "A few examples of the constraint function h",
+      "printed_page_number": 121,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Selection of h, d, and k",
+      "printed_page_number": 121,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Statistical inference",
+      "printed_page_number": 122,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Linear and quasi-linear MIDAS models (affine g)",
+      "printed_page_number": 123,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Unconstrained MIDAS",
+      "printed_page_number": 124,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "MIDAS",
+      "printed_page_number": 125,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "MIDAS with nonparametric smoothing of weights",
+      "printed_page_number": 127,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Nonlinear parametric MIDAS models",
+      "printed_page_number": 128,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "General considerations",
+      "printed_page_number": 128,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Logistic smooth transition MIDAS (LSTR-MIDAS)",
+      "printed_page_number": 129,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "MIDAS with min-mean-max effects (MMM-MIDAS)",
+      "printed_page_number": 130,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Semiparametric MIDAS models",
+      "printed_page_number": 131,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "MIDAS with partially (quasi)linear effects (PL-MIDAS)",
+      "printed_page_number": 133,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "The single index MIDAS model (SI-MIDAS)",
+      "printed_page_number": 134,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Illustration with simulated data",
+      "printed_page_number": 135,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Data generation",
+      "printed_page_number": 135,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Estimation",
+      "printed_page_number": 137,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Empirical examples",
+      "printed_page_number": 144,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Okun's law",
+      "printed_page_number": 145,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Inflation and the effective federal funds rate",
+      "printed_page_number": 149,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Encouraging private corporate investment in India",
+      "printed_page_number": 155,
+      "source_page_index": -1,
+      "authors": [
+        "Hrishikesh Vinod",
+        "Honey Karun",
+        "Lekha S. Chakraborty"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Introduction",
+      "printed_page_number": 155,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Literature review",
+      "printed_page_number": 157,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Interpreting data and model implications",
+      "printed_page_number": 161,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Estimation and results",
+      "printed_page_number": 164,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Data abbreviations and sources",
+      "printed_page_number": 173,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Causality results",
+      "printed_page_number": 175,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Conclusion",
+      "printed_page_number": 177,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "High-mixed frequency forecasting methods in R-With applications to Philippine GDP and inflation",
+      "printed_page_number": 185,
+      "source_page_index": -1,
+      "authors": [
+        "Roberto S. Mariano",
+        "Suleyman Ozmucur"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Introduction",
+      "printed_page_number": 186,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Alternative forecasting models in this study",
+      "printed_page_number": 187,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Quarterly models",
+      "printed_page_number": 188,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Monthly models",
+      "printed_page_number": 189,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "MIDAS regressions",
+      "printed_page_number": 189,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Mixed-frequency dynamic latent factor models (MF-DLFM)",
+      "printed_page_number": 190,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Application to forecasting Philippine GDP and inflation and computer implementation",
+      "printed_page_number": 191,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Getting data with R",
+      "printed_page_number": 191,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Statistical properties of quarterly real GDP and GDP deflator",
+      "printed_page_number": 192,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Estimated models in R",
+      "printed_page_number": 196,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Box-Jenkins (ARIMA(p,d,q)) univariate time-series models",
+      "printed_page_number": 196,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Vector autoregressive models",
+      "printed_page_number": 197,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Bridge equations",
+      "printed_page_number": 201,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Principal components using monthly indicators and bridge equations using principal components",
+      "printed_page_number": 203,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "MIDAS models",
+      "printed_page_number": 205,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "ADL-MIDAS",
+      "printed_page_number": 207,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "MIDAS-VAR",
+      "printed_page_number": 209,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "VARX and VARXM",
+      "printed_page_number": 211,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "ARIMA and MIDAS",
+      "printed_page_number": 213,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Factor MIDAS",
+      "printed_page_number": 214,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Dynamic factor models\u2014Small number of indicators",
+      "printed_page_number": 216,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Dynamic factor models\u2014Large number of indicators",
+      "printed_page_number": 219,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Comparison of forecasts and concluding remarks",
+      "printed_page_number": 223,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Nonlinear time series in R: Threshold cointegration with tsDyn",
+      "printed_page_number": 229,
+      "source_page_index": -1,
+      "authors": [
+        "Matthieu Stigler"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Introduction: Linear and threshold cointegration",
+      "printed_page_number": 230,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Estimation, testing, and interpretation",
+      "printed_page_number": 233,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Estimation and testing for cointegration",
+      "printed_page_number": 233,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Estimation and testing for threshold models",
+      "printed_page_number": 234,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Estimation and testing for threshold cointegration models",
+      "printed_page_number": 237,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Estimation of a threshold estimated model",
+      "printed_page_number": 240,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "(Generalized) impulse response functions",
+      "printed_page_number": 240,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "The tsDyn package",
+      "printed_page_number": 243,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Linear models: AR, VAR, and VECM in tsDyn",
+      "printed_page_number": 243,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Univariate models: SETAR",
+      "printed_page_number": 244,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Multivariate models: TVAR and TVEC",
+      "printed_page_number": 245,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Empirical application",
+      "printed_page_number": 246,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Unit roots and linear cointegration",
+      "printed_page_number": 247,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Threshold cointegration in the univariate residual-based approach",
+      "printed_page_number": 250,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Threshold cointegration in the multivariate system-based approach",
+      "printed_page_number": 256,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Conclusion",
+      "printed_page_number": 260,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Econometric analysis of productivity: Theory and implementation in R",
+      "printed_page_number": 267,
+      "source_page_index": -1,
+      "authors": [
+        "Robin C. Sickles",
+        "Wonho Song",
+        "Valentin Zelenyuk"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Introduction",
+      "printed_page_number": 267,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Why estimate production (technical) efficiency?",
+      "printed_page_number": 268,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Regression-based methods to estimate production efficiency",
+      "printed_page_number": 270,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "The stochastic frontier paradigm",
+      "printed_page_number": 270,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Envelopment estimators",
+      "printed_page_number": 280,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "The origins of DEA",
+      "printed_page_number": 280,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "The basic DEA model",
+      "printed_page_number": 280,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "The myriad of DEA models",
+      "printed_page_number": 283,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Statistical analysis of DEA and FDH",
+      "printed_page_number": 286,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "SFA efficiency software in R",
+      "printed_page_number": 287,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Basic model setup",
+      "printed_page_number": 288,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Figures and tables",
+      "printed_page_number": 288,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Different estimators",
+      "printed_page_number": 288,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "DEA efficiency software in R",
+      "printed_page_number": 289,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Summary and final remarks",
+      "printed_page_number": 290,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Stochastic frontier models using R",
+      "printed_page_number": 299,
+      "source_page_index": -1,
+      "authors": [
+        "Giancarlo Ferrara"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Introduction",
+      "printed_page_number": 299,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Methods",
+      "printed_page_number": 301,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Contextual variables",
+      "printed_page_number": 305,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Spatial external factors",
+      "printed_page_number": 307,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "P-splines: Computational aspects",
+      "printed_page_number": 308,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Numerical illustrations",
+      "printed_page_number": 312,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Example 1: Linear homoscedastic model",
+      "printed_page_number": 312,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Example 2: Nonlinear exponential homoscedastic model",
+      "printed_page_number": 313,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Example 3: Nonmonotone model",
+      "printed_page_number": 315,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Example 4: Quadratic polynomial model with heteroscedasticity",
+      "printed_page_number": 317,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Empirical application to crops data",
+      "printed_page_number": 318,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Conclusions",
+      "printed_page_number": 323,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    }
+  ]
+}

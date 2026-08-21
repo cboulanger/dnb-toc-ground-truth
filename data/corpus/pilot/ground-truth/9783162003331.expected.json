@@ -1,0 +1,427 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "V",
+      "skip": true
+    },
+    {
+      "title": "Entscheidungen Herstellen – Darstellen – Kommunizieren",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Wer entscheidet? Richterinnen und Richter des Bundesverfassungsgerichts 1951–2026",
+      "authors": [
+        "Christian Waldhoff"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Verfassungsrechtsprechung als transnationale Aufgabe",
+      "authors": [
+        "Thomas Kleinlein"
+      ],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "Befangenheit von Richterinnen und Richtern",
+      "authors": [
+        "Sonja Heitzer"
+      ],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "Verfassungsinterpretation",
+      "authors": [
+        "Matthias Cornils"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Außerrechtliches in der Rechtsprechung des Bundesverfassungsgerichts",
+      "authors": [
+        "Ino Augsberg"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "Zugang zum Verfassungsrechtsschutz Steuerungsmechanismen des Bundesverfassungsgerichts und ihre rechtliche Bewertung",
+      "authors": [
+        "Heiko Sauer"
+      ],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "Mündliche Verhandlung",
+      "authors": [
+        "Christoph Möllers"
+      ],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "Einstweilige Anordnung",
+      "authors": [
+        "Aqilah Sandhu"
+      ],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "Das Bundesverfassungsgerichtsgesetz als Prozessordnung",
+      "authors": [
+        "Tristan Barczak"
+      ],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "Folgen und Durchsetzung von Entscheidungen",
+      "authors": [
+        "Christian Walter"
+      ],
+      "printed_page_number": "223",
+      "skip": false
+    },
+    {
+      "title": "Die Dezision bleibt unsichtbar Ikonographie und Ikonologie des Bundesverfassungsgerichts im Dilemma",
+      "authors": [
+        "Julian Krüper"
+      ],
+      "printed_page_number": "245",
+      "skip": false
+    },
+    {
+      "title": "Pressearbeit des Bundesverfassungsgerichts",
+      "authors": [
+        "Roland Broemel",
+        "Gigi Deppe"
+      ],
+      "printed_page_number": "269",
+      "skip": false
+    },
+    {
+      "title": "Verfassungsgerichtsbarkeit im Verfassungsvergleich",
+      "authors": [
+        "Mehrdad Payandeh"
+      ],
+      "printed_page_number": "291",
+      "skip": false
+    },
+    {
+      "title": "Bundesverfassungsgerichtsforschung Das Gericht als Beobachtungsobjekt",
+      "authors": [
+        "Jens Kersten"
+      ],
+      "printed_page_number": "315",
+      "skip": false
+    },
+    {
+      "title": "Das Bundesverfassungsgericht als Verfassungsorgan",
+      "authors": [
+        "Stephan Rixen"
+      ],
+      "printed_page_number": "337",
+      "skip": false
+    },
+    {
+      "title": "Verfassungsgehalte Schützen – Konkretisieren – Entwickeln",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Ein konkretistisches (Miss-)Verständnis? Die Menschenwürde zwischen Grundsatz und Grundrecht",
+      "authors": [
+        "Stefan Huster"
+      ],
+      "printed_page_number": "363",
+      "skip": false
+    },
+    {
+      "title": "Religion zwischen Freiheit, Grundrechtsschutz Dritter und Neutralität des Staates",
+      "authors": [
+        "Andreas Funke"
+      ],
+      "printed_page_number": "391",
+      "skip": false
+    },
+    {
+      "title": "Kommunikation",
+      "authors": [
+        "Thomas Wischmeyer"
+      ],
+      "printed_page_number": "415",
+      "skip": false
+    },
+    {
+      "title": "Pluralisierung von Ehe und Familie",
+      "authors": [
+        "Franz Reimer"
+      ],
+      "printed_page_number": "437",
+      "skip": false
+    },
+    {
+      "title": "Was ist und wozu Schule?",
+      "authors": [
+        "Ute Sacksofsky"
+      ],
+      "printed_page_number": "463",
+      "skip": false
+    },
+    {
+      "title": "Migration",
+      "authors": [
+        "Angelika Siehr"
+      ],
+      "printed_page_number": "487",
+      "skip": false
+    },
+    {
+      "title": "Dezentralität als Verfassungsidee Föderalismus und Kommunen",
+      "authors": [
+        "Martin Burgi"
+      ],
+      "printed_page_number": "511",
+      "skip": false
+    },
+    {
+      "title": "Demokratische und nicht-demokratische Wahlen",
+      "authors": [
+        "Patrick Hilbert"
+      ],
+      "printed_page_number": "537",
+      "skip": false
+    },
+    {
+      "title": "Gute Gesetzgebung",
+      "authors": [
+        "Wolfgang Dürner"
+      ],
+      "printed_page_number": "563",
+      "skip": false
+    },
+    {
+      "title": "Internationale Offenheit",
+      "authors": [
+        "Stefanie Schmahl"
+      ],
+      "printed_page_number": "587",
+      "skip": false
+    },
+    {
+      "title": "Abwägung im Verfassungsstaat Sicherheit",
+      "authors": [
+        "Johannes Saurer"
+      ],
+      "printed_page_number": "613",
+      "skip": false
+    },
+    {
+      "title": "Konstitutionalistisches Erbe im demokratischen Rechtsstaat? Das Berufsbeamtentum im Spiegel der Rechtsprechung des Bundesverfassungsgerichts",
+      "authors": [
+        "Margrit Seckelmann"
+      ],
+      "printed_page_number": "633",
+      "skip": false
+    },
+    {
+      "title": "Institutioneller Verfassungsschutz",
+      "authors": [
+        "Judith Froese"
+      ],
+      "printed_page_number": "661",
+      "skip": false
+    },
+    {
+      "title": "Verfassungstreue und personale Verfassungssicherung",
+      "authors": [
+        "Markus Möstl"
+      ],
+      "printed_page_number": "689",
+      "skip": false
+    },
+    {
+      "title": "Wehrhafte Demokratie Art. 21 Abs. 2 bis 4 GG und Art. 9 Abs. 2 GG als Instrumente zur Abwehr verfassungsfeindlicher Parteien und Vereine",
+      "authors": [
+        "Hans Michael Heinig"
+      ],
+      "printed_page_number": "713",
+      "skip": false
+    },
+    {
+      "title": "Transformationen Ermöglichen – Begleiten – Anstoßen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Das Bundesverfassungsgericht in der Geschichte der Gesellschaft Ein zeithistorisches Projekt",
+      "authors": [
+        "Dieter Gosewinkel"
+      ],
+      "printed_page_number": "737",
+      "skip": false
+    },
+    {
+      "title": "Vergangenheitsbewältigung als Daueraufgabe",
+      "authors": [
+        "Klaus Ferdinand Gärditz"
+      ],
+      "printed_page_number": "759",
+      "skip": false
+    },
+    {
+      "title": "Das Bundesverfassungsgericht und die deutsche Einheit",
+      "authors": [
+        "Samira Akbarian"
+      ],
+      "printed_page_number": "785",
+      "skip": false
+    },
+    {
+      "title": "Umwelt- und Klimaschutz Entwicklungen und Perspektiven der Rechtsprechung des Bundesverfassungsgerichts",
+      "authors": [
+        "Matthias Knauff"
+      ],
+      "printed_page_number": "807",
+      "skip": false
+    },
+    {
+      "title": "Digitaler Wandel in Staat und Gesellschaft",
+      "authors": [
+        "Antje von Ungern-Sternberg"
+      ],
+      "printed_page_number": "831",
+      "skip": false
+    },
+    {
+      "title": "Pandemiebekämpfung als Herausforderung für den Verfassungsstaat Gesundheitskrise als „constitutional moment“?",
+      "authors": [
+        "Laura Münkler"
+      ],
+      "printed_page_number": "855",
+      "skip": false
+    },
+    {
+      "title": "Streitkräfte Judikative Bewegungsmuster und die fragmentarische „Wehrverfassung“",
+      "authors": [
+        "Paulina Starski"
+      ],
+      "printed_page_number": "879",
+      "skip": false
+    },
+    {
+      "title": "Generationengerechtigkeit und Zukunftsbewältigung",
+      "authors": [
+        "Frauke Brosius-Gersdorf"
+      ],
+      "printed_page_number": "905",
+      "skip": false
+    },
+    {
+      "title": "Parlament und Parlamentsrecht zwischen institutionellen Anforderungen und öffentlichen Erwartungen",
+      "authors": [
+        "Sven Jürgensen"
+      ],
+      "printed_page_number": "931",
+      "skip": false
+    },
+    {
+      "title": "Demokratischer Wettbewerb",
+      "authors": [
+        "Sebastian Unger"
+      ],
+      "printed_page_number": "955",
+      "skip": false
+    },
+    {
+      "title": "Legitimationsdenken Demokratie als Verfassungsnorm",
+      "authors": [
+        "Jan Henrik Klement"
+      ],
+      "printed_page_number": "977",
+      "skip": false
+    },
+    {
+      "title": "Staatsfinanzen als Spiegel der Strukturprinzipien",
+      "authors": [
+        "Matthias Rossi"
+      ],
+      "printed_page_number": "1003",
+      "skip": false
+    },
+    {
+      "title": "Abgaben Systemidee als Maßstab?",
+      "authors": [
+        "Hanno Kube"
+      ],
+      "printed_page_number": "1025",
+      "skip": false
+    },
+    {
+      "title": "Soziale Sicherung als intertemporale Aufgabe",
+      "authors": [
+        "Andrea Kießling"
+      ],
+      "printed_page_number": "1049",
+      "skip": false
+    },
+    {
+      "title": "Neues beim Allgemeinen Grundrechtslehren und Grundrechtsdogmatik",
+      "authors": [
+        "Thorsten Kingreen"
+      ],
+      "printed_page_number": "1073",
+      "skip": false
+    },
+    {
+      "title": "Mobilisierung des Grundgesetzes Strategische Prozessführung vor dem Bundesverfassungsgericht",
+      "authors": [
+        "Uwe Volkmann"
+      ],
+      "printed_page_number": "1099",
+      "skip": false
+    },
+    {
+      "title": "Europäische Integration und Verfassung",
+      "authors": [
+        "Shu-Perng Hwang"
+      ],
+      "printed_page_number": "1121",
+      "skip": false
+    },
+    {
+      "title": "Grundrechtsschutz im europäischen Staaten-, Verfassungs- und Rechtsprechungsverbund Ein Föderalisierungsschub aus Karlsruhe",
+      "authors": [
+        "Ferdinand Wollenschläger"
+      ],
+      "printed_page_number": "1143",
+      "skip": false
+    },
+    {
+      "title": "Verzeichnis der Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "1169",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

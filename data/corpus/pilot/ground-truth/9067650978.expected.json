@@ -1,0 +1,1266 @@
+{
+  "entries": [
+    {
+      "title": "Foreword",
+      "authors": [],
+      "printed_page_number": "v",
+      "skip": true
+    },
+    {
+      "title": "List of abbreviations and symbols",
+      "authors": [],
+      "printed_page_number": "xiii",
+      "skip": true
+    },
+    {
+      "title": "1. Cohesiveness and syntactic variation: quantitative vs. qualitative grammar",
+      "authors": [
+        "Machtelt Bolkestein"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "A. Machtelt Bolkestein",
+      "authors": [
+        "Machtelt Bolkestein"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Introduction",
+      "authors": [
+        "Machtelt Bolkestein"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "2. Quantitative Grammar vs. Functional Grammar",
+      "authors": [
+        "Machtelt Bolkestein"
+      ],
+      "printed_page_number": "2",
+      "skip": false
+    },
+    {
+      "title": "2.1. The Quantitative approach",
+      "authors": [
+        "Machtelt Bolkestein"
+      ],
+      "printed_page_number": "2",
+      "skip": false
+    },
+    {
+      "title": "2.2. The Functional approach",
+      "authors": [
+        "Machtelt Bolkestein"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "2.3. Degree of topicality and pragmatic functions: overlap?",
+      "authors": [
+        "Machtelt Bolkestein"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "3. Reference and relatedness",
+      "authors": [
+        "Machtelt Bolkestein"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "4. Summary and conclusions",
+      "authors": [
+        "Machtelt Bolkestein"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "2. The typology of embedded predication and the SOV/SVO shift in Western Germanic",
+      "authors": [
+        "Alain Bossuyt"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Alain Bossuyt",
+      "authors": [
+        "Alain Bossuyt"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Introduction",
+      "authors": [
+        "Alain Bossuyt"
+      ],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "2. Absolute and appositive participles",
+      "authors": [
+        "Alain Bossuyt"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "3. Subordinators resulting from P2-integration",
+      "authors": [
+        "Alain Bossuyt"
+      ],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "4. Changes in functional pattern",
+      "authors": [
+        "Alain Bossuyt"
+      ],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "5. Conclusions",
+      "authors": [
+        "Alain Bossuyt"
+      ],
+      "printed_page_number": "28",
+      "skip": false
+    },
+    {
+      "title": "3. Functional Grammar and intonation",
+      "authors": [
+        "Lucas van Buuren"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Lucas van Buuren",
+      "authors": [
+        "Lucas van Buuren"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "0. Introduction and summary",
+      "authors": [
+        "Lucas van Buuren"
+      ],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "1. Content versus expression",
+      "authors": [
+        "Lucas van Buuren"
+      ],
+      "printed_page_number": "32",
+      "skip": false
+    },
+    {
+      "title": "2. Intonation",
+      "authors": [
+        "Lucas van Buuren"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "2.1. Rhythm",
+      "authors": [
+        "Lucas van Buuren"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "2.2. Tonicity",
+      "authors": [
+        "Lucas van Buuren"
+      ],
+      "printed_page_number": "34",
+      "skip": false
+    },
+    {
+      "title": "2.3. Effect of tonicity",
+      "authors": [
+        "Lucas van Buuren"
+      ],
+      "printed_page_number": "34",
+      "skip": false
+    },
+    {
+      "title": "2.4. Scope of the tonic",
+      "authors": [
+        "Lucas van Buuren"
+      ],
+      "printed_page_number": "36",
+      "skip": false
+    },
+    {
+      "title": "2.5. Tune",
+      "authors": [
+        "Lucas van Buuren"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "2.6. Tonality",
+      "authors": [
+        "Lucas van Buuren"
+      ],
+      "printed_page_number": "38",
+      "skip": false
+    },
+    {
+      "title": "3. Some implications for Functional Grammar",
+      "authors": [
+        "Lucas van Buuren"
+      ],
+      "printed_page_number": "40",
+      "skip": false
+    },
+    {
+      "title": "3.1. Integrating an intonational analysis into a Functional Grammar framework",
+      "authors": [
+        "Lucas van Buuren"
+      ],
+      "printed_page_number": "40",
+      "skip": false
+    },
+    {
+      "title": "3.2. The place of intonation in the theory of Functional Grammar",
+      "authors": [
+        "Lucas van Buuren"
+      ],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "3.3. The use of the Focus function in Functional Grammar",
+      "authors": [
+        "Lucas van Buuren"
+      ],
+      "printed_page_number": "42",
+      "skip": false
+    },
+    {
+      "title": "3.4. The status of the speaker's assessment of the addressee's pragmatic knowledge",
+      "authors": [
+        "Lucas van Buuren"
+      ],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "3.5. Meaning versus use or interpretation",
+      "authors": [
+        "Lucas van Buuren"
+      ],
+      "printed_page_number": "44",
+      "skip": false
+    },
+    {
+      "title": "3.6. Types of Focus",
+      "authors": [
+        "Lucas van Buuren"
+      ],
+      "printed_page_number": "44",
+      "skip": false
+    },
+    {
+      "title": "3.7. Pointing in tone-languages",
+      "authors": [
+        "Lucas van Buuren"
+      ],
+      "printed_page_number": "46",
+      "skip": false
+    },
+    {
+      "title": "4. Inferability, discourse-boundness, and sub-topics",
+      "authors": [
+        "Mike Hannay"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Mike Hannay",
+      "authors": [
+        "Mike Hannay"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Introduction",
+      "authors": [
+        "Mike Hannay"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "2. The Topic function in Functional Grammar",
+      "authors": [
+        "Mike Hannay"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "3. The status of inferable entities",
+      "authors": [
+        "Mike Hannay"
+      ],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "4. Inferables as sub-Topics",
+      "authors": [
+        "Mike Hannay"
+      ],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "5. Concluding remarks",
+      "authors": [
+        "Mike Hannay"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "5. A functional approach to some constructions of spoken Dutch",
+      "authors": [
+        "Josine Lalleman"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Josine Lalleman",
+      "authors": [
+        "Josine Lalleman"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Introduction",
+      "authors": [
+        "Josine Lalleman"
+      ],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "2. Research questions, subjects and data collection",
+      "authors": [
+        "Josine Lalleman"
+      ],
+      "printed_page_number": "66",
+      "skip": false
+    },
+    {
+      "title": "3. Acceptable spoken Dutch patterns",
+      "authors": [
+        "Josine Lalleman"
+      ],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "3.1. The Empty P1 Pattern",
+      "authors": [
+        "Josine Lalleman"
+      ],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "3.2. The P2 P1 Pattern",
+      "authors": [
+        "Josine Lalleman"
+      ],
+      "printed_page_number": "70",
+      "skip": false
+    },
+    {
+      "title": "3.3. The P3 Pattern",
+      "authors": [
+        "Josine Lalleman"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "4. Frequency of occurrence of acceptable spoken Dutch patterns",
+      "authors": [
+        "Josine Lalleman"
+      ],
+      "printed_page_number": "72",
+      "skip": false
+    },
+    {
+      "title": "5. Discussion",
+      "authors": [
+        "Josine Lalleman"
+      ],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "6. Topic in Arabic: towards a functional analysis",
+      "authors": [
+        "Ahmed Moutaouakil"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Ahmed Moutaouakil",
+      "authors": [
+        "Ahmed Moutaouakil"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "0. Introduction and overview of the data",
+      "authors": [
+        "Ahmed Moutaouakil"
+      ],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "1. Definition of Topic",
+      "authors": [
+        "Ahmed Moutaouakil"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "2. Topic assignment",
+      "authors": [
+        "Ahmed Moutaouakil"
+      ],
+      "printed_page_number": "78",
+      "skip": false
+    },
+    {
+      "title": "2.1. The assignment procedure",
+      "authors": [
+        "Ahmed Moutaouakil"
+      ],
+      "printed_page_number": "78",
+      "skip": false
+    },
+    {
+      "title": "2.2. Constraints on Topic assignment",
+      "authors": [
+        "Ahmed Moutaouakil"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "2.2.1. How many Topics?",
+      "authors": [
+        "Ahmed Moutaouakil"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "2.2.2. Topic-worthiness",
+      "authors": [
+        "Ahmed Moutaouakil"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "3. The nature of the Topic term",
+      "authors": [
+        "Ahmed Moutaouakil"
+      ],
+      "printed_page_number": "80",
+      "skip": false
+    },
+    {
+      "title": "3.1. Categories",
+      "authors": [
+        "Ahmed Moutaouakil"
+      ],
+      "printed_page_number": "80",
+      "skip": false
+    },
+    {
+      "title": "3.2. Case-marking",
+      "authors": [
+        "Ahmed Moutaouakil"
+      ],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "4. Positioning of the Topic",
+      "authors": [
+        "Ahmed Moutaouakil"
+      ],
+      "printed_page_number": "82",
+      "skip": false
+    },
+    {
+      "title": "4.1. Topic placement rules",
+      "authors": [
+        "Ahmed Moutaouakil"
+      ],
+      "printed_page_number": "82",
+      "skip": false
+    },
+    {
+      "title": "4.2. Constraints on the placement of Topic in Pø",
+      "authors": [
+        "Ahmed Moutaouakil"
+      ],
+      "printed_page_number": "84",
+      "skip": false
+    },
+    {
+      "title": "5. Conclusions",
+      "authors": [
+        "Ahmed Moutaouakil"
+      ],
+      "printed_page_number": "88",
+      "skip": false
+    },
+    {
+      "title": "7. Some considerations concerning the notion of 'psychological reality' in Functional Grammar",
+      "authors": [
+        "Jan Nuyts"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Jan Nuyts",
+      "authors": [
+        "Jan Nuyts"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "0. Introduction",
+      "authors": [
+        "Jan Nuyts"
+      ],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "1. Linguistic and psycholinguistic models and 'psychological reality'",
+      "authors": [
+        "Jan Nuyts"
+      ],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "1.1. Process models",
+      "authors": [
+        "Jan Nuyts"
+      ],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "1.2. Linguistics and psycholinguistics",
+      "authors": [
+        "Jan Nuyts"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "2. Functionalism versus formalism and psychological validity",
+      "authors": [
+        "Jan Nuyts"
+      ],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "2.1. The functionalism/formalism distinction",
+      "authors": [
+        "Jan Nuyts"
+      ],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "2.2. Competence and native-speaker intuitions",
+      "authors": [
+        "Jan Nuyts"
+      ],
+      "printed_page_number": "96",
+      "skip": false
+    },
+    {
+      "title": "2.3. Innatism",
+      "authors": [
+        "Jan Nuyts"
+      ],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "2.4. The domain of functionalism",
+      "authors": [
+        "Jan Nuyts"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "3. Functional Grammar and Functional Procedural Grammar",
+      "authors": [
+        "Jan Nuyts"
+      ],
+      "printed_page_number": "100",
+      "skip": false
+    },
+    {
+      "title": "3.1. Functional Grammar and psycholinguistics",
+      "authors": [
+        "Jan Nuyts"
+      ],
+      "printed_page_number": "100",
+      "skip": false
+    },
+    {
+      "title": "3.2. Shortcomings of Functional Grammar as a psychologically real model",
+      "authors": [
+        "Jan Nuyts"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "3.3. Towards a Functional Procedural Grammar",
+      "authors": [
+        "Jan Nuyts"
+      ],
+      "printed_page_number": "102",
+      "skip": false
+    },
+    {
+      "title": "4. Conclusion",
+      "authors": [
+        "Jan Nuyts"
+      ],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "8. The discourse function of the passive",
+      "authors": [
+        "Harm Pinkster"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Harm Pinkster",
+      "authors": [
+        "Harm Pinkster"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "0. Introduction",
+      "authors": [
+        "Harm Pinkster"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "1. Statistics",
+      "authors": [
+        "Harm Pinkster"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "2. Agent expressions",
+      "authors": [
+        "Harm Pinkster"
+      ],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "3. The function of the passive",
+      "authors": [
+        "Harm Pinkster"
+      ],
+      "printed_page_number": "112",
+      "skip": false
+    },
+    {
+      "title": "4. Conclusion",
+      "authors": [
+        "Harm Pinkster"
+      ],
+      "printed_page_number": "118",
+      "skip": false
+    },
+    {
+      "title": "9. Semantic and syntactic functions in Toba Batak: some implications for Functional Grammar",
+      "authors": [
+        "Paul Schachter"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Paul Schachter",
+      "authors": [
+        "Paul Schachter"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Introduction",
+      "authors": [
+        "Paul Schachter"
+      ],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "2. The Actor",
+      "authors": [
+        "Paul Schachter"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "3. The Adjunct and the Trigger",
+      "authors": [
+        "Paul Schachter"
+      ],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "4. Conclusion",
+      "authors": [
+        "Paul Schachter"
+      ],
+      "printed_page_number": "134",
+      "skip": false
+    },
+    {
+      "title": "10. Pragmatic and syntactic aspects of word order in Dutch",
+      "authors": [
+        "Georges de Schutter"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Georges de Schutter",
+      "authors": [
+        "Georges de Schutter"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "0. Introduction",
+      "authors": [
+        "Georges de Schutter"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "1. Dutch as an SOV-language",
+      "authors": [
+        "Georges de Schutter"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "2. Filling P1",
+      "authors": [
+        "Georges de Schutter"
+      ],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "2.1. P1 left open or filled by V",
+      "authors": [
+        "Georges de Schutter"
+      ],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "2.2. P1 filled by an element other than V",
+      "authors": [
+        "Georges de Schutter"
+      ],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "2.2.1. Tensed verb preceded by a sentence modifier",
+      "authors": [
+        "Georges de Schutter"
+      ],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "2.2.2. Tensed verb preceded by any constituent",
+      "authors": [
+        "Georges de Schutter"
+      ],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "3. Filling Pø",
+      "authors": [
+        "Georges de Schutter"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "3.1. Sentence modifiers",
+      "authors": [
+        "Georges de Schutter"
+      ],
+      "printed_page_number": "144",
+      "skip": false
+    },
+    {
+      "title": "3.2. Sentence constituents",
+      "authors": [
+        "Georges de Schutter"
+      ],
+      "printed_page_number": "144",
+      "skip": false
+    },
+    {
+      "title": "3.2.1. A quantitative analysis of a corpus of written language",
+      "authors": [
+        "Georges de Schutter"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "3.2.2. The grammaticality of sentences with Pø",
+      "authors": [
+        "Georges de Schutter"
+      ],
+      "printed_page_number": "146",
+      "skip": false
+    },
+    {
+      "title": "3.2.3. Distribution of T, R and N in Pø-PP's",
+      "authors": [
+        "Georges de Schutter"
+      ],
+      "printed_page_number": "148",
+      "skip": false
+    },
+    {
+      "title": "3.3. Conclusion of experiments",
+      "authors": [
+        "Georges de Schutter"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "4. The pragmatic functions of P1 and Pø",
+      "authors": [
+        "Georges de Schutter"
+      ],
+      "printed_page_number": "150",
+      "skip": false
+    },
+    {
+      "title": "5. The extended sentence in Dutch",
+      "authors": [
+        "Georges de Schutter"
+      ],
+      "printed_page_number": "150",
+      "skip": false
+    },
+    {
+      "title": "6. General conclusions",
+      "authors": [
+        "Georges de Schutter"
+      ],
+      "printed_page_number": "152",
+      "skip": false
+    },
+    {
+      "title": "11. Topic and Focus in Wambon discourse",
+      "authors": [
+        "Lourens de Vries"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Lourens de Vries",
+      "authors": [
+        "Lourens de Vries"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "0. Introduction",
+      "authors": [
+        "Lourens de Vries"
+      ],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "1. Theoretical preliminaries",
+      "authors": [
+        "Lourens de Vries"
+      ],
+      "printed_page_number": "156",
+      "skip": false
+    },
+    {
+      "title": "1.1. Defining pragmatic functions",
+      "authors": [
+        "Lourens de Vries"
+      ],
+      "printed_page_number": "156",
+      "skip": false
+    },
+    {
+      "title": "1.2. Some discourse notions",
+      "authors": [
+        "Lourens de Vries"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "2. Topic in Wambon",
+      "authors": [
+        "Lourens de Vries"
+      ],
+      "printed_page_number": "160",
+      "skip": false
+    },
+    {
+      "title": "2.1. Weak Topics",
+      "authors": [
+        "Lourens de Vries"
+      ],
+      "printed_page_number": "160",
+      "skip": false
+    },
+    {
+      "title": "2.1.1. Switch-reference morphology",
+      "authors": [
+        "Lourens de Vries"
+      ],
+      "printed_page_number": "160",
+      "skip": false
+    },
+    {
+      "title": "2.1.2. Topicality and switch-reference",
+      "authors": [
+        "Lourens de Vries"
+      ],
+      "printed_page_number": "162",
+      "skip": false
+    },
+    {
+      "title": "2.1.3. Contextual perspective and switch-reference",
+      "authors": [
+        "Lourens de Vries"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "2.2. Strong Topics",
+      "authors": [
+        "Lourens de Vries"
+      ],
+      "printed_page_number": "168",
+      "skip": false
+    },
+    {
+      "title": "2.2.1. The Strong Topic-construction",
+      "authors": [
+        "Lourens de Vries"
+      ],
+      "printed_page_number": "168",
+      "skip": false
+    },
+    {
+      "title": "2.2.2. The Strong Topic-markers eve and nomboneve",
+      "authors": [
+        "Lourens de Vries"
+      ],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "3. Focus in Wambon discourse",
+      "authors": [
+        "Lourens de Vries"
+      ],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "3.0. Introduction",
+      "authors": [
+        "Lourens de Vries"
+      ],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "3.1. Neutralization and diversification",
+      "authors": [
+        "Lourens de Vries"
+      ],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "3.2. The relation of topicality to saliency",
+      "authors": [
+        "Lourens de Vries"
+      ],
+      "printed_page_number": "174",
+      "skip": false
+    },
+    {
+      "title": "4. Concluding remarks",
+      "authors": [
+        "Lourens de Vries"
+      ],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "12. Parentheticals and Functional Grammar",
+      "authors": [
+        "Yael Ziv"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Yael Ziv",
+      "authors": [
+        "Yael Ziv"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Background and introduction",
+      "authors": [
+        "Yael Ziv"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "2. General characterization",
+      "authors": [
+        "Yael Ziv"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "3. Syntactic and pragmatic properties - implications",
+      "authors": [
+        "Yael Ziv"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "3.1. Predictions of the syntactic characterization",
+      "authors": [
+        "Yael Ziv"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "3.1.1. Lack of dependency",
+      "authors": [
+        "Yael Ziv"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "3.1.2. No relevant sentential syntactic processes",
+      "authors": [
+        "Yael Ziv"
+      ],
+      "printed_page_number": "184",
+      "skip": false
+    },
+    {
+      "title": "3.2. Communicative properties",
+      "authors": [
+        "Yael Ziv"
+      ],
+      "printed_page_number": "188",
+      "skip": false
+    },
+    {
+      "title": "3.3. Potential parentheticals - speculations",
+      "authors": [
+        "Yael Ziv"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "3.3.1. Tag questions",
+      "authors": [
+        "Yael Ziv"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "3.3.2. Interjections",
+      "authors": [
+        "Yael Ziv"
+      ],
+      "printed_page_number": "190",
+      "skip": false
+    },
+    {
+      "title": "3.3.3. Vocatives",
+      "authors": [
+        "Yael Ziv"
+      ],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "3.3.4. Non-restrictive relative clauses",
+      "authors": [
+        "Yael Ziv"
+      ],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "4. Semantic and pragmatic restrictions",
+      "authors": [
+        "Yael Ziv"
+      ],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "5. The theoretical status of parentheticals",
+      "authors": [
+        "Yael Ziv"
+      ],
+      "printed_page_number": "194",
+      "skip": false
+    },
+    {
+      "title": "5.1. Generative-Transformational Grammar",
+      "authors": [
+        "Yael Ziv"
+      ],
+      "printed_page_number": "194",
+      "skip": false
+    },
+    {
+      "title": "5.2. Functional Grammar",
+      "authors": [
+        "Yael Ziv"
+      ],
+      "printed_page_number": "194",
+      "skip": false
+    },
+    {
+      "title": "References",
+      "authors": [],
+      "printed_page_number": "201",
+      "skip": true
+    },
+    {
+      "title": "Index of authors",
+      "authors": [],
+      "printed_page_number": "215",
+      "skip": true
+    },
+    {
+      "title": "Index of languages and language-families",
+      "authors": [],
+      "printed_page_number": "218",
+      "skip": true
+    },
+    {
+      "title": "Index of subjects",
+      "authors": [],
+      "printed_page_number": "219",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

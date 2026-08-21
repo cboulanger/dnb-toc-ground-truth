@@ -1,0 +1,310 @@
+{
+  "generated_at": 1787243618.324563,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Contents",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1 Mathematical Analysis of Algorithms",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 The Dangers of Computer Science Theory",
+      "printed_page_number": "19",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 The Analysis of Algorithms",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Big Omicron and Big Omega and Big Theta",
+      "printed_page_number": "35",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Optimal Measurement Points for Program Frequency Counts",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Estimating the Efficiency of Backtrack Programs",
+      "printed_page_number": "55",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Ordered Hash Tables",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Activity in an Interleaved Memory",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 An Analysis of Alpha-Beta Pruning",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Notes on Generalized Dedekind Sums",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11 The Distribution of Continued Fraction Approximations",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12 Evaluation of Porter\u2019s Constant",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13 The Subtractive Algorithm for Greatest Common Divisors",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14 Length of Strings for a Merge Sort",
+      "printed_page_number": "205",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15 The Average Height of Planted Plane Trees",
+      "printed_page_number": "215",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16 The Toilet Paper Problem",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "17 An Analysis of Optimum Caching",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "18 A Trivial Algorithm Whose Analysis Isn\u2019t",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "19 Deletions That Preserve Randomness",
+      "printed_page_number": "283",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "20 Analysis of a Simple Factorization Algorithm",
+      "printed_page_number": "303",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "21 The Expected Linearity of a Simple Equivalence Algorithm",
+      "printed_page_number": "341",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "22 Textbook Examples of Recursion",
+      "printed_page_number": "391",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "23 An Exact Analysis of Stable Allocation",
+      "printed_page_number": "415",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "24 Stable Husbands",
+      "printed_page_number": "429",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "vii",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "viii Selected Papers on Analysis of Algorithms",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "25 Shellsort With Three Increments",
+      "printed_page_number": "447",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "26 The Average Time for Carry Propagation",
+      "printed_page_number": "467",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "27 Linear Probing and Graphs",
+      "printed_page_number": "473",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "28 A Terminological Proposal",
+      "printed_page_number": "485",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "29 Postscript About NP-Hard Problems",
+      "printed_page_number": "493",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "30 An Experiment in Optimal Sorting",
+      "printed_page_number": "495",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "31 Duality in Addition Chains",
+      "printed_page_number": "501",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "32 Complexity Results for Bandwidth Minimization",
+      "printed_page_number": "505",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "33 The Problem of Compatible Representatives",
+      "printed_page_number": "535",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "34 The Complexity of Nonuniform Random Number Generation",
+      "printed_page_number": "545",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "605",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

@@ -1,0 +1,1781 @@
+{
+  "generated_at": 1787131053.4920871,
+  "entries": [
+    {
+      "title": "Danksagung",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Jean Morrissey",
+        "Kieltly Oberlin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "24",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Theoretische Modelle zur Erkl\u00e4rung von Essst\u00f6rungen",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [
+        "Kieltly Oberlin",
+        "Jean Morrissey"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "26",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lernziele",
+      "printed_page_number": "26",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Philosophische Perspektiven",
+      "printed_page_number": "26",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das biopsychosoziale Modell",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Therapeutische Ans\u00e4tze zur Behandlung und Genesung von Essst\u00f6rungen",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Recovery-Modell",
+      "printed_page_number": "37",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Spiritualit\u00e4t und Genesung",
+      "printed_page_number": "38",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zusammenfassung",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "40",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eKeiner versteht mich. Ich verstehe mich selbst nicht\u201c",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [
+        "Kieltly Oberlin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "44",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lernziele",
+      "printed_page_number": "44",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pers\u00f6nliche Erfahrungen mit Essst\u00f6rungen",
+      "printed_page_number": "45",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Essst\u00f6rungen sind nicht immer am Gewicht erkennbar",
+      "printed_page_number": "45",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Essst\u00f6rungen betreffen auch das m\u00e4nnliche Geschlecht",
+      "printed_page_number": "46",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Essst\u00f6rungen k\u00f6nnen auch in h\u00f6herem Alter auftreten",
+      "printed_page_number": "48",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Essst\u00f6rungen sind keine Life-Style-Entscheidung aufgrund der \u00dcberbewertung von Figur und Konfektionsgr\u00f6\u00dfe",
+      "printed_page_number": "50",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Essst\u00f6rungen sind schwerwiegende psychische und physische Erkrankungen",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eltern sind eine wertvolle Ressource und d\u00fcrfen nicht f\u00fcr die Essst\u00f6rung ihres Kindes verantwortlich gemacht werden",
+      "printed_page_number": "52",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Auch f\u00fcr Praktizierende kann der Umgang mit Menschen mit Essst\u00f6rungen schwierig sein",
+      "printed_page_number": "54",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Genesung von einer Essst\u00f6rung ist langfristig und mit entsprechender Unterst\u00fctzung m\u00f6glich",
+      "printed_page_number": "55",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zusammenfassung",
+      "printed_page_number": "56",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Was bedeutet Genesung im Kontext von Essst\u00f6rungen?",
+      "printed_page_number": "59",
+      "source_page_index": -1,
+      "authors": [
+        "Jan Alexander de Vos",
+        "Kieltly Oberlin",
+        "Jean Morrissey"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "60",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lernziele",
+      "printed_page_number": "60",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Was bedeutet Genesung?",
+      "printed_page_number": "60",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhand von welchen Kriterien wird Genesung gemessen?",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zentrale Elemente der Genesung",
+      "printed_page_number": "63",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Behandlung genesungsrelevanter psychosozialer Aspekte",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Positive Effekte der Einbeziehung psychosozialer Kategorien",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zu ber\u00fccksichtigende Aspekte",
+      "printed_page_number": "76",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Aufbau unterst\u00fctzender Beziehungen",
+      "printed_page_number": "76",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ist Genesung m\u00f6glich?",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Umgang mit Ambivalenz",
+      "printed_page_number": "78",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zusammenfassung",
+      "printed_page_number": "78",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "79",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Aufbau einer genesungsorientierten Beziehung zu Menschen mit Essst\u00f6rungen",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [
+        "Harriet Parsons",
+        "Kieltly Oberlin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "84",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lernziele",
+      "printed_page_number": "84",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Was es bedeutet, mit einer Essst\u00f6rung zu leben",
+      "printed_page_number": "84",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verstehen, wie eine Person mit Essst\u00f6rung denkt",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verzerrtes Denken",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Perfektionistische Tendenzen",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Polarisiertes Denken",
+      "printed_page_number": "86",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verstehen, wie eine Person mit Essst\u00f6rung f\u00fchlt",
+      "printed_page_number": "86",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sensibilit\u00e4t",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Selbstkritik",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Keine Akzeptanz von Mitgef\u00fchl f\u00fcr die eigene Person",
+      "printed_page_number": "88",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Aufbau einer unterst\u00fctzenden zwischenmenschlichen Beziehung",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Entscheidende Elemente f\u00fcr eine unterst\u00fctzende Beziehung zu Menschen mit Essst\u00f6rungen",
+      "printed_page_number": "91",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Empathie",
+      "printed_page_number": "92",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sympathie und Lob \u2013 zwei Seiten derselben Medaille",
+      "printed_page_number": "92",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Strukturierung von Gespr\u00e4chen",
+      "printed_page_number": "93",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Herausforderungen in Beziehungen zu Menschen mit Essst\u00f6rungen",
+      "printed_page_number": "98",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Umgang mit Uneinsichtigkeit",
+      "printed_page_number": "98",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Umgang mit der eigenen Unsicherheit",
+      "printed_page_number": "99",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eigene \u00c4ngste",
+      "printed_page_number": "100",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Weg ist das Ziel",
+      "printed_page_number": "100",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zusammenfassung",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Essst\u00f6rungen und Komorbidit\u00e4t im Genesungsprozess",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [
+        "Kieltly Oberlin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lernziele",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Komorbidit\u00e4t bei Essst\u00f6rungen verstehen",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "H\u00e4ufige psychische Erkrankungen bei Essst\u00f6rungen",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Beziehung zwischen Komorbidit\u00e4t und Essst\u00f6rungen",
+      "printed_page_number": "112",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Entwicklung von Komorbidit\u00e4t",
+      "printed_page_number": "112",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Essst\u00f6rungen als Sekund\u00e4rerkrankung",
+      "printed_page_number": "112",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Aufrechterhaltung von maladaptiven Verhaltensmustern",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wann ist das Risiko f\u00fcr Essst\u00f6rungen und Komorbidit\u00e4t am h\u00f6chsten?",
+      "printed_page_number": "114",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Komorbidit\u00e4t im Prozess der Genesung einer Essst\u00f6rung",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Empfehlungen zur Behandlung von Essst\u00f6rungen und Komorbidit\u00e4t",
+      "printed_page_number": "116",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Diagnose von Komorbidit\u00e4t",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hinweise zur Diagnose von Komorbidit\u00e4t bei gest\u00f6rtem Ess- und Purging-Verhalten",
+      "printed_page_number": "118",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hinweise zur Reihenfolge der Behandlung von Komorbidit\u00e4t und Essst\u00f6rung",
+      "printed_page_number": "118",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Auswirkungen mehrerer psychiatrischer Diagnosen auf die Person",
+      "printed_page_number": "119",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Reaktionen von Praktizierenden auf Komorbidit\u00e4t",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Herausforderungen f\u00fcr Praktizierende aller Gesundheitsfachbereiche",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Spezielle Schulungen im Bereich von Essst\u00f6rungen und Komorbidit\u00e4t",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zusammenfassung",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "122",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Klinische Begutachtung von Personen mit Essst\u00f6rungen",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [
+        "Fiona McNicholas",
+        "Sara McDevitt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "126",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lernziele",
+      "printed_page_number": "126",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zweck der klinischen Begutachtung",
+      "printed_page_number": "126",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Grunds\u00e4tze zur Durchf\u00fchrung der klinischen Begutachtung",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Person zur Teilnahme ermutigen",
+      "printed_page_number": "128",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eine vertrauensvolle Beziehung herstellen",
+      "printed_page_number": "128",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Angeh\u00f6rige einbinden",
+      "printed_page_number": "129",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Vertraulichkeit wahren",
+      "printed_page_number": "129",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Informationen sammeln",
+      "printed_page_number": "130",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Balance zwischen der Autonomie erwachsener Personen und dem klinischen Risiko wahren",
+      "printed_page_number": "130",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Klinische Begutachtung von Menschen mit Essst\u00f6rungen: Beurteilung der PFZU-Bereiche",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beurteilung der psychopathologischen Symptome der Person",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beurteilung der famili\u00e4ren Situation",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beurteilung des k\u00f6rperlichen Zustands",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beurteilung des sozialen Umfelds",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Weitere Beurteilungsinstrumente",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fallbeispiel Jane und klinische Begutachtung",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beurteilung der psychopathologischen Symptome der Person",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beurteilung der famili\u00e4ren Situation",
+      "printed_page_number": "144",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beurteilung des k\u00f6rperlichen Zustands",
+      "printed_page_number": "144",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beurteilung des sozialen Umfelds",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Diagnose und Therapieempfehlung",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zusammenfassung",
+      "printed_page_number": "146",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Behandlung und Genesung bei Essst\u00f6rungen",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [
+        "Sara McDevitt",
+        "Fiona McNicholas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "150",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lernziele",
+      "printed_page_number": "150",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Grunds\u00e4tze bei der Erstellung eines Therapieplans",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein multidisziplin\u00e4rer Ansatz",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Modelle und Methoden zur Behandlung von Essst\u00f6rungen",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Biologische Aspekte des Behandlungsplans",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Psychologische Aspekte des Behandlungsplans",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Soziale Aspekte des Behandlungsplans",
+      "printed_page_number": "154",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einbindung der Person in den Behandlungsplan",
+      "printed_page_number": "154",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Therapieplanung",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Medizinische Aspekte der Behandlung von Essst\u00f6rungen",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Management des Kostaufbaus",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Refeeding-Syndrom",
+      "printed_page_number": "156",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Psychosoziale Methoden zur Behandlung von Essst\u00f6rungen bei Erwachsenen",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anorexia nervosa",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bulimia nervosa und Binge-Eating-St\u00f6rung",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "St\u00f6rung mit Vermeidung oder Einschr\u00e4nkung der Nahrungsaufnahme (ARFID)",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Psychosoziale Methoden zur Behandlung von Essst\u00f6rungen bei Kindern und Jugendlichen",
+      "printed_page_number": "162",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anorexia nervosa",
+      "printed_page_number": "162",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bulimia nervosa",
+      "printed_page_number": "164",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Binge-Eating-St\u00f6rung",
+      "printed_page_number": "164",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "St\u00f6rung mit Vermeidung oder Einschr\u00e4nkung der Nahrungsaufnahme (ARFID)",
+      "printed_page_number": "166",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Medikament\u00f6se Behandlung von Essst\u00f6rungen bei Kindern und Jugendlichen",
+      "printed_page_number": "166",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Behandlung von Komorbidit\u00e4t",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Psychische Komorbidit\u00e4t",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Medizinische Komorbidit\u00e4t",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00dcberpr\u00fcfung und Erhaltung der Fortschritte im Genesungsprozess",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zusammenfassung",
+      "printed_page_number": "174",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "174",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Rolle von Angeh\u00f6rigen im Genesungsprozess einer Person mit Essst\u00f6rung",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [
+        "Patricia O'Connor"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "178",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lernziele",
+      "printed_page_number": "178",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Auswirkungen der Essst\u00f6rung auf andere Familienmitglieder",
+      "printed_page_number": "178",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Psychisches Wohlbefinden von Angeh\u00f6rigen",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Soziales Wohlbefinden von Angeh\u00f6rigen",
+      "printed_page_number": "180",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Interaktion mit der Person mit Essst\u00f6rung",
+      "printed_page_number": "180",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erfahrungen verschiedener Familienmitglieder im Zusammenleben mit der Person mit Essst\u00f6rung",
+      "printed_page_number": "182",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erfahrungen von Geschwistern",
+      "printed_page_number": "182",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erfahrungen von Partnern",
+      "printed_page_number": "183",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schwierigkeiten von Angeh\u00f6rigen",
+      "printed_page_number": "184",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Unterst\u00fctzung von Angeh\u00f6rigen in ihrer Rolle als F\u00fcrsorgende",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einbindung der Familie in die Therapie",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ber\u00fccksichtigung der Bed\u00fcrfnisse von Angeh\u00f6rigen",
+      "printed_page_number": "186",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Strategien zur Unterst\u00fctzung des Genesungsprozesses",
+      "printed_page_number": "187",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zusammenfassung",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "192",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "K\u00f6rperbildarbeit im Kontext von Essst\u00f6rungen",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [
+        "Gerry Butcher",
+        "Michel Probst"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "196",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lernziele",
+      "printed_page_number": "196",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Was bedeutet K\u00f6rperbild?",
+      "printed_page_number": "196",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Auswirkungen eines schlechten K\u00f6rperbilds",
+      "printed_page_number": "198",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Theorien zum K\u00f6rperbild",
+      "printed_page_number": "198",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die \u201eTheorie der Linsen\u201c",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beurteilung und Behandlung des K\u00f6rperbilds",
+      "printed_page_number": "200",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verhalten der Praktizierenden",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beurteilung des K\u00f6rperbilds",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verschiedene Methoden der K\u00f6rperbildtherapie",
+      "printed_page_number": "203",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "K\u00f6rperorientierte Therapie",
+      "printed_page_number": "204",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "K\u00f6rperbildorientierte therapeutische Ma\u00dfnahmen",
+      "printed_page_number": "206",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Spiegel\u00fcbung",
+      "printed_page_number": "212",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zu ber\u00fccksichtigende Aspekte",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Studienergebnisse zur k\u00f6rperorientierten Therapie",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zusammenfassung",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "214",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Soziale Medien und Essst\u00f6rungen",
+      "printed_page_number": "217",
+      "source_page_index": -1,
+      "authors": [
+        "Andrea LaMarre"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "218",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lernziele",
+      "printed_page_number": "218",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Soziale Medien und das Internet",
+      "printed_page_number": "218",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Soziale Medien und Essst\u00f6rungen: Risiken und Chancen",
+      "printed_page_number": "220",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Soziale Medien und Unzufriedenheit mit dem eigenen K\u00f6rper",
+      "printed_page_number": "220",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ver\u00e4nderung des K\u00f6rperideals",
+      "printed_page_number": "222",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Rolle des sozialen Vergleichs",
+      "printed_page_number": "222",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Werbung in sozialen Medien",
+      "printed_page_number": "223",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Reflexionspunkt",
+      "printed_page_number": "223",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einfluss von Zeit und sozialem Vergleich in sozialen Medien",
+      "printed_page_number": "224",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wirksamkeit der Zensur zur Eind\u00e4mmung des Risikos",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Entwicklung von Medienkompetenz",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chancen f\u00fcr die Behandlung und Unterst\u00fctzung von Menschen mit Essst\u00f6rungen",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Integration von Technologie in die klinische Praxis",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Unterst\u00fctzung f\u00fcr Angeh\u00f6rige und Praktizierende",
+      "printed_page_number": "228",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zusammenfassung",
+      "printed_page_number": "232",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "233",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Stigmatisierung sowie ethische und rechtliche Aspekte im Kontext von Essst\u00f6rungen",
+      "printed_page_number": "237",
+      "source_page_index": -1,
+      "authors": [
+        "Jean Morrissey"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stigmatisierung von Essst\u00f6rungen",
+      "printed_page_number": "238",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Prozess der Stigmatisierung",
+      "printed_page_number": "239",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Formen von Stigmatisierung",
+      "printed_page_number": "239",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Folgen von Stigmatisierung",
+      "printed_page_number": "242",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Studien zur Stigmatisierung von Essst\u00f6rungen und Adipositas",
+      "printed_page_number": "243",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stigmatisierung des K\u00f6rpergewichts",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stigmatisierung von Essst\u00f6rungen durch medizinisches Personal",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Strategien zur Entstigmatisierung von Menschen mit Essst\u00f6rungen",
+      "printed_page_number": "246",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Berufliche und ethische Herausforderungen",
+      "printed_page_number": "247",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Risiken bei der Arbeit mit Menschen mit Essst\u00f6rungen",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rechtliche Aspekte der Behandlung von Personen mit Essst\u00f6rungen",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Selbstf\u00fcrsorge und berufliche Weiterentwicklung",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Strategien zur Selbstf\u00fcrsorge",
+      "printed_page_number": "252",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zusammenfassung",
+      "printed_page_number": "253",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "253",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Fazit",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kernaussagen dieses Buches",
+      "printed_page_number": "258",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Klassifikation und diagnostische Kriterien von F\u00fctter- und Essst\u00f6rungen: DSM-5",
+      "printed_page_number": "261",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Autoren- und Mitarbeiterverzeichnis",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Abk\u00fcrzungsverzeichnis",
+      "printed_page_number": "270",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Adressen- und Linkverzeichnis",
+      "printed_page_number": "272",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Body-Ma\u00df-Index",
+      "printed_page_number": "274",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sachwortverzeichnis",
+      "printed_page_number": "275",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

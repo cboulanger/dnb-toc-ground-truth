@@ -1,0 +1,108 @@
+{
+  "entries": [
+    {
+      "title": "VORWORT",
+      "authors": [
+        "Claudia Resch",
+        "Wolfgang U. Dressler"
+      ],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "I. CLARIAH-AT: Digitale Infrastrukturen f\u00fcr die Linguistik",
+      "authors": [
+        "Karlheinz M\u00f6rth"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "II. AMC (Austrian Media Corpus) \u2013 Korpusbasierte Forschungen zum \u00f6sterreichischen Deutsch",
+      "authors": [
+        "Jutta Ransmayr",
+        "Karlheinz M\u00f6rth",
+        "Matej \u0110ur\u010do"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "III. Morphosyntaktische Annotation historischer deutscher Texte: Das Austrian Baroque Corpus",
+      "authors": [
+        "Claudia Resch",
+        "Ulrike Czeitschner"
+      ],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "IV. Die morphologische Annotation im Gralis-Korpus",
+      "authors": [
+        "Branko To\u0161ovi\u0107"
+      ],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "V. Kodierung und Analyse mit CHILDES: Erfahrungen mit kindersprachlichen Spontansprachkorpora und erste Arbeiten zu einem rein erwachsenensprachlichen Spontansprachkorpus",
+      "authors": [
+        "Katharina Korecky-Kr\u00f6ll"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "VI. Eigennamen in der Korpuslinguistik: Eine praxisorientierte Erstanalyse",
+      "authors": [
+        "Peter Ernst"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "VII. Pluraldubletten diachron und synchron: Eine korpusbasierte Untersuchung zu den Spuren der Diachronie im Gegenwartsdeutschen",
+      "authors": [
+        "Martina Werner",
+        "Wolfgang U. Dressler",
+        "Karlheinz M\u00f6rth"
+      ],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "VIII. Phonotaktische versus morphonotaktische Konsonantengruppen im Slowakischen und Deutschen: Eine kontrastive korpuslinguistische Untersuchung",
+      "authors": [
+        "Miroslava Hlini\u010danov\u00e1",
+        "Matej \u0110ur\u010do",
+        "Karlheinz M\u00f6rth",
+        "Wolfgang U. Dressler"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "IX. Statistische maschinelle \u00dcbersetzung vom Standarddeutschen in den Wiener Dialekt",
+      "authors": [
+        "Friedrich Neubarth",
+        "Harald Trost"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "REGISTER",
+      "authors": [],
+      "printed_page_number": "205",
+      "skip": true
+    },
+    {
+      "title": "INHALTSVERZEICHNIS",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

@@ -1,0 +1,368 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Nun, es könnte wahrscheinlich auch anders sein. Eingriffspunkte einer Möglichkeitswissenschaft",
+      "authors": [
+        "Lars Hochmann",
+        "Silja Graupe",
+        "Thomas Korbun",
+        "Stephan Panther",
+        "Uwe Schneidewind"
+      ],
+      "printed_page_number": "015",
+      "skip": false
+    },
+    {
+      "title": "Neue Ökonomie mit mehr demokratischer Beteiligung. Mit Reinhard Pfriem im Gespräch",
+      "authors": [
+        "Gunnar Sohn",
+        "Lutz Becker"
+      ],
+      "printed_page_number": "041",
+      "skip": false
+    },
+    {
+      "title": "Kurzbiografie von Reinhard Pfriem",
+      "authors": [],
+      "printed_page_number": "055",
+      "skip": false
+    },
+    {
+      "title": "Teil 1 | Das Auftun. Ontologien und Bedingungen der Möglichkeit",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vom Möglichen her denken. Zur Ontologie des Noch-nicht-Seins bei Ernst Bloch",
+      "authors": [
+        "Johann Kreuzer"
+      ],
+      "printed_page_number": "059",
+      "skip": false
+    },
+    {
+      "title": "Wachstumsnarrative. Ein möglichkeitswissenschaftlicher Versuch",
+      "authors": [
+        "Birger P. Priddat"
+      ],
+      "printed_page_number": "073",
+      "skip": false
+    },
+    {
+      "title": "Über das Politische des Möglichen. Skizzen einer politischen Philosophie kontingenzbewusster Wissenschaft",
+      "authors": [
+        "Steffen Hamborg"
+      ],
+      "printed_page_number": "089",
+      "skip": false
+    },
+    {
+      "title": "Notwendig, aber unerreichbar? Über die Kunst der Ermöglichung",
+      "authors": [
+        "Claus Thomasberger"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "Das dritte gossensche Gesetz. Eine verlorengegangene Potenz von Ermöglichung?",
+      "authors": [
+        "Katrin Hirte"
+      ],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "Wurf ins Mögliche von Freiheit und Lebendigkeit. Wirtschaftswissenschaft und Gesellschaft zwischen Begrenzung und Entfaltung von Möglichkeiten",
+      "authors": [
+        "Florian Rommel",
+        "Johannes Euler"
+      ],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "Verortung der Möglichkeitswissenschaft in den drei Ebenen des Seins. Eine Wegbeschreibung am Beispiel der Ökonomik",
+      "authors": [
+        "Sarah Mewes"
+      ],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "Teil 2 | Das Unterscheiden. Konzeptionen und Aspekte der Problematisierung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Performativität und Kritik. Schlüsselbegriffe für die Neubegründung der Wirtschaftswissenschaft als Möglichkeitswissenschaft",
+      "authors": [
+        "Carsten Herrmann-Pillath"
+      ],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "Wer dem Möglichen folgt, begreift die Welt politisch. Plädoyer für mehr Eigenschaften",
+      "authors": [
+        "Lars Hochmann"
+      ],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "Möglichkeitswissenschaft als Politische Ökonomie für eine demokratische Gesellschaft. Mit Albert O. Hirschman über Hirschman hinaus",
+      "authors": [
+        "Stephan Panther"
+      ],
+      "printed_page_number": "253",
+      "skip": false
+    },
+    {
+      "title": "Transformative Betriebswirtschaftslehre. Eine Disziplin auf der Suche nach sich selbst",
+      "authors": [
+        "André Reichel"
+      ],
+      "printed_page_number": "271",
+      "skip": false
+    },
+    {
+      "title": "Joseph A. Schumpeter und die Möglichkeitswissenschaft. Eine Entdeckungsreise zu Gemeinsamkeiten, Unterschieden und Gegensätzlichkeiten",
+      "authors": [
+        "Michael Jonitz"
+      ],
+      "printed_page_number": "287",
+      "skip": false
+    },
+    {
+      "title": "Integrales Ressourcenmanagement. Leitplanken einer nachhaltigkeitsbezogenen Möglichkeitswissenschaft",
+      "authors": [
+        "Georg Müller-Christ",
+        "Bror Giesenbauer"
+      ],
+      "printed_page_number": "305",
+      "skip": false
+    },
+    {
+      "title": "Möglichkeiten und Wirklichkeiten der Marketingwissenschaft. Eine Annäherung",
+      "authors": [
+        "Michaela Haase"
+      ],
+      "printed_page_number": "331",
+      "skip": false
+    },
+    {
+      "title": "Teil 3 | Das Verständigen. Politiken und Quellen der Normativität",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Responsivität und transformative Geschäfts(modell)entwicklung. Möglichkeitswissenschaft als kritische Theorie",
+      "authors": [
+        "Marc C. Hübscher"
+      ],
+      "printed_page_number": "359",
+      "skip": false
+    },
+    {
+      "title": "Diskurse als kulturelle Praktiken? Zur Möglichkeit, kulturalistische und integrative Wirtschaftsethik zusammenzudenken",
+      "authors": [
+        "Sebastian Thieme"
+      ],
+      "printed_page_number": "387",
+      "skip": false
+    },
+    {
+      "title": "Die (Un-)Möglichkeit der Mitweltgestaltung und Entwicklung. Versuch über die relationale Entwicklung und Befähigung",
+      "authors": [
+        "Gustav Bergmann"
+      ],
+      "printed_page_number": "417",
+      "skip": false
+    },
+    {
+      "title": "Kommende Nachhaltigkeit. Zur Relevanz von Kritik, konkreter Utopie und Möglichkeitswissenschaft",
+      "authors": [
+        "Daniela Gottschlich"
+      ],
+      "printed_page_number": "441",
+      "skip": false
+    },
+    {
+      "title": "Denkfigurenkabinett einer Nachhaltigkeitsethik",
+      "authors": [
+        "Holger Petersen"
+      ],
+      "printed_page_number": "457",
+      "skip": false
+    },
+    {
+      "title": "Möglichkeitswissen(schaft) zwischen Kontingenz, Kontrafaktik und Transformation. Ein Dialog",
+      "authors": [
+        "Marco Lehmann-Waffenschmidt"
+      ],
+      "printed_page_number": "475",
+      "skip": false
+    },
+    {
+      "title": "Rechte der Natur und die Vision einer erweiterten Demokratie",
+      "authors": [
+        "Georg Winter"
+      ],
+      "printed_page_number": "489",
+      "skip": false
+    },
+    {
+      "title": "Das Geld in Wirtschaft und Literatur. Zum Zusammenhang von gegenwärtiger Finanzkrise und Goethes Faust",
+      "authors": [
+        "Norbert Koubek"
+      ],
+      "printed_page_number": "501",
+      "skip": false
+    },
+    {
+      "title": "Teil 4 | Das Befähigen. Bildung und Orte der Veränderung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Kapitalismus macht Kultur. Zum 70. Geburtstag von Reinhard Pfriem",
+      "authors": [
+        "Lutz Becker"
+      ],
+      "printed_page_number": "517",
+      "skip": false
+    },
+    {
+      "title": "Wuppertal als Möglichkeitsraum. Reinhard Pfriem zum 70. Geburtstag",
+      "authors": [
+        "Rainer Lucas"
+      ],
+      "printed_page_number": "529",
+      "skip": false
+    },
+    {
+      "title": "Wuppertal als Standort einer Möglichkeitswissenschaft. Zur Bedeutung eines Genius loci für eine kritische Wissenschaft",
+      "authors": [
+        "Uwe Schneidewind"
+      ],
+      "printed_page_number": "547",
+      "skip": false
+    },
+    {
+      "title": "Wie über >Möglichkeitswissenschaft< reden?",
+      "authors": [
+        "Reinhard Schulz"
+      ],
+      "printed_page_number": "561",
+      "skip": false
+    },
+    {
+      "title": "Entdecke die Möglichkeiten. Anregungen zum Umgang mit Management-Modellen",
+      "authors": [
+        "Andreas Aulinger"
+      ],
+      "printed_page_number": "581",
+      "skip": false
+    },
+    {
+      "title": "Ausbilderforschung als Möglichkeitswissenschaft. Auf dem Weg zu einer zukunftsgewandten betrieblichen Berufs(aus)bildung?",
+      "authors": [
+        "Karina Kiepe"
+      ],
+      "printed_page_number": "597",
+      "skip": false
+    },
+    {
+      "title": "Spielend in die Utopie",
+      "authors": [
+        "Klaus Eisenack",
+        "Anja Wirsing"
+      ],
+      "printed_page_number": "617",
+      "skip": false
+    },
+    {
+      "title": "Teil 5 | Das Gestalten. Praktiken und Kulturen der Ermöglichung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Beratung als Ermöglichung. Eine kritische Gegenüberstellung von Interventionsdiskursen im Spannungsfeld der Legitimation und Irritation betriebswirtschaftlicher Praxis",
+      "authors": [
+        "Stephanie Birkner"
+      ],
+      "printed_page_number": "641",
+      "skip": false
+    },
+    {
+      "title": "Der Blick vom Zaun. Beratung zwischen Illusion und Imagination",
+      "authors": [
+        "Hans Jürgen Heinecke"
+      ],
+      "printed_page_number": "661",
+      "skip": false
+    },
+    {
+      "title": "Schutzgebiete als Modellregionen nachhaltiger Entwicklung in Europa? Erfahrungen aus Biosphärenreservaten in Deutschland",
+      "authors": [
+        "Ingo Mose"
+      ],
+      "printed_page_number": "677",
+      "skip": false
+    },
+    {
+      "title": "Die Ökonomie des Teilens als Möglichkeit zur Nachhaltigkeit",
+      "authors": [
+        "Frederik Plewnia",
+        "Edeltraud Günther"
+      ],
+      "printed_page_number": "711",
+      "skip": false
+    },
+    {
+      "title": "Ist Compliance Utopie? Integrity Management als Ermöglichungsinstanz",
+      "authors": [
+        "Sebastian Pförr",
+        "Stephan Grüninger"
+      ],
+      "printed_page_number": "719",
+      "skip": false
+    },
+    {
+      "title": "Macht die Möglichkeit des Möglichen die Nachhaltigkeit nicht unmöglich?",
+      "authors": [
+        "Marlen Gabriele Arnold"
+      ],
+      "printed_page_number": "729",
+      "skip": false
+    },
+    {
+      "title": "Betriebliches Nachhaltigkeitsmanagement. Ermöglichungsinstitution zur Transformation von Betroffenheit in Erfolg und Verantwortungsübernahme",
+      "authors": [
+        "Hans-Ulrich Zabel"
+      ],
+      "printed_page_number": "751",
+      "skip": false
+    },
+    {
+      "title": "Verzeichnis der Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "777",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

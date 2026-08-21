@@ -1,0 +1,598 @@
+{
+  "generated_at": 1787245858.129322,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Im Himmelreich ist keiner sauer",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "I. Theoretische Grundlagen und empirische Einblicke",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Friedrich Schweitzer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Was ist und wozu Kindertheologie?",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Friedrich Schweitzer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Peter M\u00fcller",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbDa mussten die Leute erst nachdenken ...\u00ab",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Peter M\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kinder als Exegeten \u2013 Kinder als Interpreten biblischer Texte",
+      "printed_page_number": "19",
+      "source_page_index": -1,
+      "authors": [
+        "Peter M\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ruben Zimmermann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Jakobs Begegnung am Jabbok (Gen 32,23\u201333).",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ruben Zimmermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der \u00bbKampf\u00ab der Exegeten und die Auslegungskunst der Kinder",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Ruben Zimmermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Michael Fricke",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbWenn Gott der Bestimmer w\u00e4re ...\u00ab",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Michael Fricke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eine Sch\u00fclerinnengruppe spricht \u00fcber die biblische Sch\u00f6pfungserz\u00e4hlung",
+      "printed_page_number": "46",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Fricke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Felix Maximilian Karweick und Stefan Alkier",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Arbeiter im Weinberg \u2013",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Felix Maximilian Karweick",
+        "Stefan Alkier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein Bibelgespr\u00e4ch zwischen einem Grundsch\u00fcler und einem Neutestamentler",
+      "printed_page_number": "54",
+      "source_page_index": -1,
+      "authors": [
+        "Felix Maximilian Karweick",
+        "Stefan Alkier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stefan Alkier",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbPapa, ich will mal zu Jesus\u00ab \u2013 Florians Bibelverst\u00e4ndnis",
+      "printed_page_number": "60",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Alkier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anton A. Bucher",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbDa hat der liebe Gott einen Wutanfall gehabt\u00ab",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Anton A. Bucher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gewalttexte in der Bibel: Zwischen Faszination und Trauma",
+      "printed_page_number": "64",
+      "source_page_index": -1,
+      "authors": [
+        "Anton A. Bucher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Marieke van \u2019t Zand und Simone de Roos",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbIch denke, diese Kreuze auf dem H\u00fcgel sind Vogelscheuchen!\u00ab",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Marieke van \u2019t Zand",
+        "Simone de Roos"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Vorstellungen kleiner Kinder von Ostern",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "Marieke van \u2019t Zand",
+        "Simone de Roos"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gerhard B\u00fcttner und Ina M\u00e4hringer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbWo der Osterhase gekommen ist, ist Jesus wieder auferstanden vom Grab\u00ab \u2013",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard B\u00fcttner",
+        "Ina M\u00e4hringer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Osterkonzepte von Kindergartenkindern",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard B\u00fcttner",
+        "Ina M\u00e4hringer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. P\u00e4dagogische Anregungen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Christina Kalloch",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Glauben wie Abraham? Kinder begegnen Erzelterntexten",
+      "printed_page_number": "98",
+      "source_page_index": -1,
+      "authors": [
+        "Christina Kalloch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Friedhelm Munzel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Du holtest mich lebendig herauf",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Friedhelm Munzel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erfahrungen mit dem Psalm Jona 2,3\u201310",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [
+        "Friedhelm Munzel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ursula Reumann und Wilhelm Schwendemann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Manchmal f\u00fchle ich mich wie Jona \u2013",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ursula Reumann",
+        "Wilhelm Schwendemann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wie 18 Grundschulkinder mit Angst umgehen",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "Ursula Reumann",
+        "Wilhelm Schwendemann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Helmut Hanisch",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Mensch und Gottes Sohn \u2013",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Hanisch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Auf dem Weg zu einem christologischen Verst\u00e4ndnis von Jesus Christus",
+      "printed_page_number": "122",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Hanisch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Renate Hofmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Batman in der Weihnachtsgeschichte?",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Renate Hofmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kinder als Exeget/innen des Weihnachtsevangeliums Lk 2,1\u201321",
+      "printed_page_number": "132",
+      "source_page_index": -1,
+      "authors": [
+        "Renate Hofmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans-Bernhard Petermann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ein Zeichen geben \u2013 Skizzen zur Erschlie\u00dfung religi\u00f6ser Bilderb\u00fccher",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Bernhard Petermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "am Beispiel der Noah-Geschichte",
+      "printed_page_number": "140",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Bernhard Petermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gottfried Adam",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kinderbibeln \u2013 Von Luther bis heute",
+      "printed_page_number": "157",
+      "source_page_index": -1,
+      "authors": [
+        "Gottfried Adam"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Petra Freudenberger-L\u00f6tz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbDie Menschen werden immer an mich denken, weil ich den Retter",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Petra Freudenberger-L\u00f6tz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "zur Welt gebracht habe \u2013\u00ab Kinder sehen Maria",
+      "printed_page_number": "180",
+      "source_page_index": -1,
+      "authors": [
+        "Petra Freudenberger-L\u00f6tz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. Informationen f\u00fcr die Praxis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Buchbesprechungen",
+      "printed_page_number": "186",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Martin Schreiner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wertvolle Neuerscheinungen f\u00fcr die religionsp\u00e4dagogische Arbeit in Familie,",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Martin Schreiner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kindergarten, Grundschule und Gemeinde",
+      "printed_page_number": "197",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Schreiner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Martin Schreiner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Entdeckung eines religionsp\u00e4dagogischen Kleinods in einer aktuellen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Martin Schreiner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zeitschrift f\u00fcr junge Literatur",
+      "printed_page_number": "200",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Schreiner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Elisabeth Schwarz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbPhilosophieren und Theologisieren mit Kindern\u00ab",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Elisabeth Schwarz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein Akademielehrgang besonderer Art",
+      "printed_page_number": "203",
+      "source_page_index": -1,
+      "authors": [
+        "Elisabeth Schwarz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "printed_page_number": "207",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

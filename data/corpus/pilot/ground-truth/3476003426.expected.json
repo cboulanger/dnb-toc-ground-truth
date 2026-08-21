@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "title": "Kunst, Gesellschaft, Bildung \u2013 Perspektiven ihres Zusammenhangs",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "VII",
+      "skip": true
+    },
+    {
+      "title": "Die Vernunft der Kunst \u2013 Hegels geschichtsphilosophische Analyse der Selbsttranszendierung des \u00c4sthetischen in der modernen Welt",
+      "authors": [],
+      "printed_page_number": "30",
+      "skip": false
+    },
+    {
+      "title": "\u00c4sthetik als Geschichtstheorie",
+      "authors": [],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "Historismus und \u00c4sthetik \u2013 Geschichtstheoretische Voraussetzungen der Kunstgeschichte",
+      "authors": [],
+      "printed_page_number": "88",
+      "skip": false
+    },
+    {
+      "title": "\u00dcber einige Beziehungen zwischen \u00c4sthetik, Historik und Didaktik",
+      "authors": [],
+      "printed_page_number": "96",
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen",
+      "authors": [],
+      "printed_page_number": "120",
+      "skip": true
+    },
+    {
+      "title": "Bibliographische Nachweise",
+      "authors": [],
+      "printed_page_number": "126",
+      "skip": true
+    },
+    {
+      "title": "Verzeichnis der zitierten Literatur",
+      "authors": [],
+      "printed_page_number": "127",
+      "skip": true
+    },
+    {
+      "title": "Personenregister",
+      "authors": [],
+      "printed_page_number": "134",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

@@ -1,0 +1,868 @@
+{
+  "generated_at": 1787237040.029712,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Preface",
+      "printed_page_number": "ix",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgements",
+      "printed_page_number": "xi",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "The sociology of education: a disputational account",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "STEPHEN J. BALL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Turning points",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The chapters",
+      "printed_page_number": "10",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART 1",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Social class",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 The forms of capital",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "PIERRE BOURDIEU"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Cultural capital",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Social capital",
+      "printed_page_number": "21",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Conversions",
+      "printed_page_number": "24",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Finding or losing yourself? Working-class relationships to education",
+      "printed_page_number": "30",
+      "source_page_index": -1,
+      "authors": [
+        "DIANE REAY"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Introduction: the more things change the more they stay the same",
+      "printed_page_number": "30",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Making difficult transitions: choosing hybridity?",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Normativity and 'the other'",
+      "printed_page_number": "38",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Finding 'you're a nothing': working-class dilemmas of being 'found out'",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Conclusion",
+      "printed_page_number": "41",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART 2",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Globalisation and the economy",
+      "printed_page_number": "45",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Education, globalization and economic development",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [
+        "PHILLIP BROWN AND HUGH LAUDER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Globalization and the new rules of economic competition",
+      "printed_page_number": "48",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The New Right: education in a neo-Fordist 'market' economy",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Left modernizers: education in a post-Fordist 'magnet' economy",
+      "printed_page_number": "55",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Conclusion",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Globalisation, the learning society and comparative education",
+      "printed_page_number": "72",
+      "source_page_index": -1,
+      "authors": [
+        "PETER JARVIS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The processes of globalisation",
+      "printed_page_number": "72",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Learning societies",
+      "printed_page_number": "74",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Comparative education and the learning society",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Conclusion",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART 3",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gender",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 The social construction of youthful masculinities: peer group sub-cultures",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "MIKE O'DONNELL AND SUE SHARPE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "White boys and the social construction of masculinities: class and nation",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "White boys, class and ethnicity",
+      "printed_page_number": "98",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "African-Caribbean boys and the social construction of masculinities",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Asian boys and the construction of masculinities",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Conclusion",
+      "printed_page_number": "124",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 The discursive production of the male/female dualism in school settings",
+      "printed_page_number": "128",
+      "source_page_index": -1,
+      "authors": [
+        "BRONWYN DAVIES"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The myth of the unitary person: contradictions and subjectivity",
+      "printed_page_number": "128",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Positioning within textual narratives",
+      "printed_page_number": "129",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Positioning within lived narratives in the classroom",
+      "printed_page_number": "130",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The location of individuals in relation to social structures",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The possibility of refusing a discourse",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART 4",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Regulation",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Performativities and fabrications in the education economy: towards the performative society",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [
+        "STEPHEN J. BALL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Social relations of practice",
+      "printed_page_number": "146",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fabrications",
+      "printed_page_number": "148",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The routine selection (or manipulation) of statistics and indicators",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The stage management of events",
+      "printed_page_number": "150",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Constructing accounts of the institution",
+      "printed_page_number": "150",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Performance as performativity",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Individual fabrications",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The performative society",
+      "printed_page_number": "152",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 The capitalist state and public policy formation. Framework for a political sociology of educational policy making",
+      "printed_page_number": "156",
+      "source_page_index": -1,
+      "authors": [
+        "CARLOS ALBERTO TORRES"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Determinants of education policy formation",
+      "printed_page_number": "156",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Theory of the state and education",
+      "printed_page_number": "158",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "State authority and policy formation",
+      "printed_page_number": "160",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Production rules of public policy: a theoretical assessment and hypothesis",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Production rules of policy formation: a summary",
+      "printed_page_number": "168",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Conclusion: a theoretical approach to public policy formation in education",
+      "printed_page_number": "169",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART 5",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Curriculum",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 Cultural politics and the text",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [
+        "MICHAEL W. APPLE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Whose knowledge is of most worth?",
+      "printed_page_number": "180",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Regulation or liberation and the text",
+      "printed_page_number": "183",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The politics of cultural incorporation",
+      "printed_page_number": "187",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Social class and pedagogic practice",
+      "printed_page_number": "196",
+      "source_page_index": -1,
+      "authors": [
+        "BASIL BERNSTEIN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The rules of pedagogic practice as cultural relay",
+      "printed_page_number": "197",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Generating modalities of pedagogic practice",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Types of pedagogic practice: visible and invisible",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Social class assumptions of pedagogic practice",
+      "printed_page_number": "203",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autonomous and market-oriented visible pedagogies",
+      "printed_page_number": "212",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Addendum",
+      "printed_page_number": "214",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART 6",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Teacher",
+      "printed_page_number": "219",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11 The reconstruction of primary teachers' identities",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [
+        "PETER WOODS AND BOB JEFFREY"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The primary teachers' Plowden self-identity",
+      "printed_page_number": "223",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Challenges to the Plowden self-identity",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Identity work: meeting the challenges",
+      "printed_page_number": "230",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Conclusion",
+      "printed_page_number": "236",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12 Teachers doing their 'economic' work",
+      "printed_page_number": "240",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN SMYTH AND GEOFFREY SHACKLOCK"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "An ideology of production or the production of an ideology?",
+      "printed_page_number": "240",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Developing a 'reading position' on teaching",
+      "printed_page_number": "246",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Discursive pedagogical skill construction in teaching",
+      "printed_page_number": "250",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Marketised relationships in schools",
+      "printed_page_number": "255",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Management for all seasons: managing teaching through market consent",
+      "printed_page_number": "256",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART 7",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Students and classroom",
+      "printed_page_number": "263",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13 Schools, families and academically able students: contrasting modes of involvement in secondary education",
+      "printed_page_number": "265",
+      "source_page_index": -1,
+      "authors": [
+        "SALLY POWER, GEOFF WHITTY, TONY EDWARDS AND VALERIE WIGFALL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "printed_page_number": "265",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sources of consensus and disaffection in education",
+      "printed_page_number": "266",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Discussion",
+      "printed_page_number": "280",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14 Towards a sociology of learning in primary schools",
+      "printed_page_number": "285",
+      "source_page_index": -1,
+      "authors": [
+        "ANDREW POLLARD"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The limitations of disciplinary boundaries",
+      "printed_page_number": "285",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Learning in primary schools",
+      "printed_page_number": "286",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Policy and substantive contexts",
+      "printed_page_number": "288",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "A longitudinal ethnography",
+      "printed_page_number": "291",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Learning and developing an identity",
+      "printed_page_number": "292",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Towards an analytical framework",
+      "printed_page_number": "294",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Summary and conclusion",
+      "printed_page_number": "297",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Das graphologische System Ludwig Klages'",
+      "authors": [
+        "Ursula Av\u00e9-Lallemant"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Die Schriften des Graphologen Rudolf Pophal",
+      "authors": [
+        "Ulrich Supprian"
+      ],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Systematik und Kombinatorik in der Analyse des graphischen Ausdrucks bei Robert Hei\u00df",
+      "authors": [
+        "Christine Nathalie Stadler"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Max Pulvers Graphologie",
+      "authors": [
+        "Remo Buser"
+      ],
+      "printed_page_number": "109",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,310 @@
+{
+  "generated_at": 1787245592.60077,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort. Von Claus Leggewie",
+      "printed_page_number": "IX",
+      "source_page_index": -1,
+      "authors": [
+        "Claus Leggewie"
+      ],
+      "printed_roman": true,
+      "skip": false
+    },
+    {
+      "title": "Zur Einleitung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Politische Kreativit\u00e4t. \u00dcber das Neue in der Politik \u2013 und in der Politikwissenschaft. Von Claus Leggewie",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Claus Leggewie"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Politik in den Zeiten der Politikverdrossenheit",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Politikverdrossenheit und Politikwissenschaft. Von Klaus von Beyme",
+      "printed_page_number": "21",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus von Beyme"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Renaissance des Politischen \u2013 oder Widerspr\u00fcche des Konservatismus. Von Ulrich Beck",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrich Beck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nach dem Beben: 1989 und die Folgen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der entfesselte Riese? Die \u201ezivile Gesellschaft\u201c und die liberale Demokratie nach 1989. Von Helmut Dubiel",
+      "printed_page_number": "49",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Dubiel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Frieden und Krieg in dieser Zeit. Sechs Thesen. Von Dieter Senghaas",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Dieter Senghaas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Projekt \u201eKomplexes Weltregieren\u201c. Wozu Wissenschaft von den Internationalen Beziehungen? Von Michael Z\u00fcrn",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Z\u00fcrn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Kern des Entwicklungsdilemmas. Zur Revision der Internationalen Politik. Von Ulrich Menzel",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrich Menzel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Von der Deutschland- zur Au\u00dfenpolitik. Ein historisches Pl\u00e4doyer. Von Dan Diner",
+      "printed_page_number": "106",
+      "source_page_index": -1,
+      "authors": [
+        "Dan Diner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fuzzy Politics. Weltgesellschaft, Multikulturalismus und vergleichende Politikwissenschaft. Von Claus Leggewie",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [
+        "Claus Leggewie"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Streifz\u00fcge, Fragestellungen und Grenzg\u00e4nge",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Schattenpolitik. Streifz\u00fcge in die Grauzonen der Politik. Von Ulrich von Alemann",
+      "printed_page_number": "135",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrich von Alemann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Selbstorganisation. Vom Nutzen naturwissenschaftlicher Konzepte f\u00fcr die Politikwissenschaft. Von Ulrich Druwe",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrich Druwe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Netzwerke und neue Un\u00fcbersichtlichkeit. Pl\u00e4doyer f\u00fcr die Wahrnehmung politischer Komplexit\u00e4t. Von Ulrike Liebert",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Liebert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Politische Ikonographie. Hinweise auf eine sichtbare Politik. Von Martin Warnke",
+      "printed_page_number": "170",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Warnke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Protest und Mitleid \u2013 Politik als Kampagne. \u201ePolitikverdrossenheit\u201c \u2013 Protest in der Krise? Von Sigrid Baringhorst",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [
+        "Sigrid Baringhorst"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das ewig M\u00e4nnerb\u00fcndische? Zur Standardform von Staat und Politik. Von Eva Kreisky",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [
+        "Eva Kreisky"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anwendungen und Korrekturen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Politik als Beruf heute. Ein Anforderungsprofil an Professionelle. Von Christine Landfried",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [
+        "Christine Landfried"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Moral der Politik. Politik, Politikwissenschaft und die soziomoralische Dimension politischer Ordnungen. Von Herfried M\u00fcnkler",
+      "printed_page_number": "228",
+      "source_page_index": -1,
+      "authors": [
+        "Herfried M\u00fcnkler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wo bitte geht es zur Realit\u00e4t? Sozialwissenschaften und Zeitdiagnose. Von Sven Papcke",
+      "printed_page_number": "243",
+      "source_page_index": -1,
+      "authors": [
+        "Sven Papcke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nutzen und Nachteil des politikwissenschaftlichen Studiums f\u00fcr den politischen Journalisten. Von G\u00fcnther Nonnenmacher",
+      "printed_page_number": "258",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnther Nonnenmacher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Politikwissenschaft ist immer noch ein M\u00e4nnerfach \u2013 warum? Von Barbara Sichtermann",
+      "printed_page_number": "270",
+      "source_page_index": -1,
+      "authors": [
+        "Barbara Sichtermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Politik studieren. Eine Motivations-Skizze (Ost). Von Wolfgang Fach",
+      "printed_page_number": "276",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Fach"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Allgegenwart des Politischen und die Randst\u00e4ndigkeit der Politikwissenschaft. Von Michael Th. Greven",
+      "printed_page_number": "285",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Th. Greven"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Serviceteil",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Studium Politikwissenschaft. Eine \u00dcbersicht zu Forschung und Lehre. Von Svenja Falk",
+      "printed_page_number": "299",
+      "source_page_index": -1,
+      "authors": [
+        "Svenja Falk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Autoren",
+      "printed_page_number": "313",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

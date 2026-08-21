@@ -1,0 +1,168 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "VII",
+      "skip": true
+    },
+    {
+      "title": "I. SOZIALSTRUKTUR - TECHNIK - \u00d6KONOMIE",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": true
+    },
+    {
+      "title": "Theorie und Praxis des \u00dcbergangs zur marktwirtschaftlichen Ordnung in den ehemals sozialistischen L\u00e4ndern",
+      "authors": [
+        "Reinhard Blum"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Neue Dimensionen der Stadt- und Regionalsoziologie",
+      "authors": [
+        "Rainer Mackensen"
+      ],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "Ein neuer Umgang mit der Energie",
+      "authors": [
+        "Frederic Vester"
+      ],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "Zur Theorie einer sozialwissenschaftlichen Technikforschung",
+      "authors": [
+        "Christiane Bender"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Krankheit und Sterblichkeit in ihrer Entwicklung als gesellschaftliches Ph\u00e4nomen",
+      "authors": [
+        "J\u00fcrgen Cromm"
+      ],
+      "printed_page_number": "78",
+      "skip": false
+    },
+    {
+      "title": "Die Dominanz der \u00d6konomie - Reflexionen zur \u00d6konomisierung verschiedener Lebensbereiche in modernen Gesellschaften",
+      "authors": [
+        "Andrea Maurer",
+        "Marina M\u00fcller",
+        "Gabriele Siegert"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "II. POLITIK",
+      "authors": [],
+      "printed_page_number": "123",
+      "skip": true
+    },
+    {
+      "title": "The Problem of Political Representation Today in Western Europe",
+      "authors": [
+        "Carlo Mongardini"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "Sozialpolitik und \u00e4ltere Mitb\u00fcrger",
+      "authors": [
+        "Klaus Deimer",
+        "Anita B. Pfaff",
+        "Martin Pfaff"
+      ],
+      "printed_page_number": "134",
+      "skip": false
+    },
+    {
+      "title": "Zivismus mit Resonanz",
+      "authors": [
+        "Horst Reimann"
+      ],
+      "printed_page_number": "148",
+      "skip": false
+    },
+    {
+      "title": "Neue Linie in der Entwicklungspolitik f\u00fcr Indianer in den Vereinigten Staaten",
+      "authors": [
+        "Ren\u00e9 K\u00f6nig"
+      ],
+      "printed_page_number": "164",
+      "skip": false
+    },
+    {
+      "title": "Government Bureaucracy and Peruvian Culture",
+      "authors": [
+        "William Foote Whyte"
+      ],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "Soziale Kontrolle und die chinesische Danwei-Organisation",
+      "authors": [
+        "Hanlin Li"
+      ],
+      "printed_page_number": "196",
+      "skip": false
+    },
+    {
+      "title": "Zur Evolution von Regeln Eine modelltheoretische \u00dcberlegung",
+      "authors": [
+        "Michael Schmid"
+      ],
+      "printed_page_number": "224",
+      "skip": false
+    },
+    {
+      "title": "III. KULTUR",
+      "authors": [],
+      "printed_page_number": "251",
+      "skip": true
+    },
+    {
+      "title": "\"Sie wissen, was sie zu tun haben!\" Vom Beruf zur Selbstberufung",
+      "authors": [
+        "Peter Gross"
+      ],
+      "printed_page_number": "253",
+      "skip": false
+    },
+    {
+      "title": "Der Mandarin - Stilisierung chinesischer H\u00f6flichkeit",
+      "authors": [
+        "Helga Reimann"
+      ],
+      "printed_page_number": "264",
+      "skip": false
+    },
+    {
+      "title": "Macht und Ohnmacht wissenschaftlicher Erkenntnis",
+      "authors": [
+        "Nico Stehr"
+      ],
+      "printed_page_number": "281",
+      "skip": false
+    },
+    {
+      "title": "Die Autorinnen und Autoren des Bandes",
+      "authors": [],
+      "printed_page_number": "307",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

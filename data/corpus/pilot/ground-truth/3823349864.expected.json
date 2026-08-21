@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Aspekte und Dimensionen interkultureller Kompetenz",
+      "authors": [
+        "Laurenz Volkmann"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Möglichkeiten der Initiation interkultureller Lernprozesse im Englischunterricht an der Grundschule",
+      "authors": [
+        "Isabel Vollmuth"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "Kulturelle Kontexte in Sprachlehrgängen an Haupt- und Realschule",
+      "authors": [
+        "Wolfgang Gehring"
+      ],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "Interkulturelles Lernen an beruflichen Schulen",
+      "authors": [
+        "Georg Aigner"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "Literatur und interkulturelle Kompetenz",
+      "authors": [
+        "Klaus Stierstorfer"
+      ],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "Die Vermittlung interkultureller Kompetenz an der Universität: Das Beispiel Kanada",
+      "authors": [
+        "Heinz Antor"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "Interkulturelles Lernen und Stereotype englischer Alltagskultur",
+      "authors": [
+        "Ursula Weier"
+      ],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "Interkulturelles Lernen und Auslandsaustausch – „Spielend“ zu interkultureller Kompetenz",
+      "authors": [
+        "Nicole Bernhard"
+      ],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "London Calling: Interkulturelles Lernen und die Stadterfahrung",
+      "authors": [
+        "Lorna John",
+        "Doris Teske"
+      ],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "Sachindex",
+      "authors": [],
+      "printed_page_number": "247",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

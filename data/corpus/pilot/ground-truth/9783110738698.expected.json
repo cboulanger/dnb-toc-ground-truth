@@ -1,0 +1,155 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Zur Kulturtechnik des Korrigierens",
+      "authors": [
+        "Iuditha Balint",
+        "Janneke Eggert"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Performanz und Kollaboration",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Zu Karl Wilhelm Ramlers Korrekturpraxis und ihren institutionellen Voraussetzungen",
+      "authors": [
+        "Maximilian Bach"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Korrigieren als kollaborative Medienpraktik: Literarisches Schaffen und naturwissenschaftliche Forschung im achtzehnten Jahrhundert",
+      "authors": [
+        "Moritz Ahrens"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "„Er sticht sie“ – Korrekturprozesse im Soufflierbuch um 1800",
+      "authors": [
+        "Alexander Weinstock"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "Mediengeschichte",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Lift Off – das Protokoll einer Korrektur",
+      "authors": [
+        "Karl Wolfgang Flender"
+      ],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "Korrekturszenen",
+      "authors": [
+        "Felix Hasebrink",
+        "Vanessa Klomfaß",
+        "Fynn-Adrian Richter"
+      ],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "Korrekturinstrumente",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Korrekturen mit der Schere: Kollaborative Schreib- und Schneideprozesse bei Anatole France",
+      "authors": [
+        "Marie Millutat"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "Korrigieren an der Schreibmaschine",
+      "authors": [
+        "Janneke Eggert"
+      ],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "Normierung und Normalisierung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Zwischen Korrektur und Verfälschung: Philologische Verfahren der Normalisierung im neunzehnten Jahrhundert und heute",
+      "authors": [
+        "Julia Nantke"
+      ],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "Sprachliche Normen und Korrekturimpulse in Autokorrekturprozessen",
+      "authors": [
+        "Ilka Lemke",
+        "Katrin Ortmann"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Schulische Bildung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Korrigieren, Kommentieren und Beurteilen des deutschen Abituraufsatzes am Beispiel eines (West-)Berliner Gymnasiums in den 1950er Jahren",
+      "authors": [
+        "Marco Lorenz",
+        "Sabine Reh"
+      ],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "Korrekturpraktiken in der Schulbuchproduktion – Die Aushandlung von Geschichtsdeutungen in Geschichtsbüchern der DDR",
+      "authors": [
+        "Sabrina Schmitz-Zerres"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "Autor:innen",
+      "authors": [],
+      "printed_page_number": "181",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

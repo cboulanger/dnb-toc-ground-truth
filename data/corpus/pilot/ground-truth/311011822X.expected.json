@@ -1,0 +1,388 @@
+{
+  "entries": [
+    {
+      "title": "Preface",
+      "authors": [
+        "Henry M. Hoenigswald",
+        "Mary Ritchie Key"
+      ],
+      "printed_page_number": "v",
+      "skip": true
+    },
+    {
+      "title": "List of Contributors",
+      "authors": [],
+      "printed_page_number": "xiii",
+      "skip": true
+    },
+    {
+      "title": "A. The History of Linguistics and Stanley Newman's Six Decades",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Prague",
+      "authors": [
+        "Stanley S. Newman"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "How I discovered linguistics",
+      "authors": [
+        "Stanley S. Newman"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Songs for a windy day: poems",
+      "authors": [
+        "Stanley S. Newman"
+      ],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "Bibliography of Stanley S. Newman",
+      "authors": [],
+      "printed_page_number": "33",
+      "skip": true
+    },
+    {
+      "title": "Inventory of Stanley Newman's linguistic materials",
+      "authors": [
+        "Mary Ritchie Key"
+      ],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "Singularly like our ideal of a scientist",
+      "authors": [
+        "Michael Silverstein"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "Obituary: Stanley S. Newman (1905-1984)",
+      "authors": [
+        "Philip Bock",
+        "Harry Basehart"
+      ],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "Stanley Newman and the Sapir school of linguistics",
+      "authors": [
+        "Regna Darnell"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Sapir's panoramic view (1926) of recent advances in linguistics",
+      "authors": [
+        "Yakov Malkiel"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "B. American Indian Studies",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Institutional language maintenance resources of American Indians in the early 1980s",
+      "authors": [
+        "Joshua A. Fishman"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "Spanish loans in Wikchamni",
+      "authors": [
+        "Geoffrey Gamble"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "Some principles of Alaskan Athabaskan toponymic knowledge",
+      "authors": [
+        "James Kari"
+      ],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "Deified mind among the Keresan Pueblos",
+      "authors": [
+        "Jay Miller"
+      ],
+      "printed_page_number": "151",
+      "skip": false
+    },
+    {
+      "title": "Creek curing in academe",
+      "authors": [
+        "Willard Walker"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "C. Grammar and Discourse",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "On the unit of paragraph analysis in formal monologue discourse",
+      "authors": [
+        "Betty Lou Dubois"
+      ],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "Object agreement in the Halkomelem Salish passive: a morphological explanation",
+      "authors": [
+        "Donna B. Gerdts"
+      ],
+      "printed_page_number": "185",
+      "skip": false
+    },
+    {
+      "title": "Argument obviation and switch-reference in Hopi",
+      "authors": [
+        "LaVerne Masayesva Jeanne",
+        "Ken Hale"
+      ],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "Some agent hierarchies in Upper Chehalis",
+      "authors": [
+        "M. Dale Kinkade"
+      ],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "Vowel ablaut and its functions in Yuman",
+      "authors": [
+        "Margaret Langdon"
+      ],
+      "printed_page_number": "219",
+      "skip": false
+    },
+    {
+      "title": "Aspect in Isthmus Zapotec",
+      "authors": [
+        "Velma B. Pickett"
+      ],
+      "printed_page_number": "229",
+      "skip": false
+    },
+    {
+      "title": "A later view of Gitksan syntax",
+      "authors": [
+        "Bruce Rigsby"
+      ],
+      "printed_page_number": "245",
+      "skip": false
+    },
+    {
+      "title": "The Kuna verb: a study in the interplay of grammar, discourse, and style",
+      "authors": [
+        "Joel Sherzer"
+      ],
+      "printed_page_number": "261",
+      "skip": false
+    },
+    {
+      "title": "D. Word Formation",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Navajo stem variation",
+      "authors": [
+        "Herbert Landar"
+      ],
+      "printed_page_number": "275",
+      "skip": false
+    },
+    {
+      "title": "Lexical morphemes in Bella Coola",
+      "authors": [
+        "Ross Saunders",
+        "Philip W. Davis"
+      ],
+      "printed_page_number": "289",
+      "skip": false
+    },
+    {
+      "title": "Lexical elaboration in Navajo",
+      "authors": [
+        "Robert W. Young"
+      ],
+      "printed_page_number": "303",
+      "skip": false
+    },
+    {
+      "title": "E. Phonology",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Loss of contrast between voiced and voiceless alveolar flapped stops in American English",
+      "authors": [
+        "J. Donald Bowen"
+      ],
+      "printed_page_number": "323",
+      "skip": false
+    },
+    {
+      "title": "Some environments which may condition vowel length",
+      "authors": [
+        "Eunice V. Pike"
+      ],
+      "printed_page_number": "331",
+      "skip": false
+    },
+    {
+      "title": "What is a 'register' language?",
+      "authors": [
+        "Richard S. Pittman"
+      ],
+      "printed_page_number": "337",
+      "skip": false
+    },
+    {
+      "title": "F. Comparative Studies",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Proto-Otopamean vowel system and the development of Matlatzinca",
+      "authors": [
+        "Doris A. Bartholomew"
+      ],
+      "printed_page_number": "345",
+      "skip": false
+    },
+    {
+      "title": "A new look at Aztec-Tanoan",
+      "authors": [
+        "Irvine Davis"
+      ],
+      "printed_page_number": "365",
+      "skip": false
+    },
+    {
+      "title": "Interpreting the past from the present: a Nahuat example",
+      "authors": [
+        "Mary Ritchie Key"
+      ],
+      "printed_page_number": "381",
+      "skip": false
+    },
+    {
+      "title": "Prenasalized stops in Proto-Indo-European",
+      "authors": [
+        "André Martinet"
+      ],
+      "printed_page_number": "387",
+      "skip": false
+    },
+    {
+      "title": "G. Oral Tradition",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Tsimshian poetics",
+      "authors": [
+        "John A. Dunn"
+      ],
+      "printed_page_number": "395",
+      "skip": false
+    },
+    {
+      "title": "Thoth and oral tradition",
+      "authors": [
+        "Carleton T. Hodge"
+      ],
+      "printed_page_number": "407",
+      "skip": false
+    },
+    {
+      "title": "Some aspects of textual relations in Jawoyn, Northern Australia",
+      "authors": [
+        "Francesca Merlan"
+      ],
+      "printed_page_number": "417",
+      "skip": false
+    },
+    {
+      "title": "H. Ethnological Studies",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "\"Say 'Hello' to your (second) cousin Claude:\" kinship terminology and recursive rules",
+      "authors": [
+        "Philip K. Bock"
+      ],
+      "printed_page_number": "447",
+      "skip": false
+    },
+    {
+      "title": "Kumix: the Chorti hero",
+      "authors": [
+        "John Fought"
+      ],
+      "printed_page_number": "461",
+      "skip": false
+    },
+    {
+      "title": "Visualizing the physical context of discourse in languages of the past",
+      "authors": [
+        "Saul Levin"
+      ],
+      "printed_page_number": "469",
+      "skip": false
+    },
+    {
+      "title": "Ethnographic notes and observations on the Big Man Complex among the Nacirema",
+      "authors": [
+        "J. Anthony Paredes"
+      ],
+      "printed_page_number": "483",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "491",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

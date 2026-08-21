@@ -1,0 +1,582 @@
+{
+  "generated_at": 1787009141.388574,
+  "entries": [
+    {
+      "title": "Geleitwort von Eva-Lotta Brakemeier",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Geleitwort von Luise Reddemann",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einf\u00fchrung",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "Martin R\u00fcfer",
+        "Christoph Fl\u00fcckiger"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Warum dieses Buch?",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "Martin R\u00fcfer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zwei Seelen in einer Brust",
+      "printed_page_number": "16",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Bilanz therapeutischer Arbeit",
+      "printed_page_number": "19",
+      "source_page_index": -1,
+      "authors": [
+        "Martin R\u00fcfer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.1 Zur Wechselwirkung von Arbeitskontext, Therapiemotivation und beruflicher Identit\u00e4t",
+      "printed_page_number": "20",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.2 Generische Prinzipien oder wenn weniger mehr ist",
+      "printed_page_number": "22",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.3 Geheimnisse aus der Praxis f\u00fcr eine gelingende Therapie",
+      "printed_page_number": "24",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Vertrauen und Selbstwirksamkeit aus Sicht der Psychotherapieforschung",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Dinger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.1 Zwei Polarit\u00e4ten",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.2 \u201eFreue dich auf deine Patienten und vertraue ihnen als Klienten\u201c und \u201eStelle die richtigen Fragen und gib m\u00f6glichst fr\u00fch ein Erkl\u00e4rungsmodell f\u00fcr Probleme\u201c",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.3 \u201eH\u00f6re und schaue genau hin, orientiere dich an den Feedbacks, aber interveniere sparsam\u201c",
+      "printed_page_number": "36",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4 \u201eNutze Bindungen als supportives Ressourcenpriming\u201c",
+      "printed_page_number": "37",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.5 \u201eNutze Krisen und Instabilit\u00e4ten als inputsensible Phasen\u201c und \u201eAchte auf dich selbst, vertraue deinen Skills und deinem Bauchgef\u00fchl\u201c",
+      "printed_page_number": "38",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.6 Vertrauen als Wegbereiter f\u00fcr Selbstwirksamkeit",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Nachdenken \u00fcber Psychotherapie",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [
+        "Annette K\u00e4mmerer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1 Psychotherapie und die Menschenw\u00fcrde",
+      "printed_page_number": "44",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2 Das therapeutische Menschenbild",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3 Leidensdruck und Psychotherapie",
+      "printed_page_number": "48",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4 Warum also Psychotherapie?",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Professionalisierung, Therapeutenbild und Herausforderungen \u2013 Nachdenken \u00fcber Psychotherapeutinnen",
+      "printed_page_number": "55",
+      "source_page_index": -1,
+      "authors": [
+        "Christoph Fl\u00fcckiger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.1 Professionalisierung",
+      "printed_page_number": "55",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.2 Therapeutenbild",
+      "printed_page_number": "59",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Auf den Punkt gebracht: Individualit\u00e4t und Verallgemeinerung in der Fallkonzeption",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Lieb"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.1 Vorbemerkung",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.2 Zu viel Individualit\u00e4t, zu viel Verallgemeinerung",
+      "printed_page_number": "70",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.3 Vom Nutzen der metaperspektivischen Unterscheidung zwischen Individualit\u00e4t und Verallgemeinerung",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.4 Zur Soziologie professioneller Fallkonzeptionen",
+      "printed_page_number": "72",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.5 Fallkonzeption und therapeutische Beziehung",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.6 Wege zu Individualisierungen und zu Verallgemeinerungen",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.7 Methoden zur Konkretisierung \u2013 Individualisierung",
+      "printed_page_number": "74",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.8 Methoden zur Verallgemeinerung/Komplexit\u00e4tsreduktion",
+      "printed_page_number": "76",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Kein Klient ist \u201eder Fall\u201c von irgendwas \u2013 Das Spannungsfeld von individueller Fallkonzeption, Prozesssteuerung und Verallgemeinerung",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter Schiepek"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.1 Einzelfallorientierung",
+      "printed_page_number": "84",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.2 Prozesssteuerung",
+      "printed_page_number": "86",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.3 Verallgemeinerung: Theorie mit Einzelfallbezug",
+      "printed_page_number": "91",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Aufbau positiven Denkens im Spannungsfeld von Selbstabwertung, Selbstzweifeln und Selbstakzeptanz",
+      "printed_page_number": "97",
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Zimmer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.1 Psychotherapie ist unterst\u00fctztes Lernen",
+      "printed_page_number": "97",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.2 Der Unterschied zwischen Therapeut und Patient",
+      "printed_page_number": "98",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.3 Wir k\u00f6nnen nicht allen helfen",
+      "printed_page_number": "99",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.4 Wir k\u00f6nnen nicht nur aus eigener Erfahrung sch\u00f6pfen",
+      "printed_page_number": "99",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.5 Die Kunst und Notwendigkeit, sich \u00fcberraschen zu lassen",
+      "printed_page_number": "99",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.6 Das Gegenteil ist immer auch richtig: funktionales Denken",
+      "printed_page_number": "100",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.7 Manualisiertes und individualisiertes Vorgehen",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.8 \u00dcbung zum Aufbau eines positiven Selbstbildes",
+      "printed_page_number": "102",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Respektvoll, behutsam und genau ...",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Willutzki"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.1 Zur Haltung \u2013 bescheiden und selbstreflexiv",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.2 Zur Genauigkeit und Pr\u00e4zision therapeutischen Arbeitens",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.3 Die M\u00fcndung: Zum Aufbau positiven Denkens",
+      "printed_page_number": "112",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 Alles allgemein menschlich? Alles kulturbedingt? \u2013 Eine produktive Verwirrung!",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "Verena Kast"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.1 Im Grunde genommen verstehen wir uns schon ...",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.2 Supervision mit japanischen Kolleginnen und Kollegen",
+      "printed_page_number": "116",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.3 Der bedeutungsvolle Zwischenfall: Eigentlich verstehen wir uns nicht",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.4 \u00c4rger",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.5 Das Bem\u00fchen um wechselseitiges Verstehen",
+      "printed_page_number": "118",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.6 In der kulturellen \u00dcberzeugung angegriffen",
+      "printed_page_number": "119",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.7 Zu kulturlastig",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.8 Traumbilder \u2013 kulturell verstanden",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.9 Der Fuchs: japanisch und schweizerisch",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.10 Res\u00fcmee",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Das Infragestellen des Selbstverst\u00e4ndlichen \u2013 wenn das Fremde in den Blick ger\u00e4t",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [
+        "Maria Borcsa"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.1 Internalisierung von Kultur",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.2 Kultur ist nicht gleich Kultur",
+      "printed_page_number": "126",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.3 Diversit\u00e4t in Beziehungen",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.4 Natur und Kultur: revisited",
+      "printed_page_number": "129",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.5 Differenzen und Universalit\u00e4ten: ein dialektisches Verh\u00e4ltnis",
+      "printed_page_number": "129",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11 Summary: Dialog R\u00fcfer \u2013 Fl\u00fcckiger",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Autorinnen und Autoren",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

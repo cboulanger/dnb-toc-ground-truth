@@ -1,0 +1,208 @@
+{
+  "generated_at": 1787265092.1340249,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "SCHWERPUNKT: LEIBNIZ UND DIE SPRACHE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Tilman Borsche",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wie viele Sprachen spricht Leibniz?",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Tilman Borsche"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hubertus Busche",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Leibniz als Sprachsch\u00f6pfer. Eine Einf\u00fchrung in seine Philosophie anhand seiner Neologismen",
+      "printed_page_number": "37",
+      "source_page_index": -1,
+      "authors": [
+        "Hubertus Busche"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dirk Werle",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Philosophische Lyrik als Problemreaktion. Leibniz' Gedicht auf den Tod der K\u00f6nigin Sophie Charlotte (1705)",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Werle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wenchao Li",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Operatio per characteres. Leibniz' Projekt einer characteristica universalis",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [
+        "Wenchao Li"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ABHANDLUNGEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Jan Kerkmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Eigentlichere Zeus. Die Begriffsgeschichte des G\u00f6ttlichen in H\u00f6lderlins Sp\u00e4twerk",
+      "printed_page_number": "97",
+      "source_page_index": -1,
+      "authors": [
+        "Jan Kerkmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christine Bl\u00e4ttler",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sorge und Welt: Blumenberg versus Heidegger",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [
+        "Christine Bl\u00e4ttler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "REZENSIONSESSAY",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Jan Eike Dunkhase",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Koselleck zur Erinnerung",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [
+        "Jan Eike Dunkhase"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "BUCHBESPRECHUNGEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Dag Nikolaus Hasse: Was ist europ\u00e4isch? Zur \u00dcberwindung kolonialer und romantischer Denkformen (Robert Buch)",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [
+        "Dag Nikolaus Hasse"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Elad Lapidot: Anti-Anti-Semitismus. Eine philosophische Kritik (Klaus Kempter)",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [
+        "Elad Lapidot"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Autorinnen und Autoren",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00dcber das Archiv f\u00fcr Begriffsgeschichte",
+      "printed_page_number": "183",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

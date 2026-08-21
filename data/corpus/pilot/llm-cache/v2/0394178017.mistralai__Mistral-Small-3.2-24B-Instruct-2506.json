@@ -1,0 +1,942 @@
+{
+  "generated_at": 1787243457.062199,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "printed_page_number": "iv",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "PREFACE by Warren Tallman",
+      "printed_page_number": "ix",
+      "source_page_index": -1,
+      "authors": [
+        "Warren Tallman"
+      ],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "WALT WHITMAN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Walt Whitman"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Walt Whitman to Ralph Waldo Emerson",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Walt Whitman"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ERNEST FENOLLOSA",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ernest Fenollosa"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "From The Chinese Written Character As a Medium for Poetry",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [
+        "Ernest Fenollosa"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "EZRA POUND",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ezra Pound"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "A Retrospect",
+      "printed_page_number": "36",
+      "source_page_index": -1,
+      "authors": [
+        "Ezra Pound"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Arnold Dolmetsch",
+      "printed_page_number": "48",
+      "source_page_index": -1,
+      "authors": [
+        "Ezra Pound"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Medievalism (from \u201cCavalcanti\u201d)",
+      "printed_page_number": "54",
+      "source_page_index": -1,
+      "authors": [
+        "Ezra Pound"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Treatise on Metre",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Ezra Pound"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "D. H. LAWRENCE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "D. H. Lawrence"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Preface to the American Edition of New Poems",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [
+        "D. H. Lawrence"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HART CRANE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hart Crane"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "General Aims and Theories",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "Hart Crane"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hart Crane to Harriet Monroe",
+      "printed_page_number": "80",
+      "source_page_index": -1,
+      "authors": [
+        "Hart Crane"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hart Crane to Otto H. Kahn",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "Hart Crane"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "FEDERICO GARC\u00cdA LORCA",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Federico Garc\u00eda Lorca"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Theory and Function of the Duende",
+      "printed_page_number": "91",
+      "source_page_index": -1,
+      "authors": [
+        "Federico Garc\u00eda Lorca"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "GERTRUDE STEIN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gertrude Stein"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Narration: Lecture 2",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [
+        "Gertrude Stein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "WILLIAM CARLOS WILLIAMS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "William Carlos Williams"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Edgar Allan Poe",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "William Carlos Williams"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The Work of Gertrude Stein",
+      "printed_page_number": "130",
+      "source_page_index": -1,
+      "authors": [
+        "William Carlos Williams"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Introduction to The Wedge",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "William Carlos Williams"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "William Carlos Williams to Robert Creeley",
+      "printed_page_number": "140",
+      "source_page_index": -1,
+      "authors": [
+        "William Carlos Williams"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "H.D.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "H.D."
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Epitaph",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [
+        "H.D."
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "LOUIS ZUKOFSKY",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Louis Zukofsky"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "A Statement for Poetry",
+      "printed_page_number": "142",
+      "source_page_index": -1,
+      "authors": [
+        "Louis Zukofsky"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "CHARLES OLSON",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Charles Olson"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Projective Verse",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [
+        "Charles Olson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Letter to Elaine Feinstein",
+      "printed_page_number": "158",
+      "source_page_index": -1,
+      "authors": [
+        "Charles Olson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Human Universe",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [
+        "Charles Olson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The Resistance",
+      "printed_page_number": "174",
+      "source_page_index": -1,
+      "authors": [
+        "Charles Olson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Equal, That Is, to the Real Itself",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [
+        "Charles Olson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Proprioception",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [
+        "Charles Olson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ROBERT DUNCAN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Robert Duncan"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "From a Notebook",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Duncan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Notes on Poetics Regarding Olson\u2019s Maximus",
+      "printed_page_number": "187",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Duncan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ideas of the Meaning of Form",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Duncan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Towards an Open Universe",
+      "printed_page_number": "212",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Duncan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JACK SPICER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Jack Spicer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Jack Spicer to Federico Garc\u00eda Lorca",
+      "printed_page_number": "226",
+      "source_page_index": -1,
+      "authors": [
+        "Jack Spicer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Excerpts from the Vancouver Lectures",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [
+        "Jack Spicer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ROBIN BLASER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Robin Blaser"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The Fire",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [
+        "Robin Blaser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ROBERT CREELEY",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Robert Creeley"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "A Note on Ezra Pound",
+      "printed_page_number": "247",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Creeley"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Louis Zukofsky: All: The Collected Short Poems, 1923\u20131958",
+      "printed_page_number": "250",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Creeley"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Introduction to The New Writing in the USA",
+      "printed_page_number": "254",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Creeley"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u201cI\u2019m Given to Write Poems\u201d",
+      "printed_page_number": "263",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Creeley"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Linda Wagner: An Interview with Robert Creeley",
+      "printed_page_number": "273",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Creeley"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "EDWARD DORN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Edward Dorn"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "What I See in The Maximus Poems",
+      "printed_page_number": "293",
+      "source_page_index": -1,
+      "authors": [
+        "Edward Dorn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "DENISE LEVERTOV",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Denise Levertov"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "An Admonition",
+      "printed_page_number": "308",
+      "source_page_index": -1,
+      "authors": [
+        "Denise Levertov"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Some Notes on Organic Form",
+      "printed_page_number": "312",
+      "source_page_index": -1,
+      "authors": [
+        "Denise Levertov"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ALLEN GINSBERG",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Allen Ginsberg"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Notes for Howl and Other Poems",
+      "printed_page_number": "318",
+      "source_page_index": -1,
+      "authors": [
+        "Allen Ginsberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Introduction to Gasoline",
+      "printed_page_number": "322",
+      "source_page_index": -1,
+      "authors": [
+        "Allen Ginsberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u201cWhen the Mode of the Music Changes the Walls of the City Shake\u201d",
+      "printed_page_number": "324",
+      "source_page_index": -1,
+      "authors": [
+        "Allen Ginsberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Poetry, Violence, and the Trembling Lambs",
+      "printed_page_number": "331",
+      "source_page_index": -1,
+      "authors": [
+        "Allen Ginsberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Prose Contribution to Cuban Revolution",
+      "printed_page_number": "334",
+      "source_page_index": -1,
+      "authors": [
+        "Allen Ginsberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "How Kaddish Happened",
+      "printed_page_number": "344",
+      "source_page_index": -1,
+      "authors": [
+        "Allen Ginsberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Some Metamorphoses of Personal Poetry",
+      "printed_page_number": "348",
+      "source_page_index": -1,
+      "authors": [
+        "Allen Ginsberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "On Improvisation Poetics",
+      "printed_page_number": "350",
+      "source_page_index": -1,
+      "authors": [
+        "Allen Ginsberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JOHN WIENERS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "John Wieners"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The Address of the Watchman to the Night",
+      "printed_page_number": "351",
+      "source_page_index": -1,
+      "authors": [
+        "John Wieners"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "FRANK O'HARA",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Frank O'Hara"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Personism: A Manifesto",
+      "printed_page_number": "353",
+      "source_page_index": -1,
+      "authors": [
+        "Frank O'Hara"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "About Zhivago and His Poems",
+      "printed_page_number": "355",
+      "source_page_index": -1,
+      "authors": [
+        "Frank O'Hara"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Larry Rivers: A Memoir",
+      "printed_page_number": "367",
+      "source_page_index": -1,
+      "authors": [
+        "Frank O'Hara"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "LEROI JONES (IMAMU AMIRI BARAKA)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Leroi Jones (Imamu Amiri Baraka)"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Expressive Language",
+      "printed_page_number": "373",
+      "source_page_index": -1,
+      "authors": [
+        "Leroi Jones (Imamu Amiri Baraka)"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hunting Is Not Those Heads on the Wall",
+      "printed_page_number": "378",
+      "source_page_index": -1,
+      "authors": [
+        "Leroi Jones (Imamu Amiri Baraka)"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "State/Meant",
+      "printed_page_number": "382",
+      "source_page_index": -1,
+      "authors": [
+        "Leroi Jones (Imamu Amiri Baraka)"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JACKSON MAC LOW",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Jackson Mac Low"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Statement",
+      "printed_page_number": "384",
+      "source_page_index": -1,
+      "authors": [
+        "Jackson Mac Low"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Some Remarks to the Dancers",
+      "printed_page_number": "385",
+      "source_page_index": -1,
+      "authors": [
+        "Jackson Mac Low"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "GARY SNYDER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gary Snyder"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Buddhism and the Coming Revolution",
+      "printed_page_number": "392",
+      "source_page_index": -1,
+      "authors": [
+        "Gary Snyder"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Poetry and the Primitive",
+      "printed_page_number": "395",
+      "source_page_index": -1,
+      "authors": [
+        "Gary Snyder"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Passage to More Than India",
+      "printed_page_number": "407",
+      "source_page_index": -1,
+      "authors": [
+        "Gary Snyder"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MICHAEL MCCLURE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Michael McClure"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Phi Upsilon Kappa",
+      "printed_page_number": "416",
+      "source_page_index": -1,
+      "authors": [
+        "Michael McClure"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Revolt",
+      "printed_page_number": "430",
+      "source_page_index": -1,
+      "authors": [
+        "Michael McClure"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "LAWRENCE FERLINGHETTI",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Lawrence Ferlinghetti"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Genesis of After the Cries of the Birds",
+      "printed_page_number": "445",
+      "source_page_index": -1,
+      "authors": [
+        "Lawrence Ferlinghetti"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "LENORE KANDEL",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Lenore Kandel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201cPoetry Is Never Compromise\u201d",
+      "printed_page_number": "450",
+      "source_page_index": -1,
+      "authors": [
+        "Lenore Kandel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PHILIP WHALEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Philip Whalen"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201cGoldberry Is Waiting\u201d; or, P.W., His Magic Education as a Poet",
+      "printed_page_number": "453",
+      "source_page_index": -1,
+      "authors": [
+        "Philip Whalen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "CHRONOLOGY",
+      "printed_page_number": "461",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

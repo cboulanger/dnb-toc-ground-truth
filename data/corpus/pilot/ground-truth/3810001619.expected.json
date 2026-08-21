@@ -1,0 +1,162 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort des Herausgebers",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Vorbemerkung",
+      "authors": [],
+      "printed_page_number": "13",
+      "skip": true
+    },
+    {
+      "title": "I. Einleitung. Das deutsche Parteiensystem vor 1945",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Entstehung und Entwicklung des deutschen Parteiensystems bis 1933",
+      "authors": [
+        "Richard Stöss"
+      ],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "2. Faschisierung der Weimarer Republik und NS-Diktatur",
+      "authors": [
+        "Niels Kadritzke"
+      ],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "3. Von der Weimarer Republik zur Bundesrepublik",
+      "authors": [
+        "Richard Stöss"
+      ],
+      "printed_page_number": "64",
+      "skip": false
+    },
+    {
+      "title": "II. Die Wiederentstehung der Parteien in Deutschland (1945–1949)",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Besatzungspolitik und Entwicklung der bürgerlichen Parteien in den Westzonen (1945–1949)",
+      "authors": [
+        "Alf Mintzel"
+      ],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "2. Zur Entstehung des Parteiensystems der DDR",
+      "authors": [
+        "Dietrich Staritz"
+      ],
+      "printed_page_number": "90",
+      "skip": false
+    },
+    {
+      "title": "3. Zur Entwicklung der Arbeiterparteien in den Westzonen (1945–1949)",
+      "authors": [
+        "Horst W. Schmollinger",
+        "Dietrich Staritz"
+      ],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "III. Die Parteien in der Bundesrepublik (1949–1975)",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Zur Entwicklung des Parteiensystems zwischen 1949 und 1961",
+      "authors": [
+        "Jürgen Dittberner"
+      ],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "2. Zur Entwicklung des Parteiensystems zwischen 1961 und 1966",
+      "authors": [
+        "Alf Mintzel"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "3. Das Parteiensystem in der Großen Koalition (1966–1969)",
+      "authors": [
+        "Bodo Zeuner"
+      ],
+      "printed_page_number": "174",
+      "skip": false
+    },
+    {
+      "title": "4. Das Parteiensystem seit 1969 – Normalisierung und Polarisierung",
+      "authors": [
+        "Christian Fenner"
+      ],
+      "printed_page_number": "194",
+      "skip": false
+    },
+    {
+      "title": "IV. Sozialer Wandel und soziale Basis der Parteien",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Sozialstruktur und Parteiensystem",
+      "authors": [
+        "Horst W. Schmollinger",
+        "Richard Stöss"
+      ],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "Auswahlbibliographie",
+      "authors": [],
+      "printed_page_number": "235",
+      "skip": true
+    },
+    {
+      "title": "Verzeichnis der Abkürzungen",
+      "authors": [],
+      "printed_page_number": "242",
+      "skip": true
+    },
+    {
+      "title": "Register",
+      "authors": [],
+      "printed_page_number": "245",
+      "skip": true
+    },
+    {
+      "title": "Die Autoren",
+      "authors": [],
+      "printed_page_number": "255",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

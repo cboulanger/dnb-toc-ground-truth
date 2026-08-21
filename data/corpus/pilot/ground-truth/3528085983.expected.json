@@ -1,0 +1,636 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": "V",
+      "skip": true
+    },
+    {
+      "title": "Quellenverzeichnis",
+      "authors": [],
+      "printed_page_number": "IX",
+      "skip": true
+    },
+    {
+      "title": "Vorwort des Autors",
+      "authors": [],
+      "printed_page_number": "XI",
+      "skip": true
+    },
+    {
+      "title": "Teil I. Sprache und Semantik",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": true
+    },
+    {
+      "title": "Lesen und Lesbarkeit: das Problem der syntaktischen Komplexität",
+      "authors": [],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Syntaktische Tiefe",
+      "authors": [],
+      "printed_page_number": "4",
+      "skip": true
+    },
+    {
+      "title": "Relationale Semantik",
+      "authors": [],
+      "printed_page_number": "8",
+      "skip": true
+    },
+    {
+      "title": "Prospektive Ambiguität",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": true
+    },
+    {
+      "title": "Schluß",
+      "authors": [],
+      "printed_page_number": "14",
+      "skip": true
+    },
+    {
+      "title": "Lesen, Verstehen und begriffliche Situationen",
+      "authors": [],
+      "printed_page_number": "16",
+      "skip": false
+    },
+    {
+      "title": "Begriffliche Strukturen",
+      "authors": [],
+      "printed_page_number": "17",
+      "skip": true
+    },
+    {
+      "title": "Ein begriffliches Universum",
+      "authors": [],
+      "printed_page_number": "22",
+      "skip": true
+    },
+    {
+      "title": "Die semantische Analyse von Verben auf der Grundlage begrifflicher Situationen",
+      "authors": [],
+      "printed_page_number": "24",
+      "skip": false
+    },
+    {
+      "title": "Weil und die Begriffe der Verursachung",
+      "authors": [],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "1 „Materiale“ Ursachen",
+      "authors": [],
+      "printed_page_number": "41",
+      "skip": true
+    },
+    {
+      "title": "2 „Formale“ Ursachen",
+      "authors": [],
+      "printed_page_number": "41",
+      "skip": true
+    },
+    {
+      "title": "3 „Wirkursachen“",
+      "authors": [],
+      "printed_page_number": "42",
+      "skip": true
+    },
+    {
+      "title": "4 Zweckursachen",
+      "authors": [],
+      "printed_page_number": "47",
+      "skip": true
+    },
+    {
+      "title": "5 Schlußbemerkungen",
+      "authors": [],
+      "printed_page_number": "49",
+      "skip": true
+    },
+    {
+      "title": "Zeichen — Kommunikation — Sprache",
+      "authors": [],
+      "printed_page_number": "52",
+      "skip": false
+    },
+    {
+      "title": "Sprache als zweckorientiertes Verhalten: zur Entwicklungsgeschichte",
+      "authors": [],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "Zweck und negative Rückkopplung",
+      "authors": [],
+      "printed_page_number": "65",
+      "skip": true
+    },
+    {
+      "title": "Lernen und Repräsentation",
+      "authors": [],
+      "printed_page_number": "68",
+      "skip": true
+    },
+    {
+      "title": "Die Kommunikationssituation",
+      "authors": [],
+      "printed_page_number": "70",
+      "skip": true
+    },
+    {
+      "title": "Ein möglicher Ursprung der Kooperation",
+      "authors": [],
+      "printed_page_number": "72",
+      "skip": true
+    },
+    {
+      "title": "Zeichen, Symbole und Sprache",
+      "authors": [],
+      "printed_page_number": "73",
+      "skip": true
+    },
+    {
+      "title": "Schlußfolgerungen",
+      "authors": [],
+      "printed_page_number": "77",
+      "skip": true
+    },
+    {
+      "title": "Anpassung und Überlebensfähigkeit",
+      "authors": [],
+      "printed_page_number": "80",
+      "skip": false
+    },
+    {
+      "title": "Über den Begriff der Interpretation",
+      "authors": [],
+      "printed_page_number": "86",
+      "skip": false
+    },
+    {
+      "title": "Teil II. Die Erkenntnistheorie des radikalen Konstruktivismus",
+      "authors": [],
+      "printed_page_number": "97",
+      "skip": true
+    },
+    {
+      "title": "Piaget und die Erkenntnistheorie des radikalen Konstruktivismus",
+      "authors": [],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "Schwierigkeiten der Interpretation",
+      "authors": [],
+      "printed_page_number": "99",
+      "skip": true
+    },
+    {
+      "title": "Das Dilemma des Realismus",
+      "authors": [],
+      "printed_page_number": "102",
+      "skip": true
+    },
+    {
+      "title": "Das Konstrukt des „Objekts“",
+      "authors": [],
+      "printed_page_number": "103",
+      "skip": true
+    },
+    {
+      "title": "Die Bausteine der Konstruktion",
+      "authors": [],
+      "printed_page_number": "104",
+      "skip": true
+    },
+    {
+      "title": "Die Umwelt als schwarzer Kasten",
+      "authors": [],
+      "printed_page_number": "107",
+      "skip": true
+    },
+    {
+      "title": "Wissen und Äquilibration",
+      "authors": [],
+      "printed_page_number": "110",
+      "skip": true
+    },
+    {
+      "title": "Schluß",
+      "authors": [],
+      "printed_page_number": "111",
+      "skip": true
+    },
+    {
+      "title": "Die Konstrukte der Identität, oder: die Kunst, Unterschiede zu übergehen",
+      "authors": [],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "Bemerkungen zur epistemologischen Revolution",
+      "authors": [],
+      "printed_page_number": "122",
+      "skip": false
+    },
+    {
+      "title": "Wissen in der Sicht des radikalen Konstruktivismus",
+      "authors": [],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "Probleme des Lernens",
+      "authors": [],
+      "printed_page_number": "131",
+      "skip": true
+    },
+    {
+      "title": "Probleme des Lehrens",
+      "authors": [],
+      "printed_page_number": "132",
+      "skip": true
+    },
+    {
+      "title": "Probleme des Wissens",
+      "authors": [],
+      "printed_page_number": "133",
+      "skip": true
+    },
+    {
+      "title": "Schlußbemerkungen",
+      "authors": [],
+      "printed_page_number": "136",
+      "skip": true
+    },
+    {
+      "title": "Die Begriffe der Anpassung und Viabilität in einer radikal konstruktivistischen Erkenntnistheorie",
+      "authors": [],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "Kybernetik, Erfahrung und der Begriff des Ich",
+      "authors": [],
+      "printed_page_number": "144",
+      "skip": false
+    },
+    {
+      "title": "Kybernetik und Lernen",
+      "authors": [],
+      "printed_page_number": "145",
+      "skip": true
+    },
+    {
+      "title": "Rückkoppelung und Selbststeuerung",
+      "authors": [],
+      "printed_page_number": "145",
+      "skip": true
+    },
+    {
+      "title": "Lernen als induktiver Prozeß",
+      "authors": [],
+      "printed_page_number": "146",
+      "skip": true
+    },
+    {
+      "title": "Die Konstruktion des Wissens durch das Subjekt",
+      "authors": [],
+      "printed_page_number": "148",
+      "skip": true
+    },
+    {
+      "title": "Regularitäten, Regeln und Erklärungen",
+      "authors": [],
+      "printed_page_number": "150",
+      "skip": true
+    },
+    {
+      "title": "Die Nützlichkeit „schwarzer Kästen“",
+      "authors": [],
+      "printed_page_number": "151",
+      "skip": true
+    },
+    {
+      "title": "Beobachter und Beobachtetes",
+      "authors": [],
+      "printed_page_number": "153",
+      "skip": true
+    },
+    {
+      "title": "Piaget in kybernetischer Sicht",
+      "authors": [],
+      "printed_page_number": "154",
+      "skip": true
+    },
+    {
+      "title": "Die Konstruktion permanenter Objekte",
+      "authors": [],
+      "printed_page_number": "154",
+      "skip": true
+    },
+    {
+      "title": "Die Herstellung von „Gleichheit“",
+      "authors": [],
+      "printed_page_number": "155",
+      "skip": true
+    },
+    {
+      "title": "Assimilation und Akkomodation",
+      "authors": [],
+      "printed_page_number": "157",
+      "skip": true
+    },
+    {
+      "title": "Schemata und begriffliche Strukturen",
+      "authors": [],
+      "printed_page_number": "159",
+      "skip": true
+    },
+    {
+      "title": "Die Mehrdeutigkeit des Begriffs der „Gleichheit“",
+      "authors": [],
+      "printed_page_number": "160",
+      "skip": true
+    },
+    {
+      "title": "Äquivalenz und Kontinuität",
+      "authors": [],
+      "printed_page_number": "162",
+      "skip": true
+    },
+    {
+      "title": "Das Problem der Realität",
+      "authors": [],
+      "printed_page_number": "165",
+      "skip": true
+    },
+    {
+      "title": "Einige grundlegende Konstrukte",
+      "authors": [],
+      "printed_page_number": "165",
+      "skip": true
+    },
+    {
+      "title": "Die Konstruktion des Ich",
+      "authors": [],
+      "printed_page_number": "168",
+      "skip": true
+    },
+    {
+      "title": "Das sich selbst beobachtende Ich",
+      "authors": [],
+      "printed_page_number": "168",
+      "skip": true
+    },
+    {
+      "title": "Das Ich als visuelles Perzept",
+      "authors": [],
+      "printed_page_number": "168",
+      "skip": true
+    },
+    {
+      "title": "Ebenen der Ich-Wahrnehmung",
+      "authors": [],
+      "printed_page_number": "170",
+      "skip": true
+    },
+    {
+      "title": "Das Bild im Spiegel",
+      "authors": [],
+      "printed_page_number": "173",
+      "skip": true
+    },
+    {
+      "title": "Die kybernetische Metapher",
+      "authors": [],
+      "printed_page_number": "173",
+      "skip": true
+    },
+    {
+      "title": "Eine Epistemologie für kognitive Systeme",
+      "authors": [],
+      "printed_page_number": "176",
+      "skip": false
+    },
+    {
+      "title": "Der Begriff der Äquilibration in einer konstruktivistischen Erkenntnistheorie",
+      "authors": [],
+      "printed_page_number": "186",
+      "skip": false
+    },
+    {
+      "title": "Einführung in den radikalen Konstruktivismus",
+      "authors": [],
+      "printed_page_number": "198",
+      "skip": false
+    },
+    {
+      "title": "Rückkopplung, Induktion und Erkenntnistheorie",
+      "authors": [],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "Einleitung",
+      "authors": [],
+      "printed_page_number": "213",
+      "skip": true
+    },
+    {
+      "title": "Regelung und Regler",
+      "authors": [],
+      "printed_page_number": "213",
+      "skip": true
+    },
+    {
+      "title": "Kognitive Entwicklung",
+      "authors": [],
+      "printed_page_number": "215",
+      "skip": true
+    },
+    {
+      "title": "Die Rolle des Wissens",
+      "authors": [],
+      "printed_page_number": "217",
+      "skip": true
+    },
+    {
+      "title": "Kommunikation",
+      "authors": [],
+      "printed_page_number": "218",
+      "skip": true
+    },
+    {
+      "title": "Schluß",
+      "authors": [],
+      "printed_page_number": "219",
+      "skip": true
+    },
+    {
+      "title": "Danksagung",
+      "authors": [],
+      "printed_page_number": "220",
+      "skip": true
+    },
+    {
+      "title": "Piagets Konstruktivismus — eine Interpretation",
+      "authors": [],
+      "printed_page_number": "221",
+      "skip": false
+    },
+    {
+      "title": "Die Konstruktion der Erkenntnis",
+      "authors": [],
+      "printed_page_number": "222",
+      "skip": true
+    },
+    {
+      "title": "Die Konstruktion der Wirklichkeit",
+      "authors": [],
+      "printed_page_number": "227",
+      "skip": true
+    },
+    {
+      "title": "Die Begriffe der Wahrheit und Objektivität",
+      "authors": [],
+      "printed_page_number": "231",
+      "skip": true
+    },
+    {
+      "title": "Schlußbemerkungen",
+      "authors": [],
+      "printed_page_number": "237",
+      "skip": true
+    },
+    {
+      "title": "Übersetzungen",
+      "authors": [],
+      "printed_page_number": "238",
+      "skip": true
+    },
+    {
+      "title": "Dank",
+      "authors": [],
+      "printed_page_number": "240",
+      "skip": true
+    },
+    {
+      "title": "Teil III. Untersuchungen zum Zahlbegriff",
+      "authors": [],
+      "printed_page_number": "241",
+      "skip": true
+    },
+    {
+      "title": "Ein Bewußtseins-Modell der begrifflichen Konstruktion von Einheiten und Zahlen",
+      "authors": [],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "Danksagung",
+      "authors": [],
+      "printed_page_number": "252",
+      "skip": true
+    },
+    {
+      "title": "„Subitizing“: Die Rolle figuraler Muster in der Entwicklung von Zahlbegriffen",
+      "authors": [],
+      "printed_page_number": "254",
+      "skip": false
+    },
+    {
+      "title": "Wörter und Bedeutungen",
+      "authors": [],
+      "printed_page_number": "255",
+      "skip": true
+    },
+    {
+      "title": "Zahlwörter ohne Zahlen",
+      "authors": [],
+      "printed_page_number": "259",
+      "skip": true
+    },
+    {
+      "title": "Räumliche Konfiguration",
+      "authors": [],
+      "printed_page_number": "260",
+      "skip": true
+    },
+    {
+      "title": "Temporale Muster",
+      "authors": [],
+      "printed_page_number": "263",
+      "skip": true
+    },
+    {
+      "title": "Das Problem der Mächtigkeit",
+      "authors": [],
+      "printed_page_number": "265",
+      "skip": true
+    },
+    {
+      "title": "Die Erfahrung von Einheiten, die aus Einheiten bestehen",
+      "authors": [],
+      "printed_page_number": "266",
+      "skip": true
+    },
+    {
+      "title": "Die Erfahrung numerischer Relationen",
+      "authors": [],
+      "printed_page_number": "269",
+      "skip": true
+    },
+    {
+      "title": "Zusammenfassung und Schlußbemerkungen",
+      "authors": [],
+      "printed_page_number": "272",
+      "skip": true
+    },
+    {
+      "title": "Danksagung",
+      "authors": [],
+      "printed_page_number": "274",
+      "skip": true
+    },
+    {
+      "title": "Lernen als konstruktive Tätigkeit",
+      "authors": [],
+      "printed_page_number": "275",
+      "skip": false
+    },
+    {
+      "title": "Schlußbemerkungen",
+      "authors": [],
+      "printed_page_number": "291",
+      "skip": true
+    },
+    {
+      "title": "Zitierte Literatur",
+      "authors": [],
+      "printed_page_number": "293",
+      "skip": true
+    },
+    {
+      "title": "Namenverzeichnis",
+      "authors": [],
+      "printed_page_number": "304",
+      "skip": true
+    },
+    {
+      "title": "Sachwortverzeichnis",
+      "authors": [],
+      "printed_page_number": "307",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

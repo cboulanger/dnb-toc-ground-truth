@@ -1,0 +1,152 @@
+{
+  "entries": [
+    {
+      "title": "INHALT",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort des Herausgebers",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Der Neanderberg. Vom Aufstieg der Frauen aus dem Neandertal",
+      "authors": [
+        "Ernest Borneman"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Bedeutung und Rezeption der Frauenarbeit in der englischen und deutschen Arbeiterbewegung 1895–1914",
+      "authors": [
+        "Thea Holleck"
+      ],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "Grundkonzeptionen deutscher Sozialdemokratinnen im Kaiserreich",
+      "authors": [
+        "Heinz Niggemann"
+      ],
+      "printed_page_number": "40",
+      "skip": false
+    },
+    {
+      "title": "Rolle und Situation von Frauen in der deutschen Sozialdemokratie 1900–1933",
+      "authors": [
+        "Jutta Menschik"
+      ],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Frauenfrage und deutsche Sozialdemokratie vom Ende des 19. Jahrhunderts bis zum Beginn der zwanziger Jahre",
+      "authors": [
+        "Willy Albrecht",
+        "Friedhelm Boll",
+        "Beatrix W. Bouvier",
+        "Rosemarie Leuschen-Seppel",
+        "Michael Schneider"
+      ],
+      "printed_page_number": "58",
+      "skip": false
+    },
+    {
+      "title": "Frauen im freigewerkschaftlichen Zentralverband der Angestellten",
+      "authors": [
+        "Ute Frevert"
+      ],
+      "printed_page_number": "118",
+      "skip": false
+    },
+    {
+      "title": "Die Frau in der österreichischen Arbeiterbewegung 1900–1918",
+      "authors": [
+        "Alida Mirella Hueller",
+        "Helmut Konrad"
+      ],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "Frauenemanzipation und sozialistische Bewegung in Österreich",
+      "authors": [
+        "Christa Vogt",
+        "Werner Pleschberger"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "Funktion und Bedeutung von Arbeiterinnen-Selbstdarstellungen",
+      "authors": [
+        "Richard Klucsarits"
+      ],
+      "printed_page_number": "160",
+      "skip": false
+    },
+    {
+      "title": "Bemerkungen zur Geschichte der Frauenbewegung in Ungarn",
+      "authors": [
+        "Katalin Soos"
+      ],
+      "printed_page_number": "172",
+      "skip": false
+    },
+    {
+      "title": "Weibliche Industriearbeit und sozialistische Frauenbewegung in Ungarn vor dem Ersten Weltkrieg",
+      "authors": [
+        "Ferenc Mucsi"
+      ],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "Die werktätige Frau der Tschechoslowakei zwischen den zwei Weltkriegen",
+      "authors": [
+        "Marta Vartíková"
+      ],
+      "printed_page_number": "184",
+      "skip": false
+    },
+    {
+      "title": "Die Frau in der Arbeiterfamilie im Königreich Polen an der Wende des 19. zum 20. Jahrhundert",
+      "authors": [
+        "Anna Żarnowska"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "Die Frau und die polnische Arbeiterbewegung 1900–1939",
+      "authors": [
+        "Irene Koberdowa"
+      ],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "Die bulgarischen Frauen im antifaschistischen Kampf 1923–1939",
+      "authors": [
+        "Katja Kabakcieva"
+      ],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "Die Lebens- und Arbeitssituation japanischer Textilarbeiterinnen und die Frauenpolitik der Gewerkschaften und der sozialistischen Gruppierungen Japans",
+      "authors": [
+        "Ilse Lenz"
+      ],
+      "printed_page_number": "209",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

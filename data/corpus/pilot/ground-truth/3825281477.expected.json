@@ -1,0 +1,296 @@
+{
+  "entries": [
+    {
+      "title": "Vorbemerkung",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Aristoteles über Detektivgeschichten. Vorlesung in Oxford am 5. März 1935",
+      "authors": [
+        "Dorothy L. Sayers"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "Kriminalromane, auf Reisen",
+      "authors": [
+        "Walter Benjamin"
+      ],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "Detektiv",
+      "authors": [
+        "Siegfried Kracauer"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "Über die Popularität des Kriminalromans",
+      "authors": [
+        "Bertolt Brecht"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "Philosophische Ansicht des Detektivromans",
+      "authors": [
+        "Ernst Bloch"
+      ],
+      "printed_page_number": "38",
+      "skip": false
+    },
+    {
+      "title": "Anatomie des Detektivromans",
+      "authors": [
+        "Richard Alewyn"
+      ],
+      "printed_page_number": "52",
+      "skip": false
+    },
+    {
+      "title": "Verbrechensdichtung und Kriminalroman",
+      "authors": [
+        "Richard Gerber"
+      ],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "Der gefesselte Detektivroman. Ein gattungstheoretischer Versuch",
+      "authors": [
+        "Ulrich Suerbaum"
+      ],
+      "printed_page_number": "84",
+      "skip": false
+    },
+    {
+      "title": "Der entfesselte Detektivroman",
+      "authors": [
+        "Ulrich Broich"
+      ],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "Spielregeln des Kriminalromans",
+      "authors": [
+        "Helmut Heißenbüttel"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "Variation und Innovation. Modelle literarischer Möglichkeiten der Prosa in der Nachfolge Edgar Allan Poes",
+      "authors": [
+        "Manfred Smuda"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "Die Kriminalerzählung bei Conan Doyle",
+      "authors": [
+        "Viktor Šklovskij"
+      ],
+      "printed_page_number": "142",
+      "skip": false
+    },
+    {
+      "title": "Zur semiotischen Analyse des Detektivromans am Beispiel der Romane Agatha Christies",
+      "authors": [
+        "Isaak I. Revzin"
+      ],
+      "printed_page_number": "154",
+      "skip": false
+    },
+    {
+      "title": "Der Kriminalroman oder: Wie sich der Verstand aus der Welt zurückzieht, um seine Spiele zu spielen, und wie darin dennoch die Probleme der Gesellschaft behandelt werden",
+      "authors": [
+        "Roger Caillois"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Die Erzählstrukturen bei Ian Fleming",
+      "authors": [
+        "Umberto Eco"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "Typologie des Kriminalromans",
+      "authors": [
+        "Tzvetan Todorov"
+      ],
+      "printed_page_number": "208",
+      "skip": false
+    },
+    {
+      "title": "Die Geschichten des Detektivromans. Zur Struktur und Rezeptionsweise seiner klassischen Form",
+      "authors": [
+        "Elisabeth Schulze-Witzenrath"
+      ],
+      "printed_page_number": "216",
+      "skip": false
+    },
+    {
+      "title": "Der Detektiv als Leser. Narrativität und Lesekonzepte in der Detektivliteratur",
+      "authors": [
+        "Peter Hühn"
+      ],
+      "printed_page_number": "239",
+      "skip": false
+    },
+    {
+      "title": "Die Detektivgeschichte: Eine Fallstudie über Spiele in der Literatur",
+      "authors": [
+        "Bernard Suits"
+      ],
+      "printed_page_number": "255",
+      "skip": false
+    },
+    {
+      "title": "Indizien: Morelli, Freud und Sherlock Holmes",
+      "authors": [
+        "Carlo Ginzburg"
+      ],
+      "printed_page_number": "274",
+      "skip": false
+    },
+    {
+      "title": "\"Sie kennen ja meine Methode.\" Ein Vergleich von Charles S. Peirce und Sherlock Holmes",
+      "authors": [
+        "Thomas A. Sebeok",
+        "Jean Umiker-Sebeok"
+      ],
+      "printed_page_number": "297",
+      "skip": false
+    },
+    {
+      "title": "Kriminalgeschichten in der deutschen Literatur zwischen 1770 und 1890. Zur Entwicklung des Genres in sozialgeschichtlicher Perspektive",
+      "authors": [
+        "Jörg Schönert"
+      ],
+      "printed_page_number": "322",
+      "skip": false
+    },
+    {
+      "title": "Der Text ist klüger als der Autor. Kriminologische Bemerkungen zu Theodor Fontanes Erzählung \"Unterm Birnbaum\"",
+      "authors": [
+        "Klaus Lüderssen"
+      ],
+      "printed_page_number": "340",
+      "skip": false
+    },
+    {
+      "title": "Mentalität und Medium. Detektivroman, Großstadt oder ein zweiter Weg in die Moderne",
+      "authors": [
+        "K. Ludwig Pfeiffer"
+      ],
+      "printed_page_number": "357",
+      "skip": false
+    },
+    {
+      "title": "Über Raymond Chandler",
+      "authors": [
+        "Fredric R. Jameson"
+      ],
+      "printed_page_number": "378",
+      "skip": false
+    },
+    {
+      "title": "Zum Beispiel \"Der Malteser Falke\". Analyse der psychoanalytischen Untersuchung literarischer Texte",
+      "authors": [
+        "Alfred Lorenzer"
+      ],
+      "printed_page_number": "398",
+      "skip": false
+    },
+    {
+      "title": "Über die Kunst, mit Vögeln zu jagen. \"Der Malteser Falke\" von Dashiell Hammett",
+      "authors": [
+        "Friedrich A. Kittler"
+      ],
+      "printed_page_number": "416",
+      "skip": false
+    },
+    {
+      "title": "Der deduktive Detektivroman: Ein Genre, das sich selbst zerstört",
+      "authors": [
+        "Kathleen Gregory Klein",
+        "Joseph Keller"
+      ],
+      "printed_page_number": "428",
+      "skip": false
+    },
+    {
+      "title": "Die feministische Gegentradition im Kriminalroman. Über Cross, Grafton, Paretsky und Wilson",
+      "authors": [
+        "Maureen T. Reddy"
+      ],
+      "printed_page_number": "444",
+      "skip": false
+    },
+    {
+      "title": "Ermittlung des Phallus. Autorität, Ideologie und die Produktion patriarchaler Agenten im Kriminalroman",
+      "authors": [
+        "Teresa L. Ebert"
+      ],
+      "printed_page_number": "461",
+      "skip": false
+    },
+    {
+      "title": "Aufklärung durch den Kriminalroman",
+      "authors": [
+        "Peter Nusser"
+      ],
+      "printed_page_number": "486",
+      "skip": false
+    },
+    {
+      "title": "Vorübergehende Entwirklichung. Zur Theorie des Kriminalromans",
+      "authors": [
+        "Dieter Wellershoff"
+      ],
+      "printed_page_number": "499",
+      "skip": false
+    },
+    {
+      "title": "Funktionen des Kriminalromans in der post-avantgardistischen Erzählliteratur",
+      "authors": [
+        "Ulrich Schulz-Buschhaus"
+      ],
+      "printed_page_number": "523",
+      "skip": false
+    },
+    {
+      "title": "Drucknachweise",
+      "authors": [],
+      "printed_page_number": "549",
+      "skip": true
+    },
+    {
+      "title": "Weiterführende Bibliographie",
+      "authors": [],
+      "printed_page_number": "553",
+      "skip": true
+    },
+    {
+      "title": "Namen- und Titelregister",
+      "authors": [],
+      "printed_page_number": "566",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

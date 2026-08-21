@@ -1,0 +1,126 @@
+{
+  "entries": [
+    {
+      "title": "INHALT",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "5",
+      "skip": true
+    },
+    {
+      "title": "SCHWERPUNKT: LEIBNIZ UND DIE SPRACHE",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Wie viele Sprachen spricht Leibniz?",
+      "authors": [
+        "Tilman Borsche"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Leibniz als Sprachschöpfer. Eine Einführung in seine Philosophie anhand seiner Neologismen",
+      "authors": [
+        "Hubertus Busche"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "Philosophische Lyrik als Problemreaktion. Leibniz' Gedicht auf den Tod der Königin Sophie Charlotte (1705)",
+      "authors": [
+        "Dirk Werle"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Operatio per characteres. Leibniz' Projekt einer characteristica universalis",
+      "authors": [
+        "Wenchao Li"
+      ],
+      "printed_page_number": "83",
+      "skip": false
+    },
+    {
+      "title": "ABHANDLUNGEN",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Der Eigentlichere Zeus. Die Begriffsgeschichte des Göttlichen in Hölderlins Spätwerk",
+      "authors": [
+        "Jan Kerkmann"
+      ],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "Sorge und Welt: Blumenberg versus Heidegger",
+      "authors": [
+        "Christine Blättler"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "REZENSIONSESSAY",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Koselleck zur Erinnerung",
+      "authors": [
+        "Jan Eike Dunkhase"
+      ],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "BUCHBESPRECHUNGEN",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Dag Nikolaus Hasse: Was ist europäisch? Zur Überwindung kolonialer und romantischer Denkformen",
+      "authors": [
+        "Robert Buch"
+      ],
+      "printed_page_number": "171",
+      "skip": true
+    },
+    {
+      "title": "Elad Lapidot: Anti-Anti-Semitismus. Eine philosophische Kritik",
+      "authors": [
+        "Klaus Kempter"
+      ],
+      "printed_page_number": "177",
+      "skip": true
+    },
+    {
+      "title": "Die Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "181",
+      "skip": true
+    },
+    {
+      "title": "Über das Archiv für Begriffsgeschichte",
+      "authors": [],
+      "printed_page_number": "183",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

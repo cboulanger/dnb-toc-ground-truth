@@ -1,0 +1,170 @@
+{
+  "entries": [
+    {
+      "title": "INHALT",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort des Herausgebers",
+      "authors": [],
+      "printed_page_number": "VII",
+      "skip": true
+    },
+    {
+      "title": "Vorwort zur zweiten Auflage",
+      "authors": [],
+      "printed_page_number": "IX",
+      "skip": true
+    },
+    {
+      "title": "Vorwort zur fünften Auflage",
+      "authors": [],
+      "printed_page_number": "X",
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": [
+        "Eduard Baumgarten"
+      ],
+      "printed_page_number": "XI",
+      "skip": true
+    },
+    {
+      "title": "Soziologie. Universalgeschichtliche Analysen. Politik",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die sozialen Gründe des Untergangs der antiken Kultur",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Wirtschaft und Gesellschaft im Rom der Kaiserzeit",
+      "authors": [],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Wirtschaft und Gesellschaft im allgemeinen",
+      "authors": [],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "Freiheit und Zwang in der Rechtsgemeinschaft",
+      "authors": [],
+      "printed_page_number": "76",
+      "skip": false
+    },
+    {
+      "title": "Politische Gemeinschaften und Wirtschaft",
+      "authors": [],
+      "printed_page_number": "80",
+      "skip": false
+    },
+    {
+      "title": "Über einige Kategorien der verstehenden Soziologie",
+      "authors": [],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "Die drei reinen Typen der legitimen Herrschaft",
+      "authors": [],
+      "printed_page_number": "151",
+      "skip": false
+    },
+    {
+      "title": "Der Beruf zur Politik",
+      "authors": [],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "Die »Objektivität« sozialwissenschaftlicher Erkenntnis",
+      "authors": [],
+      "printed_page_number": "186",
+      "skip": false
+    },
+    {
+      "title": "Der Sinn der »Wertfreiheit« der Sozialwissenschaften",
+      "authors": [],
+      "printed_page_number": "263",
+      "skip": false
+    },
+    {
+      "title": "Vom inneren Beruf zur Wissenschaft",
+      "authors": [],
+      "printed_page_number": "311",
+      "skip": false
+    },
+    {
+      "title": "Vorbemerkung zu den Gesammelten Aufsätzen zur Religionssoziologie",
+      "authors": [],
+      "printed_page_number": "340",
+      "skip": true
+    },
+    {
+      "title": "Asketischer Protestantismus und kapitalistischer Geist",
+      "authors": [],
+      "printed_page_number": "357",
+      "skip": false
+    },
+    {
+      "title": "»Kirchen« und »Sekten« in Nordamerika",
+      "authors": [],
+      "printed_page_number": "382",
+      "skip": false
+    },
+    {
+      "title": "Einleitung in die Wirtschaftsethik der Weltreligionen",
+      "authors": [],
+      "printed_page_number": "398",
+      "skip": false
+    },
+    {
+      "title": "Richtungen und Stufen religiöser Weltablehnung",
+      "authors": [],
+      "printed_page_number": "441",
+      "skip": false
+    },
+    {
+      "title": "ANHANG",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Zeittafel",
+      "authors": [],
+      "printed_page_number": "487",
+      "skip": true
+    },
+    {
+      "title": "Schriftenverzeichnis",
+      "authors": [],
+      "printed_page_number": "490",
+      "skip": true
+    },
+    {
+      "title": "Anmerkungen und Erläuterungen",
+      "authors": [],
+      "printed_page_number": "513",
+      "skip": true
+    },
+    {
+      "title": "Personen- und Sachregister",
+      "authors": [],
+      "printed_page_number": "567",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

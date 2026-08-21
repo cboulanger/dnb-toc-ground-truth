@@ -1,0 +1,128 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort der Herausgeber",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": [
+        "Kai-Uwe Hellmann"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Politik des Staates oder Politik der Gesellschaft? Kollektivität als Problemformel des Politischen",
+      "authors": [
+        "Armin Nassehi"
+      ],
+      "printed_page_number": "38",
+      "skip": false
+    },
+    {
+      "title": "»Wer gehört dazu?« Überlegungen zur Theorie der Inklusion",
+      "authors": [
+        "Alfons Bora"
+      ],
+      "printed_page_number": "60",
+      "skip": false
+    },
+    {
+      "title": "Politische Öffentlichkeit. Systemtheoretische Grundlagen und politikwissenschaftliche Konsequenzen",
+      "authors": [
+        "Frank Marcinkowski"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "Parteien als politische Organisationen in Luhmanns Theorie des politischen Systems",
+      "authors": [
+        "Walter Reese-Schäfer"
+      ],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "Der Staat des politischen Systems im Werk Niklas Luhmanns",
+      "authors": [
+        "Klaus von Beyme"
+      ],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "Strukturelle Kopplung: Die Antwort der Theorie auf die Geschlossenheit sozialer Systeme und ihre Bedeutung für die Politik",
+      "authors": [
+        "Ruth Simsa"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "Die politische Utopie der Gesellschaftssteuerung",
+      "authors": [
+        "Stefan Lange"
+      ],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "Die demokratische Form der Politik in Luhmanns Gesellschaftstheorie",
+      "authors": [
+        "Hans-Joachim Giegel"
+      ],
+      "printed_page_number": "194",
+      "skip": false
+    },
+    {
+      "title": "Demokratie als Resultat politischer Evolution",
+      "authors": [
+        "Hannes Wimmer"
+      ],
+      "printed_page_number": "223",
+      "skip": false
+    },
+    {
+      "title": "Der moderne Nationalstaat als Lösung und Problem der Inklusion in das politische System",
+      "authors": [
+        "Jost Halfmann"
+      ],
+      "printed_page_number": "261",
+      "skip": false
+    },
+    {
+      "title": "Politik und Weltgesellschaft",
+      "authors": [
+        "Rudolf Stichweh"
+      ],
+      "printed_page_number": "287",
+      "skip": false
+    },
+    {
+      "title": "Ohnmächtige Differenz und die Konstitution der Politik",
+      "authors": [
+        "Alex Demirovic"
+      ],
+      "printed_page_number": "297",
+      "skip": false
+    },
+    {
+      "title": "Hinweise zur Autorin und zu den Autoren",
+      "authors": [],
+      "printed_page_number": "317",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,133 @@
+{
+  "entries": [
+    {
+      "title": "Editorial",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": true
+    },
+    {
+      "title": "Ein Todesmarsch in Ostpreußen",
+      "authors": [
+        "Reinhard Henkys"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Es gab weder Schutz noch Erlösung, weder Sicherheit noch Rettung Jüdischer Widerstand und der Untergang des Ghettos Glubokoje",
+      "authors": [
+        "Jakow Suchowolskij"
+      ],
+      "printed_page_number": "22",
+      "skip": false
+    },
+    {
+      "title": "Öffentliches Sterben Vom Umgang der Öffentlichkeit mit den Todesmärschen",
+      "authors": [
+        "Barbara Distel"
+      ],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "Das Evakuierungslager Bergen-Belsen",
+      "authors": [
+        "Thomas Rahe"
+      ],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Auschwitz neu? Pläne und Maßnahmen zur Wiedererrichtung der Krematorien von Auschwitz-Birkenau in der Umgebung des KZ Mauthausen im Februar 1945",
+      "authors": [
+        "Bertrand Perz",
+        "Florian Freund"
+      ],
+      "printed_page_number": "58",
+      "skip": false
+    },
+    {
+      "title": "Jüdischer Widerstand in Grodno und Bialystok Erinnerungen eines Verbindungsmädchens zur arischen Seite",
+      "authors": [
+        "Chasia Bornstein-Bielicka"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Das Ende des Konzentrationslagers „B2“ – „Malachit“ – „Langenstein-Zwieberge“",
+      "authors": [
+        "Denise Wesenberg"
+      ],
+      "printed_page_number": "88",
+      "skip": false
+    },
+    {
+      "title": "Das KZ-Außenlager Hersbruck Zur Geschichte des größten Außenlagers des KZ Flossenbürg in Bayern",
+      "authors": [
+        "Alexander Schmidt"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "Das Massaker von Gardelegen",
+      "authors": [
+        "Diana Gring"
+      ],
+      "printed_page_number": "112",
+      "skip": false
+    },
+    {
+      "title": "Gesteuertes Sterben Die Boelcke-Kaserne als zentrales Siechenlager des KZ Mittelbau",
+      "authors": [
+        "Jens-Christian Wagner"
+      ],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "Das Ende von Kaufering IV",
+      "authors": [
+        "Edith Raim"
+      ],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "Das Mädchenkonzentrationslager Uckermark als Sterbe- und Selektionslager",
+      "authors": [
+        "Verena Walter"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Wöbbelin: Das letzte Außenlager des KZ Neuengamme als Evakuierungs- und Sterbelager",
+      "authors": [
+        "Carina Baganz"
+      ],
+      "printed_page_number": "166",
+      "skip": false
+    },
+    {
+      "title": "„Komm, geh mit! Wir gehn zum Judenerschießen …“ Massenmord bei der Auflösung des KZ-Außenlagers Lieberose im Februar 1945",
+      "authors": [
+        "Andreas Weigelt"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Die Hoffnung auf das Überleben Alfred Roßners Hilfe für die Juden in Będzin",
+      "authors": [
+        "Kitia Altman"
+      ],
+      "printed_page_number": "194",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

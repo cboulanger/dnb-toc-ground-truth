@@ -1,0 +1,102 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Geleitwort",
+      "authors": ["Wilhelm Hahn"],
+      "printed_page_number": "5",
+      "skip": true
+    },
+    {
+      "title": "Bildungspolitische Probleme in psychologischer Sicht. Zur Einleitung",
+      "authors": ["Kurt Aurin"],
+      "printed_page_number": "6",
+      "skip": false
+    },
+    {
+      "title": "Erziehung in Deutschland – einige Gesichtspunkte",
+      "authors": ["David Katz"],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "Die schulpolitischen und wissenschaftlichen Grundlagen der schwedischen Schulreform",
+      "authors": ["Torsten Husén"],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "Begabung und Begabungsförderung im System des Bildungswesens",
+      "authors": ["Joachim H. Knoll"],
+      "printed_page_number": "32",
+      "skip": false
+    },
+    {
+      "title": "Regionales Begabungspotential, Bildungsberatung und Bildungsplanung",
+      "authors": ["Kurt Aurin"],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "Bildungsvorstellungen, Lernwirklichkeit und Lerneinstellungen von Industrie-Arbeitern",
+      "authors": ["Hans Tietgens"],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "Bildungswiderstände im ländlichen Bereich – ihre sozialpsychologischen Ursachen und ihre bildungspolitische Relevanz",
+      "authors": ["Rosemarie Klaus-Roeder"],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "Die Gegenwartsproblematik der Mädchenbildung",
+      "authors": ["Elfriede Höhn"],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "Bildungspolitische Aspekte der sozialpädagogisch/sozialen Berufsbildung",
+      "authors": ["Hans Pfaffenberger"],
+      "printed_page_number": "124",
+      "skip": false
+    },
+    {
+      "title": "Restauration oder Innovation: Zur Rolle der Psychologie in der Reform des Bildungswesens",
+      "authors": ["Jürgen Zimmer"],
+      "printed_page_number": "146",
+      "skip": false
+    },
+    {
+      "title": "Bildung – psychologisch-kritisch betrachtet",
+      "authors": ["Heinz Wiesbrock"],
+      "printed_page_number": "164",
+      "skip": false
+    },
+    {
+      "title": "Zur Soziokritik des Bildungsbegriffes – Bildung nach dem Notstand",
+      "authors": ["Ralf Dahrendorf"],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "Über die Mitarbeiter",
+      "authors": [],
+      "printed_page_number": "201",
+      "skip": true
+    },
+    {
+      "title": "Stichwortverzeichnis",
+      "authors": [],
+      "printed_page_number": "203",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

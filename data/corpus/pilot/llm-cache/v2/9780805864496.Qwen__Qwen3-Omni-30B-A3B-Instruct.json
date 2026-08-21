@@ -1,0 +1,543 @@
+{
+  "generated_at": 1787237581.3393211,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "List of Figures",
+      "printed_page_number": "ix",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of Tables",
+      "printed_page_number": "x",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Preface",
+      "printed_page_number": "xi",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "1 How the News Shapes Our Civic Agenda",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "MAXWELL MCCOMBS",
+        "AMY REYNOLDS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 News Framing Theory and Research",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "DAVID TEWKSURY",
+        "DIETRAM A. SCHEUFEL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Growing Up with Television: Cultivation Processes",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [
+        "MICHAEL MORGAN",
+        "JAMES SHANAHAN",
+        "NANCY SIGNORIELLI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Media Consumption and Perceptions of Social Reality: Effects and Underlying Processes",
+      "printed_page_number": "50",
+      "source_page_index": -1,
+      "authors": [
+        "L. J. SHRUM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Media Priming: An Updated Synthesis",
+      "printed_page_number": "74",
+      "source_page_index": -1,
+      "authors": [
+        "DAVID R. ROSKOS-EWOLDSEN",
+        "BEVERLY ROSKOS-EWOLDSEN",
+        "FRANCESCA DILLMAN CARPENTIER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Social Cognitive Theory of Mass Communication",
+      "printed_page_number": "94",
+      "source_page_index": -1,
+      "authors": [
+        "ALBERT BANDURA"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Mass Media Attitude Change: Implications of the Elaboration Likelihood Model of Persuasion",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [
+        "RICHARD E. PETTY",
+        "PABLO BRI\u00d1OL",
+        "JOSEPH R. PRIESTER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Uses-and-Gratifications Perspective on Media Effects",
+      "printed_page_number": "165",
+      "source_page_index": -1,
+      "authors": [
+        "ALAN M. RUBIN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 Where Psychophysiology Meets the Media: Taking the Effects Out of Mass Media Research",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [
+        "ANNIE LANG",
+        "ROBERT F. POTTER",
+        "PAUL BOLLS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Media and Civic Participation: On Understanding and Misunderstanding Communication Effects",
+      "printed_page_number": "207",
+      "source_page_index": -1,
+      "authors": [
+        "DHAVAN V. SHAH",
+        "HERNANDO ROJAS",
+        "JAEHO CHO"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11 Political Communication Effects",
+      "printed_page_number": "228",
+      "source_page_index": -1,
+      "authors": [
+        "DOUGLAS M. McLEOD",
+        "GERALD M. KOSICKI",
+        "JACK M. McLEOD"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12 Mass Media, Social Perception, and the Third-Person Effect",
+      "printed_page_number": "252",
+      "source_page_index": -1,
+      "authors": [
+        "RICHARD M. PERLOFF"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13 Media Violence",
+      "printed_page_number": "269",
+      "source_page_index": -1,
+      "authors": [
+        "GLENN G. SPARKS",
+        "CHERI W. SPARKS",
+        "ERIN A. SPARKS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14 Fright Reactions to Mass Media",
+      "printed_page_number": "287",
+      "source_page_index": -1,
+      "authors": [
+        "JOANNE CANTOR"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15 Effects of Sex in the Media",
+      "printed_page_number": "304",
+      "source_page_index": -1,
+      "authors": [
+        "RICHARD JACKSON HARRIS",
+        "CHRISTOPHER P. BARLETT"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16 Effects of Racial and Ethnic Stereotyping",
+      "printed_page_number": "325",
+      "source_page_index": -1,
+      "authors": [
+        "DANA MASTRO"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "17 Content Patterns and Effects Surrounding Sex-Role Stereotyping on Television and Film",
+      "printed_page_number": "342",
+      "source_page_index": -1,
+      "authors": [
+        "STACY L. SMITH",
+        "AMY D. GRANADOS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "18 The Effects of Media on Marketing Communications",
+      "printed_page_number": "362",
+      "source_page_index": -1,
+      "authors": [
+        "DAVID W. STEWART",
+        "PAUL A. PAVLOU"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "19 Educational Television and Interactive Media for Children: Effects on Academic Knowledge, Skills, and Attitudes",
+      "printed_page_number": "402",
+      "source_page_index": -1,
+      "authors": [
+        "SHALOM M. FISCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "20 Public Communication Campaigns: Theoretical Principles and Practical Applications",
+      "printed_page_number": "436",
+      "source_page_index": -1,
+      "authors": [
+        "RONALD E. RICE",
+        "CHARLES K. ATKIN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "21 Effects of Media on Personal and Public Health",
+      "printed_page_number": "469",
+      "source_page_index": -1,
+      "authors": [
+        "KIM WALSH-CHILDER",
+        "JANE D. BROWN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "22 Effects of Media on Eating Disorders and Body Image",
+      "printed_page_number": "490",
+      "source_page_index": -1,
+      "authors": [
+        "MICHAEL P. LEVINE",
+        "KRISTEN HARRISON"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "23 Individual Differences in Media Effects",
+      "printed_page_number": "517",
+      "source_page_index": -1,
+      "authors": [
+        "MARY BETH OLIVER",
+        "K. MAJA KRAKOWIAK"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "24 Entertainment and Enjoyment as Media Effects",
+      "printed_page_number": "532",
+      "source_page_index": -1,
+      "authors": [
+        "PETER VORDERER",
+        "TILO HARTMANN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "25 Effects of Computer/Video Games and Beyond",
+      "printed_page_number": "551",
+      "source_page_index": -1,
+      "authors": [
+        "KWAN MIN LEE",
+        "WEI PENG",
+        "NAMKEE PARK"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "26 Effects of the Internet",
+      "printed_page_number": "567",
+      "source_page_index": -1,
+      "authors": [
+        "CAROLYN A. LIN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "27 Effects of Mobile Communication",
+      "printed_page_number": "592",
+      "source_page_index": -1,
+      "authors": [
+        "SCOTT W. CAMPBELL",
+        "RICH LING"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Author Index",
+      "printed_page_number": "607",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Subject Index",
+      "printed_page_number": "636",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2.1 Internal and External Validity of Framing Research\u2014Confounds of Frame and Content",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.1 Prevalence Estimates as a Function of Priming Condition and Level of TV Viewing",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.2 Prevalence Estimates as a Function of Processing Condition and Level of TV Viewing",
+      "printed_page_number": "63",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.3 Flow Diagram of the Heuristic Processing Model of Television Effects",
+      "printed_page_number": "64",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.1 Schematization of Triadic Reciprocal Causation in the Causal Model of Social Cognitive Theory",
+      "printed_page_number": "94",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.2 The Four Major Subfunctions Governing Observational Learning and the Influential Factors Operating within Each Subfunction",
+      "printed_page_number": "100",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.3 Mechanisms through Which Self-Sanctions are Selectively Activated and Disengaged from Determental Conduct at Critical Points in the Self-Regulatory Process",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.4 Dual Path of Communication Influences Operating on Behavior Both Directly and Mediationally through Connection to Influential Social Systems",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.1 The Communication/Persuasion Process as an Input/Output Matrix",
+      "printed_page_number": "128",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.2 Schematic Depiction of the Elaboration Likelihood Model of Persuasion",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.3 Self-Relevance Increases Message Processing",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.4 Direct and Indirect Effects of Positive Mood on Attitudes Under High and Low Involvement Conditions",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12.1 The Third-Person Effect: Processes and Consequences",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "19.1 Cognitive Theory of Multimedia Learning",
+      "printed_page_number": "424",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "19.2 Theoretical Construct Described by the Capacity Model, with Factors that Determine the Resource Demands for Comprehending Narrative and Educational Content",
+      "printed_page_number": "425",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "24.1 Formation of the Feeling to be Entertained by Media",
+      "printed_page_number": "544",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.1 Recent Studies using Heart Rate to Indicate Orienting Responses",
+      "printed_page_number": "190",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.2 Recent Studies using Heart Rate as a Measure of Tonic Cognitive Effort",
+      "printed_page_number": "192",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.3 Selected Studies using Skin Conductance as a Measure of Arousal",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "17.1 Demographic and Hypersexuality Variables by Gender within Media Character Prototypes in G-Rated Films Featuring Young Female Protagonists",
+      "printed_page_number": "344",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "20.1 Recent Campaign Resource Books",
+      "printed_page_number": "438",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "20.2 Examples of Online and Digital Media Campaigns",
+      "printed_page_number": "451",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "21.1 Examples of the Potential Effects of the Mass Media on Personal and Public Health",
+      "printed_page_number": "470",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "21.2 Frequency of Depiction and Consequences to Users of Alcohol, Tobacco, and Illicit Drugs in Movies, Entertainment TV, and Popular Songs",
+      "printed_page_number": "476",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "26.1 Individual Online Use Purposes and Activities",
+      "printed_page_number": "568",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

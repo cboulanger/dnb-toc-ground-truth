@@ -1,0 +1,130 @@
+{
+  "entries": [
+    {
+      "title": "Vorbemerkung",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Übersetzungsforschung zu Lateinamerika",
+      "authors": [
+        "Birgit Scharlau"
+      ],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "1.",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Missionare, Mayasprachen und Übersetzung",
+      "authors": [
+        "Jesús García-Ruiz"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "2.",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Übersetzungsräume in der kolonialen Situation und im Modernismo: Chateaubriands Atala und Heines Buch der Lieder",
+      "authors": [
+        "Andrea Pagni"
+      ],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "Übersetzung zwischen Bildung und Ästhetik bei Andrés Bello",
+      "authors": [
+        "Katja Carrillo Zeiter"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Vom Erzählen zum Zuhören: Die Rolle der Interlinearübersetzung im Kampf gegen die Romantik in Brasilien",
+      "authors": [
+        "Mark Münzel"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Übersetzung als imitación: José Joaquín Pesado und seine aztekische Poesie",
+      "authors": [
+        "Monika Wehrheim"
+      ],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "Originalität und Übersetzung",
+      "authors": [
+        "Beatriz Sarlo"
+      ],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "3.",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Synchronisation, Untertitel, voice over. Übersetzung im argentinischen Fernsehen",
+      "authors": [
+        "Sabine Hofmann"
+      ],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "Borges und die Übersetzung",
+      "authors": [
+        "Efraín Kristal"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "Götterboten im Land der Anthropophagen? Neueres Übersetzungsdenken in Brasilien",
+      "authors": [
+        "Petra Schumm"
+      ],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "Übersetzen in Kreolsprachen: Predigten, Preziosen, Prestige",
+      "authors": [
+        "Iris Bachmann"
+      ],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "Nachweise",
+      "authors": [],
+      "printed_page_number": "227",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,199 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "I. Theoretische Grundlagen und empirische Einblicke",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Kinder- und Jugendtheologie als »Kommunikation des Evangeliums und des Glaubens« – Im Lichte der Kritik von Bernhard Dressler",
+      "authors": [
+        "Gerhard Büttner"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "»The medium is the message!« oder Gibt es spezifische Methoden der Kinder- bzw. Jugendtheologie?",
+      "authors": [
+        "Mirjam Zimmermann"
+      ],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "Multimodale Methoden des Theologisierens mit Kindern",
+      "authors": [
+        "Frederic Vobbe"
+      ],
+      "printed_page_number": "36",
+      "skip": false
+    },
+    {
+      "title": "Grenzen der Kindertheologie",
+      "authors": [
+        "Gerhard Büttner"
+      ],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Warum habe ich so viele Fragen im Kopf? Mit Kindern über Sinnfragen philosophieren",
+      "authors": [
+        "Barbara Brüning"
+      ],
+      "printed_page_number": "56",
+      "skip": false
+    },
+    {
+      "title": "II. Pädagogische Anregungen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Theologisieren mit Kunstbildern",
+      "authors": [
+        "Christina Kalloch"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Theologisieren mit Kindern am Beispiel eines Kurzfilms",
+      "authors": [
+        "Martin Schreiner"
+      ],
+      "printed_page_number": "82",
+      "skip": false
+    },
+    {
+      "title": "Das kreative Schreiben und sein Beitrag zum Theologisieren der Kinder",
+      "authors": [
+        "Gabriele Haas"
+      ],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "»Im wirklichen Leben gibt es keine Lösungen wie im Buch« – Ein Erfahrungsbericht mit dem Literarischen Gespräch zu Raquel J. Palacios Jugendroman »Wunder«",
+      "authors": [
+        "Sabine Schreiner"
+      ],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "Theologisieren mit Kinderliteratur",
+      "authors": [
+        "Cornelia Oswald",
+        "Angela Steinke-Dörpholz"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "Theatrales Theologisieren mit Elementen der Jeux Dramatiques",
+      "authors": [
+        "Andreas Nicht"
+      ],
+      "printed_page_number": "124",
+      "skip": false
+    },
+    {
+      "title": "Erfahrungsorientiertes Bibel erzählen – ein Bericht",
+      "authors": [
+        "Dirk Schliephake"
+      ],
+      "printed_page_number": "134",
+      "skip": false
+    },
+    {
+      "title": "Singen wirkt! Zur Nach-hall-tigkeit religiöser Kinderlieder",
+      "authors": [
+        "Dirk Schliephake"
+      ],
+      "printed_page_number": "140",
+      "skip": false
+    },
+    {
+      "title": "Erfahrungsbericht über Figurenaufstellungen",
+      "authors": [
+        "Bernd Hillringhaus"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "Der Weg der religionspädagogischen Praxis – Gestaltungen mit Bodenbildern als Beitrag zur Kindertheologie",
+      "authors": [
+        "Franz Thalmann"
+      ],
+      "printed_page_number": "151",
+      "skip": false
+    },
+    {
+      "title": "Urbild und Abbild – Gottesvorstellungen orthodoxer Kinder",
+      "authors": [
+        "Annika Stramer"
+      ],
+      "printed_page_number": "156",
+      "skip": false
+    },
+    {
+      "title": "Mitgefühl durch biblische Geschichten entwickeln? Zugänge für Kinder im Elementarbereich",
+      "authors": [
+        "Caroline Teschmer"
+      ],
+      "printed_page_number": "166",
+      "skip": false
+    },
+    {
+      "title": "III. Buchbesprechungen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Martin Schreiner: Die Grundschul-Bibel",
+      "authors": [],
+      "printed_page_number": "173",
+      "skip": true
+    },
+    {
+      "title": "VI. Bildmeditation",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die Begegnung zwischen Philippus und dem Kämmerer aus dem Morgenland – eine Bildmeditation",
+      "authors": [
+        "Friedhelm Kraft"
+      ],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "Die Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "179",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

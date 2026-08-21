@@ -1,0 +1,213 @@
+{
+  "entries": [
+    {
+      "title": "List of Figures",
+      "authors": [],
+      "printed_page_number": "ix",
+      "skip": true
+    },
+    {
+      "title": "Notes on Contributors",
+      "authors": [],
+      "printed_page_number": "xi",
+      "skip": true
+    },
+    {
+      "title": "Acknowledgements",
+      "authors": [],
+      "printed_page_number": "xvii",
+      "skip": true
+    },
+    {
+      "title": "Foreword by Cynthia Enloe",
+      "authors": [],
+      "printed_page_number": "xix",
+      "skip": true
+    },
+    {
+      "title": "Introduction: Uncomfortable Connections: Gender, Memory, War",
+      "authors": [
+        "Ayşe Gül Altınay",
+        "Andrea Pető"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "PART I SEXUAL VIOLENCE: SILENCE, NARRATION, RESISTANCE",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Commentary",
+      "authors": [
+        "Andrea Pető"
+      ],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "1 The Historicity of Denial: Sexual Violence against Jewish Women during the War of Annihilation, 1941-1945",
+      "authors": [
+        "Regina Mühlhäuser"
+      ],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "2 Between Silence and Narration: European and Asian Women on War Brutalities in Japanese-Occupied Territories",
+      "authors": [
+        "Felicia Yap"
+      ],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "3 The Female and Political Body in Pain: Sexual Torture and Gendered Trauma during the Greek Military Dictatorship (1967-1974)",
+      "authors": [
+        "Katerina Stefatos"
+      ],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "4 Silencing Sexual Violence and Vulnerability: Women's Narratives of Incarceration during the 1980-1983 Military Junta in Turkey",
+      "authors": [
+        "Bürge Abiral"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "PART II GENDERING MEMORIES OF WAR, SOLDIERING AND RESISTANCE",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Commentary: Women's Memories of Soldiering: An Intersectionality Perspective",
+      "authors": [
+        "Orna Sasson-Levy"
+      ],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "5 Militarizing the Nation: Gender Politics of the Warsaw Uprising",
+      "authors": [
+        "Weronika Grzebalska"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "6 The Italian Civil War in the Memoirs of Female Fascist Soldiers",
+      "authors": [
+        "Gianluca Schiavo"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "7 \"We Left Our Skirts to Men as We Went to the Front\": The Participation of Abkhazian Women from Turkey in the Abkhazian War",
+      "authors": [
+        "Setenay Nil Doğan"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "8 Militarized US Women from the Wars in Iraq and Afghanistan: Citizenship, Homelessness, and the Construction of Public Memory in a Time of War",
+      "authors": [
+        "Stephanie E. Yuhl"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "PART III FICTIONALIZING AND VISUALIZING GENDERED MEMORIES",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Commentary: Unsettling Accounts: Fictionalizing and Visualizing Memories of War",
+      "authors": [
+        "Banu Karaca"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "9 Women's Memory of the Spanish Civil War: The Power of Words",
+      "authors": [
+        "Sophie Milquet"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "10 Forgotten Perpetrators: Photographs of Female Perpetrators after WWII",
+      "authors": [
+        "Andrea Pető"
+      ],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "11 Testimonies of War and Love: The Work of the Witnessing Imagination in Eve Ensler's Play Necessary Targets and Jasmila Žbanić's Film Grbavica",
+      "authors": [
+        "Kornelia Slavova"
+      ],
+      "printed_page_number": "219",
+      "skip": false
+    },
+    {
+      "title": "12 \"Conversations in Silence\": Ceramic Installations Shaping the Visual and Political Imagination of Gendered Tsunami and Conflict Reconstruction Landscapes in Aceh",
+      "authors": [
+        "Marjaana Jauhola"
+      ],
+      "printed_page_number": "229",
+      "skip": false
+    },
+    {
+      "title": "PART IV FEMINIST REIMAGININGS",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Commentary: Interrogating Memory and Evidence: An Intersectional Feminist Perspective",
+      "authors": [
+        "Arlene Avakian"
+      ],
+      "printed_page_number": "251",
+      "skip": false
+    },
+    {
+      "title": "13 Narrating Women's Bodies: Storying Silences and Secrets in the Aftermath of Genocide",
+      "authors": [
+        "Hourig Attarian"
+      ],
+      "printed_page_number": "257",
+      "skip": false
+    },
+    {
+      "title": "14 Women Living and Re-living Armed Conflict: Exploring a Methodology for Spanning Time and Place",
+      "authors": [
+        "Cynthia Cockburn"
+      ],
+      "printed_page_number": "269",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "285",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

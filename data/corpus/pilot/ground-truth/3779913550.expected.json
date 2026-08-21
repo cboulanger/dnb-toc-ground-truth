@@ -1,0 +1,155 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Teil I: Lesen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einleitung: Funktionen des Lesens – Normen der Gesellschaft",
+      "authors": [
+        "Norbert Groeben"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Unterhaltung als unmittelbare Funktion des Lesens",
+      "authors": [
+        "Christoph Klimmt",
+        "Peter Vorderer"
+      ],
+      "printed_page_number": "36",
+      "skip": false
+    },
+    {
+      "title": "Information als unmittelbare Funktion des Lesens",
+      "authors": [
+        "Ursula Christmann"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Folgefunktionen des Lesens – Von der Fantasie-Entwicklung zum Verständnis des sozialen Wandels",
+      "authors": [
+        "Gerhard Rupp",
+        "Petra Heyer",
+        "Helge Bonholt"
+      ],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "Teil II: Sozialisation",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "(Lese-)Sozialisation als Ko-Konstruktion – Methodisch-methodologische Problem-(Lösungs-)Perspektiven",
+      "authors": [
+        "Norbert Groeben"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "Informelle Sozialisationsinstanz Familie",
+      "authors": [
+        "Bettina Hurrelmann"
+      ],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "Formelle Sozialisationsinstanz Schule",
+      "authors": [
+        "Joachim Fritzsche"
+      ],
+      "printed_page_number": "202",
+      "skip": false
+    },
+    {
+      "title": "Informelle Sozialisationsinstanz peer group",
+      "authors": [
+        "Cornelia Rosebrock"
+      ],
+      "printed_page_number": "250",
+      "skip": false
+    },
+    {
+      "title": "Bildungsnormen als Sozialisationsinstanz",
+      "authors": [
+        "Bettina Hurrelmann"
+      ],
+      "printed_page_number": "280",
+      "skip": false
+    },
+    {
+      "title": "Versuch einer Synopse: Sozialisationsinstanzen – Ko-Konstruktion",
+      "authors": [
+        "Norbert Groeben",
+        "Sascha Schroeder"
+      ],
+      "printed_page_number": "306",
+      "skip": false
+    },
+    {
+      "title": "Teil III: Mediengesellschaft",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Entwicklung und Struktur der Mediengesellschaft",
+      "authors": [
+        "Günther Rager",
+        "Petra Werner"
+      ],
+      "printed_page_number": "351",
+      "skip": false
+    },
+    {
+      "title": "Entwicklung von Lesekompetenz – Hemmende Einflüsse des medialen Umfeldes",
+      "authors": [
+        "Marco Ennemoser",
+        "Wolfgang Schneider"
+      ],
+      "printed_page_number": "375",
+      "skip": false
+    },
+    {
+      "title": "Entwicklung von Lesekompetenz – Fördernde Einflüsse des medialen Umfeldes",
+      "authors": [
+        "Margrit Schreier"
+      ],
+      "printed_page_number": "402",
+      "skip": false
+    },
+    {
+      "title": "Fazit: Lesen als Schlüsselqualifikation?",
+      "authors": [
+        "Norbert Groeben",
+        "Bettina Hurrelmann"
+      ],
+      "printed_page_number": "440",
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "authors": [],
+      "printed_page_number": "467",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

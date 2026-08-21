@@ -1,0 +1,201 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "VII",
+      "skip": true
+    },
+    {
+      "title": "Verzeichnis der Veröffentlichungen Wolf Dietrichs",
+      "authors": [],
+      "printed_page_number": "IX",
+      "skip": true
+    },
+    {
+      "title": "Zur Geschichte des amerikanischen Spanisch",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Ein Korpus zur Geschichte des Spanischen in Amerika",
+      "authors": [
+        "Jens Lüdtke"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Zur historischen Rekonstruktion des voseo",
+      "authors": [
+        "Eric Sonntag"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Estudios de lenguaje en un epistolario privado: catalanes en Cuba",
+      "authors": [
+        "Ulrich Hoinkes"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "Bemerkungen zum \"Antiandalucismo\": Henríquez Ureña, Guitarte und die Gegenwart",
+      "authors": [
+        "Volker Noll"
+      ],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "Historisches zu amerindischen Sprachkontakten",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die spanischen Missionare und das Studium der amerindischen Sprachen (16. Jahrhundert)",
+      "authors": [
+        "Hans-Josef Niederehe"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "Differenzerfahrung und Wissenstransformation – Projektions- und Retrospektionshorizonte frühneuzeitlicher Kolonialgrammatik",
+      "authors": [
+        "Wulf Oesterreicher"
+      ],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "Reiseberichte und ihre Bedeutung für den romanischen Wortschatz. Untersuchungen zur ältesten Bilingue Tupi-Guarani / Französisch von Jehan Lamy (ca. 1540)",
+      "authors": [
+        "Christian Schmitt"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "Tratamiento del léxico quechua en textos jurídicos peruanos del siglo XVII",
+      "authors": [
+        "Julio Calvo Pérez"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Indianische Wörter im Papiamentu",
+      "authors": [
+        "Johannes Kramer"
+      ],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "Spanisch und amerindische Sprachen heute",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "El avance del español americano dentro de sus fronteras: ideología y sociolingüística",
+      "authors": [
+        "Ángel López García"
+      ],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "La influencia léxica de las lenguas amerindias en el español del Oriente Boliviano y Peruano",
+      "authors": [
+        "Mily Crevels",
+        "Pieter Muysken"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Vom \"guaraní tribal\" zum \"guaraní paraguayo\". Die abgestufte Romanisierung des rioplatensischen Guaraní",
+      "authors": [
+        "Harald Thun"
+      ],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "El contacto lingüístico en el Paraguay: el \"yopará\" o guaraní paraguayo coloquial",
+      "authors": [
+        "Ruth Mariela Mello-Wolter"
+      ],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "El uso de las preposiciones con los verbos de movimiento en el castellano de la zona guaranítica",
+      "authors": [
+        "Haralambos Symeonidis"
+      ],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "Zum Spanischen in Argentinien",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Was die Porteños mit ihrer Grundfrequenz ausdrücken wollen",
+      "authors": [
+        "Johannes Kabatek"
+      ],
+      "printed_page_number": "261",
+      "skip": false
+    },
+    {
+      "title": "Microtoponimia de la ciudad de Buenos Aires",
+      "authors": [
+        "Olga Mori"
+      ],
+      "printed_page_number": "277",
+      "skip": false
+    },
+    {
+      "title": "Hybridität, Exempel: Lunfardo",
+      "authors": [
+        "Rolf Kailuweit"
+      ],
+      "printed_page_number": "291",
+      "skip": false
+    },
+    {
+      "title": "Zur Morphosyntax des amerikanischen Spanisch",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Zum Gebrauch des Konjunktivs im gesprochenen Spanisch Chiles",
+      "authors": [
+        "Martin Hummel"
+      ],
+      "printed_page_number": "313",
+      "skip": false
+    },
+    {
+      "title": "Propiedades y frecuencia de los tipos se venden casas y se vende casas en el español peninsular y americano",
+      "authors": [
+        "Nelson Cartagena"
+      ],
+      "printed_page_number": "341",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

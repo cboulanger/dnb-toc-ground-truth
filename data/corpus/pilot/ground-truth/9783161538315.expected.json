@@ -1,0 +1,204 @@
+{
+  "entries": [
+    {
+      "title": "Vor den F\u00e4llen: Methoden soziologischer Jurisprudenz",
+      "authors": [
+        "Bertram Lomfeld"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "VII",
+      "skip": true
+    },
+    {
+      "title": "Fall 1: Digitales Panoptikum",
+      "authors": [
+        "Andreas Fischer-Lescano"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Fall 2: Kampf ums Geld",
+      "authors": [
+        "Christian Joerges"
+      ],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "Fall 3: \u00d6ffentliche Privatheit",
+      "authors": [
+        "Karl-Heinz Ladeur"
+      ],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Fall 4: Privatisierte \u00d6ffentlichkeit",
+      "authors": [
+        "Lars Vielechner"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Fall 5: Computer-Grundrecht",
+      "authors": [
+        "Christoph Beat Graber"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Fall 6: Digitale Entgrenzung",
+      "authors": [
+        "Thomas Vesting"
+      ],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "Fall 7: Ausgrenzende Wiedereingliederung",
+      "authors": [
+        "Jochen Bung"
+      ],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "Fall 8: Vertragliche Verbundpflichten",
+      "authors": [
+        "Gunther Teubner"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "Fall 9: Digitaler Lebensraum",
+      "authors": [
+        "Malte-Christian Gruber"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "Fall 10: Haftung des Mediums",
+      "authors": [
+        "Dan Wielsch"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "Fall 11: Vertragsbeobachtende Vertr\u00e4ge",
+      "authors": [
+        "Pasquale Femia"
+      ],
+      "printed_page_number": "151",
+      "skip": false
+    },
+    {
+      "title": "Fall 12: Anlagerisiken",
+      "authors": [
+        "Moritz Renner"
+      ],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "Fall 13: Recht auf Restrukturierung",
+      "authors": [
+        "Bertram Lomfeld"
+      ],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "Fall 14: Hire me! Arbeiten in der Crowd",
+      "authors": [
+        "Isabell Hensel"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "Fall 15: Globale Verhaltenskodizes: Rechtsvergleichende soziologische Jurisprudenz",
+      "authors": [
+        "Anna Beckers"
+      ],
+      "printed_page_number": "197",
+      "skip": false
+    },
+    {
+      "title": "Fall 16: Flexible Gesch\u00e4ftsverteilung",
+      "authors": [
+        "Gralf-Peter Calliess"
+      ],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "Nach den F\u00e4llen: Paradoxien soziologischer Jurisprudenz",
+      "authors": [
+        "Gunther Teubner"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "V\u00f6lkerrecht und Europarecht",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "\u00d6ffentliches Recht",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Strafrecht",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Zivilrecht",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Rechtsvergleichung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Verfahrensrecht",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

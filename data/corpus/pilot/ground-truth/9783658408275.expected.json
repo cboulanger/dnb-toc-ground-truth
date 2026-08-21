@@ -1,0 +1,1388 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1 Einleitung und Zielsetzung",
+      "authors": [
+        "Hans Hartmann",
+        "Hermann Hofbauer",
+        "Martin Kaltschmitt",
+        "Jana Schultz",
+        "Theresa Siegmund",
+        "Karl Stampfer",
+        "Daniela Thrän"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "1.1 Biomasse als nachwachsender Energieträger",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "1.1.1 Definition „Biomasse“",
+      "authors": [],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "1.1.2 Aufbau typischer Bereitstellungsketten",
+      "authors": [],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "1.1.3 Wandlungsmöglichkeiten in End- bzw. Nutzenergie",
+      "authors": [],
+      "printed_page_number": "5",
+      "skip": false
+    },
+    {
+      "title": "1.2 Biomasse im Energiesystem",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "1.2.1 Energie- und Potenzialbegriffe",
+      "authors": [],
+      "printed_page_number": "10",
+      "skip": false
+    },
+    {
+      "title": "1.2.2 Bioenergie im globalen Energiesystem",
+      "authors": [],
+      "printed_page_number": "16",
+      "skip": false
+    },
+    {
+      "title": "1.2.2.1 Stand 2022",
+      "authors": [],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "1.2.2.2 Perspektive 2030",
+      "authors": [],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "1.2.3 Bioenergie im europäischen Energiesystem",
+      "authors": [],
+      "printed_page_number": "52",
+      "skip": false
+    },
+    {
+      "title": "1.2.3.1 Stand 2022",
+      "authors": [],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "1.2.3.2 Perspektive 2030",
+      "authors": [],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "1.3 Aufbau und Abgrenzungen",
+      "authors": [],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "1.3.1 „Grundlagen der Biomasseproduktion“",
+      "authors": [],
+      "printed_page_number": "78",
+      "skip": false
+    },
+    {
+      "title": "1.3.2 „Biomasse aus der Primärproduktion“",
+      "authors": [],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "1.3.3 „Organische Rückstände, Nebenprodukte und Abfälle“",
+      "authors": [],
+      "printed_page_number": "80",
+      "skip": false
+    },
+    {
+      "title": "1.3.4 „Biomassebereitstellungskonzepte“",
+      "authors": [],
+      "printed_page_number": "80",
+      "skip": false
+    },
+    {
+      "title": "1.3.5 „Biomassebereitstellungsprozesse, -verfahren und -konzepte“",
+      "authors": [],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "1.3.6 „Aquatische Biomasse“",
+      "authors": [],
+      "printed_page_number": "82",
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "authors": [],
+      "printed_page_number": "82",
+      "skip": true
+    },
+    {
+      "title": "2 Biomasseentstehung",
+      "authors": [
+        "Iris Lewandowski",
+        "Christian Wilhelm",
+        "Christian Zörb"
+      ],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "2.1 Primärproduzenten",
+      "authors": [],
+      "printed_page_number": "92",
+      "skip": false
+    },
+    {
+      "title": "2.1.1 Aquatische Primärproduzenten",
+      "authors": [],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "2.1.2 Terrestrische Primärproduzenten",
+      "authors": [],
+      "printed_page_number": "94",
+      "skip": false
+    },
+    {
+      "title": "2.2 Höhere Pflanzen",
+      "authors": [],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "2.2.1 Funktionselemente",
+      "authors": [],
+      "printed_page_number": "96",
+      "skip": false
+    },
+    {
+      "title": "2.2.2 Pflanzenaufbau",
+      "authors": [],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "2.2.3 Meristeme und Seneszenz",
+      "authors": [],
+      "printed_page_number": "102",
+      "skip": false
+    },
+    {
+      "title": "2.3 Biomasseaufbau und -zusammensetzung",
+      "authors": [],
+      "printed_page_number": "104",
+      "skip": false
+    },
+    {
+      "title": "2.3.1 Elementare Zusammensetzung",
+      "authors": [],
+      "printed_page_number": "104",
+      "skip": false
+    },
+    {
+      "title": "2.3.2 Biochemische Zusammensetzung",
+      "authors": [],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "2.4 Primärproduktion",
+      "authors": [],
+      "printed_page_number": "112",
+      "skip": false
+    },
+    {
+      "title": "2.4.1 Photosynthese",
+      "authors": [],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "2.4.2 Atmung (Dissimilation)",
+      "authors": [],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "2.4.3 Vom Zucker zur Biomasse",
+      "authors": [],
+      "printed_page_number": "122",
+      "skip": false
+    },
+    {
+      "title": "2.4.4 Wirkungsgrad",
+      "authors": [],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "2.4.5 Natürliche Standortfaktoren",
+      "authors": [],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "authors": [],
+      "printed_page_number": "140",
+      "skip": true
+    },
+    {
+      "title": "3 Forstwirtschaftlich produzierte Biomasse",
+      "authors": [
+        "Michael Köhl",
+        "Thomas Knoke"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "3.1 Forstwirtschaftliche Grundlagen",
+      "authors": [],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "3.1.1 Grundlagen und Grundbegriffe",
+      "authors": [],
+      "printed_page_number": "144",
+      "skip": false
+    },
+    {
+      "title": "3.1.2 Holzbildung und anatomischer Holzaufbau",
+      "authors": [],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "3.1.3 Holzeigenschaften",
+      "authors": [],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "3.1.4 Wirtschaftlich bedeutende Holzsortimente",
+      "authors": [],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "3.2 Waldbewirtschaftung und Holzproduktion",
+      "authors": [],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "3.2.1 Waldstruktur und -aufbau",
+      "authors": [],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "3.2.2 Waldbau",
+      "authors": [],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "3.2.3 Waldwachstum",
+      "authors": [],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "3.2.4 Anpassung der Wälder an den Klimawandel",
+      "authors": [],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "3.2.5 Zielkonflikte bei der Waldbewirtschaftung",
+      "authors": [],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "3.3 Baumarten",
+      "authors": [],
+      "printed_page_number": "178",
+      "skip": false
+    },
+    {
+      "title": "3.3.1 Standortansprüche",
+      "authors": [],
+      "printed_page_number": "178",
+      "skip": false
+    },
+    {
+      "title": "3.3.2 Produktivität",
+      "authors": [],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "3.3.3 Darstellung ausgewählter Baumarten",
+      "authors": [],
+      "printed_page_number": "180",
+      "skip": false
+    },
+    {
+      "title": "3.3.4 Vorräte, Zuwachs und Nutzung",
+      "authors": [],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "authors": [],
+      "printed_page_number": "190",
+      "skip": true
+    },
+    {
+      "title": "4 Landwirtschaftlich produzierte Biomasse",
+      "authors": [
+        "Iris Lewandowski"
+      ],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "4.1 Acker- und pflanzenbauliche Grundlagen",
+      "authors": [],
+      "printed_page_number": "196",
+      "skip": false
+    },
+    {
+      "title": "4.1.1 Anbausysteme und Fruchtfolgegestaltung",
+      "authors": [],
+      "printed_page_number": "196",
+      "skip": false
+    },
+    {
+      "title": "4.1.2 Einflussfaktoren im Produktionssystem",
+      "authors": [],
+      "printed_page_number": "202",
+      "skip": false
+    },
+    {
+      "title": "4.1.3 Zeitliche und räumliche Angebotsunterschiede",
+      "authors": [],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "4.2 Landwirtschaftlich produzierte Lignocellulose-Pflanzen",
+      "authors": [],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "4.2.1 Schnellwachsende Baumarten",
+      "authors": [],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "4.2.2 Miscanthus",
+      "authors": [],
+      "printed_page_number": "218",
+      "skip": false
+    },
+    {
+      "title": "4.2.3 Rutenhirse",
+      "authors": [],
+      "printed_page_number": "225",
+      "skip": false
+    },
+    {
+      "title": "4.2.4 Rohrglanzgras",
+      "authors": [],
+      "printed_page_number": "228",
+      "skip": false
+    },
+    {
+      "title": "4.2.5 Szarvasigras",
+      "authors": [],
+      "printed_page_number": "229",
+      "skip": false
+    },
+    {
+      "title": "4.2.6 Futtergräser",
+      "authors": [],
+      "printed_page_number": "232",
+      "skip": false
+    },
+    {
+      "title": "4.2.7 Durchwachsene Silphie",
+      "authors": [],
+      "printed_page_number": "236",
+      "skip": false
+    },
+    {
+      "title": "4.2.8 Wildpflanzenmischungen",
+      "authors": [],
+      "printed_page_number": "238",
+      "skip": false
+    },
+    {
+      "title": "4.2.9 Getreideganzpflanzen",
+      "authors": [],
+      "printed_page_number": "241",
+      "skip": false
+    },
+    {
+      "title": "4.3 Ölhaltige Pflanzen",
+      "authors": [],
+      "printed_page_number": "248",
+      "skip": false
+    },
+    {
+      "title": "4.3.1 Raps",
+      "authors": [],
+      "printed_page_number": "249",
+      "skip": false
+    },
+    {
+      "title": "4.3.2 Sonnenblume",
+      "authors": [],
+      "printed_page_number": "253",
+      "skip": false
+    },
+    {
+      "title": "4.3.3 Leindotter",
+      "authors": [],
+      "printed_page_number": "256",
+      "skip": false
+    },
+    {
+      "title": "4.4 Zuckerhaltige Pflanzen",
+      "authors": [],
+      "printed_page_number": "258",
+      "skip": false
+    },
+    {
+      "title": "4.4.1 Zuckerrübe",
+      "authors": [],
+      "printed_page_number": "258",
+      "skip": false
+    },
+    {
+      "title": "4.4.2 Zuckerhirse",
+      "authors": [],
+      "printed_page_number": "262",
+      "skip": false
+    },
+    {
+      "title": "4.5 Stärkehaltige Pflanzen",
+      "authors": [],
+      "printed_page_number": "265",
+      "skip": false
+    },
+    {
+      "title": "4.5.1 Kartoffel",
+      "authors": [],
+      "printed_page_number": "265",
+      "skip": false
+    },
+    {
+      "title": "4.5.2 Topinambur",
+      "authors": [],
+      "printed_page_number": "269",
+      "skip": false
+    },
+    {
+      "title": "4.5.3 Getreide",
+      "authors": [],
+      "printed_page_number": "272",
+      "skip": false
+    },
+    {
+      "title": "4.5.4 Mais",
+      "authors": [],
+      "printed_page_number": "275",
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "authors": [],
+      "printed_page_number": "280",
+      "skip": true
+    },
+    {
+      "title": "5 Nebenprodukte, Rückstände und Abfälle",
+      "authors": [
+        "Daniela Thrän",
+        "Martin Kaltschmitt",
+        "Theresa Siegmund",
+        "Tom Karras"
+      ],
+      "printed_page_number": "285",
+      "skip": false
+    },
+    {
+      "title": "5.1 Holzartige Biomasse",
+      "authors": [],
+      "printed_page_number": "288",
+      "skip": false
+    },
+    {
+      "title": "5.1.1 Landschaftspflegeholz",
+      "authors": [],
+      "printed_page_number": "289",
+      "skip": false
+    },
+    {
+      "title": "5.1.2 Industrierestholz",
+      "authors": [],
+      "printed_page_number": "295",
+      "skip": false
+    },
+    {
+      "title": "5.1.3 Altholz",
+      "authors": [],
+      "printed_page_number": "297",
+      "skip": false
+    },
+    {
+      "title": "5.2 Halmgut- und krautartige Biomasse",
+      "authors": [],
+      "printed_page_number": "303",
+      "skip": false
+    },
+    {
+      "title": "5.2.1 Stroh",
+      "authors": [],
+      "printed_page_number": "304",
+      "skip": false
+    },
+    {
+      "title": "5.2.2 Weitere Erntereste aus der Landwirtschaft",
+      "authors": [],
+      "printed_page_number": "311",
+      "skip": false
+    },
+    {
+      "title": "5.2.3 Halmgüter aus der Landschaftspflege",
+      "authors": [],
+      "printed_page_number": "312",
+      "skip": false
+    },
+    {
+      "title": "5.3 Sonstige Biomassen",
+      "authors": [],
+      "printed_page_number": "316",
+      "skip": false
+    },
+    {
+      "title": "5.3.1 Exkremente aus der Nutztierhaltung",
+      "authors": [],
+      "printed_page_number": "316",
+      "skip": false
+    },
+    {
+      "title": "5.3.2 Siedlungsabfälle",
+      "authors": [],
+      "printed_page_number": "318",
+      "skip": false
+    },
+    {
+      "title": "5.3.3 Produktionsspezifische Rückstände, Nebenprodukte und Abfälle",
+      "authors": [],
+      "printed_page_number": "323",
+      "skip": false
+    },
+    {
+      "title": "5.3.4 Organisch belastete Abwässer",
+      "authors": [],
+      "printed_page_number": "329",
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "authors": [],
+      "printed_page_number": "333",
+      "skip": true
+    },
+    {
+      "title": "6 Bereitstellungskonzepte",
+      "authors": [
+        "Hans Hartmann",
+        "Thomas Hoffmann",
+        "Martin Kaltschmitt",
+        "David Moosmann",
+        "Karl Stampfer",
+        "Daniela Thrän"
+      ],
+      "printed_page_number": "343",
+      "skip": false
+    },
+    {
+      "title": "6.1 Einflussgrößen und Anforderungen",
+      "authors": [],
+      "printed_page_number": "345",
+      "skip": false
+    },
+    {
+      "title": "6.2 Bereitstellungsketten für Holzbrennstoffe",
+      "authors": [],
+      "printed_page_number": "360",
+      "skip": false
+    },
+    {
+      "title": "6.2.1 Brennholz (Stückholz)",
+      "authors": [],
+      "printed_page_number": "363",
+      "skip": false
+    },
+    {
+      "title": "6.2.1.1 Stückholz aus dem Wald",
+      "authors": [],
+      "printed_page_number": "363",
+      "skip": false
+    },
+    {
+      "title": "6.2.1.2 Stückholz aus Sägerestholz",
+      "authors": [],
+      "printed_page_number": "366",
+      "skip": false
+    },
+    {
+      "title": "6.2.1.3 Stückholz aus Altholz",
+      "authors": [],
+      "printed_page_number": "366",
+      "skip": false
+    },
+    {
+      "title": "6.2.2 Holzhackschnitzel (Holzhackgut)",
+      "authors": [],
+      "printed_page_number": "366",
+      "skip": false
+    },
+    {
+      "title": "6.2.2.1 Waldhackgut",
+      "authors": [],
+      "printed_page_number": "367",
+      "skip": false
+    },
+    {
+      "title": "6.2.2.2 Hackgut aus Kurzumtriebsplantagen",
+      "authors": [],
+      "printed_page_number": "374",
+      "skip": false
+    },
+    {
+      "title": "6.2.2.3 Hackgut aus Industrierestholz",
+      "authors": [],
+      "printed_page_number": "380",
+      "skip": false
+    },
+    {
+      "title": "6.2.2.4 Hackgut von Pflegeflächen",
+      "authors": [],
+      "printed_page_number": "380",
+      "skip": false
+    },
+    {
+      "title": "6.2.3 Schredderholz",
+      "authors": [],
+      "printed_page_number": "381",
+      "skip": false
+    },
+    {
+      "title": "6.2.4 Holzpellets und -briketts",
+      "authors": [],
+      "printed_page_number": "383",
+      "skip": false
+    },
+    {
+      "title": "6.2.5 Rinde",
+      "authors": [],
+      "printed_page_number": "384",
+      "skip": false
+    },
+    {
+      "title": "6.3 Bereitstellungsketten für Halmgutbrennstoffe",
+      "authors": [],
+      "printed_page_number": "384",
+      "skip": false
+    },
+    {
+      "title": "6.3.1 Ballen",
+      "authors": [],
+      "printed_page_number": "387",
+      "skip": false
+    },
+    {
+      "title": "6.3.2 Häckselgut",
+      "authors": [],
+      "printed_page_number": "391",
+      "skip": false
+    },
+    {
+      "title": "6.3.3 Sonstige Halmgutketten",
+      "authors": [],
+      "printed_page_number": "393",
+      "skip": false
+    },
+    {
+      "title": "6.4 Bereitstellungsketten für Biogassubstrate",
+      "authors": [],
+      "printed_page_number": "395",
+      "skip": false
+    },
+    {
+      "title": "6.5 Bereitstellungsketten für Ölsaaten",
+      "authors": [],
+      "printed_page_number": "398",
+      "skip": false
+    },
+    {
+      "title": "6.6 Bereitstellungsketten für zucker- und stärkehaltige Stoffe",
+      "authors": [],
+      "printed_page_number": "399",
+      "skip": false
+    },
+    {
+      "title": "6.7 Nachhaltigkeitszertifizierung",
+      "authors": [],
+      "printed_page_number": "401",
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "authors": [],
+      "printed_page_number": "408",
+      "skip": true
+    },
+    {
+      "title": "7 Ernteprozesse",
+      "authors": [
+        "Hans Hartmann",
+        "Thomas Hoffmann",
+        "Martin Kaltschmitt",
+        "Karl Stampfer"
+      ],
+      "printed_page_number": "413",
+      "skip": false
+    },
+    {
+      "title": "7.1 Holzartige Biomasse",
+      "authors": [],
+      "printed_page_number": "414",
+      "skip": false
+    },
+    {
+      "title": "7.1.1 Holz aus dem Wald",
+      "authors": [],
+      "printed_page_number": "414",
+      "skip": false
+    },
+    {
+      "title": "7.1.1.1 Manuelles Fällen und Aufarbeiten",
+      "authors": [],
+      "printed_page_number": "416",
+      "skip": false
+    },
+    {
+      "title": "7.1.1.2 Maschinelles Fällen und Aufarbeiten",
+      "authors": [],
+      "printed_page_number": "427",
+      "skip": false
+    },
+    {
+      "title": "7.1.1.3 Maschinelles Rücken",
+      "authors": [],
+      "printed_page_number": "433",
+      "skip": false
+    },
+    {
+      "title": "7.1.1.4 Kombi- und Spezialmaschinen",
+      "authors": [],
+      "printed_page_number": "439",
+      "skip": false
+    },
+    {
+      "title": "7.1.1.5 Beispielhafte Holzerntesysteme",
+      "authors": [],
+      "printed_page_number": "441",
+      "skip": false
+    },
+    {
+      "title": "7.1.2 Holz aus Kurzumtriebsplantagen",
+      "authors": [],
+      "printed_page_number": "446",
+      "skip": false
+    },
+    {
+      "title": "7.1.3 Holz aus der Landschaftspflege",
+      "authors": [],
+      "printed_page_number": "454",
+      "skip": false
+    },
+    {
+      "title": "7.2 Halmgutartige Biomasse",
+      "authors": [],
+      "printed_page_number": "455",
+      "skip": false
+    },
+    {
+      "title": "7.2.1 Erntemaschinen",
+      "authors": [],
+      "printed_page_number": "456",
+      "skip": false
+    },
+    {
+      "title": "7.2.1.1 Mähgut",
+      "authors": [],
+      "printed_page_number": "456",
+      "skip": false
+    },
+    {
+      "title": "7.2.1.2 Häckselgut",
+      "authors": [],
+      "printed_page_number": "459",
+      "skip": false
+    },
+    {
+      "title": "7.2.1.3 Ballen",
+      "authors": [],
+      "printed_page_number": "461",
+      "skip": false
+    },
+    {
+      "title": "7.2.1.4 Pellets",
+      "authors": [],
+      "printed_page_number": "464",
+      "skip": false
+    },
+    {
+      "title": "7.2.2 Berge- bzw. Transportmaschinen",
+      "authors": [],
+      "printed_page_number": "466",
+      "skip": false
+    },
+    {
+      "title": "7.3 Zucker- und stärkehaltige Pflanzen",
+      "authors": [],
+      "printed_page_number": "472",
+      "skip": false
+    },
+    {
+      "title": "7.3.1 Getreidekörner",
+      "authors": [],
+      "printed_page_number": "472",
+      "skip": false
+    },
+    {
+      "title": "7.3.2 Körnermais",
+      "authors": [],
+      "printed_page_number": "474",
+      "skip": false
+    },
+    {
+      "title": "7.3.3 Zuckerrüben",
+      "authors": [],
+      "printed_page_number": "475",
+      "skip": false
+    },
+    {
+      "title": "7.3.4 Zuckerhirse",
+      "authors": [],
+      "printed_page_number": "476",
+      "skip": false
+    },
+    {
+      "title": "7.3.5 Kartoffeln und Topinambur",
+      "authors": [],
+      "printed_page_number": "476",
+      "skip": false
+    },
+    {
+      "title": "7.4 Ölhaltige Pflanzen",
+      "authors": [],
+      "printed_page_number": "477",
+      "skip": false
+    },
+    {
+      "title": "7.4.1 Raps",
+      "authors": [],
+      "printed_page_number": "477",
+      "skip": false
+    },
+    {
+      "title": "7.4.2 Sonnenblumen",
+      "authors": [],
+      "printed_page_number": "478",
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "authors": [],
+      "printed_page_number": "478",
+      "skip": true
+    },
+    {
+      "title": "8 Mechanische Aufbereitungsprozesse",
+      "authors": [
+        "Roman Adam",
+        "Martin Englisch",
+        "Hans Hartmann",
+        "Hermann Hofbauer",
+        "Martin Kaltschmitt",
+        "Volker Lenz",
+        "Karl Stampfer"
+      ],
+      "printed_page_number": "481",
+      "skip": false
+    },
+    {
+      "title": "8.1 Zerkleinerung",
+      "authors": [],
+      "printed_page_number": "482",
+      "skip": false
+    },
+    {
+      "title": "8.1.1 Einteilung und Prinzipien",
+      "authors": [],
+      "printed_page_number": "482",
+      "skip": false
+    },
+    {
+      "title": "8.1.2 Brennholzaufbereitung",
+      "authors": [],
+      "printed_page_number": "486",
+      "skip": false
+    },
+    {
+      "title": "8.1.2.1 Schneiden",
+      "authors": [],
+      "printed_page_number": "486",
+      "skip": false
+    },
+    {
+      "title": "8.1.2.2 Sägen",
+      "authors": [],
+      "printed_page_number": "487",
+      "skip": false
+    },
+    {
+      "title": "8.1.2.3 Spalten",
+      "authors": [],
+      "printed_page_number": "491",
+      "skip": false
+    },
+    {
+      "title": "8.1.2.4 Stapel- und Umschlagshilfen",
+      "authors": [],
+      "printed_page_number": "503",
+      "skip": false
+    },
+    {
+      "title": "8.1.3 Holzhackgut- und Holzschredderguterzeugung",
+      "authors": [],
+      "printed_page_number": "505",
+      "skip": false
+    },
+    {
+      "title": "8.1.3.1 Hacker",
+      "authors": [],
+      "printed_page_number": "505",
+      "skip": false
+    },
+    {
+      "title": "8.1.3.2 Schredder",
+      "authors": [],
+      "printed_page_number": "517",
+      "skip": false
+    },
+    {
+      "title": "8.1.3.3 Zerspaner",
+      "authors": [],
+      "printed_page_number": "519",
+      "skip": false
+    },
+    {
+      "title": "8.1.4 Mahlzerkleinerung",
+      "authors": [],
+      "printed_page_number": "519",
+      "skip": false
+    },
+    {
+      "title": "8.1.5 Ballenauflösung",
+      "authors": [],
+      "printed_page_number": "523",
+      "skip": false
+    },
+    {
+      "title": "8.2 Trennung von Feststoffgemischen",
+      "authors": [],
+      "printed_page_number": "524",
+      "skip": false
+    },
+    {
+      "title": "8.2.1 Siebklassierung",
+      "authors": [],
+      "printed_page_number": "529",
+      "skip": false
+    },
+    {
+      "title": "8.2.2 Windsichtung",
+      "authors": [],
+      "printed_page_number": "535",
+      "skip": false
+    },
+    {
+      "title": "8.2.3 Weitere Sortierungen",
+      "authors": [],
+      "printed_page_number": "540",
+      "skip": false
+    },
+    {
+      "title": "8.3 Waschung",
+      "authors": [],
+      "printed_page_number": "543",
+      "skip": false
+    },
+    {
+      "title": "8.4 Kompaktierung",
+      "authors": [],
+      "printed_page_number": "545",
+      "skip": false
+    },
+    {
+      "title": "8.4.1 Grundlagen",
+      "authors": [],
+      "printed_page_number": "546",
+      "skip": false
+    },
+    {
+      "title": "8.4.1.1 Bindungsmechanismen",
+      "authors": [],
+      "printed_page_number": "546",
+      "skip": false
+    },
+    {
+      "title": "8.4.1.2 Einflussmöglichkeiten",
+      "authors": [],
+      "printed_page_number": "551",
+      "skip": false
+    },
+    {
+      "title": "8.4.2 Pelletier- und Brikettiertechniken",
+      "authors": [],
+      "printed_page_number": "568",
+      "skip": false
+    },
+    {
+      "title": "8.4.3 Verfahrenstechnische Einbindung",
+      "authors": [],
+      "printed_page_number": "579",
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "authors": [],
+      "printed_page_number": "590",
+      "skip": true
+    },
+    {
+      "title": "9 Transportprozesse",
+      "authors": [
+        "Karl Stampfer",
+        "Ferdinand Hönigsberger",
+        "Martin Kaltschmitt"
+      ],
+      "printed_page_number": "603",
+      "skip": false
+    },
+    {
+      "title": "9.1 Straßentransporte",
+      "authors": [],
+      "printed_page_number": "605",
+      "skip": false
+    },
+    {
+      "title": "9.2 Schienentransporte",
+      "authors": [],
+      "printed_page_number": "610",
+      "skip": false
+    },
+    {
+      "title": "9.3 Wassertransporte",
+      "authors": [],
+      "printed_page_number": "612",
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "authors": [],
+      "printed_page_number": "617",
+      "skip": true
+    },
+    {
+      "title": "10 Trocknungsprozesse für biogene Festbrennstoffe",
+      "authors": [
+        "Hans Hartmann",
+        "Jörg B. Ressel",
+        "Klaus Richter",
+        "Alfred Teischinger"
+      ],
+      "printed_page_number": "619",
+      "skip": false
+    },
+    {
+      "title": "10.1 Grundlagen Biomasse-Wassergehalt",
+      "authors": [],
+      "printed_page_number": "620",
+      "skip": false
+    },
+    {
+      "title": "10.2 Grundlagen Trocknungsvorgang",
+      "authors": [],
+      "printed_page_number": "627",
+      "skip": false
+    },
+    {
+      "title": "10.3 Natürliche Trocknung",
+      "authors": [],
+      "printed_page_number": "636",
+      "skip": false
+    },
+    {
+      "title": "10.4 Technische Trocknung",
+      "authors": [],
+      "printed_page_number": "639",
+      "skip": false
+    },
+    {
+      "title": "10.5 Trocknungseinrichtungen",
+      "authors": [],
+      "printed_page_number": "644",
+      "skip": false
+    },
+    {
+      "title": "10.5.1 Ventilatoren und Gebläse",
+      "authors": [],
+      "printed_page_number": "645",
+      "skip": false
+    },
+    {
+      "title": "10.5.2 Trocknersysteme ohne Gutförderung",
+      "authors": [],
+      "printed_page_number": "647",
+      "skip": false
+    },
+    {
+      "title": "10.5.3 Trocknersysteme mit Gutförderung",
+      "authors": [],
+      "printed_page_number": "650",
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "authors": [],
+      "printed_page_number": "658",
+      "skip": true
+    },
+    {
+      "title": "11 Lagerungsprozesse",
+      "authors": [
+        "Christiane Dieckmann",
+        "Hans Hartmann",
+        "Thomas Hoffmann",
+        "Martin Kaltschmitt",
+        "Thomas Kirisits",
+        "Daniel Kuptz"
+      ],
+      "printed_page_number": "661",
+      "skip": false
+    },
+    {
+      "title": "11.1 Lagerung biogener Festbrennstoffe",
+      "authors": [],
+      "printed_page_number": "661",
+      "skip": false
+    },
+    {
+      "title": "11.1.1 Biologische Vorgänge",
+      "authors": [],
+      "printed_page_number": "663",
+      "skip": false
+    },
+    {
+      "title": "11.1.2 Lagerungsrisiken",
+      "authors": [],
+      "printed_page_number": "667",
+      "skip": false
+    },
+    {
+      "title": "11.1.3 Lagerungstechniken",
+      "authors": [],
+      "printed_page_number": "689",
+      "skip": false
+    },
+    {
+      "title": "11.1.3.1 Bodenlagerung",
+      "authors": [],
+      "printed_page_number": "689",
+      "skip": false
+    },
+    {
+      "title": "11.1.3.2 Hallen (Flachlager)",
+      "authors": [],
+      "printed_page_number": "691",
+      "skip": false
+    },
+    {
+      "title": "11.1.3.3 Behälter und Silos",
+      "authors": [],
+      "printed_page_number": "692",
+      "skip": false
+    },
+    {
+      "title": "11.1.3.4 Lagerräume",
+      "authors": [],
+      "printed_page_number": "695",
+      "skip": false
+    },
+    {
+      "title": "11.1.4 Lagerbeschickung und -entleerung",
+      "authors": [],
+      "printed_page_number": "697",
+      "skip": false
+    },
+    {
+      "title": "11.2 Lagerung und Konservierung von Biogassubstraten (Silage)",
+      "authors": [],
+      "printed_page_number": "705",
+      "skip": false
+    },
+    {
+      "title": "11.2.1 Grundlagen und Voraussetzungen",
+      "authors": [],
+      "printed_page_number": "706",
+      "skip": false
+    },
+    {
+      "title": "11.2.2 Silagetechniken",
+      "authors": [],
+      "printed_page_number": "711",
+      "skip": false
+    },
+    {
+      "title": "11.2.3 Anwendungen",
+      "authors": [],
+      "printed_page_number": "714",
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "authors": [],
+      "printed_page_number": "715",
+      "skip": true
+    },
+    {
+      "title": "12 Algenbiomasse",
+      "authors": [
+        "Sinah Kammler",
+        "Dorina Strieth",
+        "Martin Kaltschmitt"
+      ],
+      "printed_page_number": "721",
+      "skip": false
+    },
+    {
+      "title": "12.1 Biologische Grundlagen",
+      "authors": [],
+      "printed_page_number": "723",
+      "skip": false
+    },
+    {
+      "title": "12.1.1 Ressourcenbasis",
+      "authors": [],
+      "printed_page_number": "725",
+      "skip": false
+    },
+    {
+      "title": "12.1.2 Wachstumsbestimmende Eigenschaften",
+      "authors": [],
+      "printed_page_number": "736",
+      "skip": false
+    },
+    {
+      "title": "12.2 Algenproduktion",
+      "authors": [],
+      "printed_page_number": "742",
+      "skip": false
+    },
+    {
+      "title": "12.2.1 Systemaspekte",
+      "authors": [],
+      "printed_page_number": "743",
+      "skip": false
+    },
+    {
+      "title": "12.2.2 Produktionssysteme",
+      "authors": [],
+      "printed_page_number": "753",
+      "skip": false
+    },
+    {
+      "title": "12.3 Ernte",
+      "authors": [],
+      "printed_page_number": "774",
+      "skip": false
+    },
+    {
+      "title": "12.3.1 Mikroalgen und Cyanobakterien",
+      "authors": [],
+      "printed_page_number": "774",
+      "skip": false
+    },
+    {
+      "title": "12.3.2 Makroalgen",
+      "authors": [],
+      "printed_page_number": "775",
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "authors": [],
+      "printed_page_number": "778",
+      "skip": true
+    },
+    {
+      "title": "Stichwortverzeichnis",
+      "authors": [],
+      "printed_page_number": "787",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,514 @@
+{
+  "generated_at": 1787160638.584499,
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "VII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "TERMINOLOGISCHE LEITARTIKEL",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Weltsprache (Carsten Sinner)",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Carsten Sinner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nationalsprache (Franz-Josef Klein)",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [
+        "Franz-Josef Klein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kreolsprache (Eva Martha Eckkrammer)",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [
+        "Eva Martha Eckkrammer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Spanische Sprachpflege (Franz Lebsanft)",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [
+        "Franz Lebsanft"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "GEOGRAPHISCHE VERBREITUNG DES SPANISCHEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Europa / Spanien - Spanisch im Kontakt mit den Regionalsprachen Katalanisch, Galicisch und Baskisch",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Regionalsprache und Minderheitensprache (Hans-Ingo Radatz)",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Ingo Radatz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Katalonien (Conxita Lle\u00f3)",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [
+        "Conxita Lle\u00f3"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Valencia (Max Doppelbauer)",
+      "printed_page_number": "119",
+      "source_page_index": -1,
+      "authors": [
+        "Max Doppelbauer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Balearen (Sandra Herling)",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [
+        "Sandra Herling"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Galicien (Johannes Kabatek)",
+      "printed_page_number": "165",
+      "source_page_index": -1,
+      "authors": [
+        "Johannes Kabatek"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Baskenland (Sandra Herling)",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [
+        "Sandra Herling"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Europa / Spanien Sprachkontakt in Gibraltar",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Spanisch und Englisch in Gibraltar: Yanito (Johannes Kramer)",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [
+        "Johannes Kramer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Afrika",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ceuta und Melilla (Max Doppelbauer)",
+      "printed_page_number": "237",
+      "source_page_index": -1,
+      "authors": [
+        "Max Doppelbauer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00c4quatorialguinea (Andre Klumpp)",
+      "printed_page_number": "259",
+      "source_page_index": -1,
+      "authors": [
+        "Andre Klumpp"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Westsahara (Laura Morgenhaler Garcia)",
+      "printed_page_number": "273",
+      "source_page_index": -1,
+      "authors": [
+        "Laura Morgenhaler Garcia"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Naher Osten / Asien",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Judenspanisch in Israel (Johannes Kramer)",
+      "printed_page_number": "291",
+      "source_page_index": -1,
+      "authors": [
+        "Johannes Kramer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Philippinen (Andronike Maikares)",
+      "printed_page_number": "311",
+      "source_page_index": -1,
+      "authors": [
+        "Andronike Maikares"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Amerika Nordamerika",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "USA (Sandra Herling)",
+      "printed_page_number": "353",
+      "source_page_index": -1,
+      "authors": [
+        "Sandra Herling"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "USA/Louisiana (Isle\u00f1o) (Ingrid Neumann-Holzschuh)",
+      "printed_page_number": "387",
+      "source_page_index": -1,
+      "authors": [
+        "Ingrid Neumann-Holzschuh"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mexiko (Klaus Zimmermann)",
+      "printed_page_number": "409",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Zimmermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Amerika Karibik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Puerto Rico (Anja Jungbluth)",
+      "printed_page_number": "443",
+      "source_page_index": -1,
+      "authors": [
+        "Anja Jungbluth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kuba (Anja Jungbluth)",
+      "printed_page_number": "461",
+      "source_page_index": -1,
+      "authors": [
+        "Anja Jungbluth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dominikanische Republik (Silke Jansen)",
+      "printed_page_number": "479",
+      "source_page_index": -1,
+      "authors": [
+        "Silke Jansen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Aruba, Bonaire, Cura\u00e7ao: Papiamento/u (Eva Martha Eckkrammer)",
+      "printed_page_number": "493",
+      "source_page_index": -1,
+      "authors": [
+        "Eva Martha Eckkrammer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Amerika Zentralamerika",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Guatemala (Peter Cichon & Ludmila Cichon)",
+      "printed_page_number": "519",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Cichon",
+        "Ludmila Cichon"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Honduras (Carolin Patzelt)",
+      "printed_page_number": "535",
+      "source_page_index": -1,
+      "authors": [
+        "Carolin Patzelt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Costa Rica (Karolin Moser)",
+      "printed_page_number": "551",
+      "source_page_index": -1,
+      "authors": [
+        "Karolin Moser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "El Salvador (Carolin Patzelt)",
+      "printed_page_number": "577",
+      "source_page_index": -1,
+      "authors": [
+        "Carolin Patzelt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nicaragua (Frank Jodl)",
+      "printed_page_number": "593",
+      "source_page_index": -1,
+      "authors": [
+        "Frank Jodl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Panama (Karolin Moser)",
+      "printed_page_number": "619",
+      "source_page_index": -1,
+      "authors": [
+        "Karolin Moser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Amerika S\u00fcdamerika",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kolumbien (Carolin Patzelt)",
+      "printed_page_number": "641",
+      "source_page_index": -1,
+      "authors": [
+        "Carolin Patzelt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Venezuela (Maribel Cede\u00f1o)",
+      "printed_page_number": "663",
+      "source_page_index": -1,
+      "authors": [
+        "Maribel Cede\u00f1o"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ecuador (Sonja Salzner)",
+      "printed_page_number": "685",
+      "source_page_index": -1,
+      "authors": [
+        "Sonja Salzner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "-Peru (Eva Guggenberger)",
+      "printed_page_number": "703",
+      "source_page_index": -1,
+      "authors": [
+        "Eva Guggenberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bolivien (Stefan Pf\u00e4nder)",
+      "printed_page_number": "733",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Pf\u00e4nder"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chile (Bettina Kluge)",
+      "printed_page_number": "765",
+      "source_page_index": -1,
+      "authors": [
+        "Bettina Kluge"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Argentinien (Wiltrud Mihatsch)",
+      "printed_page_number": "789",
+      "source_page_index": -1,
+      "authors": [
+        "Wiltrud Mihatsch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Paraguay (Haralambos Symeonidis)",
+      "printed_page_number": "807",
+      "source_page_index": -1,
+      "authors": [
+        "Haralambos Symeonidis"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Uruguay (Frank Jodl)",
+      "printed_page_number": "825",
+      "source_page_index": -1,
+      "authors": [
+        "Frank Jodl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "SOZIOLOGUISCHE TERMINI",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Glossar",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "I. Definitionen: Grundbegriffe der spanischen Soziolinguistik",
+      "printed_page_number": "855",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. Grundbegriffe Deutsch-Spanisch",
+      "printed_page_number": "866",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

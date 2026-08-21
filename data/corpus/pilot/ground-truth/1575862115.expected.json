@@ -1,0 +1,240 @@
+{
+  "entries": [
+    {
+      "title": "Mathematical Analysis of Algorithms",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Selected Papers on Analysis of Algorithms",
+      "authors": [],
+      "printed_page_number": "viii",
+      "skip": true
+    },
+    {
+      "title": "The Dangers of Computer Science Theory",
+      "authors": [],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "The Analysis of Algorithms",
+      "authors": [],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Big Omicron and Big Omega and Big Theta",
+      "authors": [],
+      "printed_page_number": "35",
+      "skip": false
+    },
+    {
+      "title": "Optimal Measurement Points for Program Frequency Counts",
+      "authors": [],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "Estimating the Efficiency of Backtrack Programs",
+      "authors": [],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "Ordered Hash Tables",
+      "authors": [],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Activity in an Interleaved Memory",
+      "authors": [],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "An Analysis of Alpha-Beta Pruning",
+      "authors": [],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "Notes on Generalized Dedekind Sums",
+      "authors": [],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "The Distribution of Continued Fraction Approximations",
+      "authors": [],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "Evaluation of Porter's Constant",
+      "authors": [],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "The Subtractive Algorithm for Greatest Common Divisors",
+      "authors": [],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "Length of Strings for a Merge Sort",
+      "authors": [],
+      "printed_page_number": "205",
+      "skip": false
+    },
+    {
+      "title": "The Average Height of Planted Plane Trees",
+      "authors": [],
+      "printed_page_number": "215",
+      "skip": false
+    },
+    {
+      "title": "The Toilet Paper Problem",
+      "authors": [],
+      "printed_page_number": "225",
+      "skip": false
+    },
+    {
+      "title": "An Analysis of Optimum Caching",
+      "authors": [],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "A Trivial Algorithm Whose Analysis Isn't",
+      "authors": [],
+      "printed_page_number": "257",
+      "skip": false
+    },
+    {
+      "title": "Deletions That Preserve Randomness",
+      "authors": [],
+      "printed_page_number": "283",
+      "skip": false
+    },
+    {
+      "title": "Analysis of a Simple Factorization Algorithm",
+      "authors": [],
+      "printed_page_number": "303",
+      "skip": false
+    },
+    {
+      "title": "The Expected Linearity of a Simple Equivalence Algorithm",
+      "authors": [],
+      "printed_page_number": "341",
+      "skip": false
+    },
+    {
+      "title": "Textbook Examples of Recursion",
+      "authors": [],
+      "printed_page_number": "391",
+      "skip": false
+    },
+    {
+      "title": "An Exact Analysis of Stable Allocation",
+      "authors": [],
+      "printed_page_number": "415",
+      "skip": false
+    },
+    {
+      "title": "Stable Husbands",
+      "authors": [],
+      "printed_page_number": "429",
+      "skip": false
+    },
+    {
+      "title": "Shellsort With Three Increments",
+      "authors": [],
+      "printed_page_number": "447",
+      "skip": false
+    },
+    {
+      "title": "The Average Time for Carry Propagation",
+      "authors": [],
+      "printed_page_number": "467",
+      "skip": false
+    },
+    {
+      "title": "Linear Probing and Graphs",
+      "authors": [],
+      "printed_page_number": "473",
+      "skip": false
+    },
+    {
+      "title": "A Terminological Proposal",
+      "authors": [],
+      "printed_page_number": "485",
+      "skip": false
+    },
+    {
+      "title": "Postscript About NP-Hard Problems",
+      "authors": [],
+      "printed_page_number": "493",
+      "skip": false
+    },
+    {
+      "title": "An Experiment in Optimal Sorting",
+      "authors": [],
+      "printed_page_number": "495",
+      "skip": false
+    },
+    {
+      "title": "Duality in Addition Chains",
+      "authors": [],
+      "printed_page_number": "501",
+      "skip": false
+    },
+    {
+      "title": "Complexity Results for Bandwidth Minimization",
+      "authors": [],
+      "printed_page_number": "505",
+      "skip": false
+    },
+    {
+      "title": "The Problem of Compatible Representatives",
+      "authors": [],
+      "printed_page_number": "535",
+      "skip": false
+    },
+    {
+      "title": "The Complexity of Nonuniform Random Number Generation",
+      "authors": [],
+      "printed_page_number": "545",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "605",
+      "skip": true
+    },
+    {
+      "title": "Contents",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "vii",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "viii Selected Papers on Analysis of Algorithms",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

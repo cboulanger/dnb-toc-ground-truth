@@ -1,0 +1,474 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Teil I: Organisation",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Kapitel 1. Ganztagsschule und ihre Formen",
+      "authors": [
+        "Stephan Kielblock",
+        "Ludwig Stecher"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "1.1 Was gilt aktuell als Ganztagsschule?",
+      "authors": [],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "1.2 Zahlenmäßige Entwicklung der Ganztagsschule",
+      "authors": [],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "1.3 Formen von Ganztagsschulen und deren Entwicklung",
+      "authors": [],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 2. Kooperationen zwischen Ganztagsschulen und außerschulischen Organisationen",
+      "authors": [
+        "Thomas Coelen"
+      ],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "2.1 Partner und Gründe der Zusammenarbeit",
+      "authors": [],
+      "printed_page_number": "30",
+      "skip": false
+    },
+    {
+      "title": "2.2 Empirische Befunde zu Formen, Qualitäten und Inhalten von Kooperationen",
+      "authors": [],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "2.3 Warum und wie überhaupt kooperieren? Theoretische Analysen und Begründungen",
+      "authors": [],
+      "printed_page_number": "38",
+      "skip": false
+    },
+    {
+      "title": "Teil II: Konzepte",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Kapitel 3. Historische Entwicklungen und Zielsetzungen von Ganztagsschulen in Deutschland",
+      "authors": [
+        "Janina Stötzel",
+        "Anna Lena Wagener"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "3.1 Die Entwicklung von Ganztagsschulen",
+      "authors": [],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "3.2 Die Ziele von Ganztagsschulen",
+      "authors": [],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "3.3 Fazit",
+      "authors": [],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 4. Außerunterrichtliche Angebote an Ganztagsschulen",
+      "authors": [
+        "Andrea Hopf",
+        "Ludwig Stecher"
+      ],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "4.1 Merkmale außerunterrichtlicher Angebote",
+      "authors": [],
+      "printed_page_number": "66",
+      "skip": false
+    },
+    {
+      "title": "4.2 Formen außerunterrichtlicher Angebote",
+      "authors": [],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "4.3 Verbreitung der außerunterrichtlichen Angebote",
+      "authors": [],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "4.4 Teilnahme der Schüler/innen an den außerunterrichtlichen Angeboten",
+      "authors": [],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "4.5 Das Verhältnis von Unterricht und außerunterrichtlichen Angeboten",
+      "authors": [],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 5. Ganztagsschulen in Bildungslandschaften",
+      "authors": [
+        "Thomas Coelen",
+        "Pia Rother"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "5.1 Bildung, Schule und Nahraum",
+      "authors": [],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "5.2 Ganztagsschule und Kommune",
+      "authors": [],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "5.3 Theoretische Ansätze",
+      "authors": [],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "5.4 Programme und Forschungen",
+      "authors": [],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "5.5 Diverse Ansätze gemeinwesenorientierter Pädagogik",
+      "authors": [],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "5.6 Fazit und Ausblick",
+      "authors": [],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "Teil III: Personal",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Kapitel 6. Lehrer/innen an Ganztagsschulen",
+      "authors": [
+        "Stephan Kielblock",
+        "Ludwig Stecher"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "6.1 Veränderungen für Lehrer/innen an Ganztagsschulen",
+      "authors": [],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "6.2 Einbindung der Lehrer/innen in den Ganztagsbetrieb",
+      "authors": [],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "6.3 Belastungen von Lehrer/innen an Ganztagsschulen",
+      "authors": [],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "6.4 Aus- und Weiterbildung von Lehrer/innen für Ganztagsschulen",
+      "authors": [],
+      "printed_page_number": "108",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 7. Weiteres pädagogisch tätiges Personal an Ganztagsschulen",
+      "authors": [
+        "Thomas Coelen",
+        "Pia Rother"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "7.1 Zusammensetzung des Personals",
+      "authors": [],
+      "printed_page_number": "112",
+      "skip": false
+    },
+    {
+      "title": "7.2 Professionsverständnisse",
+      "authors": [],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "7.3 Zusammenarbeit mit Lehrer/innen",
+      "authors": [],
+      "printed_page_number": "120",
+      "skip": false
+    },
+    {
+      "title": "7.4 Zukünftige Aus- und Fortbildungen",
+      "authors": [],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "Teil IV: Adressaten",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Kapitel 8. Familie, soziale Herkunft und Bildungsungleichheit",
+      "authors": [
+        "Pia Rother",
+        "Janina Stötzel"
+      ],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "8.1 Ganztagsschule und Familie",
+      "authors": [],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "8.2 Ganztagsschule und Bildungsungleichheit",
+      "authors": [],
+      "printed_page_number": "134",
+      "skip": false
+    },
+    {
+      "title": "8.3 Ganztagsschule und soziale Herkunft",
+      "authors": [],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "8.4 Potenziale der Ganztagsschule zur Verbesserung der Chancengleichheit",
+      "authors": [],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "8.5 Fazit",
+      "authors": [],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 9. Peerkulturformen von Ganztagschüler/innen",
+      "authors": [
+        "Jochen Lange"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "9.1 Schüler/innen und ihre Peer-Groups",
+      "authors": [],
+      "printed_page_number": "144",
+      "skip": false
+    },
+    {
+      "title": "9.2 Peers, Bildung und Ganztagsentwicklung",
+      "authors": [],
+      "printed_page_number": "146",
+      "skip": false
+    },
+    {
+      "title": "9.3 Peer-Welten und Schule verstehen: die neuere Kindheitsforschung",
+      "authors": [],
+      "printed_page_number": "150",
+      "skip": false
+    },
+    {
+      "title": "9.4 Fazit und Ausblick",
+      "authors": [],
+      "printed_page_number": "152",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 10. Wirkungen von Ganztagsschulen auf Schüler/innen",
+      "authors": [
+        "Stephan Kielblock",
+        "Amina Fraij",
+        "Andrea Hopf",
+        "Sebastian Dippelhofer",
+        "Ludwig Stecher"
+      ],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "9.1 Die Wirkungsweise der Ganztagsschule",
+      "authors": [],
+      "printed_page_number": "156",
+      "skip": false
+    },
+    {
+      "title": "9.2 Wirkung im Bereich der (Lern-)Leistungsentwicklung",
+      "authors": [],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "9.3 Wirkung im Bereich des sozialen Lernens",
+      "authors": [],
+      "printed_page_number": "168",
+      "skip": false
+    },
+    {
+      "title": "9.4 Fazit",
+      "authors": [],
+      "printed_page_number": "170",
+      "skip": false
+    },
+    {
+      "title": "Teil V: Politik",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Kapitel 11. Internationaler Vergleich ganztägiger Bildungssysteme",
+      "authors": [
+        "Thomas Coelen"
+      ],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "11.1 Länderauswahl",
+      "authors": [],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "11.2 Vergleichsdimensionen",
+      "authors": [],
+      "printed_page_number": "176",
+      "skip": false
+    },
+    {
+      "title": "11.3 Frankreichs „Ganztagsschulsystem\"",
+      "authors": [],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "11.4 Finnlands „Drei-Viertel-Schulen\"",
+      "authors": [],
+      "printed_page_number": "180",
+      "skip": false
+    },
+    {
+      "title": "11.5 „Verlengde Schooldag\" mit niederländischen Schulen",
+      "authors": [],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "11.6 Zusammenschau und Bewertung",
+      "authors": [],
+      "printed_page_number": "184",
+      "skip": false
+    },
+    {
+      "title": "11.7 Perspektiven",
+      "authors": [],
+      "printed_page_number": "186",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 12. Bildungs- und Gesellschaftspolitik",
+      "authors": [
+        "Sebastian Dippelhofer",
+        "Bernd Dollinger"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "12.1 Bildungspolitische Akteure in Bezug auf Ganztagsschulen",
+      "authors": [],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "12.2 Übergreifende Zielstellungen",
+      "authors": [],
+      "printed_page_number": "194",
+      "skip": false
+    },
+    {
+      "title": "12.3 Bildungspolitik und Wohlfahrtsstaat",
+      "authors": [],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "12.4 Politische Momente der Ganztagspraxis",
+      "authors": [],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "authors": [],
+      "printed_page_number": "201",
+      "skip": true
+    },
+    {
+      "title": "Die Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "225",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

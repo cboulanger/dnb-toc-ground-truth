@@ -1,0 +1,262 @@
+{
+  "generated_at": 1787023392.668226,
+  "entries": [
+    {
+      "title": "Unterwegs mit beschlagener Frontscheibe",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil I",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Grundlagen des modernen Risikomanagements",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Risikokategorien im \u00dcberblick",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Frank Romeike"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wertorientierte Unternehmensf\u00fchrung, Strategie und Risikomanagement \u2013 Die Kapitalkostens\u00e4tze als Bindeglied",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [
+        "Werner Glei\u00dfner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil II",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Marktrisiken",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Statistische Modellierung des Zins\u00e4nderungsrisikos Teil 1: Univariate Verteilungen",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [
+        "Arnd Wiedemann",
+        "Adam Drosdzol",
+        "Rolf-Dieter Reiss",
+        "Michael Thomas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Statistische Modellierung des Zins\u00e4nderungsrisikos Teil 2: Multivariate Verteilungen",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "Arnd Wiedemann",
+        "Adam Drosdzol",
+        "Rolf-Dieter Reiss",
+        "Michael Thomas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil III",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kreditrisiken",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das kanonische Verfahren zur Bestimmung von Ausfallwahrscheinlichkeiten",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "Uwe Wehrspohn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Marktdatenbasierte Verfahren zur Bestimmung von Ausfallwahrscheinlichkeiten",
+      "printed_page_number": "99",
+      "source_page_index": -1,
+      "authors": [
+        "Uwe Wehrspohn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stochastische Ausfallwahrscheinlichkeiten: Credit Risk+",
+      "printed_page_number": "119",
+      "source_page_index": -1,
+      "authors": [
+        "Uwe Wehrspohn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ausfallwahrscheinlichkeiten im Konjunkturzyklus: Credit Portfolio View",
+      "printed_page_number": "129",
+      "source_page_index": -1,
+      "authors": [
+        "Uwe Wehrspohn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Integrative Modelle zur Bestimmung von Ausfallwahrscheinlichkeiten: Credit Risk Evaluation Model",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [
+        "Uwe Wehrspohn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Methoden zum Vergleich verschiedener Scoreverfahren am Beispiel der Schufa-Scoreverfahren",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [
+        "Ludwig Fahrmeir",
+        "Andreas Henking",
+        "Ralf H\u00fcls"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bayesianisches Kredit-Scoring zur Messung des Ausfallrisikos",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [
+        "Markus J. Rieder"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Loss Given Default und Recovery Rates \u2013 Eine Einf\u00fchrung",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Tr\u00fcck",
+        "Jens Deidersen",
+        "Peter Niebling",
+        "S. T. Rachev"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil IV",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Operationelle Risiken",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "What you see is what you get! Operationelle Risiken identifizieren",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [
+        "Kirsten-Annette Minz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Quantifizierung operationeller Risiken \u2013 Ein Weg zur Einbettung in den Management-Zyklus",
+      "printed_page_number": "255",
+      "source_page_index": -1,
+      "authors": [
+        "Gerrit Jan van den Brink"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Enronie des Schicksals: Das Enron-Debakel \u2013 Lessons Learned",
+      "printed_page_number": "269",
+      "source_page_index": -1,
+      "authors": [
+        "Roland F. Erben"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "printed_page_number": "281",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Autoren",
+      "printed_page_number": "281",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Register",
+      "printed_page_number": "287",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

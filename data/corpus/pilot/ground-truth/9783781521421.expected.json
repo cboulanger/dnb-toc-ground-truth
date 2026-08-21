@@ -1,0 +1,422 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "1 Konzeptionelle Rahmungen und Entwicklungslinien",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Praxissemester en vogue",
+      "authors": [
+        "Ulrike Weyland",
+        "Eveline Wittmann"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen in der Lehrerbildung",
+      "authors": [
+        "Wolfgang Fichten"
+      ],
+      "printed_page_number": "30",
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen im Praxissemester – Potential und Ausgestaltungsmöglichkeiten",
+      "authors": [
+        "Renate Schüssler",
+        "Anke Schöning"
+      ],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "Institutionalisierung der Kooperation – Forschendes Lernen als Aufgabe von Fachverbünden",
+      "authors": [
+        "Saskia Schicht"
+      ],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "Standards für Schulpraktische Studien – Implikationen für die Ausgestaltung Forschenden Lernens im Praxissemester",
+      "authors": [
+        "Anke Schöning",
+        "Renate Schüssler",
+        "Ulrike Weyland"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Evaluation im Praxissemester",
+      "authors": [
+        "Lilian Streblow",
+        "Sebastian Barsch"
+      ],
+      "printed_page_number": "70",
+      "skip": false
+    },
+    {
+      "title": "2 Länderspezifische Zugänge",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Das Praxissemester in Flensburg",
+      "authors": [
+        "Kirsten Großmann",
+        "Andreas Bach",
+        "Jens Winkel"
+      ],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen im Hamburger Kernpraktikum",
+      "authors": [
+        "Nicole Naeve-Stoß",
+        "Tade Tramm"
+      ],
+      "printed_page_number": "88",
+      "skip": false
+    },
+    {
+      "title": "Das Praxissemester an der Universität Bremen",
+      "authors": [
+        "Regine Komoss",
+        "Maria Peters"
+      ],
+      "printed_page_number": "96",
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen in Niedersachsen – Das Oldenburger Praxissemester",
+      "authors": [
+        "Anke Spies",
+        "Julia Michaelis",
+        "Udo Gerheim",
+        "Vanessa Hinsch"
+      ],
+      "printed_page_number": "104",
+      "skip": false
+    },
+    {
+      "title": "Profile Forschenden Lernens – Das Osnabrücker Konzept als ein Beispiel aus Niedersachsen",
+      "authors": [
+        "Alexander Büssing",
+        "Vera Gehrs",
+        "Andrea Mochalski",
+        "Yoshiro Nakamura",
+        "Bärbel Treichel"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "Herausforderungen und Perspektiven – Forschendes Lernen im Praxissemester an der Humboldt-Universität zu Berlin",
+      "authors": [
+        "Heike Schaumburg",
+        "Constanze Saunders"
+      ],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "Das Praxissemester in Nordrhein-Westfalen am Beispiel der Universität Duisburg-Essen",
+      "authors": [
+        "Frank Diehr"
+      ],
+      "printed_page_number": "126",
+      "skip": false
+    },
+    {
+      "title": "3 Methoden und Anwendungskontexte",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Begründungen, Ziele und Formen Forschenden Lernens – ein Reflexionsangebot für den Einstieg",
+      "authors": [
+        "Andreas Feindt",
+        "Beate Wischer"
+      ],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "Empirische Forschungsmethoden in studentischen Forschungsprojekten",
+      "authors": [
+        "Johanna Gold",
+        "Gabriele Klewin"
+      ],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen durch ethnographisches Beobachten",
+      "authors": [
+        "Friederike Kern"
+      ],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "Forschend lernen mit Videografie",
+      "authors": [
+        "Paul Goerigk"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen in inklusiven Lehr- und Lern-Arrangements – Ideen und Perspektiven",
+      "authors": [
+        "Birgit Lütje-Klose",
+        "Simone Seitz",
+        "Bettina Streese"
+      ],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "Schulentwicklung als Gegenstand Forschenden Lernens im Praxissemester?",
+      "authors": [
+        "Gabriele Klewin"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen im Kontext von Ganztag",
+      "authors": [
+        "Oliver Böhm-Kasper"
+      ],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen in der Grundschule",
+      "authors": [
+        "Birgit Holler-Nowitzki",
+        "Susanne Miller"
+      ],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen in inklusiven Lerngruppen der Sekundarstufe I",
+      "authors": [
+        "Jan Christoph Störtländer",
+        "Barbara Koch"
+      ],
+      "printed_page_number": "200",
+      "skip": false
+    },
+    {
+      "title": "Praxissemester in berufs- und wirtschaftspädagogischen Studiengängen",
+      "authors": [
+        "H.-Hugo Kremer",
+        "Ulrike Weyland"
+      ],
+      "printed_page_number": "206",
+      "skip": false
+    },
+    {
+      "title": "4 Begleitung Forschenden Lernens",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "In der Schule – Begleitung Forschenden Lernens durch MentorInnen",
+      "authors": [
+        "Anke Schöning",
+        "Volker Schwier",
+        "Hella Weßel",
+        "Karen Wiegelmann"
+      ],
+      "printed_page_number": "215",
+      "skip": false
+    },
+    {
+      "title": "Fortbildungsangebote zur Unterstützung Forschenden Lernens im Praxissemester",
+      "authors": [
+        "Renate Schüssler"
+      ],
+      "printed_page_number": "225",
+      "skip": false
+    },
+    {
+      "title": "Beratung Forschenden Lernens im Praxissemester am Beispiel Nordrhein-Westfalen",
+      "authors": [
+        "Karl-Theodor Stiller",
+        "Thorsten Bührmann"
+      ],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "Forscherblick im Schulalltag!? – Begleitung Forschenden Lernens am Zentrum für schulpraktische Lehrerausbildung (ehemals: Studienseminar)",
+      "authors": [
+        "Renate Nocon-Stoffers"
+      ],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "Das Portfolio zur Unterstützung Forschenden Lernens im Praxissemester",
+      "authors": [
+        "Agnieszka Werfel",
+        "Nicole Valdorf",
+        "Renate Schüssler"
+      ],
+      "printed_page_number": "251",
+      "skip": false
+    },
+    {
+      "title": "Potentiale von E-Learning zur Begleitung im Praxissemester",
+      "authors": [
+        "Björn Bulizek",
+        "Julia Haarmann",
+        "Christina Kiefer",
+        "Sarah Schotemeier"
+      ],
+      "printed_page_number": "259",
+      "skip": false
+    },
+    {
+      "title": "Kooperation der ausbildenden AkteurInnen im Bielefelder Praxissemester – Fachgruppe BiWi",
+      "authors": [
+        "Gabriele Klewin",
+        "Anne Köker",
+        "Klaus Kästing",
+        "Bernd Trenner"
+      ],
+      "printed_page_number": "267",
+      "skip": false
+    },
+    {
+      "title": "5 Fachdidaktische Zugänge zum Forschenden Lernen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Forschendes Lernen rund um das Praxissemester Anglistik",
+      "authors": [
+        "Julia Reckermann"
+      ],
+      "printed_page_number": "275",
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen im Fach Geschichte",
+      "authors": [
+        "Jörg van Norden"
+      ],
+      "printed_page_number": "281",
+      "skip": false
+    },
+    {
+      "title": "Empirische Studienprojekte im Fach Latein",
+      "authors": [
+        "Jochen Sauer"
+      ],
+      "printed_page_number": "286",
+      "skip": false
+    },
+    {
+      "title": "Perspektiven zum Forschenden Lernen im Fach Mathematik",
+      "authors": [
+        "Michael Kleine",
+        "Sabine Castelli"
+      ],
+      "printed_page_number": "292",
+      "skip": false
+    },
+    {
+      "title": "Perspektiven zum Forschenden Lernen in Mathematischer Grundbildung",
+      "authors": [
+        "Nicole Wellensiek",
+        "Thomas Rottmann",
+        "Miriam Lüken"
+      ],
+      "printed_page_number": "298",
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen in der Musikpädagogik – Potentiale videobasierter Unterrichtsforschung im Praxissemester",
+      "authors": [
+        "Julia Rheingans",
+        "Kerstin Heberle"
+      ],
+      "printed_page_number": "304",
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen entlang fachdidaktischer Prinzipien im Fach Sozialwissenschaften",
+      "authors": [
+        "Gunnar Rettberg"
+      ],
+      "printed_page_number": "310",
+      "skip": false
+    },
+    {
+      "title": "Schulsport im Blickfeld Forschenden Lernens",
+      "authors": [
+        "Natalia Fast",
+        "Nils Ukley",
+        "Katrin Neumann",
+        "Valerie Kastrup"
+      ],
+      "printed_page_number": "316",
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen in der Sprachlichen Grundbildung – Ethnographisches Beobachten und sprachdidaktische Reflexion",
+      "authors": [
+        "Jan Clemens",
+        "Friederike Kern",
+        "Angelika Stein"
+      ],
+      "printed_page_number": "322",
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen im Unterrichtsfach Pädagogik",
+      "authors": [
+        "Stefan Hahn",
+        "Sven Meinholz",
+        "Jan Christoph Störtländer",
+        "Christina Thomas"
+      ],
+      "printed_page_number": "328",
+      "skip": false
+    },
+    {
+      "title": "AutorInnenverzeichnis",
+      "authors": [],
+      "printed_page_number": "335",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

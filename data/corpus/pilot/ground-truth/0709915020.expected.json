@@ -1,0 +1,139 @@
+{
+  "entries": [
+    {
+      "title": "Introduction: Principles and Practice in Linguistic Geography",
+      "authors": [
+        "John M. Kirk",
+        "Stewart Sanderson",
+        "J.D.A. Widdowson"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "List of Figures",
+      "authors": [],
+      "printed_page_number": "vi",
+      "skip": true
+    },
+    {
+      "title": "List of Maps",
+      "authors": [],
+      "printed_page_number": "vii",
+      "skip": true
+    },
+    {
+      "title": "Locality Codes: England",
+      "authors": [],
+      "printed_page_number": "viii",
+      "skip": true
+    },
+    {
+      "title": "Locality Codes: Wales",
+      "authors": [],
+      "printed_page_number": "xiii",
+      "skip": true
+    },
+    {
+      "title": "Abbreviations",
+      "authors": [],
+      "printed_page_number": "xv",
+      "skip": true
+    },
+    {
+      "title": "The International Phonetic Alphabet",
+      "authors": [],
+      "printed_page_number": "xvi",
+      "skip": true
+    },
+    {
+      "title": "Contributors",
+      "authors": [],
+      "printed_page_number": "xvii",
+      "skip": true
+    },
+    {
+      "title": "Acknowledgements",
+      "authors": [],
+      "printed_page_number": "xviii",
+      "skip": true
+    },
+    {
+      "title": "Linguistic Geography in England: Progress and Prospects",
+      "authors": [
+        "Stewart Sanderson",
+        "J.D.A. Widdowson"
+      ],
+      "printed_page_number": "34",
+      "skip": false
+    },
+    {
+      "title": "On Producing a Linguistic Atlas: The Survey of Anglo-Welsh Dialects",
+      "authors": [
+        "David Parry"
+      ],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "The Tape-recorded Survey of Hiberno-English Speech: A Reappraisal of the Techniques of Traditional Dialect Geography",
+      "authors": [
+        "G.B. Adams",
+        "M.V. Barry",
+        "P.M. Tilling"
+      ],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "Linguistic Atlases and Sociolinguistics",
+      "authors": [
+        "Paul A. Johnston, Jr"
+      ],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "Linguistic Atlases and Dialectometry: The Survey of English Dialects",
+      "authors": [
+        "Wolfgang Viereck"
+      ],
+      "printed_page_number": "94",
+      "skip": false
+    },
+    {
+      "title": "Linguistic Atlases and Generative Phonology",
+      "authors": [
+        "Beat Glauser"
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "Linguistic Atlases and Grammar: The Investigation and Description of Regional Variation in English Syntax",
+      "authors": [
+        "John M. Kirk"
+      ],
+      "printed_page_number": "130",
+      "skip": false
+    },
+    {
+      "title": "Linguistic Atlases and Vocabulary: The Linguistic Survey of Anglo-Irish",
+      "authors": [
+        "P.L. Henry"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Linguistic Maps: Visual Aid or Abstract Art?",
+      "authors": [
+        "R.K.S. Macaulay"
+      ],
+      "printed_page_number": "172",
+      "skip": false
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

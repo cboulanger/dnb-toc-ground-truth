@@ -1,0 +1,403 @@
+{
+  "generated_at": 1787031015.639097,
+  "entries": [
+    {
+      "title": "Contents",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Contributors",
+      "printed_page_number": "xvii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "1 Introduction",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Donald T. Stuss",
+        "Robert T. Knight"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 The Human Frontal Lobes: Transcending the Default Mode through Contingent Encoding",
+      "printed_page_number": "8",
+      "source_page_index": -1,
+      "authors": [
+        "M.-Marsel Mesulam"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Association Pathways of the Prefrontal Cortex and Functional Observations",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Petrides",
+        "Deepak N. Pandya"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Neurochemical Modulation of Prefrontal Cortical Function in Humans and Animals",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Amy F.T. Arnsten",
+        "Trevor W. Robbins"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Functional Architecture of the Dorsolateral Prefrontal Cortex in Monkeys and Humans",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "Patricia S. Goldman-Rakic",
+        "Hoi-Chung Leung"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Physiology of Executive Functions: The Perception-Action Cycle",
+      "printed_page_number": "96",
+      "source_page_index": -1,
+      "authors": [
+        "Joaqu\u00edn M. Fuster"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 The Theatre of the Mind: Physiological Studies of the Human Frontal Lobes",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [
+        "Terence W. Picton",
+        "Claude Alain",
+        "Anthony R. McIntosh"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Motor Programming for Hand and Vocalizing Movements",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [
+        "Hisae Gemba"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 Cortical Control of Visuomotor Reflexes",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Rafal"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Disorders of Language After Frontal Lobe Injury: Evidence for the Neural Mechanisms of Assembling Language",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [
+        "Michael P. Alexander"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11 The Organization of Working Memory Function in Lateral Prefrontal Cortex: Evidence from Event-Related Functional MRI",
+      "printed_page_number": "168",
+      "source_page_index": -1,
+      "authors": [
+        "Mark D'Esposito",
+        "Bradley R. Postle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12 The Frontal Cortex and Working with Memory",
+      "printed_page_number": "188",
+      "source_page_index": -1,
+      "authors": [
+        "Morris Moscovitch",
+        "Gordon Winocur"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13 Memory Retrieval and Executive Control Processes",
+      "printed_page_number": "210",
+      "source_page_index": -1,
+      "authors": [
+        "Arthur P. Shimamura"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14 Dorsal Prefrontal Cortex: Maintenance in Memory or Attentional Selection?",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [
+        "Richard E. Passingham",
+        "James B. Rowe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15 Mechanisms of Conflict Resolution in Prefrontal Cortex",
+      "printed_page_number": "233",
+      "source_page_index": -1,
+      "authors": [
+        "John Jonides",
+        "David Badre",
+        "Clayton Curtis",
+        "Sharon L. Thompson-Schill",
+        "Edward E. Smith"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16 Fractionating the Central Executive",
+      "printed_page_number": "246",
+      "source_page_index": -1,
+      "authors": [
+        "Alan Baddeley"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "17 Fractionation of the Supervisory System",
+      "printed_page_number": "261",
+      "source_page_index": -1,
+      "authors": [
+        "Tim Shallice"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "18 Cognitive Focus through Adaptive Neural Coding in the Primate Prefrontal Cortex",
+      "printed_page_number": "278",
+      "source_page_index": -1,
+      "authors": [
+        "John Duncan",
+        "Earl K. Miller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "19 The Structured Event Complex and the Human Prefrontal Cortex",
+      "printed_page_number": "292",
+      "source_page_index": -1,
+      "authors": [
+        "Jordan Grafman"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "20 Chronesthesia: Conscious Awareness of Subjective Time",
+      "printed_page_number": "311",
+      "source_page_index": -1,
+      "authors": [
+        "Endel Tulving"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "21 Integration across Multiple Cognitive and Motivational Domains in Monkey Prefrontal Cortex",
+      "printed_page_number": "326",
+      "source_page_index": -1,
+      "authors": [
+        "Masataka Watanabe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "22 Emotion, Decision Making, and the Ventromedial Prefrontal Cortex",
+      "printed_page_number": "338",
+      "source_page_index": -1,
+      "authors": [
+        "Daniel Tranel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "23 The Functions of the Orbitofrontal Cortex",
+      "printed_page_number": "354",
+      "source_page_index": -1,
+      "authors": [
+        "Edmund T. Rolls"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "24 Mapping Mood: An Evolving Emphasis on Frontal-Limbic Interactions",
+      "printed_page_number": "376",
+      "source_page_index": -1,
+      "authors": [
+        "Helen S. Mayberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "25 Fractionation and Localization of Distinct Frontal Lobe Processes: Evidence from Focal Lesions in Humans",
+      "printed_page_number": "392",
+      "source_page_index": -1,
+      "authors": [
+        "Donald T. Stuss",
+        "Michael P. Alexander",
+        "Darlene Floden",
+        "Malcolm A. Binns",
+        "Brian Levine",
+        "Anthony R. McIntosh",
+        "Natasha Rajah",
+        "Stephanie J. Hevenor"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "26 Neurobehavioural Consequences of Neurosurgical Treatments and Focal Lesions of Frontal-Subcortical Circuits",
+      "printed_page_number": "408",
+      "source_page_index": -1,
+      "authors": [
+        "Jean A. Saint-Cyr",
+        "Yuri L. Bronstein",
+        "Jeffrey L. Cummings"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "27 The Role of Prefrontal Cortex in Normal and Disordered Cognitive Control: A Cognitive Neuroscience Perspective",
+      "printed_page_number": "428",
+      "source_page_index": -1,
+      "authors": [
+        "Todd S. Braver",
+        "Jonathan D. Cohen",
+        "Deanna M. Barch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "28 Novel Approaches to the Assessment of Frontal Damage and Executive Deficits in Traumatic Brain Injury",
+      "printed_page_number": "448",
+      "source_page_index": -1,
+      "authors": [
+        "Brian Levine",
+        "Douglas I. Katz",
+        "Lauren Dade",
+        "Sandra E. Black"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "29 Normal Development of Prefrontal Cortex from Birth to Young Adulthood: Cognitive Functions, Anatomy, and Biochemistry",
+      "printed_page_number": "466",
+      "source_page_index": -1,
+      "authors": [
+        "Adele Diamond"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "30 Executive Functions after Frontal Lobe Injury: A Developmental Perspective",
+      "printed_page_number": "504",
+      "source_page_index": -1,
+      "authors": [
+        "Vicki Anderson",
+        "Harvey S. Levin",
+        "Rani Jacobs"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "31 Aging, Memory, and Frontal Lobe Functioning",
+      "printed_page_number": "528",
+      "source_page_index": -1,
+      "authors": [
+        "Fergus I.M. Craik",
+        "Cheryl L. Grady"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "32 Frontal Lobe Plasticity and Behavior",
+      "printed_page_number": "541",
+      "source_page_index": -1,
+      "authors": [
+        "Bryan Kolb",
+        "Robbin Gibb"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "33 Principles of the Rehabilitation of Frontal Lobe Function",
+      "printed_page_number": "557",
+      "source_page_index": -1,
+      "authors": [
+        "Paul W. Burgess",
+        "Ian H. Robertson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "34 Prefrontal Cortex: The Present and the Future",
+      "printed_page_number": "573",
+      "source_page_index": -1,
+      "authors": [
+        "Robert T. Knight",
+        "Donald T. Stuss"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "599",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

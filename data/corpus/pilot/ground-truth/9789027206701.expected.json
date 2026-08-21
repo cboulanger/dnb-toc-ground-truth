@@ -1,0 +1,84 @@
+{
+  "entries": [
+    {
+      "title": "Table of contents",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Manifestations of ergativity in Amazonia",
+      "authors": ["Francesc Queixalós", "Spike Gildea"],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "PART 1. Well-established systems: Morphological ergativity",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Ergativity in the Mayoruna branch of the Panoan family",
+      "authors": ["David W. Fleck"],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "Ergativity in Shipibo-Konibo, a Panoan language of the Ucayali",
+      "authors": ["Pilar M. Valenzuela"],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "How ergative is Cavineña?",
+      "authors": ["Antoine Guillaume"],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "The ergativity effect in Kuikuro (Southern Carib, Brazil)",
+      "authors": ["Bruna Franchetto"],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "Nominative-absolutive: Counter-universal split ergativity in Jê and Cariban",
+      "authors": ["Spike Gildea", "Flávia de Castro Alves"],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "PART 2. Recent diachronic innovations: Syntactic ergativity",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Ergativity in Trumai",
+      "authors": ["Raquel Guirardello-Damian"],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "Grammatical relations in Katukina-Kanamari",
+      "authors": ["Francesc Queixalós"],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "The intransitive basis of Movima clause structure",
+      "authors": ["Katharina Haude"],
+      "printed_page_number": "285",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "317",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

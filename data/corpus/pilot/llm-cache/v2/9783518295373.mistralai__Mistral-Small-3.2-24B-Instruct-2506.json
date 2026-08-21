@@ -1,0 +1,289 @@
+{
+  "generated_at": 1787262921.6980171,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sammeln",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Portr\u00e4tsammlung und Bilderverbot.",
+      "printed_page_number": "10",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Blumenberg (1920-1996)",
+        "Felix Heidenreich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die doppelte Epistemologie des Historismus.",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [
+        "Carl Justi (1832-1912)",
+        "Johannes R\u00f6\u00dfler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Streuen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Begriffliches Denken \u2013 verk\u00f6rpertes Sehen.",
+      "printed_page_number": "53",
+      "source_page_index": -1,
+      "authors": [
+        "Edgar Wind (1900-1971)",
+        "Pablo Schneider"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Vorbilder und Nachbilder.",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "Friedrich Gundolf (1880-1931)",
+        "Michael Thimann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Projizieren",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Im Bilde.",
+      "printed_page_number": "97",
+      "source_page_index": -1,
+      "authors": [
+        "Heinrich W\u00f6lfflin (1864-1945)",
+        "Gabriele Wimb\u00f6ck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bilderpolitik.",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "Michel Foucault (1926-1984)",
+        "Ulrich Johannes Schneider"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Argumentieren",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Souver\u00e4nes Kleingeld.",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "Ernst Kantorowicz (1895-1963)",
+        "Jost Philipp Klenner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der katholische Beobachter.",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [
+        "Carl Schmitt (1888-1985)",
+        "Wolfgang Pircher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fotografieren",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Fotos f\u00fcr alle.",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [
+        "Andr\u00e9 Malraux (1901-1976)",
+        "Claudia Bahmer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Diagramm und Fotografie als Praxis des Visuellen.",
+      "printed_page_number": "197",
+      "source_page_index": -1,
+      "authors": [
+        "Pierre Bourdieu (1930-2002)",
+        "Holger Brohm"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Analysieren",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Numinose.",
+      "printed_page_number": "219",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Sedlmayr (1896-1984)",
+        "J\u00f6rg Probst"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wivenhoe Park.",
+      "printed_page_number": "243",
+      "source_page_index": -1,
+      "authors": [
+        "Ernst H. Gombrich (1909-2001)",
+        "Klaus Lepsky"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beschreiben",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "M\u00f6glichkeiten der Konfiguration.",
+      "printed_page_number": "266",
+      "source_page_index": -1,
+      "authors": [
+        "Roland Barthes (1915-1980)",
+        "Tom Holert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zeichnen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kritzeln als abstrakter Expressionismus.",
+      "printed_page_number": "291",
+      "source_page_index": -1,
+      "authors": [
+        "Gilles Deleuze (1925-1995)",
+        "Christian Driesen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Genetisches Zeichnen.",
+      "printed_page_number": "314",
+      "source_page_index": -1,
+      "authors": [
+        "Henri Focillon (1881-1943)",
+        "J\u00f6rg Probst"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fernsehen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "TV.",
+      "printed_page_number": "338",
+      "source_page_index": -1,
+      "authors": [
+        "Paul Feyerabend (1924-1994)",
+        "Michael Glasmeier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Magic der Technik.",
+      "printed_page_number": "360",
+      "source_page_index": -1,
+      "authors": [
+        "Aby M. Warburg (1866-1929)",
+        "Thomas Hensel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hinweise zu den Autorinnen und Autoren",
+      "printed_page_number": "383",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "entries": [
+    {
+      "title": "Abk\u00fcrzungsverzeichnis",
+      "authors": [],
+      "printed_page_number": "8",
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": true
+    },
+    {
+      "title": "A Soziale Arbeit in der Psychiatrie",
+      "authors": [],
+      "printed_page_number": "14",
+      "skip": true
+    },
+    {
+      "title": "1 Soziale Arbeit und Psychiatrie",
+      "authors": [
+        "Christoph Walther"
+      ],
+      "printed_page_number": "16",
+      "skip": false
+    },
+    {
+      "title": "2 Theorien und Konzepte Klinischer Sozialarbeit in der Psychiatrie",
+      "authors": [
+        "Christoph Walther",
+        "Daniel Deimel"
+      ],
+      "printed_page_number": "40",
+      "skip": false
+    },
+    {
+      "title": "3 Psychiatrische Grundlagen",
+      "authors": [
+        "Ralf-Bruno Zimmermann",
+        "Viviana Schulz"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "4 H\u00e4ufige psychische St\u00f6rungen",
+      "authors": [
+        "Ralf-Bruno Zimmermann",
+        "Viviana Schulz"
+      ],
+      "printed_page_number": "94",
+      "skip": false
+    },
+    {
+      "title": "5 Das psychiatrische Hilfesystem",
+      "authors": [
+        "Ilse Eichenbrenner",
+        "Ilja Ruhl"
+      ],
+      "printed_page_number": "134",
+      "skip": false
+    },
+    {
+      "title": "6 Die Rechte von Klient*innen",
+      "authors": [
+        "Dagmar Brosey",
+        "Margret Osterfeld"
+      ],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "7 Ethik in der Sozialen Arbeit",
+      "authors": [
+        "Carmen Kaminsky"
+      ],
+      "printed_page_number": "184",
+      "skip": false
+    },
+    {
+      "title": "8 Psychische Probleme und psychiatrische Versorgung w\u00e4hrend der Coronavirus-Pandemie",
+      "authors": [
+        "Dirk Richter"
+      ],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "B Psychosoziale Interventionsformen",
+      "authors": [],
+      "printed_page_number": "214",
+      "skip": true
+    },
+    {
+      "title": "1 Leitideen einer sozialpsychiatrischen Grundhaltung",
+      "authors": [
+        "Dario Deloie"
+      ],
+      "printed_page_number": "216",
+      "skip": false
+    },
+    {
+      "title": "2 Beziehungsaufbau und Beziehungsgestaltung",
+      "authors": [
+        "Jeannette Bischkopf",
+        "Reinhard L\u00fctjen"
+      ],
+      "printed_page_number": "230",
+      "skip": false
+    },
+    {
+      "title": "3 Psychosoziale Diagnostik",
+      "authors": [
+        "Daniel Deimel",
+        "Dario Deloie"
+      ],
+      "printed_page_number": "249",
+      "skip": false
+    },
+    {
+      "title": "4 Analyse und Aktivierung egozentrierter sozialer Netzwerke",
+      "authors": [
+        "Stephan Dettmers",
+        "Jeannette Bischkopf",
+        "Carsten Koziolok"
+      ],
+      "printed_page_number": "268",
+      "skip": false
+    },
+    {
+      "title": "5 Psychosoziale Beratung",
+      "authors": [
+        "Jeannette Bischkopf",
+        "Carsten Koziolok"
+      ],
+      "printed_page_number": "284",
+      "skip": false
+    },
+    {
+      "title": "6 Soziale Arbeit mit Angeh\u00f6rigen von Menschen mit psychischen Erkrankungen",
+      "authors": [
+        "Christine Kr\u00f6ger",
+        "Gernot Hahn",
+        "Lisa Gro\u00dfe"
+      ],
+      "printed_page_number": "303",
+      "skip": false
+    },
+    {
+      "title": "7 Krisenintervention",
+      "authors": [
+        "Olaf Neumann"
+      ],
+      "printed_page_number": "326",
+      "skip": false
+    },
+    {
+      "title": "8 Gruppenarbeit",
+      "authors": [
+        "Sabrina Hancken"
+      ],
+      "printed_page_number": "345",
+      "skip": false
+    },
+    {
+      "title": "9 Case Management in der sozialpsychiatrischen Eingliederungshilfe",
+      "authors": [
+        "Yvonne Kahl"
+      ],
+      "printed_page_number": "364",
+      "skip": false
+    },
+    {
+      "title": "10 Recoveryorientierung und Einbezug von Psychiatrie-Erfahrungen",
+      "authors": [
+        "J\u00f6rg Utschakowski"
+      ],
+      "printed_page_number": "381",
+      "skip": false
+    },
+    {
+      "title": "11 Integrierte multiprofessionelle psychiatrische Versorgung",
+      "authors": [
+        "Uta G\u00fchne"
+      ],
+      "printed_page_number": "402",
+      "skip": false
+    },
+    {
+      "title": "C Qualit\u00e4tsentwicklung, Forschung und Selbstf\u00fcrsorge",
+      "authors": [],
+      "printed_page_number": "418",
+      "skip": true
+    },
+    {
+      "title": "1 Qualit\u00e4tsmanagement und Qualit\u00e4tsentwicklung in der Klinischen Sozialarbeit",
+      "authors": [
+        "Wilfried G\u00f6rgen",
+        "Daniel Deimel"
+      ],
+      "printed_page_number": "420",
+      "skip": false
+    },
+    {
+      "title": "2 Forschung in der Sozialpsychiatrie",
+      "authors": [
+        "Daniel Deimel"
+      ],
+      "printed_page_number": "440",
+      "skip": false
+    },
+    {
+      "title": "3 Vorbereitung eines Forschungsvorhabens: Kontextanalyse und Fragestellung",
+      "authors": [
+        "Anja Dieterich"
+      ],
+      "printed_page_number": "457",
+      "skip": false
+    },
+    {
+      "title": "4 Praxisforschung am Beispiel einer qualitativen Bedarfsanalyse",
+      "authors": [
+        "Johannes Jungbauer"
+      ],
+      "printed_page_number": "475",
+      "skip": false
+    },
+    {
+      "title": "5 Selbstf\u00fcrsorge und Gesundheitsf\u00f6rderung",
+      "authors": [
+        "Katrin Liel"
+      ],
+      "printed_page_number": "490",
+      "skip": false
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

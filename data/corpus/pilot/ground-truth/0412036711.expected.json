@@ -1,0 +1,201 @@
+{
+  "entries": [
+    {
+      "title": "Contents",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Contributors",
+      "authors": [],
+      "printed_page_number": "v",
+      "skip": true
+    },
+    {
+      "title": "Preface",
+      "authors": [],
+      "printed_page_number": "ix",
+      "skip": true
+    },
+    {
+      "title": "I Introduction",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Global Change",
+      "authors": [
+        "Herman H. Shugart"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "II Biotic Responses to Global Environmental Change",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "2. Biospheric Implications of Global Environmental Change",
+      "authors": [
+        "Allen M. Solomon",
+        "Wolfgang P. Cramer"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "3. CO₂ Fertilization: The Great Uncertainty in Future Vegetation Development",
+      "authors": [
+        "Christian Körner"
+      ],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "4. Leaf Responses to the Environment and Extrapolation to Larger Scales",
+      "authors": [
+        "F.I. Woodward"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "5. The Prediction and Physiological Significance of Tree Height",
+      "authors": [
+        "A.D. Friend"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "6. Uncertainties in the Terrestrial Carbon Cycle",
+      "authors": [
+        "W.M. Post"
+      ],
+      "printed_page_number": "116",
+      "skip": false
+    },
+    {
+      "title": "7. Coupling of the Atmosphere with Vegetation",
+      "authors": [
+        "Philippe Martin"
+      ],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "III Measuring Global Vegetation Change",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "8. Monitoring Vegetation Change Using Satellite Data",
+      "authors": [
+        "B.N. Rock",
+        "D.L. Skole",
+        "B.J. Choudhury"
+      ],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "9. Global Geographic Information Systems and Databases for Vegetation Change Studies",
+      "authors": [
+        "David L. Skole",
+        "Berrien Moore III",
+        "Walter H. Chomentowski"
+      ],
+      "printed_page_number": "168",
+      "skip": false
+    },
+    {
+      "title": "10. Assessing Impacts of Climate Change on Vegetation Using Climate Classification Systems",
+      "authors": [
+        "Wolfgang P. Cramer",
+        "Rik Leemans"
+      ],
+      "printed_page_number": "190",
+      "skip": false
+    },
+    {
+      "title": "11. Vegetation Diversity and Classification Systems",
+      "authors": [
+        "G. Grabherr",
+        "S. Kojima"
+      ],
+      "printed_page_number": "218",
+      "skip": false
+    },
+    {
+      "title": "IV Modeling Global Vegetation Change",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "12. Modeling Large-Scale Vegetation Dynamics",
+      "authors": [
+        "I. Colin Prentice",
+        "Robert A. Monserud",
+        "Thomas M. Smith",
+        "William R. Emanuel"
+      ],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "13. Rapid Simulations of Vegetation Stand Dynamics with Mixed Life-Forms",
+      "authors": [
+        "Mark R. Fulton"
+      ],
+      "printed_page_number": "251",
+      "skip": false
+    },
+    {
+      "title": "14. Plant Functional Types",
+      "authors": [
+        "T.M. Smith",
+        "H.H. Shugart",
+        "F.I. Woodward",
+        "P.J. Burton"
+      ],
+      "printed_page_number": "272",
+      "skip": false
+    },
+    {
+      "title": "15. Vegetation Functional Classification Systems as Approaches to Predicting and Quantifying Global Vegetation Change",
+      "authors": [
+        "J.P. Grime"
+      ],
+      "printed_page_number": "293",
+      "skip": false
+    },
+    {
+      "title": "16. Modeling Crop Responses to Environmental Change",
+      "authors": [
+        "Cynthia Rosenzweig"
+      ],
+      "printed_page_number": "306",
+      "skip": false
+    },
+    {
+      "title": "Concluding Comments",
+      "authors": [],
+      "printed_page_number": "323",
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "325",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

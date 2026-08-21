@@ -1,0 +1,345 @@
+{
+  "entries": [
+    {
+      "title": "Contents",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Series Preface",
+      "authors": [
+        "Sergio Díaz-Briquets",
+        "Sidney Weintraub"
+      ],
+      "printed_page_number": "ix",
+      "skip": true
+    },
+    {
+      "title": "Introduction",
+      "authors": [
+        "Sergio Díaz-Briquets",
+        "Sidney Weintraub"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "1 The Small Business Sector in Central America: A Diagnosis",
+      "authors": [
+        "Francisco A. Leguizamón"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "I. Introduction",
+      "authors": [],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "II. Relative Share",
+      "authors": [],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "III. Key Factors for the Development of S&MSBs",
+      "authors": [],
+      "printed_page_number": "14",
+      "skip": false
+    },
+    {
+      "title": "IV. Development Strategies",
+      "authors": [],
+      "printed_page_number": "20",
+      "skip": false
+    },
+    {
+      "title": "V. Barriers to the Development of S&MSBs",
+      "authors": [],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "VI. Conclusions and Outlook",
+      "authors": [],
+      "printed_page_number": "40",
+      "skip": false
+    },
+    {
+      "title": "Notes",
+      "authors": [],
+      "printed_page_number": "43",
+      "skip": true
+    },
+    {
+      "title": "2 Microenterprise and the Informal Sector in the Dominican Republic: Operation and Promotion Policy",
+      "authors": [
+        "Rolando Reyes"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "I. Introduction",
+      "authors": [],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "II. Microenterprise and the Informal Sector in the Dominican Republic: Composition and Basic Characteristics",
+      "authors": [],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "III. Policies to Promote Microenterprise and Informal Sector Development",
+      "authors": [],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "Notes",
+      "authors": [],
+      "printed_page_number": "64",
+      "skip": true
+    },
+    {
+      "title": "3 Remittance Inflows and Economic Development in Selected Anglophone Caribbean Countries",
+      "authors": [
+        "Wilbert O. Bascom"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "I. Introduction",
+      "authors": [],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "II. Review of the Literature",
+      "authors": [],
+      "printed_page_number": "74",
+      "skip": false
+    },
+    {
+      "title": "III. Monetary and Exchange Rate Policies",
+      "authors": [],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "IV. Size and Growth of Remittances",
+      "authors": [],
+      "printed_page_number": "82",
+      "skip": false
+    },
+    {
+      "title": "V. Facilitating Programs",
+      "authors": [],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "VI. Conclusion",
+      "authors": [],
+      "printed_page_number": "94",
+      "skip": false
+    },
+    {
+      "title": "Notes",
+      "authors": [],
+      "printed_page_number": "95",
+      "skip": true
+    },
+    {
+      "title": "4 Tropical Capitalists: U.S.-Bound Immigration and Small-Enterprise Development in the Dominican Republic",
+      "authors": [
+        "Alejandro Portes",
+        "Luis E. Guarnizo"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "I. Introduction",
+      "authors": [],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "II. Dominican Immigration",
+      "authors": [],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "III. Methodology",
+      "authors": [],
+      "printed_page_number": "108",
+      "skip": false
+    },
+    {
+      "title": "IV. The Dominican Immigrant Community of New York: Preliminary Findings",
+      "authors": [],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "V. The Immigrant Community and the Development of Dominican Small Enterprises",
+      "authors": [],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "VI. Conclusions",
+      "authors": [],
+      "printed_page_number": "120",
+      "skip": false
+    },
+    {
+      "title": "Notes",
+      "authors": [],
+      "printed_page_number": "128",
+      "skip": true
+    },
+    {
+      "title": "5 Small-Scale Industry and International Migration in Guadalajara, Mexico",
+      "authors": [
+        "Agustín Escobar Latapí",
+        "María de la O Martínez Castellanos"
+      ],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "I. Introduction",
+      "authors": [],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "II. Small-Scale Industry in Guadalajara",
+      "authors": [],
+      "printed_page_number": "138",
+      "skip": false
+    },
+    {
+      "title": "III. Small Industrialists, Migration and Their Firms",
+      "authors": [],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "IV. Workers and Migration",
+      "authors": [],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "V. International Migration in the 1982 Guadalajara Operative Labor Market",
+      "authors": [],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "VI. International Migration Among Informal Workers in 1985",
+      "authors": [],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "VII. International Migration Among Industrial Workers in Guadalajara and Atotonilco in 1987",
+      "authors": [],
+      "printed_page_number": "160",
+      "skip": false
+    },
+    {
+      "title": "VIII. The Work Force in Small-Scale Enterprises Studied in 1989",
+      "authors": [],
+      "printed_page_number": "160",
+      "skip": false
+    },
+    {
+      "title": "IX. Conclusions and Recommendations",
+      "authors": [],
+      "printed_page_number": "162",
+      "skip": false
+    },
+    {
+      "title": "Notes",
+      "authors": [],
+      "printed_page_number": "171",
+      "skip": true
+    },
+    {
+      "title": "6 Small Business Development in El Salvador: The Impact of Remittances",
+      "authors": [
+        "José Roberto López",
+        "Mitchell A. Seligson"
+      ],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "I. Introduction",
+      "authors": [],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "II. Study Design",
+      "authors": [],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "III. Characteristics of the Sample",
+      "authors": [],
+      "printed_page_number": "182",
+      "skip": false
+    },
+    {
+      "title": "IV. Volume and Importance of Remittances for Small Businesses",
+      "authors": [],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "V. The Importance of Remittances in Small Business Development",
+      "authors": [],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "VI. Stimulating the Productive Use of Remittances",
+      "authors": [],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "VII. Conclusion",
+      "authors": [],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "Notes",
+      "authors": [],
+      "printed_page_number": "204",
+      "skip": true
+    },
+    {
+      "title": "About the Editors and Contributors",
+      "authors": [],
+      "printed_page_number": "207",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

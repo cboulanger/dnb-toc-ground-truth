@@ -1,0 +1,686 @@
+{
+  "generated_at": 1787018809.965842,
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Geleitwort",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Helly Bruhn-Braas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Einleitung",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Torsten Fischer",
+        "Jens Lehmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Allgemeinp\u00e4dagogische Signaturen zu Schule und Lernen",
+      "printed_page_number": "21",
+      "source_page_index": -1,
+      "authors": [
+        "Karlheinz Ingenkamp"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Freiheit der p\u00e4dagogisch-psychologischen Forschung \u2013 Verfassungsauftrag und Realit\u00e4t",
+      "printed_page_number": "23",
+      "source_page_index": -1,
+      "authors": [
+        "Hartmut von Hentig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\"Ganztagsschule und mehr?\" \u2013 \u00dcber Leben und Lernen in Internatsschulen",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Winkel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wenn Norbert Lernen will ... wird aus Didaktik Mathetik Oder: Die Kritisch-Kommunikative Didaktik und ein kommunikativ-kritischer Kreisschulrat",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [
+        "Bernhard Sieland"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ungewolltes Lernen als Berufsrisiko \u2013 Lehrpersonen brauchen Professionelle Lerngemeinschaften, z.B. das Lehrerforum oder KESS",
+      "printed_page_number": "56",
+      "source_page_index": -1,
+      "authors": [
+        "Hermann Schwerpenh\u00e4user"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erlebnisse, Begegnisse \u2013 Skizzen zu einer kleinen Ph\u00e4nomenologie der Begegnung",
+      "printed_page_number": "65",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Salzmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sinn und Grenzen der Nachhaltigkeitsthematik f\u00fcr Bildung und Erziehung \u2013 Orientierungsprobleme eines Regionalen Umweltbildungszentrums",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Wernstedt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Begriff der Zukunft im deutschen bildungspolitischen Diskurs",
+      "printed_page_number": "84",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Mitter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Grenz\u00fcberschreitende Reisen zwischen Erkenntnisgewinn und Sinnest\u00e4uschung am Beispiel der P\u00e4dagogischen Studienreisen",
+      "printed_page_number": "94",
+      "source_page_index": -1,
+      "authors": [
+        "Horst Rumpf"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schule ist keine Lernfabrik",
+      "printed_page_number": "102",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Bewertungsprozesse und p\u00e4dagogische Diagnostik",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kritische Anmerkungen zu einer alten Frage: Brauchen wir eine p\u00e4dagogische Diagnostik?",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [
+        "Hannelore Besser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Deutscher Schulunterricht an jedem Ort der Welt \u2013 Eine (fast) unbekannte Organisation des Unterrichts",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [
+        "Carl Ludwig Furck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\"Leistung\" als p\u00e4dagogisches Problem: Zur aktuellen Situation des Leistungsprinzips",
+      "printed_page_number": "130",
+      "source_page_index": -1,
+      "authors": [
+        "Jens Lehmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Leistungserziehung als Leistungsdialog",
+      "printed_page_number": "140",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Rauschenberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das p\u00e4dagogische Problem der Leistung und die Bewegungskompetenz",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Klafti"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "F\u00f6rderung kognitiver F\u00e4higkeiten",
+      "printed_page_number": "164",
+      "source_page_index": -1,
+      "authors": [
+        "Karl Josef Klauer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Kunst, in Gesichtern zu lesen",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [
+        "Sven B\u00f6lte",
+        "Stefan Pforte"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. P\u00e4dagogische Orientierung als institutionalisierte Chance",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Engagement f\u00fcr die Orientierungsstufe \u2013 Ein Lehrst\u00fcck aufkl\u00e4rerischer P\u00e4dagogik",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [
+        "Manfred B\u00f6nsch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schulorganisation beeinflusst Schullaufbahnen und Bildungschancen",
+      "printed_page_number": "187",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Lindner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J\u00f6rg W. Ziegenspeck \u2013 Lehrer, Wissenschaftler, Bildungspolitiker Anmerkungen zum Zusammenhang von Erziehungswissenschaft, Bildungspolitik und Leidenschaft",
+      "printed_page_number": "197",
+      "source_page_index": -1,
+      "authors": [
+        "Eberhard Brandt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Orientierungsstufe \u2013 Ein tempor\u00e4rer Irrtum?",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [
+        "Eckhard Hildebrand"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Erlebnisp\u00e4dagogik und Erfahrungslernen \u2013 Facetten, Hintergr\u00fcnde, Chancen",
+      "printed_page_number": "209",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die \u00f6sterreichische Reformp\u00e4dagogik \u2013 Eine versch\u00fcttete Tradition",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [
+        "Erik Adam"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Leo Tolstoi und die Erlebnisp\u00e4dagogik \u2013 Oder: \u201eWie man es anf\u00e4ngt, Gedanken fl\u00fcssig zu machen.\u201c",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [
+        "Bernhard Suin de Boutemard"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die ideale Reihenfolge der T\u00e4tigkeiten \u2013 Ein Erlebnisfaktor",
+      "printed_page_number": "229",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Dollase"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Projekt \u201eImmanuel\u201c",
+      "printed_page_number": "234",
+      "source_page_index": -1,
+      "authors": [
+        "Wladimir Gilmanov"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00c4sthetische Erziehung und \u00e4sthetisches Erleben im (Sport)unterricht der Grundschule",
+      "printed_page_number": "243",
+      "source_page_index": -1,
+      "authors": [
+        "Reiner Hildebrandt-Stramann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Professioneller durch \u201eProblem-Based Learning\u201c (PBL)? Das andere Konzept zur Ausbildung von diplomp\u00e4dagogischen Managern",
+      "printed_page_number": "258",
+      "source_page_index": -1,
+      "authors": [
+        "Regine Astrid Schmidt",
+        "Karl-J. Kluge"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15 Jahre der p\u00e4dagogischen Renaissance: Analyse erlebnisp\u00e4dagogischer Projekte in Slowenien",
+      "printed_page_number": "269",
+      "source_page_index": -1,
+      "authors": [
+        "Mitja Krajncan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Freizeit \u2013 Erlebnis \u2013 Bildung: Professionalisierung neuer Arbeitspl\u00e4tze als Herausforderung Kooperation von Freizeit- & Erlebnisp\u00e4dagogik im Zeitalter der Globalisierung",
+      "printed_page_number": "280",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Nahrstedt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein Schiff f\u00fcr die Jugend der Welt \u2013 Eine Idee auf der Suche nach Verwirklichung",
+      "printed_page_number": "300",
+      "source_page_index": -1,
+      "authors": [
+        "Anja Sanders"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Begegnungen \u2013 P\u00e4dagogische Erlebnisse",
+      "printed_page_number": "309",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Zimmer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wegbereiter \u2013 Wegbegleiter",
+      "printed_page_number": "320",
+      "source_page_index": -1,
+      "authors": [
+        "Hergen Albrecht"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ad fontes ...",
+      "printed_page_number": "323",
+      "source_page_index": -1,
+      "authors": [
+        "Hellmut Br\u00fcckner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Konzepte der Ermutigung f\u00fcr den schulischen Alltag \u2013 Ein sozialp\u00e4dagogischer Ansatz erlebniszentrierter Praxis",
+      "printed_page_number": "330",
+      "source_page_index": -1,
+      "authors": [
+        "Theo Eckmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Reformp\u00e4dagogik und \u00f6kologischer Humanismus als Weg ethischer Erziehung",
+      "printed_page_number": "339",
+      "source_page_index": -1,
+      "authors": [
+        "Wolf-Dieter Hasenclever"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zum Bock-G\u00e4rtner-Prinzip: Oder das Erlebnis P\u00e4dagogik",
+      "printed_page_number": "354",
+      "source_page_index": -1,
+      "authors": [
+        "Inga-Lisa Jochimsen",
+        "Lisa Jochimsen",
+        "Peter Jochimsen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schule und gesellschaftlicher Fortschritt \u2013 John Deweys \u201ep\u00e4dagogisches Glaubensbekenntnis\u201c",
+      "printed_page_number": "366",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Knoll"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kontinuit\u00e4t und Event im Widerspruch",
+      "printed_page_number": "376",
+      "source_page_index": -1,
+      "authors": [
+        "Heinrich Kupffer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erlebnisp\u00e4dagogik in der universit\u00e4ren Ausbildung: Wissenstransfer und europ\u00e4ische Hochschulreform",
+      "printed_page_number": "381",
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Nasser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein Schiff kommt und nimmt Dich mit \u2013 Segeln auf dem Dreimast \u2013 Toppsgelschoner Thor Heyerdahl \u2013 Erziehung durch die See \u2013",
+      "printed_page_number": "388",
+      "source_page_index": -1,
+      "authors": [
+        "Detlef Soitzek"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erfahrung und Lernen in p\u00e4dagogischen Feldern \u2013 Zur reflexiven Erarbeitung von Erfahrung \u2013",
+      "printed_page_number": "392",
+      "source_page_index": -1,
+      "authors": [
+        "Friedhelm Beiner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00dcber die Troika von Individualp\u00e4dagogik, Sozialp\u00e4dagogik, Globalp\u00e4dagogik mit einem Blick auf die Erlebnisp\u00e4dagogik",
+      "printed_page_number": "399",
+      "source_page_index": -1,
+      "authors": [
+        "Hansjosef Buchkremer",
+        "Michaela Emmerich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hochschulbezogene Erlebnisp\u00e4dagogik und universit\u00e4re Lehrerbildung",
+      "printed_page_number": "430",
+      "source_page_index": -1,
+      "authors": [
+        "Torsten Fischer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erlebnis und Reflexion: Die Schulp\u00e4dagogik Friedrich Fr\u00f6bels",
+      "printed_page_number": "439",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Heiland"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "P\u00e4dagogische und therapeutische Aspekte des Zirkusspiels",
+      "printed_page_number": "449",
+      "source_page_index": -1,
+      "authors": [
+        "Ernst J. Kiphard"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Notfallplan als professionelles Instrument zur Pr\u00e4vention und Intervention im Sicherheits- und Risiko-Management von Outdoor-Veranstaltungen",
+      "printed_page_number": "455",
+      "source_page_index": -1,
+      "authors": [
+        "Mario K\u00f6lblinger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erlebnisp\u00e4dagogik im Snoezelenraum",
+      "printed_page_number": "464",
+      "source_page_index": -1,
+      "authors": [
+        "Krista Mertens",
+        "Anita Mukherjee"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das \u201eKollo\u201c \u2013 Freiluftleben in schwedischen Sommerkolonien",
+      "printed_page_number": "473",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Rowe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\"Lebenslanges Lernen \u2013 Drohung oder Zukunftsperspektive?\"",
+      "printed_page_number": "476",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Wiedenmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das \u201eSchulische Unterst\u00fctzungsb\u00fcro\u201c: Eine schulische Innovation zur Lern- und Leistungsf\u00f6rderung",
+      "printed_page_number": "483",
+      "source_page_index": -1,
+      "authors": [
+        "Otto Herz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Heimat",
+      "printed_page_number": "488",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Schreier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zum Streitfall Outward Bound \u2013 Eine grunds\u00e4tzliche Besinnung auf das, was es ist und was es k\u00f6nnte",
+      "printed_page_number": "492",
+      "source_page_index": -1,
+      "authors": [
+        "Hermann R\u00f6hrs"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Evaluation und Transfer in Erlebnisp\u00e4dagogik und in Outdoortrainings",
+      "printed_page_number": "503",
+      "source_page_index": -1,
+      "authors": [
+        "Christine Schwarzer",
+        "Joachim Koblitz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Glen Mills Schools",
+      "printed_page_number": "512",
+      "source_page_index": -1,
+      "authors": [
+        "Herbert E. Colla"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hundert Jahre Land\u0435\u0440ziehungsheime \u2013 P\u00e4dagogik von gestern oder P\u00e4dagogik f\u00fcr morgen",
+      "printed_page_number": "541",
+      "source_page_index": -1,
+      "authors": [
+        "Gerold Becker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Vom Dschungel zur ganzheitlichen Entwicklungsf\u00f6rderung",
+      "printed_page_number": "559",
+      "source_page_index": -1,
+      "authors": [
+        "Pamela Brozio"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Antwort auf PISA \u2013 Eine Reise durch den Dschungel? Ein Projekt zur psychomotorischen Entwicklungsf\u00f6rderung von Kindern in Kooperation mit Kindertageseinrichtungen in L\u00fcneburg",
+      "printed_page_number": "565",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Preu\u00df"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Starke Kinder \u2013 Lebendige Stadt",
+      "printed_page_number": "574",
+      "source_page_index": -1,
+      "authors": [
+        "Inga Meinke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der 1. Aktions- und Erlebnisraum f\u00fcr Kinder und Jugendliche: Audim\u00e4Xchen",
+      "printed_page_number": "577",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Von der Reform zur Restoration?",
+      "printed_page_number": "587",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Von der Reform zur Restoration?",
+      "printed_page_number": "589",
+      "source_page_index": -1,
+      "authors": [
+        "Torsten Fischer",
+        "Jens Lehmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. Biographische Notizen zu J\u00f6rg W. Ziegenspeck",
+      "printed_page_number": "591",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "printed_page_number": "597",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

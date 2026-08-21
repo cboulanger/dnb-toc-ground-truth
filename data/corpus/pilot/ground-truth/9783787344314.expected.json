@@ -1,0 +1,123 @@
+{
+  "entries": [
+    {
+      "title": "Einleitung. Die Formen der Biorobotik",
+      "authors": [
+        "Marco Tamborini"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Danksagung",
+      "authors": [],
+      "printed_page_number": "14",
+      "skip": true
+    },
+    {
+      "title": "Biohybride Technologien zur Unterst\u00fctzung von Natur und Mensch",
+      "authors": [
+        "Michael Vogrin",
+        "Martina Szopek",
+        "Matthias Becher",
+        "Martin Stefanec",
+        "Dajana Lazic",
+        "Valerin Stokanic",
+        "Daniel Nicolas Hofstadler",
+        "Laurenz Fedotoff",
+        "Thomas Schmickl"
+      ],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "Automatenbau zwischen Illusion und Imitation. Zur Debatte um den Modellcharakter von (K\u00f6rper-)Automaten",
+      "authors": [
+        "Lukas Geiszler"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "Technoanthropologie. Was hei\u00dft die Verschmelzung von Mensch und Maschine f\u00fcr die menschliche Natur?",
+      "authors": [
+        "Fiorella Battaglia"
+      ],
+      "printed_page_number": "56",
+      "skip": false
+    },
+    {
+      "title": "Androide Roboter. Menschliche Assoziationen und ethische Aspekte der Gestaltung",
+      "authors": [
+        "Ruth Stock-Homburg"
+      ],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "\u00bbIm Anfang war die Tat\u00ab. Form und Materie der Biorobotik",
+      "authors": [
+        "Marco Tamborini"
+      ],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "Epistemische Br\u00fccken zwischen dem Verst\u00e4ndnis von Artefakten und der Biologie. Welche Teleologie brauchen wir?",
+      "authors": [
+        "Jos\u00e9 Antonio P\u00e9rez-Escobar"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "Interaktive humanoide Biorobotik. Vom unruhigen COG zum g\u00e4hnenden Roboter",
+      "authors": [
+        "Edoardo Datteri"
+      ],
+      "printed_page_number": "122",
+      "skip": false
+    },
+    {
+      "title": "Bioroboter. Neue Perspektiven auf das Verh\u00e4ltnis von Leben und Technik",
+      "authors": [
+        "Johanna Seifert",
+        "Orsolya Friedrich"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "Soziale Erfahrung? Embodiment und Einf\u00fchlung in der Mensch-Maschinen-Interaktion",
+      "authors": [
+        "Philipp Schmidt"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "Sophia verstehen? Menschliche Interaktion mit k\u00fcnstlichen Systemen",
+      "authors": [
+        "Thomas Fuchs"
+      ],
+      "printed_page_number": "182",
+      "skip": false
+    },
+    {
+      "title": "Artifizielle Empathie auf dem Weg zur Biorobotik",
+      "authors": [
+        "Catrin Misselhorn"
+      ],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "Autor*innen",
+      "authors": [],
+      "printed_page_number": "225",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

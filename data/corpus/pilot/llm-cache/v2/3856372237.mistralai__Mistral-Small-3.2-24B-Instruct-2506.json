@@ -1,0 +1,310 @@
+{
+  "generated_at": 1787247310.536439,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "VII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Tabula gratulatoria",
+      "printed_page_number": "IX",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "I. Verfassungs-, Kirchen- und Verkehrsgeschichte",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Churr\u00e4tien im \u00dcbergang von der Sp\u00e4tantike zum Mittelalter nach den Schriftquellen.",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur F\u00fchrungsschicht im fr\u00fchmittelalterlichen R\u00e4tien.",
+      "printed_page_number": "21",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Verfassungsgeschichte des merowingischen R\u00e4tien.",
+      "printed_page_number": "32",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Einf\u00fchrung der Grafschaftsverfassung in R\u00e4tien und die Klageschriften Bischof Viktors III. von Chur.",
+      "printed_page_number": "44",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Datum der Urkunde Kaiser Lothars I. f\u00fcr Volk und Bischof von Chur (BM.2 1096).",
+      "printed_page_number": "110",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das churr\u00e4tische Reichsgutsurbar als Quelle zur Geschichte des Vertrags von Verdun.",
+      "printed_page_number": "114",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nochmals zum churr\u00e4tischen Reichsgutsurbar aus der Mitte des 9. Jhs.",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hostisana und pretium comitis. Ein Beitrag zur Reichsgutsforschung.",
+      "printed_page_number": "187",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Schicksal von Reichsgut und Reichsrechten in R\u00e4tien.",
+      "printed_page_number": "197",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Schicksal bisch\u00f6flicher Eigenkirchen (Rhein und Pitasch).",
+      "printed_page_number": "226",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pitasch \u2013 Poitiers.",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Flurnamen als Zeugen ehemaligen K\u00f6nigsgutes in R\u00e4tien.",
+      "printed_page_number": "241",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verkehrsorganisation in R\u00e4tien zur Karolingerzeit.",
+      "printed_page_number": "270",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Valserberg-Route im Fr\u00fchmittelalter.",
+      "printed_page_number": "300",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Bischofseinsetzung im 9. Jahrhundert.",
+      "printed_page_number": "302",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mainz und Chur im Mittelalter.",
+      "printed_page_number": "307",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Herrschaftsbildung in R\u00e4tien.",
+      "printed_page_number": "326",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nobilis, edel, fry.",
+      "printed_page_number": "344",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Burgen im mittelalterlichen R\u00e4tien.",
+      "printed_page_number": "354",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das B\u00fcndnis der Rheinwaldner und Safier mit den r\u00e4tischen Freiherren vom Jahre 1360.",
+      "printed_page_number": "374",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. Rezeption des R\u00f6mischen Rechts, Notariat",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "L'influence du droit romain en Rh\u00e9tie au XIIIe et au commencement du XIVe si\u00e8cle.",
+      "printed_page_number": "387",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Verzicht (renuntiatio) auf Exceptionen in den b\u00fcndnerischen Urkunden des Mittelalters. Die Gebiete s\u00fcdlich der Alpen.",
+      "printed_page_number": "406",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Verzicht (renuntiatio) auf Exceptionen in den b\u00fcndnerischen Urkunden des Mittelalters. Die Gebiete n\u00f6rdlich der Alpen.",
+      "printed_page_number": "444",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die erbrechtliche Repr\u00e4sentation in Graub\u00fcnden w\u00e4hrend des Mittelalters.",
+      "printed_page_number": "470",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Ann\u00e4herung der sp\u00e4tmittelalterlichen Erbleihe im nordalpinen Graub\u00fcnden an das freie Grundeigentum.",
+      "printed_page_number": "505",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "R\u00f6mischrechtlicher Heimfall in der r\u00e4tischen Erbleihe des Sp\u00e4tmittelalters.",
+      "printed_page_number": "523",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wandlung der Rechtssprache im 13. Jahrhundert. Nach b\u00fcndnerischen Quellen.",
+      "printed_page_number": "535",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zum Notariat im mittelalterlichen R\u00e4tien.",
+      "printed_page_number": "551",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00d6ffentliche Notare in der Bischofsstadt Chur im 14. Jahrhundert.",
+      "printed_page_number": "563",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Notariat und Notare im westlichen Vinschgau im 13. und 14. Jahrhundert.",
+      "printed_page_number": "574",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zum Problem der Schriftsprachen im mittelalterlichen R\u00e4tien.",
+      "printed_page_number": "585",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bibliographie Otto P. Clavadetscher (seit 1985)",
+      "printed_page_number": "591",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Register der Personen- und Ortsnamen",
+      "printed_page_number": "593",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

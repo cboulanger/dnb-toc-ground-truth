@@ -1,0 +1,118 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "1 Soziologie und Psychiatrie",
+      "authors": [
+        "Norbert Elias"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "2 Soziologie und Psychoanalyse",
+      "authors": [
+        "Roger Bastide"
+      ],
+      "printed_page_number": "42",
+      "skip": false
+    },
+    {
+      "title": "3 Freud und der Beginn einer psychoanalytischen Sozialpsychologie",
+      "authors": [
+        "Alfred Lorenzer"
+      ],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "4 Entwicklungen einer psychoanalytischen Sozialpsychologie",
+      "authors": [
+        "Klaus Horn"
+      ],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "5 Die Anwendung psychoanalytischer Begriffe in der Sozialwissenschaft",
+      "authors": [
+        "Heinz Hartmann"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "6 Der Beitrag der Psychoanalyse zu den Sozialwissenschaften",
+      "authors": [
+        "Talcott Parsons"
+      ],
+      "printed_page_number": "96",
+      "skip": false
+    },
+    {
+      "title": "7 Psychoanalyse versus Sozialanalyse — Das Problem der Aggression",
+      "authors": [
+        "Enno Schwanenberg"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "8 Psychoanalyse und Historischer Materialismus",
+      "authors": [
+        "Helmut Dahmer"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "9 Zur Problemstellung einer Kritischen Theorie der Psychoanalyse",
+      "authors": [
+        "Hans Kilian"
+      ],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "10 Psychoanalyse, Geschichte und Politikwissenschaft",
+      "authors": [
+        "Arnold A. Rogow"
+      ],
+      "printed_page_number": "124",
+      "skip": false
+    },
+    {
+      "title": "11 Auf dem Weg zu einem soziologischen Verständnis der Psychoanalyse",
+      "authors": [
+        "Peter L. Berger"
+      ],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "Quellennachweis der abgedruckten Beiträge",
+      "authors": [],
+      "printed_page_number": "169",
+      "skip": true
+    },
+    {
+      "title": "Auswahlbibliographie",
+      "authors": [],
+      "printed_page_number": "169",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

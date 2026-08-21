@@ -1,0 +1,694 @@
+{
+  "generated_at": 1787011843.602676,
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "V",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "printed_page_number": "XIII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "GELEITWORTE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Geleitwort des Ministers der Justiz des Landes Nordrhein-Westfalen",
+      "printed_page_number": "XVII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": false
+    },
+    {
+      "title": "Geleitwort des Pr\u00e4sidenten des Bundesfinanzhofs",
+      "printed_page_number": "XIX",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": false
+    },
+    {
+      "title": "Geleitwort des Oberfinanzpr\u00e4sidenten der Oberfinanzdirektion Nordrhein-Westfalen",
+      "printed_page_number": "XXIII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": false
+    },
+    {
+      "title": "Geleitwort des Pr\u00e4sidenten der Steuerberaterkammer Westfalen-Lippe",
+      "printed_page_number": "XXV",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": false
+    },
+    {
+      "title": "Geleitwort des Pr\u00e4sidenten des Steuerberaterverbands Westfalen-Lippe e.V.",
+      "printed_page_number": "XXVII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": false
+    },
+    {
+      "title": "I. GRUND- UND VERFASSUNGSFRAGEN DER (FINANZ-)GERICHTSBARKEIT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Christian Wolsztynski/Johannes Haferkamp",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Wolsztynski",
+        "Johannes Haferkamp"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Moderne Steuerrechtsschutz \u2013 Was die Verfahrensbeteiligten und die Gesellschaft von einer bedarfs- und zeitgem\u00e4\u00df agierenden Finanzgerichtsbarkeit erwarten d\u00fcrfen",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Heinrich Weber-Grellet",
+      "printed_page_number": "53",
+      "source_page_index": -1,
+      "authors": [
+        "Heinrich Weber-Grellet"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Institutionelle Unabh\u00e4ngigkeit der Justiz als Verfassungsgebot",
+      "printed_page_number": "53",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Martin Coenen",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Coenen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Finanzgerichtsprozess im digitalen Wandel",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. VERFASSUNGRECHTSSCHUTZ IN STEUERSACHEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sascha Bleschick",
+      "printed_page_number": "91",
+      "source_page_index": -1,
+      "authors": [
+        "Sascha Bleschick"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Typisierungsbefugnis des Steuergesetzgebers in der Rechtsprechung des Bundesverfassungsgerichts \u2013 Systematische Analyse der Rechtsprechung beider Senaste des Bundesverfassungsgerichts zur Zul\u00e4ssigkeit von Vereinfachungswecknormen im Steuerrecht",
+      "printed_page_number": "91",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Joachim English",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim English"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "K\u00f6rperschaftsteueroption: Gleichheitswidrige Besteuerung nach Wahl oder notwendiges Gleichstellungsvehikel?",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. DAS PROZESSRECHT DER FINANZGERICHTSBARKEIT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Roman Seer",
+      "printed_page_number": "129",
+      "source_page_index": -1,
+      "authors": [
+        "Roman Seer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verfassungsrechtsschutz durch die Finanzgerichte",
+      "printed_page_number": "129",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Reimer Stalbold",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "Reimer Stalbold"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Liegt die neuere Rechtsprechung des Ersten und des Zweiten Senats des BVerfG zur unechten R\u00fcckwirkung im Steuerrecht auf einer Linie?",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Thomas Banke/Stefan Pichler",
+      "printed_page_number": "165",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Banke",
+        "Stefan Pichler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gew\u00e4hrung effektiven Rechtsschutzes im finanzgerichtlichen Eilverfahren \u2013 zentrale Problemkreise",
+      "printed_page_number": "165",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Andreas Frantzmann",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Frantzmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gerichtlicher Pr\u00fcfungsumfang bei Klagen gegen Bescheide \u00fcber die gesonderte und einheitliche Feststellung von Besteuerungsgrundlagen und damit verbundene Feststellungsbescheide",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sabine Haunhorst",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [
+        "Sabine Haunhorst"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rechtsschutz f\u00fcr Mitunternehmer(schaften) \u2013 Verfahrensrechtliche Problemzonen und Stolpersteine",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Simon Kempny",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [
+        "Simon Kempny"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Beh\u00f6rdenprinzip in der Finanzgerichtsordnung \u2013 Zur Entstehungsgeschichte einer prozessrechtlichen Besonderheit",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gregor N\u00f6cker",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [
+        "Gregor N\u00f6cker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die \u201eeigene\u201c Sch\u00e4tzungsbefugnis des Finanzrichters",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fabian Schmitz-Herscheidt",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [
+        "Fabian Schmitz-Herscheidt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Videoverhandlung: Moderne, digitale und b\u00fcrgernahe Justiz?",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Thomas Stapperfend",
+      "printed_page_number": "253",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Stapperfend"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Einsatz von Videokonferenztechnik im finanzgerichtlichen Verfahren",
+      "printed_page_number": "253",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Alexander Zapf",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [
+        "Alexander Zapf"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das \u201eIn Camera\u201c-Verfahren \u2013 Licht im Dunkeln einer eher Unbekannten",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IV. RECHTSSCHUTZ IM STEUERVERFAHRENS- UND INSOLVENZSTEUERRECHT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ingo Oellerich",
+      "printed_page_number": "287",
+      "source_page_index": -1,
+      "authors": [
+        "Ingo Oellerich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Korrektur bestandskr\u00e4ftiger Feststellungen des steuerlichen Einlagekontos nach \u00a7 129 AO \u2013 Sind noch Fragen offen?",
+      "printed_page_number": "287",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Franziska von Freeden",
+      "printed_page_number": "299",
+      "source_page_index": -1,
+      "authors": [
+        "Franziska von Freeden"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Modernisierung der Au\u00dfenpr\u00fcfung \u2013 Gesetzgeberische Reformen und aktuelle Rechtsprechung",
+      "printed_page_number": "299",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christoph Uh\u00e4nder",
+      "printed_page_number": "315",
+      "source_page_index": -1,
+      "authors": [
+        "Christoph Uh\u00e4nder"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rechtsschutz im Insolvenzsteuerrecht \u2013 Gesetzgeber, Finanzverwaltung und Finanzgerichtsbarkeit als Akteure",
+      "printed_page_number": "315",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "V. RECHTSSCHUTZ IN ERTRAGSTEUERSACHEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Philipp B\u00f6wing-Schmalenbrock",
+      "printed_page_number": "335",
+      "source_page_index": -1,
+      "authors": [
+        "Philipp B\u00f6wing-Schmalenbrock"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fahrrad\u00fcberlassung an Arbeitnehmer und die Grenzen des Rechtsstaats \u2013 \u00dcberlegungen zur Einnahmebewertung nach Durchschnittswerten (\u00a7 8 Abs. 2 S. 10 EStG)",
+      "printed_page_number": "335",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christian Jahndorf",
+      "printed_page_number": "349",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Jahndorf"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Finanzgericht M\u00fcnster und der Weihnachtsmarkt \u2013 Ein Beitrag zu Neben- und Hilfsgesch\u00e4ften im Rahmen der erweiterten gewerbesteuerlichen K\u00fcrzung nach \u00a7 9 Nr. 1 S. 2 GewStG",
+      "printed_page_number": "349",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jan-Hendrik Kister",
+      "printed_page_number": "363",
+      "source_page_index": -1,
+      "authors": [
+        "Jan-Hendrik Kister"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Entwicklung der steuerlichen Behandlungen von Gesellschafter-Finanzierungshilfen im Spannungsfeld zwischen \u00a7 17 und \u00a7 20 EStG",
+      "printed_page_number": "363",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Egmont Kulosa",
+      "printed_page_number": "379",
+      "source_page_index": -1,
+      "authors": [
+        "Egmont Kulosa"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Vorbereitung grundlegender Entscheidungen des Bundesfinanzhofs durch das Finanzgericht M\u00fcnster",
+      "printed_page_number": "379",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jens Reddig",
+      "printed_page_number": "393",
+      "source_page_index": -1,
+      "authors": [
+        "Jens Reddig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Entwicklungen in der Rechtsprechung des BFH zur Besteuerung der Eink\u00fcnfte aus \u00a7 17 EStG",
+      "printed_page_number": "393",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jutta Rengers",
+      "printed_page_number": "411",
+      "source_page_index": -1,
+      "authors": [
+        "Jutta Rengers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 8 d KStG: Verfassungswidrige Benachteiligung von Kapitalgesellschaften mit mehreren Gesch\u00e4ftsbetrieben?",
+      "printed_page_number": "411",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VI. RECHTSSCHUTZ IN KIRCHENSTEUERSACHEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Klaus J. Wagner",
+      "printed_page_number": "427",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus J. Wagner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00dcber das Nettoprinzip bei der \u201eLohnsteuer\u201c \u2013 und einige Meilensteine der Rechtsschutzgew\u00e4hrung",
+      "printed_page_number": "427",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Meinhard Wittwer",
+      "printed_page_number": "441",
+      "source_page_index": -1,
+      "authors": [
+        "Meinhard Wittwer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Werbungskostenabzug bei einer doppelten Haushaltsf\u00fchrung",
+      "printed_page_number": "441",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VII. RECHTSSCHUTZ IN UMSATZSTEUERSACHEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Marcel Krumm",
+      "printed_page_number": "457",
+      "source_page_index": -1,
+      "authors": [
+        "Marcel Krumm"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rechtsschutz in Kirchensteuersachen",
+      "printed_page_number": "457",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dominik Ortwald/Thomas Wiesch",
+      "printed_page_number": "479",
+      "source_page_index": -1,
+      "authors": [
+        "Dominik Ortwald",
+        "Thomas Wiesch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Digitalisierung und Umsatzsteuer",
+      "printed_page_number": "479",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Benno Scharpenberg",
+      "printed_page_number": "499",
+      "source_page_index": -1,
+      "authors": [
+        "Benno Scharpenberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die umsatzsteuerliche Organschaft: Ein Thema f\u00fcr s\u00e4mtliche Instanzen, vom Finanzgericht M\u00fcnster bis zum EuGH",
+      "printed_page_number": "499",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Thomas Waza",
+      "printed_page_number": "513",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Waza"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u201eFerkeleien im Steuerrecht\u201c \u2013 Umsatzsteuerrechtliche Problemfelder der Land- und Forstwirtschaft",
+      "printed_page_number": "513",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VIII. RECHTSSCHUTZ IN ZOLLSACHEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Hans-Michael Wolffgang",
+      "printed_page_number": "527",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Michael Wolffgang"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rechtsschutz in Zollsachen",
+      "printed_page_number": "527",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

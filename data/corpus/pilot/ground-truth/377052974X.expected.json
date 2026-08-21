@@ -1,0 +1,156 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Hubert Cancik: Die Funktion der judischen Bibel f\u00fcr die Geschichtsschreibung der Christen in der Antike",
+      "authors": [
+        "Hubert Cancik"
+      ],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "Norbert Wokart: Bibel, Hegel und Groschenroman. Zum Wandel der Erl\u00f6sungsidee",
+      "authors": [
+        "Norbert Wokart"
+      ],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "Josef Mautner: \"Ein Kreuz ist ein Kreuz ist ein Kreuz\". Eine Dekonstruktion",
+      "authors": [
+        "Josef Mautner"
+      ],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Richard Faber: Profane Theologie hellenischer, christlicher und j\u00fcdischer Provenienz. \u00dcber Walter Benjamins Kafka-Studien",
+      "authors": [
+        "Richard Faber"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Ansgar Hillach: \"Der wahre Gott Pan\". Calder\u00f3ns dramatische Erz\u00e4hlung des Heilsmysteriums am Leitfaden eines Mythenkonstrukts",
+      "authors": [
+        "Ansgar Hillach"
+      ],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "Aleida Assmann: Jordan und Helikon - der Kampf der zwei Kulturen in der abendl\u00e4ndischen Tradition",
+      "authors": [
+        "Aleida Assmann"
+      ],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "Herfried M\u00fcnkler: Moses, David und Ahab. Biblische Gestalten in der politischen Theorie der fr\u00fchen Neuzeit",
+      "authors": [
+        "Herfried M\u00fcnkler"
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "G\u00fcnter Hartung: Heinrich Heine und die Bibel",
+      "authors": [
+        "G\u00fcnter Hartung"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "Bernhard Kytzler: Moderne Psalmen",
+      "authors": [
+        "Bernhard Kytzler"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Hermann Kurzke: Mythos als Stigma-Management und Identit\u00e4tspolitik. Zum Verh\u00e4ltnis von Leben und Werk in Thomas Manns biblischem Roman Joseph und seine Br\u00fcder",
+      "authors": [
+        "Hermann Kurzke"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "Elisabeth Drave: Strukturen j\u00fcdischer Bibelauslegung in Thomas Manns Roman \"Joseph und seine Br\u00fcder\". Das Beispiel Abraham",
+      "authors": [
+        "Elisabeth Drave"
+      ],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "Gundula van den Berg: Ver-kehrung. Zu Elie Wiesels \"neuem Midrasch\" in Le Cr\u00e9puscule, au loin",
+      "authors": [
+        "Gundula van den Berg"
+      ],
+      "printed_page_number": "215",
+      "skip": false
+    },
+    {
+      "title": "Walter Dietrich: Der Fall des Riesen Goliat: Biblische und nachbiblische Erz\u00e4hlversuche",
+      "authors": [
+        "Walter Dietrich"
+      ],
+      "printed_page_number": "241",
+      "skip": false
+    },
+    {
+      "title": "Willy Schottroff: \"Offenbarung Gottes ist Morgenroth, Aufgang der Fr\u00fchlingssonne f\u00fcr Menschengeschlecht\". Johann Gottfried Herder und die biblische Urgeschichte",
+      "authors": [
+        "Willy Schottroff"
+      ],
+      "printed_page_number": "259",
+      "skip": false
+    },
+    {
+      "title": "J\u00fcrgen Ebach: Fremde in Moab - Fremde aus Moab. Das Buch Ruth als politische Literatur",
+      "authors": [
+        "J\u00fcrgen Ebach"
+      ],
+      "printed_page_number": "277",
+      "skip": false
+    },
+    {
+      "title": "Historisch-theoretische \u00dcberlegungen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Stationen neuzeitlicher Bibelrezeption",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Bibel als Literatur",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

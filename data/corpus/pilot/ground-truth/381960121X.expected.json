@@ -1,0 +1,114 @@
+{
+  "entries": [
+    {
+      "title": "List of abbreviations",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "I. INTRODUCTION",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. \"Obscured in whiskey, mist and misery\" The role of Scotland and Ireland in British History",
+      "authors": ["RONALD G. ASCH"],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "II. THE WAR OF THE THREE KINGDOMS AND THE BRITISH PROBLEM IN THE 17TH CENTURY",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "2. The Attempted Anglicization of Ireland in the Seventeenth Century: an Exemplar of \"British History\"",
+      "authors": ["NICHOLAS CANNY"],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "3. The Britishness of the English Revolution 1640-1660",
+      "authors": ["JOHN MORRILL"],
+      "printed_page_number": "83",
+      "skip": false
+    },
+    {
+      "title": "4. British History: a Sceptical Comment",
+      "authors": ["KEITH M. BROWN"],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "III. THE MARGINS OF THE BRITISH WORLD IN THE 18TH CENTURY",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "5. A British Legal Culture Overseas? Law and Society in the North American Colonies",
+      "authors": ["ROBERT V. FRIEDEBURG"],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "6. Scotland in the Late Eighteenth Century: Integration, Modernization and Opposition",
+      "authors": ["MICHAEL WAGNER"],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "7. The Protestant Ascendancy in Ireland from the American Revolution to the Act of Union 1776-1801",
+      "authors": ["RONALD G. ASCH"],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "IV. INTEGRATION AND REGIONAL NATIONALISM IN THE 19TH AND EARLY 20TH CENTURIES",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "8. Nineteenth-Century Scotland: Political Unionism and Cultural Nationalism, 1843-1906",
+      "authors": ["CHRISTOPHER HARVIE"],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "9. The Home Rule Crisis before the First World War",
+      "authors": ["SABINE KRUMWIEDE"],
+      "printed_page_number": "229",
+      "skip": false
+    },
+    {
+      "title": "10. Commentary",
+      "authors": ["R. F. FOSTER"],
+      "printed_page_number": "265",
+      "skip": false
+    },
+    {
+      "title": "V. CONCLUSION: A BRITISH IDENTITY?",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "11. Britishness and Otherness: an Argument",
+      "authors": ["LINDA COLLEY"],
+      "printed_page_number": "273",
+      "skip": false
+    },
+    {
+      "title": "Note on Contributors",
+      "authors": [],
+      "printed_page_number": "297",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,143 @@
+{
+  "generated_at": 1787256829.290092,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Frank Weidner: Zur Einf\u00fchrung in das Grundverst\u00e4ndnis der Praxistisziplin Pflege",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Frank Weidner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beitr\u00e4ge zum klinischen Handlungsfeld der Praxistisziplin Pflege",
+      "printed_page_number": "23",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Stephan Enzweiler: \u201eWie kannst du die Mutter ins Heim geben?\u201c \u2013 Die Bedeutung des Heimeinzugs f\u00fcr die Angeh\u00f6rigen",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [
+        "Stephan Enzweiler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Luise Frenger: Pl\u00f6tzlich sieht alles anders aus \u2013 Die Bedeutung des Neglect-Syndroms f\u00fcr den Patienten",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Luise Frenger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Andreas M\u00fcller-Wille: Wenn die Sprache fehlt und nichts mehr geht \u2013 Aphasie und Apraxie aus der Sicht von Patienten, Pflegenden und Angeh\u00f6rigen",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas M\u00fcller-Wille"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rosemarie Gerschermann: Vom Schlag getroffen \u2013 Gedanken, Gef\u00fchle und Einstellungen von Schlaganfallpatienten",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "Rosemarie Gerschermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beitr\u00e4ge zum manageriellen Handlungsfeld der Praxistisziplin Pflege",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Joachim Pr\u00f6l\u00df und Wolfgang Schaefer: Personalentwicklung durch innerbetriebliche Fort- und Weiterbildung?! Eine empirische Studie zur inhaltlichen und organisatorischen Ausgestaltung der IBF in Krankenh\u00e4usern",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Pr\u00f6l\u00df",
+        "Wolfgang Schaefer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Claudia Artz: Nachgefragt \u2013 Was denken F\u00fchrungskr\u00e4fte einer Universit\u00e4tsklinik zum Thema Qualit\u00e4tsmanagement und Professionalit\u00e4t?",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [
+        "Claudia Artz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "G\u00fcnter Hegmann: Das Corporate-Identity-Konzept und das station\u00e4re Hospiz \u2013 die Suche nach einer stimmigen Identit\u00e4t",
+      "printed_page_number": "203",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter Hegmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "printed_page_number": "231",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Studieng\u00e4nge Pflegemanagement und Pflegep\u00e4dagogik an der KFH NW in K\u00f6ln",
+      "printed_page_number": "233",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Hinweise zu den AutorInnen",
+      "printed_page_number": "239",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

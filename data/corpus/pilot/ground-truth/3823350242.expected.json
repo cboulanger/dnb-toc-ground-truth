@@ -1,0 +1,414 @@
+{
+  "entries": [
+    {
+      "title": "Teil I: Exempla literaturgeschichtlicher Praxis Motiv-, struktur- und denkgeschichtliche Studien, Interpretation, Edition, Kritik",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Bernhard Dietrich Haage (Mannheim)",
+      "authors": [
+        "Bernhard Dietrich Haage"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Feimurgan und Hurlewegin: die heilkundige Frau in der deutschen Literatur des Mittelalters",
+      "authors": [
+        "Bernhard Dietrich Haage"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Burkhardt Krause (Mannheim)",
+      "authors": [
+        "Burkhardt Krause"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Das Eine und die Teile. Der Bast in Gottfrieds 'Tristan'. Variæ lectiones",
+      "authors": [
+        "Burkhardt Krause"
+      ],
+      "printed_page_number": "18",
+      "skip": false
+    },
+    {
+      "title": "Ferdinand van Ingen (Amsterdam)",
+      "authors": [
+        "Ferdinand van Ingen"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Engelsturz. Zu einem Sinnkomplex bei Jacob Böhme",
+      "authors": [
+        "Ferdinand van Ingen"
+      ],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "Peter Rau (Mannheim)",
+      "authors": [
+        "Peter Rau"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Gleißnerei des Poetischen. Zur Abgründigkeit der literaturhistorischen Gegenstände in Fausttradition und Romangeschichte",
+      "authors": [
+        "Peter Rau"
+      ],
+      "printed_page_number": "62",
+      "skip": false
+    },
+    {
+      "title": "Michael Titzmann (Passau)",
+      "authors": [
+        "Michael Titzmann"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Gryphius' 'Cardenio vnd Celinde, Oder unglücklich Verliebete'. Die dramatische Inszenierung eines ideologischen Systems und ihr Platz in der Epoche",
+      "authors": [
+        "Michael Titzmann"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "Erich Trunz (Kiel)",
+      "authors": [
+        "Erich Trunz"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Das Herz aus Diamant",
+      "authors": [
+        "Erich Trunz"
+      ],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "Rolf Paulus (Neustadt/Weinstr.)",
+      "authors": [
+        "Rolf Paulus"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Zwei Briefe Ludwig Philipp Hahns an Maler Müller in Mannheim. Versuch zur Klärung der Verwirrung um sechs Briefe und vier Korrespondenten, nämlich Friedrich Müller, Friedrich Christian Exter, Johann Friedrich Hahn und Philipp Ludwig Hahn",
+      "authors": [
+        "Rolf Paulus"
+      ],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "Franz Futterknecht (Gainsville, Florida)",
+      "authors": [
+        "Franz Futterknecht"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Physiologie und Anthropologie - Johann Carl Wezels Menschenbild im philosophischen Kontext seiner Zeit",
+      "authors": [
+        "Franz Futterknecht"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "Hans-Peter Ecker (Passau)",
+      "authors": [
+        "Hans-Peter Ecker"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "\"Vielleicht auch ein bißchen Geschwätz.\" Zur Differenz von Anspruch und Realität in Karl Philipp Moritz' 'Magazin zur Erfahrungsseelenkunde' am Beispiel der Selbstmordfälle",
+      "authors": [
+        "Hans-Peter Ecker"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Arthur Henkel (Heidelberg)",
+      "authors": [
+        "Arthur Henkel"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Deutlichkeit. Marginalie zu einem Hamann-Zitat Goethes",
+      "authors": [
+        "Arthur Henkel"
+      ],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "Eberhard Mannack (Kiel)",
+      "authors": [
+        "Eberhard Mannack"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die Korrektur des patriarchalischen Modells in Goethes \"bürgerlicher Idylle\" 'Hermann und Dorothea'",
+      "authors": [
+        "Eberhard Mannack"
+      ],
+      "printed_page_number": "208",
+      "skip": false
+    },
+    {
+      "title": "Wolfgang Adam (Osnabrück)",
+      "authors": [
+        "Wolfgang Adam"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Jacob Burckhardt und die Dichtung",
+      "authors": [
+        "Wolfgang Adam"
+      ],
+      "printed_page_number": "224",
+      "skip": false
+    },
+    {
+      "title": "Werner Hoffmann (Mannheim)",
+      "authors": [
+        "Werner Hoffmann"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Ferdinand von Saars 'Tambi' als Kontrafaktur von Franz Grillparzers Novelle 'Der arme Spielmann'",
+      "authors": [
+        "Werner Hoffmann"
+      ],
+      "printed_page_number": "248",
+      "skip": false
+    },
+    {
+      "title": "Jürgen Schwann (Rimbach/Odenw.)",
+      "authors": [
+        "Jürgen Schwann"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Lust und Last der Suche: Das Motiv des Sammelns und seine Funktion im Werk Hans Carossas",
+      "authors": [
+        "Jürgen Schwann"
+      ],
+      "printed_page_number": "271",
+      "skip": false
+    },
+    {
+      "title": "Klaus Garber (Osnabrück)",
+      "authors": [
+        "Klaus Garber"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Der leidenschaftliche Gärtner der europäischen Kultur. Zum Abschluß der 'Gesammelten Werke' Rudolf Borchardts",
+      "authors": [
+        "Klaus Garber"
+      ],
+      "printed_page_number": "299",
+      "skip": false
+    },
+    {
+      "title": "Joachim W. Storck (Freiburg i.Br.)",
+      "authors": [
+        "Joachim W. Storck"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Hermeneutischer Disput. Max Kommerells Auseinandersetzung mit Martin Heideggers Hölderlin-Interpretation",
+      "authors": [
+        "Joachim W. Storck"
+      ],
+      "printed_page_number": "319",
+      "skip": false
+    },
+    {
+      "title": "Rudolf Drux (Köln)",
+      "authors": [
+        "Rudolf Drux"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Günter Kunerts Erzählung 'Eine Ente' und der mechanische Vogel des M. de Vaucanson. Eine kulturwissenschaftliche Betrachtung",
+      "authors": [
+        "Rudolf Drux"
+      ],
+      "printed_page_number": "344",
+      "skip": false
+    },
+    {
+      "title": "Hartmut Laufhütte (Passau)",
+      "authors": [
+        "Hartmut Laufhütte"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die Gruppe 1647. Erinnerung an Jüngstvergangenes im Spiegel der Historie - Günter Grass: 'Das Treffen in Telgte'",
+      "authors": [
+        "Hartmut Laufhütte"
+      ],
+      "printed_page_number": "359",
+      "skip": false
+    },
+    {
+      "title": "Gudrun Loster-Schneider (Mannheim)",
+      "authors": [
+        "Gudrun Loster-Schneider"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "\"Den Mythos lesen lernen ist ein Abenteuer\": Christa Wolfs Erzählung 'Kassandra' im Spannungsverhältnis von Feminismus und Mythenkritik",
+      "authors": [
+        "Gudrun Loster-Schneider"
+      ],
+      "printed_page_number": "385",
+      "skip": false
+    },
+    {
+      "title": "Karl Otto Conrady (Köln)",
+      "authors": [
+        "Karl Otto Conrady"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Eine neue Klassik-Legende?",
+      "authors": [
+        "Karl Otto Conrady"
+      ],
+      "printed_page_number": "405",
+      "skip": false
+    },
+    {
+      "title": "Teil II: Variæ lectiones. Konzepte literaturgeschichtlicher Praxis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Andreas Böhn (Ludwigshafen)",
+      "authors": [
+        "Andreas Böhn"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Mythos, Geschichte, Posthistoire. Remythologisierung als Folge des Abschieds von der (Literatur-)Geschichte?",
+      "authors": [
+        "Andreas Böhn"
+      ],
+      "printed_page_number": "423",
+      "skip": false
+    },
+    {
+      "title": "Jochen Hörisch (Mannheim)",
+      "authors": [
+        "Jochen Hörisch"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "'Die verdutzte Kommunikation'. Literaturgeschichte als Problemgeschichte",
+      "authors": [
+        "Jochen Hörisch"
+      ],
+      "printed_page_number": "447",
+      "skip": false
+    },
+    {
+      "title": "Jürgen Landwehr (Mannheim)",
+      "authors": [
+        "Jürgen Landwehr"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Krebsgang oder Tigersprung in die Vergangenheit? Über einige Paradoxien im Umgang mit der Literatur und ihrer Geschichte",
+      "authors": [
+        "Jürgen Landwehr"
+      ],
+      "printed_page_number": "461",
+      "skip": false
+    },
+    {
+      "title": "Hermann Müller-Solger (Bonn)",
+      "authors": [
+        "Hermann Müller-Solger"
+      ],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Literaturwissenschaft und Europa",
+      "authors": [
+        "Hermann Müller-Solger"
+      ],
+      "printed_page_number": "492",
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Verzeichnis der Schriften von Dietrich Jöns",
+      "authors": [],
+      "printed_page_number": "503",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

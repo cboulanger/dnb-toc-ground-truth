@@ -1,0 +1,440 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "VII",
+      "skip": true
+    },
+    {
+      "title": "I. Grundsätzliches",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Geschichte der Erziehung",
+      "authors": [
+        "Jürgen Oelkers"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "2. Moral",
+      "authors": [
+        "Stefan Weyers"
+      ],
+      "printed_page_number": "10",
+      "skip": false
+    },
+    {
+      "title": "3. Erziehung und Bildung",
+      "authors": [
+        "Micha Brumlik"
+      ],
+      "printed_page_number": "20",
+      "skip": false
+    },
+    {
+      "title": "II. Phasen und Orte",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Frühe Kindheit",
+      "authors": [
+        "Michael-Sebastian Honig"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "2. Kindheit",
+      "authors": [
+        "Heidi Keller"
+      ],
+      "printed_page_number": "34",
+      "skip": false
+    },
+    {
+      "title": "3. Jugend",
+      "authors": [
+        "Ursula Kessels"
+      ],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "4. Familie",
+      "authors": [
+        "Elke Wild"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "5. Frühe Tagesbetreuung in Krippe und Kindertagespflege",
+      "authors": [
+        "Jörg Maywald"
+      ],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "6. Erziehung in Kindertagesstätten",
+      "authors": [
+        "Cornelia Wustmann"
+      ],
+      "printed_page_number": "58",
+      "skip": false
+    },
+    {
+      "title": "7. Schule",
+      "authors": [
+        "Mareike Kunter"
+      ],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "8. Internat",
+      "authors": [
+        "Angela Janssen",
+        "Markus Rieger-Ladich"
+      ],
+      "printed_page_number": "68",
+      "skip": false
+    },
+    {
+      "title": "9. Kinder- und Jugendhilfe",
+      "authors": [
+        "Stefanie Albus",
+        "Holger Ziegler"
+      ],
+      "printed_page_number": "74",
+      "skip": false
+    },
+    {
+      "title": "10. Heim und Heimerziehung",
+      "authors": [
+        "Mechthild Wolff"
+      ],
+      "printed_page_number": "78",
+      "skip": false
+    },
+    {
+      "title": "11. Elternbildung und Erziehungsberatung",
+      "authors": [
+        "Andreas Beelmann",
+        "Linda Schulz"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "12. Freizeit, Erziehung und Bildung",
+      "authors": [
+        "Marius Harring",
+        "Matthias D. Witte"
+      ],
+      "printed_page_number": "92",
+      "skip": false
+    },
+    {
+      "title": "13. Kinder- und Jugendarbeit",
+      "authors": [
+        "Thomas Coelen",
+        "Frank Gusinde"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "III. Aspekte der Erziehung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Ästhetische Erziehung",
+      "authors": [
+        "Gabriele Weiß"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "2. Erziehung und emotionale Entwicklung",
+      "authors": [
+        "Peter Zimmermann",
+        "Alexandra Iwanski",
+        "Fatma Çelik",
+        "Anna Neumann"
+      ],
+      "printed_page_number": "118",
+      "skip": false
+    },
+    {
+      "title": "3. Erziehungsstile und ihre kulturelle Überformung",
+      "authors": [
+        "Haci-Halil Uslucan"
+      ],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "4. Körper",
+      "authors": [
+        "Veronika Magyar-Haas"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "5. Soziale Kompetenz",
+      "authors": [
+        "Barbara Reichle"
+      ],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "6. Spiritualität",
+      "authors": [
+        "Kurt Bangert"
+      ],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "7. Sprache",
+      "authors": [
+        "Laura de Ruiter"
+      ],
+      "printed_page_number": "162",
+      "skip": false
+    },
+    {
+      "title": "8. Werte",
+      "authors": [
+        "Jutta Standop"
+      ],
+      "printed_page_number": "170",
+      "skip": false
+    },
+    {
+      "title": "IV. Verschiedene Disziplinen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Evolutionstheorie/Biologie",
+      "authors": [
+        "Annette Scheunpflug"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "2. Erziehung als Begriff der Erziehungswissenschaft",
+      "authors": [
+        "Volker Kraft"
+      ],
+      "printed_page_number": "186",
+      "skip": false
+    },
+    {
+      "title": "3. Gesundheitswissenschaften",
+      "authors": [
+        "Toni Faltermaier"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "4. Geschichtswissenschaft",
+      "authors": [
+        "Petra Gruner"
+      ],
+      "printed_page_number": "194",
+      "skip": false
+    },
+    {
+      "title": "5. Erziehung aus islamisch-religionspädagogischer Sicht",
+      "authors": [
+        "Bülent Ucar"
+      ],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "6. Kinder- und Jugendpsychiatrie",
+      "authors": [
+        "Andreas Richterich"
+      ],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "7. Literaturwissenschaft",
+      "authors": [
+        "Holger Dainat",
+        "Walter Erhart"
+      ],
+      "printed_page_number": "208",
+      "skip": false
+    },
+    {
+      "title": "8. Ökonomie – am Beispiel frühkindlicher Bildung und Erziehung",
+      "authors": [
+        "Katharina Spieß"
+      ],
+      "printed_page_number": "212",
+      "skip": false
+    },
+    {
+      "title": "9. Erziehung ohne »Ich«. Sartres philosophischer Beitrag zur aktuellen Erziehungsdiskussion",
+      "authors": [
+        "Martin Bartels"
+      ],
+      "printed_page_number": "218",
+      "skip": false
+    },
+    {
+      "title": "10. Psychoanalyse",
+      "authors": [
+        "Marianne Leuzinger-Bohleber"
+      ],
+      "printed_page_number": "225",
+      "skip": false
+    },
+    {
+      "title": "11. Psychologie",
+      "authors": [
+        "Urs Fuhrer"
+      ],
+      "printed_page_number": "230",
+      "skip": false
+    },
+    {
+      "title": "12. Rechtswissenschaften",
+      "authors": [
+        "Ludwig Salgo"
+      ],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "13. Soziologie",
+      "authors": [
+        "Doris Bühler-Niederberger"
+      ],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "14. Sportpädagogik",
+      "authors": [
+        "Bernd Gröben"
+      ],
+      "printed_page_number": "249",
+      "skip": false
+    },
+    {
+      "title": "15. Theologie",
+      "authors": [
+        "Mirjam Zimmermann"
+      ],
+      "printed_page_number": "254",
+      "skip": false
+    },
+    {
+      "title": "16. Neurowissenschaften",
+      "authors": [
+        "Jörg Bock",
+        "Katharina Braun"
+      ],
+      "printed_page_number": "260",
+      "skip": false
+    },
+    {
+      "title": "17. Kulturpädagogik",
+      "authors": [
+        "Britta Hoffarth",
+        "Katja Kolodzig"
+      ],
+      "printed_page_number": "266",
+      "skip": false
+    },
+    {
+      "title": "18. Mediennutzung",
+      "authors": [
+        "Holger Horz",
+        "Carmen Heckmann"
+      ],
+      "printed_page_number": "271",
+      "skip": false
+    },
+    {
+      "title": "V. Gesellschaft und Erziehung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Erziehung und soziale Ungleichheit",
+      "authors": [
+        "Ullrich Bauer"
+      ],
+      "printed_page_number": "281",
+      "skip": false
+    },
+    {
+      "title": "2. Erziehung, Macht und Gewalt",
+      "authors": [
+        "Sabine Andresen"
+      ],
+      "printed_page_number": "291",
+      "skip": false
+    },
+    {
+      "title": "3. Umgang mit Heterogenität",
+      "authors": [
+        "Susanne Miller"
+      ],
+      "printed_page_number": "296",
+      "skip": false
+    },
+    {
+      "title": "4. Erziehung und Migration",
+      "authors": [
+        "Christine Hunner-Kreisel"
+      ],
+      "printed_page_number": "304",
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die Beiträgerinnen und Beiträger",
+      "authors": [],
+      "printed_page_number": "315",
+      "skip": true
+    },
+    {
+      "title": "Personenregister",
+      "authors": [],
+      "printed_page_number": "318",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

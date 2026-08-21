@@ -1,0 +1,111 @@
+{
+  "entries": [
+    {
+      "title": "INHALT",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Konstellationen zwischen Politik und Leben",
+      "authors": [
+        "Maria Muhle",
+        "Kathrin Thiele"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "I. Politiken",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Menschliches Pastorat oder „la vie bête“",
+      "authors": [
+        "Alain Brossat"
+      ],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "„Diese andere Sache“. Agamben, Foucault und die Politik der Menschenrechte",
+      "authors": [
+        "Francesca Raimondi"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "Ökonomie und Biopolitik: Das primitive Leben und die ökonomische Zivilisation",
+      "authors": [
+        "Ute Tellmann"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "II. Konstellationen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Torso, Henkel, Hybride. Das Leben der Dinge",
+      "authors": [
+        "Friedrich Balke"
+      ],
+      "printed_page_number": "83",
+      "skip": false
+    },
+    {
+      "title": "Literatur und Biopolitik. Rationalisierungen des Lebens in der Romantik",
+      "authors": [
+        "Birgit M. Kaiser"
+      ],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "Das Leben filmen. Zum Verhältnis von Biopolitik und Kinematographie",
+      "authors": [
+        "Marcus Krause"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "III. Leben",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Biopolitik: eine Regierungskunst?",
+      "authors": [
+        "Petra Gehring"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "In Sorge um das Soziale. Linke Lebensbegriffe und die biopolitische Herausforderung",
+      "authors": [
+        "Helmut Draxler"
+      ],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "Biopolitik oder Politik?",
+      "authors": [
+        "Jacques Rancière"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

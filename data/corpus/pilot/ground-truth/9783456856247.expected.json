@@ -1,0 +1,291 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Hinweise zur 2. Auflage",
+      "authors": [],
+      "printed_page_number": "8",
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [
+        "Sabine Kubesch"
+      ],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "„Muss das so heißen?“",
+      "authors": [
+        "Katja Weidner"
+      ],
+      "printed_page_number": "19",
+      "skip": true
+    },
+    {
+      "title": "Von der Forschung ins Klassenzimmer und aufs Spielfeld",
+      "authors": [
+        "Sabine Kubesch",
+        "Sonja Hansen"
+      ],
+      "printed_page_number": "21",
+      "skip": true
+    },
+    {
+      "title": "Teil 1 Wissenschaftliche Grundlagen zur Bedeutung und Förderung exekutiver Funktionen und der Selbstregulation",
+      "authors": [],
+      "printed_page_number": "25",
+      "skip": true
+    },
+    {
+      "title": "Biologische und soziale Einflüsse auf kognitive Kontrollprozesse, die vom präfrontalen Kortex abhängen",
+      "authors": [
+        "Adele Diamond"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Geld und Glück, Karies und Kriminalität",
+      "authors": [
+        "Manfred Spitzer"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Wo ein Wille ist ...",
+      "authors": [
+        "Roy F. Baumeister"
+      ],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "Entwicklung, Testung und neuronale Korrelate „kalter“ und „heißer“ exekutiver Funktionen",
+      "authors": [
+        "Sabine Kubesch"
+      ],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "Stress und die Entwicklung von Selbstregulation im Armutskontext",
+      "authors": [
+        "Clancy Blair"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Das Potenzial frühkindlichen Achtsamkeitstrainings: Neurowissenschaftliche Perspektive auf entwicklungsbezogene und sozial-kognitive Prozesse",
+      "authors": [
+        "Philip David Zelazo",
+        "Kristen E. Lyons"
+      ],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "Training und Plastizität des Arbeitsgedächtnisses",
+      "authors": [
+        "Torkel Klingberg"
+      ],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "Der Sport macht's!",
+      "authors": [
+        "Sabine Kubesch"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "Interventionen, die sich bei der Entwicklung exekutiver Funktionen bei 4- bis 12-jährigen Kindern als hilfreich erwiesen haben",
+      "authors": [
+        "Adele Diamond",
+        "Kathleen Lee"
+      ],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "Teil 2 Transfer der wissenschaftlichen Erkenntnisse in die pädagogische Praxis",
+      "authors": [],
+      "printed_page_number": "179",
+      "skip": true
+    },
+    {
+      "title": "Exekutive Funktionen – Häufig gestellte Fragen von Lehrkräften",
+      "authors": [
+        "Katrin Hille"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "Kinder machen ihre Sache gut, wenn sie können",
+      "authors": [
+        "Ross W. Greene"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "ADHS und ADS in der Schule. Informationen und Empfehlungen eines Kinder- und Jugendpsychiaters",
+      "authors": [
+        "Markus Karr"
+      ],
+      "printed_page_number": "205",
+      "skip": false
+    },
+    {
+      "title": "Pädagogische Konzepte zur Förderung der exekutiven Funktionen und der Selbstregulation von Kindern und Jugendlichen",
+      "authors": [
+        "Janina Eberhart"
+      ],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "Achtsamkeitstraining in der Schule",
+      "authors": [
+        "Marie Ottilie Frenkel"
+      ],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "Blick ins Gehirn. Das Gehirn in Ihrer Hand",
+      "authors": [
+        "Daniel J. Siegel"
+      ],
+      "printed_page_number": "247",
+      "skip": false
+    },
+    {
+      "title": "Stopp oder es kracht! Die Drei aus Hirnschmalz",
+      "authors": [
+        "Andrea Liebers",
+        "Sabine Kubesch",
+        "Sonja Hansen"
+      ],
+      "printed_page_number": "257",
+      "skip": false
+    },
+    {
+      "title": "Selbstregulation: Eine Basis für frühes Lernen",
+      "authors": [
+        "Elena Bodrova",
+        "Deborah J. Leong"
+      ],
+      "printed_page_number": "267",
+      "skip": false
+    },
+    {
+      "title": "„Selbstkontrolle kann man lernen“",
+      "authors": [
+        "Walter Mischel"
+      ],
+      "printed_page_number": "273",
+      "skip": false
+    },
+    {
+      "title": "„Weit entfernt von Bullerbü“. Förderung der Selbstregulation – Tipps für Eltern",
+      "authors": [
+        "Verena Hofer",
+        "Sabine Kubesch",
+        "Sonja Hansen"
+      ],
+      "printed_page_number": "279",
+      "skip": false
+    },
+    {
+      "title": "Exekutive Funktionsfähigkeiten üben und verbessern – von der frühen Kindheit bis ins Jugendalter",
+      "authors": [
+        "Center on the Developing Child, Harvard University"
+      ],
+      "printed_page_number": "295",
+      "skip": false
+    },
+    {
+      "title": "Arbeitsgedächtnis verstehen. Ein Leitfaden fürs Klassenzimmer",
+      "authors": [
+        "Susan E. Gathercole",
+        "Tracy P. Alloway"
+      ],
+      "printed_page_number": "323",
+      "skip": false
+    },
+    {
+      "title": "Exekutive Funktionen und Lernschwierigkeiten oder: Wo ist denn hier der Regisseur?",
+      "authors": [
+        "Monika Brunsting"
+      ],
+      "printed_page_number": "337",
+      "skip": false
+    },
+    {
+      "title": "Exekutive Funktionen im offenen Mathematik- und Deutschunterricht in Grundschulen – am Beispiel von Einstern und Einsterns Schwester",
+      "authors": [
+        "Jutta Maurach",
+        "Roland Bauer"
+      ],
+      "printed_page_number": "357",
+      "skip": false
+    },
+    {
+      "title": "Wege zur Förderung exekutiver Funktionen im instrumentalen und allgemeinen Musikunterricht",
+      "authors": [
+        "Darya Lenz",
+        "Stefan Zöllner-Dressler"
+      ],
+      "printed_page_number": "369",
+      "skip": false
+    },
+    {
+      "title": "Yoga. Eine Bewegungspause",
+      "authors": [
+        "Thomas Bannenberg"
+      ],
+      "printed_page_number": "387",
+      "skip": false
+    },
+    {
+      "title": "„Mein Verhalten muss auch in der Niederlage ein positiv konstruktives, ein selbstreguliertes Verhalten sein“",
+      "authors": [
+        "Armin Emrich"
+      ],
+      "printed_page_number": "393",
+      "skip": false
+    },
+    {
+      "title": "Die Herausgeberin",
+      "authors": [],
+      "printed_page_number": "401",
+      "skip": true
+    },
+    {
+      "title": "Die Autoren",
+      "authors": [],
+      "printed_page_number": "401",
+      "skip": true
+    },
+    {
+      "title": "Sachwortverzeichnis",
+      "authors": [],
+      "printed_page_number": "407",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

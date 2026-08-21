@@ -1,0 +1,984 @@
+{
+  "entries": [
+    {
+      "title": "Anregungen für eine Neue Lernkultur",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einführung",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Die Vernetzungsebene",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vom besonderen Charakter des Projekts",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Projekt: Lernen en passant",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1 Vorgeschichte",
+      "authors": [],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "1.1 So fing alles an",
+      "authors": [],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "1.2 „Lernen en passant“ – was ist das eigentlich?",
+      "authors": [],
+      "printed_page_number": "18",
+      "skip": false
+    },
+    {
+      "title": "2 Durchführung",
+      "authors": [],
+      "printed_page_number": "20",
+      "skip": false
+    },
+    {
+      "title": "2.1 Die Versuchsorte",
+      "authors": [],
+      "printed_page_number": "20",
+      "skip": false
+    },
+    {
+      "title": "2.2 Am Ehekarussell",
+      "authors": [],
+      "printed_page_number": "20",
+      "skip": false
+    },
+    {
+      "title": "2.3 In der Frauenkirche",
+      "authors": [],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "2.4 Am Neuen Museum",
+      "authors": [],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "3 Fazit",
+      "authors": [],
+      "printed_page_number": "28",
+      "skip": false
+    },
+    {
+      "title": "3.1 Versuche",
+      "authors": [],
+      "printed_page_number": "28",
+      "skip": false
+    },
+    {
+      "title": "3.2 Orte",
+      "authors": [],
+      "printed_page_number": "28",
+      "skip": false
+    },
+    {
+      "title": "3.3 Die „Lernenden“",
+      "authors": [],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "3.4 Die „Lehrenden“",
+      "authors": [],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "3.5 Kooperationen",
+      "authors": [],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "3.6 Institution",
+      "authors": [],
+      "printed_page_number": "30",
+      "skip": false
+    },
+    {
+      "title": "3.7 Resümee",
+      "authors": [],
+      "printed_page_number": "30",
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen der Wissenschaftlichen Begleitung",
+      "authors": [],
+      "printed_page_number": "32",
+      "skip": true
+    },
+    {
+      "title": "Projekt: Lernen am Puls der Zeit",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1 Vorgeschichte",
+      "authors": [],
+      "printed_page_number": "35",
+      "skip": false
+    },
+    {
+      "title": "1.1 Die Ausgangslage",
+      "authors": [],
+      "printed_page_number": "35",
+      "skip": false
+    },
+    {
+      "title": "1.2 Das Bildungshaus „Haus am Maiberg“",
+      "authors": [],
+      "printed_page_number": "36",
+      "skip": false
+    },
+    {
+      "title": "1.3 Die LernWerkstatt 50plus",
+      "authors": [],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "1.4 Die Zielgruppe „50plus“",
+      "authors": [],
+      "printed_page_number": "38",
+      "skip": false
+    },
+    {
+      "title": "2 Durchführung",
+      "authors": [],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "2.1 Die Zukunftswerkstatt 50plus",
+      "authors": [],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "2.2 Die Kritik- bzw. Analysephase",
+      "authors": [],
+      "printed_page_number": "40",
+      "skip": false
+    },
+    {
+      "title": "2.3 Die Phantasie- bzw. Utopiephase",
+      "authors": [],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "2.4 Die Praxis- bzw. Realisierungsphase",
+      "authors": [],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "2.4.1 Vorhaben: Ein Seminar zum Thema „Zeit“",
+      "authors": [],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "2.4.2 Vorhaben: Theaterwerkstatt 50plus",
+      "authors": [],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "2.4.3 Vorhaben: Unterwegs mit 50plus",
+      "authors": [],
+      "printed_page_number": "44",
+      "skip": false
+    },
+    {
+      "title": "2.4.4 Vorhaben: „Spielplatz des Lebens“",
+      "authors": [],
+      "printed_page_number": "44",
+      "skip": false
+    },
+    {
+      "title": "3 Auswertung – Der Weg als Lern-Ziel",
+      "authors": [],
+      "printed_page_number": "46",
+      "skip": false
+    },
+    {
+      "title": "3.1 Lerngruppe",
+      "authors": [],
+      "printed_page_number": "46",
+      "skip": false
+    },
+    {
+      "title": "3.2 LernbegleiterInnen",
+      "authors": [],
+      "printed_page_number": "46",
+      "skip": false
+    },
+    {
+      "title": "3.3 Lernprozess",
+      "authors": [],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "3.4 Lernumgebung",
+      "authors": [],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "3.5 Didaktische Prinzipien",
+      "authors": [],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "3.5.1 Teilnehmer-Zentrierung",
+      "authors": [],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "3.5.2 Lebensweltorientierung",
+      "authors": [],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "3.5.3 Erfahrungs- und Handlungsorientierung",
+      "authors": [],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "3.5.4 Ganzheitlichkeit",
+      "authors": [],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "3.5.5 Selbstorganisation",
+      "authors": [],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "3.5.6 Lokalität und Flexibilität",
+      "authors": [],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "4 Weiterführende Fragen, die in der Bildungseinrichtung diskutiert werden",
+      "authors": [],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "4.1 Auswirkungen für die Organisation der Bildungseinrichtung",
+      "authors": [],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "4.2 Auswirkung in andere Fachbereiche",
+      "authors": [],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "4.3 Erweiterung des Bildungsansatzes",
+      "authors": [],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "4.4 Veränderung des Selbstverständnisses",
+      "authors": [],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen der Wissenschaftlichen Begleitung",
+      "authors": [],
+      "printed_page_number": "52",
+      "skip": true
+    },
+    {
+      "title": "Projekt: Adoption – Information und Kontakt per Mausklick",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1 Vorgeschichte",
+      "authors": [],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "1.1 Idee des Projekts – So fing alles an ...",
+      "authors": [],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "1.2 Zielgruppe – Wer braucht was wie?",
+      "authors": [],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "1.3 TeilnehmerInnenwerbung",
+      "authors": [],
+      "printed_page_number": "56",
+      "skip": false
+    },
+    {
+      "title": "2 Planung und Ausführung",
+      "authors": [],
+      "printed_page_number": "56",
+      "skip": false
+    },
+    {
+      "title": "2.1 Präsenz- und Internetzeiten – auf die Mischung kommt es an",
+      "authors": [],
+      "printed_page_number": "56",
+      "skip": false
+    },
+    {
+      "title": "2.2 Seminarkonzeption – jetzt wird es Ernst!",
+      "authors": [],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "2.3 Erfolgreiche Durchführung – und ein Wiedersehen am Ende",
+      "authors": [],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "3 Auswertung",
+      "authors": [],
+      "printed_page_number": "60",
+      "skip": false
+    },
+    {
+      "title": "3.1 Welche Voraussetzungen benötigt die Seminarleitung?",
+      "authors": [],
+      "printed_page_number": "60",
+      "skip": false
+    },
+    {
+      "title": "3.2 Welche Voraussetzungen benötigt die Organisation?",
+      "authors": [],
+      "printed_page_number": "60",
+      "skip": false
+    },
+    {
+      "title": "3.3 Weitere Voraussetzungen: Auswahl eines Bulletin-board-systems (BBS)",
+      "authors": [],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "4 Rückblick",
+      "authors": [],
+      "printed_page_number": "62",
+      "skip": false
+    },
+    {
+      "title": "4.1 Einige Streiflichter",
+      "authors": [],
+      "printed_page_number": "62",
+      "skip": false
+    },
+    {
+      "title": "4.2 Zum Phänomen des Chattens und Regeln für den Chatroom",
+      "authors": [],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "4.3 Chatten „Live“",
+      "authors": [],
+      "printed_page_number": "64",
+      "skip": false
+    },
+    {
+      "title": "5 Ausblick – Bildungsarbeit im Wandel",
+      "authors": [],
+      "printed_page_number": "66",
+      "skip": false
+    },
+    {
+      "title": "5.1 Neue Medien im Einsatz – Eine Herausforderung für die Bildungsinstitution",
+      "authors": [],
+      "printed_page_number": "66",
+      "skip": false
+    },
+    {
+      "title": "5.2 Bildung per Mausklick? – Chancen und Grenzen ausloten",
+      "authors": [],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "5.3 Anstöße für die Praxis der Familien- und Erwachsenenbildung",
+      "authors": [],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "5.4 Interview zwei SeminarteilnehmerInnen",
+      "authors": [],
+      "printed_page_number": "68",
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen der Wissenschaftlichen Begleitung",
+      "authors": [],
+      "printed_page_number": "71",
+      "skip": true
+    },
+    {
+      "title": "Projekt: Lernen mit allen Sinnen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1 Vorgeschichte",
+      "authors": [],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "1.1 Die Trainingsmaßnahme",
+      "authors": [],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "1.2 Die Zielgruppe",
+      "authors": [],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "2 Durchführung: Das Konzept Lernen mit allen Sinnen",
+      "authors": [],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "2.1 Leitlinien und deren Umsetzung",
+      "authors": [],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "2.1.1 Fachliche und allgemeine Bildung",
+      "authors": [],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "2.1.2 Entwicklung von beruflichen Zielen",
+      "authors": [],
+      "printed_page_number": "80",
+      "skip": false
+    },
+    {
+      "title": "2.1.3 Wertschätzung, Zuwendung und Achtung",
+      "authors": [],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "2.2 Lern- und Kommunikationsort Küche",
+      "authors": [],
+      "printed_page_number": "83",
+      "skip": false
+    },
+    {
+      "title": "2.3 Verlauf der Trainings-Maßnahme für Erwachsene",
+      "authors": [],
+      "printed_page_number": "84",
+      "skip": false
+    },
+    {
+      "title": "2.3.1 Tages- und Wochenablauf",
+      "authors": [],
+      "printed_page_number": "84",
+      "skip": false
+    },
+    {
+      "title": "2.3.2 Besondere Aktivitäten",
+      "authors": [],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "3 Auswertung",
+      "authors": [],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "3.1 TeilnehmerInnen",
+      "authors": [],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "3.2 Lehrende",
+      "authors": [],
+      "printed_page_number": "88",
+      "skip": false
+    },
+    {
+      "title": "3.3 Einbindung im Haus",
+      "authors": [],
+      "printed_page_number": "90",
+      "skip": false
+    },
+    {
+      "title": "3.4 Die Neue Lernkultur im Kolping-Bildungszentrum Memmingen",
+      "authors": [],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen der Wissenschaftlichen Begleitung",
+      "authors": [],
+      "printed_page_number": "94",
+      "skip": true
+    },
+    {
+      "title": "Projekt: Heimat – Region – Europa",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1 Ausgangssituation",
+      "authors": [],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "1.1 Die Sorben in Deutschland",
+      "authors": [],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "1.2 Bildung durch originale Begegnung",
+      "authors": [],
+      "printed_page_number": "96",
+      "skip": false
+    },
+    {
+      "title": "1.3 Selbstorganisiertes Lernen an unterschiedlichen Lernorten",
+      "authors": [],
+      "printed_page_number": "96",
+      "skip": false
+    },
+    {
+      "title": "2 Projektablauf",
+      "authors": [],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "2.1 Planung",
+      "authors": [],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "2.2 Begegnungsseminar für Senioren",
+      "authors": [],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "2.3 Grenzüberschreitendes Lernen junger Erwachsener",
+      "authors": [],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "3 Fazit",
+      "authors": [],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "3.1 Zeit nehmen für Vorbereitung",
+      "authors": [],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "3.2 Kompetente Leitung gefragt",
+      "authors": [],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "3.3 Nachhaltigkeit",
+      "authors": [],
+      "printed_page_number": "102",
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen der wissenschaftlichen Begleitung",
+      "authors": [],
+      "printed_page_number": "103",
+      "skip": true
+    },
+    {
+      "title": "Ergebnisse der Begleituntersuchung: Neue Lernkultur als Entwicklungsraum",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "0. Zur Vorgehensweise: Operationelle Definition „Neue Lernkultur“ und mehrperspektivischer Zugang",
+      "authors": [],
+      "printed_page_number": "106",
+      "skip": false
+    },
+    {
+      "title": "a) Operationelle Definition: Die Teile und das Ganze",
+      "authors": [],
+      "printed_page_number": "106",
+      "skip": false
+    },
+    {
+      "title": "b) Erhebungsverfahren: Blick von innen und von außen",
+      "authors": [],
+      "printed_page_number": "108",
+      "skip": false
+    },
+    {
+      "title": "1 Die Teilnehmenden: Selber vorkommen wollen",
+      "authors": [],
+      "printed_page_number": "110",
+      "skip": false
+    },
+    {
+      "title": "2 Die MitarbeiterInnen: Neue Rollenkultur",
+      "authors": [],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "3 Die Organisation: Sich selber ändern",
+      "authors": [],
+      "printed_page_number": "120",
+      "skip": false
+    },
+    {
+      "title": "a) Zeitbedarf",
+      "authors": [],
+      "printed_page_number": "120",
+      "skip": false
+    },
+    {
+      "title": "b) Abläufe und Strukturen",
+      "authors": [],
+      "printed_page_number": "126",
+      "skip": false
+    },
+    {
+      "title": "c) Raum und Umgebung",
+      "authors": [],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "d) Kooperation und Vernetzung",
+      "authors": [],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "4 Ausblicke: Neue Lernkultur und Zukunftsorientierung",
+      "authors": [],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "a) Entdecken und entwickeln",
+      "authors": [],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "b) Rahmenbedingungen öffnen",
+      "authors": [],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "c) Entwicklungsräume schaffen",
+      "authors": [],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Fachtagung: Bildung im Vorübergehen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1 Ankommen und Einfinden",
+      "authors": [],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "1.1 Bildung im Vorübergehen?",
+      "authors": [],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "1.2 Begrüßung",
+      "authors": [],
+      "printed_page_number": "142",
+      "skip": false
+    },
+    {
+      "title": "1.3 Grußwort",
+      "authors": [],
+      "printed_page_number": "144",
+      "skip": false
+    },
+    {
+      "title": "1.4 Begrüßung im Vorübergehen",
+      "authors": [],
+      "printed_page_number": "146",
+      "skip": false
+    },
+    {
+      "title": "1.5 „Niemals lernt man nie“",
+      "authors": [],
+      "printed_page_number": "148",
+      "skip": false
+    },
+    {
+      "title": "2 Verstehen und Verknüpfen",
+      "authors": [],
+      "printed_page_number": "150",
+      "skip": false
+    },
+    {
+      "title": "2.1 „Lernverhalten und Bildungslandschaft heute“",
+      "authors": [],
+      "printed_page_number": "150",
+      "skip": false
+    },
+    {
+      "title": "1 Teilnahme an Weiterbildung in Deutschland",
+      "authors": [],
+      "printed_page_number": "151",
+      "skip": false
+    },
+    {
+      "title": "2 Bildungsprozesse der Zukunft: Entwicklungsbedarf",
+      "authors": [],
+      "printed_page_number": "151",
+      "skip": false
+    },
+    {
+      "title": "3 „Neue“ Aspekte des Lernens Erwachsener",
+      "authors": [],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "4 „Neue“ Anforderungen an Weiterbildungsträger",
+      "authors": [],
+      "printed_page_number": "156",
+      "skip": false
+    },
+    {
+      "title": "2.2 Lernen hoch zehn – wer bietet mehr?",
+      "authors": [],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "0. Die „Entdeckung“",
+      "authors": [],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "1. Die Vielfalt des Lernens",
+      "authors": [],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "2. Die Vielfalt des Lernens – zusammengefasst im Konzept der „Lebensbreiten Bildung“",
+      "authors": [],
+      "printed_page_number": "164",
+      "skip": false
+    },
+    {
+      "title": "3. Der nächste Schritt: „Kompositionelles Lernen“",
+      "authors": [],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "4. Die Praxiskonsequenz: Lebensbreite Bildung sehen, nutzen und fördern",
+      "authors": [],
+      "printed_page_number": "166",
+      "skip": false
+    },
+    {
+      "title": "2.3 Diskussionsforum am Mittag",
+      "authors": [],
+      "printed_page_number": "168",
+      "skip": false
+    },
+    {
+      "title": "3 Austauschen und Weiterdenken",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "3.1 Arbeitsgruppe I: „Karneval in Venedig“",
+      "authors": [],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "3.2 Arbeitsgruppe II: „Das Ehekarussell“",
+      "authors": [],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "3.3 Arbeitsgruppe III: Lern-Ensemble",
+      "authors": [],
+      "printed_page_number": "176",
+      "skip": false
+    },
+    {
+      "title": "3.4 „Lernen ex passant“",
+      "authors": [],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Fachtagung: Bildung im Vorübergehen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1 Vielfältiges Ankommen",
+      "authors": [],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "1.1 Neue Lernkultur erlebbar",
+      "authors": [],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "1.2 Willkommen zur Fachtagung „Vielfalt neu verbinden“",
+      "authors": [],
+      "printed_page_number": "185",
+      "skip": false
+    },
+    {
+      "title": "1.3 Begrüßung",
+      "authors": [],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "1.4 Grußwort",
+      "authors": [],
+      "printed_page_number": "190",
+      "skip": false
+    },
+    {
+      "title": "1.5 Gehcollage",
+      "authors": [],
+      "printed_page_number": "192",
+      "skip": false
+    },
+    {
+      "title": "2 Hören, Verstehen, Diskutieren",
+      "authors": [],
+      "printed_page_number": "194",
+      "skip": false
+    },
+    {
+      "title": "2.1 Lernen heißt Zukunft entwickeln",
+      "authors": [],
+      "printed_page_number": "194",
+      "skip": false
+    },
+    {
+      "title": "2.2 Zeitwohlstand",
+      "authors": [],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "2.3 Zuspitzungen und Forderungen",
+      "authors": [],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "2.4 Abschluss und Aufbruch",
+      "authors": [],
+      "printed_page_number": "214",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

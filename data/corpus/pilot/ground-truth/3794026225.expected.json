@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort der Herausgeber",
+      "authors": [],
+      "printed_page_number": "5",
+      "skip": true
+    },
+    {
+      "title": "Simon Moser: Kritik der traditionellen Technikphilosophie",
+      "authors": [
+        "Simon Moser"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Hans Rumpf: Gedanken zur Wissenschaftstheorie der Technikwissenschaften",
+      "authors": [
+        "Hans Rumpf"
+      ],
+      "printed_page_number": "82",
+      "skip": false
+    },
+    {
+      "title": "Friedrich Rapp: Technik und Naturwissenschaften \u2013 eine methodologische Untersuchung",
+      "authors": [
+        "Friedrich Rapp"
+      ],
+      "printed_page_number": "108",
+      "skip": false
+    },
+    {
+      "title": "Kurt H\u00fcbner: Philosophische Fragen der Technik",
+      "authors": [
+        "Kurt H\u00fcbner"
+      ],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "G\u00fcnter Ropohl: Prolegomena zu einem neuen Entwurf der allgemeinen Technologie",
+      "authors": [
+        "G\u00fcnter Ropohl"
+      ],
+      "printed_page_number": "152",
+      "skip": false
+    },
+    {
+      "title": "Ulf Niederwemer: Programmatische Skizze f\u00fcr eine Sozialphilosophie der Technik",
+      "authors": [
+        "Ulf Niederwemer"
+      ],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "Hans Lenk: Zu neueren Ans\u00e4tzen der Technikphilosophie",
+      "authors": [
+        "Hans Lenk"
+      ],
+      "printed_page_number": "198",
+      "skip": false
+    },
+    {
+      "title": "Auswahlbibliographie",
+      "authors": [],
+      "printed_page_number": "232",
+      "skip": true
+    },
+    {
+      "title": "Namensregister",
+      "authors": [],
+      "printed_page_number": "241",
+      "skip": true
+    },
+    {
+      "title": "\u00dcber die Autoren",
+      "authors": [],
+      "printed_page_number": "246",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

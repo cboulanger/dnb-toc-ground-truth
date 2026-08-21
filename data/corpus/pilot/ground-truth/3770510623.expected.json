@@ -1,0 +1,80 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einführung",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Die Vereinten Nationen: Zielsetzung und Zielrichtung",
+      "authors": [
+        "Richard Falk"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Die Vereinten Nationen im internationalen System",
+      "authors": [
+        "Oran R. Young"
+      ],
+      "printed_page_number": "60",
+      "skip": false
+    },
+    {
+      "title": "Das Gewaltverbot in der Satzung der Vereinten Nationen und die zukünftige Friedensordnung",
+      "authors": [
+        "Günther Doeker"
+      ],
+      "printed_page_number": "110",
+      "skip": false
+    },
+    {
+      "title": "Rolle und Funktion der Generalversammlung: Erfolg und Mißerfolg",
+      "authors": [
+        "Gabriella Rosner-Lande"
+      ],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "Konfliktregelung und Streitbeilegung: Zur Entwicklung eines Musters der Konfliktregelung",
+      "authors": [
+        "Linda B. Miller"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "Die Vereinten Nationen und sozialer und wirtschaftlicher Wandel",
+      "authors": [
+        "Leon Gordenker"
+      ],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "Bundesrepublik Deutschland und DDR in den Vereinten Nationen",
+      "authors": [
+        "Günther Doeker"
+      ],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "Namensregister",
+      "authors": [],
+      "printed_page_number": "259",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

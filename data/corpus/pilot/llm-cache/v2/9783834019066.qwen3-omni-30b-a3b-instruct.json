@@ -1,0 +1,438 @@
+{
+  "generated_at": 1787011877.926357,
+  "entries": [
+    {
+      "title": "INHALTSVERZEICHNIS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "MICHAEL SCHRATZ / HANS ANAND PANT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Michael Schratz",
+        "Hans Anand Pant"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "VORWORT",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MARKUS WILHELM / MARKUS REHM / VOLKER REINHARDT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Markus Wilhelm",
+        "Markus Rehm",
+        "Volker Reinhardt"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "QUALIT\u00c4TSVOLLER FACHUNTERRICHT",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MARKUS VOGEL",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Markus Vogel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "WIRKSAMER MATHEMATIKUNTERRICHT \u2013 EINE EINF\u00dcHRUNG",
+      "printed_page_number": "19",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ANDREAS EICHLER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Eichler"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "MIT GUT STRUKTURIERTEN DIDAKTISCHEN SUCHR\u00c4UMEN ZUR WIRKSAMEN PRAXIS",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "CHRISTIAN FAHSE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Christian Fahse"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "IMMER NEUES IST UNN\u00d6TIG \u2013 MODERNER UNTERRICHT HAT TRADITION",
+      "printed_page_number": "35",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MICHAEL FELTEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Michael Felten"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "ZUTRAUEN, ZUWENDEN, ZUMUTEN \u2013 IN MATHE GEHT'S UM MEHR ALS ZAHLEN",
+      "printed_page_number": "45",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HENNING K\u00d6RNER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Henning K\u00f6rner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "MATHEMATIK PRODUKTIV UNTERRICHTEN \u2013 WAS BRAUCHT MAN? WIE GEHT DAS?",
+      "printed_page_number": "54",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ANSELM LAMBERT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Anselm Lambert"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "DIE LEHRPERSON MUSS DIE SACHE VERSTEHEN UND DIE KINDER ERNST NEHMEN",
+      "printed_page_number": "66",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "KATJA LENGNIK",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Katja Lengnik"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "MATHEMATIKUNTERRICHT IST WIRKSAM, WENN ER EIN BELASTBARES VERH\u00c4LTNIS VON MATHEMATIK UND MENSCH ERREICHT!",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "TIMO LEUDERS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Timo Leuders"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "GUTER MATHEMATIKUNTERRICHT \u2013 ZWISCHEN EVIDENZ-BASIERTER WIRKSAMKEIT UND KOMPLEXER PRAXIS",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ANKE LINDMEIER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Anke Lindmeier"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "GIBT ES DEN \u201eFERTIGEN LEHRER\u201c? \u2013 WARUM DURCH WIRKSAMEN MATHEMATIKUNTERRICHT NICHT NUR DIE SCH\u00dcLERINNEN UND SCH\u00dcLER LERNEN SOLLTEN",
+      "printed_page_number": "100",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J\u00d6RG MEYER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg Meyer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "WIRKSAMER MATHEMATIKUNTERRICHT AUS DER SICHT EINES FACHLEITERS",
+      "printed_page_number": "112",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "RENATE MOTZER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Renate Motzer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "MATHEMATISCHE ZUSAMMENH\u00c4NGE M\u00dcSSEN BEWUSST GEMACHT WERDEN UND ERFAHRBAR",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ANDREAS PALLACK",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Pallack"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "VON DER PASSION ZUR PROFESSION: MATHEMATIK LEHREN",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "GUIDO PINKERNELL",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Guido Pinkernell"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "DIE MATHEMATIK IM SCHULUNTERRICHT",
+      "printed_page_number": "140",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "SUSANNE PREDIGER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Susanne Prediger"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "VERSTEHENSORIENTIERT UND DIFFERENZIERT \u2013 VON DER BEDEUTUNG, LERNZIELE ZU SPEZIFIZIEREN",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ANDREAS PR\u00d6MMEL",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Pr\u00f6mmel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "MATHEMATIKUNTERRICHT NEU DENKEN",
+      "printed_page_number": "158",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MATTHIAS R\u00d6MER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Matthias R\u00f6mer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "IMMER WIEDER VON VORNE ANFANGEN",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J\u00dcRGEN ROTH",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Roth"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "WIRKSAMER MATHEMATIKUNTERRICHT \u2013 AUSRICHTUNG AN KERNIDEEN DER MATHEMATISCHEN INHALTE UND DEN LERNENDEN",
+      "printed_page_number": "182",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "REINHARD SCHMIDT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Schmidt"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "EMANZIPATION F\u00d6RDERN IM UND DURCH MATHEMATIKUNTERRICHT",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "UTE SPROESSER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ute Sproesser"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "SCH\u00dcLERINNEN UND SCH\u00dcLER IM MATHEMATIKUNTERRICHT AKTIVIEREN \u2013 KLEINE MA\u00dfNAHMEN K\u00d6NNEN HELFEN!",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MAIKE VOLLSTEDT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Maike Vollstedt"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "DIE SCH\u00dcLERINNEN UND SCH\u00dcLER IM BLICK ZUR ERM\u00d6GLICHUNG VON SINNHAFTELNERNPROZESSEN",
+      "printed_page_number": "209",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MARKUS VOGEL",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Markus Vogel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "WIRKSAMER MATHEMATIKUNTERRICHT \u2013 EIN FAZIT",
+      "printed_page_number": "220",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "DIE REIHENHERAUSGEBER",
+      "printed_page_number": "239",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

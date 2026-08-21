@@ -1,0 +1,123 @@
+{
+  "generated_at": 1787118686.7805738,
+  "entries": [
+    {
+      "title": "Preface",
+      "printed_page_number": "vii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Contributors",
+      "printed_page_number": "ix",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "1 The evolution of strategies in the iterated prisoner's dilemma",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Axelrod"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Learning to cooperate",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Cristina Bicchieri"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 On the dynamics of social norms",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [
+        "Pier Luigi Sacco"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Learning and efficiency in common interest signaling games",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [
+        "David Canning"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Learning on a torus",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [
+        "Luca Anderlini",
+        "Antonella Ianni"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Evolutive vs. naive Bayesian learning",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [
+        "Immanuel M. Bomze",
+        "J\u00fcrgen Eichberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Learning and mixed-strategy equilibria in evolutionary games",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [
+        "Vincent P. Crawford"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Bayesian learning in games: A non-Bayesian perspective",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [
+        "J. S. Jordan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 Savage\u2013Bayesian agents play a repeated game",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [
+        "Yaw Nyarko"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Chaos and the explanatory significance of equilibrium: Strange attractors in evolutionary game dynamics",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [
+        "Brian Skyrms"
+      ],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

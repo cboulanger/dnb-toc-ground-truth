@@ -1,0 +1,357 @@
+{
+  "generated_at": 1787237064.065335,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Einleitung",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "I. Ausgangslage und Herausforderungen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Athanasiios Chasiotis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00dcber (die Illusion der) Betreuungsalternativen und den Preis der Freiheit. Evolutionsbiologische und entwicklungspsychologische Aspekte fr\u00fchkindlicher Erziehung",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "Athanasiios Chasiotis"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stephan Rietmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das interdisziplin\u00e4re Paradigma. Fach\u00fcbergreifende Zusammenarbeit als Zukunftsmodell",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [
+        "Stephan Rietmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Karin B\u00f6llert",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zauberwort Vernetzung? Strukturelle Rahmenbedingungen von Familienzentren",
+      "printed_page_number": "59",
+      "source_page_index": -1,
+      "authors": [
+        "Karin B\u00f6llert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stephan Maykus",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Fr\u00fche F\u00f6rderung und Bildung von Kindern. Potenziale von Familienzentren aus sozialp\u00e4dagogischer Sicht",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [
+        "Stephan Maykus"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Waldtraud Lorenz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Aufwachsen in Benachteiligung: Kinder und Jugendliche in Armutslagen",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "Waldtraud Lorenz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. Grundlagen und Bausteine f\u00fcr einen Wandel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sybille St\u00f6be-Blossey",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Qualit\u00e4tsentwicklung und Qualit\u00e4tssteuerung in Familienzentren",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [
+        "Sybille St\u00f6be-Blossey"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Martin R. Textor",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vernetzung von Kindertageseinrichtungen mit psychosozialen Diensten",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [
+        "Martin R. Textor"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gregor Hensen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gesundheitsf\u00f6rderung und Pr\u00e4vention in der Tagesbetreuung",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [
+        "Gregor Hensen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Marijan Reni\u0107, Stephan Rietmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Interkulturelle \u00d6ffnung der Tagesbetreuung. Die Chancen des Anfangs nutzen",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [
+        "Marijan Reni\u0107",
+        "Stephan Rietmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stefan Meinsen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Von der Betreuungseinrichtung zum Familienzentrum. Den Wandel erfolgreich gestalten",
+      "printed_page_number": "169",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Meinsen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stefan L\u00f6chtefeld",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Netzwerkmanagement im Familienzentrum",
+      "printed_page_number": "183",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan L\u00f6chtefeld"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "David Scheffer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Individuell Motivieren. Herausforderungen an Leitung und Fachkr\u00e4fte im Familienzentrum",
+      "printed_page_number": "203",
+      "source_page_index": -1,
+      "authors": [
+        "David Scheffer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. Praxis, Modelle und professionelle Entwicklung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Martin Hillenbrand, Stephan Rietmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Entwicklungsnetzwerk. Ein Baustein auf dem Weg zum Familienzentrum",
+      "printed_page_number": "223",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Hillenbrand",
+        "Stephan Rietmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sabine Hebenstreit-M\u00fcller",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Early Excellence: Modell einer Integration von Praxis-Forschung-Ausbildung",
+      "printed_page_number": "237",
+      "source_page_index": -1,
+      "authors": [
+        "Sabine Hebenstreit-M\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Axel Heitmueller, Chris Cuthbert",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Transforming early years provision in England. The ambition of a better start for all",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [
+        "Axel Heitmueller",
+        "Chris Cuthbert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gerda Anna Ribbert",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Mensch im Zentrum. Die Niederlande als Vorbild f\u00fcr Kompetenzlernen und pers\u00f6nliche Entwicklung von Erziehern und P\u00e4dagogen in Deutschland?",
+      "printed_page_number": "263",
+      "source_page_index": -1,
+      "authors": [
+        "Gerda Anna Ribbert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eva J. Lindner, Karin Sprenger, Stephan Rietmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Familienzentren in Nordrhein-Westfalen. Ein \u00dcberblick \u00fcber die Pilotphase",
+      "printed_page_number": "277",
+      "source_page_index": -1,
+      "authors": [
+        "Eva J. Lindner",
+        "Karin Sprenger",
+        "Stephan Rietmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verzeichnis der Autorinnen und Autoren",
+      "printed_page_number": "293",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Der Kreistanz ums Triviale. Probleme der Forschung und des Unterrichts",
+      "authors": [
+        "Joachim Bark"
+      ],
+      "printed_page_number": "10",
+      "skip": false
+    },
+    {
+      "title": "Bedingungen und Formen der materiellen und immateriellen Produktion von Heftromanen",
+      "authors": [
+        "Dietger Pforte"
+      ],
+      "printed_page_number": "30",
+      "skip": false
+    },
+    {
+      "title": "Zur Rezeption von Heftromanen",
+      "authors": [
+        "Peter Nusser"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Heftromane und zeitgenössische Romane angesehener Autoren. Untersuchung mit Hilfe der Linguistischen Datenverarbeitung",
+      "authors": [
+        "Hans Dieter Zimmermann"
+      ],
+      "printed_page_number": "80",
+      "skip": false
+    },
+    {
+      "title": "Kleiner Versuch über den großen Erfolg. Beschreibung eines Problems",
+      "authors": [
+        "Jürgen Peters"
+      ],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "Zum Beispiel Die Gartenlaube",
+      "authors": [
+        "Hazel E. Rosenstrauch"
+      ],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "Theodor Fontane als Unterhaltungsautor",
+      "authors": [
+        "Peter Demetz"
+      ],
+      "printed_page_number": "190",
+      "skip": false
+    },
+    {
+      "title": "Diagnostische Bemerkungen zum Bühnenschwank am Beispiel von Labiche, Feydeau, Schönthan, Arnold/Bach und anderen",
+      "authors": [
+        "Volker Klotz"
+      ],
+      "printed_page_number": "205",
+      "skip": false
+    },
+    {
+      "title": "Biographie als Ritual. Am Fall Emil Ludwig",
+      "authors": [
+        "Michael Kienzle"
+      ],
+      "printed_page_number": "230",
+      "skip": false
+    },
+    {
+      "title": "Fluchtversuche aus der Trivialliteratur",
+      "authors": [
+        "Georg Hensel"
+      ],
+      "printed_page_number": "249",
+      "skip": false
+    },
+    {
+      "title": "Der Kriminalroman. Entstehung und Entwicklung eines Genres in den literarischen Medien",
+      "authors": [
+        "Knut Hickethier",
+        "Wolf Dieter Lützen"
+      ],
+      "printed_page_number": "267",
+      "skip": false
+    },
+    {
+      "title": "Die wiederholte Verwandlung des Bürgers in den natürlichen Menschen und umgekehrt. Thesen zur ideologischen Funktion des Western-Romans",
+      "authors": [
+        "Ludwig Fischer"
+      ],
+      "printed_page_number": "296",
+      "skip": false
+    },
+    {
+      "title": "Abenteuer und Gedankenspiel. Gesichter der Science Fiction (SF)",
+      "authors": [
+        "Jörg Hienger"
+      ],
+      "printed_page_number": "339",
+      "skip": false
+    },
+    {
+      "title": "Der englische Frauenroman",
+      "authors": [
+        "Wolfram K. Köck"
+      ],
+      "printed_page_number": "357",
+      "skip": false
+    },
+    {
+      "title": "Die Schlager des Jahres. Analysen erfolgreicher Schlagertexte",
+      "authors": [
+        "Annamaria Rucktäschel"
+      ],
+      "printed_page_number": "377",
+      "skip": false
+    },
+    {
+      "title": "'Ein Kugelschreiber ... in der behandschuhten Rechten ... so weiß wie der Schnee am Kilimandscharo'. Zur Literatur der Nicht-Literaten",
+      "authors": [
+        "Karl Riha"
+      ],
+      "printed_page_number": "402",
+      "skip": false
+    },
+    {
+      "title": "Register",
+      "authors": [],
+      "printed_page_number": "418",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

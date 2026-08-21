@@ -1,0 +1,100 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort des Herausgebers",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Macht und Ohnmacht der Meinungsmacher. Sind die meisten Nachrichten falsch?",
+      "authors": [
+        "Hermann Boventer"
+      ],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "Majestät Fernsehen ohne demokratische Kontrolle",
+      "authors": [
+        "Helmut Walther"
+      ],
+      "printed_page_number": "52",
+      "skip": false
+    },
+    {
+      "title": "Wem gehört die Rundfunkfreiheit?",
+      "authors": [
+        "Henning Jäde"
+      ],
+      "printed_page_number": "64",
+      "skip": false
+    },
+    {
+      "title": "Vorschläge zur Gesellschaftskritik. Wider fernsehspielerische Gewohnheiten",
+      "authors": [
+        "Dieter Meichsner"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "In den Kulissen der Meinungswelt. Medienwelt und Isolation",
+      "authors": [
+        "Rudolf Zihlmann"
+      ],
+      "printed_page_number": "94",
+      "skip": false
+    },
+    {
+      "title": "Meinungstod in Raten",
+      "authors": [
+        "Heinrich Dietz"
+      ],
+      "printed_page_number": "106",
+      "skip": false
+    },
+    {
+      "title": "Der Publizist als Exorzist",
+      "authors": [
+        "Carl Amery"
+      ],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "Das neue Analphabetentum",
+      "authors": [
+        "Pedro Salinas"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "Dokumentation: Adam Müller, Eine Regierungs- und eine Oppositionszeitung zugleich – Maurice Joly, Medienpolitik aus der Unterwelt",
+      "authors": [],
+      "printed_page_number": "157",
+      "skip": true
+    },
+    {
+      "title": "Weiterführende neuere Literatur",
+      "authors": [],
+      "printed_page_number": "173",
+      "skip": true
+    },
+    {
+      "title": "Notizen über die Autoren",
+      "authors": [],
+      "printed_page_number": "191",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

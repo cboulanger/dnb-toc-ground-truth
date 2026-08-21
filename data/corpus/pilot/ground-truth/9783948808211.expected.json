@@ -1,0 +1,120 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Rudolf Seising",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einleitung: Künstliche Intelligenz und Informatik. Zur Geschichte einer schwierigen Beziehung",
+      "authors": [
+        "Rudolf Seising"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Dinah Pfau",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Mit Blick auf KI. Von der Teilchenphysik zur KI, 1964–1976",
+      "authors": [
+        "Dinah Pfau"
+      ],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "Rudolf Seising",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vom Entscheidungsverfahren zur Mensch-Maschine-Interaktion. Gerd Veenkers Arbeiten zum automatischen Beweisen",
+      "authors": [
+        "Rudolf Seising"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "Florian Müller",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Von der Linguistik zur KI-Forschung. Maschinelle Sprachverarbeitung und Forschungsförderung am Institut für Deutsche Sprache",
+      "authors": [
+        "Florian Müller"
+      ],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "Jakob Tschandl",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Expertensysteme und Forschungspolitik im Spiegel der Gesellschaft für Mathematik und Datenverarbeitung",
+      "authors": [
+        "Jakob Tschandl"
+      ],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "Helen Piel",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Das Münchener Intellektik Komitee. Diskussionsforum und Netzwerk in der frühen bundesdeutschen Kognitionswissenschaft",
+      "authors": [
+        "Helen Piel"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Abbildungsverzeichnis",
+      "authors": [],
+      "printed_page_number": "275",
+      "skip": true
+    },
+    {
+      "title": "Personenregister",
+      "authors": [],
+      "printed_page_number": "276",
+      "skip": true
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "279",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

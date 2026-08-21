@@ -1,0 +1,54 @@
+{
+  "entries": [
+    {
+      "title": "Einleitung",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Siegfried im Nibelungenlied. Idoneität und Minnedienst",
+      "authors": [],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "Volsunga saga. Die Geschichte eines Königsgeschlechts",
+      "authors": [],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "Kritik an Dietrich von Bern in der historischen Dietrichepik",
+      "authors": [],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "Das Eckenlied. Diskussion der Dietrichbilder",
+      "authors": [],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "Ortnit. Ein Incubus-Herrscher",
+      "authors": [],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "Nachgermanische Heldendichtung",
+      "authors": [],
+      "printed_page_number": "209",
+      "skip": false
+    },
+    {
+      "title": "Register",
+      "authors": [],
+      "printed_page_number": "237",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

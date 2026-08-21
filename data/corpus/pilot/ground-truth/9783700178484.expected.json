@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "5",
+      "skip": true
+    },
+    {
+      "title": "Kleine Geschichte der Phonotik in \u00d6sterreich",
+      "authors": [
+        "Sylvia Moosm\u00fcller"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Acoustic correlates of stress and accent in Standard Austrian German",
+      "authors": [
+        "Dina El Zarka",
+        "Barbara Schuppler",
+        "Carina Lozo",
+        "Wolfgang Eibler",
+        "Patrick Wurzwallner"
+      ],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "An acoustic comparison between stressed and unstressed vowels in Standard Austrian German and Standard German German",
+      "authors": [
+        "Carolyn Schmid",
+        "Sylvia Moosm\u00fcller"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "An apparent-time study on vowel contrast in Standard Austrian German",
+      "authors": [
+        "Concei\u00e7\u00e3o Cunha",
+        "Philip Hoole"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Fifty shades of a \u00dcber die Entwicklung der /a/-Laute in der Innsbrucker Mundart",
+      "authors": [
+        "Irina Windhaber",
+        "Elisabeth Gruber"
+      ],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "Geschlechtsspezifische Realisierung des velarisierten Laterals im Wiener Dialekt",
+      "authors": [
+        "Carolyn Schmid",
+        "Sylvia Moosm\u00fcller",
+        "Christian H. Kassess"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "The spread of /l/-vocalization in Styria",
+      "authors": [
+        "Ralf Vollmann",
+        "Bettina Hobel",
+        "Thorsten Seifter",
+        "Florian Pokorny"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "137",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

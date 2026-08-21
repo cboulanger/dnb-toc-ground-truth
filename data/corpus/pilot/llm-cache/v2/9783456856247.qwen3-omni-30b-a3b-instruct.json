@@ -1,0 +1,640 @@
+{
+  "generated_at": 1787015965.8800159,
+  "entries": [
+    {
+      "title": "Hinweise zur 2. Auflage",
+      "printed_page_number": "8",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Sabine Kubesch"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\"Muss das so hei\u00dfen?\"",
+      "printed_page_number": "19",
+      "source_page_index": -1,
+      "authors": [
+        "Katja Weidner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Von der Forschung ins Klassenzimmer und aufs Spielfeld",
+      "printed_page_number": "21",
+      "source_page_index": -1,
+      "authors": [
+        "Sabine Kubesch",
+        "Sonja Hansen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil 1",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wissenschaftliche Grundlagen zur Bedeutung und F\u00f6rderung exekutiver Funktionen und der Selbstregulation",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Adele Diamond",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [
+        "Adele Diamond"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Biologische und soziale Einfl\u00fcsse auf kognitive Kontrollprozesse, die vom pr\u00e4frontalen Kortex abh\u00e4ngen",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [
+        "Adele Diamond"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Manfred Spitzer",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [
+        "Manfred Spitzer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Geld und Gl\u00fcck, Karies und Kriminalit\u00e4t",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [
+        "Manfred Spitzer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Roy F. Baumeister",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [
+        "Roy F. Baumeister"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wo ein Wille ist ...",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [
+        "Roy F. Baumeister"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sabine Kubesch",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "Sabine Kubesch"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Entwicklung, Testung und neuronale Korrelate \u201ekalter\u201c und \u201ehei\u00dfer\u201c exekutiver Funktionen",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "Sabine Kubesch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Clancy Blair",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [
+        "Clancy Blair"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Stress und die Entwicklung von Selbstregulation im Armutskontext",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [
+        "Clancy Blair"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Philip David Zelazo und Kristen E. Lyons",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [
+        "Philip David Zelazo",
+        "Kristen E. Lyons"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Potenzial fr\u00fchkindlichen Achtsamkeitstrainings: Neurowissenschaftliche Perspektive auf entwicklungsbezogene und sozial-kognitive Prozesse",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [
+        "Philip David Zelazo",
+        "Kristen E. Lyons"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Torkel Klingberg",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "Torkel Klingberg"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Training und Plastizit\u00e4t des Arbeitsged\u00e4chtnisses",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "Torkel Klingberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sabine Kubesch",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "Sabine Kubesch"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Sport macht's!",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "Sabine Kubesch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Adele Diamond und Kathleen Lee",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [
+        "Adele Diamond",
+        "Kathleen Lee"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Interventionen, die sich bei der Entwicklung exekutiver Funktionen bei 4- bis 12-j\u00e4hrigen Kindern als hilfreich erwiesen haben",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [
+        "Adele Diamond",
+        "Kathleen Lee"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil 2",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Transfer der wissenschaftlichen Erkenntnisse in die p\u00e4dagogische Praxis",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Katrin Hille",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [
+        "Katrin Hille"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Exekutive Funktionen \u2013 H\u00e4ufig gestellte Fragen von Lehrkr\u00e4ften",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [
+        "Katrin Hille"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ross W. Greene",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [
+        "Ross W. Greene"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kinder machen ihre Sache gut, wenn sie k\u00f6nnen",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [
+        "Ross W. Greene"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Markus Karr",
+      "printed_page_number": "205",
+      "source_page_index": -1,
+      "authors": [
+        "Markus Karr"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "ADHS und ADS in der Schule. Informationen und Empfehlungen eines Kinder- und Jugendpsychiaters",
+      "printed_page_number": "205",
+      "source_page_index": -1,
+      "authors": [
+        "Markus Karr"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Janina Eberhart",
+      "printed_page_number": "217",
+      "source_page_index": -1,
+      "authors": [
+        "Janina Eberhart"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "P\u00e4dagogische Konzepte zur F\u00f6rderung der exekutiven Funktionen und der Selbstregulation von Kindern und Jugendlichen",
+      "printed_page_number": "217",
+      "source_page_index": -1,
+      "authors": [
+        "Janina Eberhart"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Marie Ottilie Frenkel",
+      "printed_page_number": "231",
+      "source_page_index": -1,
+      "authors": [
+        "Marie Ottilie Frenkel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Achtsamkeitstraining in der Schule",
+      "printed_page_number": "231",
+      "source_page_index": -1,
+      "authors": [
+        "Marie Ottilie Frenkel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Daniel J. Siegel",
+      "printed_page_number": "247",
+      "source_page_index": -1,
+      "authors": [
+        "Daniel J. Siegel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Blick ins Gehirn. Das Gehirn in Ihrer Hand",
+      "printed_page_number": "247",
+      "source_page_index": -1,
+      "authors": [
+        "Daniel J. Siegel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Andrea Liebers, Sabine Kubesch und Sonja Hansen",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [
+        "Andrea Liebers",
+        "Sabine Kubesch",
+        "Sonja Hansen"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Stopp oder es kracht! Die Drei aus Hirnschmalz",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [
+        "Andrea Liebers",
+        "Sabine Kubesch",
+        "Sonja Hansen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Elena Bodrova und Deborah J. Leong",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [
+        "Elena Bodrova",
+        "Deborah J. Leong"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Selbstregulation: Eine Basis f\u00fcr fr\u00fches Lernen",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [
+        "Elena Bodrova",
+        "Deborah J. Leong"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Walter Mischel",
+      "printed_page_number": "273",
+      "source_page_index": -1,
+      "authors": [
+        "Walter Mischel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\"Selbstkontrolle kann man lernen\"",
+      "printed_page_number": "273",
+      "source_page_index": -1,
+      "authors": [
+        "Walter Mischel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verena Hofer, Sabine Kubesch und Sonja Hansen",
+      "printed_page_number": "279",
+      "source_page_index": -1,
+      "authors": [
+        "Verena Hofer",
+        "Sabine Kubesch",
+        "Sonja Hansen"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\"Weit entfernt von Bullerb\u00fc\u201c. F\u00f6rderung der Selbstregulation \u2013 Tipps f\u00fcr Eltern",
+      "printed_page_number": "279",
+      "source_page_index": -1,
+      "authors": [
+        "Verena Hofer",
+        "Sabine Kubesch",
+        "Sonja Hansen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Center on the Developing Child, Harvard University",
+      "printed_page_number": "295",
+      "source_page_index": -1,
+      "authors": [
+        "Center on the Developing Child, Harvard University"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Exekutive Funktionsf\u00e4higkeiten \u00fcben und verbessern \u2013 von der fr\u00fchen Kindheit bis ins Jugendalter",
+      "printed_page_number": "295",
+      "source_page_index": -1,
+      "authors": [
+        "Center on the Developing Child, Harvard University"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Susan E. Gathercole und Tracy P. Alloway",
+      "printed_page_number": "323",
+      "source_page_index": -1,
+      "authors": [
+        "Susan E. Gathercole",
+        "Tracy P. Alloway"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Arbeitsged\u00e4chtnis verstehen. Ein Leitfaden f\u00fcrs Klassenzimmer",
+      "printed_page_number": "323",
+      "source_page_index": -1,
+      "authors": [
+        "Susan E. Gathercole",
+        "Tracy P. Alloway"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Monika Brunsting",
+      "printed_page_number": "337",
+      "source_page_index": -1,
+      "authors": [
+        "Monika Brunsting"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Exekutive Funktionen und Lernschwierigkeiten oder: Wo ist denn hier der Regisseur?",
+      "printed_page_number": "337",
+      "source_page_index": -1,
+      "authors": [
+        "Monika Brunsting"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jutta Maurach und Roland Bauer",
+      "printed_page_number": "357",
+      "source_page_index": -1,
+      "authors": [
+        "Jutta Maurach",
+        "Roland Bauer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Exekutive Funktionen im offenen Mathematik- und Deutschunterricht in Grundschulen \u2013 am Beispiel von Einstein und Einsteins Schwester",
+      "printed_page_number": "357",
+      "source_page_index": -1,
+      "authors": [
+        "Jutta Maurach",
+        "Roland Bauer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Darya Lenz und Stefan Z\u00f6llner-Dressler",
+      "printed_page_number": "369",
+      "source_page_index": -1,
+      "authors": [
+        "Darya Lenz",
+        "Stefan Z\u00f6llner-Dressler"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wege zur F\u00f6rderung exekutiver Funktionen im instrumentalen und allgemeinen Musikunterricht",
+      "printed_page_number": "369",
+      "source_page_index": -1,
+      "authors": [
+        "Darya Lenz",
+        "Stefan Z\u00f6llner-Dressler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Thomas Bannenberg",
+      "printed_page_number": "387",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Bannenberg"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Yoga. Eine Bewegungspause",
+      "printed_page_number": "387",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Bannenberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Armin Emrich",
+      "printed_page_number": "393",
+      "source_page_index": -1,
+      "authors": [
+        "Armin Emrich"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\"Mein Verhalten muss auch in der Niederlage ein positiv konstruktives, ein selbstreguliertes Verhalten sein\"",
+      "printed_page_number": "393",
+      "source_page_index": -1,
+      "authors": [
+        "Armin Emrich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Herausgeberin",
+      "printed_page_number": "401",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Autoren",
+      "printed_page_number": "401",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sachwortverzeichnis",
+      "printed_page_number": "407",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

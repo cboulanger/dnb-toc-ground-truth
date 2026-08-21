@@ -1,0 +1,110 @@
+{
+  "entries": [
+    {
+      "title": "Introduction: Negation and Polarity at the Millennium",
+      "authors": [
+        "Laurence R. Horn",
+        "Yasuhiko Kato"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Notes on Contributors",
+      "authors": [],
+      "printed_page_number": "viii",
+      "skip": true
+    },
+    {
+      "title": "1. Negative Preposing, Negative Inversion, and the Split CP",
+      "authors": [
+        "Liliane Haegeman"
+      ],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "2. Interpretive Asymmetries of Negation",
+      "authors": [
+        "Yasuhiko Kato"
+      ],
+      "printed_page_number": "62",
+      "skip": false
+    },
+    {
+      "title": "3. Coordination, C-Command, and 'Logophoric' N-Words",
+      "authors": [
+        "Ljiljana Progovac"
+      ],
+      "printed_page_number": "88",
+      "skip": false
+    },
+    {
+      "title": "4. Negative Polarity Items: Triggering, Scope, and C-Command",
+      "authors": [
+        "Jack Hoeksema"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "5. Pick a Theory (Not Just Any Theory): Indiscriminatives and the Free-Choice Indefinite",
+      "authors": [
+        "Laurence R. Horn"
+      ],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "6. The Force of Negation in Wh Exclamatives and Interrogatives",
+      "authors": [
+        "Paul Portner",
+        "Raffaella Zanuttini"
+      ],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "7. Thetic and Categorical, Stage and Individual, Weak and Strong",
+      "authors": [
+        "William A. Ladusaw"
+      ],
+      "printed_page_number": "232",
+      "skip": false
+    },
+    {
+      "title": "8. Negative Inference, Space Construal, and Grammaticalization",
+      "authors": [
+        "Masa-aki Yamanashi"
+      ],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "Further Reading",
+      "authors": [],
+      "printed_page_number": "255",
+      "skip": true
+    },
+    {
+      "title": "Index of Names",
+      "authors": [],
+      "printed_page_number": "265",
+      "skip": true
+    },
+    {
+      "title": "Index of Topics",
+      "authors": [],
+      "printed_page_number": "268",
+      "skip": true
+    },
+    {
+      "title": "Index of Languages",
+      "authors": [],
+      "printed_page_number": "271",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

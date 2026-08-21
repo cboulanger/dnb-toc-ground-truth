@@ -1,0 +1,130 @@
+{
+  "generated_at": 1787256282.715019,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Richard Meng",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Richard Meng"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das rot-gr\u00fcne Experiment",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [
+        "Richard Meng"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Udo Bullmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Udo Bullmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Mehr als nur der Unterbau",
+      "printed_page_number": "54",
+      "source_page_index": -1,
+      "authors": [
+        "Udo Bullmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Peter Henkenborg",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Peter Henkenborg"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Andere Koalition oder andere Politik",
+      "printed_page_number": "91",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Henkenborg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Reinhold Weist",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Reinhold Weist"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Traum ist erst einmal ausgetr\u00e4umt",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhold Weist"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Martin Wentz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Martin Wentz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Eine neue SPD?",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Wentz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00bbNicht an den Inhalten gescheitert, sondern an den Umst\u00e4nden\u00ab",
+      "printed_page_number": "172",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die rot-gr\u00fcnen Jahre",
+      "printed_page_number": "196",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Das rot-grüne Experiment",
+      "authors": [
+        "Richard Meng"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "Mehr als nur der Unterbau. Die Zusammenarbeit von Sozialdemokraten und Grünen in den Kommunen",
+      "authors": [
+        "Udo Bullmann"
+      ],
+      "printed_page_number": "54",
+      "skip": false
+    },
+    {
+      "title": "Andere Koalition oder andere Politik. Verändert Rot-Grün die politische Kultur?",
+      "authors": [
+        "Peter Henkenborg"
+      ],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "Der Traum ist erst einmal ausgeträumt. Stationen grüner Realpolitik bis zur hessischen Wende",
+      "authors": [
+        "Reinhold Weist"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "Eine neue SPD? Sozialdemokratischer Wandel und rot-grüne Politik",
+      "authors": [
+        "Martin Wentz"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "»Nicht an den Inhalten gescheitert, sondern an den Umständen«",
+      "authors": [
+        "Heidemarie Wieczorek-Zeul",
+        "Hubert Kleinert",
+        "Jörg Jordan",
+        "Karl Kerschgens"
+      ],
+      "printed_page_number": "172",
+      "skip": false
+    },
+    {
+      "title": "Die rot-grünen Jahre. Eine Chronologie der hessischen Ereignisse",
+      "authors": [],
+      "printed_page_number": "196",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

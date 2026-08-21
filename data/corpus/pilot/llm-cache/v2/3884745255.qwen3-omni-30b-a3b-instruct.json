@@ -1,0 +1,917 @@
+{
+  "generated_at": 1787012017.2213461,
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einf\u00fchrung",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Jan-Pieter Barbian"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Entdeckung des Ruhrgebiets.",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Jan-Pieter Barbian"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Facetten eines unvollendeten Gesamtkunstwerks.",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Jan-Pieter Barbian"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "I. Der Wiederaufbau und die politische Entwicklung des Ruhrgebiets nach 1945",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Klaus Tenfelde",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Tenfelde"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Ruhrgebiet und Nordrhein-Westfalen.",
+      "printed_page_number": "24",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Tenfelde"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Land und die Industrieregion im Strukturwandel der Nachkriegszeit.",
+      "printed_page_number": "24",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Tenfelde"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sigrid Schneider",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Sigrid Schneider"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bildberichte. Fotografien aus dem Ruhrgebiet der Nachkriegszeit.",
+      "printed_page_number": "41",
+      "source_page_index": -1,
+      "authors": [
+        "Sigrid Schneider"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Heinz-J\u00fcrgen Priamus",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Heinz-J\u00fcrgen Priamus"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kommunale Verwaltungseliten zwischen Weimarer Verfassung und Landesgr\u00fcndung. Das Beispiel Gelsenkirchen.",
+      "printed_page_number": "54",
+      "source_page_index": -1,
+      "authors": [
+        "Heinz-J\u00fcrgen Priamus"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bernd Faulenbach",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Faulenbach"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Parteien- und Wahlentwicklung als Spiegel der Ver\u00e4nderung der politischen Kultur im Ruhrgebiet.",
+      "printed_page_number": "68",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Faulenbach"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stefan Goch",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Goch"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Rolle der Gewerkschaften und der Betriebsr\u00e4te im Ruhrgebiet in den 50er und 60er Jahren.",
+      "printed_page_number": "82",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Goch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Arno Kl\u00f6nne",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Arno Kl\u00f6nne"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kampagnen im Ruhrgebiet gegen die R\u00fcstungspolitik.",
+      "printed_page_number": "107",
+      "source_page_index": -1,
+      "authors": [
+        "Arno Kl\u00f6nne"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erinnerungen und Reflexionen eines \u201eZeitzeugen\u201c.",
+      "printed_page_number": "107",
+      "source_page_index": -1,
+      "authors": [
+        "Arno Kl\u00f6nne"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Andreas Benedict",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Benedict"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Regionale Planung und Strukturf\u00f6rderung.",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Benedict"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Geschichte des Siedlungsverbandes Ruhrkohlenbezirk (SVR) und seines Nachfolgers Kommunalverband Ruhrgebiet (KVR).",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Benedict"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Manfred Dammeyer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Manfred Dammeyer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Ruhrgebiet und Europa.",
+      "printed_page_number": "135",
+      "source_page_index": -1,
+      "authors": [
+        "Manfred Dammeyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. Die Wirtschaft des Ruhrgebiets: Vom Motor des Wiederaufbaus zur Krisenregion?",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Werner Plumpe",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Werner Plumpe"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Ende der Koloniezeit. Gedanken zur Sozial- und Wirtschaftsgeschichte des Ruhrgebietes in den 50er und fr\u00fchen 60er Jahren.",
+      "printed_page_number": "146",
+      "source_page_index": -1,
+      "authors": [
+        "Werner Plumpe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Karl Lauschke",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Karl Lauschke"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Praxis der Montanmitbestimmung im Ruhrgebiet.",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [
+        "Karl Lauschke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Katja Brickau/Ruth Kampherm",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Katja Brickau",
+        "Ruth Kampherm"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Ruhrgebiet \u2013 eine Industrieregion im Wandel.",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [
+        "Katja Brickau",
+        "Ruth Kampherm"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. Von der Zusammenbruchsgesellschaft zur Wohlstandsgesellschaft",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Hans H. Hanke",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hans H. Hanke"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kolonialstadt oder Metropole?",
+      "printed_page_number": "204",
+      "source_page_index": -1,
+      "authors": [
+        "Hans H. Hanke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Wiederaufbau der St\u00e4dte im Ruhrgebiet.",
+      "printed_page_number": "204",
+      "source_page_index": -1,
+      "authors": [
+        "Hans H. Hanke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dieter Blase",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Dieter Blase"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Stadtentwicklung im Ruhrgebiet.",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [
+        "Dieter Blase"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Von den 60er Jahren bis zur IBA Emscher Park.",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [
+        "Dieter Blase"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hartwig Suhrbier",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hartwig Suhrbier"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Weg vom Aschenputtel-Image. Zur ver\u00e4nderten Wahrnehmung von Bauten der Industrie- und Sozialgeschichte im Ruhrgebiet.",
+      "printed_page_number": "246",
+      "source_page_index": -1,
+      "authors": [
+        "Hartwig Suhrbier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rainer Weichelt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Weichelt"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der \u201everz\u00f6gerte blaue Himmel\u201c \u00fcber der Ruhr. Die Entdeckung der Umweltpolitik im Ruhrgebiet aus der Not der Verh\u00e4ltnisse 1949-1975.",
+      "printed_page_number": "259",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Weichelt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Almut Leh",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Almut Leh"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der DGB und seine Frauen.",
+      "printed_page_number": "285",
+      "source_page_index": -1,
+      "authors": [
+        "Almut Leh"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gewerkschaftspolitisches Engagement von Frauen in der Nachkriegszeit.",
+      "printed_page_number": "285",
+      "source_page_index": -1,
+      "authors": [
+        "Almut Leh"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Alexander v. Plato",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Alexander v. Plato"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Warum die Bildzeitung im Ruhrgebiet so wenig erfolgreich war.",
+      "printed_page_number": "306",
+      "source_page_index": -1,
+      "authors": [
+        "Alexander v. Plato"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Von Presse und Milieus im Ruhrgebiet nach 1945.",
+      "printed_page_number": "306",
+      "source_page_index": -1,
+      "authors": [
+        "Alexander v. Plato"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anne Schl\u00fcter",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Anne Schl\u00fcter"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Studierende aus Arbeiterfamilien im Ruhrgebiet.",
+      "printed_page_number": "315",
+      "source_page_index": -1,
+      "authors": [
+        "Anne Schl\u00fcter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bildungsentscheidungen ohne famili\u00e4re Vorbilder?",
+      "printed_page_number": "315",
+      "source_page_index": -1,
+      "authors": [
+        "Anne Schl\u00fcter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wilfried Breyvogel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Wilfried Breyvogel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die \u201e68er\u201c im Ruhrgebiet.",
+      "printed_page_number": "329",
+      "source_page_index": -1,
+      "authors": [
+        "Wilfried Breyvogel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Keith Ulrich",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Keith Ulrich"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Von Simon Hirschland zu Burkhardt & Co.",
+      "printed_page_number": "339",
+      "source_page_index": -1,
+      "authors": [
+        "Keith Ulrich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Geschichte des traditionsreichsten Bankhauses des Ruhrgebiets.",
+      "printed_page_number": "339",
+      "source_page_index": -1,
+      "authors": [
+        "Keith Ulrich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ludger Heid",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ludger Heid"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eWer ein Haus baut, der will bleiben.\u201c",
+      "printed_page_number": "357",
+      "source_page_index": -1,
+      "authors": [
+        "Ludger Heid"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die J\u00fcdische Gemeinde M\u00fclheim/Duisburg/Oberhausen nach der Shoah.",
+      "printed_page_number": "357",
+      "source_page_index": -1,
+      "authors": [
+        "Ludger Heid"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dietrich Thr\u00e4nhardt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Dietrich Thr\u00e4nhardt"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die eingewanderten \u201eAusl\u00e4nder\u201c im Ruhrgebiet.",
+      "printed_page_number": "379",
+      "source_page_index": -1,
+      "authors": [
+        "Dietrich Thr\u00e4nhardt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IV. \u201eKultur f\u00fcr alle\u201c?: Kultur und Freizeitgestaltung im Ruhrgebiet",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Eckart Pankoke",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Eckart Pankoke"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Von der \u201eRevier-Kultur\u201c zur \u201eKulturregion\u201c.",
+      "printed_page_number": "396",
+      "source_page_index": -1,
+      "authors": [
+        "Eckart Pankoke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kulturentwicklung als Regionalentwicklung im Ballungsraum Ruhrgebiet.",
+      "printed_page_number": "396",
+      "source_page_index": -1,
+      "authors": [
+        "Eckart Pankoke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Georg Holl\u00e4nder",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Georg Holl\u00e4nder"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Regression in die europ\u00e4ische Zukunft.",
+      "printed_page_number": "419",
+      "source_page_index": -1,
+      "authors": [
+        "Georg Holl\u00e4nder"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kulturpolitik und politische Kultur in Duisburg 1945 bis 1964.",
+      "printed_page_number": "419",
+      "source_page_index": -1,
+      "authors": [
+        "Georg Holl\u00e4nder"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Franz-Josef Jelich",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Franz-Josef Jelich"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vom \u201eSinn\u201c der Ruhrfestspiele.",
+      "printed_page_number": "433",
+      "source_page_index": -1,
+      "authors": [
+        "Franz-Josef Jelich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zu dem Versuch, nach 1945 eine \u201esoziale Kultur\u201c zu begr\u00fcnden.",
+      "printed_page_number": "433",
+      "source_page_index": -1,
+      "authors": [
+        "Franz-Josef Jelich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rainer Noltenius",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Noltenius"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Ruhrgebiet \u2013 Zentrum der Literatur der industriellen Arbeitswelt seit 1960.",
+      "printed_page_number": "444",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Noltenius"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Heidi Matthias",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Heidi Matthias"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kohle, Kumpel, K\u00fcnstlerinnen. Frauenkultur im Revier.",
+      "printed_page_number": "458",
+      "source_page_index": -1,
+      "authors": [
+        "Heidi Matthias"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Uwe-Karsten Ketelsen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Uwe-Karsten Ketelsen"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Von einer Angebots- zu einer Nachfragemkultur.",
+      "printed_page_number": "470",
+      "source_page_index": -1,
+      "authors": [
+        "Uwe-Karsten Ketelsen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Bochumer Schauspielhaus w\u00e4hrend der 70er und 80er Jahre als Beispiel.",
+      "printed_page_number": "470",
+      "source_page_index": -1,
+      "authors": [
+        "Uwe-Karsten Ketelsen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rolf Dieter Lavier",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Dieter Lavier"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kino im Ruhrgebiet.",
+      "printed_page_number": "486",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Dieter Lavier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hilmar Hoffmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hilmar Hoffmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die aufm\u00fcpfigen Filmfestspiele. Die Kurzfilmtage in Oberhausen.",
+      "printed_page_number": "502",
+      "source_page_index": -1,
+      "authors": [
+        "Hilmar Hoffmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kerstin Salewski",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Kerstin Salewski"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zur Sprache der \u00e4lteren Bergleute in den letzten Zechensiedlungen des Ruhrgebiets.",
+      "printed_page_number": "507",
+      "source_page_index": -1,
+      "authors": [
+        "Kerstin Salewski"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christoph R\u00fclcker",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Christoph R\u00fclcker"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Trabrennbahnen im Ruhrgebiet.",
+      "printed_page_number": "520",
+      "source_page_index": -1,
+      "authors": [
+        "Christoph R\u00fclcker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Berthold Heizmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Berthold Heizmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Trinkhallen im Ruhrgebiet \u2013 Geschichte und Geschichten.",
+      "printed_page_number": "534",
+      "source_page_index": -1,
+      "authors": [
+        "Berthold Heizmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "V. Anhang",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Biografische Angaben zu den Autorinnen und Autoren.",
+      "printed_page_number": "548",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Personenregister.",
+      "printed_page_number": "556",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ortsregister.",
+      "printed_page_number": "560",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bildnachweis.",
+      "printed_page_number": "563",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

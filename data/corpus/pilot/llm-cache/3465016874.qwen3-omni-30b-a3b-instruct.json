@@ -1,0 +1,53 @@
+{
+  "generated_at": 1786877711.558336,
+  "entries": [
+    {
+      "title": "Einleitung",
+      "printed_page_number": 9,
+      "source_page_index": -1,
+      "authors": [
+        "ERK VOLKMAR HEYEN"
+      ],
+      "printed_roman": true
+    },
+    {
+      "title": "Rechtswissenschaft im Gesellschafts- und Staatssystem",
+      "printed_page_number": 3,
+      "source_page_index": -1,
+      "authors": [
+        "ANDR\u00c9-JEAN ARNAUD",
+        "BARTOLOM\u00c9 CLAVERO",
+        "JOHANNES-MICHAEL SCHOLZ",
+        "MARIE-SYLVIE DUPONT-BOUCHAT",
+        "ANT\u00d3NIO M. HESPANHA"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Komunikationssysteme der Rechtswissenschaft",
+      "printed_page_number": 135,
+      "source_page_index": -1,
+      "authors": [
+        "R\u00dcDIGER VOIGT",
+        "WOLFGANG LUTHARDT",
+        "FILIPPO RANIERI",
+        "ERK VOLKMAR HEYEN"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Rechtswissenschaft im Berufs- und Wissenschaftssystem",
+      "printed_page_number": 201,
+      "source_page_index": -1,
+      "authors": [
+        "DAVID F. LINDENFELD",
+        "HUBERT ROTTLEUTHNER",
+        "J\u00d8RGEN DALBERG-LARSEN",
+        "OTTO W. M. KAMSTRA",
+        "FRANK B. M. KUNNEMAN",
+        "JUHA P\u00d6YH\u00d6NEN"
+      ],
+      "printed_roman": false
+    }
+  ]
+}

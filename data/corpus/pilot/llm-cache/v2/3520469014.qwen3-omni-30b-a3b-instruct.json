@@ -1,0 +1,697 @@
+{
+  "generated_at": 1787011888.1949089,
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": "VIII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Mitarbeiterverzeichnis",
+      "printed_page_number": "VIII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Vorwort von Peter DINZELBACHER",
+      "printed_page_number": "IX",
+      "source_page_index": -1,
+      "authors": [
+        "Peter DINZELBACHER"
+      ],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Zu Theorie und Praxis der Mentalit\u00e4tsgeschichte von Peter DINZELBACHER",
+      "printed_page_number": "XV",
+      "source_page_index": -1,
+      "authors": [
+        "Peter DINZELBACHER"
+      ],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Individuum/Familie/Gesellschaft",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antike von Barbara FEICHTINGER",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Barbara FEICHTINGER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mittelalter von Martina KESSEL",
+      "printed_page_number": "18",
+      "source_page_index": -1,
+      "authors": [
+        "Martina KESSEL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neuzeit von Martina KESSEL",
+      "printed_page_number": "38",
+      "source_page_index": -1,
+      "authors": [
+        "Martina KESSEL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sexualit\u00e4t/Liebe",
+      "printed_page_number": "54",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antike von Barbara FEICHTINGER",
+      "printed_page_number": "54",
+      "source_page_index": -1,
+      "authors": [
+        "Barbara FEICHTINGER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mittelalter von Peter DINZELBACHER",
+      "printed_page_number": "70",
+      "source_page_index": -1,
+      "authors": [
+        "Peter DINZELBACHER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neuzeit von Wolfgang BEUTIN",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang BEUTIN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Religiosit\u00e4t",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antike von Holger SONNABEND",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [
+        "Holger SONNABEND"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mittelalter von Peter DINZELBACHER",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [
+        "Peter DINZELBACHER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neuzeit von Wolfgang BEUTIN",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang BEUTIN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "K\u00f6rper und Seele",
+      "printed_page_number": "154",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antike von Christian B\u00d6HME",
+      "printed_page_number": "154",
+      "source_page_index": -1,
+      "authors": [
+        "Christian B\u00d6HME"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mittelalter von Peter DINZELBACHER/",
+      "printed_page_number": "160",
+      "source_page_index": -1,
+      "authors": [
+        "Peter DINZELBACHER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rolf SPRANDEL",
+      "printed_page_number": "160",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf SPRANDEL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neuzeit von Christina VANJA",
+      "printed_page_number": "178",
+      "source_page_index": -1,
+      "authors": [
+        "Christina VANJA"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Krankheit",
+      "printed_page_number": "187",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antike von Ines STAHLMANN",
+      "printed_page_number": "187",
+      "source_page_index": -1,
+      "authors": [
+        "Ines STAHLMANN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mittelalter von Christina VANJA",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [
+        "Christina VANJA"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neuzeit von Christina VANJA",
+      "printed_page_number": "200",
+      "source_page_index": -1,
+      "authors": [
+        "Christina VANJA"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lebensalter",
+      "printed_page_number": "208",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antike von Ines STAHLMANN",
+      "printed_page_number": "208",
+      "source_page_index": -1,
+      "authors": [
+        "Ines STAHLMANN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mittelalter von Klaus ARNOLD",
+      "printed_page_number": "216",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus ARNOLD"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neuzeit von Beatrix BASTL",
+      "printed_page_number": "222",
+      "source_page_index": -1,
+      "authors": [
+        "Beatrix BASTL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sterben/Tod",
+      "printed_page_number": "231",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antike von Werner PORTMANN",
+      "printed_page_number": "231",
+      "source_page_index": -1,
+      "authors": [
+        "Werner PORTMANN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mittelalter von Peter DINZELBACHER",
+      "printed_page_number": "244",
+      "source_page_index": -1,
+      "authors": [
+        "Peter DINZELBACHER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neuzeit von Martina KESSEL",
+      "printed_page_number": "260",
+      "source_page_index": -1,
+      "authors": [
+        "Martina KESSEL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00c4ngste und Hoffnungen",
+      "printed_page_number": "275",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antike von Christian B\u00d6HME",
+      "printed_page_number": "275",
+      "source_page_index": -1,
+      "authors": [
+        "Christian B\u00d6HME"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mittelalter von Peter DINZELBACHER",
+      "printed_page_number": "285",
+      "source_page_index": -1,
+      "authors": [
+        "Peter DINZELBACHER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neuzeit von Karl VOCELKA",
+      "printed_page_number": "295",
+      "source_page_index": -1,
+      "authors": [
+        "Karl VOCELKA"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Freude, Leid und Gl\u00fcck",
+      "printed_page_number": "302",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antike von Christian B\u00d6HME",
+      "printed_page_number": "302",
+      "source_page_index": -1,
+      "authors": [
+        "Christian B\u00d6HME"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mittelalter von Urban K\u00dcSTERS",
+      "printed_page_number": "307",
+      "source_page_index": -1,
+      "authors": [
+        "Urban K\u00dcSTERS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neuzeit von Bea LUNDT",
+      "printed_page_number": "317",
+      "source_page_index": -1,
+      "authors": [
+        "Bea LUNDT"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Arbeit und Fest",
+      "printed_page_number": "326",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antike von Hans KLOFT",
+      "printed_page_number": "326",
+      "source_page_index": -1,
+      "authors": [
+        "Hans KLOFT"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mittelalter von Jacques LE GOFF",
+      "printed_page_number": "336",
+      "source_page_index": -1,
+      "authors": [
+        "Jacques LE GOFF"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neuzeit von Andreas WIRSCHING",
+      "printed_page_number": "349",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas WIRSCHING"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kommunikation",
+      "printed_page_number": "362",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antike von Hans KLOFT",
+      "printed_page_number": "362",
+      "source_page_index": -1,
+      "authors": [
+        "Hans KLOFT"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mittelalter von Albrecht CLASSEN",
+      "printed_page_number": "370",
+      "source_page_index": -1,
+      "authors": [
+        "Albrecht CLASSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neuzeit von J\u00f6rg REQUATE",
+      "printed_page_number": "390",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg REQUATE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Fremde und das Eigene",
+      "printed_page_number": "400",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antike von Dagmar STUTZINGER",
+      "printed_page_number": "400",
+      "source_page_index": -1,
+      "authors": [
+        "Dagmar STUTZINGER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mittelalter von Harry K\u00dcHNEL",
+      "printed_page_number": "415",
+      "source_page_index": -1,
+      "authors": [
+        "Harry K\u00dcHNEL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neuzeit von Albrecht CLASSEN",
+      "printed_page_number": "429",
+      "source_page_index": -1,
+      "authors": [
+        "Albrecht CLASSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Herrschaft",
+      "printed_page_number": "451",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antike von Hans KLOFT",
+      "printed_page_number": "451",
+      "source_page_index": -1,
+      "authors": [
+        "Hans KLOFT"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mittelalter von Hans-Werner GOETZ",
+      "printed_page_number": "466",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Werner GOETZ"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neuzeit von Johann Baptist M\u00dcLLER",
+      "printed_page_number": "476",
+      "source_page_index": -1,
+      "authors": [
+        "Johann Baptist M\u00dcLLER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Recht",
+      "printed_page_number": "489",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antike von J. Michael RAINER",
+      "printed_page_number": "489",
+      "source_page_index": -1,
+      "authors": [
+        "J. Michael RAINER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mittelalter von Wolfgang SCHILD",
+      "printed_page_number": "513",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang SCHILD"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neuzeit von Wolfgang SCHILD",
+      "printed_page_number": "534",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang SCHILD"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Natur/Umwelt",
+      "printed_page_number": "556",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antike von G\u00fcnther E. TH\u00dcRY",
+      "printed_page_number": "556",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnther E. TH\u00dcRY"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mittelalter von Harry K\u00dcHNEL",
+      "printed_page_number": "562",
+      "source_page_index": -1,
+      "authors": [
+        "Harry K\u00dcHNEL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neuzeit von Rolf P. SIEFERLE",
+      "printed_page_number": "580",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf P. SIEFERLE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Raum",
+      "printed_page_number": "592",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antike von Eckart OLSHAUSEN",
+      "printed_page_number": "592",
+      "source_page_index": -1,
+      "authors": [
+        "Eckart OLSHAUSEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mittelalter von Peter DINZELBACHER",
+      "printed_page_number": "604",
+      "source_page_index": -1,
+      "authors": [
+        "Peter DINZELBACHER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neuzeit von Gerhard STROHMEIER",
+      "printed_page_number": "615",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard STROHMEIER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zeit/Geschichte",
+      "printed_page_number": "633",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antike von Carl-Friedrich GEYER",
+      "printed_page_number": "633",
+      "source_page_index": -1,
+      "authors": [
+        "Carl-Friedrich GEYER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mittelalter von Hans-Werner GOETZ",
+      "printed_page_number": "640",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Werner GOETZ"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neuzeit von Peter DINZELBACHER",
+      "printed_page_number": "650",
+      "source_page_index": -1,
+      "authors": [
+        "Peter DINZELBACHER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

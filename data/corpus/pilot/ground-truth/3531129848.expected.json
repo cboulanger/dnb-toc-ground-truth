@@ -1,0 +1,130 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Einleitung: Beobachten und Verstehen - eine überwundene Differenz?",
+      "authors": [
+        "Tilmann Sutter"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Abgrenzungen einer konstruktivistischen Hermeneutik",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Rekonstruktion und Dekonstruktion",
+      "authors": [
+        "Uwe Weisenbacher"
+      ],
+      "printed_page_number": "32",
+      "skip": false
+    },
+    {
+      "title": "Beobachten, Verstehen und Verständigung. Zur Reformulierung hermeneutischer Grundkonzepte in der Diskursanalyse und der Systemtheorie",
+      "authors": [
+        "Georg Kneer"
+      ],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "Konstruieren und Komponieren. Zur Differenz von Methodologie und Methode bei Max Weber",
+      "authors": [
+        "Friedhelm Guttandin"
+      ],
+      "printed_page_number": "70",
+      "skip": false
+    },
+    {
+      "title": "Plädoyer für das Ende einer Methodologiedebatte bis zur letzten Konsequenz",
+      "authors": [
+        "Jo Reichertz"
+      ],
+      "printed_page_number": "98",
+      "skip": false
+    },
+    {
+      "title": "Brückenschläge zwischen Hermeneutik und Systemtheorie",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Kommunikation verstehen. Einige Überlegungen zur empirischen Anwendbarkeit einer systemtheoretisch informierten Hermeneutik",
+      "authors": [
+        "Armin Nassehi"
+      ],
+      "printed_page_number": "134",
+      "skip": false
+    },
+    {
+      "title": "Die Analyse von Struktursicherungsoperationen als Kooperationsfeld von Konversationsanalyse, objektiver Hermeneutik und Systemtheorie",
+      "authors": [
+        "Wolfgang Ludwig Schneider"
+      ],
+      "printed_page_number": "164",
+      "skip": false
+    },
+    {
+      "title": "Sachhaltigkeit versus Verfahren? Einige methodologische Konsequenzen konstruktivistischer Wissenschaftssoziologie",
+      "authors": [
+        "Alfons Bora"
+      ],
+      "printed_page_number": "228",
+      "skip": false
+    },
+    {
+      "title": "Methodologische und methodische Probleme einer konstruktivistischen Hermeneutik",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Konstruktivistische Rekonstruktion. Theoretische und empirische Implikationen aus konversationsanalytischer Sicht",
+      "authors": [
+        "Heiko Hausendorf"
+      ],
+      "printed_page_number": "254",
+      "skip": false
+    },
+    {
+      "title": "Strukturanalytische Handlungstheorie und subjektive Sinnsetzung. Zur Methodologie und Methode einer hermeneutischen Wissenssoziologie",
+      "authors": [
+        "Norbert Schröer"
+      ],
+      "printed_page_number": "273",
+      "skip": false
+    },
+    {
+      "title": "Rekonstruktion und doppelte Kontingenz. Konstitutionstheoretische Überlegungen zu einer konstruktivistischen Hermeneutik",
+      "authors": [
+        "Tilmann Sutter"
+      ],
+      "printed_page_number": "303",
+      "skip": false
+    },
+    {
+      "title": "Hinweise zu den Autoren",
+      "authors": [],
+      "printed_page_number": "337",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

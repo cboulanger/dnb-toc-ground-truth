@@ -1,0 +1,48 @@
+{
+  "entries": [
+    {
+      "title": "I Fragen und Scheinfragen",
+      "authors": [],
+      "printed_page_number": "6",
+      "skip": false
+    },
+    {
+      "title": "II \u00dcber Gedichte",
+      "authors": [],
+      "printed_page_number": "24",
+      "skip": false
+    },
+    {
+      "title": "III Das schreibende Ich",
+      "authors": [],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "IV Der Umgang mit Namen",
+      "authors": [],
+      "printed_page_number": "62",
+      "skip": false
+    },
+    {
+      "title": "V Literatur als Utopie",
+      "authors": [],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen",
+      "authors": [],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

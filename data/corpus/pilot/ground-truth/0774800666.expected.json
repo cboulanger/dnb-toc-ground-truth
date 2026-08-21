@@ -1,0 +1,145 @@
+{
+  "entries": [
+    {
+      "title": "CONTENTS",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "INTRODUCTION",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": true
+    },
+    {
+      "title": "Dakota Accent",
+      "authors": [
+        "J. K. CHAMBERS"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Palatalizations and Related Rules in Sarcee",
+      "authors": [
+        "EUNG-DO COOK"
+      ],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "Bella Coola Syntax",
+      "authors": [
+        "PHILIP W. DAVIS",
+        "ROSS SAUNDERS"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "Micmac Intransitive Verb Morphology",
+      "authors": [
+        "JAMES L. FIDELHOLTZ"
+      ],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "Copying from Complements in Blackfoot",
+      "authors": [
+        "DONALD G. FRANTZ"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "Obstruent Voicing in Gitksan: Some Implications for Distinctive Feature Theory",
+      "authors": [
+        "JAMES E. HOARD"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "Equational Sentence Structure in Eskimo",
+      "authors": [
+        "TH. R. HOFMANN"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "Rule Mitosis: The Historical Development of Algonquian Palatalization",
+      "authors": [
+        "JONATHAN KAYE"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "Surface Structure Constraints and Nitinaht Enclitics",
+      "authors": [
+        "TERRY J. KLOKEID"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Une 'conspiration' en Eskimo",
+      "authors": [
+        "J. H. MASSENET"
+      ],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "Proto-Algonquian *sk in Woods Cree",
+      "authors": [
+        "DAVID H. PENTLAND"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "Some Implications of Algonquian Palatalization",
+      "authors": [
+        "GLYNE L. PIGGOTT"
+      ],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "On Restricting the Power of Global Rules in Phonology: A Case from Dakota",
+      "authors": [
+        "PATRICIA A. SHAW"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "The Origin of Blackfoot Geminate Stops and Nasals",
+      "authors": [
+        "GREGORY E. THOMSON"
+      ],
+      "printed_page_number": "249",
+      "skip": false
+    },
+    {
+      "title": "How Many Obviatives: Sense and Reference in a Cree Verb Paradigm",
+      "authors": [
+        "H. CHRISTOPH WOLFART"
+      ],
+      "printed_page_number": "255",
+      "skip": false
+    },
+    {
+      "title": "REFERENCES",
+      "authors": [],
+      "printed_page_number": "273",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

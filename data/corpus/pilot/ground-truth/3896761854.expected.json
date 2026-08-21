@@ -1,0 +1,183 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": true
+    },
+    {
+      "title": "Ein Interview mit Horst Siebert",
+      "authors": [],
+      "printed_page_number": "5",
+      "skip": false
+    },
+    {
+      "title": "Konstruktivistische Ermöglichungsdidaktik",
+      "authors": [
+        "Rolf Arnold"
+      ],
+      "printed_page_number": "18",
+      "skip": false
+    },
+    {
+      "title": "Vereinbares und Widersprüchliches zwischen Curricula und Konstruktivismus",
+      "authors": [
+        "Hans Tietgens"
+      ],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "Wirklichkeit widerfährt - Zu Anregungspotential und Kritik der Konstruktivismus-Rezeption",
+      "authors": [
+        "Erhard Schlutz"
+      ],
+      "printed_page_number": "40",
+      "skip": false
+    },
+    {
+      "title": "Zeitgeist und Theoriekonstruktion",
+      "authors": [
+        "Peter Faulstich"
+      ],
+      "printed_page_number": "58",
+      "skip": false
+    },
+    {
+      "title": "Praktischer Konstruktivismus - Anmerkungen zur Bedeutung von NLP für eine Erwachsenenpädagogik als Handlungswissenschaft",
+      "authors": [
+        "Herbert Gerl"
+      ],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "Paradigmenwechsel in der Erwachsenenbildung",
+      "authors": [
+        "Detlef Horster"
+      ],
+      "printed_page_number": "78",
+      "skip": false
+    },
+    {
+      "title": "Implizite Alltagsdidaktik - Lebensweltliche Institutionalisierungen von Lernkontexten",
+      "authors": [
+        "Ortfried Schäffter"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "Sozialwissenschaftliche Vorläufer und Kritik des Konstruktivismus - ein wissenschafts(auto)biographischer Zugang",
+      "authors": [
+        "Hartmut M. Griese"
+      ],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "Pluralität und Subsidiarität im System der Erwachsenenbildung/Weiterbildung, nationale und internationale Kontexte",
+      "authors": [
+        "Joachim H. Knoll"
+      ],
+      "printed_page_number": "124",
+      "skip": false
+    },
+    {
+      "title": "Weiterbildung als Politikfeld - Ausgewählte Entwicklungslinien seit 1970",
+      "authors": [
+        "Detlef Kuhlenkamp"
+      ],
+      "printed_page_number": "142",
+      "skip": false
+    },
+    {
+      "title": "Reflexionsprobleme im Weiterbildungssystem: Sinn und Weiterbildung",
+      "authors": [
+        "Josef Olbrich"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "Erwachsenenbildungs-Professionalität als theoretische Konstruktion",
+      "authors": [
+        "Roswitha Peters"
+      ],
+      "printed_page_number": "178",
+      "skip": false
+    },
+    {
+      "title": "Transfersicherung in der Betrieblichen Weiterbildung - Bildungsarbeit unter Legitimationsdruck",
+      "authors": [
+        "Lothar Schäffner"
+      ],
+      "printed_page_number": "192",
+      "skip": false
+    },
+    {
+      "title": "Veränderungen der Funktion und Aufgaben des Weiterbildungspersonals vor dem Hintergrund prozeßorientierter beruflicher Weiterbildung",
+      "authors": [
+        "Christiane Schiersmann"
+      ],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "Vernetztes Planen als Angleichungshandeln",
+      "authors": [
+        "Wiltrud Gieseke"
+      ],
+      "printed_page_number": "212",
+      "skip": false
+    },
+    {
+      "title": "Lebensführung - Dimension der Erwachsenenbildung",
+      "authors": [
+        "Rainer Brödel"
+      ],
+      "printed_page_number": "221",
+      "skip": false
+    },
+    {
+      "title": "Kritische Situationen in Veranstaltungen der Erwachsenenbildung als neuer Untersuchungsgegenstand der Lehr-Lernforschung",
+      "authors": [
+        "Gerd Doerry",
+        "Elke Bovier"
+      ],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "Kontinuität oder Diskontinuität von Bildungsbiographien? Schulische Lernerfahrungen und Weiterbildungsinteressen aus der Perspektive sozialer Milieuforschung",
+      "authors": [
+        "Rudolf Tippelt"
+      ],
+      "printed_page_number": "253",
+      "skip": false
+    },
+    {
+      "title": "Praxis und Theorie in der Erwachsenenbildung",
+      "authors": [
+        "Ekkehard Nuissl"
+      ],
+      "printed_page_number": "265",
+      "skip": false
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "276",
+      "skip": true
+    },
+    {
+      "title": "Bibliographie Prof. Dr. Horst Siebert",
+      "authors": [],
+      "printed_page_number": "283",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

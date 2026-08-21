@@ -1,0 +1,1181 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort von Ralf Kleber",
+      "authors": [],
+      "printed_page_number": "13",
+      "skip": true
+    },
+    {
+      "title": "Vorwort des Herausgebers",
+      "authors": [],
+      "printed_page_number": "15",
+      "skip": true
+    },
+    {
+      "title": "Was Entscheider über dieses Buch sagen",
+      "authors": [],
+      "printed_page_number": "17",
+      "skip": true
+    },
+    {
+      "title": "Die Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "19",
+      "skip": true
+    },
+    {
+      "title": "Teil I: Kontext und Dringlichkeit",
+      "authors": [],
+      "printed_page_number": "27",
+      "skip": true
+    },
+    {
+      "title": "1 Der Kostenschock: Warum abwarten bei KI keine Option ist",
+      "authors": [
+        "Tawia Odoi"
+      ],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "1.1 KI als Kostenschock, nicht als Feature: Der fundamentale Preisverfall",
+      "authors": [],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "1.2 Warum es bei KI anders ist als bei bisherigen Technologiezyklen",
+      "authors": [],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "1.3 Rezession als Stresstest, nicht als Ursache",
+      "authors": [],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "1.4 Zwei Geschwindigkeiten: Warum Märkte schneller sind als Organisationen",
+      "authors": [],
+      "printed_page_number": "34",
+      "skip": false
+    },
+    {
+      "title": "1.5 Pfadabhängigkeit: Technologieentscheidungen sind theoretisch reversibel, praktisch nicht",
+      "authors": [],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "1.6 Arbeit, Rollen – und das ungelöste Nachwuchsproblem",
+      "authors": [],
+      "printed_page_number": "44",
+      "skip": false
+    },
+    {
+      "title": "1.7 Warum frühes Handeln trotz Unreife Pflicht ist",
+      "authors": [],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "1.8 Der Weg nach vorn",
+      "authors": [],
+      "printed_page_number": "46",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "47",
+      "skip": true
+    },
+    {
+      "title": "2 Wo wir in Sachen KI wirklich stehen und warum Führung jetzt entscheidend ist",
+      "authors": [
+        "Tawia Odoi"
+      ],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "2.1 Sichtbar, aber wirkungslos",
+      "authors": [],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "2.2 Selbstberuhigung und Realitätstest",
+      "authors": [],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "2.3 Unvollendete Transformationen",
+      "authors": [],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "2.4 Der operative »Grind« als eigentlicher Engpass",
+      "authors": [],
+      "printed_page_number": "52",
+      "skip": false
+    },
+    {
+      "title": "2.5 Führung als Systemarchitektur",
+      "authors": [],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "2.6 Skepsis und Verantwortung",
+      "authors": [],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "3 Das neue Weltbild: Führung im KI-Zeitalter",
+      "authors": [
+        "Frank Förster"
+      ],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "3.1 Wo kommen wir her und wo wollen wir hin?",
+      "authors": [],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "3.2 Erfolgsfaktoren einer erfolgreichen Transformation und warum KI die Lage verschärft",
+      "authors": [],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "3.3 Schlusswort: Die Renaissance der Autonomie in den Unternehmen mithilfe von KI",
+      "authors": [],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "82",
+      "skip": true
+    },
+    {
+      "title": "Teil II: Technologie als Entscheidungsgrundlage",
+      "authors": [],
+      "printed_page_number": "85",
+      "skip": true
+    },
+    {
+      "title": "1 Von regelbasiert zu agentenbasiert: Wie KI vom Expertensystem zur autonomen Intelligenz wurde",
+      "authors": [
+        "Michael Gramlich"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "1.1 Ein Wendepunkt: Warum sich KI seit 2025 anders anfühlt als zuvor",
+      "authors": [],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "1.2 Was ist KI und wie sind wir bis hierhin gekommen?",
+      "authors": [],
+      "printed_page_number": "90",
+      "skip": false
+    },
+    {
+      "title": "1.3 ChatGPT und Agentic AI – wo stehen wir heute und was ist diesmal anders?",
+      "authors": [],
+      "printed_page_number": "98",
+      "skip": false
+    },
+    {
+      "title": "1.4 Die Auswirkungen von KI – heute und morgen",
+      "authors": [],
+      "printed_page_number": "110",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "115",
+      "skip": true
+    },
+    {
+      "title": "2 Generativ + analytisch: Die Zukunft leistungsfähiger KI in Unternehmen",
+      "authors": [
+        "Annina Neumann"
+      ],
+      "printed_page_number": "116",
+      "skip": false
+    },
+    {
+      "title": "2.1 Analytische KI und ihre Einordnung im historischen Kontext",
+      "authors": [],
+      "printed_page_number": "116",
+      "skip": false
+    },
+    {
+      "title": "2.2 Überblick über analytische KI-Methoden",
+      "authors": [],
+      "printed_page_number": "118",
+      "skip": false
+    },
+    {
+      "title": "2.3 Die Zukunft der analytischen KI",
+      "authors": [],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "2.4 Synergien im hybriden System: Rolle der analytischen KI",
+      "authors": [],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "2.5 Zusammenfassung und Fazit",
+      "authors": [],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "133",
+      "skip": true
+    },
+    {
+      "title": "3 Start with Evals – oder skaliere Komplexität",
+      "authors": [
+        "Kevin Gehrmann"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "3.1 Wer keine Architektur baut, skaliert Komplexität",
+      "authors": [],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "3.2 Mit Evals zu Business Outcomes",
+      "authors": [],
+      "printed_page_number": "136",
+      "skip": false
+    },
+    {
+      "title": "3.3 Warum durch frühe Iteration mit Evals echter Wettbewerbsvorteil entsteht",
+      "authors": [],
+      "printed_page_number": "140",
+      "skip": false
+    },
+    {
+      "title": "Teil III: Führen unter KI-Bedingungen",
+      "authors": [],
+      "printed_page_number": "143",
+      "skip": true
+    },
+    {
+      "title": "1 KI skaliert nicht über Use Cases, sondern über Operating Models",
+      "authors": [
+        "Tawia Odoi"
+      ],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "1.1 Operating Models: Von der Struktur zur Entscheidungslogik",
+      "authors": [],
+      "printed_page_number": "148",
+      "skip": false
+    },
+    {
+      "title": "1.2 Der blinde Fleck: Autonomie wird nicht entschieden",
+      "authors": [],
+      "printed_page_number": "151",
+      "skip": false
+    },
+    {
+      "title": "1.3 Autonomie ist kein Glaubenssatz",
+      "authors": [],
+      "printed_page_number": "154",
+      "skip": false
+    },
+    {
+      "title": "1.4 Die eigentliche Fehlentscheidung: Autonomie nicht zu entscheiden",
+      "authors": [],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "1.5 Vom Pilot zum Betrieb: Wo KI-Initiativen sterben",
+      "authors": [],
+      "printed_page_number": "156",
+      "skip": false
+    },
+    {
+      "title": "1.6 KI als Verstärker bestehender Muster",
+      "authors": [],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "1.7 Führung unter KI-Bedingungen",
+      "authors": [],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "161",
+      "skip": true
+    },
+    {
+      "title": "2 Beyond Build-or-Buy: Warum Agent-Readiness zum entscheidenden Faktor wird",
+      "authors": [
+        "Johannes Keller",
+        "Tawia Odoi"
+      ],
+      "printed_page_number": "162",
+      "skip": false
+    },
+    {
+      "title": "2.1 Wie Build-or-Buy lange funktioniert hat",
+      "authors": [],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "2.2 Build-or-Buy als Entscheidungsrahmen – nicht als Antwort",
+      "authors": [],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "2.3 Warum Build-or-Buy selten eine reine Sachentscheidung ist",
+      "authors": [],
+      "printed_page_number": "164",
+      "skip": false
+    },
+    {
+      "title": "2.4 Warum dieses Modell unter KI-Bedingungen nicht mehr ausreicht",
+      "authors": [],
+      "printed_page_number": "164",
+      "skip": false
+    },
+    {
+      "title": "2.5 »Build« neu definiert durch Vibe Coding",
+      "authors": [],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "2.6 Produktivität vs. technische Schulden – billiger ist nicht besser",
+      "authors": [],
+      "printed_page_number": "166",
+      "skip": false
+    },
+    {
+      "title": "2.7 Die Generative KI-Disruption: Von Software zu Orchestrierung",
+      "authors": [],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "2.8 Das achte Kriterium: Agent-Readiness",
+      "authors": [],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "2.9 Orchestrieren statt Beschaffen: Partner, Teams und Steuerung",
+      "authors": [],
+      "printed_page_number": "170",
+      "skip": false
+    },
+    {
+      "title": "2.10 Executive-Steuerungscheck: Fünf Fragen, fünf Warnsignale",
+      "authors": [],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "2.11 Verträge in der Agent-Ära: Wo Steuerung entschieden wird",
+      "authors": [],
+      "printed_page_number": "172",
+      "skip": false
+    },
+    {
+      "title": "2.12 Leadership-Implikationen: Orchestrierung ist Führungsarbeit",
+      "authors": [],
+      "printed_page_number": "174",
+      "skip": false
+    },
+    {
+      "title": "2.13 Realismus statt Heilsversprechen",
+      "authors": [],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "2.14 Ausblick: Das 7 + 1-Framework für die Agent-Ära",
+      "authors": [],
+      "printed_page_number": "176",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "176",
+      "skip": true
+    },
+    {
+      "title": "3 Datenarchitektur als Führungsentscheidung",
+      "authors": [
+        "Tawia Odoi"
+      ],
+      "printed_page_number": "178",
+      "skip": false
+    },
+    {
+      "title": "3.1 Von der Entscheidungsvorbereitung zur Entscheidungsautomatisierung",
+      "authors": [],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "3.2 KI eliminiert den menschlichen Filter",
+      "authors": [],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "3.3 Die bekannten Symptome",
+      "authors": [],
+      "printed_page_number": "180",
+      "skip": false
+    },
+    {
+      "title": "3.4 Warum Datensilos entstehen",
+      "authors": [],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "3.5 Warum KI diesen Engpass brutal sichtbar macht",
+      "authors": [],
+      "printed_page_number": "184",
+      "skip": false
+    },
+    {
+      "title": "3.6 Don't kill your DWH – aber hör auf, es mit Steuerung zu verwechseln",
+      "authors": [],
+      "printed_page_number": "184",
+      "skip": false
+    },
+    {
+      "title": "3.7 Datenarchitektur: DWH, Lake, Lakehouse als Antworten auf Entscheidungsanforderungen",
+      "authors": [],
+      "printed_page_number": "185",
+      "skip": false
+    },
+    {
+      "title": "3.8 Ownership ist keine Option – sie existiert immer",
+      "authors": [],
+      "printed_page_number": "186",
+      "skip": false
+    },
+    {
+      "title": "3.9 Von Autonomie zu Orchestrierung – Data Mesh richtig eingeordnet",
+      "authors": [],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "3.10 Data Pipelines als praktischer Einstieg",
+      "authors": [],
+      "printed_page_number": "188",
+      "skip": false
+    },
+    {
+      "title": "3.11 Governance als Explizitmachen impliziter Regeln",
+      "authors": [],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "3.12 Daten als Entscheidungsinfrastruktur der Organisation",
+      "authors": [],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "192",
+      "skip": true
+    },
+    {
+      "title": "4 Transformational Leadership in Zeiten Künstlicher Intelligenz",
+      "authors": [
+        "André Hollstein"
+      ],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "4.1 Zwischen Hype und Realität: Organisatorische Barrieren der KI-Transformation",
+      "authors": [],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "4.2 KI-Transformation als ganzheitlicher Prozess",
+      "authors": [],
+      "printed_page_number": "194",
+      "skip": false
+    },
+    {
+      "title": "4.3 Transformational Leadership",
+      "authors": [],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "4.4 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "214",
+      "skip": false
+    },
+    {
+      "title": "Literaturhinweise",
+      "authors": [],
+      "printed_page_number": "214",
+      "skip": true
+    },
+    {
+      "title": "5 Hoffnung ist keine Strategie im Zeitalter künstlicher Intelligenz – wie KI strategische Arbeit revolutioniert",
+      "authors": [
+        "Christian Underwood"
+      ],
+      "printed_page_number": "219",
+      "skip": false
+    },
+    {
+      "title": "5.1 Unser Weg – vom Prozess zur Plattform",
+      "authors": [],
+      "printed_page_number": "220",
+      "skip": false
+    },
+    {
+      "title": "5.2 Strategie ist kein Projekt – sie ist ein fortlaufender Entscheidungsprozess",
+      "authors": [],
+      "printed_page_number": "222",
+      "skip": false
+    },
+    {
+      "title": "5.3 Strategie als System – eine Konsequenz, keine Vision",
+      "authors": [],
+      "printed_page_number": "223",
+      "skip": false
+    },
+    {
+      "title": "5.4 Warum KI strategische Arbeit nicht ersetzt",
+      "authors": [],
+      "printed_page_number": "224",
+      "skip": false
+    },
+    {
+      "title": "5.5 Was bleibt Führungsentscheidung? Strategic Decision Intelligence als Reflexionsraum",
+      "authors": [],
+      "printed_page_number": "226",
+      "skip": false
+    },
+    {
+      "title": "5.6 Implikationen für Strategieabteilungen, Beratung und Führung",
+      "authors": [],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "5.7 Failure Modes und Fehlannahmen",
+      "authors": [],
+      "printed_page_number": "229",
+      "skip": false
+    },
+    {
+      "title": "5.8 Strategische Intelligenz braucht eine klare Architektur",
+      "authors": [],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "authors": [],
+      "printed_page_number": "233",
+      "skip": true
+    },
+    {
+      "title": "6 KI-Compliance als Erfolgsfaktor: Vom Risiko zum Wettbewerbsvorteil",
+      "authors": [
+        "Thomas Thalhofer",
+        "Elena Stanciu"
+      ],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "6.1 Einleitung – Warum KI-Compliance Chefsache ist",
+      "authors": [],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "6.2 Von der Pflicht zum (Wettbewerbs-)Vorteil",
+      "authors": [],
+      "printed_page_number": "237",
+      "skip": false
+    },
+    {
+      "title": "6.3 Das regulatorische Fundament – Was Entscheider wissen müssen",
+      "authors": [],
+      "printed_page_number": "240",
+      "skip": false
+    },
+    {
+      "title": "6.4 Vom Risiko zur Kontrolle – Effizientes KI-Compliance-Management",
+      "authors": [],
+      "printed_page_number": "245",
+      "skip": false
+    },
+    {
+      "title": "6.5 Ausblick – Das nächste Kapitel verantwortungsvoller KI",
+      "authors": [],
+      "printed_page_number": "253",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "254",
+      "skip": true
+    },
+    {
+      "title": "Teil IV: KI im Einsatz",
+      "authors": [],
+      "printed_page_number": "257",
+      "skip": true
+    },
+    {
+      "title": "1 Vom AI Use Case zur Industrialisierung",
+      "authors": [
+        "Michael Wegmüller"
+      ],
+      "printed_page_number": "261",
+      "skip": false
+    },
+    {
+      "title": "1.1 Der AI-PoC-Friedhof",
+      "authors": [],
+      "printed_page_number": "261",
+      "skip": false
+    },
+    {
+      "title": "1.2 Die strategische Einordnung: Drei Dimensionen vor dem Projektstart",
+      "authors": [],
+      "printed_page_number": "263",
+      "skip": false
+    },
+    {
+      "title": "1.3 Der AI-Produktlebenszyklus: Vom Funnel zur Wirkung",
+      "authors": [],
+      "printed_page_number": "266",
+      "skip": false
+    },
+    {
+      "title": "1.4 Die 6 kritischen Entscheidungen",
+      "authors": [],
+      "printed_page_number": "269",
+      "skip": false
+    },
+    {
+      "title": "1.5 Integration in die Wertschöpfung: Vom Projekt zum Betrieb",
+      "authors": [],
+      "printed_page_number": "275",
+      "skip": false
+    },
+    {
+      "title": "1.6 People & Delivery: Das Builder-Team",
+      "authors": [],
+      "printed_page_number": "277",
+      "skip": false
+    },
+    {
+      "title": "1.7 Fazit: Was Entscheider mitnehmen sollten",
+      "authors": [],
+      "printed_page_number": "279",
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "authors": [],
+      "printed_page_number": "280",
+      "skip": true
+    },
+    {
+      "title": "Literaturhinweise",
+      "authors": [],
+      "printed_page_number": "281",
+      "skip": true
+    },
+    {
+      "title": "2 KI in Hardware: Warum andere Regeln gelten",
+      "authors": [
+        "Tawia Odoi"
+      ],
+      "printed_page_number": "283",
+      "skip": false
+    },
+    {
+      "title": "2.1 Warum KI auch für Hersteller physischer Güter strategisch ist",
+      "authors": [],
+      "printed_page_number": "283",
+      "skip": false
+    },
+    {
+      "title": "2.2 Das Operating Model: Warum Piloten nicht reichen",
+      "authors": [],
+      "printed_page_number": "285",
+      "skip": false
+    },
+    {
+      "title": "2.3 B2C vs. B2B – gleiche Muster, andere Dynamiken",
+      "authors": [],
+      "printed_page_number": "287",
+      "skip": false
+    },
+    {
+      "title": "2.4 Produktintelligenz: Wenn das Gerät die Entscheidung übernimmt",
+      "authors": [],
+      "printed_page_number": "289",
+      "skip": false
+    },
+    {
+      "title": "2.5 Serviceintelligenz: Von Reparatur zu Prävention",
+      "authors": [],
+      "printed_page_number": "290",
+      "skip": false
+    },
+    {
+      "title": "2.6 Monetarisierung und Amortisierung – die ungelöste Gleichung",
+      "authors": [],
+      "printed_page_number": "290",
+      "skip": false
+    },
+    {
+      "title": "2.7 Strukturelle Herausforderungen",
+      "authors": [],
+      "printed_page_number": "293",
+      "skip": false
+    },
+    {
+      "title": "2.8 Was daraus folgt",
+      "authors": [],
+      "printed_page_number": "295",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "295",
+      "skip": true
+    },
+    {
+      "title": "3 Generative KI wirksam verankern – Struktur, Skalierung und Perspektive bei SCHUNK",
+      "authors": [
+        "Daniela Hermle"
+      ],
+      "printed_page_number": "296",
+      "skip": false
+    },
+    {
+      "title": "3.1 Hintergrund und Motivation",
+      "authors": [],
+      "printed_page_number": "296",
+      "skip": false
+    },
+    {
+      "title": "3.2 Einordnung für Entscheider: Warum generative KI jetzt organisatorisch relevant wird",
+      "authors": [],
+      "printed_page_number": "298",
+      "skip": false
+    },
+    {
+      "title": "3.3 Zwei KI-Dimensionen, die SCHUNK derzeit prägen",
+      "authors": [],
+      "printed_page_number": "299",
+      "skip": false
+    },
+    {
+      "title": "3.4 Vom Use Case zur Skalierung: Ein strukturierter Entwicklungsprozess",
+      "authors": [],
+      "printed_page_number": "300",
+      "skip": false
+    },
+    {
+      "title": "3.5 Erfahrungen und Herausforderungen",
+      "authors": [],
+      "printed_page_number": "302",
+      "skip": false
+    },
+    {
+      "title": "3.6 Erfolgsfaktoren und Learnings",
+      "authors": [],
+      "printed_page_number": "305",
+      "skip": false
+    },
+    {
+      "title": "3.7 Ausblick 2026 und darüber hinaus",
+      "authors": [],
+      "printed_page_number": "306",
+      "skip": false
+    },
+    {
+      "title": "4 Auf dem Weg zur AI-First Software Engineering Company",
+      "authors": [
+        "Konrad Krafft"
+      ],
+      "printed_page_number": "309",
+      "skip": false
+    },
+    {
+      "title": "4.1 Ausgangslage und Ambition",
+      "authors": [],
+      "printed_page_number": "310",
+      "skip": false
+    },
+    {
+      "title": "4.2 Die Transformation von innen",
+      "authors": [],
+      "printed_page_number": "314",
+      "skip": false
+    },
+    {
+      "title": "4.3 Use Cases und Ergebnisse",
+      "authors": [],
+      "printed_page_number": "319",
+      "skip": false
+    },
+    {
+      "title": "4.4 Lessons Learned",
+      "authors": [],
+      "printed_page_number": "324",
+      "skip": false
+    },
+    {
+      "title": "5 Entscheiden unter Unsicherheit. Was Decision Intelligence wirklich leistet",
+      "authors": [
+        "Thorsten Heilig"
+      ],
+      "printed_page_number": "326",
+      "skip": false
+    },
+    {
+      "title": "5.1 Leere Regale, volle Datenbanken",
+      "authors": [],
+      "printed_page_number": "326",
+      "skip": false
+    },
+    {
+      "title": "5.2 Entscheidungsräume sichtbar machen",
+      "authors": [],
+      "printed_page_number": "327",
+      "skip": false
+    },
+    {
+      "title": "5.3 Was KI über die Organisation verrät",
+      "authors": [],
+      "printed_page_number": "330",
+      "skip": false
+    },
+    {
+      "title": "5.4 Wert entsteht durch systematische Wiederholung",
+      "authors": [],
+      "printed_page_number": "332",
+      "skip": false
+    },
+    {
+      "title": "5.5 Fallstudie: Artikelallokation bei einer europäischen Supermarktkette",
+      "authors": [],
+      "printed_page_number": "333",
+      "skip": false
+    },
+    {
+      "title": "5.6 Wenn die KI-Präsentation endet, beginnen die echten Fragen",
+      "authors": [],
+      "printed_page_number": "336",
+      "skip": false
+    },
+    {
+      "title": "5.7 Fazit: Resilienz durch Frequenz",
+      "authors": [],
+      "printed_page_number": "337",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "337",
+      "skip": true
+    },
+    {
+      "title": "6 KI im Einkauf: Entscheiden unter Komplexität",
+      "authors": [
+        "André Petry",
+        "Melinda Behncke",
+        "Maximilian Meinicke"
+      ],
+      "printed_page_number": "338",
+      "skip": false
+    },
+    {
+      "title": "6.1 Wenn Einkaufsentscheidungen an Komplexität scheitern",
+      "authors": [],
+      "printed_page_number": "338",
+      "skip": false
+    },
+    {
+      "title": "6.2 Wie Einkaufsentscheidungen entstehen",
+      "authors": [],
+      "printed_page_number": "339",
+      "skip": false
+    },
+    {
+      "title": "6.3 Implementierung und Adaption",
+      "authors": [],
+      "printed_page_number": "342",
+      "skip": false
+    },
+    {
+      "title": "6.4 Business Impact: Wirkung steuern, Erwartungen managen",
+      "authors": [],
+      "printed_page_number": "343",
+      "skip": false
+    },
+    {
+      "title": "6.5 Kunden-Case: VEMAG Maschinenbau",
+      "authors": [],
+      "printed_page_number": "345",
+      "skip": false
+    },
+    {
+      "title": "6.6 Operating Model und Organisation",
+      "authors": [],
+      "printed_page_number": "348",
+      "skip": false
+    },
+    {
+      "title": "6.7 Fazit – Was Entscheider mitnehmen sollten",
+      "authors": [],
+      "printed_page_number": "349",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "349",
+      "skip": true
+    },
+    {
+      "title": "7 KI im Pricing: Vom Bauchgefühl zum datenbasierten Wettbewerbsvorteil",
+      "authors": [
+        "Markus Husemann-Kopetzky"
+      ],
+      "printed_page_number": "350",
+      "skip": false
+    },
+    {
+      "title": "7.1 Auf die Agenda der Geschäftsführung: Datenbasiertes Pricing als strategische Kompetenz",
+      "authors": [],
+      "printed_page_number": "350",
+      "skip": false
+    },
+    {
+      "title": "7.2 Unternehmerische Realität im Pricing: Mit Heuristiken Komplexität steuern",
+      "authors": [],
+      "printed_page_number": "353",
+      "skip": false
+    },
+    {
+      "title": "7.3 Wettbewerbsvorteil sichern: Von datenbasierten Entscheidungen zur Beschleunigung durch KI",
+      "authors": [],
+      "printed_page_number": "356",
+      "skip": false
+    },
+    {
+      "title": "7.4 Fallstudie: Mit KI profitable Preise im Aftermarket & Großhandel setzen",
+      "authors": [],
+      "printed_page_number": "361",
+      "skip": false
+    },
+    {
+      "title": "7.5 Lessons Learned: Fünf Insights für Entscheider",
+      "authors": [],
+      "printed_page_number": "366",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "367",
+      "skip": true
+    },
+    {
+      "title": "8 Die Zukunft des B2B-Vertriebs: Agent Economy",
+      "authors": [
+        "Nino Bergfeld"
+      ],
+      "printed_page_number": "368",
+      "skip": false
+    },
+    {
+      "title": "8.1 Der strukturelle Bruch im B2B-Vertrieb",
+      "authors": [],
+      "printed_page_number": "368",
+      "skip": false
+    },
+    {
+      "title": "8.2 Analytisch vs. Generativ: Zwei Pfade der Vertriebsintelligenz",
+      "authors": [],
+      "printed_page_number": "369",
+      "skip": false
+    },
+    {
+      "title": "8.3 Das Operating Model des KI-gestützten Vertriebs",
+      "authors": [],
+      "printed_page_number": "373",
+      "skip": false
+    },
+    {
+      "title": "8.4 Agent Economy im Vertrieb: Der Übergang vom Tool zum Teammitglied",
+      "authors": [],
+      "printed_page_number": "375",
+      "skip": false
+    },
+    {
+      "title": "8.5 Neue Rollen und Fähigkeiten im KI-gestützten Vertrieb",
+      "authors": [],
+      "printed_page_number": "381",
+      "skip": false
+    },
+    {
+      "title": "8.6 Leadership-Agenda: Wie Führung den Wandel gestaltet",
+      "authors": [],
+      "printed_page_number": "382",
+      "skip": false
+    },
+    {
+      "title": "8.7 Fazit: Der Weg zum autonomen Vertrieb",
+      "authors": [],
+      "printed_page_number": "386",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "387",
+      "skip": true
+    },
+    {
+      "title": "9 KI-basierte Feinplanung: Verlässliche Produktion als Basis für eine stabile Supply Chain",
+      "authors": [
+        "Sebastian Blanc",
+        "Christian Scherrer"
+      ],
+      "printed_page_number": "388",
+      "skip": false
+    },
+    {
+      "title": "9.1 Grenzen und Auswirkungen von manueller Planung unter komplexen Rahmenbedingungen",
+      "authors": [],
+      "printed_page_number": "388",
+      "skip": false
+    },
+    {
+      "title": "9.2 Lösungsprinzip der KI-basierten Feinplanung",
+      "authors": [],
+      "printed_page_number": "391",
+      "skip": false
+    },
+    {
+      "title": "9.3 Vom Tool zum System: Implementierung und organisatorische Verankerung",
+      "authors": [],
+      "printed_page_number": "394",
+      "skip": false
+    },
+    {
+      "title": "9.4 Der Business Impact von KI-basierter Feinplanung",
+      "authors": [],
+      "printed_page_number": "396",
+      "skip": false
+    },
+    {
+      "title": "9.5 Praxisbeispiel PAILOT: Einführung, Hürden und Ergebnisse im Betrieb",
+      "authors": [],
+      "printed_page_number": "399",
+      "skip": false
+    },
+    {
+      "title": "9.6 Rollen, Governance, Prozesse für die KI-basierte Feinplanung",
+      "authors": [],
+      "printed_page_number": "401",
+      "skip": false
+    },
+    {
+      "title": "9.7 Erfolgsfaktoren: Wie KI-gestützte Feinplanung erfolgreich ist und woran sie scheitert",
+      "authors": [],
+      "printed_page_number": "404",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "405",
+      "skip": true
+    },
+    {
+      "title": "Über den Herausgeber",
+      "authors": [],
+      "printed_page_number": "407",
+      "skip": true
+    },
+    {
+      "title": "Danksagung",
+      "authors": [],
+      "printed_page_number": "408",
+      "skip": true
+    },
+    {
+      "title": "Stichwortverzeichnis",
+      "authors": [],
+      "printed_page_number": "409",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

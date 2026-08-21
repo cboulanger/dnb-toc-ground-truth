@@ -1,0 +1,89 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Pale di San Lucano, Dolomites, Italy: 3D modelling, petrography and isotope geochemistry of a partially dolomitized carbonate platform",
+      "authors": [
+        "WOLFGANG BLENDINGER",
+        "EDWIN MEISSNER",
+        "CARL-DIEDRICH SATTLER",
+        "ALBERTO BERTINI"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "A first record of Insecta from the Late Jurassic sequence of the Langenberg near Oker, Lower Saxony (Germany)",
+      "authors": [
+        "CARSTEN BRAUCKMANN",
+        "ELKE GRÖNING"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "Käfer (Coleoptera: Polyphaga) aus dem Unter-Miozän vom Dietrichsberg bei Vacha/Rhön\nBeetles (Coleoptera: Polyphaga) from the Early Miocene near Vacha/Rhön",
+      "authors": [
+        "CARSTEN BRAUCKMANN",
+        "ELKE GRÖNING",
+        "HANS-VOLKER KARL"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "The Mesosauria in the collections of Göttingen and Clausthal: implications for a modified classification",
+      "authors": [
+        "HANS-VOLKER KARL",
+        "ELKE GRÖNING",
+        "CARSTEN BRAUCKMANN"
+      ],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "A subcircular wing from the Late Carboniferous of Osnabrück, Germany",
+      "authors": [
+        "CARSTEN BRAUCKMANN",
+        "KARL JOSEPH HERD"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Anwendung nicht-invasiver Untersuchungs-Methoden in der Paläoentomology (3D-Laserscanner, 3D-Röntgentomograph, 3D-Digitalmikroskop, Fotoscanner)\nApplication of non-invasive analysis in paleoentomology (3D Laserscanner, 3D x-ray tomography, 3D digital microscope, photo-scanner)",
+      "authors": [
+        "ANNETTE QUETSCHER",
+        "JAN-MICHAEL ILGER"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Entwicklung und regionale Lithostratigraphie der kieseligen Fazies des deutschen Kulms (Unterkarbon, Mississippium)",
+      "authors": [
+        "HANS-JÜRGEN GURSKY"
+      ],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "Kinematik des Bruchschollenfeldes der Fennoskandischen Randzone (Tornquist-Linie) in Schonen (Südschweden) und auf Bornholm (Dänemark)",
+      "authors": [
+        "HANS JOACHIM FRANZKE",
+        "RAINER MÜLLER",
+        "CHRISTOPH HAASE",
+        "KARSTEN OBST"
+      ],
+      "printed_page_number": "117",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

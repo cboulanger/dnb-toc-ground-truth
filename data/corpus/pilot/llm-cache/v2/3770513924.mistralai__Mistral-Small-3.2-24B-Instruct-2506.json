@@ -1,0 +1,443 @@
+{
+  "generated_at": 1787245916.333057,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "INHALT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bark, Joachim",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Bark"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Kreistanz ums Triviale",
+      "printed_page_number": "10",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Bark"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Probleme der Forschung und des Unterrichts",
+      "printed_page_number": "10",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Bark"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pforte, Dietger",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Dietger Pforte"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bedingungen und Formen der materiellen und immateriellen Produktion von Heftromanen",
+      "printed_page_number": "30",
+      "source_page_index": -1,
+      "authors": [
+        "Dietger Pforte"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nusser, Peter",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Peter Nusser"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zur Rezeption von Heftromanen",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Nusser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zimmermann, Hans Dieter",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hans Dieter Zimmermann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Heftromane und zeitgen\u00f6ssische Romane angesehener Autoren",
+      "printed_page_number": "80",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Dieter Zimmermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Untersuchung mit Hilfe der Linguistischen Datenverarbeitung",
+      "printed_page_number": "80",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Dieter Zimmermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Peters, J\u00fcrgen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Peters"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kleiner Versuch \u00fcber den gro\u00dfen Erfolg",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Peters"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beschreibung eines Problems",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Peters"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rosenstrauch, Hazel E.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hazel E. Rosenstrauch"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zum Beispiel Die Gartenlaube",
+      "printed_page_number": "169",
+      "source_page_index": -1,
+      "authors": [
+        "Hazel E. Rosenstrauch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Demetz, Peter",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Peter Demetz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Theodor Fontane als Unterhaltungsautor",
+      "printed_page_number": "190",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Demetz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Klotz, Volker",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Volker Klotz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Diagnostische Bemerkungen zum B\u00fchnenschwank am Beispiel von Labiche, Feydeau, Sch\u00f6nthan, Arnold/Bach und anderen",
+      "printed_page_number": "205",
+      "source_page_index": -1,
+      "authors": [
+        "Volker Klotz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kienzle, Michael",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Michael Kienzle"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Biographie als Ritual",
+      "printed_page_number": "230",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Kienzle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Am Fall Emil Ludwig",
+      "printed_page_number": "230",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Kienzle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hensel, Georg",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Georg Hensel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Fluchtversuche aus der Trivialliteratur",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [
+        "Georg Hensel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hickethier, Knut / L\u00fctzen, Wolf Dieter",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Knut Hickethier",
+        "Wolf Dieter L\u00fctzen"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Kriminalroman",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [
+        "Knut Hickethier",
+        "Wolf Dieter L\u00fctzen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Entstehung und Entwicklung eines Genres in den literarischen Medien",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [
+        "Knut Hickethier",
+        "Wolf Dieter L\u00fctzen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fischer, Ludwig",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ludwig Fischer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die wiederholte Verwandlung des B\u00fcrgers in den nat\u00fcrlichen Menschen und umgekehrt",
+      "printed_page_number": "296",
+      "source_page_index": -1,
+      "authors": [
+        "Ludwig Fischer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Thesen zur ideologischen Funktion des Western-Romans",
+      "printed_page_number": "296",
+      "source_page_index": -1,
+      "authors": [
+        "Ludwig Fischer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hienger, J\u00f6rg",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg Hienger"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Abenteuer und Gedankenspiel",
+      "printed_page_number": "339",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg Hienger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gesichter der Science Fiction (SF)",
+      "printed_page_number": "339",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg Hienger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "K\u00f6ck, Wolfram K.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Wolfram K. K\u00f6ck"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der englische Frauenroman",
+      "printed_page_number": "357",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfram K. K\u00f6ck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ruckt\u00e4schel, Annamaria",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Annamaria Ruckt\u00e4schel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Schlager des Jahres",
+      "printed_page_number": "377",
+      "source_page_index": -1,
+      "authors": [
+        "Annamaria Ruckt\u00e4schel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Analysen erfolgreicher Schlagertexte",
+      "printed_page_number": "377",
+      "source_page_index": -1,
+      "authors": [
+        "Annamaria Ruckt\u00e4schel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Riha, Karl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Karl Riha"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "'Ein Kugelschreiber . . . in der behandschuhten Rechten . . . so wei\u00df wie der Schnee am Kilimandscharo'",
+      "printed_page_number": "402",
+      "source_page_index": -1,
+      "authors": [
+        "Karl Riha"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Literatur der Nicht-Literaten",
+      "printed_page_number": "402",
+      "source_page_index": -1,
+      "authors": [
+        "Karl Riha"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Register",
+      "printed_page_number": "418",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

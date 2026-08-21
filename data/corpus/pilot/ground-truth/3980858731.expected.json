@@ -1,0 +1,149 @@
+{
+  "entries": [
+    {
+      "title": "Editorial",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": true
+    },
+    {
+      "title": "Die vernachl\u00e4ssigten Massengr\u00e4ber Der Skandal um den Leitenberg, 1949-1950",
+      "authors": [
+        "Harold Marcuse"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Die Internierung von NS-Funktion\u00e4ren in der US-Zone Deutschlands",
+      "authors": [
+        "Kathrin Meyer"
+      ],
+      "printed_page_number": "24",
+      "skip": false
+    },
+    {
+      "title": "Das Internierungslager Dachau 1945\u20131948",
+      "authors": [
+        "Gabriele Hammermann"
+      ],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "Das Konzentrationslager Neuengamme im Ged\u00e4chtnis der fr\u00fchen Nachkriegszeit",
+      "authors": [
+        "Insa Eschebach"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Privatunternehmer im KZ Aufstieg einer Firma im NS-Staat",
+      "authors": [
+        "Dirk Riedel"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "\u201eDen Tod mit sich tragen\u201c Das Nederlands Dachaucomit\u00e9, die H\u00e4ftlinge und die Erinnerung an das Lager",
+      "authors": [
+        "Jolande Withuis"
+      ],
+      "printed_page_number": "110",
+      "skip": false
+    },
+    {
+      "title": "\u201eWir haben keine KZ-Opfer zu bedauern oder zu beklagen\u201c Die Auseinandersetzungen um die Moringer Konzentrationslager und der Beginn einer lokalen Erinnerungsbewegung (1980-1989)",
+      "authors": [
+        "Dietmar Sedlaczek"
+      ],
+      "printed_page_number": "128",
+      "skip": false
+    },
+    {
+      "title": "Nach der Befreiung Tagebuchnotizen auf dem Weg von Krakau nach Prag",
+      "authors": [
+        "David Friedmann"
+      ],
+      "printed_page_number": "152",
+      "skip": false
+    },
+    {
+      "title": "Im Schatten von Auschwitz Das KZ Krakau-Plaszow \u2013 Geschichte und Erinnerung",
+      "authors": [
+        "Angelina Oster"
+      ],
+      "printed_page_number": "170",
+      "skip": false
+    },
+    {
+      "title": "\u201eAlles muss verschwinden, was den Charakter des Lagers tr\u00e4gt, die Baracken, der Eingang, die Wacht\u00fcrme\u201c Das Gel\u00e4nde des KZ Flossenb\u00fcrg zwischen 1945 und 1949",
+      "authors": [
+        "J\u00f6rg Skriebeleit"
+      ],
+      "printed_page_number": "180",
+      "skip": false
+    },
+    {
+      "title": "Displaced Persons. Zwischen Lagerexistenz und internationaler Politik DP Camp Bergen-Belsen 1945-1956",
+      "authors": [
+        "Angelika K\u00f6nigseder",
+        "Juliane Wetzel"
+      ],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "\u201eGermany's Gayest and Happiest Town\u201c? Bergen-Belsen 1945-1950",
+      "authors": [
+        "Rainer Schulze"
+      ],
+      "printed_page_number": "216",
+      "skip": false
+    },
+    {
+      "title": "\u201eMit M\u00fche schreibe ich diesen Text\u201c Lebensbericht eines polnisch-j\u00fcdischen Schriftstellers nach Auschwitz und anderen Verfolgungen",
+      "authors": [
+        "Stanislaw Wygodzki"
+      ],
+      "printed_page_number": "239",
+      "skip": false
+    },
+    {
+      "title": "Das Speziallager Nr.7 Sachsenhausen 1945-1950",
+      "authors": [
+        "Annette Leo"
+      ],
+      "printed_page_number": "251",
+      "skip": false
+    },
+    {
+      "title": "Das sowjetische Speziallager Nr.6 Jamlitz",
+      "authors": [
+        "Andreas Weigelt"
+      ],
+      "printed_page_number": "263",
+      "skip": false
+    },
+    {
+      "title": "Der historische Seder in M\u00fcnchen 15./16. April 1946",
+      "authors": [
+        "Solly Ganor"
+      ],
+      "printed_page_number": "281",
+      "skip": false
+    },
+    {
+      "title": "Um die Befreiung von Auschwitz",
+      "authors": [
+        "Susanne Willems"
+      ],
+      "printed_page_number": "286",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

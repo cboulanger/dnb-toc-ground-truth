@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "III",
+      "skip": true
+    },
+    {
+      "title": "Total Quality Management und Diversity Management im Vergleich",
+      "authors": ["Alice von Berg"],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Diversity Management in Städten",
+      "authors": ["Eike Stratmann"],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "Diversity Management in Südafrika",
+      "authors": ["Annalena Döring"],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "Diversity Management an deutschen Hochschulen – die Auswirkungen von Diversität auf Bildungsprozesse",
+      "authors": ["Imke Buß"],
+      "printed_page_number": "117",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

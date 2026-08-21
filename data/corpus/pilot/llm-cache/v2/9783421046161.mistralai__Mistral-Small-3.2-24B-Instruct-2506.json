@@ -1,0 +1,387 @@
+{
+  "generated_at": 1787260851.104803,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "11 Vorwort",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "EINLEITUNG",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "17 Traumbild der Ahnen",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Georg B\u00f6nisch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "28 \"C\u00e4sar hat die Germanen erfunden\"",
+      "printed_page_number": "28",
+      "source_page_index": -1,
+      "authors": [
+        "Norbert F. P\u00f6tzl",
+        "Johannes Saltzwedel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "TEIL I",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "DIE URSPR\u00dcNGE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "41 Reicher Bauer, gro\u00dfer Stall",
+      "printed_page_number": "41",
+      "source_page_index": -1,
+      "authors": [
+        "Angelika Franz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "53 Fliegende Misteln",
+      "printed_page_number": "53",
+      "source_page_index": -1,
+      "authors": [
+        "Mathias Schreiber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "62 Tote im Torf",
+      "printed_page_number": "62",
+      "source_page_index": -1,
+      "authors": [
+        "Frank Thadeusz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "66 Das R\u00e4tsel von Jastorf",
+      "printed_page_number": "66",
+      "source_page_index": -1,
+      "authors": [
+        "Dietmar Pieper"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "76 Joch und Yoga",
+      "printed_page_number": "76",
+      "source_page_index": -1,
+      "authors": [
+        "Dietmar Pieper"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "TEIL II",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "KRIEGER UND KOLONISTEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "81 Dunkles Sumpfland",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [
+        "Kristina Maroldt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "93 Furor aus dem Norden",
+      "printed_page_number": "93",
+      "source_page_index": -1,
+      "authors": [
+        "Thorsten Oltmer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "101 Duell im Elsass",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard Sp\u00f6rl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "112 \"Drohender, stolzer Ton\"",
+      "printed_page_number": "112",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "114 Die Macht der Schrift",
+      "printed_page_number": "114",
+      "source_page_index": -1,
+      "authors": [
+        "Jenny Becker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "118 Rebell gegen Rom",
+      "printed_page_number": "118",
+      "source_page_index": -1,
+      "authors": [
+        "Uwe Klu\u00dfmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "TEIL III",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "DIE EPOCHE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "DER V\u00d6LKERWANDERUNG",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "135 Land der Biertrinker",
+      "printed_page_number": "135",
+      "source_page_index": -1,
+      "authors": [
+        "Johannes Saltzwedel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "147 Vergifteter Triumph",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Sontheimer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "155 M\u00e4r von deutschen Recken",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Traub"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "167 Bestien auf zwei Beinen",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [
+        "Annette Bruhns"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "176 \"Wilde blaue Augen\"",
+      "printed_page_number": "176",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "TEIL IV",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "WEGE ZUR NATION",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "181 Drei Dutzend K\u00f6nige",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-J\u00fcrgen Schlamp"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "192 Abenteuer Afrika",
+      "printed_page_number": "192",
+      "source_page_index": -1,
+      "authors": [
+        "Manfred Ertel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "199 Salomonischer Barbar",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [
+        "Annette Bruhns"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "211 Kulturschock am Limes",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [
+        "Jan Puhl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "215 Stammbaum bis Wotan",
+      "printed_page_number": "215",
+      "source_page_index": -1,
+      "authors": [
+        "Christoph Gunkel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "220 Lockruf des S\u00fcdens",
+      "printed_page_number": "220",
+      "source_page_index": -1,
+      "authors": [
+        "Norbert F. P\u00f6tzl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ANHANG",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "239 Kleine Chronik zu den Germanen",
+      "printed_page_number": "239",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "244 Buchhinweise",
+      "printed_page_number": "244",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "245 Autorenverzeichnis",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "247 Dank",
+      "printed_page_number": "247",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "248 Personenregister",
+      "printed_page_number": "248",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1 Ökologische Problemräume in Deutschland – Eine Einführung",
+      "authors": [
+        "Harald Zepp"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "1.1 Einleitung",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "1.2 Dimensionen ökologischer Problemräume",
+      "authors": [],
+      "printed_page_number": "12",
+      "skip": false
+    },
+    {
+      "title": "1.3 Ökologische Problemräume als Arbeitskonzept",
+      "authors": [],
+      "printed_page_number": "14",
+      "skip": false
+    },
+    {
+      "title": "1.4 Ökologische Problemräume in Deutschland",
+      "authors": [],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "1.5 Ausblick",
+      "authors": [],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "2 „Der Fluss der Mitte“ – Die Verwandlungen der Emscherregion",
+      "authors": [
+        "Thomas Held"
+      ],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "2.1 Einleitung",
+      "authors": [],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "2.2 Lage und Situation des Gebietes",
+      "authors": [],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "2.3 Ökologische Probleme in der Emscherregion",
+      "authors": [],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "2.4 Ökologische Gewässerumgestaltung in der Emscherregion",
+      "authors": [],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "2.5 Erfassung der Aktivitäten und Wahrnehmungen der Akteure",
+      "authors": [],
+      "printed_page_number": "40",
+      "skip": false
+    },
+    {
+      "title": "2.6 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "3 Tagesbrüche – Der Umgang mit Bergbaufolgeschäden im südlichen Ruhrgebiet",
+      "authors": [
+        "Melanie Niese"
+      ],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "3.1 Einleitung",
+      "authors": [],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "3.2 Der Tagesbruch in Wattenscheid-Höntrop",
+      "authors": [],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "3.3 Problemlage im Ruhrgebiet",
+      "authors": [],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "3.4 Tagesbrüche im südlichen Ruhrgebiet aus geologisch-bergbaulicher Perspektive",
+      "authors": [],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "3.5 Die Reaktion der vom Tagesbruch in Wattenscheid-Höntrop betroffenen Bevölkerung",
+      "authors": [],
+      "printed_page_number": "58",
+      "skip": false
+    },
+    {
+      "title": "3.6 Einstellung der Bevölkerung im Ruhrgebiet zum Bergbau",
+      "authors": [],
+      "printed_page_number": "60",
+      "skip": false
+    },
+    {
+      "title": "3.7 Bergbautechnische Möglichkeiten der Gefahrenabwehr und Kosten",
+      "authors": [],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "3.8 Schlussfolgerungen",
+      "authors": [],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "4 Das Rheinische Braunkohlerevier – Großflächige Landschaftsveränderungen und umweltpolitische Auseinandersetzungen",
+      "authors": [
+        "Frank Dickmann",
+        "Harald Zepp"
+      ],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "4.1 Vom Kleinbergbau zu Großtagebaubetrieben",
+      "authors": [],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "4.2 Geologische und landschaftsökologische Aspekte",
+      "authors": [],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "4.3 Humanökologisch-sozialwissenschaftliche Grundlagen",
+      "authors": [],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "4.4 Erfassung der Aktivitäten und Wahrnehmungen der Akteure",
+      "authors": [],
+      "printed_page_number": "80",
+      "skip": false
+    },
+    {
+      "title": "5 Offshore-Windparks in der Deutschen Bucht",
+      "authors": [
+        "Daniel Gregorowius"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "5.1 Einleitung und Methodik",
+      "authors": [],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "5.2 Beschreibung des Untersuchungsgebietes",
+      "authors": [],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "5.3 Nutzung der Windkraft in der Deutschen Bucht",
+      "authors": [],
+      "printed_page_number": "88",
+      "skip": false
+    },
+    {
+      "title": "5.4 Integrative Analyse der Offshore-Windkraftnutzung in der Deutschen Bucht",
+      "authors": [],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "5.5 Schlussfolgerungen",
+      "authors": [],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "5.6 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "106",
+      "skip": false
+    },
+    {
+      "title": "6 Saurer Regen und Waldsterben im ehemaligen „Schwarzen Dreieck“ (oberes Osterzgebirge)",
+      "authors": [
+        "Jörg Scheithauer",
+        "Karsten Grunewald"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "6.1 Einleitung und Methodik",
+      "authors": [],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "6.2 Gebietsüberblick",
+      "authors": [],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "6.3 Das obere Osterzgebirge im ehemaligen „Schwarzen Dreieck“",
+      "authors": [],
+      "printed_page_number": "118",
+      "skip": false
+    },
+    {
+      "title": "6.4 Perspektiven der zukünftigen Entwicklung",
+      "authors": [],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "6.5 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "130",
+      "skip": false
+    },
+    {
+      "title": "7 Probleme der Intensivlandwirtschaft im Oldenburger Münsterland – Lösungsstrategien im Widerstreit der Interessen",
+      "authors": [
+        "Ingo Mose",
+        "Ortwin Peithmann",
+        "Peter Schaal"
+      ],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "7.1 Einleitung",
+      "authors": [],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "7.2 Räumliche Lagebeziehungen des Oldenburger Münsterlandes",
+      "authors": [],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "7.3 Problemlage im Oldenburger Münsterland",
+      "authors": [],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "7.4 Entwicklung von Problemlösungsstrategien",
+      "authors": [],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "7.5 Bewertung und Fazit",
+      "authors": [],
+      "printed_page_number": "152",
+      "skip": false
+    },
+    {
+      "title": "8 Gefährdung durch Extremhochwasser im Mittelgebirge am Beispiel der Müglitz",
+      "authors": [
+        "Matthias Röder",
+        "Stephan Gerber"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "8.1 Einleitung",
+      "authors": [],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "8.2 Das Problemgebiet Müglitztal",
+      "authors": [],
+      "printed_page_number": "158",
+      "skip": false
+    },
+    {
+      "title": "8.3 Sichtweisen, Reaktionen und Lösungsansätze verschiedener Akteure",
+      "authors": [],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "8.4 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "9 Auenböden als Schadstoffsenke? Nutzungsrisiken im Elbe- und Muldegebiet",
+      "authors": [
+        "Karsten Grunewald",
+        "Christiana Weber"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "9.1 Einleitung und Methodik",
+      "authors": [],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "9.2 Gebietscharakteristik",
+      "authors": [],
+      "printed_page_number": "184",
+      "skip": false
+    },
+    {
+      "title": "9.3 Risiken der landwirtschaftlichen Nutzung stoffbelasteter Auenböden",
+      "authors": [],
+      "printed_page_number": "188",
+      "skip": false
+    },
+    {
+      "title": "9.4 Methodisches Raster für die Erfassung des ökologischen Problemraumes Aue",
+      "authors": [],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "9.5 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "200",
+      "skip": false
+    },
+    {
+      "title": "10 Umweltaspekte auf dem militärischen Erprobungs- und Übungsgelände Altmark (Colbitz-Letzlinger Heide) unter dem Einfluss des Systemwandels",
+      "authors": [
+        "Rüdiger Glaser",
+        "Klaus Sachs",
+        "Mark Corson",
+        "Ulrich Ante",
+        "Olaf Hartmann"
+      ],
+      "printed_page_number": "205",
+      "skip": false
+    },
+    {
+      "title": "10.1 Einleitung und Methodik",
+      "authors": [],
+      "printed_page_number": "205",
+      "skip": false
+    },
+    {
+      "title": "10.2 Militärische Übungsflächen in Deutschland – Dimension und regionale Verteilung",
+      "authors": [],
+      "printed_page_number": "206",
+      "skip": false
+    },
+    {
+      "title": "10.3 Möglichkeiten und Grenzen der Konversion von Truppenübungsplätzen",
+      "authors": [],
+      "printed_page_number": "210",
+      "skip": false
+    },
+    {
+      "title": "10.4 Lage und Situation des Truppenübungsplatzes Altmark in Sachsen-Anhalt (Colbitz-Letzlinger Heide)",
+      "authors": [],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "10.5 Schlussfolgerungen",
+      "authors": [],
+      "printed_page_number": "224",
+      "skip": false
+    },
+    {
+      "title": "11 Das deutsch-schweizerische Hochrheingebiet zwischen Basel und Bad Säckingen – Ein verdeckter ökologischer Problemraum",
+      "authors": [
+        "Hartmut Leser",
+        "Edith Beising",
+        "Heike Freiberger"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "11.1 Einleitung und Methodik",
+      "authors": [],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "11.2 Lage des Gebietes",
+      "authors": [],
+      "printed_page_number": "228",
+      "skip": false
+    },
+    {
+      "title": "11.3 Situation des Gebietes",
+      "authors": [],
+      "printed_page_number": "228",
+      "skip": false
+    },
+    {
+      "title": "11.4 Problemlage des Gebietes",
+      "authors": [],
+      "printed_page_number": "230",
+      "skip": false
+    },
+    {
+      "title": "11.5 Der ökologische Problemraum Hochrheintal – Natur- und sozialwissenschaftliche Grundlagen",
+      "authors": [],
+      "printed_page_number": "232",
+      "skip": false
+    },
+    {
+      "title": "11.6 Zusammenfassung und Fazit",
+      "authors": [],
+      "printed_page_number": "248",
+      "skip": false
+    },
+    {
+      "title": "12 Ökologische Problemräume in Deutschland – Ein Fazit",
+      "authors": [
+        "Harald Zepp",
+        "Rüdiger Glaser",
+        "Matthias Röder"
+      ],
+      "printed_page_number": "251",
+      "skip": false
+    },
+    {
+      "title": "12.1 Vom Arbeitskonzept zu einem erweiterten theoretischen Rahmen",
+      "authors": [],
+      "printed_page_number": "251",
+      "skip": false
+    },
+    {
+      "title": "12.2 Sind ökologische Problemräume Risikogebiete?",
+      "authors": [],
+      "printed_page_number": "253",
+      "skip": false
+    },
+    {
+      "title": "12.3 Zur geographischen Verbreitung und Maßstäblichkeit ökologischer Problemräume",
+      "authors": [],
+      "printed_page_number": "255",
+      "skip": false
+    },
+    {
+      "title": "12.4 Welche Umstände tragen zur Wahrnehmung von ökologischen Problemräumen bei?",
+      "authors": [],
+      "printed_page_number": "257",
+      "skip": false
+    },
+    {
+      "title": "12.5 Wie gehen wir in Deutschland mit ökologischen Problemräumen um?",
+      "authors": [],
+      "printed_page_number": "259",
+      "skip": false
+    },
+    {
+      "title": "12.6 Methodische Schlussfolgerungen",
+      "authors": [],
+      "printed_page_number": "263",
+      "skip": false
+    },
+    {
+      "title": "12.7 Fazit und Perspektiven",
+      "authors": [],
+      "printed_page_number": "263",
+      "skip": false
+    },
+    {
+      "title": "Quellen der Abbildungen und Tabellen",
+      "authors": [],
+      "printed_page_number": "267",
+      "skip": true
+    },
+    {
+      "title": "Autoren",
+      "authors": [],
+      "printed_page_number": "271",
+      "skip": true
+    },
+    {
+      "title": "Register",
+      "authors": [],
+      "printed_page_number": "273",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,273 @@
+{
+  "generated_at": 1787237638.038444,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einleitung. Von Hartmut Voit",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Hartmut Voit"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Vor\u00fcberlegungen zu einigen Problemen der Geschichtswissenschaft",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "X1.1. Wolfgang J. Mommsen: Die Geschichtswissenschaft in der modernen Industriegesellschaft (1974)",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang J. Mommsen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.2. Peter Borowsky/Barbara Vogel/Heide Wunder: Grundprobleme der Geschichtswissenschaft (1975)",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Borowsky",
+        "Barbara Vogel",
+        "Heide Wunder"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Geschichtsunterricht in der Grundschule",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.1. Historische Positionen",
+      "printed_page_number": "46",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.1.1. Adolf Rude: Geschichtsunterricht: vorbereitender Kursus (1904)",
+      "printed_page_number": "46",
+      "source_page_index": -1,
+      "authors": [
+        "Adolf Rude"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.1.2. Eduard Spranger: Der Bildungswert der Heimatkunde (1923)",
+      "printed_page_number": "52",
+      "source_page_index": -1,
+      "authors": [
+        "Eduard Spranger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.1.3. Georg Rein: Ein Erziehungs- und Arbeitsplan f\u00fcr die deutsche Volksschule (1940)",
+      "printed_page_number": "56",
+      "source_page_index": -1,
+      "authors": [
+        "Georg Rein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.1.4. Rudolf Karnick: Grundfragen des heimatkundlichen Geschichtsunterrichts im 3. und 4. Schuljahr (1950)",
+      "printed_page_number": "64",
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf Karnick"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.1.5. Heinrich Roth: Kind und Geschichte (1955)",
+      "printed_page_number": "66",
+      "source_page_index": -1,
+      "authors": [
+        "Heinrich Roth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.2. Zur gegenw\u00e4rtigen Diskussion",
+      "printed_page_number": "74",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "X2.2.1. Wolfgang Hug: Wozu Geschichte in der Primarstufe? (1974/78)",
+      "printed_page_number": "74",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Hug"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "X2.2.2. Hans Gl\u00f6ckel: Fachgem\u00e4\u00dfheit und Kindgem\u00e4\u00dfheit im grundlegenden Geschichtsunterricht (1975)",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Gl\u00f6ckel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.2.3. Hans-Joachim von der Ohe: Sozialgeschichte in der Primarstufe. Beratungen einer Arbeitsgruppe und ihre Ergebnisse (1975/78)",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Joachim von der Ohe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.2.4. Irmgard Hantsche: Schriftliche Quellen in der Grundschule? (1978)",
+      "printed_page_number": "99",
+      "source_page_index": -1,
+      "authors": [
+        "Irmgard Hantsche"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.2.5. Klaus Lampe: Geschichte und projektorientiertes Lernen in der Primarstufe (1978)",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Lampe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.2.6. Karl-Hermann Beeck: Die unterrichtlichen Mi\u00dfverst\u00e4ndnisse von Regionalgeschichte (1971/78)",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [
+        "Karl-Hermann Beeck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.2.7. Hans Georg Kirchhoff: Zeitrechnung im 1. und 2. Schuljahr als Unterricht in Geschichte (1978)",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Georg Kirchhoff"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.2.8. Hilke G\u00fcnther-Arndt: Zeitperspektive und Geschichtsbewu\u00dftsein in der Grundschule (1975)",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [
+        "Hilke G\u00fcnther-Arndt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.2.9. Joan E. Blyth: Geschichte in der englischen Grundschule: Probleme und M\u00f6glichkeiten (1978)",
+      "printed_page_number": "165",
+      "source_page_index": -1,
+      "authors": [
+        "Joan E. Blyth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.3. Entw\u00fcrfe und Materialien zur Unterrichtspraxis",
+      "printed_page_number": "174",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.3.1. Hartmut Voit/Iris Voit: Universalgeschichte in der Primarstufe: Indianer (Nordamerika) (1979)",
+      "printed_page_number": "174",
+      "source_page_index": -1,
+      "authors": [
+        "Hartmut Voit",
+        "Iris Voit"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.3.2. Wolfgang Hug: Bev\u00f6lkerungsgeschichte f\u00fcr Anf\u00e4nger. Ein Unterrichtsbeispiel aus dem 4. Schuljahr (1978)",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Hug"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.3.3. Gerhard Dathe (Leiter des Autorenkollektivs) u. a.: Aus dem Leben und dem Kampf der Werkt\u00e4tigen in fr\u00fcherer Zeit (1979)",
+      "printed_page_number": "203",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard Dathe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Quellennachweis",
+      "printed_page_number": "209",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bibliographie",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

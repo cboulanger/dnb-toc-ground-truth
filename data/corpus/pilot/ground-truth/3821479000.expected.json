@@ -1,0 +1,145 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Strategische Partnerschaften \u2013 Welche Wege k\u00f6nnen Sie gehen?",
+      "authors": [
+        "Dipl.-Kfm. Dr. Rainer Beyer",
+        "RA, StB Dr. Reiner Gay",
+        "RA Dr. Ulrich Neusinger"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Bausteine eines Beteiligungscontrollings \u2013 Information, Steuerung, Organisation",
+      "authors": [
+        "Dipl.-Kfm. (FH) Jan-Hendrik Bahn",
+        "Dipl.-Kfm. Heiko Pech"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "Kommunale Unternehmen zwischen Daseinsvorsorge, Binnenmarkt und EU-Beihilfenrecht",
+      "authors": [
+        "RA Dr. Thomas Beyer"
+      ],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "Verkehrsvertr\u00e4ge \u2013 Neuordnung zwischen Aufgabentr\u00e4gern und Verkehrsunternehmen",
+      "authors": [
+        "RA Dr. Andreas Saxinger"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "Internationale Rechnungslegung IAS / IFRS \u2013 Ist das HGB ein Auslaufmodell?",
+      "authors": [
+        "Dipl.-Kfm., WP, StB Gerd M\u00f6ller"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "Strategisches Management in der Praxis",
+      "authors": [
+        "Dipl.-Kfm. Dr. Rainer Beyer",
+        "Dipl.-Kfm. Heiko Pech"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "Die Reform der Rechnungslegung als neues Gesch\u00e4ftsfeld",
+      "authors": [
+        "Hannes Hahn"
+      ],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "Customer Relationship Management und kommunale Unternehmen",
+      "authors": [
+        "Dipl.-Betriebswirt (FH) Michael Kolbenschlag"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "Benchmarking f\u00fcr kommunale Unternehmen \u2013 Anwendungsbereiche und Effekte",
+      "authors": [
+        "Dipl.-Kfm. Harald Kiesl",
+        "RA J\u00f6rg Schielein, LL.M."
+      ],
+      "printed_page_number": "215",
+      "skip": false
+    },
+    {
+      "title": "Bew\u00e4ltigung von Haushaltskrisen \u2013 Wie funktioniert ein erfolgreiches Sanierungsmanagement?",
+      "authors": [
+        "Dipl.-Kfm., WP, StB, Umweltgutachter Martin Wambach",
+        "Dipl.-Kfm. Dr. Heiko Schuh"
+      ],
+      "printed_page_number": "239",
+      "skip": false
+    },
+    {
+      "title": "Innovative und zeitgem\u00e4\u00dfe Konzepte f\u00fcr die Bewertung kommunaler Unternehmen",
+      "authors": [
+        "Dipl.-\u00d6konom, Dipl.-Betriebswirt Anton Berger"
+      ],
+      "printed_page_number": "275",
+      "skip": false
+    },
+    {
+      "title": "Die Bedeutung von Ratings f\u00fcr die Finanzierung kommunaler Unternehmen",
+      "authors": [
+        "Dipl.-Kfm., WP, StB, Umweltgutachter Martin Wambach",
+        "Dipl.-Betriebswirt (FH) Dieter Wunderlich"
+      ],
+      "printed_page_number": "305",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "329",
+      "skip": true
+    },
+    {
+      "title": "Autorenprofile",
+      "authors": [],
+      "printed_page_number": "334",
+      "skip": true
+    },
+    {
+      "title": "Neue Strukturen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Bessere Steuerung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Mehr Geld",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

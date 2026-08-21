@@ -1,0 +1,570 @@
+{
+  "generated_at": 1787256880.933811,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "VORWORT",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "DANKSAGUNG",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "INGRID KOLLAK",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "INGRID KOLLAK"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wie weit sind wir auf dem Weg zu einer integrierten Versorgung?",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [
+        "INGRID KOLLAK"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil 1:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ambulante Versorgung: Eine Herausforderung und unterschiedliche Antworten",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Europ\u00e4ische Union",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "MONIKA WILD",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "MONIKA WILD"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ambulante Pflege und Betreuung in \u00d6sterreich",
+      "printed_page_number": "35",
+      "source_page_index": -1,
+      "authors": [
+        "MONIKA WILD"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "TOM\u00c1S AZNAR, CONCHA GERM\u00c1N BES",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "TOM\u00c1S AZNAR",
+        "CONCHA GERM\u00c1N BES"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Modelle der ambulanten Pflege alter Menschen in Spanien",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "TOM\u00c1S AZNAR",
+        "CONCHA GERM\u00c1N BES"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ALI SMIDA",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "ALI SMIDA"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Versorgung pflegebed\u00fcrftiger Senioren in Frankreich",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [
+        "ALI SMIDA"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ELKE STREIT UND JAN HAUER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "ELKE STREIT",
+        "JAN HAUER"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die ambulante Pflege \u00e4lterer Menschen in den Niederlanden",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [
+        "ELKE STREIT",
+        "JAN HAUER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "RITA COLLINS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "RITA COLLINS"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\"Adding years to life \u2014 life to years\" \u2014 Eine Irische Perspektive",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [
+        "RITA COLLINS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "DAWN LEVETT UND ANDREAS BARTELS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "DAWN LEVETT",
+        "ANDREAS BARTELS"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Pflege \u00e4lterer Menschen in England \u2013 Eine Perspektive aus Kent",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [
+        "DAWN LEVETT",
+        "ANDREAS BARTELS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Europa",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "FRANZ FISCHER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "FRANZ FISCHER"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ambulante Pflege in der Schweiz",
+      "printed_page_number": "129",
+      "source_page_index": -1,
+      "authors": [
+        "FRANZ FISCHER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "L\u00c1SZL\u00d3 V\u00cdZV\u00c1RI, TAM\u00c1S KERS\u00c1NSZKY, KL\u00c1RA S\u00d6V\u00c9NYI",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "L\u00c1SZL\u00d3 V\u00cdZV\u00c1RI",
+        "TAM\u00c1S KERS\u00c1NSZKY",
+        "KL\u00c1RA S\u00d6V\u00c9NYI"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Altenversorgung in Ungarn",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [
+        "L\u00c1SZL\u00d3 V\u00cdZV\u00c1RI",
+        "TAM\u00c1S KERS\u00c1NSZKY",
+        "KL\u00c1RA S\u00d6V\u00c9NYI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MARIT KIRKEVOLD",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "MARIT KIRKEVOLD"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "H\u00e4usliche Pflege f\u00fcr \u00e4ltere Menschen in Norwegen",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [
+        "MARIT KIRKEVOLD"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VASILIJ L. SERGEEV",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "VASILIJ L. SERGEEV"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ru\u00dfland \u2013 Programm zur therapeutisch-sozialen Hilfe f\u00fcr alte Menschen in Taganrog",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [
+        "VASILIJ L. SERGEEV"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00dcbersee",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "DAISAKU MAEDA",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "DAISAKU MAEDA"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ver\u00e4nderungen in der japanischen Altenpflege",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [
+        "DAISAKU MAEDA"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JENS FRIEBE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "JENS FRIEBE"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Pflege und Altern in westafrikanischen L\u00e4ndern \u2013 Beispiele aus Senegal",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [
+        "JENS FRIEBE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HESOOK SUZIE KIM",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "HESOOK SUZIE KIM"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Hauskrankenpflege f\u00fcr alte Menschen in den Vereinigten Staaten",
+      "printed_page_number": "205",
+      "source_page_index": -1,
+      "authors": [
+        "HESOOK SUZIE KIM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil 2:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Pflegeversicherung in der BRD: Finanzierung, Leistung, Akzeptanz und Qualit\u00e4t",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "FELIX FRALING & ULRKE D\u00d6RR",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "FELIX FRALING",
+        "ULRKE D\u00d6RR"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Darstellung einer Sozialstation",
+      "printed_page_number": "223",
+      "source_page_index": -1,
+      "authors": [
+        "FELIX FRALING",
+        "ULRKE D\u00d6RR"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "FERNANDO ANGEL CUBILLOS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "FERNANDO ANGEL CUBILLOS"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kultursensible Pflege \u2013 ein Versorgungsangebot nicht nur f\u00fcr \u00e4ltere Migranten",
+      "printed_page_number": "243",
+      "source_page_index": -1,
+      "authors": [
+        "FERNANDO ANGEL CUBILLOS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "THOMAS ISENBERG",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "THOMAS ISENBERG"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Defizite der Pflegeversicherung und Mi\u00dfst\u00e4nde in der Pflege \u2013 Aktuelle Forderungen aus dem Blickwinkel der Verbraucherpolitik",
+      "printed_page_number": "259",
+      "source_page_index": -1,
+      "authors": [
+        "THOMAS ISENBERG"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ALEXANDER WAGNER UND ELKE GR\u00dcNHAGEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "ALEXANDER WAGNER",
+        "ELKE GR\u00dcNHAGEN"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die T\u00e4tigkeit des Medizinischen Dienstes der Krankenversicherung f\u00fcr die Pflegeversicherung",
+      "printed_page_number": "277",
+      "source_page_index": -1,
+      "authors": [
+        "ALEXANDER WAGNER",
+        "ELKE GR\u00dcNHAGEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MIKE PETERS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "MIKE PETERS"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Stellung des Versicherten in der gesetzlichen Kranken- und Pflegeversicherung",
+      "printed_page_number": "291",
+      "source_page_index": -1,
+      "authors": [
+        "MIKE PETERS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HEIKE LIEBISCH",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "HEIKE LIEBISCH"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "F\u00fcnf Jahre Pflegeversicherung \u2013 Versuch einer Standortbestimmung",
+      "printed_page_number": "301",
+      "source_page_index": -1,
+      "authors": [
+        "HEIKE LIEBISCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "KLAUS DUMEIER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS DUMEIER"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Pflegeversicherung \u2013 Wirkung und Herausforderung",
+      "printed_page_number": "315",
+      "source_page_index": -1,
+      "authors": [
+        "KLAUS DUMEIER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "BETTINA GERSTE UND ISABEL REHBEIN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "BETTINA GERSTE",
+        "ISABEL REHBEIN"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Einsatz von Pflegefachpersonal als Qualit\u00e4tsaspekt in ambulanten Pflegeeinrichtungen",
+      "printed_page_number": "329",
+      "source_page_index": -1,
+      "authors": [
+        "BETTINA GERSTE",
+        "ISABEL REHBEIN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ULLA DERWEIN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "ULLA DERWEIN"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Ziel ist eine bedarfsgerechte Pflege",
+      "printed_page_number": "343",
+      "source_page_index": -1,
+      "authors": [
+        "ULLA DERWEIN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "AUTOR/INNEN- UND MITARBEITER/INNENLISTE",
+      "printed_page_number": "349",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

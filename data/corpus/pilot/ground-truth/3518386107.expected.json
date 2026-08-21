@@ -1,0 +1,158 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einleitung: Der deutscheste aller deutschen Stoffe",
+      "authors": [
+        "Joachim Heinzle"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "I. Philologische Grundlagen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Zweimal Hagen oder: Rezeption als Sinnunterstellung",
+      "authors": [
+        "Joachim Heinzle"
+      ],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "II. Entstehung und Entfaltung der Nibelungenideologie im 19. und 20. Jahrhundert",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Das Nibelungenlied – ein Nationalepos?",
+      "authors": [
+        "Klaus von See"
+      ],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "»... diese reinen kräftigen Töne«. Zu Karl Simrocks Übersetzung des Nibelungenliedes",
+      "authors": [
+        "Joachim Heinzle"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "»Ein Hauptbuch bey der Erziehung der deutschen Jugend ...« Zur pädagogischen Indienstnahme des Nibelungenliedes für Schule und Unterricht im 19. und 20. Jahrhundert",
+      "authors": [
+        "Werner Wunderlich"
+      ],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "Etzels Halle und Stalingrad: Die Rede Görings vom 30. I. 1943",
+      "authors": [
+        "Peter Krüger"
+      ],
+      "printed_page_number": "151",
+      "skip": false
+    },
+    {
+      "title": "III. Der Beitrag der bildenden Kunst",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Nibelungen-Illustrationen der Romantik. Zur Säkularisierung christlicher Bildformen im 19. Jahrhundert",
+      "authors": [
+        "Klaus Lankheit"
+      ],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "Nibelungenlied und Historienmalerei im 19. Jahrhundert. Wege der Identitätsfindung",
+      "authors": [
+        "Heinz-Toni Wappenschmidt"
+      ],
+      "printed_page_number": "219",
+      "skip": false
+    },
+    {
+      "title": "Der Wormser Nibelungen-Wandbildzyklus von Karl Schmoll von Eisenwerth",
+      "authors": [
+        "J.A. Schmoll genannt Eisenwerth"
+      ],
+      "printed_page_number": "251",
+      "skip": false
+    },
+    {
+      "title": "Leidmotive. Möglichkeiten der künstlerischen Nibelungen-Rezeption seit 1945",
+      "authors": [
+        "Harald Kimpel",
+        "Johanna Werckmeister"
+      ],
+      "printed_page_number": "284",
+      "skip": false
+    },
+    {
+      "title": "IV. Neuformulierungen des Nibelungenstoffes im Horizont der Nibelungenideologie",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Minne Macht. Zu Richard Wagners Bühnenwerk Der Ring des Nibelungen",
+      "authors": [
+        "Thomas Koebner"
+      ],
+      "printed_page_number": "309",
+      "skip": false
+    },
+    {
+      "title": "Ein deutsches Trauerspiel: Friedrich Hebbels Nibelungen",
+      "authors": [
+        "Horst Albert Glaser"
+      ],
+      "printed_page_number": "333",
+      "skip": false
+    },
+    {
+      "title": "»Man stellt Denkmäler nicht auf den flachen Asphalt«. Fritz Langs Nibelungen-Film",
+      "authors": [
+        "Heinz-B. Heller"
+      ],
+      "printed_page_number": "351",
+      "skip": false
+    },
+    {
+      "title": "Die Kunst aufzuhören. Der Nibelungen-Stoff in Heiner Müllers Germania Tod in Berlin",
+      "authors": [
+        "Joachim Schmitt-Sasse"
+      ],
+      "printed_page_number": "370",
+      "skip": false
+    },
+    {
+      "title": "Auswahlbibliographie",
+      "authors": [
+        "Joachim Heinzle",
+        "Anneliese Waldschmidt"
+      ],
+      "printed_page_number": "399",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,971 @@
+{
+  "generated_at": 1787012330.9399118,
+  "entries": [
+    {
+      "title": "Table of contents",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kathryn Klar, Margaret Langdon, and Shirley Silver",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Kathryn Klar",
+        "Margaret Langdon",
+        "Shirley Silver"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Preface",
+      "printed_page_number": "V",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Publications of Madison S. Beeler",
+      "printed_page_number": "VII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of Contributors",
+      "printed_page_number": "XIII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "American Indian studies",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Richard B. Applegate",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Richard B. Applegate"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ethnosemantics of the dream helper in south-central California",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Richard B. Applegate"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "James Bauman",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "James Bauman"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Chimariko placenames and the boundaries of Chimariko territory.",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "James Bauman"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Catherine A. Callaghan",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Catherine A. Callaghan"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "An 'Indo European' type paradigm in Proto Eastern Miwok.",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Catherine A. Callaghan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wallace L. Chafe",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Wallace L. Chafe"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Consequential verbs in the Northern Iroquoian languages and elsewhere.",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [
+        "Wallace L. Chafe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "G. L. Gamble",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "G. L. Gamble"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The \"old time\" Chunut count",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "G. L. Gamble"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Victor Golla",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Victor Golla"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Some Yokuts-Maidu comparisons",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [
+        "Victor Golla"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mary R. Haas",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Mary R. Haas"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Notes on Karok internal reconstruction",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [
+        "Mary R. Haas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mercedes Q. Hinkson",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Mercedes Q. Hinkson"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Patterns of derivational affixation in the Spanish dialect of the last Rumsen speakers",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [
+        "Mercedes Q. Hinkson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Contents",
+      "printed_page_number": "X",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "William H. Jacobsen, Jr.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "William H. Jacobsen, Jr."
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Washo bipartite verb stems",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "William H. Jacobsen, Jr."
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Terrence Kaufman",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Terrence Kaufman"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Pre-Columbian borrowing involving Huastec",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [
+        "Terrence Kaufman"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kathryn A. Klar",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Kathryn A. Klar"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Northern Chumash numerals",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [
+        "Kathryn A. Klar"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Margaret Langdon and Pamela Munro",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Margaret Langdon",
+        "Pamela Munro"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Yuman numerals",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [
+        "Margaret Langdon",
+        "Pamela Munro"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sally McLendon",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Sally McLendon"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "How languages die: A social history of unstable bilingualism among the Eastern Pomo",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "Sally McLendon"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wick R. Miller",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Wick R. Miller"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Preaspirated consonants in Central Numic",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [
+        "Wick R. Miller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Michael J. P. Nichols",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Michael J. P. Nichols"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Renewal in Numic color systems",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [
+        "Michael J. P. Nichols"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mark Okrand",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Mark Okrand"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Rumsen II: An evaluation of reconstitution",
+      "printed_page_number": "169",
+      "source_page_index": -1,
+      "authors": [
+        "Mark Okrand"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Robert L. Oswalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Robert L. Oswalt"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ukiah : Yokaya",
+      "printed_page_number": "183",
+      "source_page_index": -1,
+      "authors": [
+        "Robert L. Oswalt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bruce L. Pearson",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Bruce L. Pearson"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Nonimmediate as a semantic unit in Delaware.",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [
+        "Bruce L. Pearson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Harvey Pitkin",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Harvey Pitkin"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Two plus two makes two",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [
+        "Harvey Pitkin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jesse O. Sawyer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Jesse O. Sawyer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The non-genetic relationship of Wappo and Yuki.",
+      "printed_page_number": "209",
+      "source_page_index": -1,
+      "authors": [
+        "Jesse O. Sawyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Alice Schlichter",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Alice Schlichter"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "English and Spanish loanwords in Wintu",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [
+        "Alice Schlichter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hansjakob Seiler",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hansjakob Seiler"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Two systems of Cahuilla kinship expressions: labeling and descriptive",
+      "printed_page_number": "229",
+      "source_page_index": -1,
+      "authors": [
+        "Hansjakob Seiler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "William Shipley",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "William Shipley"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Rumsen derivation.",
+      "printed_page_number": "237",
+      "source_page_index": -1,
+      "authors": [
+        "William Shipley"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Shirley Silver",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Shirley Silver"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Shasta and Konomihu",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [
+        "Shirley Silver"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Indoeuropean studies",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sara B. Aleshire",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Sara B. Aleshire"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Greek \u03b2\u03bf\u03cd\u03bb\u03bf\u03bc\u03b1\u03b9: Etymology and evolution.",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [
+        "Sara B. Aleshire"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Frederic Amory",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Frederic Amory"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The d\u014dnsk tunga in Early Medieval Normandy: a note",
+      "printed_page_number": "279",
+      "source_page_index": -1,
+      "authors": [
+        "Frederic Amory"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Foster W. Blaisdell, Jr.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Foster W. Blaisdell, Jr."
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The present participle again \u2013 some observations based on an Old Norse text",
+      "printed_page_number": "291",
+      "source_page_index": -1,
+      "authors": [
+        "Foster W. Blaisdell, Jr."
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Michael R. Dilts",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Michael R. Dilts"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Extension versus convergence in the North Germanic verb.",
+      "printed_page_number": "299",
+      "source_page_index": -1,
+      "authors": [
+        "Michael R. Dilts"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "M. B. Emeneau",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "M. B. Emeneau"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sanskrit bh\u014dgin- 'wealthy' \u2192 'village headman; fisherman, palanquin-bearer'.",
+      "printed_page_number": "315",
+      "source_page_index": -1,
+      "authors": [
+        "M. B. Emeneau"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Alice Wyland Grundt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Alice Wyland Grundt"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Diphthongs in Old English.",
+      "printed_page_number": "327",
+      "source_page_index": -1,
+      "authors": [
+        "Alice Wyland Grundt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eric P. Hamp",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Eric P. Hamp"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Albanian \u0113sht\u00eb",
+      "printed_page_number": "337",
+      "source_page_index": -1,
+      "authors": [
+        "Eric P. Hamp"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gary B. Holland",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gary B. Holland"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "On the origin of the 3rd sg. -r in Old Norse.",
+      "printed_page_number": "347",
+      "source_page_index": -1,
+      "authors": [
+        "Gary B. Holland"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "James T. Hooker",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "James T. Hooker"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Indo-European themes in Homer",
+      "printed_page_number": "357",
+      "source_page_index": -1,
+      "authors": [
+        "James T. Hooker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jay Jasanoff",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Jay Jasanoff"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The nominative singular of n-stems in Germanic",
+      "printed_page_number": "375",
+      "source_page_index": -1,
+      "authors": [
+        "Jay Jasanoff"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Martha B. Kendall",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Martha B. Kendall"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The unethical dative.",
+      "printed_page_number": "383",
+      "source_page_index": -1,
+      "authors": [
+        "Martha B. Kendall"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Karen C. Kossuth",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Karen C. Kossuth"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Definite default in Old Icelandic.",
+      "printed_page_number": "395",
+      "source_page_index": -1,
+      "authors": [
+        "Karen C. Kossuth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Yakov Malkiel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Yakov Malkiel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "August Friedrich Pott as a pioneer of Romance linguistics.",
+      "printed_page_number": "409",
+      "source_page_index": -1,
+      "authors": [
+        "Yakov Malkiel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Johanna Nichols",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Johanna Nichols"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The syntax of Old Russian m\u012bn\u011bti (sja)",
+      "printed_page_number": "421",
+      "source_page_index": -1,
+      "authors": [
+        "Johanna Nichols"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Herbert Penzl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Herbert Penzl"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Notker's \"Anlautgesetz\" and generative phonology",
+      "printed_page_number": "441",
+      "source_page_index": -1,
+      "authors": [
+        "Herbert Penzl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Contents",
+      "printed_page_number": "XI",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "XII",
+      "printed_page_number": "XII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Orrin W. Robinson",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Orrin W. Robinson"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "An exception to Old High German umlaut",
+      "printed_page_number": "449",
+      "source_page_index": -1,
+      "authors": [
+        "Orrin W. Robinson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Martin Schwartz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Martin Schwartz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The etymon of snake, snail, and sneak in the light of Indo-Iranian",
+      "printed_page_number": "461",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Schwartz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hasmig Seropian",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hasmig Seropian"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Indo-European, Classical Armenian, and Modern Armenian",
+      "printed_page_number": "469",
+      "source_page_index": -1,
+      "authors": [
+        "Hasmig Seropian"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hariklia Statha-Halikas",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hariklia Statha-Halikas"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The Venetic r-forms in a comparative perspective",
+      "printed_page_number": "477",
+      "source_page_index": -1,
+      "authors": [
+        "Hariklia Statha-Halikas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Werner Winter",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Werner Winter"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "OInd. m\u0101hi : Gk. m\u00e9ga 'great' reconsidered",
+      "printed_page_number": "487",
+      "source_page_index": -1,
+      "authors": [
+        "Werner Winter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

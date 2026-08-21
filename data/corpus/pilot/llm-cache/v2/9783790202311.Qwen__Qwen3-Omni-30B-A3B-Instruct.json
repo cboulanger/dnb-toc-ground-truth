@@ -1,0 +1,827 @@
+{
+  "generated_at": 1787238213.83514,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "INHALTSVERZEICHNIS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort der Herausgeber",
+      "printed_page_number": "10",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gru\u00dfwort",
+      "printed_page_number": "12",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HUMANISTISCHE BILDUNGSIDEALE \u2013 EINE ST\u00c4NDIGE HERAUSFORDERUNG",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zwei ber\u00fchmte Sch\u00fcler am FWG",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Redaktionelle Vorbemerkung",
+      "printed_page_number": "16",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sich des Mitsch\u00fclers Karl Marx r\u00fchmen? \u2013 Oswald von Nell-Breuning",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Oswald von Nell-Breuning"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Was bleibt von Karl Marx am Ausgang des 20. Jahrhunderts? \u2013 Hans-Peter Harstick",
+      "printed_page_number": "22",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Peter Harstick"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Gymnasium \u2013 Schulform mit Zukunft",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Schule der Anpassung, Schule des Widerstands:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gibt es in 50 Jahren noch Gymnasien? \u2013 Kurt Reumann",
+      "printed_page_number": "36",
+      "source_page_index": -1,
+      "authors": [
+        "Kurt Reumann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "50 Jahre sp\u00e4ter \u2013 die zweite deutsche Bildungskatastrophe \u2013 Thomas Bierschenk",
+      "printed_page_number": "74",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Bierschenk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Messbare Bildung f\u00fcr die Informations- und Wissensgesellschaft? \u2013 Wissen und K\u00f6nnen! \u2013 Konrad Kolz",
+      "printed_page_number": "80",
+      "source_page_index": -1,
+      "authors": [
+        "Konrad Kolz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "SCHULE IM DIENST EINER GANZHEITLICHEN, \u00c4STHETISCHEN UND KOMMUNIKATIVEN ERZIEHUNG",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die alten Sprachen im Wandel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vom Vokabelpauen zu \u201eLatein plus\u201c \u2013 Lateinunterricht im Wandel der letzten 50 Jahre \u2013 Josef Frisch",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [
+        "Josef Frisch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das \u201eLatein plus\u201c-Modell \u2013 eine Besonderheit des FWG \u2013 Josef Frisch",
+      "printed_page_number": "100",
+      "source_page_index": -1,
+      "authors": [
+        "Josef Frisch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Griechisch am FWG \u2013 ein Pl\u00e4doyer f\u00fcr eine gar nicht so tote Sprache \u2013 Josef Frisch",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [
+        "Josef Frisch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Vom Jesuitendrama zum Fach Darstellendes Spiel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Jesuitentheater in Trier \u2013 eine Skizze seiner historischen Entwicklung \u2013 Michael Embach",
+      "printed_page_number": "108",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Embach"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Fach Darstellendes Spiel am FWG \u2013 Gabriele Braun, Helmut Steimer",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [
+        "Gabriele Braun",
+        "Helmut Steimer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Musik und Bildende Kunst in Schlaglichtern",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Musik am FWG von 1980 bis 2010 \u2013 Bernd Nink",
+      "printed_page_number": "132",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Nink"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "450 Jahre FWG \u2013 35 Jahre FWG-Schulkalender \u2013 Horst Meurer",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "Horst Meurer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Kulissen-Mal-AG des FWG \u2013 Horst Meurer",
+      "printed_page_number": "142",
+      "source_page_index": -1,
+      "authors": [
+        "Horst Meurer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Von den Leibes\u00fcbungen zur Partnerschule des Sports",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Aus der Geschichte des Sports am FWG \u2013 Isabell Follmann, Petra Orth, Andreas Sch\u00e4fer",
+      "printed_page_number": "144",
+      "source_page_index": -1,
+      "authors": [
+        "Isabell Follmann",
+        "Petra Orth",
+        "Andreas Sch\u00e4fer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "35 Jahre Skifreizeiten am FWG \u2013 Impressionen \u2013 Michael Frede",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Frede"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rudern am FWG \u2013 ein R\u00fcckblick \u2013 Gerhard Kolb",
+      "printed_page_number": "156",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard Kolb"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "30 Jahre Lehrer-Fu\u00dfball am FWG \u2013 ein humorvoller R\u00fcckblick des Spielertrainers \u2013 Horst Freischmidt",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [
+        "Horst Freischmidt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lernziel Demokratie am FWG",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "UFO politische Bildung \u2013 eine fiktive Diskussionsrunde zu Herausforderungen des Sozialkundeunterrichts \u2013 Birgit Palzer-Rollinger, Silke Schneider",
+      "printed_page_number": "162",
+      "source_page_index": -1,
+      "authors": [
+        "Birgit Palzer-Rollinger",
+        "Silke Schneider"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Geschichte der Sch\u00fclervertretung am FWG \u2013 Simone Feltes",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [
+        "Simone Feltes"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wenn Sch\u00fcler Sch\u00fcler vertreten \u2013 Maren Rehnelt",
+      "printed_page_number": "174",
+      "source_page_index": -1,
+      "authors": [
+        "Maren Rehnelt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Demokratische Mitwirkung des Schulelternbeirates \u2013 Erfahrungen und Einsichten (1994-2008) \u2013 Ulrich Roth",
+      "printed_page_number": "176",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrich Roth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Aus der Arbeit des Schulelternbeirats am FWG \u2013 Fritz-Nikolai Rudolph",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [
+        "Fritz-Nikolai Rudolph"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bildungsideale \u2013 Lernziele \u2013 Kompetenzen: Blick auf moderne Didaktik und Methodik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Humanistische Bildungsideale und der Erwerb von Kompetenzen \u2013 Susanne Denzinger, Marlies Lehnhert-L\u00fctticken",
+      "printed_page_number": "182",
+      "source_page_index": -1,
+      "authors": [
+        "Susanne Denzinger",
+        "Marlies Lehnhert-L\u00fctticken"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Medien und Medienkompetenz am FWG \u2013 Harald Heim, Sandra Rech, Hildegard Steimer",
+      "printed_page_number": "193",
+      "source_page_index": -1,
+      "authors": [
+        "Harald Heim",
+        "Sandra Rech",
+        "Hildegard Steimer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bildung und Ausbildung: Studien- und Berufsorientierung in der Schule",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Unternehmen und Ethik \u2013 Theo Baums",
+      "printed_page_number": "198",
+      "source_page_index": -1,
+      "authors": [
+        "Theo Baums"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schule und Wirtschaft im Lichte der globalen Finanz- und Wirtschaftskrise \u2013 Manfred Scheuer",
+      "printed_page_number": "203",
+      "source_page_index": -1,
+      "authors": [
+        "Manfred Scheuer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Von der Bildung f\u00fcrs Leben zum Leben durch Bildung \u2013 Was Schulen heute leisten (m\u00fcssen) \u2013 Dirk Jakobs",
+      "printed_page_number": "210",
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Jakobs"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Von Lernangeboten zur beruflichen Orientierung bis zum Portfolio Berufswahl \u2013 Annette Thomas",
+      "printed_page_number": "215",
+      "source_page_index": -1,
+      "authors": [
+        "Annette Thomas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Alumni-Projekt des Vereins der Ehemaligen des FWG \u2013 Rainer Richarts",
+      "printed_page_number": "219",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Richarts"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "R\u00dcCKBLICKE \u2013 EINBLICKE \u2013 AUSBLICKE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das FWG in der Zeit des Nationalsozialismus",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Redaktionelle Vorbemerkung",
+      "printed_page_number": "224",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hinhaltender Widerstand \u2013 Das FWG in den ersten Jahren des Nationalsozialismus \u2013 Peter Brommer",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Brommer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Klaus Barbie: Sch\u00fcler am FWG \u2013 Geheimdienstagent und Kriegsverbrecher \u2013 Rudolf M\u00fcller",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf M\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Theodor Groppe: Der schwarze General \u2013 Thomas Zuche",
+      "printed_page_number": "246",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Zuche"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das FWG und das Konvikt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Bisch\u00f6fliche Konvikt Trier \u2013 Hermann-Josef Braun",
+      "printed_page_number": "252",
+      "source_page_index": -1,
+      "authors": [
+        "Hermann-Josef Braun"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein ehemaliger Konviktsdirektor erinnert sich \u2013 Josef Forse",
+      "printed_page_number": "262",
+      "source_page_index": -1,
+      "authors": [
+        "Josef Forse"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Von einem, der auszog, das Abi zu machen \u2013 Hermann Becker",
+      "printed_page_number": "268",
+      "source_page_index": -1,
+      "authors": [
+        "Hermann Becker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Jahre Trier \u2013 Bisch\u00f6fliches Konvikt \u2013 FWG \u2013 Wendel Kiefer",
+      "printed_page_number": "271",
+      "source_page_index": -1,
+      "authors": [
+        "Wendel Kiefer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Im Selbstgespr\u00e4ch \u00fcber meine Zeit am FWG und am Bisch\u00f6flichen Konvikt Trier \u2013 Werner Linstner",
+      "printed_page_number": "274",
+      "source_page_index": -1,
+      "authors": [
+        "Werner Linstner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erinnerungen eines ehemaligen FWG-Sch\u00fclers an die Zeit seiner Unterbringung im Bisch\u00f6flichen Konvikt \u2013 Gunter Gerhards",
+      "printed_page_number": "276",
+      "source_page_index": -1,
+      "authors": [
+        "Gunter Gerhards"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das FWG nach dem Zweiten Weltkrieg bis heute",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das FWG von 1945 bis 1973 im Rahmen der Trierer Stadt- und Regionalgeschichte \u2013 Rudolf M\u00fcller",
+      "printed_page_number": "278",
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf M\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schulfahrt nach Bonn im Jubil\u00e4umsjahr 1961 \u2013 Wolfgang Steinborn",
+      "printed_page_number": "302",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Steinborn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein Blick in die Zeit am FWG von 1973 bis 2001 \u2013 Hermann Josef Krapp",
+      "printed_page_number": "306",
+      "source_page_index": -1,
+      "authors": [
+        "Hermann Josef Krapp"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\"Das war meine Schule\" \u2013 Herbert Thommes \u00fcber seine Zeit als kommissarischer Schulleiter des FWG von 2001 bis 2003 \u2013 Arnt Finkenberg",
+      "printed_page_number": "346",
+      "source_page_index": -1,
+      "authors": [
+        "Arnt Finkenberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das FWG im Jubil\u00e4umsjahr 2011 \u2013 Interview mit Schulleiter Dr. Harald Heim",
+      "printed_page_number": "349",
+      "source_page_index": -1,
+      "authors": [
+        "Dr. Harald Heim"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "50 Jahre neues Schulgeb\u00e4ude des FWG an der Fausenburg in Trier \u2013 Axel Christmann",
+      "printed_page_number": "353",
+      "source_page_index": -1,
+      "authors": [
+        "Axel Christmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Geschichte der G\u00fcterverwaltung des FWG und der \u201aalten\u2018 FWG-Stiftung \u2013 Rudolf M\u00fcller",
+      "printed_page_number": "360",
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf M\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die neue \u201eStiftung Friedrich-Wilhelm-Gymnasium Trier\u201c RES ET VERBA \u2013 Arnt Finkenberg, Ulrich Roth",
+      "printed_page_number": "366",
+      "source_page_index": -1,
+      "authors": [
+        "Arnt Finkenberg",
+        "Ulrich Roth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Verein der Ehemaligen des FWG \u2013 eine Erfolgsgeschichte \u2013 Mechthild Ludwig, Alfred Scherer",
+      "printed_page_number": "372",
+      "source_page_index": -1,
+      "authors": [
+        "Mechthild Ludwig",
+        "Alfred Scherer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Verein der Freunde und F\u00f6rderer \u2013 ein \u00dcberblick \u2013 Harald Heim",
+      "printed_page_number": "379",
+      "source_page_index": -1,
+      "authors": [
+        "Harald Heim"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Guido Gro\u00df: Lehrer, Historiker, Geograph \u2013 Otmar Werle",
+      "printed_page_number": "380",
+      "source_page_index": -1,
+      "authors": [
+        "Otmar Werle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Moderne Fremdsprachen als Br\u00fccke in die Welt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Austauschbegegnungen \u2013 Eva-Maria Renard, Barbara Willems",
+      "printed_page_number": "382",
+      "source_page_index": -1,
+      "authors": [
+        "Eva-Maria Renard",
+        "Barbara Willems"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gl\u00fcckw\u00fcnsche der Partnerschulen \u2013 Wycliffe-College, England \u2013 Coll\u00e8ge St. Jean Verdun, Frankreich \u2013 Kankarisveden Koulu J\u00e4ms\u00e4nkoski, Finnland",
+      "printed_page_number": "387",
+      "source_page_index": -1,
+      "authors": [
+        "Wycliffe-College",
+        "Coll\u00e8ge St. Jean Verdun",
+        "Kankarisveden Koulu J\u00e4ms\u00e4nkoski"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fahrten ins englischsprachige Ausland \u2013 Wolfgang J\u00f6ricke",
+      "printed_page_number": "391",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang J\u00f6ricke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "DELF \u2013 eine Erfolgsgeschichte am FWG \u2013 Eva-Maria Renard",
+      "printed_page_number": "394",
+      "source_page_index": -1,
+      "authors": [
+        "Eva-Maria Renard"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Eintritt in das Jubil\u00e4umsjahr 2011",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "450 Jahre FWG \u2013 Die Festlichkeiten am 3. Februar 2001 \u2013 Marlies Lehnhert-L\u00fctticken",
+      "printed_page_number": "397",
+      "source_page_index": -1,
+      "authors": [
+        "Marlies Lehnhert-L\u00fctticken"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Impressionen in Bildern von der Feierstunde und vom Empfang",
+      "printed_page_number": "400",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\"Mit anspruchsvollem Konzept gut aufgestellt\" \u2013 Jubil\u00e4umsfeier des FWG \u2013 Christian J\u00f6ricke",
+      "printed_page_number": "402",
+      "source_page_index": -1,
+      "authors": [
+        "Christian J\u00f6ricke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PERSONEN UND DATEN AUS DEM SCHULLEBEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Abiturienten-Jahrg\u00e4nge am FWG von 1961 bis 2011 \u2013 Mechthild Ludwig",
+      "printed_page_number": "406",
+      "source_page_index": -1,
+      "authors": [
+        "Mechthild Ludwig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lehrkr\u00e4fte in der Zeit von 1961 bis 2011 \u2013 Harald Heim, Barbara Willems",
+      "printed_page_number": "442",
+      "source_page_index": -1,
+      "authors": [
+        "Harald Heim",
+        "Barbara Willems"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Kollegium im Schuljahr 2009/2010 im Bild",
+      "printed_page_number": "446",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Lehrerkollegium des FWG im Jubil\u00e4umsjahr 2011 \u2013 Harald Heim, Barbara Willems",
+      "printed_page_number": "448",
+      "source_page_index": -1,
+      "authors": [
+        "Harald Heim",
+        "Barbara Willems"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Verwaltung in den Jahren von 1961 bis 2011 \u2013 Harald Heim, Barbara Willems",
+      "printed_page_number": "450",
+      "source_page_index": -1,
+      "authors": [
+        "Harald Heim",
+        "Barbara Willems"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "printed_page_number": "452",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

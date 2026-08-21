@@ -1,0 +1,110 @@
+{
+  "entries": [
+    {
+      "title": "Bibliography and Abbreviations",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Preface",
+      "authors": [],
+      "printed_page_number": "33",
+      "skip": true
+    },
+    {
+      "title": "Introductory Remarks (G. OBERHAMMER)",
+      "authors": [
+        "G. OBERHAMMER"
+      ],
+      "printed_page_number": "35",
+      "skip": false
+    },
+    {
+      "title": "The Influence of Orthodox Vai\u1e63\u1e47avism on Vi\u1e63i\u1e63\u1e6d\u0101dvaita Ved\u0101nta and P\u0101\u00f1car\u0101tra (G. OBERHAMMER)",
+      "authors": [
+        "G. OBERHAMMER"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "Illuminating the Relation Between P\u0101\u00f1car\u0101tra and the Early \u015ar\u012bvai\u1e63\u1e47ava Community (J.B. CARMAN)",
+      "authors": [
+        "J.B. CARMAN"
+      ],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "The Question of the Unity of karmak\u0101\u1e47\u1e0da and j\u00f1\u0101nak\u0101\u1e47\u1e0da According to R\u0101m\u0101nuja (H. MARLEWICZ)",
+      "authors": [
+        "H. MARLEWICZ"
+      ],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "The vy\u016bha as the \u201cState of the Lord\u201d (bhagavadavasth\u0101): Ved\u0101ntic Interpretation of P\u0101\u00f1car\u0101tra Doctrines According to Venka\u1e6dan\u0101tha (M. SCHM\u00dcCKER)",
+      "authors": [
+        "M. SCHM\u00dcCKER"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "P\u0101\u00f1car\u0101tra Texts in the Tenkalai-Va\u1e6dkalai Dispute (P.Y. MUMME)",
+      "authors": [
+        "P.Y. MUMME"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "The vy\u016bhas in Stone (D.D. HUDSON)",
+      "authors": [
+        "D.D. HUDSON"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "Br\u0101hma\u1e47as, P\u0101\u00f1car\u0101trins, and the Formation of \u015ar\u012bvai\u1e63\u1e47avism (K.K. YOUNG)",
+      "authors": [
+        "K.K. YOUNG"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Initiation and Conversion in Medieval South India: pa\u00f1casamsk\u0101ra as Historical Practice in the \u015ar\u012bvai\u1e63\u1e47ava Post-R\u0101m\u0101nuja Hagiographical Literature (S. RAMAN)",
+      "authors": [
+        "S. RAMAN"
+      ],
+      "printed_page_number": "263",
+      "skip": false
+    },
+    {
+      "title": "Service as an End in Itself: Vi\u1e63i\u1e63\u1e6d\u0101dvaitic Modifications of P\u0101\u00f1car\u0101tra Ritual (M. RASTELLI)",
+      "authors": [
+        "M. RASTELLI"
+      ],
+      "printed_page_number": "287",
+      "skip": false
+    },
+    {
+      "title": "About the Contributors",
+      "authors": [],
+      "printed_page_number": "315",
+      "skip": true
+    },
+    {
+      "title": "Selected Keyword Index",
+      "authors": [],
+      "printed_page_number": "317",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

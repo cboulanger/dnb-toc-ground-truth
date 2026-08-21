@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": "6",
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [
+        "Werner Stegmaier"
+      ],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Niklas Luhmann als Philosoph",
+      "authors": [
+        "Niklas Luhmann"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Niklas Luhmann und das Recht \u2013 \u00dcber die Nutzlosigkeit der Systemtheorie f\u00fcr Recht und Rechtswissenschaft",
+      "authors": [
+        "Joachim Lege"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "Systemtheorie und Politik(wissenschaft) \u2013 Missverst\u00e4ndnis oder produktive Herausforderung?",
+      "authors": [
+        "Michael Hein"
+      ],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "\u00bbDie Dame hat Romane gelesen und kennt den Code\u00ab \u2013 Zur Rezeption der Systemtheorie und systemtheoretischer Operationen in der Literaturwissenschaft",
+      "authors": [
+        "Elisabeth B\u00f6hm"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Systemtheorie in der Geographie",
+      "authors": [
+        "Helmut Kl\u00fcter"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "Urbane Wohn(t)r\u00e4ume am Beispiel des professionell vermittelten Immobilienverkaufsangebots aus textlinguistisch-systemtheoretischer Sicht",
+      "authors": [
+        "Jana M\u00f6ller-Kiero"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "Zur Leistung und Funktion von Flyern in unterschiedlichen Kommunikationsbereichen",
+      "authors": [
+        "Theres Werner"
+      ],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "Stil und sozialer Sinn. Sakrale Sprache in p\u00e4pstlichen Enzykliken",
+      "authors": [
+        "Iris Kroll"
+      ],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "Textsorten als Operationen von sozialen Systemen am Beispiel des Notizzettels f\u00fcr die Hochschulsprechstunde",
+      "authors": [
+        "Stefan Buchholz"
+      ],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "Von der systemtheoretisch orientierten Textsortenlinguistik zur linguistischen Diskursanalyse nach Foucault",
+      "authors": [
+        "Christina Gansel"
+      ],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "229",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

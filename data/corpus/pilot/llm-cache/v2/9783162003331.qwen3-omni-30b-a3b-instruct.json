@@ -1,0 +1,730 @@
+{
+  "generated_at": 1787016036.406584,
+  "entries": [
+    {
+      "title": "Vorwort.",
+      "printed_page_number": "V",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Entscheidungen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Herstellen \u2013 Darstellen \u2013 Kommunizieren",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wer entscheidet?",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Waldhoff"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Richterinnen und Richter des Bundesverfassungsgerichts 1951\u20132026",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Waldhoff"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verfassungsrechtsprechung als transnationale Aufgabe.",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Kleinlein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Befangenheit von Richterinnen und Richtern",
+      "printed_page_number": "53",
+      "source_page_index": -1,
+      "authors": [
+        "Sonja Heitzer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verfassungsinterpretation",
+      "printed_page_number": "79",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Cornils"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Au\u00dferrechtliches in der Rechtsprechung des Bundesverfassungsgerichts",
+      "printed_page_number": "107",
+      "source_page_index": -1,
+      "authors": [
+        "Ino Augsberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zugang zum Verfassungrechtsschutz",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [
+        "Heiko Sauer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Steuerungsmechanismen des Bundesverfassungsgerichts und ihre rechtliche Bewertung",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [
+        "Heiko Sauer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "M\u00fcndliche Verhandlung.",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [
+        "Christoph M\u00f6llers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einstweilige Anordnung.",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [
+        "Aqilab Sandhu"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Bundesverfassungsgerichtsgesetz als Prozessordnung",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [
+        "Tristan Barczak"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Folgen und Durchsetzung von Entscheidungen",
+      "printed_page_number": "223",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Walter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Dezision bleibt unsichtbar",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [
+        "Julian Kr\u00fcper"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ikonographie und Ikonologie des Bundesverfassungsgerichts im Dilemma.",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [
+        "Julian Kr\u00fcper"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pressearbeit des Bundesverfassungsgerichts",
+      "printed_page_number": "269",
+      "source_page_index": -1,
+      "authors": [
+        "Roland Broemel",
+        "Gigi Deppe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verfassungsgerichtsbarkeit im Verfassungsvergleich",
+      "printed_page_number": "291",
+      "source_page_index": -1,
+      "authors": [
+        "Mehrdad Payandeh"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bundesverfassungsgerichtsforschung",
+      "printed_page_number": "315",
+      "source_page_index": -1,
+      "authors": [
+        "Jens Kersten"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Gericht als Beobachtungsobjekt",
+      "printed_page_number": "315",
+      "source_page_index": -1,
+      "authors": [
+        "Jens Kersten"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Bundesverfassungsgericht als Verfassungsorgan",
+      "printed_page_number": "337",
+      "source_page_index": -1,
+      "authors": [
+        "Stephan Rixen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verfassungsgehalte",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sch\u00fctzen \u2013 Konkretisieren \u2013 Entwickeln",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ein konkretistisches (Miss-)Verst\u00e4ndnis?",
+      "printed_page_number": "363",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Huster"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Menschenw\u00fcrde zwischen Grundsatz und Grundrecht",
+      "printed_page_number": "363",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Huster"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Religion zwischen Freiheit, Grundrechtsschutz Dritter und Neutralit\u00e4t des Staates",
+      "printed_page_number": "391",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Funke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kommunikation",
+      "printed_page_number": "415",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Wischmeyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pluralisierung von Ehe und Familie",
+      "printed_page_number": "437",
+      "source_page_index": -1,
+      "authors": [
+        "Franz Reimer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Was ist und wozu Schule?",
+      "printed_page_number": "463",
+      "source_page_index": -1,
+      "authors": [
+        "Ute Sacksofsky"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Migration",
+      "printed_page_number": "487",
+      "source_page_index": -1,
+      "authors": [
+        "Angelika Siehr"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dezentralit\u00e4t als Verfassungsidee",
+      "printed_page_number": "511",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Burgi"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "F\u00f6deralismus und Kommunen",
+      "printed_page_number": "511",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Burgi"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Demokratische und nicht-demokratische Wahlen.",
+      "printed_page_number": "537",
+      "source_page_index": -1,
+      "authors": [
+        "Patrick Hilbert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gute Gesetzgebung",
+      "printed_page_number": "563",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Durner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Internationale Offenheit.",
+      "printed_page_number": "587",
+      "source_page_index": -1,
+      "authors": [
+        "Stefanie Schmabl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Abw\u00e4gung im Verfassungsstaat",
+      "printed_page_number": "613",
+      "source_page_index": -1,
+      "authors": [
+        "Johannes Saurer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sicherheit",
+      "printed_page_number": "613",
+      "source_page_index": -1,
+      "authors": [
+        "Johannes Saurer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Konstitutionalistisches Erbe im demokratischen Rechtsstaat?",
+      "printed_page_number": "633",
+      "source_page_index": -1,
+      "authors": [
+        "Margrit Seckelmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Berufsbeamtentum im Spiegel der Rechtsprechung des Bundesverfassungsgerichts",
+      "printed_page_number": "633",
+      "source_page_index": -1,
+      "authors": [
+        "Margrit Seckelmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Institutioneller Verfassungsschutz",
+      "printed_page_number": "661",
+      "source_page_index": -1,
+      "authors": [
+        "Judith Froese"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verfassungstreue und personale Verfassungssicherung",
+      "printed_page_number": "689",
+      "source_page_index": -1,
+      "authors": [
+        "Markus M\u00f6stl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wehrhafte Demokratie",
+      "printed_page_number": "713",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Michael Heinig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Art. 21 Abs. 2 bis 4 GG und Art. 9 Abs. 2 GG als Instrumente zur Abwehr verfassungsfeindlicher Parteien und Vereine",
+      "printed_page_number": "713",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Michael Heinig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Transformationen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Erm\u00f6glichen \u2013 Begleiten \u2013 Ansto\u00dfen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Bundesverfassungsgericht in der Geschichte der Gesellschaft",
+      "printed_page_number": "737",
+      "source_page_index": -1,
+      "authors": [
+        "Dieter Gosewinkel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein zeithistorisches Projekt",
+      "printed_page_number": "737",
+      "source_page_index": -1,
+      "authors": [
+        "Dieter Gosewinkel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Vergangenheitsbew\u00e4ltigung als Daueraufgabe",
+      "printed_page_number": "759",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Ferdinand Gerditz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Bundesverfassungsgericht und die deutsche Einheit",
+      "printed_page_number": "785",
+      "source_page_index": -1,
+      "authors": [
+        "Samira Akbarian"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Umwelt- und Klimaschutz",
+      "printed_page_number": "807",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Knauff"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Entwicklungen und Perspektiven der Rechtsprechung des Bundesverfassungsgerichts.",
+      "printed_page_number": "807",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Knauff"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Digitaler Wandel in Staat und Gesellschaft.",
+      "printed_page_number": "831",
+      "source_page_index": -1,
+      "authors": [
+        "Antje von Ungern-Sternberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pandemiebek\u00e4mpfung als Herausforderung f\u00fcr den Verfassungsstaat",
+      "printed_page_number": "855",
+      "source_page_index": -1,
+      "authors": [
+        "Laura M\u00fcnkler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gesundheitskrise als \u201econstitutional moment\u201c?",
+      "printed_page_number": "855",
+      "source_page_index": -1,
+      "authors": [
+        "Laura M\u00fcnkler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Streitkr\u00e4fte",
+      "printed_page_number": "879",
+      "source_page_index": -1,
+      "authors": [
+        "Paulina Starski"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Judikative Bewegungsmuster und die fragmentarische \u201eWehrverfassung\u201c",
+      "printed_page_number": "879",
+      "source_page_index": -1,
+      "authors": [
+        "Paulina Starski"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Generationengerechtigkeit und Zukunftsbew\u00e4ltigung",
+      "printed_page_number": "905",
+      "source_page_index": -1,
+      "authors": [
+        "Frauke Brosius-Gersdorf"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Parlament und Parlamentsrecht zwischen institutionellen Anforderungen und \u00f6ffentlichen Erwartungen",
+      "printed_page_number": "931",
+      "source_page_index": -1,
+      "authors": [
+        "Sven J\u00fcrgensen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Demokratischer Wettbewerb",
+      "printed_page_number": "955",
+      "source_page_index": -1,
+      "authors": [
+        "Sebastian Unger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Legitimationsdenken",
+      "printed_page_number": "977",
+      "source_page_index": -1,
+      "authors": [
+        "Jan Henrik Klement"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Demokratie als Verfassungsnorm.",
+      "printed_page_number": "977",
+      "source_page_index": -1,
+      "authors": [
+        "Jan Henrik Klement"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Staatsfinanzen als Spiegel der Strukturprinzipien",
+      "printed_page_number": "1003",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Rossi"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Abgaben",
+      "printed_page_number": "1025",
+      "source_page_index": -1,
+      "authors": [
+        "Hanno Kube"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Systemidee als Ma\u00dfstab?",
+      "printed_page_number": "1025",
+      "source_page_index": -1,
+      "authors": [
+        "Hanno Kube"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Soziale Sicherung als intertemporale Aufgabe",
+      "printed_page_number": "1049",
+      "source_page_index": -1,
+      "authors": [
+        "Andrea Kie\u00dfling"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neues beim Allgemeinen",
+      "printed_page_number": "1073",
+      "source_page_index": -1,
+      "authors": [
+        "Thorsten Kingreen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Grundrechtslehren und Grundrechtsdogmatik",
+      "printed_page_number": "1073",
+      "source_page_index": -1,
+      "authors": [
+        "Thorsten Kingreen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mobilisierung des Grundgesetzes",
+      "printed_page_number": "1099",
+      "source_page_index": -1,
+      "authors": [
+        "Uwe Volkmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Strategische Prozessf\u00fchrung vor dem Bundesverfassungsgericht",
+      "printed_page_number": "1099",
+      "source_page_index": -1,
+      "authors": [
+        "Uwe Volkmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Europ\u00e4ische Integration und Verfassung.",
+      "printed_page_number": "1121",
+      "source_page_index": -1,
+      "authors": [
+        "Shu-Perng Hwang"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Grundrechtsschutz im europ\u00e4ischen Staaten-, Verfassungs- und Rechtsprechungsverbund",
+      "printed_page_number": "1143",
+      "source_page_index": -1,
+      "authors": [
+        "Ferdinand Wollenschl\u00e4ger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein F\u00f6deralisierungsschub aus Karlsruhe",
+      "printed_page_number": "1143",
+      "source_page_index": -1,
+      "authors": [
+        "Ferdinand Wollenschl\u00e4ger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verzeichnis der Autorinnen und Autoren",
+      "printed_page_number": "1169",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

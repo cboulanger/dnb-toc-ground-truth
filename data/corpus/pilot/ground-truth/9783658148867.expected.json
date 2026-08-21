@@ -1,0 +1,144 @@
+{
+  "entries": [
+    {
+      "title": "Einleitung",
+      "authors": [
+        "Helmut Siller",
+        "J\u00fcrgen Stierle",
+        "Katja Glasmachers"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Theoretische Perspektiven des Personalmanagements",
+      "authors": [
+        "J\u00fcrgen Stierle",
+        "Roland Hormel",
+        "Tatjana Seibt"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Integre und strategische Unternehmensf\u00fchrung",
+      "authors": [
+        "Helmut Siller",
+        "J\u00fcrgen Stierle"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "Internationales Personalmanagement",
+      "authors": [
+        "Iris C. Fischlmayr",
+        "Iris Kollinger"
+      ],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "Anreizsysteme",
+      "authors": [
+        "Roland Hormel",
+        "Tatjana Seibt"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "Team- und Konfliktmanagement als Methoden der Organisationsentwicklung",
+      "authors": [
+        "\u00dcmit N. Civan",
+        "Barbara Reyer",
+        "Katja Glasmachers"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Personalbeschaffung",
+      "authors": [
+        "Tim Kuster"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "Personalbeurteilung und Personalentwicklung",
+      "authors": [
+        "Tatjana Seibt",
+        "Roland Hormel",
+        "Sabrina Kr\u00f6ger"
+      ],
+      "printed_page_number": "251",
+      "skip": false
+    },
+    {
+      "title": "Personalcontrolling",
+      "authors": [
+        "Helmut Siller"
+      ],
+      "printed_page_number": "305",
+      "skip": false
+    },
+    {
+      "title": "Arbeitsrecht und Zusammenarbeit mit den Arbeitnehmervertretungen",
+      "authors": [
+        "Martin Hamm"
+      ],
+      "printed_page_number": "355",
+      "skip": false
+    },
+    {
+      "title": "Personalinformationswirtschaft",
+      "authors": [
+        "Helmut Siller"
+      ],
+      "printed_page_number": "403",
+      "skip": false
+    },
+    {
+      "title": "Leistungs- und Gesundheitscontrolling",
+      "authors": [
+        "J\u00fcrgen Stierle",
+        "Helmut Siller"
+      ],
+      "printed_page_number": "435",
+      "skip": false
+    },
+    {
+      "title": "Besondere F\u00fchrungsprobleme",
+      "authors": [
+        "Isabel Ruland"
+      ],
+      "printed_page_number": "457",
+      "skip": false
+    },
+    {
+      "title": "Entwicklungen und Trends im Personalmanagement",
+      "authors": [
+        "Antonio Vera"
+      ],
+      "printed_page_number": "493",
+      "skip": false
+    },
+    {
+      "title": "Zusammenfassung und Ausblick",
+      "authors": [
+        "Helmut Siller"
+      ],
+      "printed_page_number": "517",
+      "skip": false
+    },
+    {
+      "title": "Stichwortverzeichnis",
+      "authors": [],
+      "printed_page_number": "529",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

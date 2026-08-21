@@ -1,0 +1,150 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort der Herausgeberinnen",
+      "authors": ["Barbara Kavemann", "Heike Rabe"],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "I Prostitutionsdiskurse international",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": true
+    },
+    {
+      "title": "Das deutsche Prostitutionsgesetz im europäischen Vergleich",
+      "authors": ["Barbara Kavemann"],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "Teil der Lösung oder Teil des Problems – Diskurse der internationalen und europäischen Menschenhandelspolitik über den rechtlichen und politischen Umgang mit Prostitution",
+      "authors": ["Bärbel Heide Uhl"],
+      "printed_page_number": "35",
+      "skip": false
+    },
+    {
+      "title": "Eine Frage der Einwilligung – Sexsklaverei und Sexarbeit in Großbritannien",
+      "authors": ["Julia O'Connell Davidson"],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "„Strafen um zu schützen“: Das Gesetz zur Inneren Sicherheit in Frankreich und seine Auswirkungen auf die Arbeitsbedingungen von Prostituierten",
+      "authors": ["Stefanie Tränkle"],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "Die Verwaltung der Prostitution – Sachsen, Polen, Tschechien",
+      "authors": ["Rebecca Pates", "Daniel Schmidt"],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "II Aktuelle deutsche Forschungsergebnisse zu Prostitution",
+      "authors": [],
+      "printed_page_number": "85",
+      "skip": true
+    },
+    {
+      "title": "Einschätzung des Prostitutionsgesetzes aus der Perspektive von Akteurinnen und Akteuren im Bereich der Prostitution",
+      "authors": ["Barbara Kavemann"],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Potentiale und Entwicklungen im Baurecht",
+      "authors": ["Heike Rabe"],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "Das Prostitutionsgesetz und strafrechtlicher Handlungsbedarf",
+      "authors": ["Joachim Renzikowski"],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "Gewalt in der Prostitution – Untersuchung zu Sicherheit, Gesundheit und sozialen Hilfen",
+      "authors": ["Margrit Brückner", "Christa Oppenheimer"],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "Auswirkungen des Prostitutionsgesetzes auf Ausstiegshilfen aus der Prostitution",
+      "authors": ["Barbara Kavemann"],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "Überschneidungen von sexueller Freiheit und Konsum/Kommerz: Freier auf der Suche nach dem perfekten sexuellen Erlebnis",
+      "authors": ["Sabine Grenz"],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "III Aktuelle Fragestellungen und Probleme in der Praxis",
+      "authors": [],
+      "printed_page_number": "219",
+      "skip": true
+    },
+    {
+      "title": "Arbeitsbedingungen in der Prostitution im Wandel von Zeit und Gesetz",
+      "authors": ["Doris Winter"],
+      "printed_page_number": "221",
+      "skip": false
+    },
+    {
+      "title": "Die Praxis der Staatsanwaltschaft – fünf Jahre nach Inkrafttreten des Prostitutionsgesetzes",
+      "authors": ["Ina Holznagel"],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "Zur pauschalen Besteuerung sexueller Dienstleistungen – Ausweg, Umweg oder Sackgasse?",
+      "authors": ["Michael Ernst-Pörksen"],
+      "printed_page_number": "239",
+      "skip": false
+    },
+    {
+      "title": "IV Konzepte Sozialer Arbeit",
+      "authors": [],
+      "printed_page_number": "251",
+      "skip": true
+    },
+    {
+      "title": "Beratung von Prostituierten unter veränderten gesetzlichen Voraussetzungen – Ein Bericht aus dem Gesundheitsamt Nürnberg",
+      "authors": ["Andrea Weppert"],
+      "printed_page_number": "253",
+      "skip": false
+    },
+    {
+      "title": "Geestemünder Straße – Neue Strategien zur Unterstützung für Straßenprostituierte",
+      "authors": ["Anne Rossenbach", "Monika Kleine", "Angelika Wiedenau"],
+      "printed_page_number": "265",
+      "skip": false
+    },
+    {
+      "title": "Neu Starten – Berufliche Integration für Prostituierte bei MADONNA e.V. in Bochum",
+      "authors": ["Mechthild Eickel"],
+      "printed_page_number": "287",
+      "skip": false
+    },
+    {
+      "title": "Resümee und Ausblick",
+      "authors": ["Barbara Kavemann", "Heike Rabe"],
+      "printed_page_number": "303",
+      "skip": false
+    },
+    {
+      "title": "Angaben zu den Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "311",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

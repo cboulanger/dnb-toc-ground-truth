@@ -1,0 +1,590 @@
+{
+  "generated_at": 1787238094.992142,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Herausgegeben von",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Sabine Andresen",
+        "Christine Hunner-Kreisel",
+        "Stefan Fries"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Erziehung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ein interdisziplin\u00e4res Handbuch",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Verlag J. B. Metzler",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Stuttgart \u00b7 Weimar",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "VII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": false
+    },
+    {
+      "title": "I. Grunds\u00e4tzliches",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Geschichte der Erziehung",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Oelkers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Moral",
+      "printed_page_number": "10",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Weyers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Erziehung und Bildung",
+      "printed_page_number": "20",
+      "source_page_index": -1,
+      "authors": [
+        "Micha Brumlik"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. Phasen und Orte",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Fr\u00fche Kindheit",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [
+        "Michael-Sebastian Honig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Kindheit",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [
+        "Heidi Keller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Jugend",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [
+        "Ursula Kessels"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Familie",
+      "printed_page_number": "45",
+      "source_page_index": -1,
+      "authors": [
+        "Elke Wild"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Fr\u00fche Tagesbetreuung in Krippe und Kindertagespflege",
+      "printed_page_number": "50",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg Maywald"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Erziehung in Kindertagesst\u00e4tten",
+      "printed_page_number": "58",
+      "source_page_index": -1,
+      "authors": [
+        "Cornelia Wustmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. Schule",
+      "printed_page_number": "63",
+      "source_page_index": -1,
+      "authors": [
+        "Mareike Kunter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8. Internet",
+      "printed_page_number": "68",
+      "source_page_index": -1,
+      "authors": [
+        "Angela Janssen/Markus Rieger-Ladich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9. Kinder- und Jugendhilfe",
+      "printed_page_number": "74",
+      "source_page_index": -1,
+      "authors": [
+        "Stefanie Albus/Holger Ziegler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10. Heim und Heimerziehung",
+      "printed_page_number": "78",
+      "source_page_index": -1,
+      "authors": [
+        "Mechthild Wolff"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11. Elternbildung und Erziehungsberatung",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Beelmann/Linda Schulz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12. Freizeit, Erziehung und Bildung",
+      "printed_page_number": "92",
+      "source_page_index": -1,
+      "authors": [
+        "Marius Harring/Mathias D. Witte"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13. Kinder- und Jugendarbeit",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Coelen/Frank Gusinde"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. Aspekte der Erziehung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. \u00c4sthetische Erziehung",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [
+        "Gabriele Wei\u00df"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Erziehung und emotionale Entwicklung",
+      "printed_page_number": "118",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Zimmermann/Alexandra Iwanski/Fatma \u00c7elik/Anna Neumann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Erziehungsstile und ihre kulturelle \u00dcberformung",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [
+        "Haci-Halil Uslucan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. K\u00f6rper",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "Veronika Magyar-Haas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Soziale Kompetenz",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [
+        "Barbara Reichle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Spiritualit\u00e4t",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [
+        "Kurt Bangert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. Sprache",
+      "printed_page_number": "162",
+      "source_page_index": -1,
+      "authors": [
+        "Laura de Ruiter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8. Werte",
+      "printed_page_number": "170",
+      "source_page_index": -1,
+      "authors": [
+        "Jutta Standop"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IV. Verschiedene Disziplinen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Evolutionstheorie/Biologie",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [
+        "Annette Scheunpflug"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Erziehung als Begriff der Erziehungswissenschaft",
+      "printed_page_number": "186",
+      "source_page_index": -1,
+      "authors": [
+        "Volker Kraft"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Gesundheitswissenschaften",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [
+        "Toni Faltermaier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Geschichtswissenschaft",
+      "printed_page_number": "194",
+      "source_page_index": -1,
+      "authors": [
+        "Petra Gruner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Erziehung aus islamisch-religionsp\u00e4dagogischer Sicht",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [
+        "B\u00fclent Ucar"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Kinder- und Jugendpsychiatrie",
+      "printed_page_number": "203",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Richterich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. Literaturwissenschaft",
+      "printed_page_number": "208",
+      "source_page_index": -1,
+      "authors": [
+        "Holger Dainat/Walter Erhart"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8. \u00d6konomie \u2013 am Beispiel fr\u00fchkindlicher Bildung und Erziehung",
+      "printed_page_number": "212",
+      "source_page_index": -1,
+      "authors": [
+        "Katharina Spie\u00df"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9. Erziehung ohne \u00bbIch\u00ab: Sartres philosophischer Beitrag zur aktuellen Erziehungsdiskussion",
+      "printed_page_number": "218",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Bartels"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10. Psychoanalyse",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [
+        "Marianne Leuzinger-Bohleber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11. Psychologie",
+      "printed_page_number": "230",
+      "source_page_index": -1,
+      "authors": [
+        "Urs Fuhrer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12. Rechtswissenschaften",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [
+        "Ludwig Salgo"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13. Soziologie",
+      "printed_page_number": "243",
+      "source_page_index": -1,
+      "authors": [
+        "Doris B\u00fchler-Niederberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14. Sportp\u00e4dagogik",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Gr\u00f6ben"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15. Theologie",
+      "printed_page_number": "254",
+      "source_page_index": -1,
+      "authors": [
+        "Mirjam Zimmermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16. Neurowissenschaften",
+      "printed_page_number": "260",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg Bock/Katharina Braun"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "17. Kulturp\u00e4dagogik",
+      "printed_page_number": "266",
+      "source_page_index": -1,
+      "authors": [
+        "Britta Hoffarth/Katja Kolodzig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "18. Mediennutzung",
+      "printed_page_number": "271",
+      "source_page_index": -1,
+      "authors": [
+        "Holger Horz/Carmen Heckmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "V. Gesellschaft und Erziehung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Erziehung und soziale Ungleichheit",
+      "printed_page_number": "281",
+      "source_page_index": -1,
+      "authors": [
+        "Ullrich Bauer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Erziehung, Macht und Gewalt",
+      "printed_page_number": "291",
+      "source_page_index": -1,
+      "authors": [
+        "Sabine Andresen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Umgang mit Heterogenit\u00e4t",
+      "printed_page_number": "296",
+      "source_page_index": -1,
+      "authors": [
+        "Susanne Miller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Erziehung und Migration",
+      "printed_page_number": "304",
+      "source_page_index": -1,
+      "authors": [
+        "Christine Hunner-Kreisel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Beitr\u00e4gerinnen und Beitr\u00e4ger",
+      "printed_page_number": "315",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Personenregister",
+      "printed_page_number": "318",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

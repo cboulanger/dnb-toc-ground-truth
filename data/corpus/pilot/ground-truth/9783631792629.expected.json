@@ -1,0 +1,98 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Überlegungen zum Autor der Regula Benedicti",
+      "authors": [
+        "Johannes Fried"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Herrscherabsetzungen zwischen Magie und Pragmatik? Scherung, Blendung und das Problem der körperlichen Idoneität des Herrschers im Frühmittelalter",
+      "authors": [
+        "Gerhard Lubich"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "„Herrschaft“ und Gewohnheit im Kontext frühmittelalterlicher Rechtsbeziehungen. Zur Historisierung und Aktualität einer Forschungsfrage",
+      "authors": [
+        "Stefan Esders"
+      ],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "„Geschenke sandte der König von Afrika“ Eine zoologische Donologie um Heinrich IV.",
+      "authors": [
+        "Dirk Jäckel"
+      ],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "Warum gab es Gewalt gegen päpstliche Legaten?",
+      "authors": [
+        "Claudia Zey"
+      ],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "Verkündigung als Prophetie. Exegese und Priesteramt im Liturgiekommentar Ruperts von Deutz",
+      "authors": [
+        "Miriam Czock"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Tyrannei und Barmherzigkeit. Überlegungen zur Konfliktwahrnehmung des Hugo Falcandus",
+      "authors": [
+        "Knut Görich"
+      ],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "Hora nona – alta nona – high noon. Zum Bedeutungswandel einer mittelalterlichen Zeitangabe",
+      "authors": [
+        "Michael Oberweis"
+      ],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "Fürstliche Protektion, päpstliche Gunst und verwandtschaftliche Beziehungen: Zur Pfründenvergabe im Xantener Viktorstift",
+      "authors": [
+        "Iris Kwiatkowski"
+      ],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "„Thekouwt ind theknaeght“: Ein Botenunglück in einem niederrheinischen Kirchspiel im 15. Jahrhundert",
+      "authors": [
+        "Dieter Scheler"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

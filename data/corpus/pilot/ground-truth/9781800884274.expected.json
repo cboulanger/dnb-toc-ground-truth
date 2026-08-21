@@ -1,0 +1,345 @@
+{
+  "entries": [
+    {
+      "title": "List of figures",
+      "authors": [],
+      "printed_page_number": "viii",
+      "skip": true
+    },
+    {
+      "title": "List of tables",
+      "authors": [],
+      "printed_page_number": "ix",
+      "skip": true
+    },
+    {
+      "title": "List of contributors",
+      "authors": [],
+      "printed_page_number": "x",
+      "skip": true
+    },
+    {
+      "title": "Acknowledgements",
+      "authors": [],
+      "printed_page_number": "xxvii",
+      "skip": true
+    },
+    {
+      "title": "1 Introduction to the Handbook: putting pedagogic models to work in research methods education",
+      "authors": [
+        "Melanie Nind"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "PART I TEACHING AND LEARNING SOCIAL RESEARCH METHODS IN THE CLASSROOM",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "2 Research literacy and the relationship between research and teaching: the case of research about teaching about research",
+      "authors": [
+        "Martyn Hammersley"
+      ],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "3 Feminist pedagogies: careful(l) ethics in teaching qualitative research methods",
+      "authors": [
+        "Kelly W. Guyotte",
+        "Stephanie Anne Shelton",
+        "Maureen A. Flint"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "4 Facilitating learners’ reflexive thinking in qualitative research courses",
+      "authors": [
+        "Amy Orange"
+      ],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "5 Pedagogies for collaborative qualitative research",
+      "authors": [
+        "Thalia Mulvihill",
+        "Raji Swaminathan"
+      ],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "6 Enhancing the teaching of qualitative methods: teaching the ‘breadth and depth method’ for analysis of ‘big qual’",
+      "authors": [
+        "Sarah Lewthwaite",
+        "Lynn Jamieson",
+        "Emma Davidson",
+        "Rosalind Edwards",
+        "Melanie Nind",
+        "Susie Weller"
+      ],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "7 Teaching mixed methods research to address diverse learners’ needs: pedagogical strategies and adaptations",
+      "authors": [
+        "Nataliya V. Ivankova",
+        "Vicki L. Plano Clark"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "8 Teaching mixed methods using an open-space learning approach",
+      "authors": [
+        "Rebecca Johnson",
+        "Marie Murphy"
+      ],
+      "printed_page_number": "106",
+      "skip": false
+    },
+    {
+      "title": "9 Active learning, constructive alignment, and research methods: toward a programme level approach",
+      "authors": [
+        "Tom Clark",
+        "Liam Foster"
+      ],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "10 Post-philosophies inspire the teaching/learning of qualitative inquiry",
+      "authors": [
+        "Candace R. Kuby"
+      ],
+      "printed_page_number": "134",
+      "skip": false
+    },
+    {
+      "title": "11 Shaping researcher learning through scribbles: embodied pedagogical practices in classroom inquiry",
+      "authors": [
+        "David Higgins",
+        "Ali Rostron"
+      ],
+      "printed_page_number": "150",
+      "skip": false
+    },
+    {
+      "title": "12 Teaching and learning social research methods in social work: challenges and benefits of experiential and applied learning contexts",
+      "authors": [
+        "Sandra Lopes",
+        "Sandra Saúde"
+      ],
+      "printed_page_number": "166",
+      "skip": false
+    },
+    {
+      "title": "13 Teaching the art of qualitative research interviewing: a developmental approach",
+      "authors": [
+        "Kathryn Roulston",
+        "Brigette A. Herron"
+      ],
+      "printed_page_number": "182",
+      "skip": false
+    },
+    {
+      "title": "14 What are we teaching for? Humility and responsibility in social science research",
+      "authors": [
+        "Jennifer R. Wolgemuth",
+        "Yi-Hsin Chen",
+        "Liliana Rodríguez-Campos",
+        "John Ferron",
+        "Eunsook Kim",
+        "Robert F. Dedrick",
+        "David Lamb"
+      ],
+      "printed_page_number": "198",
+      "skip": false
+    },
+    {
+      "title": "PART II TEACHING AND LEARNING SOCIAL RESEARCH METHODS ONLINE",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "15 Using intentionality to frame how we teach research methods online",
+      "authors": [
+        "Cheryl Hunter",
+        "Tamara Hoffer",
+        "Joshua Hunter"
+      ],
+      "printed_page_number": "214",
+      "skip": false
+    },
+    {
+      "title": "16 Experiential pedagogies in the online space",
+      "authors": [
+        "Nicole Brown",
+        "Helen Butcher",
+        "Belen Febres-Codero",
+        "Chuying (Trista) Wu"
+      ],
+      "printed_page_number": "226",
+      "skip": false
+    },
+    {
+      "title": "17 Back to the basics: teaching research online in the time of the Covid-19 pandemic",
+      "authors": [
+        "Maja Miskovic",
+        "Jamie Kowalczyk"
+      ],
+      "printed_page_number": "240",
+      "skip": false
+    },
+    {
+      "title": "18 ‘No choice’ but remote learning: non-traditional students making sense of social research methods",
+      "authors": [
+        "Rossana Perez-del-Aguila",
+        "Heather Allison",
+        "Naveed Kazmi"
+      ],
+      "printed_page_number": "255",
+      "skip": false
+    },
+    {
+      "title": "19 The use of online materials to support the development of quantitative skills",
+      "authors": [
+        "Steve Cook",
+        "Duncan Watson"
+      ],
+      "printed_page_number": "272",
+      "skip": false
+    },
+    {
+      "title": "20 Teaching and learning research methods and statistics in eLearning environments pre-, during, and post-pandemic",
+      "authors": [
+        "Adam J. Rock",
+        "Kylie Rice",
+        "Natasha M. Loi",
+        "Einar B. Thorsteinsson",
+        "Methuen I. Morgan"
+      ],
+      "printed_page_number": "285",
+      "skip": false
+    },
+    {
+      "title": "21 “Mixing” traditional and non-traditional online technologies to build community in an online mixed methods research methods course",
+      "authors": [
+        "Jori N. Hall",
+        "Sara Campbell"
+      ],
+      "printed_page_number": "299",
+      "skip": false
+    },
+    {
+      "title": "22 Integrating the online teaching of qualitative analysis methods and technologies: challenges, solutions and opportunities",
+      "authors": [
+        "Christina Silver",
+        "Sarah L. Bulloch",
+        "Michelle Salmona",
+        "Nicholas W. Woolf"
+      ],
+      "printed_page_number": "316",
+      "skip": false
+    },
+    {
+      "title": "23 Teaching research methods online: informal or semi-formal professional development",
+      "authors": [
+        "Janet Salmons",
+        "Andy Nobes",
+        "Nicola Pallitt",
+        "Tony Carr"
+      ],
+      "printed_page_number": "332",
+      "skip": false
+    },
+    {
+      "title": "PART III TEACHING AND LEARNING SOCIAL RESEARCH METHODS IN THE FIELD AND OTHER CONTEXTS",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "24 An analysis of doctoral supervision as pedagogic practice in social science and the role of social research methods in supervision",
+      "authors": [
+        "Rosemary Deem",
+        "Sally Barnes"
+      ],
+      "printed_page_number": "351",
+      "skip": false
+    },
+    {
+      "title": "25 Pedagogical approaches in inclusive research",
+      "authors": [
+        "Edurne García Iriarte",
+        "Maria Pallisera",
+        "Judit Fullana",
+        "Brian Donohoe",
+        "Kathleen McMeel",
+        "Marc Crespo"
+      ],
+      "printed_page_number": "366",
+      "skip": false
+    },
+    {
+      "title": "26 Research methods learning in temporary online communities during Covid-19",
+      "authors": [
+        "Andy Coverdale",
+        "Melanie Nind",
+        "Robert Meckin"
+      ],
+      "printed_page_number": "381",
+      "skip": false
+    },
+    {
+      "title": "27 Understanding research methods textbooks: pedagogy, production and practice",
+      "authors": [
+        "Patrick Brindle",
+        "Sarah Lewthwaite"
+      ],
+      "printed_page_number": "396",
+      "skip": false
+    },
+    {
+      "title": "28 Rethinking safeguarding: an opportunity to establish a decolonial teaching framework for social research practice",
+      "authors": [
+        "Leona Vaughn"
+      ],
+      "printed_page_number": "412",
+      "skip": false
+    },
+    {
+      "title": "29 Managing distance when teaching, learning, and doing oral history: a case study from Vietnam",
+      "authors": [
+        "Siobhan Warrington",
+        "Laura Beckwith",
+        "Hue Nguyen",
+        "Graham Smith",
+        "Lan Nguyen",
+        "Thuy Mai Thi Minh",
+        "Chamithri Greru",
+        "Tanh Nguyen",
+        "Oliver Hensengerth",
+        "Pamela Woolner",
+        "Matt Baillie Smith"
+      ],
+      "printed_page_number": "427",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "443",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

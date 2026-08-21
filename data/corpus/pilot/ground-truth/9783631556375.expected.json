@@ -1,0 +1,142 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis / Contents",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [
+        "Volker Honemann",
+        "Martin Gosman"
+      ],
+      "printed_page_number": "V",
+      "skip": true
+    },
+    {
+      "title": "Einführung",
+      "authors": [
+        "Rudolf Suntrup",
+        "Jan R. Veenstra"
+      ],
+      "printed_page_number": "IX",
+      "skip": true
+    },
+    {
+      "title": "1. Neue Texte und Bilder / New Texts and Images",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Beat, der Schweizerapostel. Eine hagiographische 'Invention of Tradition'.",
+      "authors": [
+        "Gabriela Signori (Konstanz)"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "And out of olde bokes, in good feyth, Cometh al this newe science that men lere. Mirrors for Princes, Literary Strategies, and the Set of Values and Norms in Late Medieval England.",
+      "authors": [
+        "Ulrike Graßnick (Trier)"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "Das Reichskammergericht zu Speyer und der Sprichwörter-Thesaurus des Christoph Lehmann.",
+      "authors": [
+        "Thomas Althaus (Bremen)"
+      ],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "Von der Reformidee zur Institution: Der schwierige Weg der Constitutio Criminalis Carolina. Bemerkungen zu ihrer Textgenese und Textkritik aus Sicht des Philologen.",
+      "authors": [
+        "Gunhild Roth (Münster)"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Gothic or Classical? The Continuity of Medieval Forms in Scottish Church Architecture.",
+      "authors": [
+        "Richard Fawcett (Edinburgh)"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "2. Neue Institutionen / New Institutions",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Merton College: Advanced Learning by Accident and Design.",
+      "authors": [
+        "John North (Oxford)"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "New Institutions and the Dynamics of Civic Culture: Chambers of Rhetoric in the Early Modern (Northern) Netherlands.",
+      "authors": [
+        "Arjan van Dixhoorn (Antwerpen)"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "The State's Officers: The Burgundian Netherlands in the Middle of the Fifteenth Century.",
+      "authors": [
+        "Robert Stein (Leiden)"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "In the Service of Sovereign and Subjects: Conflicting Loyalties of Holland Officials at the End of the Middle Ages (1480-1550).",
+      "authors": [
+        "Serge ter Braake (Leiden)"
+      ],
+      "printed_page_number": "209",
+      "skip": false
+    },
+    {
+      "title": "The Emergence of a Capital City: Edinburgh, 1450-1603.",
+      "authors": [
+        "Michael Lynch (Edinburgh)"
+      ],
+      "printed_page_number": "221",
+      "skip": false
+    },
+    {
+      "title": "Literarische Spaziergänge. Stadttopographie und Chronistik am Beispiel Regensburgs um 1600.",
+      "authors": [
+        "Peter Wolf (Regensburg)"
+      ],
+      "printed_page_number": "245",
+      "skip": false
+    },
+    {
+      "title": "Index Nominum",
+      "authors": [],
+      "printed_page_number": "271",
+      "skip": true
+    },
+    {
+      "title": "Index Rerum",
+      "authors": [],
+      "printed_page_number": "277",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

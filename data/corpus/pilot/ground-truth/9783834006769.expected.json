@@ -1,0 +1,114 @@
+{
+  "entries": [
+    {
+      "title": "Einleitung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Theoriereflexionen und Differenzmarkierungen zur Kooperation von Jugendhilfe und Schule",
+      "authors": [
+        "Sarina Ahmed",
+        "Davina Höblich"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Pädagogische Konzepte",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Bildung, Erziehung und Sozialisation als Grundbegriffe der Kooperation von Schule und Jugendhilfe",
+      "authors": [
+        "Burkhard Müller"
+      ],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "Anerkennungstheoretische Überlegungen zum Kontext Schule und Jugendhilfe",
+      "authors": [
+        "Eberhard Bolay"
+      ],
+      "printed_page_number": "30",
+      "skip": false
+    },
+    {
+      "title": "Partizipation von Jugendlichen und die Kooperation von Jugendhilfe und Schule",
+      "authors": [
+        "Sarina Ahmed"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "Der Raum in Jugendarbeit und Schule",
+      "authors": [
+        "Stefan Königter",
+        "Peter Cloos"
+      ],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "Lebenslagenspezifische Dimensionen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Gender, Schule und Jugendhilfe",
+      "authors": [
+        "Gerd Stecklina"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Armut im Kontext von Schule und von Jugendhilfe",
+      "authors": [
+        "Karl August Chassé"
+      ],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "Migration im Kontext von Schule und Jugendhilfe",
+      "authors": [
+        "Hans Günther Homfeldt",
+        "Wolfgang Schröer",
+        "Stephan Sting"
+      ],
+      "printed_page_number": "118",
+      "skip": false
+    },
+    {
+      "title": "Generation als Kategorie in Schule und Jugendhilfe",
+      "authors": [
+        "Davina Höblich"
+      ],
+      "printed_page_number": "130",
+      "skip": false
+    },
+    {
+      "title": "Intersektionelle Perspektiven für die Kooperation von Jugendhilfe und Schule",
+      "authors": [
+        "Christine Riegel"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "AutorInnenverzeichnis",
+      "authors": [],
+      "printed_page_number": "165",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

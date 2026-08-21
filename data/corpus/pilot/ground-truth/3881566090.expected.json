@@ -1,0 +1,112 @@
+{
+  "entries": [
+    {
+      "title": "Preface",
+      "authors": [
+        "Hans-G. Bohle"
+      ],
+      "printed_page_number": "5",
+      "skip": true
+    },
+    {
+      "title": "Introduction",
+      "authors": [
+        "Hans-G. Bohle"
+      ],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "I \"New Risk Analysis\": Theory and Practice of Vulnerability Assessment",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Disaster Vulnerability - Geographical Scale and Existential Reality",
+      "authors": [
+        "Ben Wisner, U.S.A."
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "II Vulnerability and Poverty: Case Studies from Rural Africa",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Rural Poverty in Egypt: The Case of Landless and Small Farmers' Families",
+      "authors": [
+        "Mohammad Atif Kishk, Egypt"
+      ],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "The Poor and the Extremely Poor - A Case Study of the Egyptian Fellahin",
+      "authors": [
+        "Fouad Ibrahim, Germany; Nabil Marcos, Egypt; and Magdy Al Sanady, Egypt"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Some Insights into Relation Between Drought, Food Production and Food Consumption in the Omay Communal Lands, Lake Kariba",
+      "authors": [
+        "C.H.D. Magadza, Zimbabwe"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "III Food Security: A Basic Human Right",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Food Security Within Metropolitan Cairo Under the Conditions of \"Structural Adjustment\"",
+      "authors": [
+        "Jörg Gertel, Germany"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "Indigenous Peoples and Food Entitlement Losses under the Impact of Externally-Induced Change",
+      "authors": [
+        "Terry Cannon, U.K."
+      ],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "Children's Right to Food",
+      "authors": [
+        "George Kent, U.S.A."
+      ],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "The Role of NGOs for the Promotion of Children in the Highlands of Bolivia",
+      "authors": [
+        "Christoph Stadel, Austria"
+      ],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "Can Traditional Strategies be used as a Means to Deliver Development Assistance? - Lessons from Food Aid",
+      "authors": [
+        "Bruce Crawshaw, Italy"
+      ],
+      "printed_page_number": "209",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

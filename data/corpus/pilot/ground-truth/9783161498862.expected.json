@@ -1,0 +1,180 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Griechisch-römische Religion",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Mythen – Tempel – Götterbilder Von der Nahöstlichen Koiné zur griechischen Gestaltung",
+      "authors": [
+        "Walter Burkert"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Die Griechen und ihre Götter",
+      "authors": [
+        "Heinz-Günther Nesselrath"
+      ],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "Tempel, Riten und Orakel Die Stellung der Religion im Leben der Griechen",
+      "authors": [
+        "Heinz-Günther Nesselrath"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "Aspekte römischer Religiosität Iuppiter optimus maximus",
+      "authors": [
+        "Dorothee Gall"
+      ],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "Friede auf Erden? Latinistische Erwägungen zur pax Augusta",
+      "authors": [
+        "Ulrich Schmitzer"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "Urchristliche Religion",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "„Abba, Vater, alles ist dir möglich“ Das Gottesbild der synoptischen Evangelien",
+      "authors": [
+        "Reinhard Feldmeier"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "„Der das Nichtseiende ruft, daß es sei“ Gott bei Paulus",
+      "authors": [
+        "Reinhard Feldmeier"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Rabbinisches Judentum",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einheit und Namen Gottes im rabbinischen Judentum",
+      "authors": [
+        "Hans-Jürgen Becker"
+      ],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "Islamische Religion",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Schöpfer und Kosmos im Koran",
+      "authors": [
+        "Tilman Nagel"
+      ],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "Die Anthropologie des Islams",
+      "authors": [
+        "Tilman Nagel"
+      ],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "Die muslimische Glaubensgemeinschaft als die Verwirklichung des göttlichen Willens auf Erden",
+      "authors": [
+        "Tilman Nagel"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "Die christliche Religion im Orient",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Im Schatten von Schah und Kaliph Christsein östlich der griechisch-römischen Welt",
+      "authors": [
+        "Martin Tamcke"
+      ],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "Zwischen Größenwahn und Minderwertigkeitsgefühl Christsein im Haus des Islam",
+      "authors": [
+        "Martin Tamcke"
+      ],
+      "printed_page_number": "263",
+      "skip": false
+    },
+    {
+      "title": "Nachwort",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Nicht der Eine, nicht die Vielen Zur Pragmatik religiösen Verhaltens in einer polytheistischen Gesellschaft am Beispiel Roms",
+      "authors": [
+        "Andreas Bendlin"
+      ],
+      "printed_page_number": "279",
+      "skip": false
+    },
+    {
+      "title": "Gottesbilder – Menschenbilder: anthropologische Konsequenzen des Monotheismus",
+      "authors": [
+        "Jan Assmann"
+      ],
+      "printed_page_number": "313",
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "authors": [],
+      "printed_page_number": "331",
+      "skip": true
+    },
+    {
+      "title": "Sachregister",
+      "authors": [],
+      "printed_page_number": "333",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

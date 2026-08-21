@@ -1,0 +1,155 @@
+{
+  "entries": [
+    {
+      "title": "TABLE DES MATIÈRES",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Introduction",
+      "authors": [
+        "Florence Gaiotti",
+        "Éléonore Hamaide-Jager"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Partie 1 - Répertoires pour adultes, variations pour enfants : naissance d'un genre, émergence d'un public ?",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Naissance d'une chanson pour enfant : La Mère Michel",
+      "authors": [
+        "Michel Manson"
+      ],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "L'ambivalence des chants dans la comédie des jésuites : La Boîte de Pandore du Père Brumoy, entre leçon et séduction",
+      "authors": [
+        "Béatrice Ferrier"
+      ],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "Enfants chanteurs, gâteaux chantés : la place de la pâtisserie et du patronnet dans la chanson populaire enfantine (1870-1910)",
+      "authors": [
+        "Coline Arnaud"
+      ],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "Chansons populaires et patriotiques de la guerre (1870-1918) : voi(e)x enfantines et voi(e)x politiques",
+      "authors": [
+        "Laurence Olivier-Messonnier"
+      ],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "Partie 2 - Des créations étrangères à l'écoute des spécificités enfantines",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Le « Mouvement des chants pour enfants » au Japon, croisement de la chanson et de la littérature de jeunesse en faveur de la création d'un répertoire national",
+      "authors": [
+        "Clara Wartelle"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "De la vie des Nursery rhymes dans les albums de Maurice Sendak",
+      "authors": [
+        "Gaëlle Levesque"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "La chanson dans la littérature tchèque pour les enfants et les jeunes",
+      "authors": [
+        "Milena Šubrtová"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "Partie 3 - Extension du domaine de la chanson : du livre au multimédia",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Le « livre-disque » pour enfants, une géographie alternative. L'exemple d'Euraoundzeweurld",
+      "authors": [
+        "Christophe Meunier"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "Du roman au livre augmenté : Une Guitare pour deux et Verlaine Brown en concert",
+      "authors": [
+        "Christine Prevost"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Partie 4 - Quand la chanson entre en scène...",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Formes et fonctions de la chanson dans le théâtre de Joël Jouanneau et Mike Kenny",
+      "authors": [
+        "Sylvie Dardaillon"
+      ],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "Exprimer un espace d'intimité avec la chanson dans le théâtre contemporain pour la jeunesse",
+      "authors": [
+        "Laurianne Perzo"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "Yolé Tam Gué de Nathalie Papin : la chanson des origines pour survivre à la guerre",
+      "authors": [
+        "Françoise Heulot-Petit"
+      ],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "Variations - L'oreille d'une spécialiste de la chanson pour enfants",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "La chanson dans la littérature enfantine enregistrée",
+      "authors": [
+        "Françoise Tenier"
+      ],
+      "printed_page_number": "221",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

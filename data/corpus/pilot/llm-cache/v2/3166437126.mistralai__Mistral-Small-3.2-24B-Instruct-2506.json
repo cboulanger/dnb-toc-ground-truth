@@ -1,0 +1,465 @@
+{
+  "generated_at": 1787243916.664632,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "SACHENRECHT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ferdinand Elsener, Die sp\u00e4tmittelalterlichen Fischereigerechtigkeiten des Augustiner-Chorherrenstifts Interlaken an der Aare. Beschr\u00e4nkung des strengen (r\u00f6mischen) Eigentums durch das gemeine Wohl",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Ferdinand Elsener"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Joachim Gernhuber, Freiheit und Bindung des Vorbehaltsk\u00e4ufers nach \u00dcbertragung seines Anwartschaftsrechtes",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Gernhuber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Friedrich K\u00fcbler, Eigentumsschutz gegen Sachabbildung und Bildreproduktion? Bemerkungen zur \u201eTegel\u201c-Entscheidung des Bundesgerichtshofes",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Friedrich K\u00fcbler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dieter Medicus, Ist Schweigen Gold? Zur Widerlegung der Rechtsvermutungen aus \u00a7\u00a7 891, 1006 BGB",
+      "printed_page_number": "63",
+      "source_page_index": -1,
+      "authors": [
+        "Dieter Medicus"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Otto M\u00fchl, Das Gebot der R\u00fccksichtnahme im Baurecht und die Verbindungslinien zum privaten Nachbarschutzrecht",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [
+        "Otto M\u00fchl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ludwig Raiser, Das Eigentum als Menschenrecht",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "Ludwig Raiser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Robert Scheyhing, Partikulares Sachenrecht im 19. Jahrhundert \u2013 dargestellt am Beispiel des K\u00f6nigreichs W\u00fcrttemberg",
+      "printed_page_number": "119",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Scheyhing"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ulrich Weber, Zur strafrechtsgestaltenden Kraft des Zivilrechts",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrich Weber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Manfred Wolf, Inhaltskontrolle von Sicherungsgesch\u00e4ften",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [
+        "Manfred Wolf"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VERFAHRENSRECHT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Otto Bachof, Verfahrensrecht, Verfahrenspraxis",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [
+        "Otto Bachof"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J\u00fcrgen Baumann, Die Auseinanderentwicklung der Proze\u00dfrechte, dargestellt am Beispiel der Beachtung der Verschwiegenheitspflicht bei der Zeugenvernehmung (\u00a7\u00a7 383 Abs. 3 ZPO, 53 StPO)",
+      "printed_page_number": "187",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Baumann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gottfried Baumg\u00e4rtel, Die Beweislastverteilung f\u00fcr die Haftung des Unternehmers und des Architekten",
+      "printed_page_number": "207",
+      "source_page_index": -1,
+      "authors": [
+        "Gottfried Baumg\u00e4rtel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "G\u00fcnther Beitzke, Die Vernachl\u00e4ssigung der internationalen Zust\u00e4ndigkeit im Entwurf einer Verfahrensordnung f\u00fcr die Freiwillige Gerichtsbarkeit",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnther Beitzke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rolf Bender, Das Beweisma\u00df",
+      "printed_page_number": "247",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Bender"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Karl August Bettermann, \u00dcber die Bindung der Verwaltung an zivilgerichtliche Urteile",
+      "printed_page_number": "273",
+      "source_page_index": -1,
+      "authors": [
+        "Karl August Bettermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Friedrich Wilhelm Bosch, Disharmonien, Vorz\u00fcge und Nachteile der j\u00fcngsten \u00c4nderungen des Verfahrens in Familienrechtssachen",
+      "printed_page_number": "297",
+      "source_page_index": -1,
+      "authors": [
+        "Friedrich Wilhelm Bosch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mauro Cappelletti, Laienrichter \u2013 heute? Einige aktuelle Gr\u00fcnde f\u00fcr eine verst\u00e4rkte Beteiligung von Laienrichtern an der zivilgerichtlichen Rechtsprechung",
+      "printed_page_number": "313",
+      "source_page_index": -1,
+      "authors": [
+        "Mauro Cappelletti"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Tito Carnacini, \u201eInstitutionen des Proze\u00dfrechts\u201c",
+      "printed_page_number": "329",
+      "source_page_index": -1,
+      "authors": [
+        "Tito Carnacini"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Per Olof Ekel\u00f6f, Beweiswert",
+      "printed_page_number": "343",
+      "source_page_index": -1,
+      "authors": [
+        "Per Olof Ekel\u00f6f"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Victor Fairen Guillen, Einige prozessuale Probleme im Zusammenhang mit Art. 6 der Europ\u00e4ischen Menschenrechtskonvention",
+      "printed_page_number": "365",
+      "source_page_index": -1,
+      "authors": [
+        "Victor Fairen Guillen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans W. Fasching, Die Rechtsbehelfe gegen Vers\u00e4umnisurteile im deutschen und im \u00f6sterreichischen Zivilproze\u00df. Eine rechtsvergleichende Skizze",
+      "printed_page_number": "387",
+      "source_page_index": -1,
+      "authors": [
+        "Hans W. Fasching"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wolfgang Grunsky, Gedanken zum Anwendungsbereich von \u00a7 850h Abs. 2 ZPO",
+      "printed_page_number": "403",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Grunsky"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Walther J. Habscheid, Zur Frage der Kompetenz-Kompetenz der Schiedsgerichte",
+      "printed_page_number": "425",
+      "source_page_index": -1,
+      "authors": [
+        "Walther J. Habscheid"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wolfram Henckel, Vorausverf\u00fcgung und Aufrechnung bei der Miete beweglicher Sachen und bei der Rechtspacht im Konkurs des Vermieters und des Verp\u00e4chters",
+      "printed_page_number": "443",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfram Henckel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Othmar Jaunzig, Sozialpolitische Rahmenbedingungen einer Insolvenzrechtsreform",
+      "printed_page_number": "465",
+      "source_page_index": -1,
+      "authors": [
+        "Othmar Jaunzig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nikolaos Kan. Klamaris, Der Rechtsmi\u00dfbrauch im griechischen Zivilproze\u00dfrecht",
+      "printed_page_number": "483",
+      "source_page_index": -1,
+      "authors": [
+        "Nikolaos Kan. Klamaris"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Georg Mitsopoulos, Die notwendige Streitgenossenschaft nach dem griechischen Zivilproze\u00dfrecht",
+      "printed_page_number": "503",
+      "source_page_index": -1,
+      "authors": [
+        "Georg Mitsopoulos"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wolfgang M\u00fcnzberg und Wolfgang Brehm, Altes und Neues zur Widerspruchsklage nach \u00a7 771 ZPO",
+      "printed_page_number": "517",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang M\u00fcnzberg",
+        "Wolfgang Brehm"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Knut Wolfgang N\u00f6rr, Das Streitprogramm: eine historisch- vergleichende Skizze",
+      "printed_page_number": "537",
+      "source_page_index": -1,
+      "authors": [
+        "Knut Wolfgang N\u00f6rr"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Egbert Peters, Die richterliche Anordnung zur Zwangsvollstreckung nach \u00a7 758 ZPO \u2013 Wege und Irrwege",
+      "printed_page_number": "549",
+      "source_page_index": -1,
+      "authors": [
+        "Egbert Peters"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Georg Rammos, H\u00f6here Gewalt, Zufall, Naturereignis und Wiederaufnahme des Verfahrens nach dem griechischen Zivilproze\u00dfrecht",
+      "printed_page_number": "561",
+      "source_page_index": -1,
+      "authors": [
+        "Georg Rammos"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hugo Seiter, Beweisrechtliche Probleme der Tatsachenfeststellung bei richterlicher Rechtsfortbildung",
+      "printed_page_number": "573",
+      "source_page_index": -1,
+      "authors": [
+        "Hugo Seiter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wilhelm Scheuerle, Tugendkonforme Auslegung (des \u00a7 176 GVG)",
+      "printed_page_number": "595",
+      "source_page_index": -1,
+      "authors": [
+        "Wilhelm Scheuerle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Herbert Schneider, Die Anschlu\u00dfrevision",
+      "printed_page_number": "615",
+      "source_page_index": -1,
+      "authors": [
+        "Herbert Schneider"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Karl Heinz Schwab, Einstweiliger Rechtsschutz und Schiedsgerichtsbarkeit",
+      "printed_page_number": "627",
+      "source_page_index": -1,
+      "authors": [
+        "Karl Heinz Schwab"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rolf St\u00fcrner, Verfahrensgrunds\u00e4tze des Zivilprozesses und Verfassung",
+      "printed_page_number": "647",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf St\u00fcrner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rolf W\u00e4genbaur, Zur Erhaltung der Funktionsf\u00e4higkeit des Gerichtshofs der Europ\u00e4ischen Gemeinschaften",
+      "printed_page_number": "667",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf W\u00e4genbaur"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gerhard Walter, Neue Mechanismen internationaler Streitschlichtung?",
+      "printed_page_number": "691",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard Walter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hermann Weitnauer, Einige Bemerkungen zu den Verwertungsgemeinschaften (,\u201ePools\u201c) der Sicherungsgl\u00e4ubiger im Unternehmenskonkurs",
+      "printed_page_number": "709",
+      "source_page_index": -1,
+      "authors": [
+        "Hermann Weitnauer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Harry Westermann, Die BGB-Gesellschaft als Partei eines Schiedsgerichtsverfahrens oder eines Schiedsvertrages",
+      "printed_page_number": "723",
+      "source_page_index": -1,
+      "authors": [
+        "Harry Westermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Albrecht Zeuner, Unbezifferter Klageantrag und Beschwer",
+      "printed_page_number": "741",
+      "source_page_index": -1,
+      "authors": [
+        "Albrecht Zeuner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ANHANG",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kommissionen, Ehrungen u. dgl.",
+      "printed_page_number": "752",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Schlu\u00dfverzeichnis",
+      "printed_page_number": "754",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

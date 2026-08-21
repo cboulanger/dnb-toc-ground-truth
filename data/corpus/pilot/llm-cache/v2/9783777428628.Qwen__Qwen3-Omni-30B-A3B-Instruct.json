@@ -1,0 +1,565 @@
+{
+  "generated_at": 1787160379.112182,
+  "entries": [
+    {
+      "title": "VORWORT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sabine Haag",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Sabine Haag"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Generaldirektorin des Kunsthistorischen Museums Wien",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Sabine Haag"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Philipp Demandt",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Philipp Demandt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Direktor St\u00e4del Museum, Frankfurt am Main",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Philipp Demandt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "EINLEITUNG",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Stefan Weppelmann, Jochen Sander",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Weppelmann",
+        "Jochen Sander"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Universale Kraft der Verwandlung",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Weppelmann",
+        "Jochen Sander"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ESSAYS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Stefan Weppelmann",
+      "printed_page_number": "21",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Weppelmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rubens' Spezialeffekte und die \u00bbZweite Erschaffung der Welt\u00ab",
+      "printed_page_number": "21",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Weppelmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Aneta Georgievsk\u0430-Shine",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [
+        "Aneta Georgievsk\u0430-Shine"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "In nova fert animus ... Rubens und die Poetik der Verwandlung",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [
+        "Aneta Georgievsk\u0430-Shine"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Alejandro Vergara",
+      "printed_page_number": "35",
+      "source_page_index": -1,
+      "authors": [
+        "Alejandro Vergara"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rubens: Wille und Vorstellung",
+      "printed_page_number": "35",
+      "source_page_index": -1,
+      "authors": [
+        "Alejandro Vergara"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nils B\u00fcttner",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [
+        "Nils B\u00fcttner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verwandlung und Verst\u00e4ndlichkeit: Rubens und die Sprache der Bilder",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [
+        "Nils B\u00fcttner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "David Jaff\u00e9",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "David Jaff\u00e9"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rubens' sch\u00f6pferische Hilfsmittel",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "David Jaff\u00e9"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jochen Sander",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Jochen Sander"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rubens und Elsheimer",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Jochen Sander"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nico Van Hout",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "Nico Van Hout"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00bbRubens\u00ab und die Passion Christi. Entwerfen mittels einer Brainstorming-Sitzung?",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "Nico Van Hout"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gerlinde Gruber unter Mitarbeit von",
+      "printed_page_number": "79",
+      "source_page_index": -1,
+      "authors": [
+        "Gerlinde Gruber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geert van der Snikt, Stijn Legrand und Koen Janssen",
+      "printed_page_number": "79",
+      "source_page_index": -1,
+      "authors": [
+        "Geert van der Snikt",
+        "Stijn Legrand",
+        "Koen Janssen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Variationen und Wandlungen der Sch\u00f6nheitsg\u00f6ttin",
+      "printed_page_number": "79",
+      "source_page_index": -1,
+      "authors": [
+        "Gerlinde Gruber",
+        "Geert van der Snikt",
+        "Stijn Legrand",
+        "Koen Janssen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fiona Healy",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [
+        "Fiona Healy"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erfindung und Verwandlung: Die Heilige Familie unter dem Apfelbaum und andere Gem\u00e4lde der Heiligen Familie",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [
+        "Fiona Healy"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jeremy Wood",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [
+        "Jeremy Wood"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rubens mit Schere und Kleister. Der K\u00fcnstler als sch\u00f6pferischer Bearbeiter",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [
+        "Jeremy Wood"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "George Bisacca",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [
+        "George Bisacca"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rubens' Puzzle",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [
+        "George Bisacca"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Elke Oberthaler, Georg Prast und Ina Slama",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [
+        "Elke Oberthaler",
+        "Georg Prast",
+        "Ina Slama"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rubens' Gewitterlandschaft: Schadensproblematik und Restaurierung",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [
+        "Elke Oberthaler",
+        "Georg Prast",
+        "Ina Slama"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "KATALOGTEIL",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Nils B\u00fcttner",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [
+        "Nils B\u00fcttner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Grundlagen: Kopieren und Interpretieren",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [
+        "Nils B\u00fcttner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gerlinde Gruber",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [
+        "Gerlinde Gruber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Theorie und Praxis der Darstellung des menschlichen K\u00f6rpers",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [
+        "Gerlinde Gruber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jochen Sander",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [
+        "Jochen Sander"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antike Leitbilder",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [
+        "Jochen Sander"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stefan Weppelmann",
+      "printed_page_number": "205",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Weppelmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Choreografie kunstvoller R\u00e4ume",
+      "printed_page_number": "205",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Weppelmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stefan Weppelmann",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Weppelmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "K\u00f6rper sehen und K\u00f6rper malen",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Weppelmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nils B\u00fcttner",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [
+        "Nils B\u00fcttner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Spiegelungen und nackte K\u00f6rper",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [
+        "Nils B\u00fcttner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gerlinde Gruber",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [
+        "Gerlinde Gruber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Medusa \u2013 Inbegriff der Verwandlung",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [
+        "Gerlinde Gruber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gerlinde Gruber unter Mitarbeit von",
+      "printed_page_number": "273",
+      "source_page_index": -1,
+      "authors": [
+        "Gerlinde Gruber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geert van der Snikt, Stijn Legrand und Koen Janssen",
+      "printed_page_number": "273",
+      "source_page_index": -1,
+      "authors": [
+        "Geert van der Snikt",
+        "Stijn Legrand",
+        "Koen Janssen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Materielle Wandlungen",
+      "printed_page_number": "273",
+      "source_page_index": -1,
+      "authors": [
+        "Gerlinde Gruber",
+        "Geert van der Snikt",
+        "Stijn Legrand",
+        "Koen Janssen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ANHANG",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bibliografie",
+      "printed_page_number": "292",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Abbildungsnachweis",
+      "printed_page_number": "305",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Impressum",
+      "printed_page_number": "307",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

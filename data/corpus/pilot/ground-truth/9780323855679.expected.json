@@ -1,0 +1,1198 @@
+{
+  "entries": [
+    {
+      "title": "Contributors",
+      "authors": [],
+      "printed_page_number": "xi",
+      "skip": true
+    },
+    {
+      "title": "Preface",
+      "authors": [],
+      "printed_page_number": "xiii",
+      "skip": true
+    },
+    {
+      "title": "Section I",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": true
+    },
+    {
+      "title": "Foundations of information geometry",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": true
+    },
+    {
+      "title": "1. Revisiting the connection between Fisher information and entropy's rate of change",
+      "authors": [
+        "A.R. Plastino",
+        "Angelo Plastino",
+        "F. Pennini"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "1. Introduction",
+      "authors": [],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "2. Fisher information and Cramer-Rao inequality",
+      "authors": [],
+      "printed_page_number": "4",
+      "skip": false
+    },
+    {
+      "title": "3. Fisher information and the rate of change of Boltzmann-Gibbs entropy",
+      "authors": [],
+      "printed_page_number": "6",
+      "skip": false
+    },
+    {
+      "title": "3.1 Brownian particle with constant drag force",
+      "authors": [],
+      "printed_page_number": "10",
+      "skip": false
+    },
+    {
+      "title": "3.2 Systems described by an N-dimensional Fokker-Planck equation",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "4. Possible lines for future research",
+      "authors": [],
+      "printed_page_number": "12",
+      "skip": false
+    },
+    {
+      "title": "5. Conclusions",
+      "authors": [],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "References",
+      "authors": [],
+      "printed_page_number": "13",
+      "skip": true
+    },
+    {
+      "title": "2. Pythagoras theorem in information geometry and applications to generalized linear models",
+      "authors": [
+        "Shinto Eguchi"
+      ],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "1. Introduction",
+      "authors": [],
+      "printed_page_number": "16",
+      "skip": false
+    },
+    {
+      "title": "2. Pythagoras theorems in information geometry",
+      "authors": [],
+      "printed_page_number": "18",
+      "skip": false
+    },
+    {
+      "title": "3. Power entropy and divergence",
+      "authors": [],
+      "printed_page_number": "24",
+      "skip": false
+    },
+    {
+      "title": "4. Linear regression model",
+      "authors": [],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "5. Generalized linear model",
+      "authors": [],
+      "printed_page_number": "35",
+      "skip": false
+    },
+    {
+      "title": "6. Discussion",
+      "authors": [],
+      "printed_page_number": "40",
+      "skip": false
+    },
+    {
+      "title": "References",
+      "authors": [],
+      "printed_page_number": "41",
+      "skip": true
+    },
+    {
+      "title": "Further reading",
+      "authors": [],
+      "printed_page_number": "42",
+      "skip": true
+    },
+    {
+      "title": "3. Rao distances and conformal mapping",
+      "authors": [
+        "Arni S.R. Srinivasa Rao",
+        "Steven G. Krantz"
+      ],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "1. Introduction",
+      "authors": [],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "2. Manifolds",
+      "authors": [],
+      "printed_page_number": "44",
+      "skip": false
+    },
+    {
+      "title": "2.1 Conformality between two regions",
+      "authors": [],
+      "printed_page_number": "46",
+      "skip": false
+    },
+    {
+      "title": "3. Rao distance",
+      "authors": [],
+      "printed_page_number": "46",
+      "skip": false
+    },
+    {
+      "title": "4. Conformal mapping",
+      "authors": [],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "5. Applications",
+      "authors": [],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "Acknowledgments",
+      "authors": [],
+      "printed_page_number": "55",
+      "skip": true
+    },
+    {
+      "title": "References",
+      "authors": [],
+      "printed_page_number": "55",
+      "skip": true
+    },
+    {
+      "title": "4. Cramer-Rao inequality for testing the suitability of divergent partition functions",
+      "authors": [
+        "Angelo Plastino",
+        "Mario Carlos Rocca",
+        "Diana Monteoliva"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "1. Introduction",
+      "authors": [],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "2. A first illustrative example",
+      "authors": [],
+      "printed_page_number": "58",
+      "skip": false
+    },
+    {
+      "title": "2.1 Evaluation of the partition function",
+      "authors": [],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "2.2 Instruction manual for using our procedure",
+      "authors": [],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "2.3 Evaluation of <r>",
+      "authors": [],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "2.4 Dealing with <r²>",
+      "authors": [],
+      "printed_page_number": "62",
+      "skip": false
+    },
+    {
+      "title": "2.5 Obtaining fisher information measure",
+      "authors": [],
+      "printed_page_number": "62",
+      "skip": false
+    },
+    {
+      "title": "2.6 The six steps to obtain a finite Fisher's information",
+      "authors": [],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "2.7 Cramer-Rao inequality (CRI)",
+      "authors": [],
+      "printed_page_number": "64",
+      "skip": false
+    },
+    {
+      "title": "2.8 Numerical example",
+      "authors": [],
+      "printed_page_number": "64",
+      "skip": false
+    },
+    {
+      "title": "3. A Brownian motion example",
+      "authors": [],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "3.1 The present partition function",
+      "authors": [],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "3.2 Mean values of x-powers",
+      "authors": [],
+      "printed_page_number": "66",
+      "skip": false
+    },
+    {
+      "title": "3.3 Tackling fisher",
+      "authors": [],
+      "printed_page_number": "66",
+      "skip": false
+    },
+    {
+      "title": "3.4 The present Cramer-Rao inequality",
+      "authors": [],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "4. The harmonic oscillator (HO) in Tsallis' statistics",
+      "authors": [],
+      "printed_page_number": "68",
+      "skip": false
+    },
+    {
+      "title": "4.1 The HO-Tsallis partition function",
+      "authors": [],
+      "printed_page_number": "68",
+      "skip": false
+    },
+    {
+      "title": "4.2 HO-Tsallis mean values for r²",
+      "authors": [],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "4.3 Mean value of r",
+      "authors": [],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "4.4 Variance V",
+      "authors": [],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "4.5 The HO-Tsallis Fisher information measure",
+      "authors": [],
+      "printed_page_number": "70",
+      "skip": false
+    },
+    {
+      "title": "5. Failure of the Boltzmann-Gibbs (BG) statistics for Newton's gravitation",
+      "authors": [],
+      "printed_page_number": "70",
+      "skip": false
+    },
+    {
+      "title": "5.1 Tackling Zν",
+      "authors": [],
+      "printed_page_number": "70",
+      "skip": false
+    },
+    {
+      "title": "5.2 Mean values derived from our partition function (PP)",
+      "authors": [],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "5.3 Variance Δr = <r²>−<r>²",
+      "authors": [],
+      "printed_page_number": "72",
+      "skip": false
+    },
+    {
+      "title": "5.4 Gravitational FIM",
+      "authors": [],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "5.5 Incompatibility between Boltzmann-Gibbs statistics (BGS) and long-range interactions",
+      "authors": [],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "6. Statistics of gravitation in Tsallis' statistics",
+      "authors": [],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "6.1 Gravity-Tsallis partition function",
+      "authors": [],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "6.2 Gravity-Tsallis mean values for r and r²",
+      "authors": [],
+      "printed_page_number": "74",
+      "skip": false
+    },
+    {
+      "title": "6.3 Tsallis' Gravity treatment and Fisher's information measure",
+      "authors": [],
+      "printed_page_number": "76",
+      "skip": false
+    },
+    {
+      "title": "6.4 Tsallis' Gravity treatment and Cramer-Rao inequality (CRI)",
+      "authors": [],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "7. Conclusions",
+      "authors": [],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "References",
+      "authors": [],
+      "printed_page_number": "78",
+      "skip": true
+    },
+    {
+      "title": "5. Information geometry and classical Cramér-Rao-type inequalities",
+      "authors": [
+        "Kumar Vijay Mishra",
+        "M. Ashok Kumar"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "1. Introduction",
+      "authors": [],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "2. I-divergence and Iα-divergence",
+      "authors": [],
+      "printed_page_number": "82",
+      "skip": false
+    },
+    {
+      "title": "2.1 Extension to infinite X",
+      "authors": [],
+      "printed_page_number": "84",
+      "skip": false
+    },
+    {
+      "title": "2.2 Bregman vs Csiszár",
+      "authors": [],
+      "printed_page_number": "84",
+      "skip": false
+    },
+    {
+      "title": "2.3 Classical vs quantum CR inequality",
+      "authors": [],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "3. Information geometry from a divergence function",
+      "authors": [],
+      "printed_page_number": "86",
+      "skip": false
+    },
+    {
+      "title": "3.1 Information geometry for α-CR inequality",
+      "authors": [],
+      "printed_page_number": "88",
+      "skip": false
+    },
+    {
+      "title": "3.2 An α-version of Cramér-Rao inequality",
+      "authors": [],
+      "printed_page_number": "90",
+      "skip": false
+    },
+    {
+      "title": "3.3 Generalized version of Cramér-Rao inequality",
+      "authors": [],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "4. Information geometry for Bayesian CR inequality and Barankin bound",
+      "authors": [],
+      "printed_page_number": "98",
+      "skip": false
+    },
+    {
+      "title": "5. Information geometry for Bayesian α-CR inequality",
+      "authors": [],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "6. Information geometry for Hybrid CR inequality",
+      "authors": [],
+      "printed_page_number": "106",
+      "skip": false
+    },
+    {
+      "title": "7. Summary",
+      "authors": [],
+      "printed_page_number": "106",
+      "skip": false
+    },
+    {
+      "title": "Acknowledgments",
+      "authors": [],
+      "printed_page_number": "107",
+      "skip": true
+    },
+    {
+      "title": "Appendix",
+      "authors": [],
+      "printed_page_number": "107",
+      "skip": true
+    },
+    {
+      "title": "A.1 Other generalizations of Cramér-Rao inequality",
+      "authors": [],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "References",
+      "authors": [],
+      "printed_page_number": "110",
+      "skip": true
+    },
+    {
+      "title": "Section II",
+      "authors": [],
+      "printed_page_number": "115",
+      "skip": true
+    },
+    {
+      "title": "Theoretical applications and physics",
+      "authors": [],
+      "printed_page_number": "115",
+      "skip": true
+    },
+    {
+      "title": "6. Principle of minimum loss of Fisher information, arising from the Cramer-Rao inequality: Its role in evolution of bio-physical laws, complex systems and universes",
+      "authors": [
+        "B. Roy Frieden"
+      ],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "1. Introduction",
+      "authors": [],
+      "printed_page_number": "118",
+      "skip": false
+    },
+    {
+      "title": "1.1 On learning, energy, sensory messages",
+      "authors": [],
+      "printed_page_number": "118",
+      "skip": false
+    },
+    {
+      "title": "1.2 On variational approaches",
+      "authors": [],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "1.3 Vital role played by information",
+      "authors": [],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "2. Overview and comparisons of applications",
+      "authors": [],
+      "printed_page_number": "120",
+      "skip": false
+    },
+    {
+      "title": "2.1 Classical dynamics",
+      "authors": [],
+      "printed_page_number": "120",
+      "skip": false
+    },
+    {
+      "title": "2.2 Quantum physics",
+      "authors": [],
+      "printed_page_number": "120",
+      "skip": false
+    },
+    {
+      "title": "2.3 Biology",
+      "authors": [],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "2.4 Thermodynamics",
+      "authors": [],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "2.5 Extending use of the principle of natural selection",
+      "authors": [],
+      "printed_page_number": "122",
+      "skip": false
+    },
+    {
+      "title": "2.6 From biological cell to earth to solar system, galaxy, universe, and multiverse",
+      "authors": [],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "2.7 Creation of a multiverse by requiring its Fisher I to be maximized",
+      "authors": [],
+      "printed_page_number": "124",
+      "skip": false
+    },
+    {
+      "title": "2.8 Analogy of a cancer \"universe\"",
+      "authors": [],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "2.9 What ultimately causes a multiverse to form?",
+      "authors": [],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "2.10 Is there empirical evidence for a multiverse having formed?",
+      "authors": [],
+      "printed_page_number": "126",
+      "skip": false
+    },
+    {
+      "title": "2.11 Details of the process of growing successive universes",
+      "authors": [],
+      "printed_page_number": "126",
+      "skip": false
+    },
+    {
+      "title": "2.12 How many universes N might exist in the multiverse?",
+      "authors": [],
+      "printed_page_number": "128",
+      "skip": false
+    },
+    {
+      "title": "2.13 Annihilation of universes",
+      "authors": [],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "2.14 Growth of a bubble of nothing",
+      "authors": [],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "2.15 Counter-growth of new universes",
+      "authors": [],
+      "printed_page_number": "130",
+      "skip": false
+    },
+    {
+      "title": "2.16 Possibility of many annihilation waves",
+      "authors": [],
+      "printed_page_number": "130",
+      "skip": false
+    },
+    {
+      "title": "2.17 How large a number N of universes exist?",
+      "authors": [],
+      "printed_page_number": "130",
+      "skip": false
+    },
+    {
+      "title": "2.18 Is the multiverse merely a theoretical construct?",
+      "authors": [],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "2.19 Should the fact that we do not, and have not observed life elsewhere in our universe affect a belief that we exist in a multiverse?",
+      "authors": [],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "3. Derivation of principle of maximum Fisher information (MFI)",
+      "authors": [],
+      "printed_page_number": "132",
+      "skip": false
+    },
+    {
+      "title": "3.1 Cramer-Rao (C-R) inequality",
+      "authors": [],
+      "printed_page_number": "132",
+      "skip": false
+    },
+    {
+      "title": "3.2 On derivation of the C-R inequality",
+      "authors": [],
+      "printed_page_number": "132",
+      "skip": false
+    },
+    {
+      "title": "3.3 What do such data values (augmented by knowledge of a single equality obeyed by the system physics) have to say about the unknown system physics?",
+      "authors": [],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "4. Kantian view of Fisher information use to predict a physical law",
+      "authors": [],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "4.1 How principle of maximum information originates with Kant",
+      "authors": [],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "4.2 On significance of the information difference I−J",
+      "authors": [],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "5. Principle of minimum loss of Fisher information",
+      "authors": [],
+      "printed_page_number": "136",
+      "skip": false
+    },
+    {
+      "title": "5.1 Verifying that minimum loss is actually achieved by the principle",
+      "authors": [],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "5.2 Summary and foundations of the Fisher approach to knowledge acquisition",
+      "authors": [],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "5.3 What is accomplished by use of the Fisher approach",
+      "authors": [],
+      "printed_page_number": "140",
+      "skip": false
+    },
+    {
+      "title": "6. Commonality of information-based growths of cancer and viral infections",
+      "authors": [],
+      "printed_page_number": "142",
+      "skip": false
+    },
+    {
+      "title": "6.1 MFI applied to early cancer growth",
+      "authors": [],
+      "printed_page_number": "142",
+      "skip": false
+    },
+    {
+      "title": "6.2 Later-stage cancer growth",
+      "authors": [],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "6.3 MFI applied to early covid-19 growth",
+      "authors": [],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "6.4 Common biological causes of cancer- and covid-19 growth; the ACE2 link",
+      "authors": [],
+      "printed_page_number": "144",
+      "skip": false
+    },
+    {
+      "title": "References",
+      "authors": [],
+      "printed_page_number": "146",
+      "skip": true
+    },
+    {
+      "title": "7. Quantum metrology and quantum correlations",
+      "authors": [
+        "Diego G. Bussandri",
+        "Pedro W. Lamberti"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "1. Quantum correlations",
+      "authors": [],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "2. Parameter estimation",
+      "authors": [],
+      "printed_page_number": "152",
+      "skip": false
+    },
+    {
+      "title": "3. Cramer-Rao bound",
+      "authors": [],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "4. Quantum Fisher information",
+      "authors": [],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "5. Quantum correlations in estimation theory",
+      "authors": [],
+      "printed_page_number": "156",
+      "skip": false
+    },
+    {
+      "title": "5.1 Heisenberg limit",
+      "authors": [],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "5.2 Interferometric power",
+      "authors": [],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "6. Conclusion",
+      "authors": [],
+      "printed_page_number": "160",
+      "skip": false
+    },
+    {
+      "title": "References",
+      "authors": [],
+      "printed_page_number": "160",
+      "skip": true
+    },
+    {
+      "title": "8. Information, economics, and the Cramér-Rao bound",
+      "authors": [
+        "Raymond J. Hawkins",
+        "B. Roy Frieden"
+      ],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "1. Introduction",
+      "authors": [],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "2. Shannon entropy and Fisher information",
+      "authors": [],
+      "printed_page_number": "162",
+      "skip": false
+    },
+    {
+      "title": "3. Financial economics",
+      "authors": [],
+      "printed_page_number": "164",
+      "skip": false
+    },
+    {
+      "title": "3.1 Discount factors and bonds",
+      "authors": [],
+      "printed_page_number": "164",
+      "skip": false
+    },
+    {
+      "title": "3.2 Derivative securities",
+      "authors": [],
+      "printed_page_number": "168",
+      "skip": false
+    },
+    {
+      "title": "4. Macroeconomics",
+      "authors": [],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "5. Discussion and summary",
+      "authors": [],
+      "printed_page_number": "174",
+      "skip": false
+    },
+    {
+      "title": "Acknowledgments",
+      "authors": [],
+      "printed_page_number": "175",
+      "skip": true
+    },
+    {
+      "title": "References",
+      "authors": [],
+      "printed_page_number": "175",
+      "skip": true
+    },
+    {
+      "title": "9. Zipf's law results from the scaling invariance of the Cramer-Rao inequality",
+      "authors": [
+        "Alberto Hernando",
+        "Angelo Plastino"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "1. Introduction",
+      "authors": [],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "2. Our goal",
+      "authors": [],
+      "printed_page_number": "180",
+      "skip": false
+    },
+    {
+      "title": "3. Fisher's information measure (FIM) and its minimization",
+      "authors": [],
+      "printed_page_number": "180",
+      "skip": false
+    },
+    {
+      "title": "4. Derivation of Zipf's law",
+      "authors": [],
+      "printed_page_number": "180",
+      "skip": false
+    },
+    {
+      "title": "5. Zipf plots",
+      "authors": [],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "6. Summary",
+      "authors": [],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "References",
+      "authors": [],
+      "printed_page_number": "183",
+      "skip": true
+    },
+    {
+      "title": "Further reading",
+      "authors": [],
+      "printed_page_number": "183",
+      "skip": true
+    },
+    {
+      "title": "Section III",
+      "authors": [],
+      "printed_page_number": "185",
+      "skip": true
+    },
+    {
+      "title": "Advanced statistical theory",
+      "authors": [],
+      "printed_page_number": "185",
+      "skip": true
+    },
+    {
+      "title": "10. λ-Deformed probability families with subtractive and divisive normalizations",
+      "authors": [
+        "Jun Zhang",
+        "Ting-Kam Leonard Wong"
+      ],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "1. Introduction",
+      "authors": [],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "1.1 Deformation models",
+      "authors": [],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "1.2 Deformed probability families: General approach",
+      "authors": [],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "1.3 Chapter outline",
+      "authors": [],
+      "printed_page_number": "192",
+      "skip": false
+    },
+    {
+      "title": "2. λ-Deformation of exponential and mixture families",
+      "authors": [],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "2.1 λ-Deformation",
+      "authors": [],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "2.2 Deformation: Subtractive approach",
+      "authors": [],
+      "printed_page_number": "194",
+      "skip": false
+    },
+    {
+      "title": "2.3 Deformation: Divisive approach",
+      "authors": [],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "2.4 Relation between the two normalizations",
+      "authors": [],
+      "printed_page_number": "196",
+      "skip": false
+    },
+    {
+      "title": "2.5 λ-Exponential and λ-mixture families",
+      "authors": [],
+      "printed_page_number": "197",
+      "skip": false
+    },
+    {
+      "title": "3. Deforming Legendre duality: λ-Duality",
+      "authors": [],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "3.1 From Bregman divergence to λ-logarithmic divergence",
+      "authors": [],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "3.2 λ-Deformed Legendre duality",
+      "authors": [],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "3.3 Relationship between λ-conjugation and Legendre conjugation",
+      "authors": [],
+      "printed_page_number": "202",
+      "skip": false
+    },
+    {
+      "title": "3.4 Information geometry of λ-logarithmic divergence",
+      "authors": [],
+      "printed_page_number": "206",
+      "skip": false
+    },
+    {
+      "title": "4. λ-Deformed entropy and divergence",
+      "authors": [],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "4.1 Relation between potential functions and Rényi entropy",
+      "authors": [],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "4.2 Relation between λ-logarithmic divergence and Rényi divergence",
+      "authors": [],
+      "printed_page_number": "208",
+      "skip": false
+    },
+    {
+      "title": "4.3 Entropy maximizing property of λ-exponential family",
+      "authors": [],
+      "printed_page_number": "209",
+      "skip": false
+    },
+    {
+      "title": "5. Example: λ-Deformation of the probability simplex",
+      "authors": [],
+      "printed_page_number": "210",
+      "skip": false
+    },
+    {
+      "title": "5.1 λ-Exponential representation",
+      "authors": [],
+      "printed_page_number": "210",
+      "skip": false
+    },
+    {
+      "title": "5.2 λ-Mixture representation",
+      "authors": [],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "6. Summary and conclusion",
+      "authors": [],
+      "printed_page_number": "212",
+      "skip": false
+    },
+    {
+      "title": "References",
+      "authors": [],
+      "printed_page_number": "214",
+      "skip": true
+    },
+    {
+      "title": "11. Some remarks on Fisher information, the Cramer-Rao inequality, and their applications to physics",
+      "authors": [
+        "H.G. Miller",
+        "Angelo Plastino",
+        "A.R. Plastino"
+      ],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "1. Introduction",
+      "authors": [],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "2. Diffusion equation",
+      "authors": [],
+      "printed_page_number": "220",
+      "skip": false
+    },
+    {
+      "title": "3. Connection with Tsallis statistics",
+      "authors": [],
+      "printed_page_number": "222",
+      "skip": false
+    },
+    {
+      "title": "4. Conclusions",
+      "authors": [],
+      "printed_page_number": "225",
+      "skip": false
+    },
+    {
+      "title": "Appendix",
+      "authors": [],
+      "printed_page_number": "226",
+      "skip": true
+    },
+    {
+      "title": "A.1 The Cramer-Rao bound",
+      "authors": [],
+      "printed_page_number": "226",
+      "skip": false
+    },
+    {
+      "title": "References",
+      "authors": [],
+      "printed_page_number": "227",
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "229",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

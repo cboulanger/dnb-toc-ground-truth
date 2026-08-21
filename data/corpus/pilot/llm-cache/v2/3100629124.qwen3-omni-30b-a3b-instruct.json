@@ -1,0 +1,827 @@
+{
+  "generated_at": 1787011804.838068,
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "XI",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Auf Umwegen zur\u00fcck zur Heimat",
+      "printed_page_number": "I",
+      "source_page_index": -1,
+      "authors": [
+        "Gert Ueding"
+      ],
+      "printed_roman": true,
+      "skip": false
+    },
+    {
+      "title": "Hortense oder Die R\u00fcckkehr nach Baden-Baden (1933)",
+      "printed_page_number": "I",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": false
+    },
+    {
+      "title": "H\u00f6here Stimmigkeit",
+      "printed_page_number": "II",
+      "source_page_index": -1,
+      "authors": [
+        "Eckhard Heftrich"
+      ],
+      "printed_roman": true,
+      "skip": false
+    },
+    {
+      "title": "Die Geschichten Jaakobs (1933)",
+      "printed_page_number": "II",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": false
+    },
+    {
+      "title": "Ein Genozid, der offiziell nie stattgefunden hat",
+      "printed_page_number": "18",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Christoph Buch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die vierzig Tage des Musa Dagh (1933)",
+      "printed_page_number": "18",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Haifisch schluckt eine Ladenkette",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Walter Hinck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dreigroschenroman (1934)",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jeder Hoffnung bar",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Baumgart"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eine ungl\u00fcckliche Liebe (1934)",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein Ritter des Absurden",
+      "printed_page_number": "45",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Gruenter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Standarte (1934)",
+      "printed_page_number": "45",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das gro\u00dfe Abendrot",
+      "printed_page_number": "55",
+      "source_page_index": -1,
+      "authors": [
+        "Werner Ross"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Majorin (1934)",
+      "printed_page_number": "55",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gegen den Hitler in uns selbst",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Benno von Wiese"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Gro\u00dftyrann und das Gericht (1935)",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der gestiefelte Parzival",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Leppmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erziehung vor Verdun (1935)",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Humanist unter Waffen",
+      "printed_page_number": "76",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Koopmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Triumph und Tragik des Erasmus von Rotterdam (1935)",
+      "printed_page_number": "76",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kopflos in die Unterwelt",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [
+        "Siegfried Lenz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Blendung (1935)",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Licht aus dem Rachen der Schlange",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [
+        "Horst Kr\u00fcger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geheimnisse des reifen Lebens (1936)",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Morsche hinter den Fassaden",
+      "printed_page_number": "98",
+      "source_page_index": -1,
+      "authors": [
+        "Peter von Matt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wachtmeister Studer (1936)",
+      "printed_page_number": "98",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Behagen im Ungl\u00fcck",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Baumgart"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Joseph in \u00c4gypten (1936)",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hausbuch der Deutschen",
+      "printed_page_number": "114",
+      "source_page_index": -1,
+      "authors": [
+        "Werner Fuld"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Maulkorb (1936)",
+      "printed_page_number": "114",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Im brodelnden Vulkan",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [
+        "Walter Hinck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wolfunter W\u00f6lfen (1937)",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hymnus auf einen Schmerzensreichen",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [
+        "Manfred Bieler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Vater (1937)",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Im Schatten der Katastrophe",
+      "printed_page_number": "135",
+      "source_page_index": -1,
+      "authors": [
+        "Siegfried Lenz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schwarze Weide (1937)",
+      "printed_page_number": "135",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein Pl\u00e4doyer f\u00fcr die Vernunft",
+      "printed_page_number": "142",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut N\u00fcrnberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Thronfolger (1937)",
+      "printed_page_number": "142",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Chaos hinter der Fassade",
+      "printed_page_number": "154",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter Bl\u00f6cker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein Mord den jeder begeht (1938)",
+      "printed_page_number": "154",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Au\u00dfer Spesen nichts gewesen?",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [
+        "Adolf Musch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schweizerspiegel (1938)",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das deutsche Inwendige",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [
+        "Eckhard Heftrich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Herr Kort\u00fcm (1938)",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Sieg des guten K\u00f6nigs",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Koopmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Jugend des K\u00f6nigs Henri Quatre (1935) und Die Vollendung des K\u00f6nigs Henri Quatre (1938)",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Finis Austriae",
+      "printed_page_number": "186",
+      "source_page_index": -1,
+      "authors": [
+        "Eckhard Heftrich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Kapuzinergruft (1938)",
+      "printed_page_number": "186",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Vater der Indios",
+      "printed_page_number": "192",
+      "source_page_index": -1,
+      "authors": [
+        "Gert Ueding"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Las Casas vor Karl V. (1938)",
+      "printed_page_number": "192",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eine Muse konnte nicht schweigen",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [
+        "Dolf Sternberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Auf den Marmorklippen (1939)",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Herausforderung der Hitlerzeit",
+      "printed_page_number": "208",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Schneider"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Vulkan (1939)",
+      "printed_page_number": "208",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eine Fata Morgana deutscher Kultur",
+      "printed_page_number": "215",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Baumgart"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lotte in Weimar (1939)",
+      "printed_page_number": "215",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Totentanz und Tingeltangel",
+      "printed_page_number": "224",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Baumgart"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Geschichte von der 1002. Nacht (1939)",
+      "printed_page_number": "224",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "G\u00f6ttlich-teuflische Welt",
+      "printed_page_number": "231",
+      "source_page_index": -1,
+      "authors": [
+        "Eckart Kle\u00dfmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der veruntreute Himmel (1939)",
+      "printed_page_number": "231",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein Denkmal deutscher Innerlichkeit",
+      "printed_page_number": "238",
+      "source_page_index": -1,
+      "authors": [
+        "Horst Kr\u00fcger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das einfache Leben (1939)",
+      "printed_page_number": "238",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Heidnisches Urgestein",
+      "printed_page_number": "246",
+      "source_page_index": -1,
+      "authors": [
+        "Hermann Kurzke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Am Himmel wie auf Erden (1940)",
+      "printed_page_number": "246",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Emigrantensicksal, melodramatisch",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [
+        "Gert Ueding"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Exil (1940)",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Blindheit Adolf Hitlers",
+      "printed_page_number": "264",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Schneider"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Augenzeuge (1940)",
+      "printed_page_number": "264",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Bitterkeit der gl\u00e4sernen Menschen",
+      "printed_page_number": "271",
+      "source_page_index": -1,
+      "authors": [
+        "Siegfried Lenz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Blanche oder Das Atelier im Garten (1942)",
+      "printed_page_number": "271",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nicht gedacht soll ihrer werden?",
+      "printed_page_number": "277",
+      "source_page_index": -1,
+      "authors": [
+        "Marcel Reich-Ranicki"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das siebte Kreuz (1942)",
+      "printed_page_number": "277",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stillers j\u00fcngerer Bruder",
+      "printed_page_number": "288",
+      "source_page_index": -1,
+      "authors": [
+        "Hermann Burger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J'adore ce qui me br\u00fble oder Die Schwierigen (1943)",
+      "printed_page_number": "288",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zauberpferd am Rande des Abgrunds",
+      "printed_page_number": "295",
+      "source_page_index": -1,
+      "authors": [
+        "Renate Schostack"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Glasperlenspiel (1943)",
+      "printed_page_number": "295",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das lebensl\u00e4ngliche Schreibexperiment",
+      "printed_page_number": "304",
+      "source_page_index": -1,
+      "authors": [
+        "Eckhard Heftrich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Mann ohne Eigenschaften (1943)",
+      "printed_page_number": "304",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Faust mit W\u00fcnschelrute",
+      "printed_page_number": "312",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Schneider"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Beil von Wandsbek (1943)",
+      "printed_page_number": "312",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein Zeichen aus der Tiefe",
+      "printed_page_number": "322",
+      "source_page_index": -1,
+      "authors": [
+        "Peter von Matt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Transit (1944)",
+      "printed_page_number": "322",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wie aus der Theaterloge",
+      "printed_page_number": "329",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter Kunert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stalingrad (1945)",
+      "printed_page_number": "329",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die mythische Erbschaft der Dichtung",
+      "printed_page_number": "335",
+      "source_page_index": -1,
+      "authors": [
+        "Walter Hinderer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Tod des Vergil (1945)",
+      "printed_page_number": "335",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Alphabetisches Verzeichnis der Romanautoren mit Lebensdaten",
+      "printed_page_number": "344",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bibliographie",
+      "printed_page_number": "347",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Biographische Notizen zu den Interpreten",
+      "printed_page_number": "351",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die behandelten Romane sind nach den Erst-Erscheinungsdaten geordnet, bei den postum erschienenen B\u00fcchern nach dem Todesjahr des Autors.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

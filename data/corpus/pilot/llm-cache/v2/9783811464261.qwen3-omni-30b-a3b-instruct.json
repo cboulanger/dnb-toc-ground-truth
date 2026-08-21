@@ -1,0 +1,331 @@
+{
+  "generated_at": 1787012211.888608,
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "V",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Inhalt aller bislang erschienenen B\u00e4nde",
+      "printed_page_number": "IX",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Autorinnen und Autoren des Handbuchs",
+      "printed_page_number": "XI",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Sechster Teil",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Grundlagen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00a7 49 Demokratietheorien und verfassungsrechtlicher Demokratiebegriff",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Horst Dreier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 50 Demokratische Legitimation",
+      "printed_page_number": "59",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Seiler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 51 Verfassungsrechtliche M\u00f6glichkeiten unmittelbarer Demokratie",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [
+        "Markus M\u00f6stl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 52 Wehrhafte Demokratie",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Durner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 53 \u201eLiberale\u201c und \u201eilliberale\u201c Demokratie",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Mahlmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 54 Europa- und v\u00f6lkerrechtliche Demokratievorgaben",
+      "printed_page_number": "231",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas von Arnauld"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 55 Demokratische Legitimation der Unionsgewalt",
+      "printed_page_number": "279",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Nettesheim"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Siebter Teil",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Politische Willensbildung in der Gesellschaft",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00a7 56 Politische Willensbildung der B\u00fcrger",
+      "printed_page_number": "351",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Detlef Horn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 57 Massenmedien und soziale Medien in der Demokratie",
+      "printed_page_number": "409",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Vesting"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 58 Verb\u00e4nde und Nichtregierungsorganisationen in der Demokratie",
+      "printed_page_number": "449",
+      "source_page_index": -1,
+      "authors": [
+        "Winfried Kluth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 59 Wissenschaft und Experten in der Demokratie",
+      "printed_page_number": "493",
+      "source_page_index": -1,
+      "authors": [
+        "Laura M\u00fcnkler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Achter Teil",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Politische Parteien",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00a7 60 Parteien und Staat",
+      "printed_page_number": "531",
+      "source_page_index": -1,
+      "authors": [
+        "Julian Kr\u00fcper"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 61 Parteikonzeptionen im Rechtsvergleich",
+      "printed_page_number": "575",
+      "source_page_index": -1,
+      "authors": [
+        "Emanuel V. Towfigh"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 62 Parteienrecht",
+      "printed_page_number": "619",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Morlok"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 63 Parteienfinanzierung",
+      "printed_page_number": "653",
+      "source_page_index": -1,
+      "authors": [
+        "Foroud Shirvani"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 64 Parteiverbot",
+      "printed_page_number": "695",
+      "source_page_index": -1,
+      "authors": [
+        "Fabian Wittreck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neunter Teil",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Parlamentarismus",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00a7 65 Parlamentarisches Regierungssystem",
+      "printed_page_number": "751",
+      "source_page_index": -1,
+      "authors": [
+        "Florian Meinel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 66 Demokratische Wahl und Wahlsysteme",
+      "printed_page_number": "791",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Rossi"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 67 Wahlrecht und Wahlsysteme im Rechtsvergleich",
+      "printed_page_number": "835",
+      "source_page_index": -1,
+      "authors": [
+        "Jochen Rauber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 68 Wahlgrunds\u00e4tze und Wahlpr\u00fcfung",
+      "printed_page_number": "877",
+      "source_page_index": -1,
+      "authors": [
+        "Hermann Butzer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 69 Parlamentarische Repr\u00e4sentation und Identit\u00e4t",
+      "printed_page_number": "939",
+      "source_page_index": -1,
+      "authors": [
+        "Judith Froese"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 70 Petitionsrecht",
+      "printed_page_number": "977",
+      "source_page_index": -1,
+      "authors": [
+        "Annette Guckelberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00a7 71 Europawahl",
+      "printed_page_number": "1015",
+      "source_page_index": -1,
+      "authors": [
+        "Claus Dieter Classen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stichwortverzeichnis",
+      "printed_page_number": "1051",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

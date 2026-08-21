@@ -1,0 +1,653 @@
+{
+  "generated_at": 1787019133.737163,
+  "entries": [
+    {
+      "title": "Vorwort zur 2. Auflage",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Im Begriff, sich zu ver\u00e4ndern. Zur Einleitung in das p\u00e4dagogische Vokabular",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Markus Rieger-Ladich",
+        "Milena Feldmann",
+        "Carlotta Vof\u0303",
+        "und Kai Wortmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Adressierung",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Anne Sophie Otzen",
+        "und Nadine Rose"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Aktivismus",
+      "printed_page_number": "23",
+      "source_page_index": -1,
+      "authors": [
+        "Carlotta Vof\u0303"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anerkennung",
+      "printed_page_number": "32",
+      "source_page_index": -1,
+      "authors": [
+        "Henning R\u00f6hr"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anthropoz\u00e4n",
+      "printed_page_number": "40",
+      "source_page_index": -1,
+      "authors": [
+        "Christoph Wulf"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00c4sthetik",
+      "printed_page_number": "48",
+      "source_page_index": -1,
+      "authors": [
+        "Iris Laner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autorit\u00e4t",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [
+        "Kerstin Jergus"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bildsamkeit",
+      "printed_page_number": "65",
+      "source_page_index": -1,
+      "authors": [
+        "Elmar Anhalt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bildung",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Christoph Koller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Biographie",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [
+        "Bettina Dausien"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dekolonialit\u00e4t",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [
+        "Edgar Forster (\u2020)"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Demokratie",
+      "printed_page_number": "97",
+      "source_page_index": -1,
+      "authors": [
+        "Micha Brumlik"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dialektik",
+      "printed_page_number": "106",
+      "source_page_index": -1,
+      "authors": [
+        "Anna-Lynn Ridderbusch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Differenz",
+      "printed_page_number": "114",
+      "source_page_index": -1,
+      "authors": [
+        "Paul Mecheril",
+        "und Melanie Pl\u00f6\u00dfer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Digitalisierung",
+      "printed_page_number": "122",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Karcher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Diskurs",
+      "printed_page_number": "130",
+      "source_page_index": -1,
+      "authors": [
+        "Charlotte Spellenberg",
+        "und Daniel Wrana"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Emanzipation",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Grabau"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Emotionen",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg Zirfas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Empowerment",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [
+        "Meike Sophia Baader"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erkenntnispolitik",
+      "printed_page_number": "162",
+      "source_page_index": -1,
+      "authors": [
+        "Richard Kubac"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erziehung",
+      "printed_page_number": "170",
+      "source_page_index": -1,
+      "authors": [
+        "Arnd-Michael Nohl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erziehungswissenschaft",
+      "printed_page_number": "178",
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Ricken"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fortschritt",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [
+        "Roland Reichenbach"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gender",
+      "printed_page_number": "193",
+      "source_page_index": -1,
+      "authors": [
+        "Christine Thon",
+        "und Juno Frauke Grenz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Generationen",
+      "printed_page_number": "200",
+      "source_page_index": -1,
+      "authors": [
+        "Pia Rojahn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geschichte",
+      "printed_page_number": "209",
+      "source_page_index": -1,
+      "authors": [
+        "Anne Rohstock"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gewalt",
+      "printed_page_number": "217",
+      "source_page_index": -1,
+      "authors": [
+        "Sabine Andresen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Habitus",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [
+        "Flora Petrik"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hegemonie",
+      "printed_page_number": "233",
+      "source_page_index": -1,
+      "authors": [
+        "Jule Janczyk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Identit\u00e4tspolitik",
+      "printed_page_number": "238",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Jannis M\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inklusion/Exklusion",
+      "printed_page_number": "246",
+      "source_page_index": -1,
+      "authors": [
+        "Marcus Emmerich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Intersektionalit\u00e4t",
+      "printed_page_number": "254",
+      "source_page_index": -1,
+      "authors": [
+        "Katharina Walgenbach"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kanon",
+      "printed_page_number": "262",
+      "source_page_index": -1,
+      "authors": [
+        "Johanna Brauns",
+        "und Katharina Vogel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Klasse",
+      "printed_page_number": "270",
+      "source_page_index": -1,
+      "authors": [
+        "Carlo Heimisch",
+        "und Linn\u00e9a Hoffmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kritik",
+      "printed_page_number": "277",
+      "source_page_index": -1,
+      "authors": [
+        "Kai Wortmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kulturelle Aneignung",
+      "printed_page_number": "286",
+      "source_page_index": -1,
+      "authors": [
+        "Milena Feldmann",
+        "und Carlotta Vof\u0303"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Leiblichkeit",
+      "printed_page_number": "294",
+      "source_page_index": -1,
+      "authors": [
+        "K\u00e4te Meyer-Drawe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lernen",
+      "printed_page_number": "303",
+      "source_page_index": -1,
+      "authors": [
+        "Malte Brinkmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Macht",
+      "printed_page_number": "313",
+      "source_page_index": -1,
+      "authors": [
+        "Christiane Thompson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Methoden",
+      "printed_page_number": "321",
+      "source_page_index": -1,
+      "authors": [
+        "Kai Wortmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "M\u00fcndigkeit",
+      "printed_page_number": "330",
+      "source_page_index": -1,
+      "authors": [
+        "Carsten B\u00fcnger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Normativit\u00e4t",
+      "printed_page_number": "338",
+      "source_page_index": -1,
+      "authors": [
+        "Thorsten Fuchs"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00d6konomisierung",
+      "printed_page_number": "346",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas H\u00f6hne"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Othering",
+      "printed_page_number": "353",
+      "source_page_index": -1,
+      "authors": [
+        "Phries Sophie K\u00fcnstler",
+        "und Jessica Mass\u00f3chua"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Privileg",
+      "printed_page_number": "359",
+      "source_page_index": -1,
+      "authors": [
+        "Markus Rieger-Ladich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Queer",
+      "printed_page_number": "367",
+      "source_page_index": -1,
+      "authors": [
+        "Maximilian Waldmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rassismuskritik",
+      "printed_page_number": "376",
+      "source_page_index": -1,
+      "authors": [
+        "Judith Jording",
+        "und Astrid Messerschmidt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Reform",
+      "printed_page_number": "384",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Oelkers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Relationalit\u00e4t",
+      "printed_page_number": "390",
+      "source_page_index": -1,
+      "authors": [
+        "Madeleine Scherrer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Scham",
+      "printed_page_number": "397",
+      "source_page_index": -1,
+      "authors": [
+        "Veronika Magyar-Haas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Scheitern",
+      "printed_page_number": "405",
+      "source_page_index": -1,
+      "authors": [
+        "Saskia Langer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schuld",
+      "printed_page_number": "413",
+      "source_page_index": -1,
+      "authors": [
+        "Milena Feldmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Situiertheit",
+      "printed_page_number": "422",
+      "source_page_index": -1,
+      "authors": [
+        "Christine Rabl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Solidarit\u00e4t",
+      "printed_page_number": "430",
+      "source_page_index": -1,
+      "authors": [
+        "Eva-Maria Klinkisch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Souver\u00e4nit\u00e4t",
+      "printed_page_number": "439",
+      "source_page_index": -1,
+      "authors": [
+        "Daniel Lieb"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stil",
+      "printed_page_number": "446",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Oelkers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Subjektivierung",
+      "printed_page_number": "453",
+      "source_page_index": -1,
+      "authors": [
+        "Markus Rieger-Ladich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Theorie",
+      "printed_page_number": "461",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Meseth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Universit\u00e4t",
+      "printed_page_number": "469",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Schildermans"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Utopie",
+      "printed_page_number": "478",
+      "source_page_index": -1,
+      "authors": [
+        "Sophia Schorr"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verletzbarkeit",
+      "printed_page_number": "484",
+      "source_page_index": -1,
+      "authors": [
+        "Angela Janssen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wissen",
+      "printed_page_number": "492",
+      "source_page_index": -1,
+      "authors": [
+        "Hanno Su"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autor*innen",
+      "printed_page_number": "500",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "entries": [
+    {
+      "title": "Introduction",
+      "authors": [
+        "Kirk Ormand"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "PART I Text and Author",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "The Textual Transmission of Sophocles' Dramas",
+      "authors": [
+        "P. J. Finglass"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "List of Illustrations",
+      "authors": [],
+      "printed_page_number": "x",
+      "skip": true
+    },
+    {
+      "title": "List of Abbreviations",
+      "authors": [],
+      "printed_page_number": "xi",
+      "skip": true
+    },
+    {
+      "title": "Notes on Contributors",
+      "authors": [],
+      "printed_page_number": "xv",
+      "skip": true
+    },
+    {
+      "title": "Acknowledgments",
+      "authors": [],
+      "printed_page_number": "xx",
+      "skip": true
+    },
+    {
+      "title": "Sophocles' Biography",
+      "authors": [
+        "Ruth Scodel"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "Aeschylus, Sophocles, Euripides",
+      "authors": [
+        "John Davidson"
+      ],
+      "printed_page_number": "38",
+      "skip": false
+    },
+    {
+      "title": "PART II The Plays and the Fragments",
+      "authors": [],
+      "printed_page_number": "53",
+      "skip": true
+    },
+    {
+      "title": "Antigone",
+      "authors": [
+        "Andr\u00e9 Lardinois"
+      ],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "Polyphonic Ajax",
+      "authors": [
+        "Peter Burian"
+      ],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "Oedipus Tyrannus",
+      "authors": [
+        "Vayos Liapis"
+      ],
+      "printed_page_number": "84",
+      "skip": false
+    },
+    {
+      "title": "Electra",
+      "authors": [
+        "Francis Dunn"
+      ],
+      "printed_page_number": "98",
+      "skip": false
+    },
+    {
+      "title": "The Divided Worlds of Sophocles' Women of Trachis",
+      "authors": [
+        "Margaret Rachel Kitzinger"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "The Philoctetes of Sophocles",
+      "authors": [
+        "Paul Woodruff"
+      ],
+      "printed_page_number": "126",
+      "skip": false
+    },
+    {
+      "title": "Last Things: Oedipus at Colonus and the End of Tragedy",
+      "authors": [
+        "Thomas Van Nortwick"
+      ],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "Sophocles' Ichneutae or How to Write a Satyr Play",
+      "authors": [
+        "Willeon Slenders"
+      ],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "Sophoclean Fragments",
+      "authors": [
+        "Carolyn Habermann"
+      ],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "PART III Sophoclean Techniques",
+      "authors": [],
+      "printed_page_number": "185",
+      "skip": true
+    },
+    {
+      "title": "Sophocles Didaskalos",
+      "authors": [
+        "C. W. Marshall"
+      ],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "Poetic Speakers in Sophocles",
+      "authors": [
+        "Sarah H. Nooter"
+      ],
+      "printed_page_number": "204",
+      "skip": false
+    },
+    {
+      "title": "Sophocles' Choruses",
+      "authors": [
+        "Sheila Murnaghan"
+      ],
+      "printed_page_number": "220",
+      "skip": false
+    },
+    {
+      "title": "Lament as Speech Act in Sophocles",
+      "authors": [
+        "Casey Du\u00e9"
+      ],
+      "printed_page_number": "236",
+      "skip": false
+    },
+    {
+      "title": "PART IV Sophocles and Fifth-Century Political, Religious, and Intellectual Thought",
+      "authors": [],
+      "printed_page_number": "251",
+      "skip": true
+    },
+    {
+      "title": "Sophocles and Class",
+      "authors": [
+        "Peter W. Rose"
+      ],
+      "printed_page_number": "253",
+      "skip": false
+    },
+    {
+      "title": "Sophocles and Contemporary Politics",
+      "authors": [
+        "Robin Osborne"
+      ],
+      "printed_page_number": "270",
+      "skip": false
+    },
+    {
+      "title": "Sophocles and Athenian Law",
+      "authors": [
+        "Edward M. Harris"
+      ],
+      "printed_page_number": "287",
+      "skip": false
+    },
+    {
+      "title": "The Necessity and Limits of Deliberation in Sophocles' Theban Plays",
+      "authors": [
+        "Edith Hall"
+      ],
+      "printed_page_number": "301",
+      "skip": false
+    },
+    {
+      "title": "Heroic Pharmacology: Sophocles and the Metaphors of Greek Medical Thought",
+      "authors": [
+        "Robin Mitchell-Boyask"
+      ],
+      "printed_page_number": "316",
+      "skip": false
+    },
+    {
+      "title": "Sophocles and Hero Cult",
+      "authors": [
+        "Bruno Currie"
+      ],
+      "printed_page_number": "331",
+      "skip": false
+    },
+    {
+      "title": "PART V Gender and Sexuality",
+      "authors": [],
+      "printed_page_number": "349",
+      "skip": true
+    },
+    {
+      "title": "Cutting to the Bone: Recalcitrant Bodies in Sophocles",
+      "authors": [
+        "Nancy Worman"
+      ],
+      "printed_page_number": "351",
+      "skip": false
+    },
+    {
+      "title": "Staging Mothers in Sophocles' Electra and Oedipus the King",
+      "authors": [
+        "Laura McClure"
+      ],
+      "printed_page_number": "367",
+      "skip": false
+    },
+    {
+      "title": "Marriage in Sophocles: A Problem for Social History",
+      "authors": [
+        "Cynthia Patterson"
+      ],
+      "printed_page_number": "381",
+      "skip": false
+    },
+    {
+      "title": "Masculinity and Freedom in Sophocles",
+      "authors": [
+        "Bruce M. King"
+      ],
+      "printed_page_number": "395",
+      "skip": false
+    },
+    {
+      "title": "PART VI Historical Interpretations",
+      "authors": [],
+      "printed_page_number": "409",
+      "skip": true
+    },
+    {
+      "title": "Aristotle on Sophocles",
+      "authors": [
+        "John T. Kirby"
+      ],
+      "printed_page_number": "411",
+      "skip": false
+    },
+    {
+      "title": "Sophocles and Homer",
+      "authors": [
+        "Seth L. Schein"
+      ],
+      "printed_page_number": "424",
+      "skip": false
+    },
+    {
+      "title": "Facing Up to Tragedy: Toward an Intellectual History of Sophocles in Europe from Camerarius to Nietzsche",
+      "authors": [
+        "Michael Lurie"
+      ],
+      "printed_page_number": "440",
+      "skip": false
+    },
+    {
+      "title": "Virginia Woolf, Richard Jebb, and Sophocles' Antigone",
+      "authors": [
+        "Denise Eileen McCoskey and Mary Jean Corbett"
+      ],
+      "printed_page_number": "462",
+      "skip": false
+    },
+    {
+      "title": "Freud and the Drama of Oedipal Truth",
+      "authors": [
+        "Richard H. Armstrong"
+      ],
+      "printed_page_number": "477",
+      "skip": false
+    },
+    {
+      "title": "Sophocles with Lacan",
+      "authors": [
+        "Mark Buchan"
+      ],
+      "printed_page_number": "492",
+      "skip": false
+    },
+    {
+      "title": "PART VII Influence and Imitation",
+      "authors": [],
+      "printed_page_number": "505",
+      "skip": true
+    },
+    {
+      "title": "Oedipus on Oedipus: Sophocles, Seneca, Politics, and Therapy",
+      "authors": [
+        "Alex Dressler"
+      ],
+      "printed_page_number": "507",
+      "skip": false
+    },
+    {
+      "title": "Jean Anouilh's Antigone",
+      "authors": [
+        "Jed Deppman"
+      ],
+      "printed_page_number": "523",
+      "skip": false
+    },
+    {
+      "title": "Enter Antigone, Let the Agones Begin: Sophocles' Antigone in Nineteenth-Century Greece",
+      "authors": [
+        "Gonda Van Steen"
+      ],
+      "printed_page_number": "538",
+      "skip": false
+    },
+    {
+      "title": "Tony Harrison's The Trackers of Oxyrhynchus",
+      "authors": [
+        "Hallie Rebecca Marshall"
+      ],
+      "printed_page_number": "557",
+      "skip": false
+    },
+    {
+      "title": "Black Oedipus",
+      "authors": [
+        "Emily Wilson"
+      ],
+      "printed_page_number": "572",
+      "skip": false
+    },
+    {
+      "title": "Index Locorum",
+      "authors": [],
+      "printed_page_number": "586",
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "590",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

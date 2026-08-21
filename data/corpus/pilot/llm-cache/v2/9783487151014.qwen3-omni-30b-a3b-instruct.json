@@ -1,0 +1,578 @@
+{
+  "generated_at": 1787012363.036919,
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Rebecca Grotjahn, Susanne Rode-Breymann",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Rebecca Grotjahn",
+        "Susanne Rode-Breymann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zum Geleit",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Rebecca Grotjahn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hauptteil",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Katharina Hottmann",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Katharina Hottmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Liedersingen. Eine Einleitung",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Katharina Hottmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rebecca Grotjahn",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "Rebecca Grotjahn"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Lieder singen, Lieder schreiben: Sechs deutsche Lieder op. 14 von Josephine Lang und Reinhold K\u00f6stlin",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "Rebecca Grotjahn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Katharina Hottmann",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [
+        "Katharina Hottmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zwischen empfindsamem Selbstgespr\u00e4ch und ersungener Geselligkeit: Liedgesang im Alltag des Lehrers Georg Friedrich Schumacher",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [
+        "Katharina Hottmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Berta Joncus",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Berta Joncus"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbTo Propagate Sound for Sense\u00ab: Musik in den G\u00e4rten von Ranelagh",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Berta Joncus"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Andreas M\u00fcnzmay",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas M\u00fcnzmay"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "L\u00e4ndliche P\u00e4rchen und musik\u00e4sthetischer Diskurs. Zur Konzeption des B\u00fchnenliedrepertoires von Justine Favart",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas M\u00fcnzmay"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jennifer Ronyak",
+      "printed_page_number": "93",
+      "source_page_index": -1,
+      "authors": [
+        "Jennifer Ronyak"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Anna Milder-Hauptmann's \u00bbFavorite Lied\u00ab: The Domestic Side of a Monumental Simplicity",
+      "printed_page_number": "93",
+      "source_page_index": -1,
+      "authors": [
+        "Jennifer Ronyak"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beatrix Borchard",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [
+        "Beatrix Borchard"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00d6ffentliche Intimit\u00e4t? Konzertgesang in der zweiten H\u00e4lfte des 19. Jahrhunderts",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [
+        "Beatrix Borchard"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Matthias Pasdzierny/D\u00f6rte Schmidt",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Pasdzierny",
+        "D\u00f6rte Schmidt"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbInterprets the best of Germany in song\u00ab. Auff\u00fchrungskulturen des Lieds und das Exil",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Pasdzierny",
+        "D\u00f6rte Schmidt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rubriken",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Fundst\u00fcck",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Markus Zepf",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [
+        "Markus Zepf"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "N\u00e4htischklavier",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [
+        "Markus Zepf"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inhalt",
+      "printed_page_number": "6",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Berichte",
+      "printed_page_number": "150",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Komponistinnen in Luxemburg: Helen Buchholtz (1877\u20131953) und Lou Koster (1889\u20131973). Internationale musikwissenschaftliche Tagung, Luxemburg, 4./5. Mai 2012 (Ruschitschka und Talkowski)",
+      "printed_page_number": "150",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Selbstaffirmierung und Othering in der europ\u00e4ischen Musikgeschichte. Ringvorlesung, Universit\u00e4t Basel, Herbstsemester 2012/13 (L\u00f6ffler)",
+      "printed_page_number": "152",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rezensionen",
+      "printed_page_number": "154",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "A. Ellmeier/D. Ingrisch/C. Walkensteiner-Preschl, Screenings. Wissen und Geschlecht in Musik, Theater, Film (Alisch)",
+      "printed_page_number": "154",
+      "source_page_index": -1,
+      "authors": [
+        "A. Ellmeier",
+        "D. Ingrisch",
+        "C. Walkensteiner-Preschl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "A. Ellmeier/D. Ingrisch/C. Walkensteiner-Preschl, Gender Performances. Wissen und Geschlecht in Musik, Theater, Film (Alisch)",
+      "printed_page_number": "154",
+      "source_page_index": -1,
+      "authors": [
+        "A. Ellmeier",
+        "D. Ingrisch",
+        "C. Walkensteiner-Preschl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "D. Brandenburg/Th. Seedorf, \u00bbPer ben vestir la virtuosa\u00ab. Die Oper des 18. Jahrhunderts und fr\u00fchen 19. Jahrhunderts im Spannungsfeld zwischen Komponisten und S\u00e4ngern (Bebermeier)",
+      "printed_page_number": "156",
+      "source_page_index": -1,
+      "authors": [
+        "D. Brandenburg",
+        "Th. Seedorf"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "M. Volkmann, Frauen und Popkultur. Feminismus, Cultural Studies, Gegenwartsliteratur (Bloss)",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [
+        "M. Volkmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "N. Parly, Vocal Victories. Wagner's Female Characters from Senta to Kundry (Fohr-Manthey)",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [
+        "N. Parly"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "U. Halbe-Bauer/B. Neumeister-Taroni, Er, ich & die Kunst. Die Frauen der K\u00fcnstler (Fornoff)",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [
+        "U. Halbe-Bauer",
+        "B. Neumeister-Taroni"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "L. J. Goren, You've Come a Long Way, Baby. Women, Politics, and Popular Culture (Heesch)",
+      "printed_page_number": "165",
+      "source_page_index": -1,
+      "authors": [
+        "L. J. Goren"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "K. M\u00f6ller/I. Stephan/A. Tacke, Carmen. Ein Mythos in Literatur, Film und Kunst (Hoffmann)",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [
+        "K. M\u00f6ller",
+        "I. Stephan",
+        "A. Tacke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "T. Howell/J. Hargreave/M. Rofe, Kaija Saariaho. Visions, Narratives, Dialogues (M\u00e4kel\u00e4)",
+      "printed_page_number": "168",
+      "source_page_index": -1,
+      "authors": [
+        "T. Howell",
+        "J. Hargreave",
+        "M. Rofe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "B. Kiupel, Zwischen Krieg, Liebe und Ehe. Studien zur Konstruktion von Geschlecht und Liebe in den Libretti der Hamburger G\u00e4nsemarkt-Oper (1678\u20131738) (M\u00fccke)",
+      "printed_page_number": "170",
+      "source_page_index": -1,
+      "authors": [
+        "B. Kiupel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "V. Armstrong, Technology and the Gendering of Music Education (Oberhaus)",
+      "printed_page_number": "172",
+      "source_page_index": -1,
+      "authors": [
+        "V. Armstrong"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "H. Traber, Time in Flux. Die Komponistin Ursula Mamlok (Pasdzierny)",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [
+        "H. Traber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "T. Cave, Mignon's Afterlives. Crossing Cultures from Goethe to the Twenty-First Century (Recknagel)",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [
+        "T. Cave"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "P. Franklin, Seeing Through Music. Gender and Modernism in Classical Hollywood Film Scores (Rentsch)",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [
+        "P. Franklin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inhalt",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "U. Volkhardt/W. Brandis/H.-W. Stork, Nonnen, Engel, Fabelwesen. Musikdarstellungen in den L\u00fcneburger Kl\u00f6stern (Talkner)",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [
+        "U. Volkhardt",
+        "W. Brandis",
+        "H.-W. Stork"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "S. Horlacher, \u00bbWann ist die Frau eine Frau?\u00ab \u00bbWann ist der Mann ein Mann?\u00ab. Konstruktionen von Geschlechtlichkeit von der Antike bis ins 21. Jahrhundert (Wienand)",
+      "printed_page_number": "180",
+      "source_page_index": -1,
+      "authors": [
+        "S. Horlacher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Noten- und CD-Rezensionen",
+      "printed_page_number": "182",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Miriam's Song. Werke von j\u00fcdischen Komponistinnen f\u00fcr Viola und Klavier, hg. von Bella und Semjon Kalinowsky und CD: Miriam's Song. Music by Jewish women composers, Zuk Records (Heitmann)",
+      "printed_page_number": "182",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Music of Ursula Mamlok, Vol. 1\u20134, Bridge Records (Zimmermann)",
+      "printed_page_number": "184",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bibliographie",
+      "printed_page_number": "186",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Nachtrag 2011 (Babbe)",
+      "printed_page_number": "186",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neuerscheinungen 2012 (Babbe)",
+      "printed_page_number": "186",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Autorinnen und Autoren",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "F\u00fcr die Rubriken zeichnen verantwortlich:",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Fundst\u00fcck: Rebecca Grotjahn und Martin Loeser",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [
+        "Rebecca Grotjahn",
+        "Martin Loeser"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Berichte: Nina Noeske",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [
+        "Nina Noeske"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Rezensionen: Melanie Unseld und Gesa Finke",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [
+        "Melanie Unseld",
+        "Gesa Finke"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Noten und CDs: Cornelia Bartsch und Christine Siegert",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [
+        "Cornelia Bartsch",
+        "Christine Siegert"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bibliographie: Annkatrin Babbe und Freia Hoffmann",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [
+        "Annkatrin Babbe",
+        "Freia Hoffmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

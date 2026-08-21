@@ -1,0 +1,510 @@
+{
+  "entries": [
+    {
+      "title": "Contents",
+      "authors": [],
+      "printed_page_number": "VIII",
+      "skip": true
+    },
+    {
+      "title": "About the Authors",
+      "authors": [
+        "Juliet Bourke",
+        "Mustafa F. Özbilgin"
+      ],
+      "printed_page_number": "XI",
+      "skip": true
+    },
+    {
+      "title": "Introduction",
+      "authors": [
+        "Juliet Bourke",
+        "Mustafa F. Özbilgin"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Part 1: Inclusive Leadership and the Macro Picture",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Chapter 1",
+      "authors": [
+        "Juliet Bourke",
+        "Andrea Titus"
+      ],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "Enacting Inclusive Leadership in the Age of AI",
+      "authors": [
+        "Juliet Bourke",
+        "Andrea Titus"
+      ],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "Chapter 2",
+      "authors": [
+        "Kamil Mamak"
+      ],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "Inclusive Leadership and the Representational Issues of Human-Like Robots",
+      "authors": [
+        "Kamil Mamak"
+      ],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "Chapter 3",
+      "authors": [
+        "Olivia Kyriakidou"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Bridging the Gap Between Ethics and Algorithms: Inclusive Leadership in Big Data Environments",
+      "authors": [
+        "Olivia Kyriakidou"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Chapter 4",
+      "authors": [
+        "Joana Vassilopoulou",
+        "Olivia Kyriakidou",
+        "Lefteris Kretsos"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Inclusive Leadership in Remote and Hybrid Work: A Cross-National Analysis of Organisational Practices",
+      "authors": [
+        "Joana Vassilopoulou",
+        "Olivia Kyriakidou",
+        "Lefteris Kretsos"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Part 2: Inclusive Leadership and Social Change",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Chapter 5",
+      "authors": [
+        "Mahan Poorhosseinzadeh",
+        "Mulyadi Robin"
+      ],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "Inclusive Leadership and Social Movements: From Heroic Models to Leadership for Equality",
+      "authors": [
+        "Mahan Poorhosseinzadeh",
+        "Mulyadi Robin"
+      ],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "Chapter 6",
+      "authors": [
+        "Lailani L. Alcantara",
+        "Casper H. Claassen",
+        "David S.A. Guttormsen",
+        "Yeanhee Choi",
+        "Mark B. Milstein"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "Inclusive Leadership Through Collective Action: Evidence from B Lab and the B Corp Movement",
+      "authors": [
+        "Lailani L. Alcantara",
+        "Casper H. Claassen",
+        "David S.A. Guttormsen",
+        "Yeanhee Choi",
+        "Mark B. Milstein"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "Chapter 7",
+      "authors": [
+        "Cihat Erbil",
+        "Nalan Oya San Keskin"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Inclusive Leadership for a Plural Ecology: Epistemic Justice, the Future of Biodiversity Governance, and a New Agenda for Inclusive Leadership",
+      "authors": [
+        "Cihat Erbil",
+        "Nalan Oya San Keskin"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Chapter 8",
+      "authors": [
+        "Mustafa F. Özbilgin"
+      ],
+      "printed_page_number": "151",
+      "skip": false
+    },
+    {
+      "title": "Inclusive Leadership and the New Deal Between Humans, Nature, and Technology",
+      "authors": [
+        "Mustafa F. Özbilgin"
+      ],
+      "printed_page_number": "151",
+      "skip": false
+    },
+    {
+      "title": "Part 3: Inclusive Leadership at the Organisational Level",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Chapter 9",
+      "authors": [
+        "Rifat Kamasak",
+        "Fulya Acikgoz"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "Mapping the Inclusive Leadership Landscape: Pathways to Organisational Effectiveness, Innovation, and Sustainability",
+      "authors": [
+        "Rifat Kamasak",
+        "Fulya Acikgoz"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "Chapter 10",
+      "authors": [
+        "Bahar Moraligil",
+        "Zeynep Aycan"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "From Margins to Center: Rethinking Leadership Emergence Through Reluctance and Inclusion",
+      "authors": [
+        "Bahar Moraligil",
+        "Zeynep Aycan"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "Chapter 11",
+      "authors": [
+        "Florence Villesèche"
+      ],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "Leading Inclusion in Contemporary Teams: Integrating Social Psychology and Network Perspectives",
+      "authors": [
+        "Florence Villesèche"
+      ],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "Chapter 12",
+      "authors": [
+        "Arabella Steel"
+      ],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "Inclusion as Strategic Advantage: Harnessing Asia Pacific Board Leadership for Strategic Opportunity",
+      "authors": [
+        "Arabella Steel"
+      ],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "Part 4: Inclusive Leadership at the Individual Level",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Chapter 13",
+      "authors": [
+        "Juliet Bourke",
+        "Mustafa Özbilgin",
+        "Lynn Shore",
+        "Marios Samdanis"
+      ],
+      "printed_page_number": "239",
+      "skip": false
+    },
+    {
+      "title": "Inclusive Co-worker Behaviours as an Antecedent to Group Inclusion and a Preliminary View on the Role of Inclusive Leaders",
+      "authors": [
+        "Juliet Bourke",
+        "Mustafa Özbilgin",
+        "Lynn Shore",
+        "Marios Samdanis"
+      ],
+      "printed_page_number": "239",
+      "skip": false
+    },
+    {
+      "title": "Chapter 14",
+      "authors": [
+        "Aybike Mergen",
+        "Çağla Güven"
+      ],
+      "printed_page_number": "265",
+      "skip": false
+    },
+    {
+      "title": "The Ripple Effect: How Inclusive Leaders Create Horizontal Influence and Transform Peer Relationships",
+      "authors": [
+        "Aybike Mergen",
+        "Çağla Güven"
+      ],
+      "printed_page_number": "265",
+      "skip": false
+    },
+    {
+      "title": "Chapter 15",
+      "authors": [
+        "Ayfer Veli Korkmaz",
+        "Marloes van Engen",
+        "Robin Bauwens",
+        "René Schalk",
+        "Lena Knappert"
+      ],
+      "printed_page_number": "283",
+      "skip": false
+    },
+    {
+      "title": "Inclusive Leadership and Customer Orientation",
+      "authors": [
+        "Ayfer Veli Korkmaz",
+        "Marloes van Engen",
+        "Robin Bauwens",
+        "René Schalk",
+        "Lena Knappert"
+      ],
+      "printed_page_number": "283",
+      "skip": false
+    },
+    {
+      "title": "Chapter 16",
+      "authors": [
+        "Dorota Marsh",
+        "Martyna Śliwa"
+      ],
+      "printed_page_number": "301",
+      "skip": false
+    },
+    {
+      "title": "The Dark Side of Inclusive Leadership",
+      "authors": [
+        "Dorota Marsh",
+        "Martyna Śliwa"
+      ],
+      "printed_page_number": "301",
+      "skip": false
+    },
+    {
+      "title": "Part 5: Global Contexts of Inclusive Leadership",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Africa",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Chapter 17",
+      "authors": [
+        "Kurt April"
+      ],
+      "printed_page_number": "321",
+      "skip": false
+    },
+    {
+      "title": "The Seven Pillars of the African Inclusive Leadership Model: Decolonial and Majority World Perspectives",
+      "authors": [
+        "Kurt April"
+      ],
+      "printed_page_number": "321",
+      "skip": false
+    },
+    {
+      "title": "Asia Pacific",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Chapter 18",
+      "authors": [
+        "Monica Pham"
+      ],
+      "printed_page_number": "341",
+      "skip": false
+    },
+    {
+      "title": "Inclusive Leadership Across Cultures: Insights from East and West",
+      "authors": [
+        "Monica Pham"
+      ],
+      "printed_page_number": "341",
+      "skip": false
+    },
+    {
+      "title": "Chapter 19",
+      "authors": [
+        "Khushbu Malhotra"
+      ],
+      "printed_page_number": "363",
+      "skip": false
+    },
+    {
+      "title": "Leading Without Borders: A Practical Guide for Building Inclusive Global Teams",
+      "authors": [
+        "Khushbu Malhotra"
+      ],
+      "printed_page_number": "363",
+      "skip": false
+    },
+    {
+      "title": "Latin America",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Chapter 20",
+      "authors": [
+        "Miguel Morillas"
+      ],
+      "printed_page_number": "383",
+      "skip": false
+    },
+    {
+      "title": "Inclusive Leadership in Latin America: Insights from DEI Professionals",
+      "authors": [
+        "Miguel Morillas"
+      ],
+      "printed_page_number": "383",
+      "skip": false
+    },
+    {
+      "title": "EMEA",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Chapter 21",
+      "authors": [
+        "Veysi Tanriverdi"
+      ],
+      "printed_page_number": "403",
+      "skip": false
+    },
+    {
+      "title": "Shared Human Identity: A Strategic Model of Inclusive Leadership in EMEA",
+      "authors": [
+        "Veysi Tanriverdi"
+      ],
+      "printed_page_number": "403",
+      "skip": false
+    },
+    {
+      "title": "Chapter 22",
+      "authors": [
+        "Soad Louissi",
+        "Josiena Gotzsch",
+        "Alice Bodin",
+        "Aya Rharbi"
+      ],
+      "printed_page_number": "419",
+      "skip": false
+    },
+    {
+      "title": "Empowering Students Through Inclusive Leadership: A Case Study of DEI Initiatives at a French Higher Education Institution",
+      "authors": [
+        "Soad Louissi",
+        "Josiena Gotzsch",
+        "Alice Bodin",
+        "Aya Rharbi"
+      ],
+      "printed_page_number": "419",
+      "skip": false
+    },
+    {
+      "title": "North America",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Chapter 23",
+      "authors": [
+        "Rafia Faiz"
+      ],
+      "printed_page_number": "441",
+      "skip": false
+    },
+    {
+      "title": "Inclusive Leadership in North America: A Multilevel Ethics-of-Witnessing Approach",
+      "authors": [
+        "Rafia Faiz"
+      ],
+      "printed_page_number": "441",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "457",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

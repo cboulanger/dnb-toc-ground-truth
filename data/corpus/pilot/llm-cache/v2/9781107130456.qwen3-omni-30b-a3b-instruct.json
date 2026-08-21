@@ -1,0 +1,361 @@
+{
+  "generated_at": 1787018603.4020119,
+  "entries": [
+    {
+      "title": "List of Figures",
+      "printed_page_number": "xi",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of Tables",
+      "printed_page_number": "xix",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of Contributors",
+      "printed_page_number": "xxii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Pedagogical Guide",
+      "printed_page_number": "xxiii",
+      "source_page_index": -1,
+      "authors": [
+        "Robert D. Van Valin, Jr."
+      ],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Introduction",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Delia Bentley"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part One Overview",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1 Principles of Role and Reference Grammar",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Robert D. Van Valin, Jr."
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part Two Topics in RRG: Simple Sentences",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2 Lexical and Grammatical Categories in RRG",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [
+        "John M. Peterson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 A Conceptually Oriented Approach to Semantic Composition in RRG",
+      "printed_page_number": "218",
+      "source_page_index": -1,
+      "authors": [
+        "Ricardo Mairal Us\u00f3n",
+        "Pamela Faber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Semantic Macroroles",
+      "printed_page_number": "242",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Kailuweit"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Grammatical Relations",
+      "printed_page_number": "269",
+      "source_page_index": -1,
+      "authors": [
+        "Randy J. LaPolla"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Argument Structure Alternations",
+      "printed_page_number": "292",
+      "source_page_index": -1,
+      "authors": [
+        "James K. Watters"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Case Assignment",
+      "printed_page_number": "318",
+      "source_page_index": -1,
+      "authors": [
+        "Wataru Nakamura"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Morphology in RRG: The Layered Structure of the Word, Inflection and Derivation",
+      "printed_page_number": "368",
+      "source_page_index": -1,
+      "authors": [
+        "Francisco J. Cort\u00e9s-Rodr\u00edguez"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 Adverbs, Mimetics and Ideophones",
+      "printed_page_number": "403",
+      "source_page_index": -1,
+      "authors": [
+        "Kiyoko Toratani"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Adposition Assignment and Adpositional Phrase Types in RRG",
+      "printed_page_number": "428",
+      "source_page_index": -1,
+      "authors": [
+        "Sergio Ib\u00e1\u00f1ez Cerda"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11 The RRG Approach to Information Structure",
+      "printed_page_number": "456",
+      "source_page_index": -1,
+      "authors": [
+        "Delia Bentley"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12 Information Structure and Argument Linking",
+      "printed_page_number": "488",
+      "source_page_index": -1,
+      "authors": [
+        "Anja Latrouite",
+        "Robert D. Van Valin, Jr."
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part Three Topics in RRG: Complex Sentences",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "13 The Structure and Semantics of Complex Sentences",
+      "printed_page_number": "525",
+      "source_page_index": -1,
+      "authors": [
+        "Toshio Ohori"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14 Linking Syntax and Semantics in Adverbial (Adjoined) Clauses",
+      "printed_page_number": "557",
+      "source_page_index": -1,
+      "authors": [
+        "Lili\u00e1n Guerrero"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15 Cleft Sentences and Relative Clauses",
+      "printed_page_number": "591",
+      "source_page_index": -1,
+      "authors": [
+        "Luis Par\u00eds"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16 Extraction Restrictions in Complex Sentences",
+      "printed_page_number": "616",
+      "source_page_index": -1,
+      "authors": [
+        "Mitsuaki Shimojo"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part Four Applications of RRG",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "17 Role and Reference Grammar and Diachronic Syntax",
+      "printed_page_number": "647",
+      "source_page_index": -1,
+      "authors": [
+        "Ranko Matasovi\u0107"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "18 Functional Acquisition Processes in Child Language: Links to Role and Reference Grammar",
+      "printed_page_number": "666",
+      "source_page_index": -1,
+      "authors": [
+        "Richard M. Weist"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "19 Grammatical Aspects of Language Processing in the Brain: A Role and Reference Grammar Perspective",
+      "printed_page_number": "693",
+      "source_page_index": -1,
+      "authors": [
+        "Robert D. Van Valin, Jr."
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "20 Formalization of RRG Syntax",
+      "printed_page_number": "737",
+      "source_page_index": -1,
+      "authors": [
+        "Laura Kallmeyer",
+        "Rainer Osswald"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "21 Computational Implementation and Applications of Role and Reference Grammar",
+      "printed_page_number": "785",
+      "source_page_index": -1,
+      "authors": [
+        "Brian Nolan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part Five Grammatical Sketches",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "22 A Grammatical Sketch of Cheyenne (Plains Algonquian, USA)",
+      "printed_page_number": "823",
+      "source_page_index": -1,
+      "authors": [
+        "Avelino Corral Esteban"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "23 A Grammatical Sketch of Yimas (Lower Sepik, Papua New Guinea)",
+      "printed_page_number": "861",
+      "source_page_index": -1,
+      "authors": [
+        "William A. Foley"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "24 A Grammatical Sketch of Avatime (Kwa, Niger-Congo, Ghana)",
+      "printed_page_number": "889",
+      "source_page_index": -1,
+      "authors": [
+        "Saskia van Putten",
+        "Rebecca Defina"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "25 A Grammatical Sketch of Amele (Papuan, Papua New Guinea)",
+      "printed_page_number": "914",
+      "source_page_index": -1,
+      "authors": [
+        "John R. Roberts"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "26 Case and Voice in Amis (Austronesian, Taiwan)",
+      "printed_page_number": "954",
+      "source_page_index": -1,
+      "authors": [
+        "Joy J. Wu"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "983",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

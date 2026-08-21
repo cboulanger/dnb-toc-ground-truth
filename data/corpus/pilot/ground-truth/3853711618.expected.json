@@ -1,0 +1,122 @@
+{
+  "entries": [
+    {
+      "title": "Einleitung",
+      "authors": [
+        "Walter Schicho"
+      ],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Politische Systeme afrikanischer Gesellschaften: Konzentrationsprozesse, Konsolidierung und »Modernisierung« im 19. Jahrhundert",
+      "authors": [
+        "Leonhard Harding"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Das Ausgreifen der Weltwirtschaft",
+      "authors": [
+        "Leonhard Harding"
+      ],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "Die islamischen Revolutionen in Westafrika",
+      "authors": [
+        "Roman Loimeier"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "Sklavenhandel, Sklaverei und legitimer Handel",
+      "authors": [
+        "Albert Wirz"
+      ],
+      "printed_page_number": "70",
+      "skip": false
+    },
+    {
+      "title": "Nordafrika im 19. Jahrhundert: Prozesse der »Modernisierung« von Staat, Wirtschaft und Gesellschaft",
+      "authors": [
+        "Michael H. Zach"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Der Wettlauf um Afrika",
+      "authors": [
+        "Petrus Agricola"
+      ],
+      "printed_page_number": "110",
+      "skip": false
+    },
+    {
+      "title": "Arbeit und Wandel der Geschlechterverhältnisse in der Kolonialzeit",
+      "authors": [
+        "Ingeborg Grau"
+      ],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "Interaktion afrikanischer Gesellschaften mit dem kolonialen System",
+      "authors": [
+        "Ingeborg Grau"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "Widerstand, Kooperation und Nationalismus. Afrikanische Politik in der Kolonialzeit zwischen den 1880er- und 1950er-Jahren",
+      "authors": [
+        "Andreas Eckert"
+      ],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "Von der Kolonie zur Souveränität: Aufbruchsstimmung, Hoffnung, neue Entwürfe",
+      "authors": [
+        "Walter Schicho"
+      ],
+      "printed_page_number": "185",
+      "skip": false
+    },
+    {
+      "title": "Das Scheitern von Demokratie und Staat",
+      "authors": [
+        "Walter Schicho"
+      ],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "Südliches Afrika: Politik, Wirtschaft, Gesellschaft im 20. Jahrhundert",
+      "authors": [
+        "Walter Sauer"
+      ],
+      "printed_page_number": "241",
+      "skip": false
+    },
+    {
+      "title": "Chronologie",
+      "authors": [],
+      "printed_page_number": "267",
+      "skip": true
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "279",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

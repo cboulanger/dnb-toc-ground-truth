@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [
+        "Siegmar Mosdorf"
+      ],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Zukunft der Arbeit",
+      "authors": [
+        "Franz-Josef Radermacher"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Telearbeit – Ein Vorgeschmack auf die Arbeit der Zukunft",
+      "authors": [
+        "Werner B. Korte"
+      ],
+      "printed_page_number": "74",
+      "skip": false
+    },
+    {
+      "title": "Virtuelle Unternehmensstrukturen",
+      "authors": [
+        "Josephine Hofmann"
+      ],
+      "printed_page_number": "83",
+      "skip": false
+    },
+    {
+      "title": "Digitalisierung der Arbeitswelt",
+      "authors": [
+        "Kurt van Haaren",
+        "Michael Schwemmle"
+      ],
+      "printed_page_number": "98",
+      "skip": false
+    },
+    {
+      "title": "Virtuelle Arbeitsformen und die Flexibilisierung des industriellen Prinzips",
+      "authors": [
+        "Welf Schröter"
+      ],
+      "printed_page_number": "110",
+      "skip": false
+    },
+    {
+      "title": "Die Modernisierung der deutschen Volkswirtschaft. Technologie- und Innovationspolitik",
+      "authors": [
+        "Dieter Klumpp"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "Die Rolle von Papierdokumenten und deren Verarbeitung im Informationszeitalter",
+      "authors": [
+        "Andreas Dengel"
+      ],
+      "printed_page_number": "140",
+      "skip": false
+    },
+    {
+      "title": "Wissensmanagement: Pflege und Nutzung des intellektuellen Kapitals eines Unternehmens",
+      "authors": [
+        "Knut Hinkelmann",
+        "Werner Weiss"
+      ],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "187",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

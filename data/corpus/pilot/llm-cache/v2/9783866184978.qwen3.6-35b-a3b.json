@@ -1,0 +1,53 @@
+{
+  "generated_at": 1787022431.29524,
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "III",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Total Quality Management und Diversity Management im Vergleich",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Alice von Berg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Diversity Management in St\u00e4dten",
+      "printed_page_number": "37",
+      "source_page_index": -1,
+      "authors": [
+        "Eike Stratmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Diversity Management in S\u00fcdafrika",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [
+        "Annalena D\u00f6ring"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Diversity Management an deutschen Hochschulen \u2013 die Auswirkungen von Diverstit\u00e4t auf Bildungsprozesse",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "Imke Bu\u00df"
+      ],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

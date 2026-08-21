@@ -1,0 +1,315 @@
+{
+  "entries": [
+    {
+      "title": "Politikwissenschaftliche Einstellungs- und Verhaltensforschung",
+      "authors": [
+        "Oscar W. Gabriel",
+        "J\u00fcrgen Maier",
+        "Thorsten Faas"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": "17",
+      "skip": true
+    },
+    {
+      "title": "Prozesse der Beschaffung und Verarbeitung politischer Informationen",
+      "authors": [
+        "Constanze Beierlein",
+        "Axel Burger"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "Interpersonale Kommunikation",
+      "authors": [
+        "R\u00fcdiger Schmitt-Beck",
+        "Anne Sch\u00e4fer"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "Massenkommunikation",
+      "authors": [
+        "Christian Schemer",
+        "Stefan Gei\u00df"
+      ],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "Wahlkampfkommunikation",
+      "authors": [
+        "Jakob-Moritz Eberl",
+        "Hajo G. Boomgaarden"
+      ],
+      "printed_page_number": "164",
+      "skip": false
+    },
+    {
+      "title": "Kommunikation auf sozialen Netzwerkplattformen",
+      "authors": [
+        "Andreas Jungherr"
+      ],
+      "printed_page_number": "184",
+      "skip": false
+    },
+    {
+      "title": "Wertorientierungen und Wertewandel",
+      "authors": [
+        "Philipp Scherer",
+        "Sigrid Ro\u00dfteutscher"
+      ],
+      "printed_page_number": "209",
+      "skip": false
+    },
+    {
+      "title": "Einstellungen zur Demokratie",
+      "authors": [
+        "Oscar W. Gabriel"
+      ],
+      "printed_page_number": "230",
+      "skip": false
+    },
+    {
+      "title": "Politisches Vertrauen",
+      "authors": [
+        "Sonja Zmerli"
+      ],
+      "printed_page_number": "248",
+      "skip": false
+    },
+    {
+      "title": "Kognitives politisches Engagement",
+      "authors": [
+        "Bettina Westle"
+      ],
+      "printed_page_number": "273",
+      "skip": false
+    },
+    {
+      "title": "Extremismus",
+      "authors": [
+        "Kai Arzheimer"
+      ],
+      "printed_page_number": "296",
+      "skip": false
+    },
+    {
+      "title": "Policy-Orientierungen",
+      "authors": [
+        "Eva-Maria Tr\u00fcdinger"
+      ],
+      "printed_page_number": "309",
+      "skip": false
+    },
+    {
+      "title": "Wahlbeteiligung",
+      "authors": [
+        "Markus Steinbrecher"
+      ],
+      "printed_page_number": "327",
+      "skip": false
+    },
+    {
+      "title": "Beteiligung an direktdemokratischen Verfahren",
+      "authors": [
+        "Adrian Vatter",
+        "Thomas Milic",
+        "Bianca Rousselot"
+      ],
+      "printed_page_number": "348",
+      "skip": false
+    },
+    {
+      "title": "15. Partizipation im Rahmen der parteienstaatlichen Demokratie",
+      "authors": [
+        "Markus Klein"
+      ],
+      "printed_page_number": "376",
+      "skip": false
+    },
+    {
+      "title": "16. Politischer Protest und Konsum",
+      "authors": [
+        "Jan W. van Deth",
+        "Carolin Zorell"
+      ],
+      "printed_page_number": "393",
+      "skip": false
+    },
+    {
+      "title": "17. Deliberative Beteiligungsformen",
+      "authors": [
+        "Claudia Landwehr"
+      ],
+      "printed_page_number": "413",
+      "skip": false
+    },
+    {
+      "title": "Soziale Konflikte, sozialer Wandel, sozialer Kontext und W\u00e4hlerverhalten",
+      "authors": [
+        "Marc Debus",
+        "Jochen M\u00fcller"
+      ],
+      "printed_page_number": "437",
+      "skip": false
+    },
+    {
+      "title": "Parteidentifikation: Konzeptionelle Debatten und empirische Befunde",
+      "authors": [
+        "Martin Kroh"
+      ],
+      "printed_page_number": "458",
+      "skip": false
+    },
+    {
+      "title": "Kandidatenorientierungen und Wahlentscheidung",
+      "authors": [
+        "Dieter Obr"
+      ],
+      "printed_page_number": "480",
+      "skip": false
+    },
+    {
+      "title": "Issue Voting und Economic Voting",
+      "authors": [
+        "Thorsten Faas",
+        "Arndt Leininger"
+      ],
+      "printed_page_number": "502",
+      "skip": false
+    },
+    {
+      "title": "Kognitive Prozesse und W\u00e4hlerverhalten",
+      "authors": [
+        "Alexander Jedinger"
+      ],
+      "printed_page_number": "527",
+      "skip": false
+    },
+    {
+      "title": "Strategisches W\u00e4hlen",
+      "authors": [
+        "Evelyn Bytzek"
+      ],
+      "printed_page_number": "554",
+      "skip": false
+    },
+    {
+      "title": "Nebenwahlen",
+      "authors": [
+        "Kerstin V\u00f6lkli",
+        "Rebekka Heyme"
+      ],
+      "printed_page_number": "572",
+      "skip": false
+    },
+    {
+      "title": "Experimente",
+      "authors": [
+        "Sascha Huber"
+      ],
+      "printed_page_number": "593",
+      "skip": false
+    },
+    {
+      "title": "Implizite politische Einstellungsmessung",
+      "authors": [
+        "Isabella Bablok",
+        "Anna Baumert",
+        "Michaela Maier"
+      ],
+      "printed_page_number": "615",
+      "skip": false
+    },
+    {
+      "title": "Methoden zur Messung von Informationsverarbeitung: Reaktionszeitmessung, real-time response-Messung, information boards",
+      "authors": [
+        "Thorsten Faas",
+        "J\u00fcrgen Maier",
+        "Jochen Mayerl"
+      ],
+      "printed_page_number": "636",
+      "skip": false
+    },
+    {
+      "title": "Skalenbasierte Messung von Informationsverarbeitung",
+      "authors": [
+        "Alice Binder",
+        "Christian von Sikorski",
+        "J\u00f6rg Matthes"
+      ],
+      "printed_page_number": "655",
+      "skip": false
+    },
+    {
+      "title": "29. Innovative Methoden der Inhaltsanalyse \u2013 automatisierte Verfahren im Fokus",
+      "authors": [
+        "Hannah Schmid-Petri",
+        "Silke Adam"
+      ],
+      "printed_page_number": "669",
+      "skip": false
+    },
+    {
+      "title": "30. Psychophysiologische Messungen",
+      "authors": [
+        "Christian Schemer",
+        "Svenja Sch\u00e4fer"
+      ],
+      "printed_page_number": "681",
+      "skip": false
+    },
+    {
+      "title": "Verzeichnis der Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "699",
+      "skip": true
+    },
+    {
+      "title": "Sachregister",
+      "authors": [],
+      "printed_page_number": "703",
+      "skip": true
+    },
+    {
+      "title": "I. Politische Kommunikation",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "II. Politische Einstellungen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "III. Politische Partizipation",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "IV. W\u00e4hlerverhalten",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "V. Methoden",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

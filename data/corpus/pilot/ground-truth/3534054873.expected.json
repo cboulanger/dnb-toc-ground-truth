@@ -1,0 +1,185 @@
+{
+  "entries": [
+    {
+      "title": "INHALT",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einleitung (1976)",
+      "authors": [
+        "Klaus-Achim Boesler"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "I. Wirtschaftsordnung und Raumordnung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Soziale Marktwirtschaft und Raumordnung (1960)",
+      "authors": [
+        "Friedrich Bülow"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Die zentrale Planung sowjetischen Typs im Wandel (1967)",
+      "authors": [
+        "Erik Boettcher"
+      ],
+      "printed_page_number": "40",
+      "skip": false
+    },
+    {
+      "title": "II. Ziele der Raumordnung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Zielvorstellungen in der Raumordnungspolitik des Bundes (1965)",
+      "authors": [
+        "Horst Zimmermann"
+      ],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "Raumordnungs- und agrarpolitische Ziele in der landwirtschaftlichen Raumplanung (1969)",
+      "authors": [
+        "Hans-Günther Schlotter",
+        "Karin Sattler"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "Zur Frage einer nationalen Stadtentwicklungsstrategie in den Vereinigten Staaten (1972)",
+      "authors": [
+        "Lowdon Wingo"
+      ],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "Überlegungen zur regionalpolitischen Konzeption ausgeglichener Funktionsräume (1973)",
+      "authors": [
+        "Detlef Marx"
+      ],
+      "printed_page_number": "178",
+      "skip": false
+    },
+    {
+      "title": "Raumordnungspolitik und Standortwahl in Frankreich (1974)",
+      "authors": [
+        "Pierre Merlin"
+      ],
+      "printed_page_number": "182",
+      "skip": false
+    },
+    {
+      "title": "Wesentliche Grundlagen einer wirksamen Prüfung der Umweltverträglichkeit öffentlicher Maßnahmen (1974)",
+      "authors": [
+        "Werner Obenhaus"
+      ],
+      "printed_page_number": "210",
+      "skip": false
+    },
+    {
+      "title": "III. Raumkategorien und ihre Bewertung als Grundlage der Raumordnung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Revierbildung und provinziale Streuung der Industrie (1932)",
+      "authors": [
+        "Goetz Briefs"
+      ],
+      "printed_page_number": "229",
+      "skip": false
+    },
+    {
+      "title": "Regionale Wohlstandsunterschiede, Finanzausgleich und Raumordnung (1956/57)",
+      "authors": [
+        "Gerhard Isenberg"
+      ],
+      "printed_page_number": "253",
+      "skip": false
+    },
+    {
+      "title": "Über Merkmale und Methoden zur Feststellung ländlicher Notstandsgebiete (1958)",
+      "authors": [
+        "Konrad Meyer"
+      ],
+      "printed_page_number": "300",
+      "skip": false
+    },
+    {
+      "title": "Ständige Probleme regionaler Entwicklungspolitik (1972)",
+      "authors": [
+        "Gerald Manners"
+      ],
+      "printed_page_number": "327",
+      "skip": false
+    },
+    {
+      "title": "IV. Mittel der Raumordnung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Der Finanzausgleich (1929)",
+      "authors": [
+        "Johannes Popitz"
+      ],
+      "printed_page_number": "343",
+      "skip": false
+    },
+    {
+      "title": "Die Begriffe Raum und Integration (1965)",
+      "authors": [
+        "Jacques-R. Boudeville"
+      ],
+      "printed_page_number": "394",
+      "skip": false
+    },
+    {
+      "title": "Zur rationalen Planung der Infrastruktur (1965)",
+      "authors": [
+        "Jacques Stohler"
+      ],
+      "printed_page_number": "415",
+      "skip": false
+    },
+    {
+      "title": "Die ökonomischen Großrayons der UdSSR und die Prinzipien ihrer Herausbildung (1967)",
+      "authors": [
+        "Pjotr Martynovich Alampiev"
+      ],
+      "printed_page_number": "449",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "463",
+      "skip": true
+    },
+    {
+      "title": "Register",
+      "authors": [],
+      "printed_page_number": "477",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

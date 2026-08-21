@@ -1,0 +1,197 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [
+        "Andreas Lob-Hüdepohl",
+        "Walter Lesch"
+      ],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "A. Entwicklungslinien und Selbstverständnisse Sozialer Arbeit",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": true
+    },
+    {
+      "title": "Von der tätigen Nächstenliebe zum Helfen als Beruf",
+      "authors": [
+        "C. Wolfgang Müller"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit: Dienstleistung oder Menschenrechtsprofession? Zum Selbstverständnis Sozialer Arbeit in Deutschland mit einem Seitenblick auf die internationale Diskussionslandschaft",
+      "authors": [
+        "Silvia Staub-Bernasconi"
+      ],
+      "printed_page_number": "20",
+      "skip": false
+    },
+    {
+      "title": "B. Ethische Reflexionsweisen – kleiner Überblick über das Panorama ethischer Theorieansätze",
+      "authors": [],
+      "printed_page_number": "55",
+      "skip": true
+    },
+    {
+      "title": "Ethik im systemtheoretischen Denken",
+      "authors": [
+        "Hans-Ulrich Dallmann"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Vertragstheorien und Diskursethik: Zur Bedeutung prozeduraler Ethiken in der Sozialen Arbeit",
+      "authors": [
+        "Gerhard Kruip"
+      ],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "Ethische Reflexion als Hermeneutik der Lebenswelt",
+      "authors": [
+        "Walter Lesch"
+      ],
+      "printed_page_number": "88",
+      "skip": false
+    },
+    {
+      "title": "Utilitarismus im philosophischen Widerstreit",
+      "authors": [
+        "Walter Lesch"
+      ],
+      "printed_page_number": "100",
+      "skip": false
+    },
+    {
+      "title": "C. Normative Grundlagen Sozialer Arbeit",
+      "authors": [],
+      "printed_page_number": "111",
+      "skip": true
+    },
+    {
+      "title": "Berufliche Soziale Arbeit und die ethische Reflexion ihrer Beziehungs- und Organisationsformen",
+      "authors": [
+        "Andreas Lob-Hüdepohl"
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "Ethikkodizes und ethische Deliberationsprozesse in der Sozialen Arbeit",
+      "authors": [
+        "Axel Bohmeyer",
+        "Stefan Kurzke-Maasmeier"
+      ],
+      "printed_page_number": "162",
+      "skip": false
+    },
+    {
+      "title": "D. Handlungsfeldbezogene Probleme einer Ethik Sozialer Arbeit",
+      "authors": [],
+      "printed_page_number": "181",
+      "skip": true
+    },
+    {
+      "title": "Ethik familien- und lebensformenbezogener Sozialer Arbeit",
+      "authors": [
+        "Birgit Bertram",
+        "Andreas Lob-Hüdepohl"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "Ethik der Heilpädagogik",
+      "authors": [
+        "Monika Schumann",
+        "Andreas Lob-Hüdepohl"
+      ],
+      "printed_page_number": "208",
+      "skip": false
+    },
+    {
+      "title": "Ethik geschlechterbewusster Sozialer Arbeit",
+      "authors": [
+        "Petra Focks",
+        "Andreas Lob-Hüdepohl"
+      ],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "Ethik der Gemeinwesenarbeit",
+      "authors": [
+        "Leo Joseph Penta",
+        "Andreas Lienkamp"
+      ],
+      "printed_page_number": "259",
+      "skip": false
+    },
+    {
+      "title": "Ethik Sozialer Arbeit in der Sozialpsychiatrie",
+      "authors": [
+        "Ralf-Bruno Zimmermann",
+        "Andreas Lob-Hüdepohl"
+      ],
+      "printed_page_number": "286",
+      "skip": false
+    },
+    {
+      "title": "Ethik der Pflege",
+      "authors": [
+        "Hans-Ulrich Dallmann",
+        "Andrea Schiff"
+      ],
+      "printed_page_number": "311",
+      "skip": false
+    },
+    {
+      "title": "Ethik der Organisationsformen Sozialer Arbeit",
+      "authors": [
+        "Marianne Meinhold",
+        "Andreas Lob-Hüdepohl"
+      ],
+      "printed_page_number": "331",
+      "skip": false
+    },
+    {
+      "title": "E. Anhang",
+      "authors": [],
+      "printed_page_number": "347",
+      "skip": true
+    },
+    {
+      "title": "Ausgewählte Literatur",
+      "authors": [],
+      "printed_page_number": "349",
+      "skip": true
+    },
+    {
+      "title": "Ausgewählte Ethikkodizes",
+      "authors": [],
+      "printed_page_number": "355",
+      "skip": true
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "374",
+      "skip": true
+    },
+    {
+      "title": "Sachwortregister",
+      "authors": [],
+      "printed_page_number": "377",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

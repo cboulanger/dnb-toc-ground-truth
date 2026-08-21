@@ -1,0 +1,169 @@
+{
+  "entries": [
+    {
+      "title": "Table of Contents",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "List of authors",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "List of Tables and Figures",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Preface",
+      "authors": [
+        "Rainer Bauböck",
+        "Max Haller"
+      ],
+      "printed_page_number": "13",
+      "skip": true
+    },
+    {
+      "title": "1. Introduction",
+      "authors": [
+        "Max Haller",
+        "Rainer Bauböck"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "I. Citizenship Identity and Utility in Global Perspective",
+      "authors": [],
+      "printed_page_number": "31",
+      "skip": true
+    },
+    {
+      "title": "2. (Dual) Citizenship and National Identity in a Globalised World: Sociological Perspectives",
+      "authors": [
+        "Max Haller"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "3. The Toleration of Dual Citizenship: A Global Trend and its Limits",
+      "authors": [
+        "Rainer Bauböck"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "4. The Past and (Post-COVID) Future of Dual Citizenship",
+      "authors": [
+        "Peter J. Spiro"
+      ],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "5. Strategic Dual Citizenship: Global Dynamics of Supply and Demand",
+      "authors": [
+        "Yossi Harpaz"
+      ],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "II. Dual Citizenship in Comparative Perspective",
+      "authors": [],
+      "printed_page_number": "119",
+      "skip": true
+    },
+    {
+      "title": "6. Dual Citizenship Acceptance and Immigrant Naturalisation Propensity in the Netherlands: The Relevance of Origin- and Destination-Country Rules",
+      "authors": [
+        "Floris Peters",
+        "Maarten Vink"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "7. Kin Citizenship in Eastern Europe",
+      "authors": [
+        "Szabolcs Pogonyi"
+      ],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "8. The Danish Turn Towards Dual Citizenship",
+      "authors": [
+        "Eva Ersbøll"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "9. Dual Citizenship in Italy: An Ambivalent and Contradictory Issue",
+      "authors": [
+        "Günther Pallaver",
+        "Guido Denicolò"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "III. Austrian Citizenship at Home and Abroad",
+      "authors": [],
+      "printed_page_number": "205",
+      "skip": true
+    },
+    {
+      "title": "10. Non-Toleration of Dual Citizenship in Austria",
+      "authors": [
+        "Rainer Bauböck",
+        "Gerd Valchars"
+      ],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "11. The Potential for Naturalisation in Austria: A Statistical Approximation",
+      "authors": [
+        "Stephan Marik-Lebeck"
+      ],
+      "printed_page_number": "229",
+      "skip": false
+    },
+    {
+      "title": "12. Does Citizenship Promote Integration? An Austrian Case Study of Immigrants from the Former Yugoslavia and Turkey",
+      "authors": [
+        "Raimund Haindorfer",
+        "Max Haller"
+      ],
+      "printed_page_number": "253",
+      "skip": false
+    },
+    {
+      "title": "13. The View of Expatriate Austrians on Dual Citizenship: The Results of a Worldwide Survey",
+      "authors": [
+        "Florian Gundl"
+      ],
+      "printed_page_number": "275",
+      "skip": false
+    },
+    {
+      "title": "14. Does Dual Citizenship Endanger Ethnic Cohabitation? How the South Tyrolean Population Views a Supplementary Austrian Citizenship",
+      "authors": [
+        "Hermann Atz",
+        "Max Haller"
+      ],
+      "printed_page_number": "293",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

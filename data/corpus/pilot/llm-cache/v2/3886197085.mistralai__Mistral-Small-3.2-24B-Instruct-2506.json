@@ -1,0 +1,328 @@
+{
+  "generated_at": 1787256378.775774,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Editorial",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Aufs\u00e4tze",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wolfgang Wicht",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Wicht"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wilson Harris und sein Roman Palace of the Peacock: Anti-Realismus, postkoloniale Demarginalisierung",
+      "printed_page_number": "8",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Wicht"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Remco van Capelleveen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Remco van Capelleveen"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\"Going foreign\": Migration und afrokaribische Gesellschaft",
+      "printed_page_number": "26",
+      "source_page_index": -1,
+      "authors": [
+        "Remco van Capelleveen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Velma Pollard",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Velma Pollard"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Migration in the Literature of the English-speaking Caribbean",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Velma Pollard"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christian Habekost",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Christian Habekost"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Fighting Back: Dub and Rapso Poetry as Poetic Weapons in the Political and Aesthetic Struggles of Caribbean People",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Habekost"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ruth Wuest",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ruth Wuest"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Karneval in Trinidad: ein verg\u00e4ngliches Kunstwerk",
+      "printed_page_number": "68",
+      "source_page_index": -1,
+      "authors": [
+        "Ruth Wuest"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Regina K\u00f6rten",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Regina K\u00f6rten"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Word, Sound and Power: Mutabaruka",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [
+        "Regina K\u00f6rten"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mutabaruka: Interview by Regina K\u00f6rten",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "Regina K\u00f6rten"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Philip Kasinitz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Philip Kasinitz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Brokers in Babylon?: The Changing Role of Afro-Caribbean Immigrants in New York City Politics",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [
+        "Philip Kasinitz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Elaine Campbell",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Elaine Campbell"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The Unpublished Plays of Una Marson",
+      "printed_page_number": "110",
+      "source_page_index": -1,
+      "authors": [
+        "Elaine Campbell"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Una Marson: Pocomania (a play)",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "Elaine Campbell"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Michael Hoenisch, Remco van Capelleveen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Michael Hoenisch",
+        "Remco van Capelleveen"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Anglophone Karibik: Bibliographie",
+      "printed_page_number": "148",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Hoenisch",
+        "Remco van Capelleveen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "GULLIVER 30/1991 \u00a9",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Exkursion",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Michael Hoenisch, Barbara Dautzenberg, Frank Schleper",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Michael Hoenisch",
+        "Barbara Dautzenberg",
+        "Frank Schleper"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Karibik-Exkursion 1989",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Hoenisch",
+        "Barbara Dautzenberg",
+        "Frank Schleper"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Besprechungen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Richard Boon: Brenton the Playwright. (Raimund Sch\u00e4ffner)",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Michael Harrington: The Long-Distance Runner. An Autobiography (Dieter Herms)",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Raimund Sch\u00e4ffner: Politik und Drama bei David Edgar: Eine Studie zum politischen Gegenwartstheater in England. (Heiner Zimmermann)",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Karen N\u00f6lle-Fischer (Hg.): Mit versch\u00e4rftem Blick: Feministische Literaturkritik. Elaine Showalter (Hg.): Speaking of Gender. Nicole Ward Jouve: White Woman Speaks With Forked Tongue: Criticism as Autobiography. (Margarete Keulen)",
+      "printed_page_number": "178",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "AutorInnen",
+      "printed_page_number": "188",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "GULLIVER 30/1991 \u00a9",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

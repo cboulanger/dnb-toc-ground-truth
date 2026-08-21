@@ -1,0 +1,108 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort des Herausgebers",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Veraltete Zukunft",
+      "authors": [
+        "Helmut Kuhn"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Die Usurpation der bürgerlichen Fortschrittsidee durch die SED. Die Kommunisten, die Konservativen und die Reaktion",
+      "authors": [
+        "Hannes Kaschkat"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Bekenntnis eines Reaktionärs",
+      "authors": [
+        "Julien Freund"
+      ],
+      "printed_page_number": "42",
+      "skip": false
+    },
+    {
+      "title": "Die entwendete Revolution. Über den Verfall progressiver Leitbegriffe",
+      "authors": [
+        "Georg Siebers"
+      ],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "Was heißt schon „reaktionär“?",
+      "authors": [
+        "Armin Mohler"
+      ],
+      "printed_page_number": "68",
+      "skip": false
+    },
+    {
+      "title": "Das verketzerte Gefühl",
+      "authors": [
+        "Paul Stöcklein"
+      ],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "Für eine Emanzipation von der Moderne",
+      "authors": [
+        "Theodor Leuenberger"
+      ],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "Vom Elend der heutigen Rechten. Reaktion oder Aktion?",
+      "authors": [
+        "Erik von Kuehnelt-Leddihn"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "Schöpferische Bewahrung",
+      "authors": [
+        "Otto Heuschele"
+      ],
+      "printed_page_number": "120",
+      "skip": false
+    },
+    {
+      "title": "Dokumentation",
+      "authors": [],
+      "printed_page_number": "131",
+      "skip": true
+    },
+    {
+      "title": "Weiterführende Literatur",
+      "authors": [],
+      "printed_page_number": "172",
+      "skip": true
+    },
+    {
+      "title": "Notizen über die Autoren",
+      "authors": [],
+      "printed_page_number": "189",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorbemerkung: Von der Einheit der Neueren Geschichte / Preface: The Unity of Modern History",
+      "authors": ["Rudolf Schlögl"],
+      "printed_page_number": "313",
+      "skip": true
+    },
+    {
+      "title": "Einführung: Adel in der Neuzeit / Introduction: Nobility in Modern History",
+      "authors": ["Ronald G. Asch"],
+      "printed_page_number": "317",
+      "skip": false
+    },
+    {
+      "title": "Selbstzivilisierung zur Statusbehauptung. Untersuchungen zum Verhältnis von adligen Lebenswelten und Rechtssystem im 16. Jahrhundert am bayerischen Beispiel / Civilising the Self and the Maintaining of Status: Noble Culture and the Legal System in the 16th Century: The Case of Bavaria",
+      "authors": ["Christian Wieland"],
+      "printed_page_number": "326",
+      "skip": false
+    },
+    {
+      "title": "Code, Konzept und Konjunkturen des Rittertums in der französischen Hofkultur des 17. Jahrhunderts / Chivalry in French Court Culture during the 17th Century: Codes of Conducts, Languages, and Ideological Fashions",
+      "authors": ["Martin Wrede"],
+      "printed_page_number": "350",
+      "skip": false
+    },
+    {
+      "title": "Staatsbildung und adlige Führungsschichten in der Frühen Neuzeit: Auf dem Weg zur Auflösung der ständischen Identität des Adels? / State Building and Noble Elites in Early Modern Europe: Dissolving the Traditional Identity of a Status Group?",
+      "authors": ["Ronald G. Asch"],
+      "printed_page_number": "375",
+      "skip": false
+    },
+    {
+      "title": "Adelsgeschichte des 19. Jahrhunderts? Eine Skizze / History of the Nobility in the 19th Century? An Outline",
+      "authors": ["Ewald Frie"],
+      "printed_page_number": "398",
+      "skip": false
+    },
+    {
+      "title": "Adlige Handlungsspielräume und neue Adelstypen in der „Klassischen Moderne“ (1880–1930) / New Types of Nobility and Noble Behaviour in the Period of „Classical Modernity“ (1880–1930)",
+      "authors": ["Monika Wienfort"],
+      "printed_page_number": "416",
+      "skip": false
+    },
+    {
+      "title": "Diskussionsforum",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Der Holocaust als „kolonialer Genozid“? Europäische Kolonialgewalt und nationalsozialistischer Vernichtungskrieg / The Holocaust as a „Colonial Genocide“? European Colonial Violence and the Nazi War of Extermination",
+      "authors": ["Robert Gerwarth", "Stephan Malinowski"],
+      "printed_page_number": "439",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

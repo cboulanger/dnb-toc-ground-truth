@@ -1,0 +1,331 @@
+{
+  "generated_at": 1787018547.219771,
+  "entries": [
+    {
+      "title": "Geleitwort",
+      "printed_page_number": "V",
+      "source_page_index": -1,
+      "authors": [
+        "Dr. Friedrich Fr\u00f6schl"
+      ],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Einf\u00fchrung",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Zukunft ist virtuell",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Brigitte Zypries",
+        "Dr. Wolfgang Karrlein",
+        "Peter Blaschke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil 1 Von der traditionellen Beh\u00f6rde zur E-Public Services Organisation",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Aktuelle Trends im Electronic und Mobile Business",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Frischmuth",
+        "Dr. Wolfgang Karrlein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Konsequenzen f\u00fcr die \u00f6ffentliche Verwaltung",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Blaschke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "BundOnline 2005: Auf dem Weg zum dienstleistungsorientierten modernen Staat",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [
+        "Brigitte Zypries"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die elektronische Demokratie",
+      "printed_page_number": "49",
+      "source_page_index": -1,
+      "authors": [
+        "Franz-Reinhard Habbel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil 2 E-Government",
+      "printed_page_number": "59",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Projekt \u201eVerwaltung 2000\u201c in Schleswig-Holstein",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Georg Gorrisen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Virtuelle Rathaus der Stadt Hagen",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Klinger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das europ\u00e4ische Projekt IMAGINE",
+      "printed_page_number": "91",
+      "source_page_index": -1,
+      "authors": [
+        "Teja Banzhaf"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Elektronisches Verwaltungsverfahren und digitale Signatur",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [
+        "Ronald Grunert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Dienstleistungsportal des Bundes \u2013 www.bund.de",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [
+        "Dr. Barbara Held"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil 3 Elektronische Marktpl\u00e4tze \u2013 die Beschaffung wird virtuell",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Chancen virtueller Marktpl\u00e4tze",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [
+        "Dr. Wolfgang Karrlein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Modellprojekt \u201e\u00d6ffentlicher Eink@uf Online\u201c",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [
+        "Roderich Egeler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "E-Government \u2013 der Weg zur Virtuellen Beh\u00f6rde",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Joachim Heusler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Virtueller Marktplatz Bayern: B\u00fcrgerorientierte Services im landesweiten Portal",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Axmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Elektronische Beschaffung f\u00fcr \u00f6ffentliche Auftraggeber \u2013 ein Fortschritt?",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [
+        "Raik Schmeichel",
+        "Dr. Heiko Schinzer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil 4 Die Daten sollen laufen, nicht die B\u00fcrger",
+      "printed_page_number": "187",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Aspekte des e-Learning",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [
+        "Prof. Dr. Jan von Knop",
+        "Harald Spiegl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Per Internet zum Arbeitsamt",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [
+        "Udo Karlsberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Innovativer Beratungsansatz mit electronic Social Security Services (e3s)",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [
+        "Sabine Engelhardt",
+        "Georg Menzel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MARiS \u2013 mehr als ein neues System f\u00fcr Asylverfahren",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus-Peter Tiedtke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Projekt \u201emobilist\u201c im Gro\u00dfraum Stuttgart",
+      "printed_page_number": "233",
+      "source_page_index": -1,
+      "authors": [
+        "Teja Banzhaf"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil 5 Umsetzungsstrategien und Change Management",
+      "printed_page_number": "247",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Szenario-Management: Die Zukunft von L\u00e4ndern, Regionen, Kommunen gestalten",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [
+        "Dr. Alexander Fink",
+        "Dr. Andreas Siebe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Change Management erfordert pers\u00f6nlichen Einsatz",
+      "printed_page_number": "263",
+      "source_page_index": -1,
+      "authors": [
+        "Dr. Wolfgang Karrlein",
+        "Matthias Konrath"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Innovative Betreibermodelle mit Private Public Partnership",
+      "printed_page_number": "283",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Vorgel",
+        "Dr. Klaus-Dieter de Marn\u00e9"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Miet-Software aus der Steckdose",
+      "printed_page_number": "297",
+      "source_page_index": -1,
+      "authors": [
+        "Dennis Pilz",
+        "Gerhard Schiller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Outsourcing: Den Kopf frei f\u00fcr das Wesentliche",
+      "printed_page_number": "309",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Oecking"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "printed_page_number": "317",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

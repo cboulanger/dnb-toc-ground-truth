@@ -1,0 +1,166 @@
+{
+  "entries": [
+    {
+      "title": "INHALT",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Zu diesem Buch",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "I. Teil: THEORETISCHE ANALYSE",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "KOGNITIVE STRUKTUREN UND KOGNITIVE PERSÖNLICHKEITSTHEORIEN",
+      "authors": [
+        "Thomas Bernhard Seiler"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "DIE THEORIE DER KOGNITIVEN STRUKTURIERTHEIT VON HARVEY, SCHRODER UND MITARBEITERN - PRÄSENTATION UND DISKUSSION",
+      "authors": [
+        "Thomas Bernhard Seiler"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "II. Teil: METHODOLOGISCHE PROBLEME",
+      "authors": [],
+      "printed_page_number": "63",
+      "skip": true
+    },
+    {
+      "title": "MESSUNG ALS INTERAKTION ZWISCHEN PERSON UND MESSINSTRUMENT",
+      "authors": [
+        "Siegfried Greif"
+      ],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "TESTINSTRUMENTE ZUR ERFASSUNG DER KOGNITIVEN STRUKTURIERTHEIT",
+      "authors": [
+        "Siegfried Greif",
+        "Thomas Bernhard Seiler"
+      ],
+      "printed_page_number": "70",
+      "skip": false
+    },
+    {
+      "title": "PROBLEME DER BEREICHSSPEZIFITÄT DER KOGNITIVEN STRUKTURIERTHEIT",
+      "authors": [
+        "Marianne Meinhold"
+      ],
+      "printed_page_number": "84",
+      "skip": false
+    },
+    {
+      "title": "DIE BEDEUTUNG VON MODERATOREN BEI DER ERFASSUNG KOGNITIVER STRUKTURIERTHEITSMERKMALE",
+      "authors": [
+        "Detlev Liepmann"
+      ],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "III. Teil: EMPIRISCHE ARBEITEN",
+      "authors": [],
+      "printed_page_number": "104",
+      "skip": true
+    },
+    {
+      "title": "KOGNITIVE STRUKTURIERTHEIT, PERSÖNLICHKEIT, KREATIVITÄT, ALTER UND GESCHLECHT",
+      "authors": [
+        "Ferdinand König",
+        "Doris Schrell"
+      ],
+      "printed_page_number": "104",
+      "skip": false
+    },
+    {
+      "title": "ZUR BEZIEHUNG ZWISCHEN KOGNITIVER STRUKTURIERTHEIT UND AUTONOMIE IN DER BEURTEILUNG SOZIALER NORMEN UND WERTE",
+      "authors": [
+        "Brigitte Neuthard"
+      ],
+      "printed_page_number": "134",
+      "skip": false
+    },
+    {
+      "title": "ZUR BEZIEHUNG ZWISCHEN KOGNITIVER STRUKTURIERTHEIT, INTELLIGENZ UND KREATIVITÄT",
+      "authors": [
+        "Angelika Geyer",
+        "Siegfried Greif"
+      ],
+      "printed_page_number": "146",
+      "skip": false
+    },
+    {
+      "title": "KOGNITIVE STRUKTURIERTHEIT UND PROBLEMLÖSEN",
+      "authors": [
+        "Elisabeth Seiler",
+        "Thomas Bernhard Seiler"
+      ],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "DIE ABHÄNGIGKEIT DES KOGNITIVEN STRUKTURNIVEAUS VON ELTERLICHEN ERZIEHUNGSPRAKTIKEN",
+      "authors": [
+        "Evelyne Kaiser",
+        "Thomas Bernhard Seiler"
+      ],
+      "printed_page_number": "176",
+      "skip": false
+    },
+    {
+      "title": "VORURTEILE UND KOGNITIVE STRUKTURIERTHEIT",
+      "authors": [
+        "Ferdinand König",
+        "Detlev Liepmann"
+      ],
+      "printed_page_number": "188",
+      "skip": false
+    },
+    {
+      "title": "IV. Teil: INTEGRATION UND ANWENDUNG",
+      "authors": [],
+      "printed_page_number": "199",
+      "skip": true
+    },
+    {
+      "title": "EMPIRISCHE, THEORETISCHE UND PRAKTISCHE BILANZ",
+      "authors": [
+        "Thomas Bernhard Seiler"
+      ],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "KOGNITIVE STRUKTURIERTHEIT UND PÄDAGOGISCHE PRAXISFELDER",
+      "authors": [
+        "Marianne Meinhold"
+      ],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "218",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

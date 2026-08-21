@@ -1,0 +1,1859 @@
+{
+  "generated_at": 1787015196.860995,
+  "entries": [
+    {
+      "title": "Contributors",
+      "printed_page_number": "xiii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Preface",
+      "printed_page_number": "xv",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "1. The use of causal inference with structural models in industry",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Takashi Isozaki"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Introduction",
+      "printed_page_number": "2",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Foundation of structural causal models",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.1 Basic properties of markovianity for causal modeling",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.2 Markovian structural causal models",
+      "printed_page_number": "6",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.3 Discussion: Significance of the structural causal models",
+      "printed_page_number": "12",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4 A brief review of historical developments of SCMs",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Inference of the causal models from observed data",
+      "printed_page_number": "14",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1 Basic methodology: Constraint-based approach",
+      "printed_page_number": "14",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2 Critical issues, other approaches, and proposals",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3 Combining stage algorithm against faithfulness violations",
+      "printed_page_number": "18",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4 Other topics",
+      "printed_page_number": "22",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Toward fully demonstrating the potential of causal inference in real data analysis",
+      "printed_page_number": "23",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.1 On the realistic causal structure modeling",
+      "printed_page_number": "23",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.2 On the validity of the SCMs and data to be entered",
+      "printed_page_number": "26",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.3 Training causal modelers and promoting the dissemination of causal inference",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Discussion from the viewpoint of another discipline",
+      "printed_page_number": "28",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Case studies",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.1 Data analysis activities at Mazda's automotive manufacturing plant",
+      "printed_page_number": "30",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.2 Manufacturing data analysis activities of Tsukada Riken industry",
+      "printed_page_number": "30",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.3 Manufacturing data analysis activities at JEMS",
+      "printed_page_number": "32",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.4 Data analysis activities at Sony's semiconductor manufacturing plant",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.5 Contribution to Sony assurance's marketing activities",
+      "printed_page_number": "37",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.6 Contribution to marketing activities at Sony sales company",
+      "printed_page_number": "37",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.7 Analysis of learning machines for music hit predictions at Sony music publishing",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.8 Contribution to the education system through the development of Sony Network Communications Inc",
+      "printed_page_number": "40",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.9 Other case studies",
+      "printed_page_number": "42",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.10 Summary of case studies",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Conclusion",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgments",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Declaration of generative AI and AI-assisted technologies in the writing process",
+      "printed_page_number": "44",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "References",
+      "printed_page_number": "44",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2. An overview of models for one-shot device testing data analysis",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Man Ho Ling"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Introduction",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Lifetime distributions for reliability studies",
+      "printed_page_number": "53",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.1 Exponential lifetime distribution",
+      "printed_page_number": "54",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.2 Weibull lifetime distribution",
+      "printed_page_number": "55",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.3 Gamma lifetime distribution",
+      "printed_page_number": "56",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4 Log-normal lifetime distribution",
+      "printed_page_number": "58",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.5 Other lifetime distributions",
+      "printed_page_number": "59",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Devices with multiple failure modes",
+      "printed_page_number": "60",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1 Competing risks modeling",
+      "printed_page_number": "60",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2 Copula modeling",
+      "printed_page_number": "62",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3 Gamma frailty modeling",
+      "printed_page_number": "65",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Proportional hazards model",
+      "printed_page_number": "68",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Step-stress accelerated life tests",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 One-shot devices with manufacturing defects",
+      "printed_page_number": "72",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Concluding remarks",
+      "printed_page_number": "74",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "References",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "3. Optimal experimental planning for experiments based on coherent systems with industrial applications",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [
+        "Yang Yu",
+        "Hon Keung Tony Ng",
+        "Erhard Cramer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Introduction",
+      "printed_page_number": "82",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 System structure, coherent system and system signature",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.1 System structure and coherent system",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.2 System signature",
+      "printed_page_number": "86",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.3 Statistical inference based on system lifetime data",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Progressively type-II censored experiments with coherent systems",
+      "printed_page_number": "88",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Maximum likelihood estimation",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.1 Maximum likelihood estimation of model parameters",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.2 Fisher information and asymptotic variance-covariance matrices",
+      "printed_page_number": "91",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Experimental planning and optimality criteria",
+      "printed_page_number": "92",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.1 Settings for optimal experimental planning",
+      "printed_page_number": "92",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.2 Optimality criteria",
+      "printed_page_number": "94",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Specific coherent systems being considered",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.1 k-out-of-n systems",
+      "printed_page_number": "96",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.2 Series-parallel and parallel-series systems for n = 3",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Numerical Illustrations",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.1 Lognormal distributed components",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.2 Weibull distributed components",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.3 Discussions",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Practical example",
+      "printed_page_number": "122",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 Concluding remarks and future research directions",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Appendix A. Supporting information",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "References",
+      "printed_page_number": "126",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "4. Active learning of computer experiment with both quantitative and qualitative inputs",
+      "printed_page_number": "129",
+      "source_page_index": -1,
+      "authors": [
+        "Anita Shahrokhian",
+        "Xinwei Deng",
+        "C. Devon Lin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Introduction",
+      "printed_page_number": "130",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Background",
+      "printed_page_number": "132",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.1 Modeling",
+      "printed_page_number": "132",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.2 Adaptive designs in computer experiments with quantitative inputs",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Active designs for computer experiments with quantitative and qualitative inputs",
+      "printed_page_number": "138",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1 Optimization",
+      "printed_page_number": "138",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2 Contour estimation",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Numerical studies",
+      "printed_page_number": "144",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.1 Optimization",
+      "printed_page_number": "146",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.2 Contour estimation",
+      "printed_page_number": "148",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.3 Prediction",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Concluding remarks",
+      "printed_page_number": "157",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "References",
+      "printed_page_number": "157",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "5. On the use of machine learning methods for missing data problems",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [
+        "Sixia Chen",
+        "Chao Xu"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Introduction",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Basic setups",
+      "printed_page_number": "164",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Missing data methods",
+      "printed_page_number": "164",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1 Propensity score weighting",
+      "printed_page_number": "164",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2 Imputation",
+      "printed_page_number": "165",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3 Calibration",
+      "printed_page_number": "166",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4 Cross-fit double machine learning",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Simulation study",
+      "printed_page_number": "168",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Real data application",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Conclusion",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgments",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "References",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "6. Robust Bayesian approaches for leveraging external controls in drug development: Recent advances, statistical and regulatory challenges",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [
+        "Jixian Wang",
+        "Hongtao Zhang",
+        "Ram Tiwari"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Introduction",
+      "printed_page_number": "176",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 The causal estimand framework for treatment comparison using RCT and external data",
+      "printed_page_number": "178",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Using existing external data to supplement RCT as information update: A Bayesian framework",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 The amount of borrowing and data adaptive discount",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Adjustment for population differences",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 The final analysis using combined data",
+      "printed_page_number": "188",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 A modular integrated approach",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.1 Estimation of ATE estimand with IPW adjustment",
+      "printed_page_number": "190",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.2 Estimating treatment difference in hazard ratio with IPW adjustment",
+      "printed_page_number": "190",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Approximate robust Bayesian inference",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.1 Approximate Bayesian analysis with loss functions",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.2 Bayesian bootstrap for approximate Bayesian inference",
+      "printed_page_number": "192",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 Regulatory and industry aspects and applications",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Statistical challenges",
+      "printed_page_number": "198",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.1 Is power gain possible when exact frequentist type I error control is required?",
+      "printed_page_number": "198",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.2 Estimation or hypothesis testing?",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.3 Firewall and data privacy protection",
+      "printed_page_number": "202",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11 Concluding remarks",
+      "printed_page_number": "203",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "References",
+      "printed_page_number": "204",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "7. Statistical innovation: Transforming pharmaceutical research and development",
+      "printed_page_number": "207",
+      "source_page_index": -1,
+      "authors": [
+        "Pandurang M. Kulkarni",
+        "Demissie Alemayehu",
+        "Yongming Qu",
+        "Daniel Backenroth",
+        "Brian Millen",
+        "Haoda Fu",
+        "Wim Van Der Elst",
+        "Satrajit Roychoudhury",
+        "Karen Price",
+        "Tianle Chen",
+        "Kannan Natarajan",
+        "Wei Shen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Introduction",
+      "printed_page_number": "208",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Innovative trial designs",
+      "printed_page_number": "210",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.1 Group sequential and adaptive designs",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.2 Master protocols",
+      "printed_page_number": "212",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.3 Bayesian approaches",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4 Use of external and synthetic controls",
+      "printed_page_number": "214",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.5 Statistical innovations for bioequivalence studies",
+      "printed_page_number": "215",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.6 A noteworthy statistical impact: COVID-19 vaccine development",
+      "printed_page_number": "217",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Quantitative decision making in drug development",
+      "printed_page_number": "218",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1 Probability of study success",
+      "printed_page_number": "218",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2 Forming the prior distribution",
+      "printed_page_number": "219",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3 Adjusting for selection bias in clinical development",
+      "printed_page_number": "220",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4 Understanding the efficacy and safety of different treatments via indirect comparisons without head-to-head studies",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Multiple testing: A foundational tool for inference in confirmatory clinical trials",
+      "printed_page_number": "222",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.1 Foundations",
+      "printed_page_number": "223",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.2 Modern bespoke multiple testing procedures",
+      "printed_page_number": "224",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.3 Application",
+      "printed_page_number": "226",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.4 Examples",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Leveraging surrogate endpoints for statistical innovation",
+      "printed_page_number": "228",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.1 Surrogate endpoints and their relevance in terms of statistical innovation",
+      "printed_page_number": "228",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.2 Statistical methods to validate surrogate endpoints",
+      "printed_page_number": "229",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Causal inference and real-world evidence",
+      "printed_page_number": "231",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Artificial intelligence (AI) and machine learning (ML) in drug discovery and development",
+      "printed_page_number": "234",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Concluding remarks",
+      "printed_page_number": "236",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgments",
+      "printed_page_number": "237",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "References",
+      "printed_page_number": "237",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "8. Analysis of official time series with Ecce Signum, an R package for multivariate signal extraction and forecasting",
+      "printed_page_number": "243",
+      "source_page_index": -1,
+      "authors": [
+        "Tucker McElroy",
+        "James Livsey"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Introduction",
+      "printed_page_number": "244",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Stages of analysis",
+      "printed_page_number": "246",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.1 Loading, transforming, and exploring",
+      "printed_page_number": "246",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.2 Model declaration",
+      "printed_page_number": "246",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.3 Model fitting and diagnostics",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4 Applications of the fitted model",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Detailed aspects",
+      "printed_page_number": "254",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1 Model parameterization",
+      "printed_page_number": "254",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2 Method of moments",
+      "printed_page_number": "261",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3 Casting and fixed effects",
+      "printed_page_number": "263",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4 Embedding",
+      "printed_page_number": "264",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Illustrations",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.1 Non-defense capital goods",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.2 Petrol",
+      "printed_page_number": "272",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.3 Housing starts",
+      "printed_page_number": "277",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.4 Business formation statistics",
+      "printed_page_number": "281",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.5 New Zealand arrivals",
+      "printed_page_number": "286",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Conclusion",
+      "printed_page_number": "291",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgments",
+      "printed_page_number": "292",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "References",
+      "printed_page_number": "292",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "9. Combining information from multiple sources in official statistics",
+      "printed_page_number": "295",
+      "source_page_index": -1,
+      "authors": [
+        "Changbao Wu"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Introduction",
+      "printed_page_number": "296",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Two probability survey samples",
+      "printed_page_number": "297",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.1 A combined estimator for the common study variable",
+      "printed_page_number": "297",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.2 Common auxiliary variables and internal consistency",
+      "printed_page_number": "298",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Dual-frame and multiple-frame samples",
+      "printed_page_number": "300",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1 Dual-frame samples with post-stratification",
+      "printed_page_number": "301",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2 Multiplicity-based approach for multiple-frame samples",
+      "printed_page_number": "302",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3 Inference with pseudo empirical likelihood",
+      "printed_page_number": "303",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Use of auxiliary population information",
+      "printed_page_number": "304",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.1 Traditional calibration techniques",
+      "printed_page_number": "304",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.2 Model-calibration methods",
+      "printed_page_number": "306",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.3 Calibration with estimated population controls",
+      "printed_page_number": "307",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Non-probability survey samples",
+      "printed_page_number": "309",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.1 The need for combining information from other sources",
+      "printed_page_number": "309",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.2 Calibration estimation of participation probabilities",
+      "printed_page_number": "311",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.3 Model-based prediction: Mass imputation",
+      "printed_page_number": "312",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Mitigating under-coverage biases",
+      "printed_page_number": "313",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.1 The calibrated IPW approach",
+      "printed_page_number": "314",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.2 The split population approach",
+      "printed_page_number": "315",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Additional remarks",
+      "printed_page_number": "316",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgments",
+      "printed_page_number": "316",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "References",
+      "printed_page_number": "316",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "10. The maturity structure of public debt: A granular approach using Indian data",
+      "printed_page_number": "319",
+      "source_page_index": -1,
+      "authors": [
+        "Piyali Das",
+        "Chetan Ghate",
+        "Subhadeep Halder"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Introduction",
+      "printed_page_number": "320",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 An overview of Indian public debt and it's maturity profile",
+      "printed_page_number": "323",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 The Hall-Sargent approach",
+      "printed_page_number": "328",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1 Introducing a term premium",
+      "printed_page_number": "330",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2 Contributions of inflation, growth and term premium for debt decomposition",
+      "printed_page_number": "331",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Maturity structure",
+      "printed_page_number": "331",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.1 A simple example",
+      "printed_page_number": "332",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Applying the Hall-Sargent approach to Indian security level data",
+      "printed_page_number": "334",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.1 Decomposition results",
+      "printed_page_number": "336",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.2 Average maturity",
+      "printed_page_number": "341",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Capacity building and policy implications",
+      "printed_page_number": "341",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Conclusion",
+      "printed_page_number": "343",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Appendix A. Derivation of the decomposition equation",
+      "printed_page_number": "344",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Appendix B. Background information on Indian securities",
+      "printed_page_number": "349",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "References",
+      "printed_page_number": "351",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "11. The importance of accurate, timely, credible crime data to inform crime and justice policy",
+      "printed_page_number": "353",
+      "source_page_index": -1,
+      "authors": [
+        "John K. Roman",
+        "Stephanie Kennedy",
+        "John Buntin",
+        "Alex R. Piquero"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Introduction",
+      "printed_page_number": "354",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Background",
+      "printed_page_number": "354",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Timeliness",
+      "printed_page_number": "355",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Accuracy",
+      "printed_page_number": "358",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Completeness of data",
+      "printed_page_number": "362",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Usability",
+      "printed_page_number": "365",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Governance and funding",
+      "printed_page_number": "367",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Recommendations",
+      "printed_page_number": "371",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.1 Improve the nation's capacity to collect and analyze crime data",
+      "printed_page_number": "371",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.2 Publish monthly crime trends reports",
+      "printed_page_number": "373",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.3 Create a comprehensive portrait of crime in America",
+      "printed_page_number": "373",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.4 Funding considerations",
+      "printed_page_number": "375",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Acknowledgements",
+      "printed_page_number": "376",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Conflict of interest and neutrality statement",
+      "printed_page_number": "377",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "References",
+      "printed_page_number": "377",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "381",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

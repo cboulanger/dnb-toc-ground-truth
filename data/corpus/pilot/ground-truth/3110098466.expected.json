@@ -1,0 +1,78 @@
+{
+  "entries": [
+    {
+      "title": "Part One: Studies in American Indian Linguistics",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": true
+    },
+    {
+      "title": "I. The classification of North American and Meso-American Indian languages",
+      "authors": [],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "ix",
+      "skip": true
+    },
+    {
+      "title": "II. Sibilants and naturalness in aboriginal California",
+      "authors": [],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "III. Notes on Hispanisms",
+      "authors": [],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "IV. Place names of American Indian origin",
+      "authors": [],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "Part Two: Studies in American Indian Oral Literatures",
+      "authors": [],
+      "printed_page_number": "77",
+      "skip": true
+    },
+    {
+      "title": "V. Literature: written and oral",
+      "authors": [],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "VI. A Karok myth in measured verse",
+      "authors": [],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "VII. Coyote's journey",
+      "authors": [],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "VIII. Poetic structure in oral narrative",
+      "authors": [],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "IX. The virtues of illiteracy",
+      "authors": [],
+      "printed_page_number": "149",
+      "skip": false
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

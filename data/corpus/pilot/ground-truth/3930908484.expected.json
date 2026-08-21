@@ -1,0 +1,113 @@
+{
+  "entries": [
+    {
+      "title": "Einleitung",
+      "authors": [
+        "Bernd Greiner",
+        "Hannes Heer"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Bruch-Stücke. Sechs westdeutsche Beobachtungen nebst unfertigen Deutungen",
+      "authors": [
+        "Bernd Greiner"
+      ],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "Österreichische Opfer oder großdeutsche Krieger",
+      "authors": [
+        "Walter Manoschek"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Der Bundestag wolle beschließen. Zur Debatte über die Ausstellung »Vernichtungskrieg. Verbrechen der Wehrmacht 1941 bis 1944«",
+      "authors": [
+        "Peter Schneider"
+      ],
+      "printed_page_number": "112",
+      "skip": false
+    },
+    {
+      "title": "Das letzte Band. Kriegsverbrechen und Nachkriegserinnerung",
+      "authors": [
+        "Hannes Heer"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "Kriegssouvenirs. Rekonstruktion von Geschichtserfahrung als intergenerationelles Projekt",
+      "authors": [
+        "Bernd Boll"
+      ],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "Beweisaufnahmen. Pančevo, 22. April 1941",
+      "authors": [
+        "Walter Manoschek"
+      ],
+      "printed_page_number": "184",
+      "skip": false
+    },
+    {
+      "title": "»Wo sind die Augenzeugen, wo ihre Fotos?«",
+      "authors": [
+        "Petra Bopp"
+      ],
+      "printed_page_number": "198",
+      "skip": false
+    },
+    {
+      "title": "Die Ausstellung »Vernichtungskrieg. Verbrechen der Wehrmacht 1941 bis 1944« und die Konstruktion öffentlicher Diskurse",
+      "authors": [
+        "Birgitta Nedelmann"
+      ],
+      "printed_page_number": "230",
+      "skip": false
+    },
+    {
+      "title": "»Wieso erst jetzt?« oder Die Macht der Nemesis. Der geschichtspolitische Ort der Ausstellung",
+      "authors": [
+        "Klaus Naumann"
+      ],
+      "printed_page_number": "262",
+      "skip": false
+    },
+    {
+      "title": "Erinnerungspolitik und Erinnerungskultur – Kein Ende der Geschichte",
+      "authors": [
+        "Jost Dülffer"
+      ],
+      "printed_page_number": "289",
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Chronologie der Ausstellungsorte",
+      "authors": [],
+      "printed_page_number": "313",
+      "skip": true
+    },
+    {
+      "title": "Über die Autoren",
+      "authors": [],
+      "printed_page_number": "321",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

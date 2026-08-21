@@ -1,0 +1,347 @@
+{
+  "generated_at": 1787264597.941901,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "INHALT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sybille Ebert-Schifferer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Sybille Ebert-Schifferer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hermann Schlimme \u2013 Lothar Sickel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Hast Du Thoenes? Zum Geleit",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Hermann Schlimme",
+        "Lothar Sickel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Festvortrag",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Horst Bredekamp",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ottavio Leonis Galilei-Portrait des Jahres 1624",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "Horst Bredekamp"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Tagungsbeitr\u00e4ge",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "I. S\u00e4ulenordnung, Typologie, Konstruktion",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Jens Niebaum",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Typologische Innovation in einigen Sakralbau-Entw\u00fcrfen Antonio da Sangallos des J\u00fcngeren",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [
+        "Jens Niebaum"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Vitale Zanchettin",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Tamburo e cupola di San Pietro nella concezione di Antonio da Sangallo il Giovane",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [
+        "Vitale Zanchettin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Georg Schelbert",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "[...] de la quale inventione il prudente Architetto si potra molto valere in diversi accidenti",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Georg Schelbert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beobachtungen zum Geb\u00e4lk der S\u00e4ulenordnungen in der Renaissance- und Barockarchitektur",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [
+        "Georg Schelbert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Martin Raspe",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbDisegno angelico e non umano\u00ab",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Martin Raspe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Michelangelos in die Wand gestellte S\u00e4ulen und ihre Nachfolge",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Raspe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hermann Schlimme",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Santa Margherita in Montefiascone. Carlo Fontana und das Wissen um den Kuppelbau",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [
+        "Hermann Schlimme"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Urbanistik, Topographie, Ekphrasis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Philine Helas",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbHoc opus inchoatum [...]\u00ab",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Philine Helas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Baut\u00e4tigkeit und Bildpolitik des Hospitals von Santo Spirito in Sassia und des Hospitals am Lateran im Rom des 14. und 15. Jahrhunderts",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [
+        "Philine Helas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Johannes R\u00f6ll",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Willk\u00fcrliche Ver\u00e4nderungen der urbanistischen Ordnung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Johannes R\u00f6ll"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Neuerfindung r\u00f6mischer Topographie um 1600 auf einem Gem\u00e4lde in Montepulciano",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [
+        "Johannes R\u00f6ll"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Alessandro Brodini",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Neu-Sankt Peter in der Sicht der Dichter:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Alessandro Brodini"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Vergleich mit der Antike in den Schriften Alessandro Tassonis und Girolamo Pretis",
+      "printed_page_number": "197",
+      "source_page_index": -1,
+      "authors": [
+        "Alessandro Brodini"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lothar Sickel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Virgilio Spada im Streit mit Gian Lorenzo Bernini",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Lothar Sickel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eine merkw\u00fcrdige Episode in der unbekannten Geschichte des Palazzo Cybo",
+      "printed_page_number": "215",
+      "source_page_index": -1,
+      "authors": [
+        "Lothar Sickel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Tafeln",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Schriftenverzeichnis von Christof Thoenes",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kurzbiographien der Autoren",
+      "printed_page_number": "253",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

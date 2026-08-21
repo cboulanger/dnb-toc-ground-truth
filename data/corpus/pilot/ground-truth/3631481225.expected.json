@@ -1,0 +1,120 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Leo Roth: \"Kunst und Humanismus in den Niederlanden des 15.-17.Jahrhunderts\" im Projektstudium",
+      "authors": [
+        "Leo Roth"
+      ],
+      "printed_page_number": "8",
+      "skip": false
+    },
+    {
+      "title": "Gert Duwe: Die Anbetung der Heiligen Drei K\u00f6nige der Br\u00fcder Limburg",
+      "authors": [
+        "Gert Duwe"
+      ],
+      "printed_page_number": "24",
+      "skip": false
+    },
+    {
+      "title": "Gert Duwe: Die Verk\u00fcndigungsdarstellungen des Jan van Eyck \u2013 Die Verk\u00fcndigung an Maria vom Genter Altar und aus der National Gallery of Art in Washington (D.C.)",
+      "authors": [
+        "Gert Duwe"
+      ],
+      "printed_page_number": "34",
+      "skip": false
+    },
+    {
+      "title": "Gert Duwe: Das Problem der Originalit\u00e4t im Werk Rembrandts",
+      "authors": [
+        "Gert Duwe"
+      ],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "Helga Steinkamp: Die niederl\u00e4ndische Stillebenmalerei im 17. Jahrhundert",
+      "authors": [
+        "Helga Steinkamp"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Eberhard Castrischer: Claus Sluter und die Kartause von Champmol",
+      "authors": [
+        "Eberhard Castrischer"
+      ],
+      "printed_page_number": "70",
+      "skip": false
+    },
+    {
+      "title": "Leo Roth: Universalit\u00e4t und Regionalisierung der deutschen Universit\u00e4ten im 15.-17. Jahrhundert",
+      "authors": [
+        "Leo Roth"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "Dietmar Roth: Humanismus und katholische Reform im Jesuitentheater Spaniens",
+      "authors": [
+        "Dietmar Roth"
+      ],
+      "printed_page_number": "110",
+      "skip": false
+    },
+    {
+      "title": "Leo Roth: Der Erziehungstheoretiker Erasmus von Rotterdam",
+      "authors": [
+        "Leo Roth"
+      ],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "Erwin M\u00fccke: Wie fanden die Seefahrer ihren Weg ?",
+      "authors": [
+        "Erwin M\u00fccke"
+      ],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "Reinhard Hildebrandt: Die Rolle der gro\u00dfen Unternehmen in der fr\u00fchen europ\u00e4ischen Expansion",
+      "authors": [
+        "Reinhard Hildebrandt"
+      ],
+      "printed_page_number": "197",
+      "skip": false
+    },
+    {
+      "title": "Werner Breckoff: Musik zwischen h\u00f6fischem Prunk und gesungener Leidenschaft",
+      "authors": [
+        "Werner Breckoff"
+      ],
+      "printed_page_number": "219",
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "authors": [],
+      "printed_page_number": "234",
+      "skip": true
+    },
+    {
+      "title": "INHALTSVERZEICHNIS",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

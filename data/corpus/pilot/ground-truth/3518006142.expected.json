@@ -1,0 +1,54 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Demokratietheoretische Aspekte der politischen Ideengeschichte",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Eigentum und Herrschaft bei Bodin",
+      "authors": [],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Versuch \u00fcber Mandevilles Bienenfabel",
+      "authors": [],
+      "printed_page_number": "74",
+      "skip": false
+    },
+    {
+      "title": "Freiheit, Eigentum und Herrschaft bei Hegel",
+      "authors": [],
+      "printed_page_number": "132",
+      "skip": false
+    },
+    {
+      "title": "Hegel und die Umw\u00e4lzung der b\u00fcrgerlichen Gesellschaft",
+      "authors": [],
+      "printed_page_number": "174",
+      "skip": false
+    },
+    {
+      "title": "Kritik der politischen \u00d6konomie und politische Ideologie bei Marx",
+      "authors": [],
+      "printed_page_number": "200",
+      "skip": false
+    },
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

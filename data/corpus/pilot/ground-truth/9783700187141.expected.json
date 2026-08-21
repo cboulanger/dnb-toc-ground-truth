@@ -1,0 +1,77 @@
+{
+  "entries": [
+    {
+      "title": "TABLE OF CONTENTS",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "INTRODUCTION",
+      "authors": [
+        "Basilio Calderone",
+        "Wolfgang U. Dressler"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "I. German phonotactic vs. morphonotactic obstruent clusters: a corpus linguistic analysis",
+      "authors": [
+        "Wolfgang U. Dressler",
+        "Alona Kononenko-Szoszkiewicz"
+      ],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "II. Morphonotactics in speech production",
+      "authors": [
+        "Hannah Leykum",
+        "Sylvia Moosmüller"
+      ],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "III. The acquisition and processing of (mor)phonotactic consonant clusters in German",
+      "authors": [
+        "Sabine Sommer-Lolei",
+        "Katharina Korecky-Kröll",
+        "Markus Christiner",
+        "Wolfgang U. Dressler"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "IV. Exploring phonotactic and morphonotactic constraints in the acquisition of consonant clusters in L1 French",
+      "authors": [
+        "Barbara Köpke",
+        "Olivier Nocaudie",
+        "Hélène Giraudo"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "V. The natural perceptual salience of affixes is not incompatible with a central view of morphological processing",
+      "authors": [
+        "Hélène Giraudo",
+        "Karla Orihuela",
+        "Basilio Calderone",
+        "Barbara Köpke"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "SUBJECT INDEX",
+      "authors": [],
+      "printed_page_number": "138",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

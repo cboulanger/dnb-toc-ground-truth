@@ -1,0 +1,92 @@
+{
+  "entries": [
+    {
+      "title": "Einleitung",
+      "authors": [
+        "Friedrich Wilhelm Graf"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Religion und Politik in den Vereinigten Staaten. Über die Geschichtlichkeit einer kulturellen Invariante",
+      "authors": [
+        "Hans Ulrich Gumbrecht"
+      ],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Von der Entkirchlichung zur Laisierung. Staat, Kirche und Gläubige in Rußland",
+      "authors": [
+        "Gregory L. Freeze"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Die lange Suche nach dem Islamischen Staat. Religion und Politik im Islam und die Dynamik der Gegenwart",
+      "authors": [
+        "Hillel Fradkin"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "Religion und Politik in der klassischen politischen Wissenschaft",
+      "authors": [
+        "Robert C. Bartlett"
+      ],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "Theokratie: Die Herrschaft Gottes als Staatsverfassung in der jüdischen Antike",
+      "authors": [
+        "Peter Schäfer"
+      ],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "Archäologie des Befehls",
+      "authors": [
+        "Giorgio Agamben"
+      ],
+      "printed_page_number": "241",
+      "skip": false
+    },
+    {
+      "title": "Sakralisierung und Entsakralisierung. Politische Herrschaft und religiöse Interpretation",
+      "authors": [
+        "Hans Joas"
+      ],
+      "printed_page_number": "259",
+      "skip": false
+    },
+    {
+      "title": "Politik und Religion",
+      "authors": [
+        "Jürgen Habermas"
+      ],
+      "printed_page_number": "287",
+      "skip": false
+    },
+    {
+      "title": "Epilog. Politik, Religion und Philosophie",
+      "authors": [
+        "Heinrich Meier"
+      ],
+      "printed_page_number": "301",
+      "skip": false
+    },
+    {
+      "title": "Über die Autoren",
+      "authors": [],
+      "printed_page_number": "315",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

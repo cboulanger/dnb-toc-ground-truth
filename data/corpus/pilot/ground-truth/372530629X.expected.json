@@ -1,0 +1,82 @@
+{
+  "entries": [
+    {
+      "title": "INHALT",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Einleitung: Markt, Wissenschaft und Technologie als Triebkräfte der Globalgesellschaft",
+      "authors": [
+        "Prof. Dr. Dieter Ruloff"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Zwischen Prometheus und Kassandra Licht und Dunkel in der Welt des technischen Verstandes",
+      "authors": [
+        "Prof. Dr. Jürgen Mittelstrass"
+      ],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "War and Society in the Information Age",
+      "authors": [
+        "Prof. Dr. Lawrence David Freedman"
+      ],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Innovation, Substitution und Globalisierung Mikroelektronik: Basisinnovation des 20. Jahrhunderts",
+      "authors": [
+        "Prof. Dr. Gert Lorenz"
+      ],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "Globalisierung: Zusammenarbeit zwischen dem privaten und öffentlichen Sektor zur Politikentwicklung",
+      "authors": [
+        "Dr. Martin Bangemann"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "Education in Times of Rapid Social and Technological Change",
+      "authors": [
+        "The Rt. Hon. The Lord Dearing CB"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "Der Ingenieur im Spannungsfeld von unternehmerischen, technologischen und gesellschaftlichen Anforderungen",
+      "authors": [
+        "Prof. Dr. Ing. Ulrich Seiffert"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "Möglichkeiten und Grenzen von Mobilität",
+      "authors": [
+        "Dr. Horst Teltschik"
+      ],
+      "printed_page_number": "147",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,631 @@
+{
+  "generated_at": 1787264286.045535,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einf\u00fchrung in das Handbuch Geschichte der deutschsprachigen Soziologie",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Stephan Moebius",
+        "Andrea Ploder"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil I Anf\u00e4nge der deutschsprachigen Soziologie",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Anf\u00e4nge der Soziologie in Deutschland (1871\u20131918)",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Lichtblau"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anf\u00e4nge der Soziologie in \u00d6sterreich",
+      "printed_page_number": "37",
+      "source_page_index": -1,
+      "authors": [
+        "Gerald Mozeti\u010d"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anf\u00e4nge der Soziologie in der Schweiz",
+      "printed_page_number": "65",
+      "source_page_index": -1,
+      "authors": [
+        "Markus Z\u00fcrcher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil II Deutschsprachige Soziologie zwischen 1918 und 1945",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kontroversen in der deutschsprachigen Soziologie vor 1933",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Joachim Dahms"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Soziologie in Deutschland zur Zeit des Nationalsozialismus",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "Alexandra Schauer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u2018Deutsche\u2019 Soziologie im Exil",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [
+        "Sven Papcke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Soziologie in \u00d6sterreich zur Zeit des Nationalsozialismus",
+      "printed_page_number": "169",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Fleck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Intellektuelle Exilanten in \u00d6sterreich \u2013 \u00f6sterreichische Sozialwissenschaftler im Exil",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Fleck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Soziologie in der Schweiz 1918\u20131945",
+      "printed_page_number": "207",
+      "source_page_index": -1,
+      "authors": [
+        "Markus Z\u00fcrcher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Drittes Reich, Zweiter Weltkrieg und die deutschsprachige Nachkriegssoziologie",
+      "printed_page_number": "229",
+      "source_page_index": -1,
+      "authors": [
+        "Volker Kruse"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil III Deutschsprachige Soziologie nach 1945: Paradigmen, Hegemonien und Kontroversen",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Schulen, Akteure und regionale Zentren in der fr\u00fchen Geschichte der bundesrepublikanischen Soziologie",
+      "printed_page_number": "253",
+      "source_page_index": -1,
+      "authors": [
+        "Stephan Moebius"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kontroversen in der deutschsprachigen Soziologie nach 1945",
+      "printed_page_number": "289",
+      "source_page_index": -1,
+      "authors": [
+        "Stephan Moebius"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Soziologie in \u00d6sterreich nach 1945",
+      "printed_page_number": "315",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Fleck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Soziologie in der Schweiz seit 1945",
+      "printed_page_number": "347",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas S. Eberle",
+        "Niklaus Reichle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Soziologie in der DDR. Legitimationsbeschaffung oder \u201amachtkritische Subkultur\u2019?",
+      "printed_page_number": "385",
+      "source_page_index": -1,
+      "authors": [
+        "Lothar Peter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Frauen-/Geschlechterforschung",
+      "printed_page_number": "421",
+      "source_page_index": -1,
+      "authors": [
+        "Tanja Paulitz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Geschichte der Gegenwartsdiagnostik in der deutschsprachigen Soziologie",
+      "printed_page_number": "453",
+      "source_page_index": -1,
+      "authors": [
+        "Fran Osrecki"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Entwicklung der deutschsprachigen Soziologie im Spiegel des wissenschaftlichen Verlagswesens",
+      "printed_page_number": "477",
+      "source_page_index": -1,
+      "authors": [
+        "Oliver R\u00f6mer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geschichte des Verh\u00e4ltnisses zwischen Soziologie und \u00d6ffentlichkeit in der deutschsprachigen Nachkriegssoziologie",
+      "printed_page_number": "503",
+      "source_page_index": -1,
+      "authors": [
+        "Oliver Neun"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "vii",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Teil IV Deutschsprachige Soziologie nach 1945: Internationale Rezeption",
+      "printed_page_number": "531",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Rolle von \u00dcbersetzungen f\u00fcr die internationale Rezeption der deutschsprachigen Soziologie",
+      "printed_page_number": "533",
+      "source_page_index": -1,
+      "authors": [
+        "Rafael Sch\u00f6gler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rezeption des amerikanischen Strukturfunktionalismus in der deutschsprachigen Soziologie",
+      "printed_page_number": "553",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Staubmann",
+        "Maria Tschernitz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sch\u00fctz-Rezeption in der deutschsprachigen Soziologie",
+      "printed_page_number": "575",
+      "source_page_index": -1,
+      "authors": [
+        "Gerd Sebald"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Rezeption des Sozialkonstruktivismus in der deutschsprachigen Soziologie",
+      "printed_page_number": "589",
+      "source_page_index": -1,
+      "authors": [
+        "Ren\u00e9 Tuma",
+        "Ren\u00e9 Wilke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rezeption des Symbolischen Interaktionismus und der Ethnomethodologie in der deutschsprachigen Soziologie",
+      "printed_page_number": "619",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg Bergmann",
+        "Bruno Hildenbrand"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Foucault-Rezeption in der deutschsprachigen Soziologie",
+      "printed_page_number": "637",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Seyfert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rational-Choice-Rezeption in der deutschsprachigen Soziologie",
+      "printed_page_number": "663",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Diekmann",
+        "Thomas Voss"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bourdieu-Rezeption in der deutschsprachigen Soziologie",
+      "printed_page_number": "683",
+      "source_page_index": -1,
+      "authors": [
+        "Boike Rehbein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil V Methodengeschichte und Entwicklung der empirischen Sozialforschung im deutschsprachigen Raum",
+      "printed_page_number": "695",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zur Vorgeschichte der empirischen Sozialforschung",
+      "printed_page_number": "697",
+      "source_page_index": -1,
+      "authors": [
+        "Heinz Maus"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Quantifizierende Sozialforschung nach 1945",
+      "printed_page_number": "721",
+      "source_page_index": -1,
+      "authors": [
+        "Christoph Weischer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geschichte Qualitativer und Interpretativer Forschung in der deutschsprachigen Soziologie nach 1945",
+      "printed_page_number": "735",
+      "source_page_index": -1,
+      "authors": [
+        "Andrea Ploder"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "viii",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Teil VI Institutionalisierungsprozesse in der deutschsprachigen Soziologie: Fachgesellschaften",
+      "printed_page_number": "761",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Geschichte der Soziologischen Gesellschaft in Wien",
+      "printed_page_number": "763",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard M\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geschichte der Soziologischen Gesellschaft in Graz",
+      "printed_page_number": "779",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard M\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The History of the Verein f\u00fcr Socialpolitik",
+      "printed_page_number": "791",
+      "source_page_index": -1,
+      "authors": [
+        "Irmela Gorges"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die fr\u00fche Deutsche Gesellschaft f\u00fcr Soziologie",
+      "printed_page_number": "809",
+      "source_page_index": -1,
+      "authors": [
+        "Uwe D\u00f6rk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Deutsche Gesellschaft f\u00fcr Soziologie (DGS) in der Zwischenkriegszeit (1918\u20131933)",
+      "printed_page_number": "829",
+      "source_page_index": -1,
+      "authors": [
+        "Uwe D\u00f6rk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Deutsche Gesellschaft f\u00fcr Soziologie zur Zeit des Nationalsozialismus",
+      "printed_page_number": "849",
+      "source_page_index": -1,
+      "authors": [
+        "Sonja Schnitzler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Ausdifferenzierung der westdeutschen Soziologie nach 1945 im Spiegel der Untergruppen, Fachaussch\u00fcsse und Sektionen der DGS",
+      "printed_page_number": "867",
+      "source_page_index": -1,
+      "authors": [
+        "Henning Borggr\u00e4fe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geschichte der \u00d6sterreichischen Gesellschaft f\u00fcr Soziologie",
+      "printed_page_number": "887",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Fleck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Schweizerische Gesellschaft f\u00fcr Soziologie (SGS)",
+      "printed_page_number": "895",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas S. Eberle",
+        "Niklaus Reichle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil VII Institutionalisierungsprozesse in der deutschsprachigen Soziologie: Fachzeitschriften",
+      "printed_page_number": "919",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Geschichte der K\u00f6lner Zeitschrift f\u00fcr Soziologie und Sozialpsychologie",
+      "printed_page_number": "921",
+      "source_page_index": -1,
+      "authors": [
+        "Volker Dreier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geschichte des Leviathan",
+      "printed_page_number": "937",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Blomert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Geschichte der Schweizerischen Zeitschrift f\u00fcr Soziologie",
+      "printed_page_number": "945",
+      "source_page_index": -1,
+      "authors": [
+        "Beat Fux"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geschichte der \u00d6sterreichischen Zeitschrift f\u00fcr Soziologie",
+      "printed_page_number": "961",
+      "source_page_index": -1,
+      "authors": [
+        "Werner Reichmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Gr\u00fcndung der Soziologischen Revue",
+      "printed_page_number": "975",
+      "source_page_index": -1,
+      "authors": [
+        "Heinz Hartmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geschichte des Berliner Journals f\u00fcr Soziologie",
+      "printed_page_number": "989",
+      "source_page_index": -1,
+      "authors": [
+        "Frank Ettrich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil VIII Institutionalisierungsprozesse in der deutschsprachigen Soziologie: Forschungseinrichtungen",
+      "printed_page_number": "995",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Geschichte des Instituts f\u00fcr H\u00f6here Studien in Wien",
+      "printed_page_number": "997",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Fleck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geschichte des Max-Planck-Instituts f\u00fcr Bildungsforschung in Berlin",
+      "printed_page_number": "1009",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Thoms"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geschichte des Instituts f\u00fcr Sozialwissenschaftliche Forschung in M\u00fcnchen",
+      "printed_page_number": "1025",
+      "source_page_index": -1,
+      "authors": [
+        "Dieter Sauer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geschichte des Soziologischen Forschungsinstituts G\u00f6ttingen",
+      "printed_page_number": "1045",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Baethge",
+        "Michael Schumann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geschichte der Soziologie am Wissenschaftszentrum Berlin",
+      "printed_page_number": "1065",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Knie",
+        "Dagmar Simon"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geschichte des Max-Planck-Instituts zur Erforschung der Lebensbedingungen der wissenschaftlich-technischen Welt in Starnberg (MPIL) und des Max-Planck-Instituts f\u00fcr Gesellschaftsforschung in K\u00f6ln (MPIfG)",
+      "printed_page_number": "1077",
+      "source_page_index": -1,
+      "authors": [
+        "Ariane Leendertz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Personenverzeichnis",
+      "printed_page_number": "1091",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

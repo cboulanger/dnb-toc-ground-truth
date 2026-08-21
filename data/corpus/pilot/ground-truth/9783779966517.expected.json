@@ -1,0 +1,427 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "I. Danksagung des Herausgebers",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "II. Einleitung",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": true
+    },
+    {
+      "title": "III. Verwendete Abkürzungen",
+      "authors": [],
+      "printed_page_number": "14",
+      "skip": true
+    },
+    {
+      "title": "IV. Familie und Soziale Arbeit",
+      "authors": [],
+      "printed_page_number": "17",
+      "skip": true
+    },
+    {
+      "title": "Soziale Arbeit in der Kindertagesstätte",
+      "authors": [
+        "Brigitte Neuß",
+        "Johanna Schophaus"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit in der Fachberatung Kindertageseinrichtung",
+      "authors": [
+        "Judith Graaf"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit in der offenen Kinder- und Jugendarbeit",
+      "authors": [
+        "Lea Henke"
+      ],
+      "printed_page_number": "32",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit in der ambulanten Erziehungshilfe",
+      "authors": [
+        "Micha Kraus"
+      ],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit in der Leitung eines freien Trägers in der Kinder- und Jugendhilfe",
+      "authors": [
+        "Daniela Da Trindade"
+      ],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit in der Bezirkssozialarbeit des Jugendamtes",
+      "authors": [
+        "Simon Sellung"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "V. Erziehung und Soziale Arbeit",
+      "authors": [],
+      "printed_page_number": "72",
+      "skip": true
+    },
+    {
+      "title": "Soziale Arbeit an der Grundschule",
+      "authors": [
+        "Christine Jilg"
+      ],
+      "printed_page_number": "72",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit an einer Gesamtschule",
+      "authors": [
+        "Joana Lin Schmitz-Steger"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit mit „Systemsprenger:innen\" im Förderzentrum",
+      "authors": [
+        "Jana Autor"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit in der Jugendberufshilfe",
+      "authors": [
+        "Claudia Gernand"
+      ],
+      "printed_page_number": "94",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit in der Streetwork mit Jugendlichen",
+      "authors": [
+        "Nils Hüttinger"
+      ],
+      "printed_page_number": "104",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit im Jugendmigrationsdienst",
+      "authors": [
+        "Jannis Plastargias"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "VI. Wirtschaft und Soziale Arbeit",
+      "authors": [],
+      "printed_page_number": "125",
+      "skip": true
+    },
+    {
+      "title": "Soziale Arbeit in der Wohnungswirtschaft / für ältere Menschen",
+      "authors": [
+        "Helene Böhm"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit in Betrieben",
+      "authors": [
+        "Alois Huber"
+      ],
+      "printed_page_number": "136",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit im Wohlfahrtsverband (Projektmanagement)",
+      "authors": [
+        "Anke Loth"
+      ],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "VII. Krankenversorgung und Soziale Arbeit",
+      "authors": [],
+      "printed_page_number": "156",
+      "skip": true
+    },
+    {
+      "title": "Soziale Arbeit in der Mobilen Sozialen Arbeit für Menschen mit Beeinträchtigung",
+      "authors": [
+        "Manuela Nagl"
+      ],
+      "printed_page_number": "156",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit in der Eingliederungshilfe",
+      "authors": [
+        "Eckart Nebel"
+      ],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit im Kliniksozialdienst einer Kinder- und Jugendpsychiatrie",
+      "authors": [
+        "Tobias Falke"
+      ],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit in der ambulanten Kinder- und Jugendpsychiatrie",
+      "authors": [
+        "Carmen Torchalla"
+      ],
+      "printed_page_number": "184",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit im ambulant betreuten Wohnen für psychisch erkrankte und/oder suchterkrankte Menschen",
+      "authors": [
+        "Johannes Mertens"
+      ],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit in einer Akutklinik für abhängigkeitserkrankte Menschen",
+      "authors": [
+        "Sascha Heß"
+      ],
+      "printed_page_number": "202",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit im Krankenhaus",
+      "authors": [
+        "Lisa-Marie Pernak"
+      ],
+      "printed_page_number": "208",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit in der Leitung in der stationären Altenhilfe",
+      "authors": [
+        "Borghild Wicke-Schuldt"
+      ],
+      "printed_page_number": "219",
+      "skip": false
+    },
+    {
+      "title": "VIII. Recht und Soziale Arbeit",
+      "authors": [],
+      "printed_page_number": "227",
+      "skip": true
+    },
+    {
+      "title": "Soziale Arbeit im ambulanten Sozialen Dienst der Justiz",
+      "authors": [
+        "Swetlana Frese"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit in der Forensischen Ambulanz",
+      "authors": [
+        "Ines Drexelius"
+      ],
+      "printed_page_number": "237",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit in der Forensischen Psychiatrie",
+      "authors": [
+        "Dolf Kleinschmidt"
+      ],
+      "printed_page_number": "246",
+      "skip": false
+    },
+    {
+      "title": "IX. Religion und Soziale Arbeit",
+      "authors": [],
+      "printed_page_number": "253",
+      "skip": true
+    },
+    {
+      "title": "Soziale Arbeit und Diakonie in der Wohnungslosenhilfe",
+      "authors": [
+        "Anna-Sofie Gerth"
+      ],
+      "printed_page_number": "253",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit und radikaler Islamismus",
+      "authors": [
+        "Alexander Gesing"
+      ],
+      "printed_page_number": "259",
+      "skip": false
+    },
+    {
+      "title": "X. Medien und Soziale Arbeit",
+      "authors": [],
+      "printed_page_number": "268",
+      "skip": true
+    },
+    {
+      "title": "Soziale Arbeit in der Medienpädagogik",
+      "authors": [
+        "Romina Nölp"
+      ],
+      "printed_page_number": "268",
+      "skip": false
+    },
+    {
+      "title": "XI. Polizei bzw. Militär und Soziale Arbeit",
+      "authors": [],
+      "printed_page_number": "278",
+      "skip": true
+    },
+    {
+      "title": "Soziale Arbeit in der Polizei",
+      "authors": [
+        "Julia Kelcec"
+      ],
+      "printed_page_number": "278",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit in der Bundeswehr",
+      "authors": [
+        "Georgios Papadopoulos"
+      ],
+      "printed_page_number": "284",
+      "skip": false
+    },
+    {
+      "title": "XII. Teilsystemisch Querliegende Handlungsorientierungen und Soziale Arbeit",
+      "authors": [],
+      "printed_page_number": "294",
+      "skip": true
+    },
+    {
+      "title": "Soziale Arbeit in der Frauen-Beratungsstelle",
+      "authors": [
+        "Manuela Kleine"
+      ],
+      "printed_page_number": "294",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit im Frauenhaus",
+      "authors": [
+        "Katrin Halmen"
+      ],
+      "printed_page_number": "303",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit und Sexarbeit",
+      "authors": [
+        "Anna Mühlen",
+        "Katharina Vorberg"
+      ],
+      "printed_page_number": "313",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit in der Asylberatung",
+      "authors": [
+        "Simon Kolbe",
+        "Lena Heller"
+      ],
+      "printed_page_number": "328",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit im ambulant betreuten Wohnen für Menschen in besonderen sozialen Schwierigkeiten",
+      "authors": [
+        "Romina Becher"
+      ],
+      "printed_page_number": "338",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit in der stationären Wohnungslosenhilfe",
+      "authors": [
+        "Michaela Schnabel"
+      ],
+      "printed_page_number": "347",
+      "skip": false
+    },
+    {
+      "title": "XIII. Wissenschaft und Soziale Arbeit – Disziplin und Profession",
+      "authors": [],
+      "printed_page_number": "357",
+      "skip": true
+    },
+    {
+      "title": "Soziale Arbeit in der Lehre",
+      "authors": [
+        "Jan V. Wirth"
+      ],
+      "printed_page_number": "357",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit und Wissenschaft",
+      "authors": [
+        "Tim Middendorf"
+      ],
+      "printed_page_number": "362",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit in der Forschung",
+      "authors": [
+        "Jan V. Wirth"
+      ],
+      "printed_page_number": "373",
+      "skip": false
+    },
+    {
+      "title": "Soziale Arbeit in der Supervision",
+      "authors": [
+        "Marlies Hendriks"
+      ],
+      "printed_page_number": "379",
+      "skip": false
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "391",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,812 @@
+{
+  "generated_at": 1786913699.243805,
+  "entries": [
+    {
+      "title": "Vorwort und Einf\u00fchrung in diesen Band",
+      "printed_page_number": 9,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Entwurf einer Integrativen Pers\u00f6nlichkeitstheorie",
+      "printed_page_number": 15,
+      "source_page_index": -1,
+      "authors": [
+        "Seymour Epstein"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Theoretische Grundannahmen",
+      "printed_page_number": 15,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Die Entwicklung des Selbstsystems und ihre St\u00f6rungen",
+      "printed_page_number": 17,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Selbstwertgef\u00fchl und Selbsttheorie",
+      "printed_page_number": 18,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Die Erhaltung des Selbstsystems",
+      "printed_page_number": 20,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Selbsttheorie und Emotionen",
+      "printed_page_number": 22,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Selbsttheorie und Anpassung",
+      "printed_page_number": 23,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Selbsttheorie und psychodynamische Prozesse",
+      "printed_page_number": 27,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Implikationen f\u00fcr psychotherapeutische Intervention",
+      "printed_page_number": 29,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Vorschl\u00e4ge zur L\u00f6sung kontroverser Fragen",
+      "printed_page_number": 31,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Die empirische Analyse einiger zentraler Probleme der Selbstkonzept-Forschung",
+      "printed_page_number": 35,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Ein Forschungsprogramm f\u00fcr die Analyse kognitiver Selbsttheorien",
+      "printed_page_number": 39,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Zusammenfassung",
+      "printed_page_number": 42,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Ph\u00e4nomenologische Analysen der Person-Umwelt-Beziehung",
+      "printed_page_number": 47,
+      "source_page_index": -1,
+      "authors": [
+        "Manfred Fischer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Ph\u00e4nomenologisch orientierte Psychologie als Br\u00fccke zwischen Selbstkonzept-Forschung und Umweltpsychologie",
+      "printed_page_number": 47,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Erlebnisdeskriptive Kategorien von Person-Umwelt-Beziehungen",
+      "printed_page_number": 51,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Grundkategorien des Umwelterlebens",
+      "printed_page_number": 51,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Person-Umwelt-Beziehungen als Kongruenzerleben",
+      "printed_page_number": 57,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Die Bedeutung der Umgebung als sinnlicher und symbolischer Merkmaltr\u00e4ger f\u00fcr das Selbsterleben",
+      "printed_page_number": 60,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "R\u00e4umliche Struktur und materielle Beschaffenheit der Umwelt als Randbedingungen des Selbsterlebens",
+      "printed_page_number": 61,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Selbsterleben unter der Bedingung hoher Personendichte",
+      "printed_page_number": 63,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Ortsbezogenheit, Territorialit\u00e4t und Identit\u00e4t",
+      "printed_page_number": 65,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "\"Privatheit\" als integratives Konzept f\u00fcr eine ph\u00e4nomenologische Analyse von Person-Umwelt-Beziehungen",
+      "printed_page_number": 67,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Selbsterkenntnis und die wissenschaftliche Erkenntnis des sozialen Handelns",
+      "printed_page_number": 75,
+      "source_page_index": -1,
+      "authors": [
+        "Kenneth J. Gergen"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Stabilit\u00e4t vs. Variabilit\u00e4t in Selbstkonzepten",
+      "printed_page_number": 76,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Die vielf\u00e4ltigen Formen der \u201eEhrlichkeit\u201c",
+      "printed_page_number": 77,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Fl\u00fcchtige Schwankungen in Selbstkonzepten",
+      "printed_page_number": 79,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Soziale Subjektivit\u00e4t und Selbsterkenntnis",
+      "printed_page_number": 82,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Stabilit\u00e4t innerhalb des Wandels",
+      "printed_page_number": 84,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Kern vs. Peripherie",
+      "printed_page_number": 84,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Situationale Stabilit\u00e4t",
+      "printed_page_number": 86,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Konzeptuelle Flexibilit\u00e4t",
+      "printed_page_number": 87,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Selbstbeschreibungen im sozialen Diskurs",
+      "printed_page_number": 88,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Selbsterkenntnis \u2014 eine Herausforderung an die positivistische Wissenschaftsauffassung",
+      "printed_page_number": 89,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Selbsterkenntnis, wissenschaftliche Erkenntnis und soziale Ver\u00e4nderung",
+      "printed_page_number": 92,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Theorie der Selbstwahrnehmung",
+      "printed_page_number": 97,
+      "source_page_index": -1,
+      "authors": [
+        "Daryl J. Bem"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Einf\u00fchrung",
+      "printed_page_number": 97,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Die Entwicklung von Selbstattributions",
+      "printed_page_number": 98,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Postulate der Theorie der Selbstwahrnehmung",
+      "printed_page_number": 99,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Empirische Evidenz f\u00fcr die Theorie",
+      "printed_page_number": 103,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Das Cartoon-Experiment",
+      "printed_page_number": 104,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Das \u201eFalschaussagen\u201c-Experiment",
+      "printed_page_number": 105,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Das Experiment zur Schmerzwahrnehmung",
+      "printed_page_number": 105,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Andere Ph\u00e4nomene in der Selbstwahrnehmung",
+      "printed_page_number": 108,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Effekte von Fehlattributions",
+      "printed_page_number": 108,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Die Selbstattributions dispositionaler Merkmale",
+      "printed_page_number": 110,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Effekte der Selbstrechtfertigung",
+      "printed_page_number": 112,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Einige Unterschiede zwischen Selbstwahrnehmung und interpersoneller Wahrnehmung",
+      "printed_page_number": 113,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Einige ungel\u00f6ste Probleme in der Selbstwahrnehmung",
+      "printed_page_number": 116,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Der theoretische Status nicht-kognitiver Variablen",
+      "printed_page_number": 116,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Beeinflussen Attributionen das Verhalten?",
+      "printed_page_number": 120,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Entwurf eines heuristischen Bezugsrahmens f\u00fcr Selbstkonzept-Forschung: Menschliche Informationsverarbeitung und naive Handlungstheorie",
+      "printed_page_number": 129,
+      "source_page_index": -1,
+      "authors": [
+        "Sigrun-Heide Filipp"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Einf\u00fchrung",
+      "printed_page_number": 129,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Menschliche Informationsverarbeitung und der Aufbau interner Selbstmodelle",
+      "printed_page_number": 130,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Quellen selbstbezogener Informationen",
+      "printed_page_number": 131,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Aufnahme und Verarbeitung selbstbezogener Informationen",
+      "printed_page_number": 139,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Naive Handlungstheorien: Vom internen Selbstmodell zu handlungsleitenden Selbstkognitionen",
+      "printed_page_number": 144,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Res\u00fcmee: Versuch einer Rekonzeptualisierung von \u201eSelbstkonzept\u201c",
+      "printed_page_number": 147,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Die Aktualisierung von Selbstkonzepten in Handlungsvollz\u00fcgen",
+      "printed_page_number": 153,
+      "source_page_index": -1,
+      "authors": [
+        "Robert A. Wicklund"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Einf\u00fchrung",
+      "printed_page_number": 153,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Intensivierung des Kontaktes mit sich selbst",
+      "printed_page_number": 156,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Die Regulation des eigenen Verhaltens",
+      "printed_page_number": 160,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Konflikte zwischen Handlungszielen",
+      "printed_page_number": 165,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Zusammenfassung",
+      "printed_page_number": 167,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Methoden und Probleme der Messung von Selbstkonzepten",
+      "printed_page_number": 171,
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Dieter Mummendey"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Methodenprobleme im weiteren Sinne",
+      "printed_page_number": 171,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Methodenprobleme im engeren Sinne",
+      "printed_page_number": 173,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Verfahren der Selbsteinsch\u00e4tzung",
+      "printed_page_number": 175,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Adjektivische Selbstbeschreibungsverfahren",
+      "printed_page_number": 176,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Sortierverfahren",
+      "printed_page_number": 177,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Rating-Verfahren",
+      "printed_page_number": 178,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Semantisches Differential",
+      "printed_page_number": 180,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Pers\u00f6nlichkeitsfragebogen",
+      "printed_page_number": 181,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Weitere Verfahren",
+      "printed_page_number": 182,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Generalit\u00e4t vs. Spezifit\u00e4t der Selbstkonzept-Messung",
+      "printed_page_number": 184,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Eine deutsche Version der Sears Self-Concept Inventory Scale (SSCI)",
+      "printed_page_number": 191,
+      "source_page_index": -1,
+      "authors": [
+        "Otto Ewert"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Selbstkonzept als Moderatorvariable zur Erkl\u00e4rung von Schulleistungen",
+      "printed_page_number": 191,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Selbstkonzept als Gegenstand p\u00e4dagogischer Verhaltensmodifikation",
+      "printed_page_number": 192,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Die Selbstkonzept-Skala (SSCI) von Pauline S. Sears",
+      "printed_page_number": 194,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Globales Selbstkonzept vs. Dimensionen des Selbstkonzepts",
+      "printed_page_number": 199,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Selbstkonzepte und die Selbstregulation des Verhaltens",
+      "printed_page_number": 203,
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Butzkamm",
+        "Frank Halisch",
+        "Norbert Posse"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Verhaltenstheoretisch orientierte Selbstregulationsforschung",
+      "printed_page_number": 203,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Kognitiv orientierte Selbstregulationsforschung",
+      "printed_page_number": 207,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Kognitive Prozesse in der Selbstregulation",
+      "printed_page_number": 208,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Pers\u00f6nlichkeitsparameter in der Selbstregulation",
+      "printed_page_number": 211,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Eine empirische Analyse am Beispiel des Leistungshandelns",
+      "printed_page_number": 214,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Scheinbar paradoxe Wirkungen von Lob und Tadel auf die wahrgenommene eigene Begabung",
+      "printed_page_number": 221,
+      "source_page_index": -1,
+      "authors": [
+        "Wulf-Uwe Meyer",
+        "Fritz-Otto Pl\u00f6ger"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Annahmen \u00fcber vermittelnde Proze\u00dfvariable",
+      "printed_page_number": 222,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Empirische Untersuchungen",
+      "printed_page_number": 224,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Experiment I",
+      "printed_page_number": 225,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Experiment II",
+      "printed_page_number": 227,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Experiment III",
+      "printed_page_number": 229,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Schlu\u00dffolgerungen",
+      "printed_page_number": 232,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Bezugsnormen und die Wahrnehmung eigener T\u00fcchtigkeit",
+      "printed_page_number": 237,
+      "source_page_index": -1,
+      "authors": [
+        "Falko Rheinberg"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "T\u00fcchtigkeitswahrnehmungen im sozialen Vergleich: Bezugsgruppen-Effekte",
+      "printed_page_number": 237,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "T\u00fcchtigkeitswahrnehmungen unter sozialen und individuellen Bezugsnormen",
+      "printed_page_number": 241,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Bezugsnormen und Leistungswahrnehmung",
+      "printed_page_number": 241,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Bezugsnormen und T\u00fcchtigkeitswahrnehmung",
+      "printed_page_number": 241,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Erste empirische Befunde",
+      "printed_page_number": 243,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Zusammenfassung",
+      "printed_page_number": 250,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Berufliche Entwicklung und Selbstkonzepte",
+      "printed_page_number": 253,
+      "source_page_index": -1,
+      "authors": [
+        "Reinhold Scheller",
+        "Friedrich E. Heil"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Das Selbstkonzept als kognitive Determinante der beruflichen Entwicklung nach Super",
+      "printed_page_number": 255,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Die konsistenztheoretischen Implikationen des Selbstwertgef\u00fchls f\u00fcr die berufliche Entwicklung nach Korman",
+      "printed_page_number": 257,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Gegen\u00fcberstellung der Ans\u00e4tze von Korman und Super",
+      "printed_page_number": 262,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Zusammenfassung",
+      "printed_page_number": 269,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Der Beitrag der Selbstkonzept-Forschung zur Erkl\u00e4rung sozial abweichenden Verhaltens",
+      "printed_page_number": 273,
+      "source_page_index": -1,
+      "authors": [
+        "Hanns Martin Trautner"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": 273,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Empirische Befunde zur Beziehung zwischen Delinquenz und Selbstkonzept",
+      "printed_page_number": 276,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Diskussion der empirischen Befunde",
+      "printed_page_number": 284,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Forschungsdefizite und Forschungsperspektiven",
+      "printed_page_number": 285,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    }
+  ]
+}

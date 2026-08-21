@@ -1,0 +1,168 @@
+{
+  "entries": [
+    {
+      "title": "Einleitung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Opinio doctorum",
+      "authors": [
+        "Erk Volkmar Heyen"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Rechtswissenschaft im Gesellschafts- und Staatssystem",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "I.",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "De la controverse doctrinale à la régulation sociale: guerre, mariage, usure dans le Décret de Gratien",
+      "authors": [
+        "André-Jean Arnaud"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "The Jurisprudence on Usury as a Social Paradigm in the History of Europe",
+      "authors": [
+        "Bartolomé Clavero"
+      ],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "II.",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "La raison juridique à l'œuvre: les krausistes espagnols",
+      "authors": [
+        "Johannes-Michael Scholz"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "Stratégies du maintien de l'ordre en Belgique et en France au XIXe siècle: la doctrine de la défense sociale",
+      "authors": [
+        "Marie-Sylvie Dupont-Bouchat"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Discours juridique et changement politique: l'exemple de la révolution portugaise de 1974",
+      "authors": [
+        "António M. Hespanha"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "Kommunikationssysteme der Rechtswissenschaft",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Von Dissidenten und Klassikern. Eine Zitationsanalyse der Veröffentlichungen der Vereinigung der Deutschen Staatsrechtslehrer",
+      "authors": [
+        "Rüdiger Voigt",
+        "Wolfgang Luthardt"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Juristische Universitätsdisputationen im 17. und 18. Jahrhundert. Zur Analyse des deutschen Autoren- und Händlermarktes",
+      "authors": [
+        "Filippo Ranieri"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Herkunftsprofile des „Archivs für öffentliches Recht\" im kaiserlichen Deutschland",
+      "authors": [
+        "Erk Volkmar Heyen"
+      ],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "Rechtswissenschaft im Berufs- und Wissenschaftssystem",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "I.",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Education of Prussian Higher Civil Servants in the Staatswissenschaften, 1897-1914",
+      "authors": [
+        "David F. Lindenfeld"
+      ],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "Drei Rechtssoziologien: Eugen Ehrlich, Hugo Sinzheimer, Max Weber",
+      "authors": [
+        "Hubert Rottleuthner"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "The Influence of Social Science on the Dogmatics of Private Law in Denmark and Norway in the Period after 1900",
+      "authors": [
+        "Jørgen Dalberg-Larsen"
+      ],
+      "printed_page_number": "253",
+      "skip": false
+    },
+    {
+      "title": "II.",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Strukturen der niederländischen rechtsmethodologischen Diskussion im 20. Jahrhundert",
+      "authors": [
+        "Otto W. M. Kamstra",
+        "Frank B. M. Kunneman"
+      ],
+      "printed_page_number": "273",
+      "skip": false
+    },
+    {
+      "title": "Social Conditions for Legal Doctrines. The Doctoral Dissertation in the Finnish Science of Law",
+      "authors": [
+        "Juha Pöyhönen"
+      ],
+      "printed_page_number": "283",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

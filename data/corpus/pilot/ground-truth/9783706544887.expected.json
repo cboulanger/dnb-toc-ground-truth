@@ -1,0 +1,154 @@
+{
+  "entries": [
+    {
+      "title": "INHALT",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einführung",
+      "authors": [
+        "Gabriella Hauch",
+        "Johanna Gehmacher"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "FORSCHUNGSÜBERBLICK",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Frauen- und Geschlechterforschung zum Nationalsozialismus seit den 1970er Jahren. Forschungsstand, Veränderungen, Perspektiven",
+      "authors": [
+        "Susanne Lanwerd",
+        "Irene Stoehr"
+      ],
+      "printed_page_number": "22",
+      "skip": false
+    },
+    {
+      "title": "LANDWIRTSCHAFT",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Nationalsozialistische Geschlechterpolitik und bäuerliche Lebenswelten. Frauenspezifische Organisierung – Arbeitsteilungen – Besitzverhältnisse",
+      "authors": [
+        "Gabriella Hauch"
+      ],
+      "printed_page_number": "70",
+      "skip": false
+    },
+    {
+      "title": "Das Geschlecht der landwirtschaftlichen Zwangsarbeit – am Beispiel des Reichsgaues Niederdonau 1939–1945",
+      "authors": [
+        "Ernst Langthaler",
+        "Sabine Schweitzer"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "VERFOLGUNG",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Verfolgung von Homosexuellen am Beispiel Oberösterreich in der NS-Zeit",
+      "authors": [
+        "Albert Knoll",
+        "Thomas Brüstle"
+      ],
+      "printed_page_number": "114",
+      "skip": false
+    },
+    {
+      "title": "Jüdische Frauen in Oberösterreich. Beispiele von Ausgrenzung und Verfolgung",
+      "authors": [
+        "Regina Thumser"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "DISSENS/KONSENS",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "„Das hätte ich nicht gekonnt: nichts tun.\" Widerstand und Verfolgung von Frauen am Beispiel des Reichsgaues Oberdonau",
+      "authors": [
+        "Martina Gugglberger"
+      ],
+      "printed_page_number": "152",
+      "skip": false
+    },
+    {
+      "title": "Denunziation, „Wehrkraftzersetzung\" und Geschlecht",
+      "authors": [
+        "Ela Hornung"
+      ],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "MEDIZIN",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "„Die Eigenart des jetzt zu behandelnden Materials.\" „Erbkranke\" und „Ostarbeiterinnen\" im Fadenkreuz nationalsozialistischer Politik und gynäkologischer Forschung",
+      "authors": [
+        "Gabriele Czarnowski"
+      ],
+      "printed_page_number": "186",
+      "skip": false
+    },
+    {
+      "title": "Diffamiert – zwangssterilisiert – ignoriert. Hermine B. und die Folgen ihrer Verfolgung als ‚Asoziale' von der NS-Zeit bis in die Gegenwart",
+      "authors": [
+        "Claudia Spring"
+      ],
+      "printed_page_number": "204",
+      "skip": false
+    },
+    {
+      "title": "NACHGESCHICHTEN",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Nichts gesehen – nichts gewusst. Die juristische Verfolgung ehemaliger SS-Aufseherinnen durch die Volksgerichte Wien und Linz",
+      "authors": [
+        "Jeanette Toussaint"
+      ],
+      "printed_page_number": "222",
+      "skip": false
+    },
+    {
+      "title": "Frauen, Männer, Untergänge. Geschlechterbilder und Gedächtnispolitiken in Darstellungen zum Ende des ‚Dritten Reiches'",
+      "authors": [
+        "Johanna Gehmacher"
+      ],
+      "printed_page_number": "240",
+      "skip": false
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "257",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

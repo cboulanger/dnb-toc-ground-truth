@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort des Herausgebers des Handbuchs „Deutschunterricht in Theorie und Praxis“",
+      "authors": [],
+      "printed_page_number": "IX",
+      "skip": true
+    },
+    {
+      "title": "Vorwort der Herausgeber dieses Bandes",
+      "authors": [],
+      "printed_page_number": "XIII",
+      "skip": true
+    },
+    {
+      "title": "A Geschichte und Entwicklung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "A1 Geschichte schulischen Schreibens",
+      "authors": [
+        "Ulf Abraham"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "B Konzeptionelle und empirische Grundlagen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "B1 Begriff und Bedingungen literaler Kompetenz",
+      "authors": [
+        "Helmuth Feilke"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "B2 Schreibkompetenz: Pragmatik und Grammatik der Textstruktur",
+      "authors": [
+        "Ludger Hoffmann"
+      ],
+      "printed_page_number": "54",
+      "skip": false
+    },
+    {
+      "title": "B3 Schreibkompetenz und Schreibprozess",
+      "authors": [
+        "Arne Wrobel"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "B4 Entwicklung der Schreibkompetenzen",
+      "authors": [
+        "Thorsten Pohl"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "C Kompetenzbereiche und Unterrichtsziele",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "CI Schulstufenaspekt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "C1 Schreiben in der Grundschule",
+      "authors": [
+        "Swantje Weinhold"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "C2 Schreiben in der Sekundarstufe I",
+      "authors": [
+        "Viola Oehme"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "C3 Schreiben in der Sekundarstufe II",
+      "authors": [
+        "Angelika Steets"
+      ],
+      "printed_page_number": "178",
+      "skip": false
+    },
+    {
+      "title": "C4 Schreiben in der Zweitsprache Deutsch",
+      "authors": [
+        "Kirsten Schindler",
+        "Gesa Siebert-Ott"
+      ],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "CII Form- und Funktionsaspekt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "C5 Schriftliches Erzählen",
+      "authors": [
+        "Sören Ohlhus"
+      ],
+      "printed_page_number": "216",
+      "skip": false
+    },
+    {
+      "title": "C6 Schriftliches Berichten",
+      "authors": [
+        "Helmuth Feilke"
+      ],
+      "printed_page_number": "233",
+      "skip": false
+    },
+    {
+      "title": "C7 Schriftliches Beschreiben",
+      "authors": [
+        "Jakob Ossner"
+      ],
+      "printed_page_number": "252",
+      "skip": false
+    },
+    {
+      "title": "C8 Schriftliches Instruieren",
+      "authors": [
+        "Thomas Bachmann"
+      ],
+      "printed_page_number": "270",
+      "skip": false
+    },
+    {
+      "title": "C9 Schriftliches Argumentieren",
+      "authors": [
+        "Thorsten Pohl"
+      ],
+      "printed_page_number": "287",
+      "skip": false
+    },
+    {
+      "title": "C10 Schriftliches Referieren",
+      "authors": [
+        "Torsten Steinhoff"
+      ],
+      "printed_page_number": "316",
+      "skip": false
+    },
+    {
+      "title": "C11 Lernen durch Schreiben",
+      "authors": [
+        "Torsten Steinhoff"
+      ],
+      "printed_page_number": "331",
+      "skip": false
+    },
+    {
+      "title": "D Methodenaspekte",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "D1 Prozessorientierung und Methoden des Schreibunterrichts",
+      "authors": [
+        "Jürgen Baurmann"
+      ],
+      "printed_page_number": "349",
+      "skip": false
+    },
+    {
+      "title": "D2 „Kreatives“ und „poetisches“ Schreiben",
+      "authors": [
+        "Ulf Abraham"
+      ],
+      "printed_page_number": "364",
+      "skip": false
+    },
+    {
+      "title": "D3 Schreiben und grammatische Sprachreflexion",
+      "authors": [
+        "Peter Klotz"
+      ],
+      "printed_page_number": "382",
+      "skip": false
+    },
+    {
+      "title": "D4 Schreiben zu Texten",
+      "authors": [
+        "Werner Knapp"
+      ],
+      "printed_page_number": "399",
+      "skip": false
+    },
+    {
+      "title": "D5 Gemeinsames Schreiben",
+      "authors": [
+        "Katrin Lehnen"
+      ],
+      "printed_page_number": "414",
+      "skip": false
+    },
+    {
+      "title": "D6 Schreibdidaktik und neue Medien",
+      "authors": [
+        "Katrin Lehnen"
+      ],
+      "printed_page_number": "432",
+      "skip": false
+    },
+    {
+      "title": "E Unterrichtsforschung und Kompetenzförderung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "E1 Unterrichtliches Schreiben und Kompetenzentwicklung",
+      "authors": [
+        "Sabine Schmölder-Eibinger"
+      ],
+      "printed_page_number": "453",
+      "skip": false
+    },
+    {
+      "title": "E2 Selbstreguliertes Schreiben: Modelle, Prozesse und Anwendungen",
+      "authors": [
+        "Cornelia Glaser",
+        "Joachim Brunstein"
+      ],
+      "printed_page_number": "465",
+      "skip": false
+    },
+    {
+      "title": "F Erfolgskontrollen und Leistungsmessung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "F1 Bildungsstandards und Schreibaufgaben",
+      "authors": [
+        "Michael Becker-Mrotzek"
+      ],
+      "printed_page_number": "481",
+      "skip": false
+    },
+    {
+      "title": "F2 Schreibleistungen bewerten und beurteilen",
+      "authors": [
+        "Michael Becker-Mrotzek"
+      ],
+      "printed_page_number": "501",
+      "skip": false
+    },
+    {
+      "title": "F3 Großuntersuchungen zur Schreibleistungsmessung",
+      "authors": [
+        "Astrid Neumann"
+      ],
+      "printed_page_number": "514",
+      "skip": false
+    },
+    {
+      "title": "G Exemplarische Unterrichtsmodelle",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "G1 Spannend erzählen",
+      "authors": [
+        "Wolfgang Menzel"
+      ],
+      "printed_page_number": "535",
+      "skip": false
+    },
+    {
+      "title": "G2 Formulierungen überarbeiten",
+      "authors": [
+        "Brigitte Seidel"
+      ],
+      "printed_page_number": "547",
+      "skip": false
+    },
+    {
+      "title": "G3 Schreiben im Projekt am Beispiel von Barock und Aufklärung",
+      "authors": [
+        "Inge Blatt"
+      ],
+      "printed_page_number": "566",
+      "skip": false
+    },
+    {
+      "title": "Register",
+      "authors": [],
+      "printed_page_number": "585",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

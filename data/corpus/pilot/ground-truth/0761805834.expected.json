@@ -1,0 +1,103 @@
+{
+  "entries": [
+    {
+      "title": "Contents",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgments",
+      "authors": [],
+      "printed_page_number": "iii",
+      "skip": true
+    },
+    {
+      "title": "Authors",
+      "authors": [],
+      "printed_page_number": "v",
+      "skip": true
+    },
+    {
+      "title": "Chapter 1 Membership Categorization Analysis: An Introduction",
+      "authors": [
+        "Stephen Hester",
+        "Peter Eglin"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Chapter 2 The Reflexive Constitution of Category, Predicate and Context in Two Settings",
+      "authors": [
+        "Stephen Hester",
+        "Peter Eglin"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "Chapter 3 Some General Reflections on 'Categorization' and 'Sequence' in the Analysis of Conversation",
+      "authors": [
+        "Rod Watson"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "Chapter 4 Ticketing Rules: Categorization and Moral Ordering in a School Staff Meeting",
+      "authors": [
+        "Carolyn D. Baker"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Chapter 5 Lies, Recollections and Categorical Judgements in Testimony",
+      "authors": [
+        "Michael Lynch",
+        "David Bogen"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "Chapter 6 Narrative Intelligibility and Membership Categorization in a Television Commercial",
+      "authors": [
+        "David Francis",
+        "Christopher Hart"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "Chapter 7 Conclusion: Membership Categorization Analysis and Sociology",
+      "authors": [
+        "Stephen Hester",
+        "Peter Eglin"
+      ],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "Notes",
+      "authors": [],
+      "printed_page_number": "164",
+      "skip": true
+    },
+    {
+      "title": "Bibliography",
+      "authors": [],
+      "printed_page_number": "175",
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "188",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

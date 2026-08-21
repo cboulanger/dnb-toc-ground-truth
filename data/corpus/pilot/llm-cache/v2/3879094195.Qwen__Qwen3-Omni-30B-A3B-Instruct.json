@@ -1,0 +1,280 @@
+{
+  "generated_at": 1787236644.070438,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "WENZEL JACOB",
+      "printed_page_number": "6",
+      "source_page_index": -1,
+      "authors": [
+        "WENZEL JACOB"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "6",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PONTUS HULTEN",
+      "printed_page_number": "8",
+      "source_page_index": -1,
+      "authors": [
+        "PONTUS HULTEN"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Viva Napoli!",
+      "printed_page_number": "8",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "GIULIO MACCHI",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "GIULIO MACCHI"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zwei Augen erwarten Sie in Neapel",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "STEFANO DE CARO",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "STEFANO DE CARO"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Geschichte des Arch\u00e4ologischen Nationalmuseums von Neapel",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "CARLO GASPARRI",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [
+        "CARLO GASPARRI"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Antikensammlung Farnese und das Sammlungswesen im Rom des 16. Jahrhunderts",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "NIKOLAUS HIMMELMANN",
+      "printed_page_number": "37",
+      "source_page_index": -1,
+      "authors": [
+        "NIKOLAUS HIMMELMANN"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Neapels Altert\u00fcmer und Europa",
+      "printed_page_number": "37",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VALERIA SAMPAOLO",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "VALERIA SAMPAOLO"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Freskensammlung des Arch\u00e4ologischen Nationalmuseums",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MARIA ROSARIA BORRIELLO",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [
+        "MARIA ROSARIA BORRIELLO"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die drei \u203aSeelen\u2039 des Arch\u00e4ologischen Nationalmuseums",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Katalog",
+      "printed_page_number": "74",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Sammlungen",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die vesuvianischen St\u00e4dte",
+      "printed_page_number": "114",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VALERIA SAMPAOLO",
+      "printed_page_number": "184",
+      "source_page_index": -1,
+      "authors": [
+        "VALERIA SAMPAOLO"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Aquarelle und Zeichnungen",
+      "printed_page_number": "184",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HARALD MIELSCH",
+      "printed_page_number": "196",
+      "source_page_index": -1,
+      "authors": [
+        "HARALD MIELSCH"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Reproduktionstechniken und arch\u00e4ologische Forschung zur Wandmalerei in den Vesuvst\u00e4dten",
+      "printed_page_number": "196",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "NATHALIE MARQUARDT",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [
+        "NATHALIE MARQUARDT"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kommentierte Bibliographie (Auswahl)",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HARALD MIELSCH",
+      "printed_page_number": "206",
+      "source_page_index": -1,
+      "authors": [
+        "HARALD MIELSCH"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die vier \u203apompejanischen\u2039 Stile",
+      "printed_page_number": "206",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "NATHALIE MARQUARDT",
+      "printed_page_number": "207",
+      "source_page_index": -1,
+      "authors": [
+        "NATHALIE MARQUARDT"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zeittafel von 1000 v. Chr. bis 79 n. Chr.",
+      "printed_page_number": "207",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Photonachweis",
+      "printed_page_number": "214",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

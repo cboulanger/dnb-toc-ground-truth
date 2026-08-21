@@ -1,0 +1,484 @@
+{
+  "generated_at": 1787237653.1553779,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "I. Die Ausgangssituation",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Joachim Jens Hesse",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Jens Hesse"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Erneuerung der Politik \u201evon unten\u201c?",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Jens Hesse"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Stadtpolitik und kommunale Selbstverwaltung im Umbruch",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Jens Hesse"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Manfred G\u00fcllner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Manfred G\u00fcllner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Zustand des lokalen Parteiensystems:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Manfred G\u00fcllner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Chance oder Ende der Kommunalpolitik?",
+      "printed_page_number": "26",
+      "source_page_index": -1,
+      "authors": [
+        "Manfred G\u00fcllner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wolfgang Roth",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Roth"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Erneut: Kommunalpolitik f\u00fcr wen? oder:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Roth"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sinn und Unsinn kommunaler Programmatik",
+      "printed_page_number": "38",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Roth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. Nicht Form und Verfahren, sondern Stil und Inhalte",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Handlungsbedarf und Handlungsm\u00f6glichkeiten in einzelnen kommunalen Problem- und Politikfeldern",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Klaus Bussfeld",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Bussfeld"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Stadterneuerung:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Bussfeld"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Notwendige Erweiterung eines zu engen Politikverst\u00e4ndnisses",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Bussfeld"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Richard R. Klein",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Richard R. Klein"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Stadtfinanzen am Ende oder kommunalfinanzpolitische Wende?",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Richard R. Klein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Olaf Sund",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Olaf Sund"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wirtschafts- und Arbeitsmarktpolitik \u2013 Die Funktion der Kommunen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Olaf Sund"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "bei der Bew\u00e4ltigung des \u00f6konomischen Strukturwandels",
+      "printed_page_number": "92",
+      "source_page_index": -1,
+      "authors": [
+        "Olaf Sund"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eugen Glombig",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Eugen Glombig"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sozialpolitik im Wandel \u2013",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Eugen Glombig"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "eine Herausforderung an den Sozialstaat",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [
+        "Eugen Glombig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Karl Ganser",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Karl Ganser"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Umweltpolitik: Ver\u00e4ndertes Verst\u00e4ndnis \u2013 neue Politik",
+      "printed_page_number": "122",
+      "source_page_index": -1,
+      "authors": [
+        "Karl Ganser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hilmar Hoffmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hilmar Hoffmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kulturpolitik als Zukunftsinvestition",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [
+        "Hilmar Hoffmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bodo Richter",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Bodo Richter"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Steuerungsproblem: Reform der Gemeindeordnungen?",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [
+        "Bodo Richter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gerhard Banner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard Banner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Politikstruktur und kommunale Entwicklung:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard Banner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Altneustadt 1985 bis 1995",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard Banner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Helmut Prinz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Prinz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Von den Grenzen der Mitbestimmung. \u00dcber die Schwierigkeit und",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Prinz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Notwendigkeit der Organisationsentwicklung",
+      "printed_page_number": "172",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Prinz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Thomas Ellwein",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Ellwein"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gesetzes- und Verwaltungsvereinfachung:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Ellwein"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Auch eine kommunale Aufgabe?",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Ellwein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. Stadt und Staat: Konfrontation oder Kooperation?",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Dietrich F\u00fcrst und Heinrich Ganseforth",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Dietrich F\u00fcrst",
+        "Heinrich Ganseforth"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Stadtpolitik aus regionaler Perspektive",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [
+        "Dietrich F\u00fcrst",
+        "Heinrich Ganseforth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ernst-Hasso Ritter",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ernst-Hasso Ritter"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Aus der L\u00e4nderperspektive: Politik der \u00f6rtlichen N\u00e4he",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [
+        "Ernst-Hasso Ritter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans-Jochen Vogel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Jochen Vogel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "(im Gespr\u00e4ch mit Joachim Jens Hesse)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Jochen Vogel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die kommunale Ebene aus der Sicht der Bundespolitik",
+      "printed_page_number": "226",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Jochen Vogel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "printed_page_number": "232",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

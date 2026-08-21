@@ -1,0 +1,702 @@
+{
+  "generated_at": 1787261579.789325,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "10",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1 Inklusion als Werterahmen f\u00fcr Bildungsgerechtigkeit",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Annika Sulzer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.1 Was ist das: Inklusion?",
+      "printed_page_number": "12",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.2 Vielfalt ist Normalit\u00e4t",
+      "printed_page_number": "14",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.3 Inklusion und Exclusionsrisiken",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4 Inklusion braucht systematische Arbeit auf mehreren Ebenen",
+      "printed_page_number": "16",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.5 Inklusion betont allgemeine rechtliche Grundlagen",
+      "printed_page_number": "19",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.6 Werteorientiertes demokratisches Handeln als Grundlage f\u00fcr Inklusion",
+      "printed_page_number": "20",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Der Ansatz Vorurteilsbewusster Bildung und Erziehung\u00ae als inklusives Praxiskonzept",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Petra Wagner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.1 Inklusive p\u00e4dagogische Praxis entwickeln",
+      "printed_page_number": "22",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.2 Anforderungen an p\u00e4dagogische Fachkr\u00e4fte",
+      "printed_page_number": "24",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.3 Wissen um soziale Identit\u00e4ten und institutionelle Vor- und Nachteile",
+      "printed_page_number": "26",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4 Lernen und Arbeiten mit dem Ansatz vorurteilsbewusster Bildung und Erziehung",
+      "printed_page_number": "30",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.5 Inklusion als Ergebnis systematischer Qualit\u00e4tsentwicklung",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.6 Auch die Lernumgebung vorurteilsbewusst gestalten",
+      "printed_page_number": "38",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Gleichheit und Differenz im Kindergarten \u2013 eine lange Geschichte",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Petra Wagner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1 Homogenisierung und Diskriminierung",
+      "printed_page_number": "42",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2 \u00bbEinwirkungsp\u00e4dagogik\u00ab, um allen Kindern hohe Bildung zu vermitteln",
+      "printed_page_number": "44",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3 Sozial selektive Heterogenit\u00e4t und Unverbindlichkeit",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4 Vielfalt und Bildungsqualit\u00e4t",
+      "printed_page_number": "50",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.5 Strategien im Umgang mit Unterschieden",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.6 Gewissheiten und offene Fragen",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Die Entwicklung und F\u00f6rderung moralischen Denkens und moralischer Gef\u00fchle in der Kindheit",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Monika Keller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.1 Positionen der entwicklungspsychologischen Moralforschung",
+      "printed_page_number": "66",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.2 Die Entwicklung des moralischen Verstehens",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.3 Die Entwicklung empathischer und moralischer Gef\u00fchle",
+      "printed_page_number": "70",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.4 Moralische Gef\u00fchle und Verantwortungszuschreibung",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.5 Das moralische Denken von der mittleren Kindheit bis zum Jugendalter: Ergebnisse einer empirischen Studie",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.6 Moral und Kooperation in der fr\u00fchen Kindheit",
+      "printed_page_number": "79",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.7 Moralisches Lernen: Die Rolle der sozialen Umwelt",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Vielfalt und Diskriminierung im Erleben von Kindern",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.1 Wie erleben junge Kinder Vielfalt? (Petra Wagner)",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.2 Geschlechtsbewusste P\u00e4dagogik \u2013 eine Gratwanderung (Tim Rohrmann)",
+      "printed_page_number": "93",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.3 Heterogenit\u00e4t als Motor f\u00fcr Bildungsprozesse \u2013 f\u00fcr Kinder mit und Kinder ohne Behinderung (Daniela Kobelt Neuhaus)",
+      "printed_page_number": "107",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.4 \u00bbWoher kommst du?\u00ab \u2013 Wie junge Kinder Herkunftsfragen begreifen (Anke Krause)",
+      "printed_page_number": "129",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.5 Vom Weggehen zum Ankommen \u2013 Kinder mit Fluchterfahrungen in der Kita: Von den H\u00fcrden auf dem Weg ins Bildungssystem (Mercedes Pascual Iglesias)",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.6 \u00bbWeil ich dunkle Haut habe ...\u00ab \u2013 Rassismuserfahrungen im Kindergarten (Stefani Boldaz-Hahn)",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.7 Quer durch viele Sprachen hindurch \u2013 Vielgestaltigkeit der Sprachenwelten von Kindern (Petra Wagner)",
+      "printed_page_number": "170",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.8 Adultismus \u2013 (un)bekanntes Ph\u00e4nomen: \u00bbIst die Welt nur f\u00fcr Erwachsene gemacht?\u00ab (ManuEla Ritz)",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.9 \u00bbMeine Mutter hat ja kein Geld ...\u00ab \u2013 Soziale Ungleichheit und Armut in der Wahrnehmung von Kindern (Antje Richter-Kornweitz)",
+      "printed_page_number": "194",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.10 Religion \u2013 Diskriminierungsgrund oder kulturelle Ressource f\u00fcr Kinder? (Christa Dommel)",
+      "printed_page_number": "206",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.11 Verh\u00e4ltnis zwischen Ost und West \u2013 einem Tabu auf der Spur (Sabine Beyersdorff & Evelyne H\u00f6hme-Serke)",
+      "printed_page_number": "218",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.12 Sexuelle Identit\u00e4t \u2013 bedeutsam f\u00fcr kleine Kinder? (Stephanie Gerlach)",
+      "printed_page_number": "229",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Zusammenarbeit mit Eltern: Respekt f\u00fcr jedes Kind \u2013 Respekt f\u00fcr jede Familie",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Serap Azun"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.1 Wie leben Familien in Deutschland?",
+      "printed_page_number": "242",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.2 Zusammenarbeit mit Eltern \u2013 eine un\u00fcberwindbare H\u00fcrde?",
+      "printed_page_number": "244",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.3 Dominanzverh\u00e4ltnisse erschweren den Dialog",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.4 Zusammenarbeit mit Eltern \u2013 unverzichtbar!",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.5 Die Familien machen sich bekannt",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.6 Der Kindergarten macht sich bekannt",
+      "printed_page_number": "252",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.7 Mit Eltern in den Dialog treten",
+      "printed_page_number": "253",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.8 Gespr\u00e4chskreise zu Erziehungsfragen",
+      "printed_page_number": "254",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.9 Und wenn es Konflikte gibt?",
+      "printed_page_number": "256",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.10 Was ist n\u00f6tig f\u00fcr eine gelingende Zusammenarbeit?",
+      "printed_page_number": "258",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Vielfalt respektieren, Ausgrenzung widerstehen \u2013 aber wie kann man das lernen? Konzepte und Praxis der Aus- und Fortbildung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Petra Wagner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.1 Welche Kompetenzen sind bei der Inklusion entscheidend?",
+      "printed_page_number": "262",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.2 Interkulturelle Kompetenz \u2013 Schl\u00fcsselkompetenz des 21. Jahrhunderts?",
+      "printed_page_number": "263",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.3 Managing Diversity \u2013 Der neue Boom?",
+      "printed_page_number": "265",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.4 Vorurteilsbewusste Selbst- und Praxisreflexion",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.5 Vorurteile und ihren Einfluss auf p\u00e4dagogische Praxis untersuchen",
+      "printed_page_number": "268",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.6 Diskriminierung zur Sprache bringen",
+      "printed_page_number": "271",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.7 Gesellschaftliche Macht- und Dominanzverh\u00e4ltnisse beleuchten",
+      "printed_page_number": "273",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.8 Machtverh\u00e4ltnisse in Dialogen ber\u00fccksichtigen",
+      "printed_page_number": "274",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.9 Fachliches Unterst\u00fctzungssystem",
+      "printed_page_number": "277",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Internationale Zusammenarbeit f\u00fcr Vielfalt und Gleichw\u00fcrdigkeit",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Regine Schallenberg-Diekmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.1 Voneinander lernen \u2013 \u00fcber kulturelle und andere Grenzen hinweg",
+      "printed_page_number": "280",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.2 Globalisierung? Globalisierung!",
+      "printed_page_number": "281",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.3 Das internationale Netzwerk DECET",
+      "printed_page_number": "282",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.4 Jede und jeder f\u00fchlt sich zugeh\u00f6rig",
+      "printed_page_number": "284",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.5 Jedes Kind und jeder Erwachsene entwickelt die vielf\u00e4ltigen Aspekte der eigenen Identit\u00e4t",
+      "printed_page_number": "287",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.6 Alle lernen voneinander",
+      "printed_page_number": "290",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.7 Jeder Erwachsene und jedes Kind beteiligt sich als aktiver B\u00fcrger",
+      "printed_page_number": "291",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.8 Jeder bezieht aktiv und offen Stellung gegen Einseitigkeiten",
+      "printed_page_number": "292",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.9 Alle gemeinsam gegen Vorurteile und institutionelle Formen von Diskriminierung",
+      "printed_page_number": "294",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.10 Umsetzung in die p\u00e4dagogische Praxis",
+      "printed_page_number": "296",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 Anti-Bias Education for Everyone \u2013 Vorurteilsbewusste Bildung und Erziehung f\u00fcr alle",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Louise Derman-Sparks"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.1 Inklusion und soziale Identit\u00e4ten",
+      "printed_page_number": "299",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.2 Gesellschaftliche Zukunftsvisionen und Anti-Bias P\u00e4dagogik",
+      "printed_page_number": "301",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.3 Ziele der Anti-Bias P\u00e4dagogik",
+      "printed_page_number": "303",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.4 \u00bbWas tun, wenn alle Kinder wei\u00df sind?\"",
+      "printed_page_number": "307",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.5 Anti-Bias Ziele in die Praxis umsetzen: P\u00e4dagogische Prinzipien",
+      "printed_page_number": "309",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.6 Anti-Bias Arbeit und der Kampf f\u00fcr soziale Gerechtigkeit",
+      "printed_page_number": "312",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "printed_page_number": "315",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Fachstelle Kinderwelten f\u00fcr Vorurteilsbewusste Bildung und Erziehung",
+      "printed_page_number": "319",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

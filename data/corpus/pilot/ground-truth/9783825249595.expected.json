@@ -1,0 +1,207 @@
+{
+  "entries": [
+    {
+      "title": "Einleitung",
+      "authors": [
+        "Tanja Sturm",
+        "Monika Wagner-Willi"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "1. Einführung und Grundlagen: zentrale Diskurse, Begriffe und theoretische Zugänge zum Thema",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Inklusion in Bildungs- und Erziehungsorganisationen",
+      "authors": [
+        "Arnd-Michael Nohl"
+      ],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "Inklusion und Differenz",
+      "authors": [
+        "Anja Tervooren",
+        "Nicolle Pfaff"
+      ],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "Erziehungswissenschaftliche Perspektiven auf Inklusion und Intersektionalität",
+      "authors": [
+        "Jürgen Budde"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "Inklusion als Anerkennung einer primären Verletzbarkeit. Zum Ertrag von Judith Butlers Anerkennungskonzept für die Analyse von inkludierenden und exkludierenden Effekten pädagogischer Praktiken",
+      "authors": [
+        "Bettina Fritzsche"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Inklusion aus Perspektive der Praxeologischen Wissenssoziologie",
+      "authors": [
+        "Benjamin Wagener"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Inklusion, Fähigkeiten und Disability Studies",
+      "authors": [
+        "Jan Weisser"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "2. Schulische Bildungsorganisationen und Inklusion",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Momente einer Ideengeschichte der Integration bzw. Inklusion im Feld der (Schul-)Pädagogik",
+      "authors": [
+        "Georg Feuser"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "Inclusive Education: Entwicklungen im internationalen Vergleich",
+      "authors": [
+        "Justin J. W. Powell"
+      ],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "Zentrale Forschungsbefunde zur Inklusion in der Schule",
+      "authors": [
+        "Eva Theresa Böhm",
+        "Katharina Felbermayr",
+        "Gottfried Biewer"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "Schulsystem, „neue Steuerung“ und Inklusion",
+      "authors": [
+        "Mechtild Gomolla"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "Schulentwicklung und Inklusion",
+      "authors": [
+        "Julie Allan",
+        "Tanja Sturm"
+      ],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "Inklusiver (Fach-)Unterricht: Befunde – Konzeptionen – Herausforderungen",
+      "authors": [
+        "Anja Hackbarth",
+        "Matthias Martens"
+      ],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "Inklusion und Leistung",
+      "authors": [
+        "Karin Bräu"
+      ],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "Kompetenz und Disability",
+      "authors": [
+        "Kerstin Ziemen"
+      ],
+      "printed_page_number": "223",
+      "skip": false
+    },
+    {
+      "title": "3. Professionelle und Adressatinnen und Adressaten im Feld der schulischen Inklusion",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Schulleitungen im Kontext inklusiver Bildungsreformen",
+      "authors": [
+        "Benjamin Badstieber",
+        "Andreas Köpfer",
+        "Bettina Amrhein"
+      ],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "Lehrpersonen: Differenzkonstruktionen im Unterricht",
+      "authors": [
+        "Tanja Sturm"
+      ],
+      "printed_page_number": "251",
+      "skip": false
+    },
+    {
+      "title": "Professionalisierung von Lehrpersonen",
+      "authors": [
+        "Christian Lindmeier",
+        "Bettina Lindmeier"
+      ],
+      "printed_page_number": "267",
+      "skip": false
+    },
+    {
+      "title": "Lehrerinnen- und Lehrerbildung",
+      "authors": [
+        "Vera Moser"
+      ],
+      "printed_page_number": "283",
+      "skip": false
+    },
+    {
+      "title": "Kooperation in multiprofessionellen Teams an inklusiven Schulen",
+      "authors": [
+        "Patrik Widmer-Wolf"
+      ],
+      "printed_page_number": "299",
+      "skip": false
+    },
+    {
+      "title": "Schülerinnen und Schüler: Inklusion und Differenz in mehrdimensionaler Perspektive",
+      "authors": [
+        "Monika Wagner-Willi"
+      ],
+      "printed_page_number": "315",
+      "skip": false
+    },
+    {
+      "title": "Angaben zu den Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "331",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,505 @@
+{
+  "generated_at": 1787011329.383021,
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Teil 1: Nutzung moderner Medien f\u00fcr Coaching und psychosoziale Beratung \u2013 \u00dcberblick \u00fcber die verschiedenen Formate",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1.1 Fernm\u00fcndliche Basiskommunikation ohne webbasierte Zusatztools",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ruth Belzner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ruth Belzner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das besondere Gespr\u00e4ch: Anonyme Seelsorge und Beratung am Telefon der TelefonSeelsorge",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [
+        "Ruth Belzner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Herbert Asselmeyer, Juliane Delkeskamp",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Herbert Asselmeyer",
+        "Juliane Delkeskamp"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Coaching ohne Blickkontakt \u2013 Coaching f\u00fcr F\u00fchrungskr\u00e4fte als Begleitma\u00dfnahme in einem berufsbegleitenden Weiterbildungsstudiengang",
+      "printed_page_number": "41",
+      "source_page_index": -1,
+      "authors": [
+        "Herbert Asselmeyer",
+        "Juliane Delkeskamp"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.2 Webbasiert-textliche Basiskommunikation ohne webbasierte Zusatztools",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kirsten Schellack",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Kirsten Schellack"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Online-Beratung in der verbandlichen Caritas",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Kirsten Schellack"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Birgit Knatz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Birgit Knatz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Coaching per Internet \u2013 wie es geht und wie es wirkt",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "Birgit Knatz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.3 Fernm\u00fcndliche Basiskommunikation mit webbasierten Zusatztools",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christine Grabow",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Christine Grabow"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Virtuelle Strategie-Simulation im Telefoncoaching mit LPScooon\u00ae \u2013 Ein Coachingkonzept f\u00fcr alle Sinne",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [
+        "Christine Grabow"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Klaus Bredl, Barbara Br\u00e4utigam, Daniel Herz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Bredl",
+        "Barbara Br\u00e4utigam",
+        "Daniel Herz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Avatarbasierte Beratung und Coaching in 3D",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Bredl",
+        "Barbara Br\u00e4utigam",
+        "Daniel Herz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Harald Gei\u00dfler",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Harald Gei\u00dfler"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Virtuelles Coaching \u2013 programmiertes Telefoncoaching mit Internet-Support",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "Harald Gei\u00dfler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J\u00fcrgen Kauschke",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Kauschke"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Implementierung von Virtuellem Coaching zur Steigerung der Trainings- und Beratungseffizienz",
+      "printed_page_number": "165",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Kauschke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Trutz Lenzinger, Christian Rodust",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Trutz Lenzinger",
+        "Christian Rodust"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Evaluation des Virtuellen Transfercoachings (VTC) bei einer Trainerqualifizierung",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [
+        "Trutz Lenzinger",
+        "Christian Rodust"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ute Ebel, Christiane Thiele",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ute Ebel",
+        "Christiane Thiele"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Virtuelles Transfercoaching (VTC)",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [
+        "Ute Ebel",
+        "Christiane Thiele"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Martina Held, Harald Korsten, Horst-W. Reckert",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Martina Held",
+        "Harald Korsten",
+        "Horst-W. Reckert"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Einsatz Virtuellen Transfercoachings in einem Baumarktunternehmen und in einer Bank",
+      "printed_page_number": "209",
+      "source_page_index": -1,
+      "authors": [
+        "Martina Held",
+        "Harald Korsten",
+        "Horst-W. Reckert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4 Webbasiert-textliche Basiskommunikation mit webbasierten Zusatztools",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Peter Zezula, Ragnar Beer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Peter Zezula",
+        "Ragnar Beer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Theratalk: Ein Online-Portal f\u00fcr Paar und Partnerschaft",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Zezula",
+        "Ragnar Beer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.5 Multimodale Basiskommunikation",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Elke Berninger-Sch\u00e4fer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Elke Berninger-Sch\u00e4fer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die virtuelle Kollegiale Coaching Konferenz\u00ae",
+      "printed_page_number": "247",
+      "source_page_index": -1,
+      "authors": [
+        "Elke Berninger-Sch\u00e4fer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nadine Ojstersek, Mandy Schiefner-Rohs",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Nadine Ojstersek",
+        "Mandy Schiefner-Rohs"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Textuelle und audio-visuelle Lernberatung im Kontext von E-Learning",
+      "printed_page_number": "261",
+      "source_page_index": -1,
+      "authors": [
+        "Nadine Ojstersek",
+        "Mandy Schiefner-Rohs"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rolf Arnold, Christian Bogner, Thomas Prescher",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Arnold",
+        "Christian Bogner",
+        "Thomas Prescher"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Peer-E-Coaching: Gestaltung und Analyse asynchroner kollegialer Fallarbeit",
+      "printed_page_number": "277",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Arnold",
+        "Christian Bogner",
+        "Thomas Prescher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil 2: Beratung und Coaching mit modernen Medien \u2013 Format\u00fcbergreifende Analysen und Reflexionen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Peter Dreyer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Peter Dreyer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Dienstleistung aus der Distanz: E-Coaching in Japan",
+      "printed_page_number": "301",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Dreyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Peter-Paul Gross, Michael Stephan",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Peter-Paul Gross",
+        "Michael Stephan"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Entwicklung des deutschen Coaching-Marktes und das Marktpotential von Coaching mit neuen Medien \u2013 eine \u00f6konomische Analyse",
+      "printed_page_number": "319",
+      "source_page_index": -1,
+      "authors": [
+        "Peter-Paul Gross",
+        "Michael Stephan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Richard Reindl, Marina Hergenreider, Julia H\u00fcnninger",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Richard Reindl",
+        "Marina Hergenreider",
+        "Julia H\u00fcnninger"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Schriftlichkeit in virtuellen Beratungssettings",
+      "printed_page_number": "339",
+      "source_page_index": -1,
+      "authors": [
+        "Richard Reindl",
+        "Marina Hergenreider",
+        "Julia H\u00fcnninger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Harald Gei\u00dfler, Charlotte Kurzmann, Maren Metz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Harald Gei\u00dfler",
+        "Charlotte Kurzmann",
+        "Maren Metz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Coaching und Beratung mit und ohne moderne Medien \u2013 ein empirischer Vergleich",
+      "printed_page_number": "359",
+      "source_page_index": -1,
+      "authors": [
+        "Harald Gei\u00dfler",
+        "Charlotte Kurzmann",
+        "Maren Metz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verzeichnis der Autorinnen und Autoren",
+      "printed_page_number": "381",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

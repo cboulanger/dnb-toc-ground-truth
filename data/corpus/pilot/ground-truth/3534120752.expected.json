@@ -1,0 +1,246 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [
+        "Claus Leggewie"
+      ],
+      "printed_page_number": "IX",
+      "skip": true
+    },
+    {
+      "title": "Zur Einleitung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Politische Kreativität. Über das Neue in der Politik – und in der Politikwissenschaft.",
+      "authors": [
+        "Claus Leggewie"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Politik in den Zeiten der Politikverdrossenheit",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Politikverdrossenheit und Politikwissenschaft.",
+      "authors": [
+        "Klaus von Beyme"
+      ],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "Renaissance des Politischen – oder Widersprüche des Konservatismus.",
+      "authors": [
+        "Ulrich Beck"
+      ],
+      "printed_page_number": "34",
+      "skip": false
+    },
+    {
+      "title": "Nach dem Beben: 1989 und die Folgen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Der entfesselte Riese? Die „zivile Gesellschaft“ und die liberale Demokratie nach 1989.",
+      "authors": [
+        "Helmut Dubiel"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "Frieden und Krieg in dieser Zeit. Sechs Thesen.",
+      "authors": [
+        "Dieter Senghaas"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Das Projekt „Komplexes Weltregieren“. Wozu Wissenschaft von den Internationalen Beziehungen?",
+      "authors": [
+        "Michael Zürn"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Der Kern des Entwicklungsdilemmas. Zur Revision der Internationalen Politik.",
+      "authors": [
+        "Ulrich Menzel"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "Von der Deutschland- zur Außenpolitik. Ein historisches Plädoyer.",
+      "authors": [
+        "Dan Diner"
+      ],
+      "printed_page_number": "106",
+      "skip": false
+    },
+    {
+      "title": "Fuzzy Politics. Weltgesellschaft, Multikulturalismus und Vergleichende Politikwissenschaft.",
+      "authors": [
+        "Claus Leggewie"
+      ],
+      "printed_page_number": "120",
+      "skip": false
+    },
+    {
+      "title": "Streifzüge, Fragestellungen und Grenzgänge",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Schattenpolitik. Streifzüge in die Grauzonen der Politik.",
+      "authors": [
+        "Ulrich von Alemann"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Selbstorganisation. Vom Nutzen naturwissenschaftlicher Konzepte für die Politikwissenschaft.",
+      "authors": [
+        "Ulrich Druwe"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "Netzwerke und neue Unübersichtlichkeit. Plädoyer für die Wahrnehmung politischer Komplexität.",
+      "authors": [
+        "Ulrike Liebert"
+      ],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "Politische Ikonographie. Hinweise auf eine sichtbare Politik.",
+      "authors": [
+        "Martin Warnke"
+      ],
+      "printed_page_number": "170",
+      "skip": false
+    },
+    {
+      "title": "Protest und Mitleid – Politik als Kampagne. „Politikverdrossenheit“ – Protest in der Krise?",
+      "authors": [
+        "Sigrid Baringhorst"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Das ewig Männerbündische? Zur Standardform von Staat und Politik.",
+      "authors": [
+        "Eva Kreisky"
+      ],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "Anwendungen und Korrekturen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Politik als Beruf heute. Ein Anforderungsprofil an Professionelle.",
+      "authors": [
+        "Christine Landfried"
+      ],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "Die Moral der Politik. Politik, Politikwissenschaft und die soziomoralische Dimension politischer Ordnungen.",
+      "authors": [
+        "Herfried Münkler"
+      ],
+      "printed_page_number": "228",
+      "skip": false
+    },
+    {
+      "title": "Wo bitte geht es zur Realität? Sozialwissenschaften und Zeitdiagnose.",
+      "authors": [
+        "Sven Papcke"
+      ],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "Nutzen und Nachteil des politikwissenschaftlichen Studiums für den politischen Journalisten.",
+      "authors": [
+        "Günther Nonnenmacher"
+      ],
+      "printed_page_number": "258",
+      "skip": false
+    },
+    {
+      "title": "Politikwissenschaft ist immer noch ein Männerfach – warum?",
+      "authors": [
+        "Barbara Sichtermann"
+      ],
+      "printed_page_number": "270",
+      "skip": false
+    },
+    {
+      "title": "Politik studieren. Eine Motivations-Skizze (Ost).",
+      "authors": [
+        "Wolfgang Fach"
+      ],
+      "printed_page_number": "276",
+      "skip": false
+    },
+    {
+      "title": "Die Allgegenwart des Politischen und die Randständigkeit der Politikwissenschaft.",
+      "authors": [
+        "Michael Th. Greven"
+      ],
+      "printed_page_number": "285",
+      "skip": false
+    },
+    {
+      "title": "Serviceteil",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Studium Politikwissenschaft. Eine Übersicht zu Forschung und Lehre",
+      "authors": [
+        "Svenja Falk"
+      ],
+      "printed_page_number": "299",
+      "skip": false
+    },
+    {
+      "title": "Die Autoren",
+      "authors": [],
+      "printed_page_number": "313",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,541 @@
+{
+  "generated_at": 1787016243.573636,
+  "entries": [
+    {
+      "title": "List of Illustrations",
+      "printed_page_number": "viii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of Abbreviations",
+      "printed_page_number": "x",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Preface",
+      "printed_page_number": "xvii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Preludio",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "David Fallows and the Performance of Medieval Music",
+      "printed_page_number": "2",
+      "source_page_index": -1,
+      "authors": [
+        "CHRISTOPHER PAGE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "I SOURCES AND ARCHIVES",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Frem\u00edn le Caron at Amiens: New Documents",
+      "printed_page_number": "10",
+      "source_page_index": -1,
+      "authors": [
+        "ROB C. WEGMAN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ung Petit cadeau: Verbal and Visual Play in the Wolfenb\u00fcttel Chansonnier",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [
+        "JANE ALDEN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "A New Tenor on So ys emprentid",
+      "printed_page_number": "44",
+      "source_page_index": -1,
+      "authors": [
+        "BONNIE J. BLACKBURN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Shedding New Light (Literally) on the Rochester Fascicle: A Preliminary Report",
+      "printed_page_number": "52",
+      "source_page_index": -1,
+      "authors": [
+        "HONEY MECONI"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Two Musical Letters from Aragonese Naples",
+      "printed_page_number": "60",
+      "source_page_index": -1,
+      "authors": [
+        "GIANLUCA D'AGOSTINO"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Johannes Sohier dit Fede and St Omer: A Story of Pragmatic Sanctions",
+      "printed_page_number": "68",
+      "source_page_index": -1,
+      "authors": [
+        "ANDREW KIRKMAN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "INTERMEDIO I",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Yes, We Were Young",
+      "printed_page_number": "82",
+      "source_page_index": -1,
+      "authors": [
+        "JAAp VAN BENTHEM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II DU FAY",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Petrarch, Padua, the Malatestas, Du Fay, and Vergene bella",
+      "printed_page_number": "86",
+      "source_page_index": -1,
+      "authors": [
+        "MARGARET BENT"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "A Suggestion about Fauxbourdon",
+      "printed_page_number": "97",
+      "source_page_index": -1,
+      "authors": [
+        "JAMES HAAR"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Du Fay's Plainsong Paraphrase Settings",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [
+        "ALEJANDRO ENRIQUE PLANCHART"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "With a Flourish: Melismatic Writing in Du Fay's Early Songs",
+      "printed_page_number": "114",
+      "source_page_index": -1,
+      "authors": [
+        "JESSE RODIN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Portugaler: Guillaume Du Fay's Contribution to Instrumental Music?",
+      "printed_page_number": "124",
+      "source_page_index": -1,
+      "authors": [
+        "LORENZ WELKER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III SACRED MUSIC",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "A Reconsideration of the Mass Cycle by Arnold de Lantins and Ciconia in Bologna Q15",
+      "printed_page_number": "138",
+      "source_page_index": -1,
+      "authors": [
+        "KINUHO ENDO"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Martini and Obrecht: Some Speculations",
+      "printed_page_number": "146",
+      "source_page_index": -1,
+      "authors": [
+        "JOSHUA RIFKIN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The Art of Cellular Counterpoint: The Motets of Petrus Wilhelmi",
+      "printed_page_number": "154",
+      "source_page_index": -1,
+      "authors": [
+        "THOMAS SCHMIDT-BESTE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "What Were They Thinking? Sola caret monst ris at the Papal Court",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [
+        "RICHARD SHERR"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "A Gloria Newly Attributed to Byttering",
+      "printed_page_number": "170",
+      "source_page_index": -1,
+      "authors": [
+        "PETER WRIGHT"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "INTERMEDIO II",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Agricola VIII / Obrecht Canon III",
+      "printed_page_number": "180",
+      "source_page_index": -1,
+      "authors": [
+        "FABRICE FITCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IV SONGS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "A New Song in a Strange Land? Garcimu\u00f1os's Una monta\u00f1a pasando",
+      "printed_page_number": "186",
+      "source_page_index": -1,
+      "authors": [
+        "TESS KNIGHTON"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Isaac's Pre-Italian Songs: An Over-Optimistic Hand-List",
+      "printed_page_number": "198",
+      "source_page_index": -1,
+      "authors": [
+        "WARWICK EDWARDS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Words and Music in the Sea of Long Waiting",
+      "printed_page_number": "207",
+      "source_page_index": -1,
+      "authors": [
+        "ADAM KNIGHT GILBERT"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "'Dieu vous doinst hui en bonne estraine tout le d\u00e9sir de vostre c\u0153ur': Observations on Binchois's Margarite, fleur de valeur",
+      "printed_page_number": "218",
+      "source_page_index": -1,
+      "authors": [
+        "MARKUS JANS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Three Times Seven Songs by Byrd",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [
+        "OLIVER NEIGHBOUR"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "'I must complain': A Comparative Study in Variant Settings",
+      "printed_page_number": "233",
+      "source_page_index": -1,
+      "authors": [
+        "ANTHONY ROOLEY"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Heinrich Isaac and Shifting Musical Perspectives, c. 1485-1490",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [
+        "KEITH POLK"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "V JOSQUIN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "'Plaine de duel et de melancholie': Tracing a Negative of Josquin des Prez",
+      "printed_page_number": "258",
+      "source_page_index": -1,
+      "authors": [
+        "JAAp VAN BENTHEM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Surface, Structure and 'Style' in Absalon fili mi",
+      "printed_page_number": "261",
+      "source_page_index": -1,
+      "authors": [
+        "JOHN MILSOM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Who Really Knows Who Composed Mille regretz?",
+      "printed_page_number": "272",
+      "source_page_index": -1,
+      "authors": [
+        "FABRICE FITCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Josquin, Two Contrafacta, and the Lost Stanzas of 'Comment peut avoir joye'",
+      "printed_page_number": "279",
+      "source_page_index": -1,
+      "authors": [
+        "JEFFREY J. DEAN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "In pace in idipsun: A Little-Known Motet Attributed to Josquin",
+      "printed_page_number": "286",
+      "source_page_index": -1,
+      "authors": [
+        "ERIC JAS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "INTERMEDIO III",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Versp\u00e4tete Monologe \u2013 Brahms' Klavierst\u00fccke op. 116, 117, 118 und 119",
+      "printed_page_number": "300",
+      "source_page_index": -1,
+      "authors": [
+        "PETER G\u00dcLKE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VI CULTURAL AND RECEPTION HISTORY",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Confessional Companions: Herpol, Glareanus, and Friends",
+      "printed_page_number": "308",
+      "source_page_index": -1,
+      "authors": [
+        "IAIN FENLON"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Credit for Music in Court and City in the Low Countries, 1467-1500",
+      "printed_page_number": "318",
+      "source_page_index": -1,
+      "authors": [
+        "BARBARA HAGGH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "David musicus, or: On the Consoling Power of String Music",
+      "printed_page_number": "326",
+      "source_page_index": -1,
+      "authors": [
+        "DAGMAR HOFFMANN-AXTHELM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The Laudes Musicae in Renaissance Music Treatises",
+      "printed_page_number": "338",
+      "source_page_index": -1,
+      "authors": [
+        "LEOFRANC HOLFORD-STREVENS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The Role of Music in Sixteenth-Century German City Life: A Close Look at the Iconography of Hans Sachs's and Jost Amman's St\u00e4ndebuch",
+      "printed_page_number": "349",
+      "source_page_index": -1,
+      "authors": [
+        "ANDREA LINDMAYR-BRANDL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The Perfect Spanish Chapelmaster: The Depiction of the Composer Gin\u00e9s P\u00e9rez in Felipe Pedrell's Hispaniae Schola Musica Sacra",
+      "printed_page_number": "361",
+      "source_page_index": -1,
+      "authors": [
+        "ESPERANZA RODR\u00cdGUEZ-GARC\u00cdA"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The 'Topstukkendecreet' in Flanders and its Musical Context: The Case of Glareanus' Dodekachordon",
+      "printed_page_number": "370",
+      "source_page_index": -1,
+      "authors": [
+        "EUGEEN SCHREURS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The Difference of Early European Music",
+      "printed_page_number": "380",
+      "source_page_index": -1,
+      "authors": [
+        "REINHARD STROHM"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Principal Publications of David Fallows",
+      "printed_page_number": "389",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Contributors",
+      "printed_page_number": "398",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "407",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Tabula Gratulatoria",
+      "printed_page_number": "424",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

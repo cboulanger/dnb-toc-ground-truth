@@ -1,0 +1,312 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [
+        "Jan Walmsley",
+        "Kelley Johnson"
+      ],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Einführung in den Band: Zur Position Inklusiver Forschung",
+      "authors": [
+        "Saskia Schuppener",
+        "Tobias Buchner",
+        "Oliver Koenig"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "1 Grundlagen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Geschichte der Forschung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Geschichte bildungswissenschaftlicher Forschung zu Behinderungen",
+      "authors": [
+        "Gottfried Biewer",
+        "Vera Moser"
+      ],
+      "printed_page_number": "24",
+      "skip": false
+    },
+    {
+      "title": "Entwicklungslinien gemeinsamen Forschens",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Zum Stand, den Ursprüngen und zukünftigen Entwicklungen gemeinsamen Forschens im Kontext von Behinderung",
+      "authors": [
+        "Stephanie Goeke"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "Durchführung partizipativer und inklusiver Forschung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Gemeinsam forschen – Wie soll das gehen? Methodische und forschungspraktische Hinweise",
+      "authors": [
+        "Hella von Unger"
+      ],
+      "printed_page_number": "54",
+      "skip": false
+    },
+    {
+      "title": "Who we are and what we do",
+      "authors": [
+        "Carlisle People First Research Team Ltd."
+      ],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "Anforderungen und Merkmale partizipativer und inklusiver Forschung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Qualitätskriterien für die Inklusive Forschung mit Menschen mit Lernschwierigkeiten",
+      "authors": [
+        "Mandy Hauser"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "2 Forschungsprojekte",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "„Weil sie mir immer eingeredet haben, es geht nicht\" – Biographische Erzählungen von Menschen mit Lernschwierigkeiten in (totalen) Institutionen",
+      "authors": [
+        "Gertraud Kremsner"
+      ],
+      "printed_page_number": "100",
+      "skip": false
+    },
+    {
+      "title": "Gemeinsam Forschen. Kultur für ALLE",
+      "authors": [
+        "Karen Kohlmann",
+        "Anne Goldbach"
+      ],
+      "printed_page_number": "112",
+      "skip": false
+    },
+    {
+      "title": "„Leben im Quartier\" – Menschen mit Lernschwierigkeiten als AkteurInnen im Kontext eines teilhabeorientierten Forschungsprojektes",
+      "authors": [
+        "Monika Seifert"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "Das Forschungsprojekt „Lebensgeschichten\"",
+      "authors": [
+        "Raphael Zahnd",
+        "Barbara Egloff"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "Das Bildnis eines behinderten Mannes – ein partizipatives Forschungsprojekt",
+      "authors": [
+        "Petra Flieger",
+        "Volker Schönwiese"
+      ],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "Inclusive Spaces – SchülerInnen erforschen die sozialen Räume an ihren Schulen",
+      "authors": [
+        "Tobias Buchner",
+        "Rainer Grubich",
+        "Ulrike Fleischanderl",
+        "Oliver Koenig",
+        "Sylvia Nösterer-Scheiner"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "Eye and I of the Camera – Der Blick auf mich. Ein Photovoice Projekt im Norden Äthiopiens",
+      "authors": [
+        "Jana Zehle"
+      ],
+      "printed_page_number": "172",
+      "skip": false
+    },
+    {
+      "title": "3 Kritische Reflexionen und Erweiterungen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Herausforderungen und Barrieren Inklusiver Forschung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Towards a second generation of inclusive research",
+      "authors": [
+        "Melanie Nind"
+      ],
+      "printed_page_number": "186",
+      "skip": false
+    },
+    {
+      "title": "Methodologische Reflexionsansätze",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Researching together: voice as a guide in research",
+      "authors": [
+        "Tina Goethals",
+        "Geert Van Hove",
+        "Lien Van Breda",
+        "Elisabeth De Schauwer"
+      ],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "Kritischer Diskurs Inklusiver Forschung aus Sicht der praxeologischen Wissenssoziologie",
+      "authors": [
+        "Monika Wagner-Willi"
+      ],
+      "printed_page_number": "216",
+      "skip": false
+    },
+    {
+      "title": "Annäherungs- und Ausgrenzungsprozesse durch inklusive und partizipative Forschung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Being a researcher with intellectual disabilities: the hallmarks of inclusive research in action",
+      "authors": [
+        "Val Williams"
+      ],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "Machtstrukturen im Kontext partizipativer Forschung",
+      "authors": [
+        "Wiebke Curdt"
+      ],
+      "printed_page_number": "247",
+      "skip": false
+    },
+    {
+      "title": "Partizipatorische Forschung mit Kindern mit Lernschwierigkeiten",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Making it happen: young people with learning difficulties undertaking their own research",
+      "authors": [
+        "Mary Kellett"
+      ],
+      "printed_page_number": "260",
+      "skip": false
+    },
+    {
+      "title": "4 Inklusive Hochschule",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Auf dem Weg zu einer Inklusiven Hochschule? Entwicklungen in Großbritannien, Irland, Deutschland und Österreich",
+      "authors": [
+        "Mandy Hauser",
+        "Saskia Schuppener",
+        "Gertraud Kremsner",
+        "Oliver Koenig",
+        "Tobias Buchner"
+      ],
+      "printed_page_number": "278",
+      "skip": false
+    },
+    {
+      "title": "Menschen mit Lernschwierigkeiten an der Hochschule!?",
+      "authors": [
+        "Karin Terfloth",
+        "Theo Klauß"
+      ],
+      "printed_page_number": "290",
+      "skip": false
+    },
+    {
+      "title": "The impact and journey of the Certificate in Contemporary Living (CCL) – a third level course for adults with intellectual disabilities at Trinitiy College, Dublin (Ireland)",
+      "authors": [
+        "Molly O'Keeffe",
+        "Edurne Garcia Iriarte",
+        "Zoe Hughes",
+        "John Kubiak"
+      ],
+      "printed_page_number": "306",
+      "skip": false
+    },
+    {
+      "title": "Ausblick",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Inklusive Forschung im deutschsprachigen Raum: Standortbestimmung, Herausforderungen und ein Blick in die Zukunft",
+      "authors": [
+        "Oliver Koenig",
+        "Tobias Buchner",
+        "Saskia Schuppener"
+      ],
+      "printed_page_number": "320",
+      "skip": false
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "334",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

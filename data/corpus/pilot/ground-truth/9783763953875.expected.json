@@ -1,0 +1,148 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Einleitung: E-Portfolios für das lebenslange Lernen",
+      "authors": [
+        "Matthias Rohs",
+        "Uwe Elsholz"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Konzepte für den Einsatz von E-Portfolios",
+      "authors": [],
+      "printed_page_number": "19",
+      "skip": true
+    },
+    {
+      "title": "Berufswahlpass-Online – Ein E-Portfolio-Konzept zur Unterstützung zeitgemäßer Berufsorientierung",
+      "authors": [
+        "Christian Staden"
+      ],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "Das Ausbildungsportfolio der Kompetenzwerkstatt – Mein Beruf",
+      "authors": [
+        "Axel Dürkop",
+        "Sönke Knutzen"
+      ],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "BLok – Das erste Online-Berichtsheft mit integriertem Entwicklungsportfolio",
+      "authors": [
+        "Claudia Börner",
+        "Claudia Albrecht",
+        "Thomas Köhler"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "Verbindung von Kompetenzerfassung und -dokumentation durch E-Portfolios in der betrieblichen Ausbildung",
+      "authors": [
+        "Matthias Rohs",
+        "Christoph Gütersloh"
+      ],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "eProfilPASS (ePP) – ein Instrument zur Sichtbarmachung von non-formal und informell erworbenen Kompetenzen",
+      "authors": [
+        "Mona Pielorz",
+        "Gabriela Westebbe"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "„KMU.Kom\": die eVersion zur Verbesserung des kompetenzbuchgestützten Personalmanagements",
+      "authors": [
+        "Harry Neß"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "Entwicklung eines ePortfolio-Tools zur Anrechnung von beruflich erworbenen Kompetenzen – am Beispiel eines Bachelor-Studiengangs „Business Administration\"",
+      "authors": [
+        "Stefanie Brunner",
+        "Petra Muckel",
+        "Olaf Zawacki-Richter"
+      ],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "Perspektiven von E-Portfolios",
+      "authors": [],
+      "printed_page_number": "147",
+      "skip": true
+    },
+    {
+      "title": "E-Portfolios als Gestaltungsinstrument individualisierter, erweiterter Beruflichkeit",
+      "authors": [
+        "Uwe Elsholz"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "E-Portfolios als Navigationshilfe in der Erwerbsbiografie",
+      "authors": [
+        "Martina Thomas"
+      ],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "Open Badges zur Anerkennung informell erworbener Kompetenzen – ein Ansatz auch für Deutschland?",
+      "authors": [
+        "Uwe Elsholz",
+        "Sebastian Vogt"
+      ],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "Ausblick",
+      "authors": [],
+      "printed_page_number": "191",
+      "skip": true
+    },
+    {
+      "title": "Herausforderungen für ein lebensbegleitendes Lernen mit E-Portfolios",
+      "authors": [
+        "Uwe Elsholz",
+        "Matthias Rohs"
+      ],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "199",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

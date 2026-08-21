@@ -1,0 +1,93 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Monologische und dialogische Männlichkeit in Rolandsliedversionen",
+      "authors": [
+        "Matthias Meyer"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "Kontrollverlust und Fragmentierung. Männlichkeit und Monster in Strickers »Daniel von dem Blühenden Tal«",
+      "authors": [
+        "Kerstin Schmitt"
+      ],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "Männlichkeit in der Lyrik Burkharts von Hohenfels",
+      "authors": [
+        "Markus Stock"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Minne, Lärm und Gewalt. Zur Konstitution von Männlichkeit in Winterliedern Neidharts",
+      "authors": [
+        "Hendrikje Haufe"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "Dekonstruierte Männlichkeit: von scheintoten und begrabenen Ehemännern",
+      "authors": [
+        "Johannes Keller"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "Welt ir: er vervellet; / Wellent ir: er ist genesen! Zur Figur Keies in Heinrichs von dem Türlin »Diu Crône«",
+      "authors": [
+        "Martin Baisch"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "Ritter Venus und die Rückeroberung verlorenen Terrains",
+      "authors": [
+        "Michael Mecklenburg"
+      ],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "Lancelot und Galahot – Melancholische Helden?",
+      "authors": [
+        "Andrea Sieber"
+      ],
+      "printed_page_number": "209",
+      "skip": false
+    },
+    {
+      "title": "male bonding – Männerfreundschaft und ritterlicher Zweikampf in Bertholds von Holle »Demantin«",
+      "authors": [
+        "Ann Mindnich"
+      ],
+      "printed_page_number": "233",
+      "skip": false
+    },
+    {
+      "title": "Zweierlei minne stricke. Zur Ausdifferenzierung von Männlichkeit im »Engelhard« Konrads von Würzburg",
+      "authors": [
+        "Judith Klinger",
+        "Silke Winst"
+      ],
+      "printed_page_number": "259",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

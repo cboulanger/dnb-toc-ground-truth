@@ -1,0 +1,638 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": true
+    },
+    {
+      "title": "Aufruf zum Mißtrauen",
+      "authors": [
+        "Ilse Aichinger"
+      ],
+      "printed_page_number": "18",
+      "skip": false
+    },
+    {
+      "title": "Rede an die Jugend",
+      "authors": [
+        "Ilse Aichinger"
+      ],
+      "printed_page_number": "20",
+      "skip": false
+    },
+    {
+      "title": "Wissen lernen",
+      "authors": [
+        "Ilse Aichinger"
+      ],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "Schriftstellerin. Fragebogen der Frankfurter Allgemeinen Zeitung",
+      "authors": [
+        "Ilse Aichinger"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "I Begegnungen mit Ilse Aichinger",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die Vögel beginnen zu singen, wenn es noch finster ist",
+      "authors": [
+        "Ilse Aichinger"
+      ],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "Gespräche mit Ilse Aichinger",
+      "authors": [
+        "Heinz F. Schafroth"
+      ],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "Sich nicht anpassen lassen",
+      "authors": [
+        "Hermann Vinke"
+      ],
+      "printed_page_number": "36",
+      "skip": false
+    },
+    {
+      "title": "»Stummheit immer wieder in Schweigen zu übersetzen, das ist die Aufgabe des Schreibens«",
+      "authors": [
+        "Luzia Stettler"
+      ],
+      "printed_page_number": "42",
+      "skip": false
+    },
+    {
+      "title": "»Die Vögel beginnen zu singen, wenn es noch finster ist«",
+      "authors": [
+        "Manuel Esser"
+      ],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Als Ilse in Stuttgart erschien",
+      "authors": [
+        "Martin Walser"
+      ],
+      "printed_page_number": "58",
+      "skip": false
+    },
+    {
+      "title": "II Bildteil",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einundzwanzig Fotos",
+      "authors": [],
+      "printed_page_number": "59",
+      "skip": true
+    },
+    {
+      "title": "III Gesamtdarstellungen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die Bergung der Opfer in der Sprache",
+      "authors": [
+        "Richard Reichensperger"
+      ],
+      "printed_page_number": "83",
+      "skip": false
+    },
+    {
+      "title": "Ilse Aichinger",
+      "authors": [
+        "Werner Weber"
+      ],
+      "printed_page_number": "98",
+      "skip": false
+    },
+    {
+      "title": "Laudatio zur Verleihung des Nelly-Sachs-Preises 1971",
+      "authors": [
+        "Karl Krolow"
+      ],
+      "printed_page_number": "106",
+      "skip": false
+    },
+    {
+      "title": "Ilse Aichinger",
+      "authors": [
+        "Elisabeth Endres"
+      ],
+      "printed_page_number": "114",
+      "skip": false
+    },
+    {
+      "title": "IV Originalbeiträge",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die Fremdsprache der Ilse Aichinger",
+      "authors": [
+        "Ilma Rakusa"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "…aber das ist wohl nicht möglich. Beim Lesen von Ilse Aichinger",
+      "authors": [
+        "Hanna Johansen"
+      ],
+      "printed_page_number": "128",
+      "skip": false
+    },
+    {
+      "title": "Fünf Zeilen Prosa. Ein Gedicht von Ilse Aichinger",
+      "authors": [
+        "Peter Horst Neumann"
+      ],
+      "printed_page_number": "142",
+      "skip": false
+    },
+    {
+      "title": "Orte, Untergänge. Zu Ilse Aichingers Gedicht »Außer Landes«",
+      "authors": [
+        "Richard Reichensperger"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "V Rezensionen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Über »Die größere Hoffnung« (1948)",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "»Die größere Hoffnung«",
+      "authors": [
+        "Erich Fried"
+      ],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "»Die größere Hoffnung«",
+      "authors": [
+        "Hermann Schreiber"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "»Die größere Hoffnung«",
+      "authors": [
+        "Friedrich Sieburg"
+      ],
+      "printed_page_number": "160",
+      "skip": false
+    },
+    {
+      "title": "Das Feuer hat Hunger",
+      "authors": [
+        "Walter Maria Guggenheimer"
+      ],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "In extremis",
+      "authors": [
+        "Karl August Horst"
+      ],
+      "printed_page_number": "166",
+      "skip": false
+    },
+    {
+      "title": "Ilse Aichingers erster Roman",
+      "authors": [
+        "Walter Jens"
+      ],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "Ein Buch, das geduldig auf uns wartet",
+      "authors": [
+        "Peter Härtling"
+      ],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "Freundschaftlicher Widerspruch",
+      "authors": [
+        "Joachim Kaiser"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Über »Der Gefesselte« (1953)",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Ilse Aichingers »Poesie«",
+      "authors": [
+        "Christoph Rahmer"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "Erfassung des Unfaßbaren? (wm.)",
+      "authors": [
+        "wm."
+      ],
+      "printed_page_number": "185",
+      "skip": false
+    },
+    {
+      "title": "Zeitkritik als Zeit-Kritik",
+      "authors": [
+        "Ueli Jaussi"
+      ],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "Über »Zu keiner Stunde« (1957)",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Im Rücken des Todes",
+      "authors": [
+        "Hans Egon Holthusen"
+      ],
+      "printed_page_number": "194",
+      "skip": false
+    },
+    {
+      "title": "Zwischen Andersen und Kafka",
+      "authors": [
+        "Günter Blöcker"
+      ],
+      "printed_page_number": "198",
+      "skip": false
+    },
+    {
+      "title": "Über »Wo ich wohne« (1963)",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Auf grünem Grund",
+      "authors": [
+        "Wolfgang Monecke"
+      ],
+      "printed_page_number": "200",
+      "skip": false
+    },
+    {
+      "title": "»Wo ich wohne«",
+      "authors": [
+        "Jürgen P. Wallmann"
+      ],
+      "printed_page_number": "204",
+      "skip": false
+    },
+    {
+      "title": "Über »Eliza Eliza« (1965)",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Der Querbalken",
+      "authors": [
+        "Wolfgang Hildesheimer"
+      ],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "Die Sprache der Bilder",
+      "authors": [
+        "Rainer Lübbren"
+      ],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "Über die Poesie in Ilse Aichingers Prosa",
+      "authors": [
+        "Heinz Piontek"
+      ],
+      "printed_page_number": "224",
+      "skip": false
+    },
+    {
+      "title": "»Eliza Eliza«",
+      "authors": [
+        "Elisabeth Endres"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "Magie einer ungewohnten Stimme",
+      "authors": [
+        "Hans Bender"
+      ],
+      "printed_page_number": "233",
+      "skip": false
+    },
+    {
+      "title": "»Eliza Eliza«",
+      "authors": [
+        "Christine Brückner"
+      ],
+      "printed_page_number": "236",
+      "skip": false
+    },
+    {
+      "title": "Über »Auckland« (1969)",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Spiele zum Hineinfallen",
+      "authors": [
+        "Heinz F. Schafroth"
+      ],
+      "printed_page_number": "240",
+      "skip": false
+    },
+    {
+      "title": "Einleitung zu Ilse Aichingers »Besuch im Pfarrhaus«",
+      "authors": [
+        "Ernst Jandl"
+      ],
+      "printed_page_number": "244",
+      "skip": false
+    },
+    {
+      "title": "Über »schlechte Wörter« (1976)",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Da flog das Wort auf",
+      "authors": [
+        "Samuel Moser"
+      ],
+      "printed_page_number": "247",
+      "skip": false
+    },
+    {
+      "title": "Entsetzen und Verzweiflung",
+      "authors": [
+        "Wolfgang Weyrauch"
+      ],
+      "printed_page_number": "253",
+      "skip": false
+    },
+    {
+      "title": "»schlechte Wörter«",
+      "authors": [
+        "Heinz Ludwig Arnold"
+      ],
+      "printed_page_number": "255",
+      "skip": false
+    },
+    {
+      "title": "Genauigkeit im Ungewissen",
+      "authors": [
+        "Peter Horst Neumann"
+      ],
+      "printed_page_number": "259",
+      "skip": false
+    },
+    {
+      "title": "Ilse Aichingers todernste Ironien",
+      "authors": [
+        "Heinz Politzer"
+      ],
+      "printed_page_number": "261",
+      "skip": false
+    },
+    {
+      "title": "An den Rändern der Existenz",
+      "authors": [
+        "Jürgen Becker"
+      ],
+      "printed_page_number": "265",
+      "skip": false
+    },
+    {
+      "title": "Genaue Ahnungen",
+      "authors": [
+        "Elsbeth Pulver"
+      ],
+      "printed_page_number": "269",
+      "skip": false
+    },
+    {
+      "title": "»Queens«",
+      "authors": [
+        "Lilly Spring"
+      ],
+      "printed_page_number": "279",
+      "skip": false
+    },
+    {
+      "title": "Die Räuberin",
+      "authors": [
+        "Klaus Hoffer"
+      ],
+      "printed_page_number": "282",
+      "skip": false
+    },
+    {
+      "title": "Über »verschenkter Rat« (1978)",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Poetische Phantasie",
+      "authors": [
+        "Gisela Lindemann"
+      ],
+      "printed_page_number": "286",
+      "skip": false
+    },
+    {
+      "title": "Morgenröte unterm Schnee",
+      "authors": [
+        "Michael Krüger"
+      ],
+      "printed_page_number": "292",
+      "skip": false
+    },
+    {
+      "title": "Gedichte vom Überleben um keinen Preis",
+      "authors": [
+        "Heinz F. Schafroth"
+      ],
+      "printed_page_number": "299",
+      "skip": false
+    },
+    {
+      "title": "Eh die Träume rosten und brechen",
+      "authors": [
+        "Hilde Spiel"
+      ],
+      "printed_page_number": "303",
+      "skip": false
+    },
+    {
+      "title": "Über Gedichte Ilse Aichingers",
+      "authors": [
+        "Erich Fried"
+      ],
+      "printed_page_number": "308",
+      "skip": false
+    },
+    {
+      "title": "Über »Kleist, Moos, Fasane« (1987)",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die äußerste Bedrängnis – die äußerste Geborgenheit",
+      "authors": [
+        "Elsbeth Pulver"
+      ],
+      "printed_page_number": "321",
+      "skip": false
+    },
+    {
+      "title": "Wunder-Worte",
+      "authors": [
+        "Joachim Kaiser"
+      ],
+      "printed_page_number": "327",
+      "skip": false
+    },
+    {
+      "title": "Ein anderer Fleiß ist das Warten",
+      "authors": [
+        "Peter Horst Neumann"
+      ],
+      "printed_page_number": "330",
+      "skip": false
+    },
+    {
+      "title": "Schreibendes Wiederbeleben der Kindertage",
+      "authors": [
+        "Urs Bugmann"
+      ],
+      "printed_page_number": "332",
+      "skip": false
+    },
+    {
+      "title": "Über »Werke« (1991)",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Eine neue Sprache lernen",
+      "authors": [
+        "Albrecht Kloepfer"
+      ],
+      "printed_page_number": "334",
+      "skip": false
+    },
+    {
+      "title": "Stoff des Lebens wird bei ihr radioaktiv",
+      "authors": [
+        "Ulf Heise"
+      ],
+      "printed_page_number": "337",
+      "skip": false
+    },
+    {
+      "title": "VI Anhang (zusammengestellt von Richard Reichensperger)",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vita Ilse Aichingers",
+      "authors": [],
+      "printed_page_number": "341",
+      "skip": true
+    },
+    {
+      "title": "Preise und Auszeichnungen",
+      "authors": [],
+      "printed_page_number": "343",
+      "skip": true
+    },
+    {
+      "title": "Bibliographie der Werke Ilse Aichingers",
+      "authors": [],
+      "printed_page_number": "345",
+      "skip": true
+    },
+    {
+      "title": "Ausgewählte Sekundärbibliographie (mit Quellennachweisen)",
+      "authors": [],
+      "printed_page_number": "358",
+      "skip": true
+    },
+    {
+      "title": "Danksagung",
+      "authors": [],
+      "printed_page_number": "380",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

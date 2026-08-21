@@ -1,0 +1,327 @@
+{
+  "entries": [
+    {
+      "title": "1 Name, Family, and Identity",
+      "authors": [
+        "William Baker"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Notes on Contributors",
+      "authors": [],
+      "printed_page_number": "viii",
+      "skip": true
+    },
+    {
+      "title": "2 Czechoslovakia",
+      "authors": [
+        "Tom\u00e1\u0161 Ka\u010der"
+      ],
+      "printed_page_number": "10",
+      "skip": false
+    },
+    {
+      "title": "Chronology",
+      "authors": [],
+      "printed_page_number": "xvi",
+      "skip": true
+    },
+    {
+      "title": "3 Singapore and India",
+      "authors": [
+        "Daniel Jernigan"
+      ],
+      "printed_page_number": "18",
+      "skip": false
+    },
+    {
+      "title": "List of Abbreviations",
+      "authors": [],
+      "printed_page_number": "xx",
+      "skip": true
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "xxi",
+      "skip": true
+    },
+    {
+      "title": "4 England",
+      "authors": [
+        "Claire Cochrane"
+      ],
+      "printed_page_number": "26",
+      "skip": false
+    },
+    {
+      "title": "5 William Shakespeare",
+      "authors": [
+        "James N. Loehlin"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "6 Russian Literature and Culture",
+      "authors": [
+        "Ira Nadel"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "7 Oscar Wilde",
+      "authors": [
+        "Alex Feldman"
+      ],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "8 Samuel Beckett",
+      "authors": [
+        "Kersti Tarien Powell"
+      ],
+      "printed_page_number": "62",
+      "skip": false
+    },
+    {
+      "title": "9 V\u00e1clav Havel",
+      "authors": [
+        "Michael \u017dantovsk\u00fd"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "10 Philosophy",
+      "authors": [
+        "David Kornhaber"
+      ],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "11 Science",
+      "authors": [
+        "William W. Demastes"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "12 Mathematics",
+      "authors": [
+        "Liliane Campos"
+      ],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "13 History and Biography",
+      "authors": [
+        "Martin Middeke"
+      ],
+      "printed_page_number": "104",
+      "skip": false
+    },
+    {
+      "title": "14 Love and Sexuality",
+      "authors": [
+        "Roberta Barker"
+      ],
+      "printed_page_number": "112",
+      "skip": false
+    },
+    {
+      "title": "15 Art and Aesthetics",
+      "authors": [
+        "John Fleming"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "16 Classicism and Romanticism",
+      "authors": [
+        "Mike Vanden Heuvel"
+      ],
+      "printed_page_number": "132",
+      "skip": false
+    },
+    {
+      "title": "17 Modernism and the Avant-Garde",
+      "authors": [
+        "Jonathan Goldman"
+      ],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "18 Music",
+      "authors": [
+        "Irene Morra"
+      ],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "19 Ideology",
+      "authors": [
+        "John Bull"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "20 Communism",
+      "authors": [
+        "Ramona Mosse"
+      ],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "21 The Cold War",
+      "authors": [
+        "John Elsom"
+      ],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "22 Human Rights and Censorship",
+      "authors": [
+        "Mark Hurst"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "23 Empire, Colonialism, and Post-Colonialism",
+      "authors": [
+        "Nandi Bhatia"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "24 Post-War British Theatre",
+      "authors": [
+        "Dan Rebello"
+      ],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "25 Acting in Stoppard",
+      "authors": [
+        "Samuel West"
+      ],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "26 Adaptations",
+      "authors": [
+        "R. Darren Gobert"
+      ],
+      "printed_page_number": "214",
+      "skip": false
+    },
+    {
+      "title": "27 Journalism and Criticism",
+      "authors": [
+        "Mark Lawson"
+      ],
+      "printed_page_number": "222",
+      "skip": false
+    },
+    {
+      "title": "28 Stoppard's Novel",
+      "authors": [
+        "Neil Sammells"
+      ],
+      "printed_page_number": "230",
+      "skip": false
+    },
+    {
+      "title": "29 Radio and Television",
+      "authors": [
+        "James Jesson"
+      ],
+      "printed_page_number": "238",
+      "skip": false
+    },
+    {
+      "title": "30 Screenwriting",
+      "authors": [
+        "Brice Ezell",
+        "Rachel Joseph"
+      ],
+      "printed_page_number": "246",
+      "skip": false
+    },
+    {
+      "title": "31 Stoppard's Archives",
+      "authors": [
+        "Eric Colleary"
+      ],
+      "printed_page_number": "254",
+      "skip": false
+    },
+    {
+      "title": "Further Reading",
+      "authors": [],
+      "printed_page_number": "260",
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "265",
+      "skip": true
+    },
+    {
+      "title": "PART I ORIGINS",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "PART II INFLUENCES",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "PART III IDEAS",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "PART IV AESTHETICS",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "PART V POLITICS",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "PART VI PAGE, STAGE, AND SCREEN",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

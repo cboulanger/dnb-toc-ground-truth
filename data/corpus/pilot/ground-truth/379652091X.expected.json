@@ -1,0 +1,110 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt / Contents",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die inszenierten Welten der Verleger de Bry",
+      "authors": [
+        "Susanna Burghartz"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "The Imagined Worlds of de Bry and Sons, Publishers",
+      "authors": [
+        "Susanna Burghartz"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "De Bry and Antwerp, 1577–1585. A formative period",
+      "authors": [
+        "Michiel van Groesen"
+      ],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "Abstract",
+      "authors": [
+        "Michiel van Groesen"
+      ],
+      "printed_page_number": "41",
+      "skip": true
+    },
+    {
+      "title": "Die Sammlung zur Schau gestellt: die Titelblätter der America-Serie",
+      "authors": [
+        "Maike Christadler"
+      ],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Abstract",
+      "authors": [
+        "Maike Christadler"
+      ],
+      "printed_page_number": "89",
+      "skip": true
+    },
+    {
+      "title": "De Brys' Africa",
+      "authors": [
+        "Ernst van den Boogaart"
+      ],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "Abstract",
+      "authors": [
+        "Ernst van den Boogaart"
+      ],
+      "printed_page_number": "149",
+      "skip": true
+    },
+    {
+      "title": "Ethnographische Illustrationen zwischen Propaganda und Unterhaltung. Ein Vergleich der Reisesammlungen von De Bry und Hulsius",
+      "authors": [
+        "Jutta Steffen-Schrade"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Abstract",
+      "authors": [
+        "Jutta Steffen-Schrade"
+      ],
+      "printed_page_number": "191",
+      "skip": true
+    },
+    {
+      "title": "Abbildungsnachweis",
+      "authors": [],
+      "printed_page_number": "196",
+      "skip": true
+    },
+    {
+      "title": "Dank",
+      "authors": [],
+      "printed_page_number": "197",
+      "skip": true
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "198",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

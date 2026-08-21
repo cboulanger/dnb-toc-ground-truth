@@ -1,0 +1,397 @@
+{
+  "entries": [
+    {
+      "title": "Einleitung: Ziel des Handbuchs",
+      "authors": [
+        "Ingo Bosse",
+        "Jan-Ren\u00e9 Schluchter",
+        "Isabel Zorn"
+      ],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Theoretische Grundlagen inklusiver Medienbildung",
+      "authors": [
+        "Isabel Zorn",
+        "Jan-Ren\u00e9 Schluchter",
+        "Ingo Bosse"
+      ],
+      "printed_page_number": "16",
+      "skip": false
+    },
+    {
+      "title": "Mediensozialisation",
+      "authors": [
+        "Horst Niesyto"
+      ],
+      "printed_page_number": "34",
+      "skip": false
+    },
+    {
+      "title": "Basisdaten zur Mediennutzung von Menschen mit Behinderungen",
+      "authors": [
+        "Anne Haage",
+        "Ingo Bosse"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "Medienkompetenz und Inklusion",
+      "authors": [
+        "Bernd Schorb"
+      ],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "Inklusionsorientierter Literaturunterricht mit (digitalen) Medien\nEin Beispiel f\u00fcr die Auseinandersetzung der Fachdidaktiken mit Inklusion in einer mediatisierten Gesellschaft",
+      "authors": [
+        "Annett Thiele",
+        "Ingo Bosse"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Berufsfeld Familien",
+      "authors": [
+        "Katrin Schl\u00f6r"
+      ],
+      "printed_page_number": "94",
+      "skip": false
+    },
+    {
+      "title": "Berufsfeld Fr\u00fchkindliche Bildung",
+      "authors": [
+        "Isabel Zorn"
+      ],
+      "printed_page_number": "102",
+      "skip": false
+    },
+    {
+      "title": "Berufsfeld Grundschule",
+      "authors": [
+        "Marion Br\u00fcggemann"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "Berufsfeld Sekundarstufe I",
+      "authors": [
+        "Ingo Bosse",
+        "Jan-Ren\u00e9 Schluchter"
+      ],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "Berufsfeld F\u00f6rderschulen",
+      "authors": [
+        "Annette Pola",
+        "Simon Koch"
+      ],
+      "printed_page_number": "132",
+      "skip": false
+    },
+    {
+      "title": "Praxisbeispiel: Zusammenarbeit zwischen F\u00f6rderschulen und Medienp\u00e4dagogik",
+      "authors": [
+        "Pia Lauscher",
+        "Katja Batzler"
+      ],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "Berufsfeld Arbeit/Beruf",
+      "authors": [
+        "Martina Kunzendorf"
+      ],
+      "printed_page_number": "146",
+      "skip": false
+    },
+    {
+      "title": "Berufsfeld Soziale Arbeit",
+      "authors": [
+        "Nadia Kutscher",
+        "Lisa-Marie Kre\u00df"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Berufsfeld Jugendstrafvollzug",
+      "authors": [
+        "Julia Behr"
+      ],
+      "printed_page_number": "162",
+      "skip": false
+    },
+    {
+      "title": "Berufsfeld Tagesf\u00f6rderung/Wohneinrichtungen",
+      "authors": [
+        "Michael Mayerle"
+      ],
+      "printed_page_number": "170",
+      "skip": false
+    },
+    {
+      "title": "Berufsfeld Kulturelle Bildung",
+      "authors": [
+        "Melanie Schaumburg"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "Berufsfeld Erwachsenen- und Seniorenbildung",
+      "authors": [
+        "Kristin Sonnenberg"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "Methoden inklusiver Medienbildung",
+      "authors": [
+        "Jan-Ren\u00e9 Schluchter"
+      ],
+      "printed_page_number": "198",
+      "skip": false
+    },
+    {
+      "title": "Barrierefreiheit",
+      "authors": [
+        "Anne Haage",
+        "Christian B\u00fchler"
+      ],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "Leichte Sprache \u2013 ein Mittel zur Barrierefreiheit?",
+      "authors": [
+        "Saskia Schuppener",
+        "Anne Goldbach",
+        "Bettina M. Bock"
+      ],
+      "printed_page_number": "216",
+      "skip": false
+    },
+    {
+      "title": "Barrierefreie Gestaltung von Veranstaltungen der Medienbildung",
+      "authors": [
+        "Nadia Ullrich"
+      ],
+      "printed_page_number": "223",
+      "skip": false
+    },
+    {
+      "title": "E-Learning",
+      "authors": [
+        "Bj\u00f6rn Fisseler"
+      ],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "Assistive Technologien",
+      "authors": [
+        "Susanne Dirks",
+        "Hanna Linke"
+      ],
+      "printed_page_number": "241",
+      "skip": false
+    },
+    {
+      "title": "Unterst\u00fctzte Kommunikation",
+      "authors": [
+        "Igor Krstoski"
+      ],
+      "printed_page_number": "252",
+      "skip": false
+    },
+    {
+      "title": "M\u00f6glichkeiten diversit\u00e4tssensibler Kommunikation in den Medien",
+      "authors": [
+        "Lilian Masuhr"
+      ],
+      "printed_page_number": "263",
+      "skip": false
+    },
+    {
+      "title": "Barrierefreie Kommunikation und Sprache",
+      "authors": [
+        "Carola Werning",
+        "Susanne B\u00f6mig"
+      ],
+      "printed_page_number": "272",
+      "skip": false
+    },
+    {
+      "title": "Professionalisierung in der Eltern- und Familienarbeit",
+      "authors": [
+        "Anna-Maria Kamin"
+      ],
+      "printed_page_number": "280",
+      "skip": false
+    },
+    {
+      "title": "Professionalisierung in der fr\u00fchkindlichen Bildung",
+      "authors": [
+        "Gudrun Marci-Boehncke"
+      ],
+      "printed_page_number": "288",
+      "skip": false
+    },
+    {
+      "title": "Professionalisierung in der Schule",
+      "authors": [
+        "Jan-Ren\u00e9 Schluchter",
+        "Ingo Bosse"
+      ],
+      "printed_page_number": "297",
+      "skip": false
+    },
+    {
+      "title": "Professionalisierung in der Arbeit/im Beruf",
+      "authors": [
+        "Andrea Burda-Zoyke"
+      ],
+      "printed_page_number": "310",
+      "skip": false
+    },
+    {
+      "title": "Professionalisierung in der Sozialen Arbeit",
+      "authors": [
+        "Alexandra Klein",
+        "Caroline Pulver"
+      ],
+      "printed_page_number": "317",
+      "skip": false
+    },
+    {
+      "title": "Professionalisierung in der Kulturellen Bildung",
+      "authors": [
+        "Christian Helbig"
+      ],
+      "printed_page_number": "324",
+      "skip": false
+    },
+    {
+      "title": "Professionalisierung in der Erwachsenenbildung",
+      "authors": [
+        "Anna-Maria Kamin",
+        "Dorothee Meister"
+      ],
+      "printed_page_number": "332",
+      "skip": false
+    },
+    {
+      "title": "Professionalisierung in der Informatik",
+      "authors": [
+        "Andreas M\u00fchling"
+      ],
+      "printed_page_number": "340",
+      "skip": false
+    },
+    {
+      "title": "Partizipative Forschung",
+      "authors": [
+        "Oliver K\u00f6nig",
+        "Alexander Schmoelz"
+      ],
+      "printed_page_number": "350",
+      "skip": false
+    },
+    {
+      "title": "Innovation Technologiedesign",
+      "authors": [
+        "Svetlana Matiouk"
+      ],
+      "printed_page_number": "359",
+      "skip": false
+    },
+    {
+      "title": "Disability Studies und Medien",
+      "authors": [
+        "Gudrun Kellermann"
+      ],
+      "printed_page_number": "368",
+      "skip": false
+    },
+    {
+      "title": "Visuelle Methoden",
+      "authors": [
+        "Peter Holzwarth"
+      ],
+      "printed_page_number": "376",
+      "skip": false
+    },
+    {
+      "title": "Autor/innenverzeichnis",
+      "authors": [],
+      "printed_page_number": "383",
+      "skip": true
+    },
+    {
+      "title": "Methoden und \u00fcbergreifende Themen inklusiver Medienbildung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Grundlagen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Berufsfelder im \u00dcberblick",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Professionalisierung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Forschung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "I Grundlagen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "II Berufsfelder im \u00dcberblick",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "IV Professionalisierung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "V Forschung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

@@ -1,0 +1,215 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einleitung. Von Hartmut Voit",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "1. Vorüberlegungen zu einigen Problemen der Geschichtswissenschaft",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1.1. Die Geschichtswissenschaft in der modernen Industriegesellschaft (1974)",
+      "authors": [
+        "Wolfgang J. Mommsen"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "1.2. Grundprobleme der Geschichtswissenschaft (1975)",
+      "authors": [
+        "Peter Borowsky",
+        "Barbara Vogel",
+        "Heide Wunder"
+      ],
+      "printed_page_number": "34",
+      "skip": false
+    },
+    {
+      "title": "2. Geschichtsunterricht in der Grundschule",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "2.1. Historische Positionen",
+      "authors": [],
+      "printed_page_number": "46",
+      "skip": true
+    },
+    {
+      "title": "2.1.1. Geschichtsunterricht: vorbereitender Kursus (1904)",
+      "authors": [
+        "Adolf Rude"
+      ],
+      "printed_page_number": "46",
+      "skip": false
+    },
+    {
+      "title": "2.1.2. Der Bildungswert der Heimatkunde (1923)",
+      "authors": [
+        "Eduard Spranger"
+      ],
+      "printed_page_number": "52",
+      "skip": false
+    },
+    {
+      "title": "2.1.3. Ein Erziehungs- und Arbeitsplan für die deutsche Volksschule (1940)",
+      "authors": [
+        "Georg Rein"
+      ],
+      "printed_page_number": "56",
+      "skip": false
+    },
+    {
+      "title": "2.1.4. Grundfragen des heimatkundlichen Geschichtsunterrichts im 3. und 4. Schuljahr (1950)",
+      "authors": [
+        "Rudolf Karnick"
+      ],
+      "printed_page_number": "64",
+      "skip": false
+    },
+    {
+      "title": "2.1.5. Kind und Geschichte (1955)",
+      "authors": [
+        "Heinrich Roth"
+      ],
+      "printed_page_number": "66",
+      "skip": false
+    },
+    {
+      "title": "2.2. Zur gegenwärtigen Diskussion",
+      "authors": [],
+      "printed_page_number": "74",
+      "skip": true
+    },
+    {
+      "title": "2.2.1. Wozu Geschichte in der Primarstufe? (1974/78)",
+      "authors": [
+        "Wolfgang Hug"
+      ],
+      "printed_page_number": "74",
+      "skip": false
+    },
+    {
+      "title": "2.2.2. Fachgemäßheit und Kindgemäßheit im grundlegenden Geschichtsunterricht (1975)",
+      "authors": [
+        "Hans Glöckel"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "2.2.3. Sozialgeschichte in der Primarstufe. Beratungen einer Arbeitsgruppe und ihre Ergebnisse (1975/78)",
+      "authors": [
+        "Hans-Joachim von der Ohe"
+      ],
+      "printed_page_number": "90",
+      "skip": false
+    },
+    {
+      "title": "2.2.4. Schriftliche Quellen in der Grundschule? (1978)",
+      "authors": [
+        "Irmgard Hantsche"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "2.2.5. Geschichte und projektorientiertes Lernen in der Primarstufe (1978)",
+      "authors": [
+        "Klaus Lampe"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "2.2.6. Die unterrichtlichen Mißverständnisse von Regionalgeschichte (1971/78)",
+      "authors": [
+        "Karl-Hermann Beeck"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "2.2.7. Zeitrechnung im 1. und 2. Schuljahr als Unterricht in Geschichte (1978)",
+      "authors": [
+        "Hans Georg Kirchhoff"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "2.2.8. Zeitperspektive und Geschichtsbewußtsein in der Grundschule (1975)",
+      "authors": [
+        "Hilke Günther-Arndt"
+      ],
+      "printed_page_number": "151",
+      "skip": false
+    },
+    {
+      "title": "2.2.9. Geschichte in der englischen Grundschule: Probleme und Möglichkeiten (1978)",
+      "authors": [
+        "Joan E. Blyth"
+      ],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "2.3. Entwürfe und Materialien zur Unterrichtspraxis",
+      "authors": [],
+      "printed_page_number": "174",
+      "skip": true
+    },
+    {
+      "title": "2.3.1. Universalgeschichte in der Primarstufe: Indianer (Nordamerika) (1979)",
+      "authors": [
+        "Hartmut Voit",
+        "Iris Voit"
+      ],
+      "printed_page_number": "174",
+      "skip": false
+    },
+    {
+      "title": "2.3.2. Bevölkerungsgeschichte für Anfänger. Ein Unterrichtsbeispiel aus dem 4. Schuljahr (1978)",
+      "authors": [
+        "Wolfgang Hug"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "2.3.3. Aus dem Leben und dem Kampf der Werktätigen in früherer Zeit (1979)",
+      "authors": [
+        "Gerhard Dathe (Leiter des Autorenkollektivs) u. a."
+      ],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "Quellennachweis",
+      "authors": [],
+      "printed_page_number": "209",
+      "skip": true
+    },
+    {
+      "title": "Bibliographie",
+      "authors": [],
+      "printed_page_number": "211",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

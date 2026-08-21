@@ -1,0 +1,248 @@
+{
+  "generated_at": 1787246553.512794,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Tabula gratulatoria",
+      "printed_page_number": "XI",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Schriftenverzeichnis von Wolf Dietrich",
+      "printed_page_number": "XV",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "I. Linguistica romanica",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "FRITZ ABEL",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Fritz Abel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Que signifie \u201esavoir\u201c une langue \u00e9trang\u00e8re?",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Fritz Abel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "GABRIELE B\u00d6HME-ECKERT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gabriele B\u00f6hme-Eckert"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eLa langue fran\u00e7aise en l'an 2003\u201c. L\u00e9on Bollacks \u201eFuturologie\u201c des Franz\u00f6sischen aus dem Jahre 1903",
+      "printed_page_number": "21",
+      "source_page_index": -1,
+      "authors": [
+        "Gabriele B\u00f6hme-Eckert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "CLAUDE BURIDANT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Claude Buridant"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "De la th\u00e9matisation en ancien fran\u00e7ais: remarques sur le r\u00f4le de de",
+      "printed_page_number": "49",
+      "source_page_index": -1,
+      "authors": [
+        "Claude Buridant"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "NELSON CARTAGENA",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Nelson Cartagena"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die phonetische Entwicklung des Spanischen in Chile",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [
+        "Nelson Cartagena"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "EUGENIO COSERIU",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Eugenio Coseriu"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die sprachliche Kompetenz",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [
+        "Eugenio Coseriu"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HORST GECKELER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Horst Geckeler"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zur Frage der \u201eAusnahmen\u201c in unseren Sprachen",
+      "printed_page_number": "99",
+      "source_page_index": -1,
+      "authors": [
+        "Horst Geckeler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MARTIN HAASE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Martin Haase"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Franz\u00f6sische als exotische Sprache",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Haase"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "GEROLD HILTY",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gerold Hilty"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "La Parte Quinta del Libro conplido y la transmisi\u00f3n de obras alfons\u00edes",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [
+        "Gerold Hilty"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ULRICH HOINKES",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ulrich Hoinkes"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Etymologische Anmerkungen zu den Bezeichnungen f\u00fcr Beizv\u00f6gel im galloromanischen Lehnwortschatz des Italienischen",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrich Hoinkes"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "G\u00dcNTER HOLTUS/ULRIKE M\u00dcHLSCHLEGEL",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter Holtus",
+        "Ulrike M\u00fchlschlegel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die W\u00f6rterb\u00fccher von Raphael Bluteau (1712/1728) und von Antonio de Moraes Silva (1789). Ein Vergleich am Beispiel der diasystematischen Markierungen",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter Holtus",
+        "Ulrike M\u00fchlschlegel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bibliografische Informationen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

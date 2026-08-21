@@ -1,0 +1,441 @@
+{
+  "generated_at": 1787016106.330755,
+  "entries": [
+    {
+      "title": "List of figures",
+      "printed_page_number": "x",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of tables",
+      "printed_page_number": "xii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Contributors",
+      "printed_page_number": "xiii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgments",
+      "printed_page_number": "xvi",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Part I Introduction",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1 Bilingual processing: a dynamic and rapidly changing field",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "John W. Schwieter",
+        "Natasha Tokowicz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part II Theories and methodologies",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2 Six decades of research on lexical presentation and processing in bilinguals",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [
+        "Nan Jiang"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Computational modeling of bilingual language acquisition and processing: conceptual and methodological considerations",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "Ping Li",
+        "Xiaowei Zhao"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Methods for studying adult bilingualism",
+      "printed_page_number": "108",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Spivey",
+        "Cynthia Cardon"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Methods for studying infant bilingualism",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [
+        "Krista Byers-Heinlein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part III Acquisition and development",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "6 Becoming bilingual: are there different learning pathways?",
+      "printed_page_number": "157",
+      "source_page_index": -1,
+      "authors": [
+        "N\u00faria Sebasti\u00e1n-Gall\u00e9s"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Phonology and morphology in lexical processing",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [
+        "Kira Gor"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Processing perspectives on instructed second language acquisition",
+      "printed_page_number": "200",
+      "source_page_index": -1,
+      "authors": [
+        "Bill VanPatten"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 Learning second language vocabulary: insights from laboratory studies",
+      "printed_page_number": "216",
+      "source_page_index": -1,
+      "authors": [
+        "Natasha Tokowicz",
+        "Tamar Degani"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Second language constructions: usage-based acquisition and transfer",
+      "printed_page_number": "234",
+      "source_page_index": -1,
+      "authors": [
+        "Nick Ellis",
+        "Ute R\u00f6mer",
+        "Matthew O'Donnell"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11 Variability in bilingual processing: a dynamic approach",
+      "printed_page_number": "255",
+      "source_page_index": -1,
+      "authors": [
+        "Wander Lowie",
+        "Kees de Bot"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part IV Comprehension and representation",
+      "printed_page_number": "273",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "12 Conceptual representation in bilinguals: the role of language specificity and conceptual change",
+      "printed_page_number": "275",
+      "source_page_index": -1,
+      "authors": [
+        "Panos Athanasopoulos"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13 Emotion word processing within and between languages",
+      "printed_page_number": "293",
+      "source_page_index": -1,
+      "authors": [
+        "Jeanette Altarriba",
+        "Dana Basnight-Brown"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14 Orthographic processing in bilinguals",
+      "printed_page_number": "308",
+      "source_page_index": -1,
+      "authors": [
+        "Walter J. B. van Heuven",
+        "Emily L. Coderre"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15 Bilingual lexical access during written sentence comprehension",
+      "printed_page_number": "327",
+      "source_page_index": -1,
+      "authors": [
+        "Ana Schwartz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16 Cross-language interactions during bilingual sentence processing",
+      "printed_page_number": "349",
+      "source_page_index": -1,
+      "authors": [
+        "Paola Dussias",
+        "Amelia J. Dietrich",
+        "\u00c1lvaro Villegas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part V Production",
+      "printed_page_number": "367",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "17 Individual differences in second language speech production",
+      "printed_page_number": "369",
+      "source_page_index": -1,
+      "authors": [
+        "Judit Kormos"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "18 Parallel language activation in bilinguals' word production and its modulating factors: a review and computer simulations",
+      "printed_page_number": "389",
+      "source_page_index": -1,
+      "authors": [
+        "Annette M. B. de Groot",
+        "Peter A. Starreveld"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "19 Cross-language asymmetries in code-switching patterns: implications for bilingual language production",
+      "printed_page_number": "416",
+      "source_page_index": -1,
+      "authors": [
+        "Carol Myers-Scotton",
+        "Janice Jake"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "20 Intra-sentential code-switching: cognitive and neural approaches",
+      "printed_page_number": "459",
+      "source_page_index": -1,
+      "authors": [
+        "Janet G. van Hell",
+        "Kaitlyn A. Litcosky",
+        "Caitlin Y. Ting"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part VI Control",
+      "printed_page_number": "483",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "21 Selection and control in bilingual comprehension and production",
+      "printed_page_number": "485",
+      "source_page_index": -1,
+      "authors": [
+        "Judith F. Kroll",
+        "Jason W. Gullifer",
+        "Rhonda McClain",
+        "Eleonora Rossi",
+        "Mar\u00eda Cruz Mart\u00edn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "22 On the mechanism and scope of language control in bilingual speech production",
+      "printed_page_number": "508",
+      "source_page_index": -1,
+      "authors": [
+        "Cristina Baus",
+        "Francesca Branzi",
+        "Albert Costa"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "23 Behavioral measures of language control: Production and comprehension",
+      "printed_page_number": "527",
+      "source_page_index": -1,
+      "authors": [
+        "Julia Festman",
+        "John W. Schwieter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "24 Neural perspectives of language control",
+      "printed_page_number": "548",
+      "source_page_index": -1,
+      "authors": [
+        "Arturo Hernandez"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part VII Consequences of bilingualism",
+      "printed_page_number": "569",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "25 Cognitive consequences of bilingualism: executive control and cognitive reserve",
+      "printed_page_number": "571",
+      "source_page_index": -1,
+      "authors": [
+        "Ellen Bialystok",
+        "Fergus Craik"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "26 Does bilingual exercise enhance cognitive fitness in traditional non-linguistic executive processing tasks?",
+      "printed_page_number": "586",
+      "source_page_index": -1,
+      "authors": [
+        "Matthew O. Hilchey",
+        "Jean Saint-Aubin",
+        "Raymond M. Klein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "27 Neural consequences of bilingualism for cortical and subcortical function",
+      "printed_page_number": "614",
+      "source_page_index": -1,
+      "authors": [
+        "Jennifer Krizman",
+        "Viorica Marian"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "28 How bilingualism shapes the mental lexicon",
+      "printed_page_number": "631",
+      "source_page_index": -1,
+      "authors": [
+        "Gary Libben",
+        "Mira Goral"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "29 Losing a first language to a second language",
+      "printed_page_number": "645",
+      "source_page_index": -1,
+      "authors": [
+        "Eve Higby",
+        "Loraine Obler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "30 Moving beyond two languages: The effects of multilingualism on language processing and language learning",
+      "printed_page_number": "665",
+      "source_page_index": -1,
+      "authors": [
+        "Jared Linck",
+        "Erica Michael",
+        "Ewa Golonka",
+        "Alina Twist",
+        "John W. Schwieter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "References",
+      "printed_page_number": "695",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "829",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

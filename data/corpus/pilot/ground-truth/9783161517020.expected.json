@@ -1,0 +1,58 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "V",
+      "skip": true
+    },
+    {
+      "title": "Einführung in das Forschungsgespräch über die richterliche Rechtsarbeit",
+      "authors": [
+        "Christian Bumke"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Verfassungsrechtliche Grenzen fachrichterlicher Rechtserzeugung",
+      "authors": [
+        "Christian Bumke"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "Richterliche Rechtsetzung statt richterliche Rechtsfortbildung. Methodologische Betrachtungen zum sog. Richterrecht",
+      "authors": [
+        "Matthias Jestaedt"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "Rechtsphilosophische Fundierung des Richterrechts: Die Idee des Rechts",
+      "authors": [
+        "Paul Kirchhof"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Richterrecht und Rechtsdogmatik. Zur rechtsdogmatischen Disziplinierung des Richterrechts",
+      "authors": [
+        "Eduard Picker"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "Verfasserverzeichnis",
+      "authors": [],
+      "printed_page_number": "121",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,164 @@
+{
+  "entries": [
+    {
+      "title": "Contents",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "List of contributors",
+      "authors": [],
+      "printed_page_number": "VII",
+      "skip": true
+    },
+    {
+      "title": "Preface",
+      "authors": [],
+      "printed_page_number": "IX",
+      "skip": true
+    },
+    {
+      "title": "Problems and prospects in the study of plant allelochemicals: a brief introduction",
+      "authors": [
+        "Azim U. Mallik",
+        "Inderjit"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Antifungal properties of cyanobacteria and algae: ecological and agricultural implications",
+      "authors": [
+        "Dale G. Nagle",
+        "David E. Wedge"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "The chemistry and chemical ecology of biologically active cyanobacterial metabolites",
+      "authors": [
+        "Dale G. Nagle",
+        "Inderjit"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "Phytotoxic compounds from Typha domingensis P.",
+      "authors": [
+        "Maria T. Gallardo-Williams",
+        "Dean F. Martin"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Allelochemicals from sunflowers: chemistry, bioactivity and applications",
+      "authors": [
+        "Francisco A. Macías",
+        "Rosa M. Varela",
+        "Ascensión Torres",
+        "José L.G. Galindo",
+        "José M.G. Molinillo"
+      ],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "Feedback mechanism in the chemical ecology of plants: role of soil microorganisms",
+      "authors": [
+        "X. Carlos Souto",
+        "François Pellissier"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "Do allelochemicals operate independent of substratum factors?",
+      "authors": [
+        "Harleen Kaur",
+        "Inderjit",
+        "K.I. Keating"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "Ecological relevance of allelopathy: some considerations related to Mediterranean, subtropical, temperate, and boreal forest shrubs",
+      "authors": [
+        "Erik Tallak Nilsen"
+      ],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "Linking ecosystem disturbance with changes in keystone species, humus properties and soil chemical ecology: implications for conifer regeneration with ericaceous understory",
+      "authors": [
+        "Azim U. Mallik"
+      ],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "Black walnut allelopathy: current state of the science",
+      "authors": [
+        "Shibu Jose"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "Allelopathy and agroecology",
+      "authors": [
+        "Stephen R. Gliessman"
+      ],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "Allelochemicals phytotoxicity in explaining weed invasiveness and their function as herbicide analogues",
+      "authors": [
+        "Inderjit",
+        "Prasanta C. Bhowmik"
+      ],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "Shift in allelochemical functioning with selected abiotic stress factors",
+      "authors": [
+        "Inderjit",
+        "Harsh Nayyar"
+      ],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "Pitfalls in interpretation of allelochemical data in ecological studies: implications for plant-herbivore and allelopathic research",
+      "authors": [
+        "Julia Koricheva",
+        "Anna Shevtsova"
+      ],
+      "printed_page_number": "219",
+      "skip": false
+    },
+    {
+      "title": "Biochemical and physiological aspects of pollen allelopathy",
+      "authors": [
+        "Stephen D. Murphy"
+      ],
+      "printed_page_number": "245",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "261",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

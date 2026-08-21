@@ -1,0 +1,99 @@
+{
+  "generated_at": 1786941484.046935,
+  "entries": [
+    {
+      "title": "Financial econometrics and big data: A survey of volatility estimators and tests for the presence of jumps and co-jumps",
+      "printed_page_number": 3,
+      "source_page_index": -1,
+      "authors": [
+        "Arpita Mukherjee",
+        "Weijia Peng",
+        "Norman R. Swanson",
+        "Xiye Yang"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Real time monitoring of asset markets: Bubbles and crises",
+      "printed_page_number": 61,
+      "source_page_index": -1,
+      "authors": [
+        "Peter C.B. Phillips",
+        "Shuping Shi"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Component-wise AdaBoost algorithms for high-dimensional binary classification and class probability prediction",
+      "printed_page_number": 81,
+      "source_page_index": -1,
+      "authors": [
+        "Jianghao Chu",
+        "Tae-Hwy Lee",
+        "Aman Ullah"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Mixed data sampling (MIDAS) regression models",
+      "printed_page_number": 117,
+      "source_page_index": -1,
+      "authors": [
+        "Eric Ghysels",
+        "Virmantas Kvedaras",
+        "Vaidotas Zemlys-Balevi\u010dius"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Encouraging private corporate investment in India",
+      "printed_page_number": 155,
+      "source_page_index": -1,
+      "authors": [
+        "Hrishikesh Vinod",
+        "Honey Karun",
+        "Lekha S. Chakraborty"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "High-mixed frequency forecasting methods in R\u2014With applications to Philippine GDP and inflation",
+      "printed_page_number": 185,
+      "source_page_index": -1,
+      "authors": [
+        "Roberto S. Mariano",
+        "Suleyman Ozmucur"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Nonlinear time series in R: Threshold cointegration with tsDyn",
+      "printed_page_number": 229,
+      "source_page_index": -1,
+      "authors": [
+        "Matthieu Stigler"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Econometric analysis of productivity: Theory and implementation in R",
+      "printed_page_number": 267,
+      "source_page_index": -1,
+      "authors": [
+        "Robin C. Sickles",
+        "Wonho Song",
+        "Valentin Zelenyuk"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Stochastic frontier models using R",
+      "printed_page_number": 299,
+      "source_page_index": -1,
+      "authors": [
+        "Giancarlo Ferrara"
+      ],
+      "printed_roman": false
+    }
+  ]
+}

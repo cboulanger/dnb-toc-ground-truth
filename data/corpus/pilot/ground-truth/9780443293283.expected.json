@@ -1,0 +1,114 @@
+{
+  "entries": [
+    {
+      "title": "Normal and nonnormal approximation by Stein's method",
+      "authors": [
+        "Qi-Man Shao",
+        "Zhuo-Song Zhang"
+      ],
+      "printed_page_number": "3"
+    },
+    {
+      "title": "Probabilities and thermodynamics' third law",
+      "authors": [
+        "A. Plastino",
+        "F. Pennini"
+      ],
+      "printed_page_number": "27"
+    },
+    {
+      "title": "KOO methods and their high-dimensional consistencies in some multivariate models",
+      "authors": [
+        "Yasunori Fujikoshi"
+      ],
+      "printed_page_number": "41"
+    },
+    {
+      "title": "Approximation and bounding techniques for the Fisher-Rao distances between parametric statistical models",
+      "authors": [
+        "Frank Nielsen"
+      ],
+      "printed_page_number": "67"
+    },
+    {
+      "title": "Random matrix theory and high-dimensional statistics",
+      "authors": [
+        "Weiming Li",
+        "Jianfeng Yao",
+        "Shurong Zheng"
+      ],
+      "printed_page_number": "119"
+    },
+    {
+      "title": "Random matrix theory: Local laws and applications",
+      "authors": [
+        "Zhigang Bao",
+        "Yukun He",
+        "Fan Yang"
+      ],
+      "printed_page_number": "143"
+    },
+    {
+      "title": "Multiplier bootstrap inference for generalized functional linear models",
+      "authors": [
+        "Yunxiang Huang",
+        "Qihua Wang"
+      ],
+      "printed_page_number": "177"
+    },
+    {
+      "title": "Probability models applied to reliability and availability engineering",
+      "authors": [
+        "Kishor S. Trivedi",
+        "Liudong Xing"
+      ],
+      "printed_page_number": "195"
+    },
+    {
+      "title": "The recursive stochastic algorithm, randomized urn models, and response-adaptive randomization in clinical trials",
+      "authors": [
+        "Li-Xin Zhang"
+      ],
+      "printed_page_number": "215"
+    },
+    {
+      "title": "Challenges of statistical machine learning when encountered deep neural network",
+      "authors": [
+        "Qi Meng"
+      ],
+      "printed_page_number": "275"
+    },
+    {
+      "title": "Functional law of large numbers for an epidemic model with random effects",
+      "authors": [
+        "Olga Izyumtseva",
+        "Wasiur R. KhudaBukhsh",
+        "Grzegorz A. Rempa\u0142a"
+      ],
+      "printed_page_number": "297"
+    },
+    {
+      "title": "Fourteen lectures on inference for stochastic processes",
+      "authors": [
+        "B.L.S. Prakasa Rao"
+      ],
+      "printed_page_number": "317"
+    },
+    {
+      "title": "Backward stochastic differential equations: Stochastic optimization theory of backward stochastic differential equations and viscosity solutions of Hamilton\u2013Jacobi\u2013Bellman equations",
+      "authors": [
+        "Shige Peng"
+      ],
+      "printed_page_number": "413"
+    },
+    {
+      "title": "A multivariate cumulative damage model and some applications",
+      "authors": [
+        "Ra\u00fal Fierro"
+      ],
+      "printed_page_number": "457"
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

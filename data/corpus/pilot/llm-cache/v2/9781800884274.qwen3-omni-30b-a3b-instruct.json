@@ -1,0 +1,634 @@
+{
+  "generated_at": 1787018642.754626,
+  "entries": [
+    {
+      "title": "List of figures",
+      "printed_page_number": "viii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of tables",
+      "printed_page_number": "ix",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of contributors",
+      "printed_page_number": "x",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgements",
+      "printed_page_number": "xxvii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Introduction to the Handbook: putting pedagogic models to work in research methods education",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Melanie Nind"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART I TEACHING AND LEARNING SOCIAL RESEARCH METHODS IN THE CLASSROOM",
+      "printed_page_number": "2",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Research literacy and the relationship between research and teaching: the case of research about teaching about research",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "Martyn Hammersley"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Feminist pedagogies: careful(l) ethics in teaching qualitative research methods",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [
+        "Kelly W. Guyotte",
+        "Stephanie Anne Shelton",
+        "Maureen A. Flint"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Facilitating learners' reflexive thinking in qualitative research courses",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [
+        "Amy Orange"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pedagogies for collaborative qualitative research",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Thalia Mulvihill",
+        "Raji Swaminathan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Enhancing the teaching of qualitative methods: teaching the 'breadth and depth method' for analysis of 'big qual'",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [
+        "Sarah Lewthwaite",
+        "Lynn Jamieson",
+        "Emma Davidson",
+        "Rosalind Edwards",
+        "Melanie Nind",
+        "Susie Weller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teaching mixed methods research to address diverse learners' needs: pedagogical strategies and adaptations",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "Nataliya V. Ivankova",
+        "Vicki L. Plano Clark"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teaching mixed methods using an open-space learning approach",
+      "printed_page_number": "106",
+      "source_page_index": -1,
+      "authors": [
+        "Rebecca Johnson",
+        "Marie Murphy"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Active learning, constructive alignment, and research methods: toward a programme level approach",
+      "printed_page_number": "119",
+      "source_page_index": -1,
+      "authors": [
+        "Tom Clark",
+        "Liam Foster"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Post-philosophies inspire the teaching/learning of qualitative inquiry",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [
+        "Candace R. Kuby"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Shaping researcher learning through scribbles: embodied pedagogical practices in classroom inquiry",
+      "printed_page_number": "150",
+      "source_page_index": -1,
+      "authors": [
+        "David Higgins",
+        "Ali Rostron"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teaching and learning social research methods in social work: challenges and benefits of experiential and applied learning contexts",
+      "printed_page_number": "166",
+      "source_page_index": -1,
+      "authors": [
+        "Sandra Lopes",
+        "Sandra Sa\u00fade"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teaching the art of qualitative research interviewing: a developmental approach",
+      "printed_page_number": "182",
+      "source_page_index": -1,
+      "authors": [
+        "Kathryn Roulston",
+        "Brigette A. Herron"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "What are we teaching for? Humility and responsibility in social science research",
+      "printed_page_number": "198",
+      "source_page_index": -1,
+      "authors": [
+        "Jennifer R. Wolgemuth",
+        "Yi-Hsin Chen",
+        "Liliana Rodr\u00edguez-Campos",
+        "John Ferron",
+        "Eunsook Kim",
+        "Robert F. Dedrick",
+        "David Lamb"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART II TEACHING AND LEARNING SOCIAL RESEARCH METHODS ONLINE",
+      "printed_page_number": "214",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Using intentionality to frame how we teach research methods online",
+      "printed_page_number": "214",
+      "source_page_index": -1,
+      "authors": [
+        "Cheryl Hunter",
+        "Tamara Hoffer",
+        "Joshua Hunter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Experiential pedagogies in the online space",
+      "printed_page_number": "226",
+      "source_page_index": -1,
+      "authors": [
+        "Nicole Brown",
+        "Helen Butcher",
+        "Belen Febres-Coder\u00f3",
+        "Chuying (Trista) Wu"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Back to the basics: teaching research online in the time of the Covid-19 pandemic",
+      "printed_page_number": "240",
+      "source_page_index": -1,
+      "authors": [
+        "Maja Miskovic",
+        "Jamie Kowalczyk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "'No choice' but remote learning: non-traditional students making sense of social research methods",
+      "printed_page_number": "255",
+      "source_page_index": -1,
+      "authors": [
+        "Rossana Perez-del-Aguila",
+        "Heather Allison",
+        "Naveed Kazmi"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The use of online materials to support the development of quantitative skills",
+      "printed_page_number": "272",
+      "source_page_index": -1,
+      "authors": [
+        "Steve Cook",
+        "Duncan Watson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teaching and learning research methods and statistics in eLearning environments pre-, during, and post-pandemic",
+      "printed_page_number": "285",
+      "source_page_index": -1,
+      "authors": [
+        "Adam J. Rock",
+        "Kylie Rice",
+        "Natasha M. Loi",
+        "Einar B. Thorsteinsson",
+        "Methuen I. Morgan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\"Mixing\" traditional and non-traditional online technologies to build community in an online mixed methods research methods course",
+      "printed_page_number": "299",
+      "source_page_index": -1,
+      "authors": [
+        "Jori N. Hall",
+        "Sara Campbell"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Integrating the online teaching of qualitative analysis methods and technologies: challenges, solutions and opportunities",
+      "printed_page_number": "316",
+      "source_page_index": -1,
+      "authors": [
+        "Christina Silver",
+        "Sarah L. Bulloch",
+        "Michelle Salmona",
+        "Nicholas W. Woolf"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teaching research methods online: informal or semi-formal professional development",
+      "printed_page_number": "332",
+      "source_page_index": -1,
+      "authors": [
+        "Janet Salmons",
+        "Andy Nobes",
+        "Nicola Pallitt",
+        "Tony Carr"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART III TEACHING AND LEARNING SOCIAL RESEARCH METHODS IN THE FIELD AND OTHER CONTEXTS",
+      "printed_page_number": "351",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "An analysis of doctoral supervision as pedagogic practice in social science and the role of social research methods in supervision",
+      "printed_page_number": "351",
+      "source_page_index": -1,
+      "authors": [
+        "Rosemary Deem",
+        "Sally Barnes"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pedagogical approaches in inclusive research",
+      "printed_page_number": "366",
+      "source_page_index": -1,
+      "authors": [
+        "Edurne Garc\u00eda Iriarte",
+        "Maria Pallisera",
+        "Judit Fullana",
+        "Brian Donohoe",
+        "Kathleen McMeel",
+        "Marc Crespo"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Research methods learning in temporary online communities during Covid-19",
+      "printed_page_number": "381",
+      "source_page_index": -1,
+      "authors": [
+        "Andy Coverdale",
+        "Melanie Nind",
+        "Robert Meckin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Understanding research methods textbooks: pedagogy, production and practice",
+      "printed_page_number": "396",
+      "source_page_index": -1,
+      "authors": [
+        "Patrick Brindle",
+        "Sarah Lewthwaite"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rethinking safeguarding: an opportunity to establish a decolonial teaching framework for social research practice",
+      "printed_page_number": "412",
+      "source_page_index": -1,
+      "authors": [
+        "Leona Vaughn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Managing distance when teaching, learning, and doing oral history: a case study from Vietnam",
+      "printed_page_number": "427",
+      "source_page_index": -1,
+      "authors": [
+        "Siobhan Warrington",
+        "Laura Beckwith",
+        "Hue Nguyen",
+        "Graham Smith",
+        "Lan Nguyen",
+        "Thuy Mai Thi Minh",
+        "Chamithri Geru",
+        "Tanh Nguyen",
+        "Oliver Hensengerth",
+        "Pamela Woolner",
+        "Matt Baillie Smith"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "443",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Cycle of action and reflection, deployed iteratively across three phases to develop effective training and then actively researching this approach",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Cards 5 'walk through', 6 'browsing the archive' from the 'big qual' learner evaluation card deck developed by Lewthwaite et al., comprising 15 x A6 cards. Each has a number, title, illustration, positioning statement, question(s) and space for additional comments on the reverse",
+      "printed_page_number": "76",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Cards 8 'hands-on with data' and 9 'metaphor' from the 'big qual' learner evaluation card deck developed by Lewthwaite et al., comprising 15 x A6 cards. Each has a number, title, illustration, positioning statement, question(s) and space for additional comments on the reverse",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Socio-ecological framework for the field of mixed methods research",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Approach to teaching MMR in the graduate certificate in Applications of Mixed Methods Research",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Spiral curriculum approach to teaching MMR in an Educational Studies program that trains research methodologists",
+      "printed_page_number": "92",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Drawing 1 the journey",
+      "printed_page_number": "154",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Drawing 2 exploring self",
+      "printed_page_number": "156",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Flowchart of the complementarity of the curricular units' objectives",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Research in social sciences: Meanings",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Research in social sciences: Meanings",
+      "printed_page_number": "174",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Difficulty encountered in performing curricular activities (from one to ten)",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Utility according to the context of use",
+      "printed_page_number": "176",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Online worksheet \u2013 plagiarism activity",
+      "printed_page_number": "231",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Key questions used to compare approaches",
+      "printed_page_number": "334",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The role of power in safeguarding for research",
+      "printed_page_number": "420",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zoom 15: Celebration event, with silly hats (screen shot)",
+      "printed_page_number": "434",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Three models of the role of research in relation to teaching",
+      "printed_page_number": "18",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Typology of social science research methods pedagogy",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Mixed methods research courses offered through the University of Alabama at Birmingham and the University of Cincinnati",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Examples of pedagogical goals and strategies for teaching MMR",
+      "printed_page_number": "93",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Modules within 'the methods spine'",
+      "printed_page_number": "124",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sequence of activities: Moving from review of interviews derived from popular media to independent practice",
+      "printed_page_number": "186",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Types of content offered",
+      "printed_page_number": "343",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Types of learning experiences offered",
+      "printed_page_number": "344",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Types of learning experiences offered",
+      "printed_page_number": "345",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Training sessions and research over a three-month period in 2021",
+      "printed_page_number": "431",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

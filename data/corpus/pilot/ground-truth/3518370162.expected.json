@@ -1,0 +1,50 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einführung",
+      "authors": [
+        "Werner Keller"
+      ],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Der Erzähler Franz Kafka",
+      "authors": [],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "Kafka der Dichter",
+      "authors": [],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "Der Schacht von Babel. Aus Kafkas Tagebüchern",
+      "authors": [],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "Kafkas Darstellung des »traumhaften innern Lebens«",
+      "authors": [],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "Drucknachweise",
+      "authors": [],
+      "printed_page_number": "150",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

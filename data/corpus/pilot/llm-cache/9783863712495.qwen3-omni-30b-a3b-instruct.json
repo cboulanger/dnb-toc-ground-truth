@@ -1,0 +1,778 @@
+{
+  "generated_at": 1786913820.154592,
+  "entries": [
+    {
+      "title": "Maligne Tumoren der Schilddr\u00fcse",
+      "printed_page_number": 1,
+      "source_page_index": -1,
+      "authors": [
+        "G. Schubert-Fritsche",
+        "G. Assmann",
+        "J. Engel"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Epidemiologie",
+      "printed_page_number": 9,
+      "source_page_index": -1,
+      "authors": [
+        "T. Kn\u00f6sel",
+        "G. Assmann"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Pr\u00e4operative Diagnostik bei Struma nodosa",
+      "printed_page_number": 16,
+      "source_page_index": -1,
+      "authors": [
+        "R. G\u00e4rtner",
+        "K. Scheidhauer",
+        "T. Negele",
+        "C. Spitzweg"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Operative Prim\u00e4rtherapie differenzierter Schilddr\u00fcsenkarzinome",
+      "printed_page_number": 21,
+      "source_page_index": -1,
+      "authors": [
+        "A. Trupka",
+        "C. Wicke",
+        "T. Negele",
+        "R. Ladurner",
+        "D. Krenz",
+        "H. F\u00fcrst"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Postoperative Prim\u00e4rtherapie differenzierter Schilddr\u00fcsenkarzinome",
+      "printed_page_number": 31,
+      "source_page_index": -1,
+      "authors": [
+        "C. Spitzweg",
+        "K. Scheidhauer",
+        "A. Todica",
+        "J. Rauch",
+        "R. G\u00e4rtner"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Postoperative Diagnostik und Nachsorge differenzierter Schilddr\u00fcsenkarzinome",
+      "printed_page_number": 38,
+      "source_page_index": -1,
+      "authors": [
+        "A. Todica",
+        "K. Scheidhauer",
+        "T. Negele",
+        "C. Spitzweg"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Operative Prim\u00e4rtherapie des gering differenzierten Schilddr\u00fcsenkarzinoms (PDT C)",
+      "printed_page_number": 41,
+      "source_page_index": -1,
+      "authors": [
+        "A. Trupka",
+        "C. Wicke",
+        "T. Negele",
+        "R. Ladurner"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Therapie fortgeschrittener, radioiodrefrakt\u00e4rer differenzierter Schilddr\u00fcsenkarzinome",
+      "printed_page_number": 43,
+      "source_page_index": -1,
+      "authors": [
+        "C. Spitzweg",
+        "A. Todica",
+        "J. Rauch",
+        "R. G\u00e4rtner"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Therapie undifferenzierter (anaplastischer) Schilddr\u00fcsenkarzinome",
+      "printed_page_number": 48,
+      "source_page_index": -1,
+      "authors": [
+        "R. Ladurner",
+        "J. Rauch",
+        "T. Negele",
+        "D. Krenz",
+        "C. Spitzweg",
+        "J. Stemmler"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Operative Therapie des medull\u00e4ren Schilddr\u00fcsenkarzinoms",
+      "printed_page_number": 56,
+      "source_page_index": -1,
+      "authors": [
+        "T. Negele",
+        "H. F\u00fcrst",
+        "A. Trupka",
+        "C. Wicke",
+        "R. Ladurner",
+        "C. Spitzweg"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Postoperative Therapie des fortgeschrittenen medull\u00e4ren Schilddr\u00fcsenkarzinoms",
+      "printed_page_number": 69,
+      "source_page_index": -1,
+      "authors": [
+        "C. Spitzweg",
+        "J. Rauch",
+        "A. Todica",
+        "R. G\u00e4rtner",
+        "H. F\u00fcrst"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Postoperative Diagnostik und Nachsorge medull\u00e4rer Schilddr\u00fcsenkarzinome",
+      "printed_page_number": 75,
+      "source_page_index": -1,
+      "authors": [
+        "C. Spitzweg",
+        "A. Todica",
+        "L. Schaaf",
+        "R. G\u00e4rtner"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Seltene prim\u00e4re und sekund\u00e4re maligne Tumoren der Schilddr\u00fcse",
+      "printed_page_number": 78,
+      "source_page_index": -1,
+      "authors": [
+        "T. Negele",
+        "C. Wicke",
+        "A. Trupka",
+        "J. Rauch",
+        "A. Todica",
+        "G. Assmann"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Therapie von lokalen und regionalen Rezidiven",
+      "printed_page_number": 88,
+      "source_page_index": -1,
+      "authors": [
+        "H. Vogelsang",
+        "T. Negele",
+        "K. Scheidhauer",
+        "J. Rauch",
+        "R. Ladurner",
+        "T. Mussack"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Nebenschilddr\u00fcsenkarzinom",
+      "printed_page_number": 96,
+      "source_page_index": -1,
+      "authors": [
+        "T. Mussack",
+        "T. Negele",
+        "R. Ladurner",
+        "R. G\u00e4rtner",
+        "A. Trupka",
+        "G. Assmann",
+        "H. F\u00fcrst"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Epidemiologie",
+      "printed_page_number": 96,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Pathomorphologie",
+      "printed_page_number": 96,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Molekularbiologie",
+      "printed_page_number": 96,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Diagnostik",
+      "printed_page_number": 97,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Therapie",
+      "printed_page_number": 97,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Nachsorge",
+      "printed_page_number": 99,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Hypophysentumoren und andere sell\u00e4re Raumforderungen",
+      "printed_page_number": 101,
+      "source_page_index": -1,
+      "authors": [
+        "G. K. Stalla",
+        "L. Schaaf",
+        "M. Theodoropoulou",
+        "W. Rachinger",
+        "J. Schopohl",
+        "C. J. Auernhammer",
+        "J. Lehmburg",
+        "S. Bechtold-Dalla Pozza",
+        "M. Reincke",
+        "O.-A. M\u00fcller"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Epidemiologie",
+      "printed_page_number": 101,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Klassifikation",
+      "printed_page_number": 101,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Pathophysiologie und Klinik",
+      "printed_page_number": 102,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Diagnostik",
+      "printed_page_number": 109,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Therapie",
+      "printed_page_number": 116,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Besonderheiten im Kindes- und Jugendalter",
+      "printed_page_number": 127,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Tumoren der Nebenniere",
+      "printed_page_number": 135,
+      "source_page_index": -1,
+      "authors": [
+        "F. Beuschlein",
+        "N. Reisch",
+        "O.-A. M\u00fcller",
+        "K. Hallfeldt",
+        "R. Ladurner",
+        "M. Reincke"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Nebennierenzufallstumor (Inzidentalom)",
+      "printed_page_number": 135,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Hyperkortisolismus (Cushing-Syndrom)",
+      "printed_page_number": 136,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Hyperaldosteronismus (Conn-Syndrom)",
+      "printed_page_number": 138,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Androgen-\u00d6strogen\u00fcberschuss",
+      "printed_page_number": 139,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Nebennierenkarzinom",
+      "printed_page_number": 139,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Metastasen der Nebenniere",
+      "printed_page_number": 143,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Ph\u00e4ochromozytom",
+      "printed_page_number": 144,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Neuroendokrine Tumoren des Gastrointestinaltraktes",
+      "printed_page_number": 153,
+      "source_page_index": -1,
+      "authors": [
+        "G. Schubert-Fritsche",
+        "R. Eckel",
+        "J. Engel"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Pathologie: Klassifikation der neuroendokrinen Neoplasien des gastroenteropankreatischen Systems",
+      "printed_page_number": 159,
+      "source_page_index": -1,
+      "authors": [
+        "T. Kn\u00f6sel",
+        "B. Konkiewitz",
+        "A. M. Schlitter",
+        "G. Assmann",
+        "T. Kirchner",
+        "G. Kl\u00f6ppel"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Pathologie: Neuroendokrine Neoplasien in seltenen Lokalisationen",
+      "printed_page_number": 166,
+      "source_page_index": -1,
+      "authors": [
+        "T. Kn\u00f6sel",
+        "G. Assmann",
+        "H. Vogelsang"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Diagnostik: Endokrine Diagnostik und Tumormarker",
+      "printed_page_number": 167,
+      "source_page_index": -1,
+      "authors": [
+        "C. Spitzweg",
+        "C. J. Auernhammer",
+        "B. Neu",
+        "S. N\u00f6lting",
+        "A. von Werder"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Diagnostik: Humangenetik von NEN des Pankreas und D\u00fcnndarms (PNET/GEP-NET)",
+      "printed_page_number": 170,
+      "source_page_index": -1,
+      "authors": [
+        "Y. Mehraein",
+        "L. Schaaf"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Diagnostik: Sonografie",
+      "printed_page_number": 177,
+      "source_page_index": -1,
+      "authors": [
+        "A. Clevert",
+        "J. R\u00fcbenthaler"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Diagnostik und Therapie von NEN des Magens, Duodenums, Rektums und Pankreas: Endoskopie und Endosonografie",
+      "printed_page_number": 179,
+      "source_page_index": -1,
+      "authors": [
+        "J. Schirra",
+        "C. Schulz",
+        "B. Neu"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Diagnostik: Radiologische Schnittbildgebung neuroendokriner Tumoren",
+      "printed_page_number": 188,
+      "source_page_index": -1,
+      "authors": [
+        "H. Kramer",
+        "C. Schmid-Tannwald"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Diagnostik: Nuklearmedizinische Bildgebung neuroendokriner Tumoren",
+      "printed_page_number": 194,
+      "source_page_index": -1,
+      "authors": [
+        "H. Ilhan",
+        "A. Todica",
+        "P. Bartenstein",
+        "K. Scheidhauer",
+        "M. Mustafa"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Endoskopische und operative Therapie: NET des \u00d6sophagus und NET des Magens",
+      "printed_page_number": 199,
+      "source_page_index": -1,
+      "authors": [
+        "H. Vogelsang",
+        "F. B\u00f6sch",
+        "C. Schulz",
+        "S. von Delius",
+        "B. Neu",
+        "H.-D. Allescher"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Operative Therapie: NET des Duodenums/der Papille",
+      "printed_page_number": 203,
+      "source_page_index": -1,
+      "authors": [
+        "M. K. Angele",
+        "A. Kleespies",
+        "A. Novotny",
+        "S. von Delius",
+        "R. Ladurner"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Operative Therapie: NET des Pankreas",
+      "printed_page_number": 205,
+      "source_page_index": -1,
+      "authors": [
+        "A. Kleespies",
+        "M. K. Angele",
+        "A. Novotny",
+        "R. Ladurner",
+        "J. Werner"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Operative Therapie: NET von Jejunum/Ileum, Appendix und Kolon",
+      "printed_page_number": 211,
+      "source_page_index": -1,
+      "authors": [
+        "M. K. Angele",
+        "H. Vogelsang",
+        "D. Krenz",
+        "F. B\u00f6sch",
+        "R. Ladurner",
+        "K. Hofmann"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Operative Therapie: NET des Rektums",
+      "printed_page_number": 215,
+      "source_page_index": -1,
+      "authors": [
+        "M. K. Angele",
+        "H. Vogelsang",
+        "D. Krenz",
+        "F. B\u00f6sch",
+        "K. Hofmann",
+        "R. Ladurner"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Lokoregionales Rezidiv und Metastasentherapie: Lebertransplantation bei nichtresektablen Metastasen eines GEP-NET",
+      "printed_page_number": 216,
+      "source_page_index": -1,
+      "authors": [
+        "M. Guba",
+        "M. K. Angele"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Lokoregionales Rezidiv und Metastasentherapie: Lebermetastasenchirurgie und Peritonealkarzinose",
+      "printed_page_number": 221,
+      "source_page_index": -1,
+      "authors": [
+        "A. Novotny",
+        "M. Albertsmeier",
+        "M. Martignoni",
+        "M. Guba",
+        "M. K. Angele"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Lokoregionales Rezidiv und Metastasentherapie: Interventionelle Radiologie \u2013 lokal ablative und lokoregion\u00e4re Verfahren hepatischer Filiae bei NET",
+      "printed_page_number": 230,
+      "source_page_index": -1,
+      "authors": [
+        "P. M. Paprottka",
+        "C. G. Trumm",
+        "K. Scheidhauer",
+        "A. R. Haug",
+        "M. Dobritz",
+        "T. K. HelMBERGER"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Konservative/nichtoperative Therapieoptionen: Medikament\u00f6se Therapie von neuroendokrinen Neoplasien (NEN) des gastroenteropankreatischen (GEP) Systems",
+      "printed_page_number": 236,
+      "source_page_index": -1,
+      "authors": [
+        "C. Spitzweg",
+        "R. Arnold",
+        "C. J. Auernhammer",
+        "A. von Werder",
+        "S. N\u00f6lting"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Systemische Chemotherapie",
+      "printed_page_number": 239,
+      "source_page_index": -1,
+      "authors": [
+        "C. J. Auernhammer",
+        "C. Spitzweg",
+        "S. B\u00f6ck",
+        "V. Heinemann",
+        "R. Schmidmaier",
+        "A. von Werder"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Antiproliferative molekular zielgerichtete Therapie",
+      "printed_page_number": 243,
+      "source_page_index": -1,
+      "authors": [
+        "C. J. Auernhammer",
+        "C. Spitzweg",
+        "S. B\u00f6ck",
+        "V. Heinemann",
+        "R. Schmidmaier",
+        "J. Mayerle",
+        "A. von Werder"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Symptomatische Therapie bei funktionell aktiven NET",
+      "printed_page_number": 244,
+      "source_page_index": -1,
+      "authors": [
+        "C. Spitzweg",
+        "R. Arnold",
+        "R. Schmidmaier",
+        "C. J. Auernhammer",
+        "A. von Werder"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Antiresorptive Therapie bei Knochenmetastasen",
+      "printed_page_number": 246,
+      "source_page_index": -1,
+      "authors": [
+        "C. J. Auernhammer",
+        "C. Spitzweg",
+        "S. B\u00f6ck",
+        "V. Heinemann",
+        "R. Schmidmaier",
+        "A. von Werder"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Leitlinienorientierte individuelle Therapieplanung",
+      "printed_page_number": 247,
+      "source_page_index": -1,
+      "authors": [
+        "C. J. Auernhammer",
+        "C. Spitzweg",
+        "A. von Werder",
+        "R. Schmidmaier"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Konservative/nichtoperative Therapieoptionen: Radiopeptidtherapie neuroendokriner Tumoren",
+      "printed_page_number": 251,
+      "source_page_index": -1,
+      "authors": [
+        "H. Ilhan",
+        "K. Scheidhauer",
+        "A. Todica",
+        "P. Bartenstein"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Strahlentherapie: Stereotactic Body Radiotherapy (SBRT) von Lebermetastasen",
+      "printed_page_number": 257,
+      "source_page_index": -1,
+      "authors": [
+        "S. Gerum",
+        "J. Rauch",
+        "C. Belka"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "NET und chronisch-entz\u00fcndliche Darmerkrankungen, NET und syn- bzw. metachrone Tumorerkrankungen",
+      "printed_page_number": 258,
+      "source_page_index": -1,
+      "authors": [
+        "C. J. Auernhammer",
+        "H. Waldner",
+        "H. Vogelsang"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Tumornachsorge und Re-Staging bei neuroendokrinen Neoplasien (NEN)",
+      "printed_page_number": 259,
+      "source_page_index": -1,
+      "authors": [
+        "C. J. Auernhammer",
+        "H. Vogelsang",
+        "C. Spitzweg",
+        "J. Werner",
+        "A. von Werder"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Multiple endokrine Neoplasie Typ 1 und 2",
+      "printed_page_number": 263,
+      "source_page_index": -1,
+      "authors": [
+        "L. Schaaf",
+        "C. J. Auernhammer",
+        "C. Spitzweg",
+        "R. Ladurner",
+        "K. Hallfeldt",
+        "O.-A. M\u00fcller",
+        "T. Negele"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "MEN1",
+      "printed_page_number": 263,
+      "source_page_index": -1,
+      "authors": [
+        "L. Schaaf",
+        "C. J. Auernhammer",
+        "C. Spitzweg",
+        "R. Ladurner",
+        "K. Hallfeldt",
+        "O.-A. M\u00fcller",
+        "T. Negele"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "MEN2",
+      "printed_page_number": 270,
+      "source_page_index": -1,
+      "authors": [
+        "L. Schaaf",
+        "C. J. Auernhammer",
+        "C. Spitzweg",
+        "R. Ladurner",
+        "K. Hallfeldt",
+        "O.-A. M\u00fcller",
+        "T. Negele"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Autoren der vierten Auflage",
+      "printed_page_number": 275,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Bandherausgeber, Projektgruppenleiter und Autoren der ersten, zweiten und dritten Auflage",
+      "printed_page_number": 279,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Abk\u00fcrzungsverzeichnis",
+      "printed_page_number": 285,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Stichwortverzeichnis",
+      "printed_page_number": 290,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    },
+    {
+      "title": "Krebsberatungsstellen \u2013 Adressen im Gro\u00dfraum M\u00fcnchen",
+      "printed_page_number": 297,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false
+    }
+  ]
+}

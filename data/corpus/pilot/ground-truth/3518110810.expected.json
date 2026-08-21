@@ -1,0 +1,50 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorbemerkung",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Tendenzen der Liquidierung von Kindheit",
+      "authors": [
+        "Heinz Hengst"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Unterhaltung als Botschaft und Kauf als Erfahrung: Die Equipierung der Kindheit",
+      "authors": [
+        "Michael Köhler"
+      ],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "Hilfe, Schutz und Kontrolle. Zur Verrechtlichung der Kindheit",
+      "authors": [
+        "Barbara Riedmüller"
+      ],
+      "printed_page_number": "132",
+      "skip": false
+    },
+    {
+      "title": "Kinder als Gefahr und Risiko. Zur Psychiatrisierung und Therapeutisierung von Kindheit",
+      "authors": [
+        "Manfred Max Wambach"
+      ],
+      "printed_page_number": "191",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

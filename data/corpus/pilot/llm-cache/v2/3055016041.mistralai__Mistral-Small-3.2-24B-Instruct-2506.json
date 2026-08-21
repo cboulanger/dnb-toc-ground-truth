@@ -1,0 +1,198 @@
+{
+  "generated_at": 1787243610.013073,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Chemie und Geisteswissenschaften. Eine Einleitung",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Mittelstra\u00df"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "I Zur Geschichte der Chemie",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1 Alchemie als verbale Kunst: die Anf\u00e4nge",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Brian Vickers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Cavendishs Version der Phlogistonchemie oder: \u00dcber den empirischen Erfolg unzutreffender theoretischer Ans\u00e4tze",
+      "printed_page_number": "35",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Carrier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II Zur Theorie und Wirklichkeit der Chemie",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1 Spuren der Chemie im Weltbild unserer Zeit",
+      "printed_page_number": "55",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard Quinkert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Chemie und die Entwicklung der Lebensbedingungen. Vom Wandel der Erwartungen",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-J\u00fcrgen Quadbeck-Seeger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Chemie. Computer und moderne Welt",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Mainzer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Die Nat\u00fcrlichkeit der Chemie",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [
+        "Hubert Markl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III Zur Wissenschaftstheorie und Philosophie der Chemie",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1 Chemie als Kulturleistung",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Janich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Die \u201echemische Grundlage\u201c der Kulturwissenschaften",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [
+        "Weyma L\u00fcbbe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Chemie und Leben. Kann die Chemie das Leben erkl\u00e4ren?",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard L\u00f6w"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Erfahrungsverluste. Lebensvorz\u00fcge und Lebensweltferne der Chemie",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [
+        "Hermann L\u00fcbbe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IV Dokumentation",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bibliographie Chemie und Geisteswissenschaften",
+      "printed_page_number": "217",
+      "source_page_index": -1,
+      "authors": [
+        "Sabrina Dittus und Matthias Mayer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": "219",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "I Chemie",
+      "printed_page_number": "229",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "II Alchemie",
+      "printed_page_number": "299",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Hinweise zu den Autoren",
+      "printed_page_number": "335",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

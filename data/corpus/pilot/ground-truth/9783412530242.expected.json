@@ -1,0 +1,103 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": [
+        "Lioba Geis",
+        "Karl Ubl"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Die Edition der Kölner Synodalstatuten und Vorschläge zu ihrer Auswertung",
+      "authors": [
+        "Heinz Wolter"
+      ],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "Die Kölner Synodalstatuten im europäischen Vergleich",
+      "authors": [
+        "Rowan Dorin"
+      ],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "Devianz in Kurköln. Die Synodalstatuten des 13. und 14. Jahrhunderts im Spannungsfeld normativer Ordnung und sozialer Praxis",
+      "authors": [
+        "Claudia Garnier"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "»Frieden und Eintracht anstrebend ...« Die Klosterpolitik Heinrichs von Virneburg",
+      "authors": [
+        "Joachim Oepen"
+      ],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "Unsere Stadt! Erzbischof Heinrich von Virneburg und die Inquisition von 1326 in Köln: Überlegungen zu den Kölner Begarden und den Prozessen gegen Bruder Walter und Meister Eckhart",
+      "authors": [
+        "Letha Böhringer"
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "Sexualisierte Gewalt im Kloster? Zum Umgang mit »geschändeten« und »entführten« geistlichen Frauen in den Kölner Synodalstatuten",
+      "authors": [
+        "Adrian Kammerer"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "Die Münzpolitik Friedrichs III. von Saarwerden zwischen Finanz- und Territorialpolitik",
+      "authors": [
+        "Patrick Breternitz"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "Synoden und Synodalstatuten der Erzbischöfe von Magdeburg im Spätmittelalter",
+      "authors": [
+        "Peter Wiegand"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "228",
+      "skip": true
+    },
+    {
+      "title": "Register",
+      "authors": [],
+      "printed_page_number": "230",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

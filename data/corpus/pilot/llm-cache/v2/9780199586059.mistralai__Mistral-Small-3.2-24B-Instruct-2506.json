@@ -1,0 +1,244 @@
+{
+  "generated_at": 1787257878.3753679,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Contents",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Contributors",
+      "printed_page_number": "ix",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "1 The multisensory approach to development",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Andrew J. Bremner",
+        "David J. Lewkowicz",
+        "Charles Spence"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part A Typical development of multisensory processes from early gestation to old age",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2 The role of olfaction in human multisensory development",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [
+        "Benoist Schaal",
+        "Karine Durand"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 The development and decline of multisensory flavour perception: Assessing the role of visual (colour) cues on the perception of taste and flavour",
+      "printed_page_number": "63",
+      "source_page_index": -1,
+      "authors": [
+        "Charles Spence"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Crossmodal interactions in the human newborn: New answers to Molyneux\u2019s question",
+      "printed_page_number": "88",
+      "source_page_index": -1,
+      "authors": [
+        "Arlette Streri"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 The development of multisensory representations of the body and of the space around the body",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [
+        "Andrew J. Bremner",
+        "Nicholas P. Holmes",
+        "Charles Spence"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 The development of multisensory balance, locomotion, orientation, and navigation",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "Marko Nardini",
+        "Dorothy Cowie"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 The unexpected effects of experience on the development of multisensory perception in primates",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [
+        "David J. Lewkowicz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 The role of intersensory redundancy in early perceptual, cognitive, and social development",
+      "printed_page_number": "183",
+      "source_page_index": -1,
+      "authors": [
+        "Lorraine E. Bahrick",
+        "Robert Lickliter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 The development of audiovisual speech perception",
+      "printed_page_number": "207",
+      "source_page_index": -1,
+      "authors": [
+        "Salvador Soto-Faraco",
+        "Marco Calabresi",
+        "Jordi Navarra",
+        "Janet F. Werker",
+        "David J. Lewkowicz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Infant synaesthesia: New insights into the development of multisensory perception",
+      "printed_page_number": "229",
+      "source_page_index": -1,
+      "authors": [
+        "Daphne Maurer",
+        "Laura C. Gibson",
+        "Ferrinne Spector"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11 Multisensory processes in old age",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [
+        "Paul J. Laurienti",
+        "Christina E. Hugenschmidt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part B Atypical multisensory development",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "12 Developmental disorders and multisensory perception",
+      "printed_page_number": "273",
+      "source_page_index": -1,
+      "authors": [
+        "Elisabeth L. Hill",
+        "Laura Crane",
+        "Andrew J. Bremner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13 Sensory deprivation and the development of multisensory integration",
+      "printed_page_number": "301",
+      "source_page_index": -1,
+      "authors": [
+        "Brigitte R\u00f6der"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part C Neural, computational, and evolutionary mechanisms in multisensory development",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "14 Development of multisensory integration in subcortical and cortical brain networks",
+      "printed_page_number": "325",
+      "source_page_index": -1,
+      "authors": [
+        "Mark T. Wallace",
+        "Dipanwita Ghose",
+        "Aaron R. Nidiffer",
+        "Matthew C. Fister",
+        "Juliane Krueger Fister"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15 In search of the mechanisms of multisensory development",
+      "printed_page_number": "342",
+      "source_page_index": -1,
+      "authors": [
+        "Denis Mareschal",
+        "Gert Westermann",
+        "Nadja Althaus"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16 The evolution of multisensory vocal communication in primates and the influence of developmental timing",
+      "printed_page_number": "360",
+      "source_page_index": -1,
+      "authors": [
+        "Asif A. Ghazanfar"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Author index",
+      "printed_page_number": "373",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Subject index",
+      "printed_page_number": "375",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

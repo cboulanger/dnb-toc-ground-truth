@@ -1,0 +1,190 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "I. Staat und Markt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Zur Diskussion über kollektive und öffentliche Güter und ihre Bedeutung für die heutige Wirtschaftspolitik",
+      "authors": [
+        "Erik Boettcher"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Verwaltungsstrukturpolitik",
+      "authors": [
+        "Heinz Grossekettler"
+      ],
+      "printed_page_number": "16",
+      "skip": false
+    },
+    {
+      "title": "Probleme der Integration der Gesundheitsversorgung",
+      "authors": [
+        "Clemens-August Andreae",
+        "Engelberth Theurl"
+      ],
+      "printed_page_number": "52",
+      "skip": false
+    },
+    {
+      "title": "II. Industrie- und Gewerbepolitik",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Wirtschaftsförderung als beschäftigungspolitische Strategie",
+      "authors": [
+        "Helmut Schuster"
+      ],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "Kleine und mittlere Unternehmen als Ansatzpunkt einer beschäftigungsorientierten Strukturpolitik",
+      "authors": [
+        "Hans-Jürgen Ewers"
+      ],
+      "printed_page_number": "88",
+      "skip": false
+    },
+    {
+      "title": "Anpassungsprobleme der deutschen Stahlindustrie – Ursachen und Lösungschancen",
+      "authors": [
+        "Harald Jürgensen"
+      ],
+      "printed_page_number": "112",
+      "skip": false
+    },
+    {
+      "title": "III. Verkehrspolitik",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die schweizerische Gesamtverkehrskonzeption und ihre strukturpolitischen Zielsetzungen – eine kritische Würdigung",
+      "authors": [
+        "Claude Kaspar"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "Der Beitrag des öffentlichen Verkehrs zur gesellschaftlichen Wohlfahrt",
+      "authors": [
+        "Leo H. Klaassen"
+      ],
+      "printed_page_number": "154",
+      "skip": false
+    },
+    {
+      "title": "Verkehrswegerechnungen und Wegeentgelte – Theoriedefizite und Datenlücken in der Verkehrspolitik",
+      "authors": [
+        "Gerd Aberle"
+      ],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "Review of Bus Deregulation in the United Kingdom",
+      "authors": [
+        "Ken M. Gwilliam"
+      ],
+      "printed_page_number": "194",
+      "skip": false
+    },
+    {
+      "title": "Die wissenschaftliche Zukunftsforschung und die Planung der Entwicklung des Verkehrs",
+      "authors": [
+        "Kálmán Kádas"
+      ],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "IV. Regionalpolitik",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Zentralörtlicher Status, Verkehrsinfrastruktur und regionales Einkommen",
+      "authors": [
+        "Rolf Funck",
+        "Ulrich Blum"
+      ],
+      "printed_page_number": "223",
+      "skip": false
+    },
+    {
+      "title": "Das regionale Entwicklungspotential als Ansatzpunkt für die Koordinierung von Raumordnungs-, Struktur- und Umweltpolitik",
+      "authors": [
+        "Rainer Thoss"
+      ],
+      "printed_page_number": "234",
+      "skip": false
+    },
+    {
+      "title": "V. Energie- und Umweltpolitik",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Internationale Energiemärkte im Umbruch",
+      "authors": [
+        "Hans K. Schneider"
+      ],
+      "printed_page_number": "247",
+      "skip": false
+    },
+    {
+      "title": "Abgaben als Instrumente der Umweltpolitik – Erfahrungen und Perspektiven",
+      "authors": [
+        "Karl-Heinrich Hansmeyer"
+      ],
+      "printed_page_number": "270",
+      "skip": false
+    },
+    {
+      "title": "Sozialkosten des Straßenverkehrs und das Verursacherprinzip",
+      "authors": [
+        "Rainer Willeke"
+      ],
+      "printed_page_number": "291",
+      "skip": false
+    },
+    {
+      "title": "Veröffentlichungen von Hellmuth Stefan Seidenfus",
+      "authors": [],
+      "printed_page_number": "304",
+      "skip": true
+    },
+    {
+      "title": "Anschriftenverzeichnis der Autoren",
+      "authors": [],
+      "printed_page_number": "310",
+      "skip": true
+    },
+    {
+      "title": "Förderer der Drucklegung",
+      "authors": [],
+      "printed_page_number": "312",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

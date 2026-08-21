@@ -1,0 +1,678 @@
+{
+  "entries": [
+    {
+      "title": "Contents",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "authors": [],
+      "printed_page_number": "xi",
+      "skip": true
+    },
+    {
+      "title": "INTRODUCTION",
+      "authors": [],
+      "printed_page_number": "xiii",
+      "skip": true
+    },
+    {
+      "title": "PART I CRITIQUE OF LIBERALISM",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": true
+    },
+    {
+      "title": "1 Racial Realism—After We're Gone: Prudent Speculations on America in a Post-Racial Epoch",
+      "authors": [
+        "Derrick Bell"
+      ],
+      "printed_page_number": "2",
+      "skip": false
+    },
+    {
+      "title": "2 The Chronicles, My Grandfather's Stories, and Immigration Law: The Slave Traders Chronicle as Racial History",
+      "authors": [
+        "Michael A. Olivas"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "3 Pure Politics",
+      "authors": [
+        "Girardeau A. Spann"
+      ],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "FROM THE EDITOR: ISSUES AND COMMENTS",
+      "authors": [],
+      "printed_page_number": "35",
+      "skip": true
+    },
+    {
+      "title": "SUGGESTED READINGS",
+      "authors": [],
+      "printed_page_number": "35",
+      "skip": true
+    },
+    {
+      "title": "PART II STORYTELLING, COUNTERSTORYTELLING, AND \"NAMING ONE'S OWN REALITY\"",
+      "authors": [],
+      "printed_page_number": "37",
+      "skip": true
+    },
+    {
+      "title": "SECTION ONE THEORIZING ABOUT NARRATIVES",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "4 The Richmond Narratives",
+      "authors": [
+        "Thomas Ross"
+      ],
+      "printed_page_number": "38",
+      "skip": false
+    },
+    {
+      "title": "5 Translating Yonnondio by Precedent and Evidence: The Mashpee Indian Case",
+      "authors": [
+        "Gerald Torres",
+        "Kathryn Milun"
+      ],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "6 Race and the Dominant Gaze: Narratives of Law and Inequality in Popular Film",
+      "authors": [
+        "Margaret M. Russell"
+      ],
+      "printed_page_number": "56",
+      "skip": false
+    },
+    {
+      "title": "SECTION TWO THEORIZING ABOUT COUNTERSTORIES",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "7 Legal Storytelling: Storytelling for Oppositionists and Others: A Plea for Narrative",
+      "authors": [
+        "Richard Delgado"
+      ],
+      "printed_page_number": "64",
+      "skip": false
+    },
+    {
+      "title": "8 Property Rights in Whiteness—Their Legal Legacy, Their Economic Costs",
+      "authors": [
+        "Derrick Bell"
+      ],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "SECTION THREE EXAMPLES OF STORIES",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "9 Alchemical Notes: Reconstructing Ideals from Deconstructed Rights",
+      "authors": [
+        "Patricia J. Williams"
+      ],
+      "printed_page_number": "84",
+      "skip": false
+    },
+    {
+      "title": "FROM THE EDITOR: ISSUES AND COMMENTS",
+      "authors": [],
+      "printed_page_number": "95",
+      "skip": true
+    },
+    {
+      "title": "SUGGESTED READINGS",
+      "authors": [],
+      "printed_page_number": "95",
+      "skip": true
+    },
+    {
+      "title": "PART III REVISIONIST INTERPRETATIONS OF HISTORY AND CIVIL RIGHTS PROGRESS",
+      "authors": [],
+      "printed_page_number": "97",
+      "skip": true
+    },
+    {
+      "title": "10 Documents of Barbarism: The Contemporary Legacy of European Racism and Colonialism in the Narrative Traditions of Federal Indian Law",
+      "authors": [
+        "Robert A. Williams, Jr."
+      ],
+      "printed_page_number": "98",
+      "skip": false
+    },
+    {
+      "title": "11 Desegregation as a Cold War Imperative",
+      "authors": [
+        "Mary L. Dudziak"
+      ],
+      "printed_page_number": "110",
+      "skip": false
+    },
+    {
+      "title": "12 Did the First Justice Harlan Have a Black Brother?",
+      "authors": [
+        "James W. Gordon"
+      ],
+      "printed_page_number": "122",
+      "skip": false
+    },
+    {
+      "title": "13 The Second Amendment: Toward an Afro-Americanist Reconsideration",
+      "authors": [
+        "Robert J. Cottrol",
+        "Raymond T. Diamond"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "FROM THE EDITOR: ISSUES AND COMMENTS",
+      "authors": [],
+      "printed_page_number": "155",
+      "skip": true
+    },
+    {
+      "title": "SUGGESTED READINGS",
+      "authors": [],
+      "printed_page_number": "155",
+      "skip": true
+    },
+    {
+      "title": "PART IV CRITICAL UNDERSTANDING OF THE SOCIAL SCIENCE UNDERPINNINGS OF RACE AND RACISM",
+      "authors": [],
+      "printed_page_number": "157",
+      "skip": true
+    },
+    {
+      "title": "14 Words That Wound: A Tort Action for Racial Insults, Epithets, and Name-Calling",
+      "authors": [
+        "Richard Delgado"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "15 Law as Microaggression",
+      "authors": [
+        "Peggy C. Davis"
+      ],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "16 Black Innocence and the White Jury",
+      "authors": [
+        "Sheri Lynn Johnson"
+      ],
+      "printed_page_number": "180",
+      "skip": false
+    },
+    {
+      "title": "17 The Social Construction of Race",
+      "authors": [
+        "Ian F. Haney Lopez"
+      ],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "FROM THE EDITOR: ISSUES AND COMMENTS",
+      "authors": [],
+      "printed_page_number": "204",
+      "skip": true
+    },
+    {
+      "title": "SUGGESTED READINGS",
+      "authors": [],
+      "printed_page_number": "204",
+      "skip": true
+    },
+    {
+      "title": "PART V STRUCTURAL DETERMINISM",
+      "authors": [],
+      "printed_page_number": "205",
+      "skip": true
+    },
+    {
+      "title": "18 Why Do We Tell the Same Stories? Law Reform, Critical Librarianship, and the Triple Helix Dilemma",
+      "authors": [
+        "Richard Delgado",
+        "Jean Stefancic"
+      ],
+      "printed_page_number": "206",
+      "skip": false
+    },
+    {
+      "title": "19 Images of the Outsider in American Law and Culture: Can Free Expression Remedy Systemic Social Ills?",
+      "authors": [
+        "Richard Delgado",
+        "Jean Stefancic"
+      ],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "20 Serving Two Masters: Integration Ideals and Client Interests in School Desegregation Litigation",
+      "authors": [
+        "Derrick Bell"
+      ],
+      "printed_page_number": "228",
+      "skip": false
+    },
+    {
+      "title": "FROM THE EDITOR: ISSUES AND COMMENTS",
+      "authors": [],
+      "printed_page_number": "239",
+      "skip": true
+    },
+    {
+      "title": "SUGGESTED READINGS",
+      "authors": [],
+      "printed_page_number": "239",
+      "skip": true
+    },
+    {
+      "title": "PART VI RACE, SEX, CLASS, AND THEIR INTERSECTIONS",
+      "authors": [],
+      "printed_page_number": "241",
+      "skip": true
+    },
+    {
+      "title": "21 Rodrigo's Sixth Chronicle: Intersections, Essences, and the Dilemma of Social Reform",
+      "authors": [
+        "Richard Delgado"
+      ],
+      "printed_page_number": "242",
+      "skip": false
+    },
+    {
+      "title": "22 Race and Essentialism in Feminist Legal Theory",
+      "authors": [
+        "Angela P. Harris"
+      ],
+      "printed_page_number": "253",
+      "skip": false
+    },
+    {
+      "title": "23 A Hair Piece: Perspectives on the Intersection of Race and Gender",
+      "authors": [
+        "Paulette M. Caldwell"
+      ],
+      "printed_page_number": "267",
+      "skip": false
+    },
+    {
+      "title": "FROM THE EDITOR: ISSUES AND COMMENTS",
+      "authors": [],
+      "printed_page_number": "278",
+      "skip": true
+    },
+    {
+      "title": "SUGGESTED READINGS",
+      "authors": [],
+      "printed_page_number": "278",
+      "skip": true
+    },
+    {
+      "title": "PART VII ESSENTIALISM AND ANTIESSENTIALISM",
+      "authors": [],
+      "printed_page_number": "281",
+      "skip": true
+    },
+    {
+      "title": "24 Telling Stories Out of School: An Essay on Legal Narratives",
+      "authors": [
+        "Daniel A. Farber",
+        "Suzanna Sherry"
+      ],
+      "printed_page_number": "283",
+      "skip": false
+    },
+    {
+      "title": "25 \"The Black Community,\" Its Lawbreakers, and a Politics of Identification",
+      "authors": [
+        "Regina Austin"
+      ],
+      "printed_page_number": "293",
+      "skip": false
+    },
+    {
+      "title": "Traces of the Master Narrative in the Story of African American/Korean American Conflict: How We Constructed \"Los Angeles\"",
+      "authors": [
+        "Lisa C. Ikemoto"
+      ],
+      "printed_page_number": "305",
+      "skip": false
+    },
+    {
+      "title": "27 Racial Critiques of Legal Academia",
+      "authors": [
+        "Randall L. Kennedy"
+      ],
+      "printed_page_number": "316",
+      "skip": false
+    },
+    {
+      "title": "28 Toward an Asian American Legal Scholarship: Critical Race Theory, Post-Structuralism, and Narrative Space",
+      "authors": [
+        "Robert S. Chang"
+      ],
+      "printed_page_number": "322",
+      "skip": false
+    },
+    {
+      "title": "29 Politics and Passion: Theoretically a Dangerous Liaison",
+      "authors": [
+        "Robin D. Barnes"
+      ],
+      "printed_page_number": "337",
+      "skip": false
+    },
+    {
+      "title": "FROM THE EDITOR: ISSUES AND COMMENTS",
+      "authors": [],
+      "printed_page_number": "343",
+      "skip": true
+    },
+    {
+      "title": "SUGGESTED READINGS",
+      "authors": [],
+      "printed_page_number": "343",
+      "skip": true
+    },
+    {
+      "title": "PART VIII CULTURAL NATIONALISM AND SEPARATISM",
+      "authors": [],
+      "printed_page_number": "345",
+      "skip": true
+    },
+    {
+      "title": "30 Rodrigo's Chronicle",
+      "authors": [
+        "Richard Delgado"
+      ],
+      "printed_page_number": "346",
+      "skip": false
+    },
+    {
+      "title": "31 Affirmative Action as a Majoritarian Device: Or, Do You Really Want to Be a Role Model?",
+      "authors": [
+        "Richard Delgado"
+      ],
+      "printed_page_number": "355",
+      "skip": false
+    },
+    {
+      "title": "32 Bid Whist, Tonk, and United States v. Fordice: Why Integrationism Fails African-Americans Again",
+      "authors": [
+        "Alex M. Johnson, Jr."
+      ],
+      "printed_page_number": "362",
+      "skip": false
+    },
+    {
+      "title": "33 African-American Immersion Schools: Paradoxes of Race and Public Education",
+      "authors": [
+        "Kevin Brown"
+      ],
+      "printed_page_number": "373",
+      "skip": false
+    },
+    {
+      "title": "FROM THE EDITOR: ISSUES AND COMMENTS",
+      "authors": [],
+      "printed_page_number": "387",
+      "skip": true
+    },
+    {
+      "title": "SUGGESTED READINGS",
+      "authors": [],
+      "printed_page_number": "387",
+      "skip": true
+    },
+    {
+      "title": "PART IX LEGAL INSTITUTIONS, CRITICAL PEDAGOGY, AND MINORITIES IN THE LAW",
+      "authors": [],
+      "printed_page_number": "389",
+      "skip": true
+    },
+    {
+      "title": "34 The Civil Rights Chronicles: The Chronicle of the DeVine Gift",
+      "authors": [
+        "Derrick Bell"
+      ],
+      "printed_page_number": "390",
+      "skip": false
+    },
+    {
+      "title": "35 \"The Imperial Scholar\" Revisited: How to Marginalize Outsider Writing, Ten Years Later",
+      "authors": [
+        "Richard Delgado"
+      ],
+      "printed_page_number": "401",
+      "skip": false
+    },
+    {
+      "title": "36 Autobiography and Legal Scholarship and Teaching: Finding the Me in the Legal Academy",
+      "authors": [
+        "Jerome McCristal Culp, Jr."
+      ],
+      "printed_page_number": "409",
+      "skip": false
+    },
+    {
+      "title": "37 Reflections on Identity, Diversity, and Morality",
+      "authors": [
+        "Deborah Waire Post"
+      ],
+      "printed_page_number": "419",
+      "skip": false
+    },
+    {
+      "title": "FROM THE EDITOR: ISSUES AND COMMENTS",
+      "authors": [],
+      "printed_page_number": "428",
+      "skip": true
+    },
+    {
+      "title": "SUGGESTED READINGS",
+      "authors": [],
+      "printed_page_number": "428",
+      "skip": true
+    },
+    {
+      "title": "PART X CRITICISM AND SELF-ANALYSIS",
+      "authors": [],
+      "printed_page_number": "431",
+      "skip": true
+    },
+    {
+      "title": "38 Racial Critiques of Legal Academia",
+      "authors": [
+        "Randall L. Kennedy"
+      ],
+      "printed_page_number": "432",
+      "skip": false
+    },
+    {
+      "title": "39 Masks and Other Disguises: Exposing Legal Academia",
+      "authors": [
+        "Leslie G. Espinoza"
+      ],
+      "printed_page_number": "451",
+      "skip": false
+    },
+    {
+      "title": "40 Derrick Bell—Race and Class: The Dilemma of Liberal Reform",
+      "authors": [
+        "Alan D. Freeman"
+      ],
+      "printed_page_number": "458",
+      "skip": false
+    },
+    {
+      "title": "41 Beyond Criticism—Synthesis? Left-Right Parallels in Recent Writing about Race",
+      "authors": [
+        "Richard Delgado"
+      ],
+      "printed_page_number": "464",
+      "skip": false
+    },
+    {
+      "title": "FROM THE EDITOR: ISSUES AND COMMENTS",
+      "authors": [],
+      "printed_page_number": "474",
+      "skip": true
+    },
+    {
+      "title": "SUGGESTED READINGS",
+      "authors": [],
+      "printed_page_number": "474",
+      "skip": true
+    },
+    {
+      "title": "PART XI CRITICAL RACE FEMINISM",
+      "authors": [],
+      "printed_page_number": "477",
+      "skip": true
+    },
+    {
+      "title": "42 The Code of Perfect Pregnancy: At the Intersection of the Ideology of Motherhood, the Practice of Defaulting to Science, and the Interventionist Mindset of Law",
+      "authors": [
+        "Lisa C. Ikemoto"
+      ],
+      "printed_page_number": "478",
+      "skip": false
+    },
+    {
+      "title": "43 On Being a Gorilla in Your Midst, or, The Life of One Blackwoman in the Legal Academy",
+      "authors": [
+        "Jennifer M. Russell"
+      ],
+      "printed_page_number": "498",
+      "skip": false
+    },
+    {
+      "title": "44 Stealing Away: Black Women, Outlaw Culture and the Rhetoric of Rights",
+      "authors": [
+        "Monica J. Evans"
+      ],
+      "printed_page_number": "502",
+      "skip": false
+    },
+    {
+      "title": "45 Rape, Ethnicity, and Culture: Spirit Injury from Bosnia to Black America",
+      "authors": [
+        "Adrien Katherine Wing",
+        "Sylke Merchán"
+      ],
+      "printed_page_number": "516",
+      "skip": false
+    },
+    {
+      "title": "46 Máscaras, Trenzas, y Greñas: Un/masking the Self While Un/braiding Latina Stories and Legal Discourse",
+      "authors": [
+        "Margaret E. Montoya"
+      ],
+      "printed_page_number": "529",
+      "skip": false
+    },
+    {
+      "title": "FROM THE EDITOR: ISSUES AND COMMENTS",
+      "authors": [],
+      "printed_page_number": "540",
+      "skip": true
+    },
+    {
+      "title": "SUGGESTED READINGS",
+      "authors": [],
+      "printed_page_number": "540",
+      "skip": true
+    },
+    {
+      "title": "PART XII CRITICAL WHITE STUDIES",
+      "authors": [],
+      "printed_page_number": "541",
+      "skip": true
+    },
+    {
+      "title": "47 White by Law",
+      "authors": [
+        "Ian F. Haney Lopez"
+      ],
+      "printed_page_number": "542",
+      "skip": false
+    },
+    {
+      "title": "48 Innocence and Affirmative Action",
+      "authors": [
+        "Thomas Ross"
+      ],
+      "printed_page_number": "551",
+      "skip": false
+    },
+    {
+      "title": "Obscuring the Importance of Race: The Implication of Making Comparisons between Racism and Sexism (or Other -isms)",
+      "authors": [
+        "Trina Grillo",
+        "Stephanie M. Wildman"
+      ],
+      "printed_page_number": "564",
+      "skip": false
+    },
+    {
+      "title": "50 Language and Silence: Making Systems of Privilege Visible",
+      "authors": [
+        "Stephanie M. Wildman",
+        "Adrienne D. Davis"
+      ],
+      "printed_page_number": "573",
+      "skip": false
+    },
+    {
+      "title": "FROM THE EDITOR: ISSUES AND COMMENTS",
+      "authors": [],
+      "printed_page_number": "580",
+      "skip": true
+    },
+    {
+      "title": "SUGGESTED READINGS",
+      "authors": [],
+      "printed_page_number": "581",
+      "skip": true
+    },
+    {
+      "title": "ABOUT THE CONTRIBUTORS",
+      "authors": [],
+      "printed_page_number": "583",
+      "skip": true
+    },
+    {
+      "title": "INDEX",
+      "authors": [],
+      "printed_page_number": "587",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

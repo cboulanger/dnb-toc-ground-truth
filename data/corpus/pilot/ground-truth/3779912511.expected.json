@@ -1,0 +1,122 @@
+{
+  "entries": [
+    {
+      "title": "I. Einf\u00fchrung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die Schwierigkeiten des Zentaurs. \u00dcber Grundlagenforschung in der P\u00e4dagogik",
+      "authors": [
+        "Michael Winkler"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "II. Geschichte der P\u00e4dagogik",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "\u00bb... die Praxis wird nur mit der Theorie eine bewu\u00dftere.\u00ab \u2013 Einige \u00dcberlegungen im Anschlu\u00df an Friedrich Schleiermacher",
+      "authors": [
+        "Johanna Hopfner"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "Zur Geschichte des Vaterkonzepts in Europa",
+      "authors": [
+        "Dieter Lenzen"
+      ],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "III. Theorie der Erziehung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Sittlichkeit, Bildung und Emanzipation. Von der Unaufgebbarkeit eines Projekts",
+      "authors": [
+        "Wolfdietrich Schmied-Kowarzik"
+      ],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "Grundbegriffe einer biographischen Erziehungstheorie",
+      "authors": [
+        "Werner Loch"
+      ],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "\u00dcberlegungen zu einer praxeologischen Bildungstheorie",
+      "authors": [
+        "Eckart Liebau"
+      ],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "IV. Anthropologie",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die vergessene Natur. Zur Aktualit\u00e4t des ethologischen und kulturethologischen Denkens f\u00fcr die P\u00e4dagogik",
+      "authors": [
+        "Max Liedtke"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "Die Frage nach dem Menschen und die Vielzahl der Anthropologien",
+      "authors": [
+        "Hans Scheuerl"
+      ],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "Wie p\u00e4dagogisch ist die P\u00e4dagogische Psychologie?",
+      "authors": [
+        "Hans-Walter Leonhard"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "V. P\u00e4dagogische Forschung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Voraussetzungen theoretischer Grundlagenforschung in der P\u00e4dagogik",
+      "authors": [
+        "Wolfgang S\u00fcnkel"
+      ],
+      "printed_page_number": "197",
+      "skip": false
+    },
+    {
+      "title": "Autorenspiegel",
+      "authors": [],
+      "printed_page_number": "208",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

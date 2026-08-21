@@ -1,0 +1,371 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort der Herausgeber",
+      "authors": [],
+      "printed_page_number": "V",
+      "skip": true
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "authors": [],
+      "printed_page_number": "XI",
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": [
+        "Ulrich Jan Schröder"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Rechtsgestaltung als Perspektive für die Dogmatik des öffentlichen Rechts – Erscheinungsformen, Funktionen und Grenzen",
+      "authors": [
+        "Ulrich Jan Schröder"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "A. Gesetzgebung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Landtagsausschüsse als parlamentarischer Gesetzgeber?",
+      "authors": [
+        "Johannes Dietlein"
+      ],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "Staatliche Normsetzung mit kommunalem Bezug",
+      "authors": [
+        "Marc Lechleitner"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "Nachgelagerte Kostenausgleichsregelung als „kreativer“ Umgang mit dem strikten Konnexitätsprinzip?",
+      "authors": [
+        "Angela Faber"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Die Klimaschutzziele der Europäischen Union in der nationalen Ausgestaltung durch den Landesgesetzgeber",
+      "authors": [
+        "Sebastian Hans-Joachim Salewski"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "§ 8a VAG – eine europarechtlich misslungene Umsetzung einer EU-Richtlinie und der schwierige Weg einer Korrektur (zugleich eine Kritik an Mitgliedstaatenoptionen in EU-Richtlinien)",
+      "authors": [
+        "Joachim Grote"
+      ],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "Leistungsreduktion durch Änderung der Versorgungssatzung in einem berufsständischen Versorgungswerk – hier insbesondere Abschaffung von Kinderzuschüssen",
+      "authors": [
+        "Steffen Breuer"
+      ],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "Ist die aktuelle bankaufsichtsrechtliche Regulierung dazu geeignet, zukünftige Krisen im Bankensektor zu verhindern?",
+      "authors": [
+        "Raphael Lohmiller"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "Genutzte und ungenutzte Gestaltungsspielräume bei der Errichtung des einheitlichen Aufsichtsmechanismus (EAM)",
+      "authors": [
+        "Klaus Lackhoff"
+      ],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "Möglichkeiten zur Rechtsgestaltung durch Patentinhaber im neuen europäischen Patentstreitsystem",
+      "authors": [
+        "Reinhard J. Görtz"
+      ],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "Gesellschaftsgestaltung durch Juristen und Juristenausbildung",
+      "authors": [
+        "Ulrich Jan Schröder"
+      ],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "Rechtsgestaltung im öffentlichen Recht am Beispiel des Übergangs zum Masterstudium",
+      "authors": [
+        "Wilhelm Achelpöhl"
+      ],
+      "printed_page_number": "241",
+      "skip": false
+    },
+    {
+      "title": "B. Verwaltung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die Konkretisierung unbestimmter Rechtsbegriffe des Verwaltungsrechts im Gefüge der Teilgewalten",
+      "authors": [
+        "Christian Thiemann"
+      ],
+      "printed_page_number": "257",
+      "skip": false
+    },
+    {
+      "title": "Normativer Beurteilungsspielraum: Rechtsfortbildung im Wechselspiel zwischen Gerichten und Behörden am Beispiel von Positionsmarken",
+      "authors": [
+        "Christian Weitzel",
+        "Petra Weitzel"
+      ],
+      "printed_page_number": "279",
+      "skip": false
+    },
+    {
+      "title": "Frühe Öffentlichkeitsbeteiligung – Der neue § 25 Abs. 3 VwVfG in der Verwaltungspraxis",
+      "authors": [
+        "Markus Söbbeke"
+      ],
+      "printed_page_number": "303",
+      "skip": false
+    },
+    {
+      "title": "Die Beteiligung der Öffentlichkeit bei geplanten Bauvorhaben der Gasfernleitungsnetzbetreiber",
+      "authors": [
+        "Andreas Bala"
+      ],
+      "printed_page_number": "317",
+      "skip": false
+    },
+    {
+      "title": "Rechtsgestaltung durch Planung – Abwägung und Alternativenprüfung beim Stromnetzausbau",
+      "authors": [
+        "Tobias Leidinger"
+      ],
+      "printed_page_number": "337",
+      "skip": false
+    },
+    {
+      "title": "Einschätzungs- und Abwägungsspielräume in der luftverkehrsrechtlichen Fachplanung",
+      "authors": [
+        "Karsten Baumann"
+      ],
+      "printed_page_number": "355",
+      "skip": false
+    },
+    {
+      "title": "Prüfung wissenschaftlicher Qualifikationsarbeiten",
+      "authors": [
+        "Ulf Müller"
+      ],
+      "printed_page_number": "373",
+      "skip": false
+    },
+    {
+      "title": "Anforderungen an Deutlichkeit und Wahrnehmbarkeit bei Verwaltungsakten",
+      "authors": [
+        "Carsten Lund"
+      ],
+      "printed_page_number": "393",
+      "skip": false
+    },
+    {
+      "title": "Behördliche Rechtsfehler im Vollzug des europäischen RAPEX-Meldesystems",
+      "authors": [
+        "Thomas Klindt"
+      ],
+      "printed_page_number": "401",
+      "skip": false
+    },
+    {
+      "title": "Piraterie auf See als (neue) rechtliche Herausforderung",
+      "authors": [
+        "Stefan Schrandt-Zimmer"
+      ],
+      "printed_page_number": "411",
+      "skip": false
+    },
+    {
+      "title": "Gestaltungsspielräume im behördlichen Disziplinarverfahren",
+      "authors": [
+        "Jan Behrmann"
+      ],
+      "printed_page_number": "425",
+      "skip": false
+    },
+    {
+      "title": "Formenwahlfreiheit und Rechtswegbestimmung bei der Subventionsvergabe",
+      "authors": [
+        "Holger Niehaus"
+      ],
+      "printed_page_number": "439",
+      "skip": false
+    },
+    {
+      "title": "C. Rechtsprechung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Rechtsgestaltung im Verwaltungsgerichtsprozess – ein Beitrag über das gerichtliche Ermessen",
+      "authors": [
+        "Christoph Heydemann"
+      ],
+      "printed_page_number": "453",
+      "skip": false
+    },
+    {
+      "title": "Richterliche Ethik",
+      "authors": [
+        "Dorothea Sandhaus"
+      ],
+      "printed_page_number": "469",
+      "skip": false
+    },
+    {
+      "title": "Richterliche Rechtsgestaltung durch Beweiswürdigung – wenn im Fahrerlaubnisrecht einmal zweimal ist",
+      "authors": [
+        "Martin Stuttmann"
+      ],
+      "printed_page_number": "487",
+      "skip": false
+    },
+    {
+      "title": "Der Erörterungstermin als Mittel der effizienten Verfahrensgestaltung im Verwaltungsprozess",
+      "authors": [
+        "Matthias Kallerhoff"
+      ],
+      "printed_page_number": "501",
+      "skip": false
+    },
+    {
+      "title": "Der verwaltungsgerichtliche Vergleich",
+      "authors": [
+        "Gerd Viegener"
+      ],
+      "printed_page_number": "515",
+      "skip": false
+    },
+    {
+      "title": "Die Bindung des Richters an das Gesetz – am Beispiel des Bundesausbildungsförderungsgesetzes",
+      "authors": [
+        "Christian Steinweg"
+      ],
+      "printed_page_number": "533",
+      "skip": false
+    },
+    {
+      "title": "Zum Nachschieben von Ermessenserwägungen bei Dauer verwaltungsakten – aus Sicht des verwaltungsgerichtlichen Revisionsverfahrens",
+      "authors": [
+        "Anke Eggert"
+      ],
+      "printed_page_number": "551",
+      "skip": false
+    },
+    {
+      "title": "Rechtsgestaltung an der Schnittstelle zwischen den privatrechtlichen Regelungen des Sorge- und Umgangsrechts und dem öffentlich-rechtlichen Kinderschutzauftrag",
+      "authors": [
+        "Andreas Hornung"
+      ],
+      "printed_page_number": "565",
+      "skip": false
+    },
+    {
+      "title": "D. Vertragsgestaltung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Allgemeine Geschäftsbedingungen in öffentlich-rechtlichen Verträgen und deren Inhaltskontrolle anhand des Rechts der Allgemeinen Geschäftsbedingungen",
+      "authors": [
+        "Norbert Burke"
+      ],
+      "printed_page_number": "585",
+      "skip": false
+    },
+    {
+      "title": "Verwaltungsrecht in Privatrechtsform – Zur Umsetzung öffentlich-rechtlicher Anforderungen in zivilrechtlichen Verträgen",
+      "authors": [
+        "Herbert Posser"
+      ],
+      "printed_page_number": "601",
+      "skip": false
+    },
+    {
+      "title": "Einflüsse des öffentlichen Rechts auf die Gestaltung zivilrechtlicher Verträge in der Kreislaufwirtschaft",
+      "authors": [
+        "Alexander de Diego",
+        "Anno Oexle"
+      ],
+      "printed_page_number": "621",
+      "skip": false
+    },
+    {
+      "title": "Untergrundspeicher als Gegenstand von Infrastruktur-M&A-Transaktionen – Rechtssichere Gestaltung in einem komplexen regulatorischen und zivilrechtlichen Umfeld",
+      "authors": [
+        "Martin Neuhaus",
+        "Joachim Grittmann"
+      ],
+      "printed_page_number": "635",
+      "skip": false
+    },
+    {
+      "title": "Die Beschaffung von Schienenfahrzeugen bei der Deutschen Bahn AG – unter besonderer Berücksichtigung ausgewählter vergaberechtlicher Aspekte",
+      "authors": [
+        "Thomas Peppersack"
+      ],
+      "printed_page_number": "655",
+      "skip": false
+    },
+    {
+      "title": "Eigenversorgung durch Kraftwerksscheibenpacht im Gesetz für den Ausbau erneuerbarer Energien",
+      "authors": [
+        "Klaus Kemper"
+      ],
+      "printed_page_number": "687",
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Dirk Ehlers – Herkunft, Lebensweg, Aktivitäten in Forschung, Lehre und Rechtspraxis",
+      "authors": [
+        "Hermann Pünder"
+      ],
+      "printed_page_number": "701",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

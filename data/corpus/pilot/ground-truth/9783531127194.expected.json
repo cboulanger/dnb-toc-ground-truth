@@ -1,0 +1,602 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "5",
+      "skip": true
+    },
+    {
+      "title": "1. Kulturelle Wirklichkeiten",
+      "authors": [
+        "Siegfried J. Schmidt"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "1.1 Zur Einführung",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "1.2 Die Wirklichkeiten der Beobachter",
+      "authors": [],
+      "printed_page_number": "12",
+      "skip": false
+    },
+    {
+      "title": "1.3 Die Beobachter der Wirklichkeit",
+      "authors": [],
+      "printed_page_number": "14",
+      "skip": false
+    },
+    {
+      "title": "1.4 Wirklichkeitskonstruktion und Kultur",
+      "authors": [],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "1.5 Wirklichkeitskonstruktion und Massenmedien",
+      "authors": [],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "2. Werbung zwischen Wirtschaft und Kunst",
+      "authors": [
+        "Siegfried J. Schmidt"
+      ],
+      "printed_page_number": "26",
+      "skip": false
+    },
+    {
+      "title": "2.1 Vorbemerkung",
+      "authors": [],
+      "printed_page_number": "26",
+      "skip": false
+    },
+    {
+      "title": "2.2 Werbewirtschaft als Teil der Wirtschaft",
+      "authors": [],
+      "printed_page_number": "26",
+      "skip": false
+    },
+    {
+      "title": "2.3 Wirtschaft als soziales System",
+      "authors": [],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "2.4 Werbewirtschaft",
+      "authors": [],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "2.5 Werbung als soziales System",
+      "authors": [],
+      "printed_page_number": "36",
+      "skip": false
+    },
+    {
+      "title": "2.6 Kunst und Werbung",
+      "authors": [],
+      "printed_page_number": "38",
+      "skip": false
+    },
+    {
+      "title": "2.7 Werbung als Indikator sozialen Wandels",
+      "authors": [],
+      "printed_page_number": "40",
+      "skip": false
+    },
+    {
+      "title": "3. Werbung und Medienkultur: Tendenzen der 90er Jahre",
+      "authors": [
+        "Siegfried J. Schmidt"
+      ],
+      "printed_page_number": "44",
+      "skip": false
+    },
+    {
+      "title": "3.1 Die goldenen 80er: Ästhetisierung als Erfolgsstrategie",
+      "authors": [],
+      "printed_page_number": "44",
+      "skip": false
+    },
+    {
+      "title": "3.2 Der Trend kippt",
+      "authors": [],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "3.3 Werbung und Kultur",
+      "authors": [],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "3.4 \"Keine Werbung mehr, sondern Auseinandersetzung?\"",
+      "authors": [],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "3.5 Vom Fischer und seiner Frau",
+      "authors": [],
+      "printed_page_number": "52",
+      "skip": false
+    },
+    {
+      "title": "4. Europäische Fernsehwerbung als Indikator kultureller Integration?",
+      "authors": [
+        "Siegfried J. Schmidt"
+      ],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "4.1 Die Werbewirtschaft nimmt Europa ins Visier",
+      "authors": [],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "4.2 Werbung als Motor europäischer Integration?",
+      "authors": [],
+      "printed_page_number": "56",
+      "skip": false
+    },
+    {
+      "title": "4.3 Stolperstein der Euro-Werbung",
+      "authors": [],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "4.4 Euro-Advertising – trotz allem",
+      "authors": [],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "4.5 Die Suche nach dem gemeinsamen Nenner",
+      "authors": [],
+      "printed_page_number": "60",
+      "skip": false
+    },
+    {
+      "title": "4.6 Das Europa der Verbraucher?",
+      "authors": [],
+      "printed_page_number": "62",
+      "skip": false
+    },
+    {
+      "title": "5. Kampagnen gegen Ausländerhaß und Gewalt – Zur sozialen Konstruktion von Solidarität im Medienzeitalter",
+      "authors": [
+        "Sigrid Baringhorst"
+      ],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "5.1 Xenophilie – Die warmen Gefühle der \"kühlen Gesellschaft\"",
+      "authors": [],
+      "printed_page_number": "66",
+      "skip": false
+    },
+    {
+      "title": "5.2 Zwischen Betroffenheitskult und instrumenteller Vernunft – Versuch einer Anzeigentypologie",
+      "authors": [],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "5.3 Folgen- und Nebenfolgenabschätzung",
+      "authors": [],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "5.4 Solidarität als Imagewerbung für neue Trägerschichten sozialmoralischer Mobilisierung",
+      "authors": [],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "5.5 Moral als \"Celebrity-Brand\" – VIPs als Träger politisch-moralischer Kommunikation",
+      "authors": [],
+      "printed_page_number": "76",
+      "skip": false
+    },
+    {
+      "title": "5.6 Ausverkauf der Moral – Transformation mit ambivalenten Folgen",
+      "authors": [],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "6. Ohne Fremdes nichts Eigenes. Das Fremde in der Werbung: Bilder aus der Dritten Welt als Projektionsfläche für Sehnsüchte und Träume industrieller Gesellschaften",
+      "authors": [
+        "Brigitte Spieß"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "6.1 Telegene Inszenierung des Fernsehens",
+      "authors": [],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "6.2 Sinnstiftungs(an)sprüche der Werber",
+      "authors": [],
+      "printed_page_number": "80",
+      "skip": false
+    },
+    {
+      "title": "6.3 Erlebnisweltliche Simulation des Fremden in der Werbung",
+      "authors": [],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "6.4 Exotische Mythen von Freiheit und naturhafter Unmittelbarkeit",
+      "authors": [],
+      "printed_page_number": "82",
+      "skip": false
+    },
+    {
+      "title": "6.5 Die neue multikulturelle Werbemoral der Unternehmen",
+      "authors": [],
+      "printed_page_number": "84",
+      "skip": false
+    },
+    {
+      "title": "7. \"Kleiner König Kunde\" Werbung und Kinderfernsehen",
+      "authors": [
+        "Ute Holdenried"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "7.1 Kinderfernsehen als Schnittpunkt von Interessen",
+      "authors": [],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "7.2 Zur Entwicklung des Kinderfernsehens in der BRD",
+      "authors": [],
+      "printed_page_number": "88",
+      "skip": false
+    },
+    {
+      "title": "7.3 Kinder als Zielgruppe für die Werbung",
+      "authors": [],
+      "printed_page_number": "90",
+      "skip": false
+    },
+    {
+      "title": "7.4 Werbung und Programmstruktur des Kinderfernsehens (RTL 2 und Kabelkanal)",
+      "authors": [],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "7.5 Formen der Vernetzung von Programm und Werbung",
+      "authors": [],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "7.6 Der Übergang zwischen Werbeblock und Programm",
+      "authors": [],
+      "printed_page_number": "130",
+      "skip": false
+    },
+    {
+      "title": "7.7 Programm als Werbung",
+      "authors": [],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "7.8 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "8. It's a Men's World Männlichkeitsklischees in der deutschen Fernsehwerbung",
+      "authors": [
+        "Stefan Krohne"
+      ],
+      "printed_page_number": "136",
+      "skip": false
+    },
+    {
+      "title": "8.1 Einleitende Bemerkungen",
+      "authors": [],
+      "printed_page_number": "136",
+      "skip": false
+    },
+    {
+      "title": "8.1.1 Wie stellt sich die Werbelandschaft der 90er Jahre dar?",
+      "authors": [],
+      "printed_page_number": "136",
+      "skip": false
+    },
+    {
+      "title": "8.1.2 Was bedeutet Männlichkeit heute?",
+      "authors": [],
+      "printed_page_number": "138",
+      "skip": false
+    },
+    {
+      "title": "8.2 Das Männerbild in der Fernsehwerbung",
+      "authors": [],
+      "printed_page_number": "140",
+      "skip": false
+    },
+    {
+      "title": "8.2.1 Agitationsebene I: Der Mann in seinen Lebensbereichen",
+      "authors": [],
+      "printed_page_number": "142",
+      "skip": false
+    },
+    {
+      "title": "8.2.1.1 Der berufstätige Mann",
+      "authors": [],
+      "printed_page_number": "142",
+      "skip": false
+    },
+    {
+      "title": "8.2.1.2 Der Ehepartner und Familienvater",
+      "authors": [],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "8.2.1.3 Der Mann in seiner Freizeit",
+      "authors": [],
+      "printed_page_number": "144",
+      "skip": false
+    },
+    {
+      "title": "8.2.2 Agitationsebene II: Der Mann in seinen Altersbereichen vom jungen bis zum alten Mann",
+      "authors": [],
+      "printed_page_number": "144",
+      "skip": false
+    },
+    {
+      "title": "8.2.3 Agitationsebene III: Männliche Darstellungsbereiche in klassischen Spot-Typen",
+      "authors": [],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "8.2.3.1 Der Mann als \"Presenter\"",
+      "authors": [],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "8.2.3.2 Der Mann als \"Sympathieträger\"",
+      "authors": [],
+      "printed_page_number": "146",
+      "skip": false
+    },
+    {
+      "title": "8.2.3.3 Der Mann in seinen \"Erlebniswelten\"",
+      "authors": [],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "8.2.4 Brechen Männer in der Fernsehwerbung Tabus?",
+      "authors": [],
+      "printed_page_number": "148",
+      "skip": false
+    },
+    {
+      "title": "8.3 Zwischen Tradition und Innovation: Drei Beispiele",
+      "authors": [],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "8.4 Schlußbetrachtung",
+      "authors": [],
+      "printed_page_number": "151",
+      "skip": false
+    },
+    {
+      "title": "9. Hörspiel und Werbung: Konvergierende Ästhetiken des Augenblicks?",
+      "authors": [
+        "Martin Maurach"
+      ],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "9.1 Zur 'Ästhetik des Augenblicks' in Hörspiel und Werbung",
+      "authors": [],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "9.2 Zitate von Peripetiemomenten aus der Werbung im Hörspiel",
+      "authors": [],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "9.3 Der Jingle als Ausdruck von Totalität. Werbung und Hörspielcollage",
+      "authors": [],
+      "printed_page_number": "158",
+      "skip": false
+    },
+    {
+      "title": "9.4 Hörspiel = Werbung = Programm. Vor dem Ende der Zeitkünste als kunstlose Zeit?",
+      "authors": [],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "9.5 Beziehungen der Augenblicksästhetiken von Hörspiel und Werbung",
+      "authors": [],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "10. Die werbetreibende Wirtschaft auf der Suche nach der \"zappingfreien Zone\" – Zur Ausdifferenzierung der Werbeformen und ihren rundfunkrechtlichen Bestimmungen",
+      "authors": [
+        "Kai-Peter Keusen"
+      ],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "10.1 Einleitung",
+      "authors": [],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "10.2 Zur bundesdeutschen Rundfunkordnung",
+      "authors": [],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "10.3 Allgemeine Bestimmungen zur Ausstrahlung von Fernsehwerbung",
+      "authors": [],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "10.4 Entwicklung der rundfunkrechtliche Bestimmungen anhand der Rundfunkstaatsverträge von 1987 und 1991",
+      "authors": [],
+      "printed_page_number": "172",
+      "skip": false
+    },
+    {
+      "title": "10.4.1 Werbeumfang",
+      "authors": [],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "10.4.2 Unterbrecherwerbung",
+      "authors": [],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "10.4.3 Sponsoring",
+      "authors": [],
+      "printed_page_number": "176",
+      "skip": false
+    },
+    {
+      "title": "10.4.4 Teleshopping",
+      "authors": [],
+      "printed_page_number": "176",
+      "skip": false
+    },
+    {
+      "title": "10.4.5 Zusammenfassung der Regelungsbestimmungen",
+      "authors": [],
+      "printed_page_number": "178",
+      "skip": false
+    },
+    {
+      "title": "10.5 Besondere Werbe-, Marketing- und Finanzierungsformen",
+      "authors": [],
+      "printed_page_number": "178",
+      "skip": false
+    },
+    {
+      "title": "10.5.1 Product Placement",
+      "authors": [],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "10.5.2 Bartering",
+      "authors": [],
+      "printed_page_number": "182",
+      "skip": false
+    },
+    {
+      "title": "10.5.3 Programming",
+      "authors": [],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "10.5.4 Merchandising",
+      "authors": [],
+      "printed_page_number": "184",
+      "skip": false
+    },
+    {
+      "title": "10.5.5 Licensing",
+      "authors": [],
+      "printed_page_number": "185",
+      "skip": false
+    },
+    {
+      "title": "10.5.6 Weitere Sonderwerbeformen",
+      "authors": [],
+      "printed_page_number": "186",
+      "skip": false
+    },
+    {
+      "title": "10.6 Fazit",
+      "authors": [],
+      "printed_page_number": "186",
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "authors": [],
+      "printed_page_number": "194",
+      "skip": true
+    },
+    {
+      "title": "Quellennachweis",
+      "authors": [],
+      "printed_page_number": "207",
+      "skip": true
+    },
+    {
+      "title": "Verzeichnis der Abbildungen",
+      "authors": [],
+      "printed_page_number": "208",
+      "skip": true
+    },
+    {
+      "title": "Verzeichnis der Autoren",
+      "authors": [],
+      "printed_page_number": "210",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

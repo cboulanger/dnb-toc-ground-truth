@@ -1,0 +1,521 @@
+{
+  "generated_at": 1787263895.881227,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Gebrauchsanleitung",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Klatt",
+        "Sabine Koller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "AusBildung 1",
+      "printed_page_number": "24",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Putz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "AusBildung 2",
+      "printed_page_number": "28",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg M\u00fcssig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Balanceakt",
+      "printed_page_number": "35",
+      "source_page_index": -1,
+      "authors": [
+        "Susanne Weiss \u00fcber Katja Windt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bedingungen",
+      "printed_page_number": "38",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Sethe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Begegnung",
+      "printed_page_number": "44",
+      "source_page_index": -1,
+      "authors": [
+        "Walter Gr\u00fcnzweig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beratung",
+      "printed_page_number": "48",
+      "source_page_index": -1,
+      "authors": [
+        "Florian Steger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Co-Teaching",
+      "printed_page_number": "52",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Koenig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Doktorandenprogramme 1",
+      "printed_page_number": "56",
+      "source_page_index": -1,
+      "authors": [
+        "Bettina Beer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Doktorandenprogramme 2",
+      "printed_page_number": "59",
+      "source_page_index": -1,
+      "authors": [
+        "Carsten Q. Schneider"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einheit",
+      "printed_page_number": "68",
+      "source_page_index": -1,
+      "authors": [
+        "Katharina Landfester"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einzelgespr\u00e4che",
+      "printed_page_number": "72",
+      "source_page_index": -1,
+      "authors": [
+        "Eva-Maria Engelen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Essay",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "Sabine Koller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Exkursion",
+      "printed_page_number": "78",
+      "source_page_index": -1,
+      "authors": [
+        "Bettina Beer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Experimentalvorlesung",
+      "printed_page_number": "82",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Wolf"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fl\u00fcchtige Moderne",
+      "printed_page_number": "86",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Vogel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Forschungssemester",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [
+        "Florian Steger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Forschungsseminar",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [
+        "Alexandra M. Freund"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gro\u00dfvorlesung",
+      "printed_page_number": "98",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Klatt",
+        "Johann Laux"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hochschuldidaktik",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [
+        "Florian Steger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Humboldt",
+      "printed_page_number": "108",
+      "source_page_index": -1,
+      "authors": [
+        "B\u00e9n\u00e9dicte Savoy"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Interdisziplinarit\u00e4t 1",
+      "printed_page_number": "112",
+      "source_page_index": -1,
+      "authors": [
+        "Sabine Koller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Interdisziplinarit\u00e4t 2",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "Julian Klein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Internationalisierung",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [
+        "Carsten Q. Schneider"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kathedervortrag",
+      "printed_page_number": "126",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Fr\u00fchwald"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Komplexit\u00e4t",
+      "printed_page_number": "130",
+      "source_page_index": -1,
+      "authors": [
+        "Susanne Weiss \u00fcber Nicole Schweikhardt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Langeweile",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [
+        "Magdalena Nowicka"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lust",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [
+        "Ute Frevert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Medien",
+      "printed_page_number": "144",
+      "source_page_index": -1,
+      "authors": [
+        "Oliver Vornberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mehrsprachigkeit",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [
+        "Kirill Dmitriev"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Motivation",
+      "printed_page_number": "152",
+      "source_page_index": -1,
+      "authors": [
+        "Elisabeth Lankers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "N\u00e4he",
+      "printed_page_number": "157",
+      "source_page_index": -1,
+      "authors": [
+        "Maximilian Wa\u00dfmuth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Neugier",
+      "printed_page_number": "160",
+      "source_page_index": -1,
+      "authors": [
+        "Philip Walther"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nutzen",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Kocka"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Offenheit",
+      "printed_page_number": "166",
+      "source_page_index": -1,
+      "authors": [
+        "Annelie Bachmaier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Projektseminar",
+      "printed_page_number": "170",
+      "source_page_index": -1,
+      "authors": [
+        "Susanne Weiss \u00fcber B\u00e9n\u00e9dicte Savoy"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Reputation",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [
+        "Margret Wintermantel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rhabarber",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [
+        "Susanne Weiss \u00fcber J\u00f6rg M\u00fcssig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schreiben",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Warstat"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schule machen",
+      "printed_page_number": "190",
+      "source_page_index": -1,
+      "authors": [
+        "K\u00e4rin Nickelsen",
+        "L\u00e1szl\u00f3 Sz\u00e9kelyhidi"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Selbstreflexion",
+      "printed_page_number": "194",
+      "source_page_index": -1,
+      "authors": [
+        "Julia Fischer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Staunen",
+      "printed_page_number": "198",
+      "source_page_index": -1,
+      "authors": [
+        "Jan Zglinski"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "S(t)imulation",
+      "printed_page_number": "202",
+      "source_page_index": -1,
+      "authors": [
+        "Daniel Chappell"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "St\u00f6rfaktoren",
+      "printed_page_number": "206",
+      "source_page_index": -1,
+      "authors": [
+        "Susanne Weiss \u00fcber Christine Silberhorn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Studiengeb\u00fchren",
+      "printed_page_number": "209",
+      "source_page_index": -1,
+      "authors": [
+        "Stefanie Walter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Think Tank Lehre",
+      "printed_page_number": "212",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Klatt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Vorlesung",
+      "printed_page_number": "217",
+      "source_page_index": -1,
+      "authors": [
+        "Giovanni Galizia"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zukunftsmodell",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [
+        "Wolf Gerhard Schmidt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Weiterf\u00fchrende Literatur",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Weblinks",
+      "printed_page_number": "230",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Navigation",
+      "printed_page_number": "246",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

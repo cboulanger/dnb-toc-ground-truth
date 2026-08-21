@@ -1,0 +1,356 @@
+{
+  "generated_at": 1787257963.000735,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "List of figures",
+      "printed_page_number": "ix",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of tables",
+      "printed_page_number": "xv",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Notes on contributors",
+      "printed_page_number": "xvi",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgements",
+      "printed_page_number": "xxi",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "INTRODUCTION",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "I The natures of cultural history",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Nicholas Jardine",
+        "Emma Spary"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "I CURIOSITY, ERUDITION AND UTILITY",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2 Emblematic natural history of the Renaissance",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "William B. Ashworth, Jr."
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 The culture of gardens",
+      "printed_page_number": "38",
+      "source_page_index": -1,
+      "authors": [
+        "Andrew Cunningham"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Courting nature",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [
+        "Paula Findlen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 The culture of curiosity",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "Katie Whitaker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Physicians and natural history",
+      "printed_page_number": "91",
+      "source_page_index": -1,
+      "authors": [
+        "Harold J. Cook"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Natural history as print culture",
+      "printed_page_number": "106",
+      "source_page_index": -1,
+      "authors": [
+        "Adrian Johns"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II VIRTUOSITY, IMPROVEMENT AND SENSIBILITY",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "8 Natural history in the academies",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [
+        "Daniel Roche"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 Carl Linnaeus in his time and place",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "Lisbeth Koerner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Gender and natural history",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [
+        "Londa Schiebinger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11 Political, natural and bodily economies",
+      "printed_page_number": "178",
+      "source_page_index": -1,
+      "authors": [
+        "Emma Spary"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12 The science of man",
+      "printed_page_number": "197",
+      "source_page_index": -1,
+      "authors": [
+        "Paul B. Wood"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13 The natural history of the earth",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Guntau"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14 Naturphilosophie and the kingdoms of nature",
+      "printed_page_number": "230",
+      "source_page_index": -1,
+      "authors": [
+        "Nicholas Jardine"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III DISCIPLINE, DISCOVERY AND DISPLAY",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "15 New spaces in natural history",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [
+        "Dorinda Outram"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16 Minerals, strata and fossils",
+      "printed_page_number": "266",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Rudwick"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "17 Humboldtian science",
+      "printed_page_number": "287",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Dettelbach"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "18 Biogeography and empire",
+      "printed_page_number": "305",
+      "source_page_index": -1,
+      "authors": [
+        "Janet Browne"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "19 Travelling the other way",
+      "printed_page_number": "322",
+      "source_page_index": -1,
+      "authors": [
+        "Gillian Beer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "20 Ethnological encounters",
+      "printed_page_number": "338",
+      "source_page_index": -1,
+      "authors": [
+        "Michael T. Bravo"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "21 Equipment for the field",
+      "printed_page_number": "358",
+      "source_page_index": -1,
+      "authors": [
+        "Anne Larsen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "22 Artisan botany",
+      "printed_page_number": "378",
+      "source_page_index": -1,
+      "authors": [
+        "Anne Secord"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "23 Tastes and crazes",
+      "printed_page_number": "394",
+      "source_page_index": -1,
+      "authors": [
+        "David Allen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "24 Nature for the people",
+      "printed_page_number": "408",
+      "source_page_index": -1,
+      "authors": [
+        "Jean-Marc Drouin",
+        "Bernadette Bensaude-Vincent"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "25 Natural history and the 'new' biology",
+      "printed_page_number": "426",
+      "source_page_index": -1,
+      "authors": [
+        "Lynn K. Nyhart"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "EPILOGUE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "26 The crisis of nature",
+      "printed_page_number": "447",
+      "source_page_index": -1,
+      "authors": [
+        "James A. Secord"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Notes",
+      "printed_page_number": "460",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "495",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

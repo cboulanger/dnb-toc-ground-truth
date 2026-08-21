@@ -1,0 +1,143 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "5",
+      "skip": true
+    },
+    {
+      "title": "Siegfried im Nibelungenlied",
+      "authors": [],
+      "printed_page_number": "8",
+      "skip": false
+    },
+    {
+      "title": "1 Das Reich um 1200 – der Herrscher, die Fürsten und das Volk",
+      "authors": [
+        "Peter Csendes"
+      ],
+      "printed_page_number": "14",
+      "skip": false
+    },
+    {
+      "title": "2 Historische Siegfriedfiguren um 1200",
+      "authors": [
+        "Jürgen Breuer"
+      ],
+      "printed_page_number": "34",
+      "skip": false
+    },
+    {
+      "title": "3 Mittelalterliche Helden",
+      "authors": [
+        "Ulrich Wyss"
+      ],
+      "printed_page_number": "52",
+      "skip": false
+    },
+    {
+      "title": "4 Siegfriedmythen vor 1200",
+      "authors": [
+        "Thomas Eichfelder"
+      ],
+      "printed_page_number": "70",
+      "skip": false
+    },
+    {
+      "title": "5 Siegfrieds Abstieg und Kriemhilds Aufstieg im 13. Jahrhundert",
+      "authors": [
+        "Walter Seitter"
+      ],
+      "printed_page_number": "88",
+      "skip": false
+    },
+    {
+      "title": "6 Der Märchen- und Sagensiegfried des späten Mittelalters",
+      "authors": [
+        "Ralph Breyer"
+      ],
+      "printed_page_number": "110",
+      "skip": false
+    },
+    {
+      "title": "7 Die literarische Rezeption der Siegfriedfigur von 1200 bis heute",
+      "authors": [
+        "Otfrid Ehrismann"
+      ],
+      "printed_page_number": "124",
+      "skip": false
+    },
+    {
+      "title": "8 Die politische Rezeption der Siegfriedfigur im 19. und 20. Jahrhundert",
+      "authors": [
+        "Klaus von See"
+      ],
+      "printed_page_number": "138",
+      "skip": false
+    },
+    {
+      "title": "9 Heldenbilder in der Fantasyliteratur der Gegenwart",
+      "authors": [
+        "Susanne Tschirner"
+      ],
+      "printed_page_number": "156",
+      "skip": false
+    },
+    {
+      "title": "10 Rollenspiele – Siegfried-Bilder im 19. und 20. Jahrhundert",
+      "authors": [
+        "Johanna Werckmeister"
+      ],
+      "printed_page_number": "170",
+      "skip": false
+    },
+    {
+      "title": "11 Siegfried – politisch, aktuell",
+      "authors": [
+        "Jürgen Lodemann"
+      ],
+      "printed_page_number": "186",
+      "skip": false
+    },
+    {
+      "title": "12 Siegfried und Worms",
+      "authors": [
+        "Thomas Eichfelder",
+        "Volker Gallé"
+      ],
+      "printed_page_number": "202",
+      "skip": false
+    },
+    {
+      "title": "13 Siegfried und Xanten",
+      "authors": [
+        "Ingo Runde"
+      ],
+      "printed_page_number": "222",
+      "skip": false
+    },
+    {
+      "title": "14 Siegfried – Schmied und Drachentöter",
+      "authors": [
+        "Volker Gallé"
+      ],
+      "printed_page_number": "240",
+      "skip": false
+    },
+    {
+      "title": "Autorenhinweise",
+      "authors": [],
+      "printed_page_number": "296",
+      "skip": true
+    },
+    {
+      "title": "Abbildungsnachweis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

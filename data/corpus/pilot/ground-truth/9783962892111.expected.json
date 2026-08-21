@@ -1,0 +1,108 @@
+{
+  "entries": [
+    {
+      "title": "Vorrede",
+      "authors": ["Raphael Gross"],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Wie sich die Geister schieden. Eine sehr kurze Geschichte aus den frühen Tagen des Frankfurter Verlagswesens",
+      "authors": ["Martin Bauer"],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Juristische Widerhaken. Erinnerung im Jahr 2021",
+      "authors": ["Lena Foljanty"],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Das komplexe Verhältnis von Recht und Moral. Einige Folgerungen aus der ideologischen Moralisierung des Rechts im Nationalsozialismus",
+      "authors": ["Herlinde Pauer-Studer"],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "Hannah Arendts Lob für Carl Schmitt und Walter Frank. Zu einer Fußnote in Elemente und Ursprünge totaler Herrschaft",
+      "authors": ["Emmanuel Faye"],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "»… über so etwas wie einen conceptual nazi«. Das Zerrbild des Nationalsozialismus in der Moralphilosophie und seine Konsequenzen",
+      "authors": ["Johanna Bach", "Jonas Balzer", "David Palme"],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "Von der Gleichgültigkeit zur Eliminierung. Kontinuität und Bruch zwischen bürgerlicher und nationalsozialistischer Moralphilosophie",
+      "authors": ["Dirk Schuck"],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "»Ich kann nicht abschließen«. Der Bruch zwischen Karl Jaspers und Martin Heidegger 1933 und das Scheitern seiner Aufarbeitung",
+      "authors": ["Philipp Batthyány"],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "Kann die Moralphilosophie Auschwitz begreifen? NS – Historischer Universalismus – Anthropologie",
+      "authors": ["Rolf Zimmermann"],
+      "printed_page_number": "151",
+      "skip": false
+    },
+    {
+      "title": "»Volkstrauer-« als »Heldengedenktag«. Der »Volksbund Deutsche Kriegsgräberfürsorge« in der Frühphase der Naziherrschaft",
+      "authors": ["Bernd Ulrich"],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "Die Stigmatisierung und Verfolgung von »asozialen Elementen« in Luxemburg während der nationalsozialistischen Besatzung",
+      "authors": ["Kathrin Meß"],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "Antisemitismus und Friedhofsschändungen in der SBZ und der DDR",
+      "authors": ["Monika Schmidt"],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "»Wirr ist das Volk«",
+      "authors": ["Michael Wildt"],
+      "printed_page_number": "223",
+      "skip": false
+    },
+    {
+      "title": "Der Solinger Brandanschlag, das Versagen der Lichterketten und die ungeklärte Rolle eines V-Mannes",
+      "authors": ["Wolfgang Kraushaar"],
+      "printed_page_number": "237",
+      "skip": false
+    },
+    {
+      "title": "Jüdische Museen – eine »Erfolgsgeschichte«?",
+      "authors": ["Fritz Backhaus"],
+      "printed_page_number": "257",
+      "skip": false
+    },
+    {
+      "title": "Verlust, Verleugnung, Verschweigen. Reflexionen über die Mechanismen familiärer Erinnerungen – ein Prozess",
+      "authors": ["Alexandra Senfft"],
+      "printed_page_number": "277",
+      "skip": false
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "295",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,131 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort der Herausgeber/in",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Einführung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Schulische Bildung im Zeitalter der digitalen Transformation – Einführung und Position des Deutschen Philologenverbandes",
+      "authors": [
+        "Susanne Lin-Klitzing"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Definition, Probleme und Programmatik",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "„Digitale Bildung\" – Betrachtungen zu einem zeitgenössischen Begriff",
+      "authors": [
+        "Sophia Mrowitzki"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Digitalisierung in der Welt von heute und morgen – aus der Sicht der Kommunikationswissenschaft",
+      "authors": [
+        "Mathias Weber",
+        "Oliver Quiring"
+      ],
+      "printed_page_number": "36",
+      "skip": false
+    },
+    {
+      "title": "Medienkompetenz fördern – digitale Spaltung überwinden",
+      "authors": [
+        "Wilfried Hendricks"
+      ],
+      "printed_page_number": "58",
+      "skip": false
+    },
+    {
+      "title": "Digitalisierung und Schule",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die Geister, die ich rief – ersetzen bald Maschinen unsere Lehrkräfte?",
+      "authors": [
+        "Olaf Köller"
+      ],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "Vermittlung von Informationskompetenz, Medienkompetenz und digitaler Kompetenz als Schulfach",
+      "authors": [
+        "Maria Henkel",
+        "Wolfgang G. Stock"
+      ],
+      "printed_page_number": "88",
+      "skip": false
+    },
+    {
+      "title": "Smartphones und Schule",
+      "authors": [
+        "Heinz-Peter Meidinger"
+      ],
+      "printed_page_number": "104",
+      "skip": false
+    },
+    {
+      "title": "Gymnasium und Unterricht in Zeiten digitaler Transformation",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die Digitalisierung des Lernens und das Gymnasium",
+      "authors": [
+        "Jürgen Oelkers"
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "Lernen mithilfe von digitalen Medien in naturwissenschaftlichen Fächern – Chancen und Schwächen neuer Lehr-/Lernformate",
+      "authors": [
+        "Jorge Groß"
+      ],
+      "printed_page_number": "126",
+      "skip": false
+    },
+    {
+      "title": "Differenzierte Konzepte und Effekte beim Umgang mit der Digitalisierung im Mathematikunterricht",
+      "authors": [
+        "Frank Reinhold",
+        "Kristina Reiss"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "Autorenspiegel",
+      "authors": [],
+      "printed_page_number": "153",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

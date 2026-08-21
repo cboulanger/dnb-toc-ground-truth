@@ -1,0 +1,434 @@
+{
+  "generated_at": 1787264560.8195882,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "I. Theoretische Grundlagen und empirische Einblicke",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gerhard B\u00fcttner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard B\u00fcttner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kinder- und Jugendtheologie als \u00bbKommunikation des Evangeliums und des Glaubens\u00ab \u2013 Im Lichte der Kritik von Bernhard Dressler",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard B\u00fcttner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mirjam Zimmermann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Mirjam Zimmermann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbThe medium is the message\u00ab oder Gibt es spezifische Methoden der Kinder- bzw. Jugendtheologie?",
+      "printed_page_number": "19",
+      "source_page_index": -1,
+      "authors": [
+        "Mirjam Zimmermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Frederic Vobbe",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Frederic Vobbe"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Multimodale Methoden des Theologisierens mit Kindern",
+      "printed_page_number": "36",
+      "source_page_index": -1,
+      "authors": [
+        "Frederic Vobbe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gerhard B\u00fcttner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard B\u00fcttner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Grenzen der Kindertheologie",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard B\u00fcttner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Barbara Br\u00fcning",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Barbara Br\u00fcning"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Warum habe ich so viele Fragen im Kopf? Mit Kindern \u00fcber Sinnfragen philosophieren",
+      "printed_page_number": "56",
+      "source_page_index": -1,
+      "authors": [
+        "Barbara Br\u00fcning"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. P\u00e4dagogische Anregungen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Christina Kalloch",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Christina Kalloch"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Theologisieren mit Kunstbildern",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "Christina Kalloch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Martin Schreiner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Martin Schreiner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Theologisieren mit Kindern am Beispiel eines Kurzfilms",
+      "printed_page_number": "82",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Schreiner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gabriele Haas",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gabriele Haas"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das kreative Schreiben und sein Beitrag zum Theologisieren der Kinder",
+      "printed_page_number": "97",
+      "source_page_index": -1,
+      "authors": [
+        "Gabriele Haas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sabine Schreiner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Sabine Schreiner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbIm wirklichen Leben gibt es keine L\u00f6sungen wie im Buch\u00ab \u2013 Ein Erfahrungsbericht mit dem Literarischen Gespr\u00e4ch zu Raquel J. Palacios Jugendroman \u00bbWunder\u00ab",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "Sabine Schreiner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Cornelia Oswald / Angela Steinke-D\u00f6rpholz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Cornelia Oswald",
+        "Angela Steinke-D\u00f6rpholz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Theologisieren mit Kinderliteratur",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "Cornelia Oswald",
+        "Angela Steinke-D\u00f6rpholz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Andreas Nicht",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Nicht"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Theatrales Theologisieren mit Elementen der Jeux Dramatiques",
+      "printed_page_number": "124",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Nicht"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dirk Schliephake",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Schliephake"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Erfahrungsorientiertes Bibel erz\u00e4hlen \u2013 ein Bericht",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Schliephake"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dirk Schliephake",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Schliephake"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Singen wirkt! Zur Nach-hall-tigkeit religi\u00f6ser Kinderlieder",
+      "printed_page_number": "140",
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Schliephake"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bernd Hillringhaus",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Hillringhaus"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Erfahrungsbericht \u00fcber Figurenaufstellungen",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Hillringhaus"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Franz Thalmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Franz Thalmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Weg der religionsp\u00e4dagogischen Praxis \u2013 Gestaltungen mit Bodenbildern als Beitrag zur Kindertheologie",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [
+        "Franz Thalmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Annika Stramer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Annika Stramer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Urbild und Abbild \u2013 Gottesvorstellungen orthodoxer Kinder",
+      "printed_page_number": "156",
+      "source_page_index": -1,
+      "authors": [
+        "Annika Stramer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Caroline Teschmer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Caroline Teschmer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Mitgef\u00fchl durch biblische Geschichten entwickeln? Zug\u00e4nge f\u00fcr Kinder im Elementarbereich",
+      "printed_page_number": "166",
+      "source_page_index": -1,
+      "authors": [
+        "Caroline Teschmer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. Buchbesprechungen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Martin Schreiner: Die Grundschul-Bibel",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Schreiner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VI. Bildmeditation",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Friedhelm Kraft",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Friedhelm Kraft"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Begegnung zwischen Philippus und dem K\u00e4mmerer aus dem Morgenland \u2013 eine Bildmeditation",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [
+        "Friedhelm Kraft"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Autorinnen und Autoren",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

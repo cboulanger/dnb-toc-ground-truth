@@ -1,0 +1,85 @@
+{
+  "entries": [
+    {
+      "title": "Prefacio",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Preface",
+      "authors": [],
+      "printed_page_number": "13",
+      "skip": true
+    },
+    {
+      "title": "Part I: Los escritores / The Writers",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "A Dialogue: Nation Language and Poetics of Creolization",
+      "authors": [
+        "Kamau Brathwaite",
+        "Edouard Glissant"
+      ],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "Writing Back in the Diaspora: Surinamese Ethnic Novels",
+      "authors": [
+        "Astrid Roemer"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "Part II: La crítica / The Criticism",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Writing Behind the Lines: Towards a Creole Reading of Domingos Caldas Barbosa",
+      "authors": [
+        "Phyllis Peres"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "Espacio gnóstico: El concepto del Nuevo Mundo como forma de pensamiento y forma de vivencia a partir de La expresión americana de José Lezama Lima",
+      "authors": [
+        "Gerhard Poppenberg"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Créolité, créole, créolisation: Nuevos caminos hacia un lenguaje común en el espacio caribeño francófono",
+      "authors": [
+        "Helmtrud Rumpf"
+      ],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "Adyosi versus Sunrise Inn: El paisaje alternativo del Caribe no-hispánico",
+      "authors": [
+        "Ineke Phaf"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "Colaboradores / Contributors",
+      "authors": [],
+      "printed_page_number": "129",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

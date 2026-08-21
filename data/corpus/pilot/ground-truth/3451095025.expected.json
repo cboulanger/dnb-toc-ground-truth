@@ -1,0 +1,98 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort des Herausgebers",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Bildungsrevolution durch Bildungspläne. Die Rahmenrichtlinien als zweite, das ursprüngliche Ziel gefährdende Welle",
+      "authors": [
+        "Eugen Lemberg"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Einladung oder Einweisung in die Zukunft. Generationskonflikt, Klassenkampf und Schulnihilismus",
+      "authors": [
+        "Heinrich Dietz"
+      ],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "Wider den politischen Mißbrauch des Lehrers",
+      "authors": [
+        "Walter Hildebrandt"
+      ],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "Ende der Selbstbestimmung. Zur Kritik der Hessischen Rahmenrichtlinien für Gesellschaftslehre",
+      "authors": [
+        "Thomas Nipperdey"
+      ],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "Politische Bildung als Heilslehre",
+      "authors": [
+        "Hugo Andreae"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "Schulen für die Demokratie",
+      "authors": [
+        "Hans Maier"
+      ],
+      "printed_page_number": "144",
+      "skip": false
+    },
+    {
+      "title": "Dokumentation",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Kleinschreibung in der Hand der Großplaner",
+      "authors": [
+        "Paul Stöcklein"
+      ],
+      "printed_page_number": "161",
+      "skip": true
+    },
+    {
+      "title": "Kurzrezensionen",
+      "authors": [],
+      "printed_page_number": "172",
+      "skip": true
+    },
+    {
+      "title": "Weiterführende neuere Literatur",
+      "authors": [],
+      "printed_page_number": "178",
+      "skip": true
+    },
+    {
+      "title": "Notizen über die Autoren",
+      "authors": [],
+      "printed_page_number": "190",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

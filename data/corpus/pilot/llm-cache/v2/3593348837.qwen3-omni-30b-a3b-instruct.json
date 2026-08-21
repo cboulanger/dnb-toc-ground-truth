@@ -1,0 +1,489 @@
+{
+  "generated_at": 1787011287.5980318,
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Orientierungen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Beat Wyss",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Beat Wyss"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Jenseits des Kunstwollens",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Beat Wyss"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Norbert Wibiral",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Wibiral"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Denkmal und Interesse",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Wibiral"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Otto Borst",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Otto Borst"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vom Nutzen und Nachteil der Denkmalpflege f\u00fcr das Leben",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "Otto Borst"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Horizonte",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Willibald Sauerl\u00e4nder",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Willibald Sauerl\u00e4nder"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Erweiterung des Denkmalbegriffs?",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [
+        "Willibald Sauerl\u00e4nder"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Georg M\u00f6rsch",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Georg M\u00f6rsch"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zur Differenzierbarkeit des Denkmalbegriffs",
+      "printed_page_number": "150",
+      "source_page_index": -1,
+      "authors": [
+        "Georg M\u00f6rsch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Tilman Breuer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Tilman Breuer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ensemble \u2013 Konzeption und Problematik eines Begriffes des Bayerischen Denkmalschutzgesetzes",
+      "printed_page_number": "170",
+      "source_page_index": -1,
+      "authors": [
+        "Tilman Breuer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Relationen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Reinhard Bentmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Bentmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die F\u00e4lscherzunft \u2013 Das Bild des Denkmalpflegers",
+      "printed_page_number": "203",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Bentmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Derek Linstum",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Derek Linstum"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Authentizit\u00e4t. Auffassungswandel in Vergangenheit und Gegenwart",
+      "printed_page_number": "247",
+      "source_page_index": -1,
+      "authors": [
+        "Derek Linstum"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ernst Bacher",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ernst Bacher"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kunstwerk und Denkmal \u2013 Distanz und Zusammenhang",
+      "printed_page_number": "260",
+      "source_page_index": -1,
+      "authors": [
+        "Ernst Bacher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Alfred A. Schmid",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Alfred A. Schmid"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Echtheitsfetischismus? Zur Wahrhaftigkeit des Originalen",
+      "printed_page_number": "271",
+      "source_page_index": -1,
+      "authors": [
+        "Alfred A. Schmid"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Identit\u00e4ten",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Heinrich Magirus, Elisabeth H\u00fctter",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Heinrich Magirus",
+        "Elisabeth H\u00fctter"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zum Verst\u00e4ndnis der Denkmalpflege in der DDR",
+      "printed_page_number": "292",
+      "source_page_index": -1,
+      "authors": [
+        "Heinrich Magirus",
+        "Elisabeth H\u00fctter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lars Olof Larsson",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Lars Olof Larsson"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Denkmalpflege und die Architektur des Nationalsozialismus \u2013 eine Zwickm\u00fchle",
+      "printed_page_number": "315",
+      "source_page_index": -1,
+      "authors": [
+        "Lars Olof Larsson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Konstanty Kalinowski",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Konstanty Kalinowski"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Wiederaufbau der historischen Stadtzentren in Polen",
+      "printed_page_number": "322",
+      "source_page_index": -1,
+      "authors": [
+        "Konstanty Kalinowski"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J\u00e1n Bako\u0161",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "J\u00e1n Bako\u0161"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Denkmale und Ideologien",
+      "printed_page_number": "347",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00e1n Bako\u0161"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Realit\u00e4ten",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wilfried Lipp",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Wilfried Lipp"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Was ist kulturell bedeutsam?",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Wilfried Lipp"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00dcberlegungen aus der Sicht der Denkmalpflege",
+      "printed_page_number": "362",
+      "source_page_index": -1,
+      "authors": [
+        "Wilfried Lipp"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Klaus von Beyme",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Klaus von Beyme"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Kulturdenkmal zwischen Wissenschaft und Politik",
+      "printed_page_number": "383",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus von Beyme"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nott Caviezel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Nott Caviezel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Zeit enthoben.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Nott Caviezel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00dcber das Denkmal in der zeitgen\u00f6ssischen Werbung",
+      "printed_page_number": "405",
+      "source_page_index": -1,
+      "authors": [
+        "Nott Caviezel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sch\u00e4den und Zerst\u00f6rung von Kulturdenkmalen, historischen Ensembles und St\u00e4dten durch den Krieg in Kroatien",
+      "printed_page_number": "423",
+      "source_page_index": -1,
+      "authors": [
+        "Nott Caviezel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zdravko \u017divkovi\u0107",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Zdravko \u017divkovi\u0107"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zum Wiederaufbau l\u00e4ndlicher Siedlungen Kroatiens nach den Kriegssch\u00e4den 1991/92",
+      "printed_page_number": "429",
+      "source_page_index": -1,
+      "authors": [
+        "Zdravko \u017divkovi\u0107"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u017delemir Laszlo",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "\u017delemir Laszlo"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Schutz und Restaurierung von beweglichen Kulturg\u00fctern in Kroatien",
+      "printed_page_number": "433",
+      "source_page_index": -1,
+      "authors": [
+        "\u017delemir Laszlo"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zu den Autoren",
+      "printed_page_number": "437",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Drucknachweise",
+      "printed_page_number": "441",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

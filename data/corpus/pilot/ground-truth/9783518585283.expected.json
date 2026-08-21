@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort zur Studienausgabe",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "1. Diskursethik. Notizen zu einem Begr\u00fcndungsprogramm",
+      "authors": [],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "2. Treffen Hegels Einw\u00e4nde gegen Kant auch auf die Diskursethik zu?",
+      "authors": [],
+      "printed_page_number": "116",
+      "skip": false
+    },
+    {
+      "title": "3. Diskursethik und Gesellschaftstheorie. Ein Interview mit T. Hviid Nielsen",
+      "authors": [],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "4. Erl\u00e4uterungen zur Diskursethik",
+      "authors": [],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "5. Eine genealogische Betrachtung zum kognitiven Gehalt der Moral",
+      "authors": [],
+      "printed_page_number": "302",
+      "skip": false
+    },
+    {
+      "title": "6. Vom pragmatischen, ethischen und moralischen Gebrauch der praktischen Vernunft",
+      "authors": [],
+      "printed_page_number": "360",
+      "skip": false
+    },
+    {
+      "title": "7. Richtigkeit versus Wahrheit. Zum Sinn der Sollgeltung moralischer Urteile und Normen",
+      "authors": [],
+      "printed_page_number": "382",
+      "skip": false
+    },
+    {
+      "title": "8. Zur Architektonik der Diskursdifferenzierung. Kleine Replik auf eine gro\u00dfe Auseinandersetzung",
+      "authors": [],
+      "printed_page_number": "435",
+      "skip": false
+    },
+    {
+      "title": "Textnachweise",
+      "authors": [],
+      "printed_page_number": "460",
+      "skip": true
+    },
+    {
+      "title": "Register",
+      "authors": [],
+      "printed_page_number": "461",
+      "skip": true
+    },
+    {
+      "title": "Gesamtinhaltsverzeichnis der Studienausgabe",
+      "authors": [],
+      "printed_page_number": "467",
+      "skip": true
+    },
+    {
+      "title": "I. Moraltheorie",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "II. Zur Systematik praktischer Diskurse",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

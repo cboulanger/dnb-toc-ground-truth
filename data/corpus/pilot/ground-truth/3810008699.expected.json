@@ -1,0 +1,85 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort und Einführung",
+      "authors": [
+        "Michael Salewski"
+      ],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Die verbotene Lust. 2000 Jahre christliche Sexualmoral",
+      "authors": [
+        "Georg Denzler"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Sexuelle Emanzipation und vormärzlicher Zeitgeist: Das junge Deutschland. Ein Beitrag zur emanzipativen Kultur im Vormärz.",
+      "authors": [
+        "Dieter Düding"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "\"Julian, begib dich in mein Boudoir\". Weiberherrschaft und Fin de siècle",
+      "authors": [
+        "Michael Salewski"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "Sexualaufklärung im Kaiserreich",
+      "authors": [
+        "Marina Schuster"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "\"Komm, laß uns den Geburtenrückgang pflegen!\" Die neue Sexualmoral der Weimarer Republik",
+      "authors": [
+        "Ilona Stölken"
+      ],
+      "printed_page_number": "83",
+      "skip": false
+    },
+    {
+      "title": "\"Wenn die rote Sonne abends im Meer versinkt...\" Die Sexualmoral der fünfziger Jahre",
+      "authors": [
+        "Christian de Nuys-Henkelmann"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "Das Urteil des Bundesverfassungsgerichts zu § 218 als Ausdruck herrschender Sexualmoral",
+      "authors": [
+        "Hedda Herwig"
+      ],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "Der Zwang ES nicht zu tun. Thesen zur Entwicklung bürgerlicher Sexualmoral",
+      "authors": [
+        "Heike Teckenbrock",
+        "Bernhard Vogt"
+      ],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "authors": [],
+      "printed_page_number": "175",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

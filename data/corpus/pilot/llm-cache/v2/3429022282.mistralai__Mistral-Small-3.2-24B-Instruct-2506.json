@@ -1,0 +1,200 @@
+{
+  "generated_at": 1787245317.203043,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Jenseits der City \u2013 Stadtteil-Gespr\u00e4che in K\u00f6ln",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [
+        "Erwin M\u00fcller-Ruckwitt, K\u00f6ln"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "I. Soziologische Voraussetzungen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Hermann Korte, Hamburg: Strukturwandel der St\u00e4dte",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Hermann Korte"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Michael Ebertz, Freiburg: Zur Lage der Kirchengemeinden heute: Anmerkungen aus soziologischer Sicht",
+      "printed_page_number": "23",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Ebertz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wolfgang Guth, K\u00f6ln: Weiterbildungslandschaft K\u00f6lns",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Guth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. P\u00e4dagogische Voraussetzungen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Rudolf Englert, Essen: Keine halben Sachen! \u2013 Eine bildungstheoretisch inspirierte Begr\u00fcndungsperspektive kirchlicher Erwachsenenbildung",
+      "printed_page_number": "45",
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf Englert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Karl Heinz Paulus, K\u00f6ln: Zur Entstehung und Konzeption der Stadtteil-Gespr\u00e4che",
+      "printed_page_number": "59",
+      "source_page_index": -1,
+      "authors": [
+        "Karl Heinz Paulus"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. Jenseits der City: Anmerkungen zu ausgew\u00e4hlten Stadtteil-Gespr\u00e4chen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gundula Meiners: Aufbruch zu neuen Ufern. \u201eSignale aus Vingst\u201c",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [
+        "Gundula Meiners"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gundula Meiners: Von Teletubbies bis Cyberspace. \u2013 Maus-Klick \u2013 Mediengespr\u00e4che in Dellbr\u00fcck/Holweide",
+      "printed_page_number": "79",
+      "source_page_index": -1,
+      "authors": [
+        "Gundula Meiners"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ren\u00e9 Buchholz: L'ordre du discours: Die \u201eLindenthaler Gespr\u00e4che\u201c",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "Ren\u00e9 Buchholz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ren\u00e9 Buchholz: \u00c4nst\u00f6\u00dfe \u2013 S\u00fclz-Klettenberger Literatur-Tage",
+      "printed_page_number": "93",
+      "source_page_index": -1,
+      "authors": [
+        "Ren\u00e9 Buchholz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rainer T\u00fcschenb\u00f6nner: Die \u201eBickendorfer Gespr\u00e4che\u201c - Begegnung von Theologie, Musik, Kunst, Film, Tanz und Liturgie",
+      "printed_page_number": "99",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer T\u00fcschenb\u00f6nner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rainer Will: Die \u201eLongericher Gespr\u00e4che\u201c",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Will"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rainer Will: \u201eStadtteil-Gespr\u00e4che\u201c und/oder \u201eStadtteile im Gespr\u00e4ch\u201c?",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Will"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IV. Anhang",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Statistiken",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zu den Autoren",
+      "printed_page_number": "124",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

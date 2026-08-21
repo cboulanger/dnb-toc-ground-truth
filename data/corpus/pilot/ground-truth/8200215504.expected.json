@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "title": "Foreword",
+      "authors": [
+        "Bruce Kapferer"
+      ],
+      "printed_page_number": "ix",
+      "skip": true
+    },
+    {
+      "title": "1. Introduction: On the study of ethnicity and ethnicities",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "2. Ethnicity as a comparative concept: A justification",
+      "authors": [],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "3. The cultural contexts of ethnic differences",
+      "authors": [],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "4. Ethnicity versus nationalism",
+      "authors": [],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "5. Containing conflict and transcending ethnicity?",
+      "authors": [],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "6. Linguistic diversity and the quest for national identity",
+      "authors": [],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "7. New World Indians: A comparison between Trinidad and Mauritius",
+      "authors": [],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "8. Two nationalisms",
+      "authors": [],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "9. Against pluralism: Ethnicity and modernity",
+      "authors": [],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "Notes",
+      "authors": [],
+      "printed_page_number": "191",
+      "skip": true
+    },
+    {
+      "title": "Bibliography",
+      "authors": [],
+      "printed_page_number": "199",
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "207",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

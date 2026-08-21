@@ -1,0 +1,249 @@
+{
+  "generated_at": 1787022653.9186502,
+  "entries": [
+    {
+      "title": "General Editor's Note",
+      "printed_page_number": "vii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Publisher's Note",
+      "printed_page_number": "ix",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgments",
+      "printed_page_number": "xi",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Introduction",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "David W. Madden"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "REVIEWS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\"An American in Berlin\" [Review of Crazy in Berlin]",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [
+        "Harvey Swados"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "[Review of Vital Parts]",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Brom Weber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "[Review of Regiment of Women]",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [
+        "Lore Dickstein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\"If Hammett and Chandler Were Written by Perelman\" [Review of Who Is Teddy Villanova?]",
+      "printed_page_number": "36",
+      "source_page_index": -1,
+      "authors": [
+        "Leonard Michaels"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\"Home Folks at One Another's Throats\" [Review of The Feud]",
+      "printed_page_number": "38",
+      "source_page_index": -1,
+      "authors": [
+        "Anne Tyler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\"It's All Greek: Berger Perfects the Slow Burn\" [Review of Orrie's Story]",
+      "printed_page_number": "41",
+      "source_page_index": -1,
+      "authors": [
+        "Bill Marx"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ESSAYS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\"The Schlemiel as Humanist: Thomas Berger's Carlo Reinhart\"",
+      "printed_page_number": "45",
+      "source_page_index": -1,
+      "authors": [
+        "Douglas A. Hughes"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\"Finding the Center of the Earth: Satire, History, and Myth in Little Big Man\"",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Cleary"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\"Reinhart as Hero and Clown\"",
+      "printed_page_number": "76",
+      "source_page_index": -1,
+      "authors": [
+        "Gerald Weales"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\"Berger, Burlesque, and the Yearning for Comedy\"",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Malone"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\"Crazy in Berlin as Ethnic Comedy\"",
+      "printed_page_number": "100",
+      "source_page_index": -1,
+      "authors": [
+        "Myron Simon"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\"Alien Encounter: Thomas Berger's Neighbors as a Critique of Existential Humanism\"",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [
+        "John Carlos Rowe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\"A Murderous Clarity: A Reading of Thomas Berger's Killing Time\"",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [
+        "Jon Wallace"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\"Short-Changed: Thomas Berger's Changing the Past\"",
+      "printed_page_number": "138",
+      "source_page_index": -1,
+      "authors": [
+        "Patrick O'Donnell"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "INTERVIEW",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\"An Interview with Thomas Berger\"",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [
+        "David W. Madden"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PLAY",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\"Trysting with Thalia\"",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Berger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Other People",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Berger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "250",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

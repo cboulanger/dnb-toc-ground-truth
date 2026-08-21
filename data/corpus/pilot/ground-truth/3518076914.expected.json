@@ -1,0 +1,141 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Zur Struktur des metaethischen Diskurses",
+      "authors": [
+        "G. Grewendorf",
+        "G. Meggle"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Die Rolle von Definitionen in der Ethik",
+      "authors": [
+        "G. C. Field"
+      ],
+      "printed_page_number": "32",
+      "skip": false
+    },
+    {
+      "title": "Ist Gut-sein eine Eigenschaft?",
+      "authors": [
+        "G. E. Moore"
+      ],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Beruht die Moralphilosophie auf einem Irrtum?",
+      "authors": [
+        "H. A. Prichard"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Der naturalistische Fehlschluß",
+      "authors": [
+        "W. K. Frankena"
+      ],
+      "printed_page_number": "83",
+      "skip": false
+    },
+    {
+      "title": "Der ethische Intuitionismus",
+      "authors": [
+        "P. F. Strawson"
+      ],
+      "printed_page_number": "100",
+      "skip": false
+    },
+    {
+      "title": "Die emotive Bedeutung ethischer Ausdrücke",
+      "authors": [
+        "C. L. Stevenson"
+      ],
+      "printed_page_number": "116",
+      "skip": false
+    },
+    {
+      "title": "Einstufen",
+      "authors": [
+        "J. O. Urmson"
+      ],
+      "printed_page_number": "140",
+      "skip": false
+    },
+    {
+      "title": "Ethik und Logik",
+      "authors": [
+        "E. A. Gellner"
+      ],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "Universalisierbarkeit",
+      "authors": [
+        "R. M. Hare"
+      ],
+      "printed_page_number": "198",
+      "skip": false
+    },
+    {
+      "title": "Moderne Moralphilosophie",
+      "authors": [
+        "G. E. M. Anscombe"
+      ],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "Moralische Argumentationen",
+      "authors": [
+        "Ph. Foot"
+      ],
+      "printed_page_number": "244",
+      "skip": false
+    },
+    {
+      "title": "Deskriptivismus",
+      "authors": [
+        "R. M. Hare"
+      ],
+      "printed_page_number": "260",
+      "skip": false
+    },
+    {
+      "title": "Der moralische Standpunkt",
+      "authors": [
+        "K. Baier"
+      ],
+      "printed_page_number": "285",
+      "skip": false
+    },
+    {
+      "title": "Gesellschaftliche Moral und persönliches Ideal",
+      "authors": [
+        "P. F. Strawson"
+      ],
+      "printed_page_number": "317",
+      "skip": false
+    },
+    {
+      "title": "Naturalismus",
+      "authors": [
+        "G. J. Warnock"
+      ],
+      "printed_page_number": "341",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

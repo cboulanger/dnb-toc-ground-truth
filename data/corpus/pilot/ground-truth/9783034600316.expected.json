@@ -1,0 +1,819 @@
+{
+  "entries": [
+    {
+      "title": "EINLEITUNG",
+      "authors": [
+        "Petra Schmidt",
+        "Nicola Stattmann"
+      ],
+      "printed_page_number": "8",
+      "skip": true
+    },
+    {
+      "title": "WIE SICH PAPIER ENTFALTET",
+      "authors": [
+        "Petra Schmidt",
+        "Nicola Stattmann"
+      ],
+      "printed_page_number": "8",
+      "skip": true
+    },
+    {
+      "title": "AMBE, NORIKO",
+      "authors": [
+        "AMBE, NORIKO"
+      ],
+      "printed_page_number": ".014",
+      "skip": false
+    },
+    {
+      "title": "ATELIER Oi",
+      "authors": [
+        "ATELIER Oi"
+      ],
+      "printed_page_number": ".016",
+      "skip": false
+    },
+    {
+      "title": "ATOPoS",
+      "authors": [
+        "ATOPoS"
+      ],
+      "printed_page_number": ".018",
+      "skip": false
+    },
+    {
+      "title": "BACKLUND, SANDRA",
+      "authors": [
+        "BACKLUND, SANDRA"
+      ],
+      "printed_page_number": ".020",
+      "skip": false
+    },
+    {
+      "title": "BALL-NOGUES STUDIO",
+      "authors": [
+        "BALL-NOGUES STUDIO"
+      ],
+      "printed_page_number": ".022",
+      "skip": false
+    },
+    {
+      "title": "BAN, SHIGERU",
+      "authors": [
+        "BAN, SHIGERU"
+      ],
+      "printed_page_number": ".026",
+      "skip": false
+    },
+    {
+      "title": "BAN, SHIGERU & ARTEK",
+      "authors": [
+        "BAN, SHIGERU",
+        "ARTEK"
+      ],
+      "printed_page_number": ".030",
+      "skip": false
+    },
+    {
+      "title": "BEUTLER, MICHAEL",
+      "authors": [
+        "BEUTLER, MICHAEL"
+      ],
+      "printed_page_number": ".032",
+      "skip": false
+    },
+    {
+      "title": "BHÖMER, MARLOES TEN",
+      "authors": [
+        "BHÖMER, MARLOES TEN"
+      ],
+      "printed_page_number": ".034",
+      "skip": false
+    },
+    {
+      "title": "BOSSE, CHRIS",
+      "authors": [
+        "BOSSE, CHRIS"
+      ],
+      "printed_page_number": ".036",
+      "skip": false
+    },
+    {
+      "title": "BRADLEY, ZOE",
+      "authors": [
+        "BRADLEY, ZOE"
+      ],
+      "printed_page_number": ".038",
+      "skip": false
+    },
+    {
+      "title": "BRUKETA & ŽINIĆ",
+      "authors": [
+        "BRUKETA",
+        "ŽINIĆ"
+      ],
+      "printed_page_number": ".040",
+      "skip": false
+    },
+    {
+      "title": "BUETTI, DANIELE",
+      "authors": [
+        "BUETTI, DANIELE"
+      ],
+      "printed_page_number": ".041",
+      "skip": false
+    },
+    {
+      "title": "CALLESEN, PETER",
+      "authors": [
+        "CALLESEN, PETER"
+      ],
+      "printed_page_number": ".042",
+      "skip": false
+    },
+    {
+      "title": "CHALAYAN, HUSSEIN",
+      "authors": [
+        "CHALAYAN, HUSSEIN"
+      ],
+      "printed_page_number": ".044",
+      "skip": false
+    },
+    {
+      "title": "COTTRELL & VERMEULEN",
+      "authors": [
+        "COTTRELL",
+        "VERMEULEN"
+      ],
+      "printed_page_number": ".046",
+      "skip": false
+    },
+    {
+      "title": "CULLIN, MIA",
+      "authors": [
+        "CULLIN, MIA"
+      ],
+      "printed_page_number": ".048",
+      "skip": false
+    },
+    {
+      "title": "DARCH STUDIO",
+      "authors": [
+        "DARCH STUDIO"
+      ],
+      "printed_page_number": ".049",
+      "skip": false
+    },
+    {
+      "title": "DAVIDSON, CHARLIE",
+      "authors": [
+        "DAVIDSON, CHARLIE"
+      ],
+      "printed_page_number": ".050",
+      "skip": false
+    },
+    {
+      "title": "DEMAND, THOMAS",
+      "authors": [
+        "DEMAND, THOMAS"
+      ],
+      "printed_page_number": ".052",
+      "skip": false
+    },
+    {
+      "title": "DIEZ, STEFAN",
+      "authors": [
+        "DIEZ, STEFAN"
+      ],
+      "printed_page_number": ".058",
+      "skip": false
+    },
+    {
+      "title": "ELIASSON, OLAFUR",
+      "authors": [
+        "ELIASSON, OLAFUR"
+      ],
+      "printed_page_number": ".060",
+      "skip": false
+    },
+    {
+      "title": "ESLAVA, LUIS & RAMOS, DIEGO",
+      "authors": [
+        "ESLAVA, LUIS",
+        "RAMOS, DIEGO"
+      ],
+      "printed_page_number": ".062",
+      "skip": false
+    },
+    {
+      "title": "FESER, CHRISTIANE",
+      "authors": [
+        "FESER, CHRISTIANE"
+      ],
+      "printed_page_number": ".064",
+      "skip": false
+    },
+    {
+      "title": "FRITZ, OLIVER & PAWLOFSKY, TOM",
+      "authors": [
+        "FRITZ, OLIVER",
+        "PAWLOFSKY, TOM"
+      ],
+      "printed_page_number": ".068",
+      "skip": false
+    },
+    {
+      "title": "FUKASAWA, NAOTO",
+      "authors": [
+        "FUKASAWA, NAOTO"
+      ],
+      "printed_page_number": ".070",
+      "skip": false
+    },
+    {
+      "title": "GAO, YING",
+      "authors": [
+        "GAO, YING"
+      ],
+      "printed_page_number": ".072",
+      "skip": false
+    },
+    {
+      "title": "GEHRY, FRANK",
+      "authors": [
+        "GEHRY, FRANK"
+      ],
+      "printed_page_number": ".074",
+      "skip": false
+    },
+    {
+      "title": "GRCIC, KONSTANTIN",
+      "authors": [
+        "GRCIC, KONSTANTIN"
+      ],
+      "printed_page_number": ".076",
+      "skip": false
+    },
+    {
+      "title": "GWON, OSANG",
+      "authors": [
+        "GWON, OSANG"
+      ],
+      "printed_page_number": ".080",
+      "skip": false
+    },
+    {
+      "title": "HAPTIC - AWAKENING THE SENSES",
+      "authors": [
+        "HAPTIC"
+      ],
+      "printed_page_number": ".084",
+      "skip": false
+    },
+    {
+      "title": "HASSENFELD, KIRSTEN",
+      "authors": [
+        "HASSENFELD, KIRSTEN"
+      ],
+      "printed_page_number": ".088",
+      "skip": false
+    },
+    {
+      "title": "HAUSSWOLFF, ANNIKA VON",
+      "authors": [
+        "HAUSSWOLFF, ANNIKA VON"
+      ],
+      "printed_page_number": ".090",
+      "skip": false
+    },
+    {
+      "title": "HOOF, JAN VAN",
+      "authors": [
+        "HOOF, JAN VAN"
+      ],
+      "printed_page_number": ".092",
+      "skip": false
+    },
+    {
+      "title": "HUTTEN, RICHARD",
+      "authors": [
+        "HUTTEN, RICHARD"
+      ],
+      "printed_page_number": ".094",
+      "skip": false
+    },
+    {
+      "title": "KAISIN, CHARLES",
+      "authors": [
+        "KAISIN, CHARLES"
+      ],
+      "printed_page_number": ".095",
+      "skip": false
+    },
+    {
+      "title": "KALLIALA, MARTTI & RUSKEEPÄÄ, ESA",
+      "authors": [
+        "KALLIALA, MARTTI",
+        "RUSKEEPÄÄ, ESA"
+      ],
+      "printed_page_number": ".096",
+      "skip": false
+    },
+    {
+      "title": "KOCKS, ANDREAS",
+      "authors": [
+        "KOCKS, ANDREAS"
+      ],
+      "printed_page_number": ".098",
+      "skip": false
+    },
+    {
+      "title": "KYOUKI DESIGN",
+      "authors": [
+        "KYOUKI DESIGN"
+      ],
+      "printed_page_number": ".102",
+      "skip": false
+    },
+    {
+      "title": "LANG, ROBERT J.",
+      "authors": [
+        "LANG, ROBERT J."
+      ],
+      "printed_page_number": ".103",
+      "skip": false
+    },
+    {
+      "title": "LIBERTINY, TOMAŠ GABZDIL",
+      "authors": [
+        "LIBERTINY, TOMAŠ GABZDIL"
+      ],
+      "printed_page_number": ".104",
+      "skip": false
+    },
+    {
+      "title": "LIM, CJ / STUDIO 8 ARCHITECTS",
+      "authors": [
+        "LIM, CJ",
+        "STUDIO 8 ARCHITECTS"
+      ],
+      "printed_page_number": ".106",
+      "skip": false
+    },
+    {
+      "title": "MAISON MARTIN MARGIELA",
+      "authors": [
+        "MAISON MARTIN MARGIELA"
+      ],
+      "printed_page_number": ".107",
+      "skip": false
+    },
+    {
+      "title": "MARCH STUDIO",
+      "authors": [
+        "MARCH STUDIO"
+      ],
+      "printed_page_number": ".108",
+      "skip": false
+    },
+    {
+      "title": "MEIJER, MIEKE",
+      "authors": [
+        "MEIJER, MIEKE"
+      ],
+      "printed_page_number": ".110",
+      "skip": false
+    },
+    {
+      "title": "MIYAKE DESIGN STUDIO",
+      "authors": [
+        "MIYAKE DESIGN STUDIO"
+      ],
+      "printed_page_number": ".112",
+      "skip": false
+    },
+    {
+      "title": "MIYAKE DESIGN STUDIO & TOMLINSON, MARCUS",
+      "authors": [
+        "MIYAKE DESIGN STUDIO",
+        "TOMLINSON, MARCUS"
+      ],
+      "printed_page_number": ".114",
+      "skip": false
+    },
+    {
+      "title": "MOLO DESIGN",
+      "authors": [
+        "MOLO DESIGN"
+      ],
+      "printed_page_number": ".116",
+      "skip": false
+    },
+    {
+      "title": "MURKUDIS, KOSTAS & NICOLAI, CARSTEN",
+      "authors": [
+        "MURKUDIS, KOSTAS",
+        "NICOLAI, CARSTEN"
+      ],
+      "printed_page_number": ".117",
+      "skip": false
+    },
+    {
+      "title": "NAKAMURA, RYUJI",
+      "authors": [
+        "NAKAMURA, RYUJI"
+      ],
+      "printed_page_number": ".118",
+      "skip": false
+    },
+    {
+      "title": "NAKAO, JUM",
+      "authors": [
+        "NAKAO, JUM"
+      ],
+      "printed_page_number": ".120",
+      "skip": false
+    },
+    {
+      "title": "NENDO",
+      "authors": [
+        "NENDO"
+      ],
+      "printed_page_number": ".124",
+      "skip": false
+    },
+    {
+      "title": "NICOLA FROM BERN",
+      "authors": [
+        "NICOLA FROM BERN"
+      ],
+      "printed_page_number": ".126",
+      "skip": false
+    },
+    {
+      "title": "PRAET, JENS",
+      "authors": [
+        "PRAET, JENS"
+      ],
+      "printed_page_number": ".128",
+      "skip": false
+    },
+    {
+      "title": "PRIESTMAN GOODE",
+      "authors": [
+        "PRIESTMAN GOODE"
+      ],
+      "printed_page_number": ".129",
+      "skip": false
+    },
+    {
+      "title": "RASMUSSEN, HEATHER",
+      "authors": [
+        "RASMUSSEN, HEATHER"
+      ],
+      "printed_page_number": ".130",
+      "skip": false
+    },
+    {
+      "title": "RAW-EDGES",
+      "authors": [
+        "RAW-EDGES"
+      ],
+      "printed_page_number": ".132",
+      "skip": false
+    },
+    {
+      "title": "REHBERGER, TOBIAS",
+      "authors": [
+        "REHBERGER, TOBIAS"
+      ],
+      "printed_page_number": ".134",
+      "skip": false
+    },
+    {
+      "title": "RESCH, RON",
+      "authors": [
+        "RESCH, RON"
+      ],
+      "printed_page_number": ".136",
+      "skip": false
+    },
+    {
+      "title": "ROGAD ARCHITECTEN",
+      "authors": [
+        "ROGAD ARCHITECTEN"
+      ],
+      "printed_page_number": ".140",
+      "skip": false
+    },
+    {
+      "title": "ROUIT, MARINE",
+      "authors": [
+        "ROUIT, MARINE"
+      ],
+      "printed_page_number": ".141",
+      "skip": false
+    },
+    {
+      "title": "SACK, ADRIENNE",
+      "authors": [
+        "SACK, ADRIENNE"
+      ],
+      "printed_page_number": ".142",
+      "skip": false
+    },
+    {
+      "title": "SEMPÉ, INGA",
+      "authors": [
+        "SEMPÉ, INGA"
+      ],
+      "printed_page_number": ".144",
+      "skip": false
+    },
+    {
+      "title": "SHAPIRO, CYGALLE",
+      "authors": [
+        "SHAPIRO, CYGALLE"
+      ],
+      "printed_page_number": ".146",
+      "skip": false
+    },
+    {
+      "title": "SOUNDS OF SILENCE",
+      "authors": [
+        "SOUNDS OF SILENCE"
+      ],
+      "printed_page_number": ".148",
+      "skip": false
+    },
+    {
+      "title": "STADELMANN, MARIO",
+      "authors": [
+        "STADELMANN, MARIO"
+      ],
+      "printed_page_number": ".150",
+      "skip": false
+    },
+    {
+      "title": "STEVERLYNCK, DIANE",
+      "authors": [
+        "STEVERLYNCK, DIANE"
+      ],
+      "printed_page_number": ".151",
+      "skip": false
+    },
+    {
+      "title": "STÖCKEL, TOMMY",
+      "authors": [
+        "STÖCKEL, TOMMY"
+      ],
+      "printed_page_number": ".152",
+      "skip": false
+    },
+    {
+      "title": "SUZUKI, SHINJI & TODA, TAKUO",
+      "authors": [
+        "SUZUKI, SHINJI",
+        "TODA, TAKUO"
+      ],
+      "printed_page_number": ".154",
+      "skip": false
+    },
+    {
+      "title": "SWEENEY, RICHARD",
+      "authors": [
+        "SWEENEY, RICHARD"
+      ],
+      "printed_page_number": ".156",
+      "skip": false
+    },
+    {
+      "title": "TENT",
+      "authors": [
+        "TENT"
+      ],
+      "printed_page_number": ".160",
+      "skip": false
+    },
+    {
+      "title": "VOERMAN, ROB",
+      "authors": [
+        "VOERMAN, ROB"
+      ],
+      "printed_page_number": ".162",
+      "skip": false
+    },
+    {
+      "title": "WORK AC",
+      "authors": [
+        "WORK AC"
+      ],
+      "printed_page_number": ".164",
+      "skip": false
+    },
+    {
+      "title": "YOSHIOKA, TOKUJIN",
+      "authors": [
+        "YOSHIOKA, TOKUJIN"
+      ],
+      "printed_page_number": ".166",
+      "skip": false
+    },
+    {
+      "title": "YOUNG, MICHAEL",
+      "authors": [
+        "YOUNG, MICHAEL"
+      ],
+      "printed_page_number": ".168",
+      "skip": false
+    },
+    {
+      "title": "INTELLIGENTER LEICHTBAU DURCH INNOVATIVE PAPIERE UND HERSTELLUNGSVERFAHREN",
+      "authors": [
+        "Nicola Stattmann",
+        "Mareike Gast"
+      ],
+      "printed_page_number": "170",
+      "skip": true
+    },
+    {
+      "title": "HERSTELLUNG",
+      "authors": [],
+      "printed_page_number": "176",
+      "skip": false
+    },
+    {
+      "title": "MODIFIZIERT",
+      "authors": [
+        "Silikonisiertes Kraftpapier/Nachleuchtendes Papier/Transparentpapier/Haptic Paper Cup/Wasserfestes Papier/Gefaltete Papierbecher/Bambus-Papier/Biopolymere und Papier/Reißfestes Papier"
+      ],
+      "printed_page_number": ".180",
+      "skip": false
+    },
+    {
+      "title": "OUTDOOR-PAPIER",
+      "authors": [
+        "Atmungsaktives Papier/Wetterfestes Papier/Konstruktive Faltungen"
+      ],
+      "printed_page_number": ".186",
+      "skip": false
+    },
+    {
+      "title": "FORMTEILE AUS PAPIERSCHICHTEN",
+      "authors": [
+        "Vulkanisiertes Papier/Laminated Object Manufacturing (LOM)/Transparente Leichtbauplatten aus Zellulose/Gepresste Zelluloseplatten/Papierfaser-Platte"
+      ],
+      "printed_page_number": ".188",
+      "skip": false
+    },
+    {
+      "title": "CHEMISCH AKTIV",
+      "authors": [
+        "Photokatalytisches, luftreinigendes Papier/Antibakterielles Papier/Papier mit thermochromen Fasern/Indikatorpapiere"
+      ],
+      "printed_page_number": ".192",
+      "skip": false
+    },
+    {
+      "title": "GESINTERT",
+      "authors": [
+        "Keramikpapier/Keramikpapier-Experimente/Laminated Object Manufacturing (LOM)/für Keramik-Prototypen/Silber-Origami"
+      ],
+      "printed_page_number": ".194",
+      "skip": false
+    },
+    {
+      "title": "FEUERFEST UND REINIGEND",
+      "authors": [
+        "Glasfaserpapier/Feuerfestes Keramikfaserpapier/Haptic Humidifier/Technisches Filterpapier"
+      ],
+      "printed_page_number": ".198",
+      "skip": false
+    },
+    {
+      "title": "ELEKTRONISCH",
+      "authors": [
+        "Karbonfaserpapier/Polytronik/Isolierpapier/Pulp-Based Computing/Bucky Paper"
+      ],
+      "printed_page_number": ".200",
+      "skip": false
+    },
+    {
+      "title": "TEXTILIEN",
+      "authors": [
+        "Papiersidetextil/Papierwandteppich/Papierteppich/Garn aus Altpapier/Wasserfeste Papierschnüre/Papiervliesartiges/Faserfunktionstextil (Tyvek)/Papiergewebe/Gehäkelte/gewebte Papiertextilien"
+      ],
+      "printed_page_number": ".206",
+      "skip": false
+    },
+    {
+      "title": "KOMPOSITE UND LAMINATE",
+      "authors": [
+        "Holzfurnier-Vlies/Ölkraftpapier/Reißfestes und laminiertes Washi-Papier/Algenscale"
+      ],
+      "printed_page_number": ".214",
+      "skip": false
+    },
+    {
+      "title": "TIEFGEZOGEN",
+      "authors": [
+        "Wölbstrukturiertes Papier/Tiefgezogenes Papier"
+      ],
+      "printed_page_number": ".216",
+      "skip": false
+    },
+    {
+      "title": "WABENSTRUKTUREN",
+      "authors": [
+        "Wabenpapier/Wabenplatten und 3D-Wabenstrukturen/Produkte aus Wabenpapier"
+      ],
+      "printed_page_number": ".218",
+      "skip": false
+    },
+    {
+      "title": "WABEN-FORMTEILE",
+      "authors": [
+        "Massivholz-Wabenplatte/Sinus-Wabenplatten für Formteile/Wellen-Wabenplatte mit wechselnden Wellengrößen"
+      ],
+      "printed_page_number": ".222",
+      "skip": false
+    },
+    {
+      "title": "CNC-WABEN",
+      "authors": [
+        "CNC-Waben-Leuchte"
+      ],
+      "printed_page_number": ".224",
+      "skip": false
+    },
+    {
+      "title": "FORMGESCHÄUMT",
+      "authors": [
+        "Papierschaum/Papierschaum aus Altpapier/Feuerfestes Papier und Pappe durch Kristalltechnologie"
+      ],
+      "printed_page_number": ".226",
+      "skip": false
+    },
+    {
+      "title": "3D-GESCHÖPFT",
+      "authors": [
+        "Faserformteile/Zuckerpapier/Wellpappe mit gegossenen Wellen"
+      ],
+      "printed_page_number": ".230",
+      "skip": false
+    },
+    {
+      "title": "KONSTRUKTIONSELEMENTE",
+      "authors": [
+        "Konstruktionsprofil aus Etikettenabfällen/Profile aus Pappe/Konstruktionselement für den Cardboard Dome"
+      ],
+      "printed_page_number": ".234",
+      "skip": false
+    },
+    {
+      "title": "ORIGAMI FÜR DIE SERIE",
+      "authors": [
+        "Plisseepapier/Tessellation Origami/Knotologie und Schnappologie/Modular-Origami"
+      ],
+      "printed_page_number": ".236",
+      "skip": false
+    },
+    {
+      "title": "COMPUTER-ORIGAMI",
+      "authors": [
+        "Origami-Roboter/Runde CAD/CAM-Faltungen/Computational Origami"
+      ],
+      "printed_page_number": ".240",
+      "skip": false
+    },
+    {
+      "title": "GELASERT",
+      "authors": [
+        "Lasern mit Kupferschablone/CNC-gesteuertes Lasern von Papier/Your House"
+      ],
+      "printed_page_number": ".242",
+      "skip": false
+    },
+    {
+      "title": "KURZDARSTELLUNGEN / BIOGRAFIEN",
+      "authors": [],
+      "printed_page_number": "245",
+      "skip": true
+    },
+    {
+      "title": "ÜBER DIE AUTORINNEN / DANK",
+      "authors": [],
+      "printed_page_number": "252",
+      "skip": true
+    },
+    {
+      "title": "BILDNACHWEIS",
+      "authors": [],
+      "printed_page_number": "254",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

@@ -1,0 +1,192 @@
+{
+  "entries": [
+    {
+      "title": "Auftakt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Grußwort",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "13",
+      "skip": true
+    },
+    {
+      "title": "Ernüchterung oder eine Einleitung",
+      "authors": ["Kai Kaspar", "Lars Gräßer", "Aycha Riffi"],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Das Phänomen „Online Hate Speech“",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Der „Hass“ der vielen Formen",
+      "authors": ["Julia Fleischhack"],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "Die Grenzen des Dialogs. Hate Speech und politische Bildung",
+      "authors": ["Cornelius Strobel"],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "Das Phänomen der „Online Hate Speech“ aus juristischer Perspektive",
+      "authors": ["Tobias Brings-Wiesen"],
+      "printed_page_number": "35",
+      "skip": false
+    },
+    {
+      "title": "Die Akteur*innen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Online Hate Speech: Definition und Verbreitungsmotivationen aus psychologischer Perspektive",
+      "authors": ["Josephine B. Schmitt"],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "Opferperspektiven, Strategien für die Verarbeitung von Hass im Netz und die Medien",
+      "authors": ["Hildegard Stienen"],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Hassreden im Internet – Ein besonderes Phänomen computervermittelter Kommunikation?",
+      "authors": ["Kai Kaspar"],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "Unmenschlicher Hass: Die Rolle von Empfehlungsalgorithmen und Social Bots für die Verbreitung von Cyberhate",
+      "authors": ["Lena Frischlich", "Svenja Boberg", "Thorsten Quandt"],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Die wütenden Bürger*innen",
+      "authors": ["Anna-Mareike Krause"],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "Online Hate Speech in unterschiedlichen Bereichen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Organisierter Hass im Internet? Fallbeispiel MH17 Recherche",
+      "authors": ["Marta Orosz"],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "Online Hate Speech aus Sicht der „Wirtschaft“",
+      "authors": ["Jörg Hoewner"],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "Hate Speech in Online Games",
+      "authors": ["Johannes Breuer"],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "„gogo let’s rape them“ – Sexistischer Sprachgebrauch in Online Gaming Communities",
+      "authors": ["Maike Groen"],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "Contenance!",
+      "authors": ["Franziska von Kempis"],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "Mögliche Umgangsformen und Gegenstrategien",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Das Projekt BRICkS: Auswertung von Hate Speech-Fallbeispielen",
+      "authors": ["Marie-Joelle Hofer von Lobenstein", "Annette Schneider"],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "Gemeinsam gegen Hate Speech – Workshops mit Jugendlichen",
+      "authors": ["Johannes Wentzel"],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Wir müssen die rechte Gehirnhälfte erreichen",
+      "authors": ["Markus Gerstmann", "Lea Güse", "Lisa Hempel"],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "Mehr-Ebenen-Strategien, Lernkurven und (andere) Verantwortlichkeiten",
+      "authors": ["Martin Drechsler"],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "Die Initiative „Netzkodex“",
+      "authors": ["Tobias Schmid", "Mechthild Appelhoff"],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Abschließende Worte",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Aufmunterung oder ein Fazit",
+      "authors": ["Kai Kaspar", "Lars Gräßer", "Aycha Riffi"],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "Kampagnen und Aktivitäten gegen Online Hate Speech",
+      "authors": [],
+      "printed_page_number": "171",
+      "skip": true
+    },
+    {
+      "title": "Kurzvorstellung der Autor*innen und Interviewpartner*innen",
+      "authors": [],
+      "printed_page_number": "181",
+      "skip": true
+    },
+    {
+      "title": "Schriftenreihe",
+      "authors": [],
+      "printed_page_number": "189",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

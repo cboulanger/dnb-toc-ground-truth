@@ -1,0 +1,136 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "v",
+      "skip": true
+    },
+    {
+      "title": "Wortbildung im Spannungsfeld zwischen Sprachsystem und Sprachgebrauch. Zur Einführung in diesen Band",
+      "authors": [
+        "Hilke Elsen",
+        "Sascha Michel"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "I. Theoretische Grundlagen: Perspektiven der Wortbildung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Wortbildung im Perspektivwechsel",
+      "authors": [
+        "Hans Wellmann",
+        "Jana Valdrová"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Grammatische und sprachpsychologische Aspekte der Wortbildung",
+      "authors": [
+        "Wolfgang Motsch"
+      ],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "II. Praktische Analysen von Wortbildungsarten und -produkten",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Kontamination",
+      "authors": [
+        "Peter O. Müller",
+        "Cornelia Friedrich"
+      ],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "Neue Bildungen, der Gemeinschaft vorgeschlagen",
+      "authors": [
+        "Hans Jürgen Heringer"
+      ],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "Das Kurzwort zwischen 'Langue' und 'Parole' – Analysen zum Postulat der Synonymie zwischen Kurzwort und Vollform",
+      "authors": [
+        "Sascha Michel"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Wortbildungssprachenadäquate Informationsverdichtungsstrategien Wortbildung und Syntax in der Nominalphrase",
+      "authors": [
+        "Ludwig M. Eichinger"
+      ],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "Charakteristika von deutschen Nominalkomposita in der protomorphologischen Phase des Erstspracherwerbs",
+      "authors": [
+        "Laura E. Lettner",
+        "Katharina Korecky-Kröll",
+        "Wolfgang U. Dressler"
+      ],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "III. Anwendungsfelder der Wortbildung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Das besondere Funktionsspektrum der Wort(neu)bildung in der phantastischen Kinderliteratur",
+      "authors": [
+        "Hilke Elsen"
+      ],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "Von Doppel- und Normaltuben und dem Anti-Enzym BX Wortbildung in der Hörfunkwerbung",
+      "authors": [
+        "Albrecht Greule",
+        "Sandra Reimann"
+      ],
+      "printed_page_number": "225",
+      "skip": false
+    },
+    {
+      "title": "Nachwort und Ausblick",
+      "authors": [
+        "Johannes Erben"
+      ],
+      "printed_page_number": "265",
+      "skip": false
+    },
+    {
+      "title": "Sachregister",
+      "authors": [],
+      "printed_page_number": "271",
+      "skip": true
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "authors": [],
+      "printed_page_number": "275",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

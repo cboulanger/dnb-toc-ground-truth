@@ -1,0 +1,144 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "A",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Digitalisierte Botschaft? Kirche und Kommunikation in der „Informationsgesellschaft“",
+      "authors": [
+        "Claus Eurich"
+      ],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "Kirche und Verkündigung im Computerzeitalter",
+      "authors": [
+        "Wolfgang R. Petkewitz"
+      ],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "B",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Das Wort und die Wörter. Evangelische Publizistik, ihr Mandat und ihre Probleme",
+      "authors": [
+        "Hans Norbert Janowski"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Das Wort und die Wahrheiten. Protestantismus im Zeitalter der Bilder",
+      "authors": [
+        "Siegfried von Kortzfleisch"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "Reklame für Bruder Jesus",
+      "authors": [
+        "Curt Hondrich"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "Fernsehen als Religion? Überlegungen zur Beheimatung im elektronischen Medium",
+      "authors": [
+        "Wolf-Rüdiger Schmidt"
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "Von der Kirchenbank zum Fernsehsessel. Haben die christlichen Mythen ausgedient?",
+      "authors": [
+        "Johanna Haberer"
+      ],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "C",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Aufgaben der Kirche in einer Medienkultur",
+      "authors": [
+        "Henning Schroer"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Auf der Suche nach der verlorenen Sinnlichkeit",
+      "authors": [
+        "Fulbert Steffensky"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "Hören und Sehen. Zur ästhetischen Praxis der Kirche im elektronischen Zeitalter",
+      "authors": [
+        "Klaus Röhring"
+      ],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "D",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Distanziert und engagiert. Der Journalist als Anwalt der „Dritten Welt“?",
+      "authors": [
+        "Peter Tachau"
+      ],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "Wächter, Wirbler, Weltbildstifter. Zur Rolle und Funktion von Journalisten in der Informationsgesellschaft",
+      "authors": [
+        "Imme de Haen"
+      ],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "authors": [],
+      "printed_page_number": "227",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

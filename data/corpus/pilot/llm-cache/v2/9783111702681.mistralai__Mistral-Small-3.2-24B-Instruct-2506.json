@@ -1,0 +1,446 @@
+{
+  "generated_at": 1787260006.467754,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Preface",
+      "printed_page_number": "VII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Laura Bigoni",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Laura Bigoni"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\"Like a Menstrual Cloth\" (Esth C 27 LXX): Notes on a Simile of Defilement in the Greek Bible",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Laura Bigoni"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Daniela Scialabba",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Daniela Scialabba"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "How Does Esther Cope with the Danger of Destruction? Observations on Esther's Prayer in Addition C of the Septuagint Text",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "Daniela Scialabba"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Giulia Leonardi",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Giulia Leonardi"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u039a\u1f00\u1f50 \u03bf\u1f50\u03ba \u1f14\u03c3\u03c4\u03b9\u03bd \u1f41 \u0392\u03bf\u03b7\u03b8\u1f78\u03c2 \u1f21\u03bc\u1ff6\u03bd (\"There Is No One to Help Us Now\" Jdt 7:25). Responding to Catastrophe in the Book of Judith",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Giulia Leonardi"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Marcin Chrostowski",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Marcin Chrostowski"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Strategies for Responding to Catastrophe in the Book of Judith (Jdt 4:9\u201315)",
+      "printed_page_number": "49",
+      "source_page_index": -1,
+      "authors": [
+        "Marcin Chrostowski"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Renate Egger-Wenzel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Renate Egger-Wenzel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The I and the We: Reactions to Catastrophe in the Book of Tobit",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [
+        "Renate Egger-Wenzel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beate Ego",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Beate Ego"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "From Catastrophe to Salvation: The Tobit Story as a Resilience Narrative",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "Beate Ego"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Francis M. Macatangay",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Francis M. Macatangay"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Healing and Marriage as \u201cRadical Hope\u201d against Exile in the Book of Tobit",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [
+        "Francis M. Macatangay"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Barbara Schmitz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Barbara Schmitz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Social Cohesion and the Kairos of the Katastrophe: Mattathias's Speech in 1 Maccabees 2:49\u201370",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [
+        "Barbara Schmitz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pancratius C. Beentjes",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Pancratius C. Beentjes"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u039a\u03b1\u03c4\u03b1\u03c3\u03c4\u03c1\u03bf\u03c6\u03ae and \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03c1\u03ad\u03c6\u03b5\u03b9\u03bd in Greek Sirach",
+      "printed_page_number": "135",
+      "source_page_index": -1,
+      "authors": [
+        "Pancratius C. Beentjes"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jeremy Corley",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Jeremy Corley"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Calamity and Divine Visitation in the Book of Sirach",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [
+        "Jeremy Corley"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Friedrich V. Reiterer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Friedrich V. Reiterer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The Self-Inflicted Disaster and the Way Out: A Dramatic Example in the Book of Wisdom",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [
+        "Friedrich V. Reiterer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "N\u00faria Calduch-Benages",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "N\u00faria Calduch-Benages"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Failing to Find Wisdom (Bar 3:16\u201328)",
+      "printed_page_number": "193",
+      "source_page_index": -1,
+      "authors": [
+        "N\u00faria Calduch-Benages"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dionisio Candido",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Dionisio Candido"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vocabulary and Metaphors of Sorrow and Hope in Psalms of Solomon 8",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [
+        "Dionisio Candido"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eberhard Bons",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Eberhard Bons"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Crime, Misfortune or Fate? The Destruction of the Second Temple as Depicted by Josephus",
+      "printed_page_number": "229",
+      "source_page_index": -1,
+      "authors": [
+        "Eberhard Bons"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Adriaan Lamprecht",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Adriaan Lamprecht"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Strategies for Responding to Emotional Suffering amidst the Catastrophe of Death in the Testament of Job",
+      "printed_page_number": "241",
+      "source_page_index": -1,
+      "authors": [
+        "Adriaan Lamprecht"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Martti Nissinen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Martti Nissinen"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Homosexualizing Sodom and the Care for Masculinity",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [
+        "Martti Nissinen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stefan Beyerle",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Beyerle"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The Literary Construction of Catastrophes in Ancient Jewish Apocalypses",
+      "printed_page_number": "279",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Beyerle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ignacio Pizarro",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ignacio Pizarro"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\"When Will You Gather Them Together?\" The Gathering Motif in Ezekiel Traditions during the Second Temple Period",
+      "printed_page_number": "295",
+      "source_page_index": -1,
+      "authors": [
+        "Ignacio Pizarro"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christoph Hammann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Christoph Hammann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Catastrophe and Salvation in Luke 21: Layering the Sources and Traditions of the Lukan \u201cEschatological Discourse\u201d \u2013 Mark, LXX, Q",
+      "printed_page_number": "321",
+      "source_page_index": -1,
+      "authors": [
+        "Christoph Hammann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stefan C. Reif",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Stefan C. Reif"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "How Early Rabbinic Liturgy Responded to Catastrophe: A Jewish Desire to Return to Normality",
+      "printed_page_number": "341",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan C. Reif"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "List of Contributors",
+      "printed_page_number": "361",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Index of Subjects",
+      "printed_page_number": "363",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Index of Modern Authors",
+      "printed_page_number": "367",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Index of Sources",
+      "printed_page_number": "373",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

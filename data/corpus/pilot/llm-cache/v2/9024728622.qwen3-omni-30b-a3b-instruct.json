@@ -1,0 +1,517 @@
+{
+  "generated_at": 1787015154.0734642,
+  "entries": [
+    {
+      "title": "TABLE OF CONTENTS",
+      "printed_page_number": "IX",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "JEROME E. LEAVITT",
+      "printed_page_number": "v",
+      "source_page_index": -1,
+      "authors": [
+        "Jerome E. Leavitt"
+      ],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Child Abuse and Neglect: Preface",
+      "printed_page_number": "v",
+      "source_page_index": -1,
+      "authors": [
+        "Jerome E. Leavitt"
+      ],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "printed_page_number": "VII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "ROY McMURTRY",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Roy McMurtry"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Child Abuse and The Criminal Justice System",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Roy McMurtry"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "LLOYD W. PERRY",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Lloyd W. Perry"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Independent Representation for Children in Neglect and Child Abuse Proceedings",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Lloyd W. Perry"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "BARBARA A. CHISHOLM",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [
+        "Barbara A. Chisholm"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Interaction Between The State, The Child and The Family",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [
+        "Barbara A. Chisholm"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ROBERT P. BATES",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [
+        "Robert P. Bates"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hospital Based Child Abuse Teams",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [
+        "Robert P. Bates"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MICHAEL THOMPSON",
+      "printed_page_number": "49",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Thompson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Organizing a Human Services Network for Primary and Secondary Prevention of the Emotional and Physical Neglect and Abuse of Children",
+      "printed_page_number": "49",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Thompson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ERNESTO CAFFO",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "Ernesto Caffo"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The Importance of Early Intervention for the Prevention of Child Abuse: The Italian Experience",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "Ernesto Caffo"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HELEN AGATHONOS and NELLA STATHAKOPOULOU",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [
+        "Helen Agathonos",
+        "Nella Stathakopoulou"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Life Events and Child Abuse: A Controlled Study",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [
+        "Helen Agathonos",
+        "Nella Stathakopoulou"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MARGARET A. LYNCH and JACQUIE ROBERTS",
+      "printed_page_number": "93",
+      "source_page_index": -1,
+      "authors": [
+        "Margaret A. Lynch",
+        "Jacquie Roberts"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "A Follow-up Study of Abused Children and Their Families",
+      "printed_page_number": "93",
+      "source_page_index": -1,
+      "authors": [
+        "Margaret A. Lynch",
+        "Jacquie Roberts"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "L. F. LOWENSTEIN",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "L. F. Lowenstein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "A Therapeutic Community: A Way of Treating the Results of Child Abuse",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "L. F. Lowenstein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ELISE RIVLIN and FRANK N. BAMFORD",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [
+        "Elise Rivlin",
+        "Frank N. Bamford"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The Management of a Young Child Following Sexual Abuse",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [
+        "Elise Rivlin",
+        "Frank N. Bamford"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "G\u00dcLSEREN GUN\u00c7E and ESIN KONAN\u00c7-ONUR",
+      "printed_page_number": "135",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fclseren G\u00fcn\u00e7e",
+        "Esin Konan\u00e7-Onur"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Child Abuse in Turkey",
+      "printed_page_number": "135",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fclseren G\u00fcn\u00e7e",
+        "Esin Konan\u00e7-Onur"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "LARRY BROWN",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [
+        "Larry Brown"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Status of Child Protective Services in The United States: An Analysis of Issues and Practice",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [
+        "Larry Brown"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ANNE H. COHN",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [
+        "Anne H. Cohn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The Prevention of Child Abuse: What Do We Know About What Works",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [
+        "Anne H. Cohn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ANNE H. COHN",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [
+        "Anne H. Cohn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The Treatment of Child Abuse: What Do We Know About What Works",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [
+        "Anne H. Cohn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JAMES P. SCHOLZ and JOHN H. MEIER",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [
+        "James P. Scholz",
+        "John H. Meier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Competency of Abused Children in a Residential Treatment Program",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [
+        "James P. Scholz",
+        "John H. Meier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "WILLIAM P. NELSON and JOHN H. MEIER",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [
+        "William P. Nelson",
+        "John H. Meier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Treatment of Abused Children in Residential Settings",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [
+        "William P. Nelson",
+        "John H. Meier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MICHAEL P. SLOAN and JOHN H. MEIER",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [
+        "Michael P. Sloan",
+        "John H. Meier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Reuniting Abused Children With Their Parents: Procedures and Results at Children's Village, U.S.A.",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [
+        "Michael P. Sloan",
+        "John H. Meier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VIVIAN L. SHAW and JOHN H. MEIER",
+      "printed_page_number": "269",
+      "source_page_index": -1,
+      "authors": [
+        "Vivian L. Shaw",
+        "John H. Meier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Children's Village, U.S.A.: Child Consumer Survey",
+      "printed_page_number": "269",
+      "source_page_index": -1,
+      "authors": [
+        "Vivian L. Shaw",
+        "John H. Meier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "GIDEON ZLOTNIK",
+      "printed_page_number": "285",
+      "source_page_index": -1,
+      "authors": [
+        "Gideon Zlotnik"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Predicting and Preventing Child Abuse--The Role of The Child Psychiatrist: A Preliminary Report",
+      "printed_page_number": "285",
+      "source_page_index": -1,
+      "authors": [
+        "Gideon Zlotnik"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HUGUETTE MERCHIERS",
+      "printed_page_number": "289",
+      "source_page_index": -1,
+      "authors": [
+        "Huguette Merchiers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Research and Action in Child Abuse and Neglect in Belgium",
+      "printed_page_number": "289",
+      "source_page_index": -1,
+      "authors": [
+        "Huguette Merchiers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "R. CLARA, A. LAMPO, and M. LENAERTS",
+      "printed_page_number": "295",
+      "source_page_index": -1,
+      "authors": [
+        "R. Clara",
+        "A. Lampo",
+        "M. Lenaerts"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Research/Action in The Field of Child Abuse and Neglect in Belgium: the Pilot Project of The University of Antwerp",
+      "printed_page_number": "295",
+      "source_page_index": -1,
+      "authors": [
+        "R. Clara",
+        "A. Lampo",
+        "M. Lenaerts"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JAN W. BANEKE",
+      "printed_page_number": "305",
+      "source_page_index": -1,
+      "authors": [
+        "Jan W. Baneke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The Dutch Approach to Child Abuse",
+      "printed_page_number": "305",
+      "source_page_index": -1,
+      "authors": [
+        "Jan W. Baneke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "AUTHOR INDEX",
+      "printed_page_number": "333",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "SUBJECT INDEX",
+      "printed_page_number": "337",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

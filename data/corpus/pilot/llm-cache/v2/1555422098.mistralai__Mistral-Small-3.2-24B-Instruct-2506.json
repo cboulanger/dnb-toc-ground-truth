@@ -1,0 +1,124 @@
+{
+  "generated_at": 1787243565.43095,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Preface",
+      "printed_page_number": "xi",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "The Authors",
+      "printed_page_number": "xix",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "1. Technology as Equivoque: Sensemaking in New Technologies",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Karl E. Weick"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Understanding Technology and the Individual in an Organizational Context",
+      "printed_page_number": "45",
+      "source_page_index": -1,
+      "authors": [
+        "Paul S. Goodman",
+        "Terri L. Griffith",
+        "Deborah B. Fenner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Work Groups: Autonomy, Technology, and Choice",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [
+        "Gerald I. Susman"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Technology and Structure: An Organizational-Level Perspective",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [
+        "W. Richard Scott"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Technology, Management, and Competitive Advantage",
+      "printed_page_number": "144",
+      "source_page_index": -1,
+      "authors": [
+        "James G. March",
+        "Lee S. Sproull"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Technology and Organizations: A Cross-National Analysis",
+      "printed_page_number": "174",
+      "source_page_index": -1,
+      "authors": [
+        "Leonard H. Lynn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. Technology and Organizations: An Economic/Institutional Analysis",
+      "printed_page_number": "200",
+      "source_page_index": -1,
+      "authors": [
+        "David C. Mowery"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8. A Technological Perspective on New Forms of Organizations",
+      "printed_page_number": "232",
+      "source_page_index": -1,
+      "authors": [
+        "Raj Reddy"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9. Technology and Organizations: Integration and Opportunities",
+      "printed_page_number": "254",
+      "source_page_index": -1,
+      "authors": [
+        "Lee S. Sproull",
+        "Paul S. Goodman"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

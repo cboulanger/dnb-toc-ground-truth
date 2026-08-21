@@ -1,0 +1,140 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [
+        "Wenzel Jacob"
+      ],
+      "printed_page_number": "6",
+      "skip": true
+    },
+    {
+      "title": "Viva Napoli!",
+      "authors": [
+        "Pontus Hulten"
+      ],
+      "printed_page_number": "8",
+      "skip": false
+    },
+    {
+      "title": "Zwei Augen erwarten Sie in Neapel",
+      "authors": [
+        "Giulio Macchi"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Geschichte des Archäologischen Nationalmuseums von Neapel",
+      "authors": [
+        "Stefano De Caro"
+      ],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "Die Antikensammlung Farnese und das Sammlungswesen im Rom des 16. Jahrhunderts",
+      "authors": [
+        "Carlo Gasparri"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "Neapels Altertümer und Europa",
+      "authors": [
+        "Nikolaus Himmelmann"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "Die Freskensammlung des Archäologischen Nationalmuseums",
+      "authors": [
+        "Valeria Sampaolo"
+      ],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "Die drei ›Seelen‹ des Archäologischen Nationalmuseums",
+      "authors": [
+        "Maria Rosaria Borriello"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Katalog",
+      "authors": [],
+      "printed_page_number": "74",
+      "skip": true
+    },
+    {
+      "title": "Kampanien und Großgriechenland",
+      "authors": [],
+      "printed_page_number": "74",
+      "skip": false
+    },
+    {
+      "title": "Die Sammlungen",
+      "authors": [],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "Die vesuvianischen Städte",
+      "authors": [],
+      "printed_page_number": "114",
+      "skip": false
+    },
+    {
+      "title": "Aquarelle und Zeichnungen",
+      "authors": [
+        "Valeria Sampaolo"
+      ],
+      "printed_page_number": "184",
+      "skip": false
+    },
+    {
+      "title": "Reproduktionstechniken und archäologische Forschung zur Wandmalerei in den Vesuvstädten",
+      "authors": [
+        "Harald Mielsch"
+      ],
+      "printed_page_number": "196",
+      "skip": false
+    },
+    {
+      "title": "Kommentierte Bibliographie (Auswahl)",
+      "authors": [
+        "Nathalie Marquardt"
+      ],
+      "printed_page_number": "199",
+      "skip": true
+    },
+    {
+      "title": "Die vier ›pompejanischen‹ Stile",
+      "authors": [
+        "Harald Mielsch"
+      ],
+      "printed_page_number": "206",
+      "skip": false
+    },
+    {
+      "title": "Zeittafel von 1000 v. Chr. bis 79 n. Chr.",
+      "authors": [
+        "Nathalie Marquardt"
+      ],
+      "printed_page_number": "207",
+      "skip": true
+    },
+    {
+      "title": "Photonachweis",
+      "authors": [],
+      "printed_page_number": "214",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

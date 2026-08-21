@@ -1,0 +1,215 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Unterwegs mit beschlagener Frontscheibe",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Teil I",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Grundlagen des modernen Risikomanagements",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Risikokategorien im Überblick",
+      "authors": [
+        "Frank Romeike"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Wertorientierte Unternehmensführung, Strategie und Risikomanagement – Die Kapitalkostensätze als Bindeglied",
+      "authors": [
+        "Werner Gleißner"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "Teil II",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Marktrisiken",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Statistische Modellierung des Zinsänderungsrisikos Teil 1: Univariate Verteilungen",
+      "authors": [
+        "Arnd Wiedemann",
+        "Adam Drosdzol",
+        "Rolf-Dieter Reiss",
+        "Michael Thomas"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Statistische Modellierung des Zinsänderungsrisikos Teil 2: Multivariate Verteilungen",
+      "authors": [
+        "Arnd Wiedemann",
+        "Adam Drosdzol",
+        "Rolf-Dieter Reiss",
+        "Michael Thomas"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Teil III",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Kreditrisiken",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Das kanonische Verfahren zur Bestimmung von Ausfallwahrscheinlichkeiten",
+      "authors": [
+        "Uwe Wehrspohn"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "Marktdatenbasierte Verfahren zur Bestimmung von Ausfallwahrscheinlichkeiten",
+      "authors": [
+        "Uwe Wehrspohn"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "Stochastische Ausfallwahrscheinlichkeiten: Credit Risk+",
+      "authors": [
+        "Uwe Wehrspohn"
+      ],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "Ausfallwahrscheinlichkeiten im Konjunkturzyklus: Credit Portfolio View",
+      "authors": [
+        "Uwe Wehrspohn"
+      ],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "Integrative Modelle zur Bestimmung von Ausfallwahrscheinlichkeiten: Credit Risk Evaluation Model",
+      "authors": [
+        "Uwe Wehrspohn"
+      ],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "Methoden zum Vergleich verschiedener Scoreverfahren am Beispiel der Schufa-Scoreverfahren",
+      "authors": [
+        "Ludwig Fahrmeir",
+        "Andreas Henking",
+        "Ralf Hüls"
+      ],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "Bayesianisches Kredit-Scoring zur Messung des Ausfallrisikos",
+      "authors": [
+        "Markus J. Rieder"
+      ],
+      "printed_page_number": "185",
+      "skip": false
+    },
+    {
+      "title": "Loss Given Default und Recovery Rates – Eine Einführung",
+      "authors": [
+        "Stefan Trück",
+        "Jens Deidersen",
+        "Peter Niebling",
+        "S. T. Rachev"
+      ],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "Teil IV",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Operationelle Risiken",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "What you see is what you get! Operationelle Risiken identifizieren",
+      "authors": [
+        "Kirsten-Annette Minz"
+      ],
+      "printed_page_number": "245",
+      "skip": false
+    },
+    {
+      "title": "Quantifizierung operationeller Risiken – Ein Weg zur Einbettung in den Management-Zyklus",
+      "authors": [
+        "Gerrit Jan van den Brink"
+      ],
+      "printed_page_number": "255",
+      "skip": false
+    },
+    {
+      "title": "Enronie des Schicksals: Das Enron-Debakel – Lessons Learned",
+      "authors": [
+        "Roland F. Erben"
+      ],
+      "printed_page_number": "269",
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "authors": [],
+      "printed_page_number": "281",
+      "skip": true
+    },
+    {
+      "title": "Die Autoren",
+      "authors": [],
+      "printed_page_number": "281",
+      "skip": true
+    },
+    {
+      "title": "Register",
+      "authors": [],
+      "printed_page_number": "287",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

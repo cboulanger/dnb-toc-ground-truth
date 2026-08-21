@@ -1,0 +1,130 @@
+{
+  "entries": [
+    {
+      "title": "Einleitung",
+      "authors": [
+        "Ullrich Gintzel"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Teil I: Situation und Trends",
+      "authors": [],
+      "printed_page_number": "13",
+      "skip": true
+    },
+    {
+      "title": "Situation und Perspektiven in der Pflegekinderarbeit",
+      "authors": [
+        "Erwin Jordan"
+      ],
+      "printed_page_number": "14",
+      "skip": false
+    },
+    {
+      "title": "Die Perspektive der Pflegeeltern \u2013 Ergebnisse einer Pflegeelternbefragung",
+      "authors": [
+        "Friedhelm G\u00fcthoff"
+      ],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "Kontroversen, Ambivalenzen \u2013 Ein Essay zum >modernen< Pflegekinderwesen",
+      "authors": [
+        "J\u00fcrgen Blandow"
+      ],
+      "printed_page_number": "56",
+      "skip": false
+    },
+    {
+      "title": "Neue Wege in der Vollzeitpflege und die Rolle der Jugend\u00e4mter und freien Tr\u00e4ger",
+      "authors": [
+        "Peter Widemann"
+      ],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "Teil II: Spezielle Aspekte",
+      "authors": [],
+      "printed_page_number": "75",
+      "skip": true
+    },
+    {
+      "title": "Vorzeitig beendete Pflegeverh\u00e4ltnisse",
+      "authors": [
+        "Erwin Jordan"
+      ],
+      "printed_page_number": "76",
+      "skip": false
+    },
+    {
+      "title": "Sonderformen zwischen traditioneller Familienpflege und Heimerziehung",
+      "authors": [
+        "Friedhelm G\u00fcthoff"
+      ],
+      "printed_page_number": "120",
+      "skip": false
+    },
+    {
+      "title": "Entwicklung in der Rechtsprechung (zu \u00a7 1632 Abs. 4 BGB)",
+      "authors": [
+        "Johannes M\u00fcnder",
+        "Thomas Lakies"
+      ],
+      "printed_page_number": "138",
+      "skip": false
+    },
+    {
+      "title": "Bereitschaftspflege \u2013 Zur historischen und fachlichen Entwicklung und zur aktuellen Situation einer besonderen Form der Vollzeitpflege",
+      "authors": [
+        "Gerhard Steege",
+        "Alexandra Szylowicki"
+      ],
+      "printed_page_number": "180",
+      "skip": false
+    },
+    {
+      "title": "Behinderte Pflegekinder",
+      "authors": [
+        "Gerhard Roos"
+      ],
+      "printed_page_number": "197",
+      "skip": false
+    },
+    {
+      "title": "Teil III: Anhang",
+      "authors": [],
+      "printed_page_number": "201",
+      "skip": true
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "202",
+      "skip": true
+    },
+    {
+      "title": "Thesen zum Hamburger Pflegekinderkongre\u00df 1990",
+      "authors": [],
+      "printed_page_number": "211",
+      "skip": true
+    },
+    {
+      "title": "Verzeichnis der Autoren",
+      "authors": [],
+      "printed_page_number": "240",
+      "skip": true
+    },
+    {
+      "title": "Fundstellen f\u00fcr Entwicklung in der Rechtsprechung",
+      "authors": [],
+      "printed_page_number": "241",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

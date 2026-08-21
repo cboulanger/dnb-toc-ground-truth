@@ -1,0 +1,218 @@
+{
+  "generated_at": 1787256555.242742,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "\u00cdNDICE GENERAL",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Agradecimiento",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Luis A. Ortiz L\u00f3pez: Presentaci\u00f3n",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [
+        "Luis A. Ortiz L\u00f3pez"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Morfosintaxis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "John Lipski: El sufijo -ico y las palabras ag\u00fc\u00e9lawe y aguoralahuora: rutas de evoluci\u00f3n y entorno dialectol\u00f3gico",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "John Lipski"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "John A. Holm, Gerardo A. Lorenzino y Heliana R. de Mello: Diferentes grados de reestructuraci\u00f3n en dos lenguas vern\u00e1culas: el espa\u00f1ol caribe\u00f1o y el portugu\u00e9s brasile\u00f1o",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [
+        "John A. Holm",
+        "Gerardo A. Lorenzino",
+        "Heliana R. de Mello"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Katherine Green: The preverbal marker a in a semi-creolized variety of non-standard Dominican Spanish",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Katherine Green"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Amparo Morales: Anteposici\u00f3n de sujeto en el espa\u00f1ol del Caribe",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [
+        "Amparo Morales"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ana Teresa P\u00e9rez Leroux: Innovaci\u00f3n sint\u00e1ctica en el espa\u00f1ol del Caribe y los principios de la gram\u00e1tica universal",
+      "printed_page_number": "99",
+      "source_page_index": -1,
+      "authors": [
+        "Ana Teresa P\u00e9rez Leroux"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rafael A. N\u00fa\u00f1ez Cede\u00f1o: En torno a la neutralidad gen\u00e9rica del pronombre '\u00e9l'",
+      "printed_page_number": "119",
+      "source_page_index": -1,
+      "authors": [
+        "Rafael A. N\u00fa\u00f1ez Cede\u00f1o"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "L\u00e9xico",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Germ\u00e1n de Granda: L\u00e9xico marinero en el espa\u00f1ol dominicano",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [
+        "Germ\u00e1n de Granda"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Humberto L\u00f3pez Morales: Anglicismos en el l\u00e9xico disponible de Puerto Rico",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [
+        "Humberto L\u00f3pez Morales"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Armin Schwegler: El vocabulario africano de Palenque (Colombia). Segunda parte: compendio alfab\u00e9tico de palabras (con etimolog\u00edas)",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [
+        "Armin Schwegler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Maria Vaquero y Jos\u00e9 A. P\u00e9rez, \u00c1ngel Mart\u00ednez, Maia Sherwood: El l\u00e9xico de las noticias televisadas de Puerto Rico: datos generales obtenidos en la primera fase de una investigaci\u00f3n en marcha",
+      "printed_page_number": "255",
+      "source_page_index": -1,
+      "authors": [
+        "Maria Vaquero",
+        "Jos\u00e9 A. P\u00e9rez",
+        "\u00c1ngel Mart\u00ednez",
+        "Maia Sherwood"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lenguas en contacto",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "William W. Megenney: El espa\u00f1ol afrocaribe\u00f1o: \u00bfmito o realidad?",
+      "printed_page_number": "271",
+      "source_page_index": -1,
+      "authors": [
+        "William W. Megenney"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Luis A. Ortiz L\u00f3pez: El sistema verbal del espa\u00f1ol haitiano en Cuba: implicaciones para las lenguas en contacto en el Caribe",
+      "printed_page_number": "295",
+      "source_page_index": -1,
+      "authors": [
+        "Luis A. Ortiz L\u00f3pez"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Irene P\u00e9rez Guerra: Contacto ling\u00fc\u00edstico dominico-haitiano en Rep\u00fablica Dominicana: datos para su estudio",
+      "printed_page_number": "317",
+      "source_page_index": -1,
+      "authors": [
+        "Irene P\u00e9rez Guerra"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Manuel y Elena Alvar: Un manuscrito sobre la evangelizaci\u00f3n en espa\u00f1ol en Chibcha (1582-1586)",
+      "printed_page_number": "333",
+      "source_page_index": -1,
+      "authors": [
+        "Manuel Alvar",
+        "Elena Alvar"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00cdndice de autores",
+      "printed_page_number": "343",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Lista de Acad\u00e9micos de la Academia Puertorrique\u00f1a de la Lengua Espa\u00f1ola",
+      "printed_page_number": "349",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

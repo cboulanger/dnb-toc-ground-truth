@@ -1,0 +1,167 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Barocke Adelssitze im Umfeld der Bonner Residenz",
+      "authors": [
+        "Kristiane Benedix"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Gärten des Barock und Rokoko im Umkreis der Bonner Residenz",
+      "authors": [
+        "Wilfried Hansmann"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "Bauliche Zeugnisse des Rückzugs und der Weltflucht im Rheinland des 18. Jahrhunderts",
+      "authors": [
+        "Holger Kempkens"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "Exotismus – Die Faszination fremder Welten",
+      "authors": [
+        "Ulrika Kiby"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Das Sommerappartement von Schloß Augustusburg in Brühl",
+      "authors": [
+        "Martin Stumpf"
+      ],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "Die Heilige Stiege und die Wallfahrtskirche auf dem Kreuzberg in Bonn – Zeugnisse barocker Volksfrömmigkeit und fürstlicher Prachtliebe",
+      "authors": [
+        "Gisbert Knopp"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "Der barocke Hochaltar der Brühler Schloßkirche – Künstlerische Einflüsse und typologische Vorläufer",
+      "authors": [
+        "Claudia Teichner"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "Kult als Kommunikationsmittel – Sakrale Inszenierungen im Rheinland des 17. und 18. Jahrhunderts",
+      "authors": [
+        "Uta Scholten"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "Flämische Bildhauer in Köln – Die stilistische Entwicklung der Kölner Skulptur vom ausgehenden 17. Jahrhundert bis in die ersten drei Jahrzehnte des 18. Jahrhunderts",
+      "authors": [
+        "Silke Eberhardt"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "Die Festungsanlagen von Düsseldorf und Jülich in kurpfälzischer Zeit",
+      "authors": [
+        "Guido von Büren",
+        "Edmund Spohr"
+      ],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "Zwischen Politik und Plaisir. Zwei kurfürstliche Kunstsammlungen im Rheinland",
+      "authors": [
+        "Sabine Wulff"
+      ],
+      "printed_page_number": "229",
+      "skip": false
+    },
+    {
+      "title": "Von Schloß Augustusburg zu Schloß Herzogsfreude: Die rheinischen Schlösser und Sammlungen des Clemens August",
+      "authors": [
+        "Barbara Hausmanns"
+      ],
+      "printed_page_number": "281",
+      "skip": false
+    },
+    {
+      "title": "Kurfürstliche Selbstdarstellung und kurfürstliche Propaganda – Porträts des Kölner Kurfürsten Clemens August",
+      "authors": [
+        "Martin Miersch"
+      ],
+      "printed_page_number": "307",
+      "skip": false
+    },
+    {
+      "title": "Das Ereignisbild in Kurköln im 18. Jahrhundert unter besonderer Berücksichtigung des Hofmalers Rousseau",
+      "authors": [
+        "Carsten Felgner"
+      ],
+      "printed_page_number": "335",
+      "skip": false
+    },
+    {
+      "title": "Beobachtungen zur Türkenmode unter Clemens August",
+      "authors": [
+        "Peter Mikliss de Dołęga"
+      ],
+      "printed_page_number": "369",
+      "skip": false
+    },
+    {
+      "title": "Die Hofgoldschmiede der Kölner Erzbischöfe und Kurfürsten der Frühen Neuzeit",
+      "authors": [
+        "Günter Irmscher"
+      ],
+      "printed_page_number": "387",
+      "skip": false
+    },
+    {
+      "title": "Die zeremonielle und künstlerische Inszenierung der höfischen Tafel unter den Kölner Kurfürsten Joseph Clemens und Clemens August",
+      "authors": [
+        "Holger Kempkens"
+      ],
+      "printed_page_number": "407",
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "authors": [],
+      "printed_page_number": "445",
+      "skip": true
+    },
+    {
+      "title": "Bildnachweis der Farbtafeln",
+      "authors": [],
+      "printed_page_number": "447",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

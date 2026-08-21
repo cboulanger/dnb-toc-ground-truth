@@ -1,0 +1,407 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort der Herausgeberinnen",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": true
+    },
+    {
+      "title": "Der Wahn vom Weltreich \u2013 Deutschland als Kolonialmacht",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "\u201eMassenaristokratie der wei\u00dfen Rasse\u201c. Vom \u201ekolonialen Drang\u201c der Deutschen",
+      "authors": [
+        "Joachim Zeller"
+      ],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "K\u00f6ln und der Kolonialismus",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die Anf\u00e4nge der organisierten Kolonialbewegung in K\u00f6ln",
+      "authors": [
+        "Marianne Bechhaus-Gerst",
+        "Kathrin Treins"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Hugo Z\u00f6ller, die K\u00f6lnische Zeitung und das koloniale Projekt",
+      "authors": [
+        "Britta Wiese"
+      ],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "\u201eFremdland zur Heimat wandeln nur die Frauen\u201c \u2013 Koloniale Frauenvereine in K\u00f6ln 1893\u20131919",
+      "authors": [
+        "Irene Franken",
+        "Eva Bischoff"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "\u201eFinde ich keinen Weg so bahne ich mir einen\u201c: Der umstrittene \u201eKolonialheld\u201c Hermann von Wissmann \u2013 in K\u00f6ln gefeiert",
+      "authors": [
+        "Thomas Morlang"
+      ],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "\u201eHedwig von Wissmann\u201c auf dem Tanganyika-See",
+      "authors": [
+        "Marianne Bechhaus-Gerst"
+      ],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "Koloniale Wirtschaft",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "K\u00f6lner Unternehmer und die Kolonialwirtschaft",
+      "authors": [
+        "Marianne Bechhaus-Gerst"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Eugen Langen als Kolonialaktivist",
+      "authors": [
+        "Kathrin Treins"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Kakao am Kamerunberg: Der K\u00f6lner Kaufmann Max Esser und die Folgen seines Pioniergeists",
+      "authors": [
+        "Ute R\u00f6schenthaler"
+      ],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "Schwarz auf Wei\u00df: Das K\u00f6lner Unternehmen Stollwerck im kolonialen Kontext",
+      "authors": [
+        "Angelika Epple"
+      ],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "Simon Alfred von Oppenheim und die Rheinische Handel-Plantagen-Gesellschaft",
+      "authors": [
+        "Marianne Bechhaus-Gerst"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Kolonialwarenl\u00e4den in K\u00f6ln",
+      "authors": [
+        "Anne-Kathrin Horstmann"
+      ],
+      "printed_page_number": "83",
+      "skip": false
+    },
+    {
+      "title": "Wissenschaft und Kolonialismus",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Gustav Nachtigal \u2013 \u201e... ein Held f\u00fcr Deutschlands Ruhm und Gr\u00f6\u00dfe!\u201c",
+      "authors": [
+        "Anne-Kathrin Horstmann"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "Zwischen Theorie und Praxis \u2013 Die Ostafrikafahrt der K\u00f6lner Handelshochschule 1908",
+      "authors": [
+        "Anne-Kathrin Horstmann"
+      ],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "Koloniale Geographie \u2013 das Ehepaar Marie Pauline und Franz Thorbecke",
+      "authors": [
+        "Anne-Kathrin Horstmann"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "Koloniale V\u00f6lkerkunde",
+      "authors": [
+        "Anne-Kathrin Horstmann"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "Mission und Kolonisation",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "\u201eDas finstere Heidenthum mit seinen Greueln\u201c \u2013 Der Afrika-Verein deutscher Katholiken in K\u00f6ln",
+      "authors": [
+        "Marianne Bechhaus-Gerst"
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "Franz Karl Hespers \u2013 Domkapitular und Kolonialaktivist",
+      "authors": [
+        "Anne-Kathrin Horstmann"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "\u201eWie besch\u00e4mt der Eifer der katholischen Landsleute uns evangelische Deutsche!\u201c Der Evangelische Afrika-Verein in K\u00f6ln",
+      "authors": [
+        "Kathrin Treins"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "Inszenierungen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "\u201eEin Fest in unseren Kolonien\u201c \u2013 Koloniale Feiern und Versammlungen in K\u00f6ln",
+      "authors": [
+        "Marianne Bechhaus-Gerst"
+      ],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "\u201eEine Sammelstelle f\u00fcr den stofflichen Kulturbesitz der fremden V\u00f6lker\u201c \u2013 Das Rautenstrauch-Joest-Museum",
+      "authors": [
+        "Burkhard Fenner"
+      ],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "Das \u201eKoloniale Geh\u00f6ft\u201c auf der Deutschen Werkbundausstellung 1914",
+      "authors": [
+        "Anne-Kathrin Horstmann"
+      ],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "Inszenierte Fauna \u2013 der K\u00f6lner Zoo",
+      "authors": [
+        "Kathrin Treins"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "Inszenierte Exotik \u2013 V\u00f6lkerschauen in K\u00f6ln",
+      "authors": [
+        "Marianne Bechhaus-Gerst"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "Zwischen Exotismus und Rassismus \u2013 Kolonialismus und K\u00f6lner Karneval",
+      "authors": [
+        "Hildegard Brog",
+        "Mathias von der Bank"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Die (koloniale) Begegnung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Kolonialmigranten in K\u00f6ln",
+      "authors": [
+        "Marianne Bechhaus-Gerst"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "\u201e... mit aufopfernder Liebe diese Heidenkinder bekehrt\u201c \u2013 Eine Gruppentaufe am 13. M\u00e4rz 1903 im Dom",
+      "authors": [
+        "Rea Br\u00e4ndle"
+      ],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "Wilhelm Elo Sambo \u2013 Patenkind des Kaisers und Blauer Funke",
+      "authors": [
+        "Marianne Bechhaus-Gerst"
+      ],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "Afrikanische Kriegsgefangene und Besatzungssoldaten in K\u00f6ln-Wahn",
+      "authors": [
+        "Marianne Bechhaus-Gerst"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Adler besiegt Drache \u2013 K\u00f6lner in den Kolonien",
+      "authors": [
+        "Marianne Bechhaus-Gerst"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "\u201eMit Gott f\u00fcr Kaiser und Reich\u201c \u2013 Ein K\u00f6lner Soldat in China",
+      "authors": [
+        "Azziza-Belinda Malanda"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "Kolonialismus ohne Kolonien",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "\u201eDas deutsche Volk braucht Kolonien\u201c \u2013 Konrad Adenauer und der Kolonialrevisionismus",
+      "authors": [
+        "Anne-Kathrin Horstmann"
+      ],
+      "printed_page_number": "197",
+      "skip": false
+    },
+    {
+      "title": "Franz Xaver von Epp in K\u00f6ln",
+      "authors": [
+        "Marianne Bechhaus-Gerst"
+      ],
+      "printed_page_number": "205",
+      "skip": false
+    },
+    {
+      "title": "\u201eRaum ohne Volk und Volk ohne Raum\u201c \u2013 Die \u201eKoloniale Sonderschau\u201c auf der Pressa 1928",
+      "authors": [
+        "Marianne Bechhaus-Gerst"
+      ],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "\u201eOhne Kolonien Armut und Not\u201c \u2013 Deutsche Kolonialausstellung unter dem Hakenkreuz",
+      "authors": [
+        "Marianne Bechhaus-Gerst"
+      ],
+      "printed_page_number": "215",
+      "skip": false
+    },
+    {
+      "title": "Die K\u00f6lner Universit\u00e4t und die kolonialrevisionistische Bewegung",
+      "authors": [
+        "Anne-Kathrin Horstmann"
+      ],
+      "printed_page_number": "219",
+      "skip": false
+    },
+    {
+      "title": "Die Gegenwart des Kolonialen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "\u201eK\u00fcnstlerischer Pionier des deutschen Kolonialgedankens\u201c \u2013 Der Tierplastiker Fritz Behn",
+      "authors": [
+        "Joachim Zeller"
+      ],
+      "printed_page_number": "225",
+      "skip": false
+    },
+    {
+      "title": "Objekte aus deutschen Kolonien im Rautenstrauch-Joest-Museum",
+      "authors": [
+        "Larissa F\u00f6rster"
+      ],
+      "printed_page_number": "229",
+      "skip": false
+    },
+    {
+      "title": "Koloniale Stra\u00dfennamen und Erinnerungskultur",
+      "authors": [
+        "Marianne Bechhaus-Gerst"
+      ],
+      "printed_page_number": "237",
+      "skip": false
+    },
+    {
+      "title": "Das Grab des \u201eHelden\u201c",
+      "authors": [
+        "Marianne Bechhaus-Gerst"
+      ],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen",
+      "authors": [],
+      "printed_page_number": "245",
+      "skip": true
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "265",
+      "skip": true
+    },
+    {
+      "title": "Abbildungsverzeichnis",
+      "authors": [],
+      "printed_page_number": "283",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

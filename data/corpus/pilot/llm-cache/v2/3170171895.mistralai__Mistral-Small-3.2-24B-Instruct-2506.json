@@ -1,0 +1,872 @@
+{
+  "generated_at": 1787245361.776051,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Verzeichnis der Autorinnen und Autoren",
+      "printed_page_number": "XI",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "XIII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Teil I: Einf\u00fchrung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Robert Fulton",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Robert Fulton"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1 Prolog: Kurzgefasste Geschichte und etwas pers\u00f6nlicher Bericht \u00fcber die Bewegung des Todesbewusstseins in den Vereinigten Staaten",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "John D. Morgan",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "John D. Morgan"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2 Der historische und gesellschaftliche Kontext von Sterben, Tod und Trauer",
+      "printed_page_number": "14",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Die Notwendigkeit eines kulturellen Verst\u00e4ndnisses",
+      "printed_page_number": "14",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Das System \"Tod\"",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Vier Modelle des Systems \"Tod\"",
+      "printed_page_number": "21",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Wie effektiv ist unser System \"Tod\"?",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Auf dem Weg zu einem angemessenen System der Einstellungen zum Tod",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil II: Theoretische und methodologische Grundlagen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Adrian Tomer und Grafton Eliason",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Adrian Tomer",
+        "Grafton Eliason"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "3 Theorien zur Erkl\u00e4rung von Einstellungen gegen\u00fcber Sterben und Tod",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Arten von Bedeutung bzw. Sinn und ihre Beziehung zu Einstellungen zum Tod",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Abwehr, Akzeptieren und Transzendenz",
+      "printed_page_number": "35",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Theorien \u00fcber eine vermeidende Einstellung zum Tod",
+      "printed_page_number": "36",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Theorien des Akzeptierens des Todes",
+      "printed_page_number": "41",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Schlussfolgerungen",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Robert A. Neimeyer, Richard P. Moser und Joachim Wittkowski",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Robert A. Neimeyer",
+        "Richard P. Moser",
+        "Joachim Wittkowski"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "4 Untersuchungsverfahren zur Erfassung der Einstellungen gegen\u00fcber Sterben und Tod",
+      "printed_page_number": "52",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Begriffe und Konzepte",
+      "printed_page_number": "53",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Fragebogenverfahren zur Angst vor dem Tod: Der K\u00f6nigsweg zum Bewusstsein",
+      "printed_page_number": "54",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Jenseits des Fragebogens",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Schlussfolgerungen und Ausblick",
+      "printed_page_number": "78",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil III: Ergebnisse der Grundlagenforschung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Hannelore Wass",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hannelore Wass"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "5 Die Begegnung von Kindern mit dem Tod",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Entwicklungsfaktoren",
+      "printed_page_number": "88",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Sozio-kulturelle Einfl\u00fcsse",
+      "printed_page_number": "92",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Nahe Begegnungen mit dem Tod",
+      "printed_page_number": "100",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Schlussbemerkung",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Robert A. Neimeyer, Richard P. Moser und Joachim Wittkowski",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Robert A. Neimeyer",
+        "Richard P. Moser",
+        "Joachim Wittkowski"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "6 Psychologische Forschung zu Einstellungen gegen\u00fcber Sterben und Tod",
+      "printed_page_number": "108",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Einstellungen zum Tod: Ein definitorischer Anfang",
+      "printed_page_number": "108",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Ein \u00dcberblick \u00fcber die Literatur",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Korrelate der Angst vor Sterben und Tod im Erwachsenenalter",
+      "printed_page_number": "110",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Akzeptieren von Sterben und Tod",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Schlussbetrachtung",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nelda Samarel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Nelda Samarel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "7 Der Sterbeprozess",
+      "printed_page_number": "122",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Theorien und Daten zur Auseinandersetzung mit dem Sterben",
+      "printed_page_number": "122",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Das Ende des Sterbeverlaufs",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Mit dem Sterben leben: Der Umgang mit ernsthafter Erkrankung",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mary L. S. Vachon",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Mary L. S. Vachon"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "8 Psychische Belastungen von Pflegekr\u00e4ften bei der Betreuung Sterbender",
+      "printed_page_number": "152",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Modelle f\u00fcr beruflichen Stress",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Merkmale, die psychische Belastungen bei der Arbeit mit unheilbar Kranken beeinflussen",
+      "printed_page_number": "154",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Quellen von Stress in der Arbeitsumgebung",
+      "printed_page_number": "157",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Manifestationen von beruflichem Stress",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Coping",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Schlussfolgerungen",
+      "printed_page_number": "168",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Therese A. Rando",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Therese A. Rando"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "9 Trauern: Die Anpassung an Verlust",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Konzeptualisierungen von Kummer und Trauer: Die Beitr\u00e4ge von f\u00fcnf wichtigen klinischen Theoretikern",
+      "printed_page_number": "174",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Definitionen und Konzepte mit Bezug zu Verlust",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Faktoren, die Kummer und Trauer beeinflussen",
+      "printed_page_number": "183",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Das Erleben unkomplizierter Trauer",
+      "printed_page_number": "184",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Komplizierte Trauer",
+      "printed_page_number": "190",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil IV: Anwendungsfelder",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Marcia Lattanzi-Licht",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Marcia Lattanzi-Licht"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "10 Die Betreuung von Menschen am Ende des Lebens",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Bed\u00fcrfnisse von Einzelpersonen und Familien im Angesicht des Lebensendes",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Hindernisse, die der Betreuung am Ende des Lebens entgegen stehen",
+      "printed_page_number": "198",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Ziele der Betreuung f\u00fcr Menschen mit einer lebensbedrohenden Krankheit",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Schlussfolgerung",
+      "printed_page_number": "208",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Joseph A. Durlak",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Joseph A. Durlak"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "11 Die Ver\u00e4nderung von Einstellungen zu Sterben und Tod durch Unterrichtsveranstaltungen",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 \u00dcberblick \u00fcber Death Education",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Ver\u00e4nderungen in der Einstellung zum Tod als Resultat von Death Education",
+      "printed_page_number": "217",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Zusammenfassung",
+      "printed_page_number": "223",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beverley Raphael und Sally Wooding",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Beverley Raphael",
+        "Sally Wooding"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "12 Klinische Interventionen f\u00fcr Trauernde",
+      "printed_page_number": "226",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Klinische Diagnostik von Menschen in Trauer als Basis f\u00fcr klinische Intervention",
+      "printed_page_number": "228",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Interventionen bei Trauerf\u00e4llen mit hohem Risiko",
+      "printed_page_number": "230",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Pathologische Trauer",
+      "printed_page_number": "234",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Trauer, die durch eine psychiatrische St\u00f6rung erschwert wird",
+      "printed_page_number": "236",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Posttraumatische Belastungsst\u00f6rung und Trauer",
+      "printed_page_number": "236",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Trauer und Depression",
+      "printed_page_number": "238",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Schlussfolgerungen",
+      "printed_page_number": "240",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil V: Ausblick",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Arthur Zucker",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Arthur Zucker"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "13 Rechtliche und ethische Fragen im Kontext von Sterben und Tod",
+      "printed_page_number": "247",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Was ist der Tod?",
+      "printed_page_number": "247",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Sterben: Diane als Beispiel",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Diane in Oregon und in den Niederlanden",
+      "printed_page_number": "252",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Autonomie, Paternalismus und Informierte Zustimmung",
+      "printed_page_number": "254",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Autonomie und die Kontrolle von Sterben und Tod",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Rechte und Moraltheorie",
+      "printed_page_number": "258",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Aussichtslosigkeit",
+      "printed_page_number": "261",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Gesetz, Moral und das Ende des Lebens",
+      "printed_page_number": "262",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 Autonomie ist nicht alles",
+      "printed_page_number": "264",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Die richtige Zeit zum Sterben",
+      "printed_page_number": "265",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11 Schlussbetrachtung",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Joachim Wittkowski",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Wittkowski"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "14 Epilog: Thanatologie heute und morgen",
+      "printed_page_number": "269",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Stand der Grundlagenforschung",
+      "printed_page_number": "270",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Anwendung thanatologischer Erkenntnisse",
+      "printed_page_number": "276",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Ethische Fragen",
+      "printed_page_number": "280",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Ausblick",
+      "printed_page_number": "281",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autorenregister",
+      "printed_page_number": "287",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sachregister",
+      "printed_page_number": "297",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

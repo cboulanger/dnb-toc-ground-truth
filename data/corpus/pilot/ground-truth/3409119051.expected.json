@@ -1,0 +1,250 @@
+{
+  "entries": [
+    {
+      "title": "Teil I: Strategische Aspekte",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": true
+    },
+    {
+      "title": "Kundenfokus im Mobile Commerce: Anforderungen der Kunden und Anforderungen an die Kunden",
+      "authors": [
+        "Friedhelm Bliemel",
+        "Georg Fassott"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Geleitwort",
+      "authors": [],
+      "printed_page_number": "V",
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "VII",
+      "skip": true
+    },
+    {
+      "title": "Gesch\u00e4ftsmodelle im Mobile Commerce",
+      "authors": [
+        "Reiner Clement"
+      ],
+      "printed_page_number": "24",
+      "skip": false
+    },
+    {
+      "title": "Wettbewerbsstrategische Positionierung von Mobilfunknetzbetreibern im Mobile Business",
+      "authors": [
+        "Torsten J. Gerpott"
+      ],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "Mobile Marketing als Schl\u00fcsselgr\u00f6\u00dfe f\u00fcr Multichannel-Commerce",
+      "authors": [
+        "Dirk M\u00f6hlenbruch",
+        "Ulf-Marten Schmieder"
+      ],
+      "printed_page_number": "64",
+      "skip": false
+    },
+    {
+      "title": "Das mobile Unternehmen",
+      "authors": [
+        "August-Wilhelm Scheer",
+        "Thomas Feld",
+        "Mark G\u00f6bl",
+        "Michael Hoffmann"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Teil II: Informationsgrundlagen",
+      "authors": [],
+      "printed_page_number": "107",
+      "skip": true
+    },
+    {
+      "title": "Rechtlicher Rahmen des Mobile Commerce",
+      "authors": [
+        "Jens-Uwe Heuer"
+      ],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "Erfolgsplanung und -kontrolle im Mobile Commerce",
+      "authors": [
+        "J\u00f6rg Link",
+        "Sebastian Schmidt"
+      ],
+      "printed_page_number": "128",
+      "skip": false
+    },
+    {
+      "title": "WAP Log Mining als Instrument der Marketingforschung f\u00fcr den Mobile Commerce",
+      "authors": [
+        "Frank Bensberg"
+      ],
+      "printed_page_number": "150",
+      "skip": false
+    },
+    {
+      "title": "Utility und Usability im Mobile Commerce",
+      "authors": [
+        "Miriam Yom"
+      ],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "\u00dcbertragungsstandards und -bandbreiten in der Mobilkommunikation",
+      "authors": [
+        "Bernd Mielke"
+      ],
+      "printed_page_number": "185",
+      "skip": false
+    },
+    {
+      "title": "Teil III: Absatzpolitische Instrumente",
+      "authors": [],
+      "printed_page_number": "203",
+      "skip": true
+    },
+    {
+      "title": "Neue Dienstleistungen im Mobile Commerce",
+      "authors": [
+        "Jens B\u00f6cker",
+        "Sabine Quabeck"
+      ],
+      "printed_page_number": "205",
+      "skip": false
+    },
+    {
+      "title": "Preispolitik im Mobile Commerce",
+      "authors": [
+        "S\u00f6nke Albers",
+        "Bj\u00f6rn Sch\u00e4fers"
+      ],
+      "printed_page_number": "229",
+      "skip": false
+    },
+    {
+      "title": "Wireless Advertising",
+      "authors": [
+        "Jens Wohlfahrt"
+      ],
+      "printed_page_number": "245",
+      "skip": false
+    },
+    {
+      "title": "Kosten und Wirkungen mobiler Werbung",
+      "authors": [
+        "Christian Hinrichs",
+        "Ingo Lippert"
+      ],
+      "printed_page_number": "265",
+      "skip": false
+    },
+    {
+      "title": "Wireless Sponsoring \u2013 Formen und Ans\u00e4tze einer Erfolgskontrolle",
+      "authors": [
+        "Thorsten Wilhelm",
+        "Jens Wohlfahrt"
+      ],
+      "printed_page_number": "279",
+      "skip": false
+    },
+    {
+      "title": "Permission Marketing im Mobile Commerce",
+      "authors": [
+        "Torsten Schwarz"
+      ],
+      "printed_page_number": "289",
+      "skip": false
+    },
+    {
+      "title": "Kundenzufriedenheit und Kundenbindung im Mobile Commerce",
+      "authors": [
+        "G\u00fcnter Silberer",
+        "Alexander Magermans",
+        "Jens Wohlfahrt"
+      ],
+      "printed_page_number": "309",
+      "skip": false
+    },
+    {
+      "title": "Teil IV: Branchenaspekte",
+      "authors": [],
+      "printed_page_number": "325",
+      "skip": true
+    },
+    {
+      "title": "Mobile Payment",
+      "authors": [
+        "Joachim Henkel"
+      ],
+      "printed_page_number": "327",
+      "skip": false
+    },
+    {
+      "title": "Mobile Banking und Sicherheit im Mobile Commerce",
+      "authors": [
+        "Nasser Mustafa",
+        "Andreas Oberweis",
+        "Tobias Schnurr"
+      ],
+      "printed_page_number": "353",
+      "skip": false
+    },
+    {
+      "title": "One-to-One-Marketing f\u00fcr Autofahrer \u2013 Visionen, M\u00f6glichkeiten und Ans\u00e4tze",
+      "authors": [
+        "J\u00f6rg Tegtmeyer",
+        "Verena L\u00f6ser"
+      ],
+      "printed_page_number": "373",
+      "skip": false
+    },
+    {
+      "title": "Web in the car \u2013 Mobile Commerce als Herausforderung f\u00fcr Automobilhersteller",
+      "authors": [
+        "Kilian Fr\u00fchauf",
+        "Rainer Oberbauer"
+      ],
+      "printed_page_number": "381",
+      "skip": false
+    },
+    {
+      "title": "Stichwortverzeichnis",
+      "authors": [],
+      "printed_page_number": "399",
+      "skip": true
+    },
+    {
+      "title": "Die Herausgeber",
+      "authors": [],
+      "printed_page_number": "403",
+      "skip": true
+    },
+    {
+      "title": "Die Autoren",
+      "authors": [],
+      "printed_page_number": "405",
+      "skip": true
+    },
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

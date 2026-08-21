@@ -1,0 +1,619 @@
+{
+  "generated_at": 1786946805.3291788,
+  "entries": [
+    {
+      "title": "Geleitwort von Eva-Lotta Brakemeier",
+      "printed_page_number": 9,
+      "source_page_index": -1,
+      "authors": [
+        "Eva-Lotta Brakemeier"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Geleitwort von Luise Reddemann",
+      "printed_page_number": 13,
+      "source_page_index": -1,
+      "authors": [
+        "Luise Reddemann"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Einf\u00fchrung",
+      "printed_page_number": 15,
+      "source_page_index": -1,
+      "authors": [
+        "Martin R\u00fcfer",
+        "Christoph Fl\u00fcckiger"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Warum dieses Buch?",
+      "printed_page_number": 15,
+      "source_page_index": -1,
+      "authors": [
+        "Martin R\u00fcfer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Zwei Seelen in einer Brust",
+      "printed_page_number": 16,
+      "source_page_index": -1,
+      "authors": [
+        "Martin R\u00fcfer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Bilanz therapeutischer Arbeit",
+      "printed_page_number": 19,
+      "source_page_index": -1,
+      "authors": [
+        "Martin R\u00fcfer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Zur Wechselwirkung von Arbeitskontext, Therapiemotivation und beruflicher Identit\u00e4t",
+      "printed_page_number": 20,
+      "source_page_index": -1,
+      "authors": [
+        "Martin R\u00fcfer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Generische Prinzipien oder wenn weniger mehr ist",
+      "printed_page_number": 22,
+      "source_page_index": -1,
+      "authors": [
+        "Martin R\u00fcfer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Geheimnisse aus der Praxis f\u00fcr eine gelingende Therapie",
+      "printed_page_number": 24,
+      "source_page_index": -1,
+      "authors": [
+        "Martin R\u00fcfer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Vertrauen und Selbstwirksamkeit aus Sicht der Psychotherapieforschung",
+      "printed_page_number": 33,
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Dinger"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Zwei Polarit\u00e4ten",
+      "printed_page_number": 33,
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Dinger"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "\"Freue dich auf deine Patienten und vertraue ihnen als Klienten\" und \"Stelle die richtigen Fragen und gib m\u00f6glichst fr\u00fch ein Erkl\u00e4rungsmodell f\u00fcr Probleme\"",
+      "printed_page_number": 34,
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Dinger"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "\"H\u00f6re und schaue genau hin, orientiere dich an den Feedbacks, aber interveniere sparsam\"",
+      "printed_page_number": 36,
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Dinger"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "\"Nutze Bindungen als supportives Ressourcenpriming\"",
+      "printed_page_number": 37,
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Dinger"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "\"Nutze Krisen und Instabilit\u00e4ten als inputsensible Phasen\" und \"Achte auf dich selbst, vertraue deinen Skills und deinem Bauchgef\u00fchl\"",
+      "printed_page_number": 38,
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Dinger"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Vertrauen als Wegbereiter f\u00fcr Selbstwirksamkeit",
+      "printed_page_number": 39,
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Dinger"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Nachdenken \u00fcber Psychotherapie",
+      "printed_page_number": 43,
+      "source_page_index": -1,
+      "authors": [
+        "Annette K\u00e4mmerer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Psychotherapie und die Menschenw\u00fcrde",
+      "printed_page_number": 44,
+      "source_page_index": -1,
+      "authors": [
+        "Annette K\u00e4mmerer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Das therapeutische Menschenbild",
+      "printed_page_number": 47,
+      "source_page_index": -1,
+      "authors": [
+        "Annette K\u00e4mmerer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Leidensdruck und Psychotherapie",
+      "printed_page_number": 48,
+      "source_page_index": -1,
+      "authors": [
+        "Annette K\u00e4mmerer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Warum also Psychotherapie?",
+      "printed_page_number": 51,
+      "source_page_index": -1,
+      "authors": [
+        "Annette K\u00e4mmerer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Professionalisierung, Therapeutenbild und Herausforderungen \u2013 Nachdenken \u00fcber Psychotherapeutinnen",
+      "printed_page_number": 55,
+      "source_page_index": -1,
+      "authors": [
+        "Christoph Fl\u00fcckiger"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Professionalisierung",
+      "printed_page_number": 55,
+      "source_page_index": -1,
+      "authors": [
+        "Christoph Fl\u00fcckiger"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Therapeutenbild",
+      "printed_page_number": 59,
+      "source_page_index": -1,
+      "authors": [
+        "Christoph Fl\u00fcckiger"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Auf den Punkt gebracht: Individualit\u00e4t und Verallgemeinerung in der Fallkonzeption",
+      "printed_page_number": 69,
+      "source_page_index": -1,
+      "authors": [
+        "Hans Lieb"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Vorbemerkung",
+      "printed_page_number": 69,
+      "source_page_index": -1,
+      "authors": [
+        "Hans Lieb"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Zu viel Individualit\u00e4t, zu viel Verallgemeinerung",
+      "printed_page_number": 70,
+      "source_page_index": -1,
+      "authors": [
+        "Hans Lieb"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Vom Nutzen der metaperspektivischen Unterscheidung zwischen Individualit\u00e4t und Verallgemeinerung",
+      "printed_page_number": 71,
+      "source_page_index": -1,
+      "authors": [
+        "Hans Lieb"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Zur Soziologie professioneller Fallkonzeptionen",
+      "printed_page_number": 72,
+      "source_page_index": -1,
+      "authors": [
+        "Hans Lieb"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Fallkonzeption und therapeutische Beziehung",
+      "printed_page_number": 73,
+      "source_page_index": -1,
+      "authors": [
+        "Hans Lieb"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Wege zu Individualisierungen und zu Verallgemeinerungen",
+      "printed_page_number": 73,
+      "source_page_index": -1,
+      "authors": [
+        "Hans Lieb"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Methoden zur Konkretisierung \u2013 Individualisierung",
+      "printed_page_number": 74,
+      "source_page_index": -1,
+      "authors": [
+        "Hans Lieb"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Methoden zur Verallgemeinerung/Komplexit\u00e4tsreduktion",
+      "printed_page_number": 76,
+      "source_page_index": -1,
+      "authors": [
+        "Hans Lieb"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Kein Klient ist \u201eder Fall\u201c von irgendwas \u2013 Das Spannungsfeld von individueller Fallkonzeption, Prozesssteuerung und Verallgemeinerung",
+      "printed_page_number": 83,
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter Schiepek"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Einzelfallorientierung",
+      "printed_page_number": 84,
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter Schiepek"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Prozesssteuerung",
+      "printed_page_number": 86,
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter Schiepek"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Verallgemeinerung: Theorie mit Einzelfallbezug",
+      "printed_page_number": 91,
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter Schiepek"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Aufbau positiven Denkens im Spannungsfeld von Selbstabwertung, Selbstzweifeln und Selbstakzeptanz",
+      "printed_page_number": 97,
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Zimmer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Psychotherapie ist unterst\u00fctztes Lernen",
+      "printed_page_number": 97,
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Zimmer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Der Unterschied zwischen Therapeut und Patient",
+      "printed_page_number": 98,
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Zimmer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Wir k\u00f6nnen nicht allen helfen",
+      "printed_page_number": 99,
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Zimmer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Wir k\u00f6nnen nicht nur aus eigener Erfahrung sch\u00f6pfen",
+      "printed_page_number": 99,
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Zimmer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Die Kunst und Notwendigkeit, sich \u00fcberraschen zu lassen",
+      "printed_page_number": 100,
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Zimmer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Das Gegenteil ist immer auch richtig: funktionales Denken",
+      "printed_page_number": 101,
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Zimmer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Manualisiertes und individualisiertes Vorgehen",
+      "printed_page_number": 101,
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Zimmer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "\u00dcbung zum Aufbau eines positiven Selbstbildes",
+      "printed_page_number": 102,
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Zimmer"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Respektvoll, behutsam und genau ...",
+      "printed_page_number": 109,
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Willutzki"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Zur Haltung \u2013 bescheiden und selbstreflexiv",
+      "printed_page_number": 109,
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Willutzki"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Zur Genauigkeit und Pr\u00e4zision therapeutischen Arbeitens",
+      "printed_page_number": 111,
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Willutzki"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Die M\u00fcndung: Zum Aufbau positiven Denkens",
+      "printed_page_number": 112,
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Willutzki"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Alles allgemein menschlich? Alles kulturbedingt? \u2013 Eine produktive Verwirrung!",
+      "printed_page_number": 115,
+      "source_page_index": -1,
+      "authors": [
+        "Verena Kast"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Im Grunde genommen verstehen wir uns schon ...",
+      "printed_page_number": 115,
+      "source_page_index": -1,
+      "authors": [
+        "Verena Kast"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Supervision mit japanischen Kolleginnen und Kollegen",
+      "printed_page_number": 116,
+      "source_page_index": -1,
+      "authors": [
+        "Verena Kast"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Der bedeutungsvolle Zwischenfall: Eigentlich verstehen wir uns nicht",
+      "printed_page_number": 117,
+      "source_page_index": -1,
+      "authors": [
+        "Verena Kast"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "\u00c4rger",
+      "printed_page_number": 117,
+      "source_page_index": -1,
+      "authors": [
+        "Verena Kast"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Das Bem\u00fchen um wechselseitiges Verstehen",
+      "printed_page_number": 118,
+      "source_page_index": -1,
+      "authors": [
+        "Verena Kast"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "In der kulturellen \u00dcberzeugung angegriffen",
+      "printed_page_number": 119,
+      "source_page_index": -1,
+      "authors": [
+        "Verena Kast"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Zu kulturlastig",
+      "printed_page_number": 120,
+      "source_page_index": -1,
+      "authors": [
+        "Verena Kast"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Traumbilder \u2013 kulturell verstanden",
+      "printed_page_number": 121,
+      "source_page_index": -1,
+      "authors": [
+        "Verena Kast"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Der Fuchs: japanisch und schweizerisch",
+      "printed_page_number": 121,
+      "source_page_index": -1,
+      "authors": [
+        "Verena Kast"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Res\u00fcmee",
+      "printed_page_number": 123,
+      "source_page_index": -1,
+      "authors": [
+        "Verena Kast"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Das Infragestellen des Selbstverst\u00e4ndlichen \u2013 wenn das Fremde in den Blick ger\u00e4t",
+      "printed_page_number": 125,
+      "source_page_index": -1,
+      "authors": [
+        "Maria Borcsa"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Internalisierung von Kultur",
+      "printed_page_number": 125,
+      "source_page_index": -1,
+      "authors": [
+        "Maria Borcsa"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Kultur ist nicht gleich Kultur",
+      "printed_page_number": 126,
+      "source_page_index": -1,
+      "authors": [
+        "Maria Borcsa"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Diversit\u00e4t in Beziehungen",
+      "printed_page_number": 127,
+      "source_page_index": -1,
+      "authors": [
+        "Maria Borcsa"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Natur und Kultur: revisited",
+      "printed_page_number": 129,
+      "source_page_index": -1,
+      "authors": [
+        "Maria Borcsa"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Differenzen und Universalit\u00e4ten: ein dialektisches Verh\u00e4ltnis",
+      "printed_page_number": 129,
+      "source_page_index": -1,
+      "authors": [
+        "Maria Borcsa"
+      ],
+      "printed_roman": false
+    },
+    {
+      "title": "Summary: Dialog R\u00fcfer \u2013 Fl\u00fcckiger",
+      "printed_page_number": 131,
+      "source_page_index": -1,
+      "authors": [
+        "Martin R\u00fcfer",
+        "Christoph Fl\u00fcckiger"
+      ],
+      "printed_roman": false
+    }
+  ]
+}

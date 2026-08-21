@@ -1,0 +1,264 @@
+{
+  "generated_at": 1787245410.075847,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Karl Aschersleben",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Karl Aschersleben"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kritische \u00dcberlegungen zur Interdependenz von Unterrichtsmethoden und Lehrerverhalten",
+      "printed_page_number": "10",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Edmund K\u00f6sel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Edmund K\u00f6sel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lehrerverhalten \u2013 didaktische Modellbildung \u2013 Planungshilfe",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jakob Muth",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Jakob Muth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Takt als Form p\u00e4dagogischen und didaktischen Handelns",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gunter Otto",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gunter Otto"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Denken und Machen in der Schule \u2013 ein Problem der Unterrichtsmethode am Beispiel der \u00c4sthetischen Erziehung",
+      "printed_page_number": "48",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Walther Zifreund",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Walther Zifreund"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pr\u00e4zisierung von Unterrichtsmethoden im Zusammenhang mit Lehrverhaltenstraining und Interaktionsanalyse",
+      "printed_page_number": "59",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Horst Nickel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Horst Nickel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Transaktionalit\u00e4t der Lehrer-Sch\u00fcler-Beziehung und ihre Bedeutung f\u00fcr die Unterrichtspraxis",
+      "printed_page_number": "79",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ernst Meyer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ernst Meyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Lehrer im Gruppenunterricht",
+      "printed_page_number": "94",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Reinhard Tausch",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Tausch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die F\u00f6rderung der Pers\u00f6nlichkeitsentwicklung von Lehrern und Jugendlichen in Gruppengespr\u00e4chen",
+      "printed_page_number": "112",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J\u00fcrgen H\u00f6der, Reinhard Tausch und Alexander Weber",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen H\u00f6der",
+        "Reinhard Tausch",
+        "Alexander Weber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Qualit\u00e4t der Sch\u00fclerbeitr\u00e4ge im Unterricht und ihr Zusammenhang mit 3 personenzentrierten Haltungen ihrer Lehrer",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jochen Grell",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Jochen Grell"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zwischen Theorien und Traditionen: Warum es so schwierig ist, das Unterrichten zu lernen",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Alexander Weber",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Alexander Weber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lehrerhandeln und die Kunst des Unterrichtens",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Helmer Smidt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Helmer Smidt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lehrerhandeln und demokratischer Unterricht",
+      "printed_page_number": "193",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Mitarbeiterverzeichnis",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sachregister",
+      "printed_page_number": "230",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "VII",
+      "skip": true
+    },
+    {
+      "title": "Die Entwicklung der Gender Studies",
+      "authors": [
+        "Renate Hof"
+      ],
+      "printed_page_number": "2",
+      "skip": false
+    },
+    {
+      "title": "Beredtes Schweigen und verschwiegenes Sprechen: Genus im Diskurs der Philosophie",
+      "authors": [
+        "Cornelia Klinger"
+      ],
+      "printed_page_number": "34",
+      "skip": false
+    },
+    {
+      "title": "Die Rezeption und Diskussion der Genus-Kategorie in der theologischen Wissenschaft",
+      "authors": [
+        "Leonore Siegele-Wenschkewitz"
+      ],
+      "printed_page_number": "60",
+      "skip": false
+    },
+    {
+      "title": "Das Genus, die Grammatik und – der Mensch: Geschlechterdifferenz in der Sprachwissenschaft",
+      "authors": [
+        "Hadumod Bussmann"
+      ],
+      "printed_page_number": "114",
+      "skip": false
+    },
+    {
+      "title": "Gender als Kategorie einer neuen Literaturgeschichtsschreibung",
+      "authors": [
+        "Ina Schabert"
+      ],
+      "printed_page_number": "162",
+      "skip": false
+    },
+    {
+      "title": "Arbeit am Kanon: Geschlechterdifferenz in Rezeption und Wertung von Literatur",
+      "authors": [
+        "Renate von Heydebrand",
+        "Simone Winko"
+      ],
+      "printed_page_number": "206",
+      "skip": false
+    },
+    {
+      "title": "Weiblichkeitsmythen zwischen gender, race und class: True Womanhood im Spiegel der Geschichtsschreibung",
+      "authors": [
+        "Elisabeth Kuppler"
+      ],
+      "printed_page_number": "262",
+      "skip": false
+    },
+    {
+      "title": "Auf der Suche nach den un-gehorsamen Töchtern: Genus in der Musikwissenschaft",
+      "authors": [
+        "Sigrid Nieberle",
+        "Sabine Fröhlich"
+      ],
+      "printed_page_number": "292",
+      "skip": false
+    },
+    {
+      "title": "Inszenierungen des Sehens: Kunst, Geschichte und Geschlechterdifferenz",
+      "authors": [
+        "Sigrid Schade",
+        "Silke Wenk"
+      ],
+      "printed_page_number": "340",
+      "skip": false
+    },
+    {
+      "title": "Weiblichkeit und Repräsentation – aus der Perspektive von Ästhetik, Semiotik und Psychoanalyse",
+      "authors": [
+        "Elisabeth Bronfen"
+      ],
+      "printed_page_number": "408",
+      "skip": false
+    },
+    {
+      "title": "Verzeichnis der Autorinnen",
+      "authors": [],
+      "printed_page_number": "446",
+      "skip": true
+    },
+    {
+      "title": "Verzeichnis feministischer Zeitschriften",
+      "authors": [],
+      "printed_page_number": "448",
+      "skip": true
+    },
+    {
+      "title": "Personenregister",
+      "authors": [],
+      "printed_page_number": "450",
+      "skip": true
+    },
+    {
+      "title": "Sachregister",
+      "authors": [],
+      "printed_page_number": "465",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

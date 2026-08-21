@@ -1,0 +1,162 @@
+{
+  "entries": [
+    {
+      "title": "Siglen",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "I. Quellen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "›Teutsche Liedlein‹ im frühen Notendruck. Ein neuer Blick",
+      "authors": [
+        "Andrea Lindmayr-Brandl"
+      ],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "›Teutsche Liedlein‹ in Wolfenbüttel. Ein bestandsgeschichtlicher Blick auf die Quellen der Herzog August Bibliothek",
+      "authors": [
+        "Sven Limbeck"
+      ],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "Das Ende vom Lied. Dreier in Liedern des frühen 16. Jahrhunderts",
+      "authors": [
+        "Nicole Schwindt"
+      ],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "Volkslied ade. Zu einer neuen Klassifikation des Cantus firmus-Liedes im 16. Jahrhundert",
+      "authors": [
+        "Sonja Tröster"
+      ],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "»In der Composition Don vincela mit 4. stimmen zusingen«. Chanson und Lied in der musikalischen Praxis des 16. Jahrhunderts",
+      "authors": [
+        "Armin Brinzing"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "II. Fallstudien zu einzelnen Liederbüchern und Komponisten",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Manuscript and print combined. Re-discovered manuscript additions in the Kraków copy of Peter Schöffer's third songbook (1536)",
+      "authors": [
+        "Elisabeth Giselbrecht"
+      ],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "Leonhard Paminger's Liederbuch",
+      "authors": [
+        "Grantley McDonald"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "Liederliche Männer, böse Frauen und gute Ehen. Zu Orlando di Lassos Lied Mein Frau Hilgart",
+      "authors": [
+        "Birgit Lodes"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Giovanni Battista Pinello de Ghirardi und seine deutsche Liedsammlung Nawe kurtzweilige deutsche Lieder (1584). Ein Beispiel für italienisch-deutsche Liedkunst im ausgehenden 16. Jahrhundert",
+      "authors": [
+        "Frédérique Renno"
+      ],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "Valentin Haussmann as Poet, Composer, and Translator. ›Teutsche Lieder‹ (1592–1597)",
+      "authors": [
+        "Susan Lewis Hammond"
+      ],
+      "printed_page_number": "233",
+      "skip": false
+    },
+    {
+      "title": "III. Rezeptionsästhetische Aspekte",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The secular Tenorlied in sixteenth-century Königsberg in the context of the development of German polyphonic song in German-speaking territories of Western Europe",
+      "authors": [
+        "Izabela Bogdan"
+      ],
+      "printed_page_number": "249",
+      "skip": false
+    },
+    {
+      "title": "Präsenz und Funktion des antiken Mythos in ›Teutschen Liedlein‹ um 1600",
+      "authors": [
+        "Achim Aurnhammer"
+      ],
+      "printed_page_number": "271",
+      "skip": false
+    },
+    {
+      "title": "Kontrafakturpraxis und Liedeinsatz im Drama",
+      "authors": [
+        "Irmgard Scheitler"
+      ],
+      "printed_page_number": "289",
+      "skip": false
+    },
+    {
+      "title": "Poetische Reflexionen der Geschlechterverhältnisse in Liederbüchern des 16. und 17. Jahrhunderts. Der Fall des Heidelberger Liederbuchs und die Lieder von Erasmus Widmann",
+      "authors": [
+        "Albrecht Classen"
+      ],
+      "printed_page_number": "319",
+      "skip": false
+    },
+    {
+      "title": "Nationalpoetische Aneignung. Aus ›Frischen Teutschen Liedlein‹ werden ›Alte deutsche Lieder‹",
+      "authors": [
+        "Dieter Martin"
+      ],
+      "printed_page_number": "339",
+      "skip": false
+    },
+    {
+      "title": "Register",
+      "authors": [],
+      "printed_page_number": "367",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

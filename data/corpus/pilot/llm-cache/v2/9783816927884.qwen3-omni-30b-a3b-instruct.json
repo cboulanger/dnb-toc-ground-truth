@@ -1,0 +1,1717 @@
+{
+  "generated_at": 1787117890.466825,
+  "entries": [
+    {
+      "title": "Technische Akustik \u2013 Ausgew\u00e4hlte Kapitel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Dipl.-Ing. Bodo G\u00fcnther",
+        "Dipl.-Ing. Karl H. Hansen",
+        "Prof. Dr.-Ing. Ivar Veit"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Grundlagen, aktuelle Probleme und Messtechnik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Dipl.-Ing. Bodo G\u00fcnther",
+        "Dipl.-Ing. Karl H. Hansen",
+        "Prof. Dr.-Ing. Ivar Veit"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Mit 268 Bildern",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Herausgeber-Vorwort",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1 Schall, Schallfeld, Schallfeldgr\u00f6\u00dfen",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "Ivar Veit"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.1 Schall",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.2 Ton, Klang und Ger\u00e4usch",
+      "printed_page_number": "18",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.3 Schallfeld, Schallfeldgr\u00f6\u00dfen",
+      "printed_page_number": "22",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.4 Die Wellengleichung",
+      "printed_page_number": "23",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.5 Reflexion und Beugung",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.6 Stehende Wellen",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.7 Reflexionsfreier Raum",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.8 Hallraum",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Messung der Schallfeldgr\u00f6\u00dfen",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [
+        "K.-H. Hansen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.1 Rayleigh-Scheibe",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.2 Schnellemikrofon und Druckmikrofon",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.3 Druckmikrofon mit endlichen Abmessungen",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4 Kalibrieren der Mikrofone",
+      "printed_page_number": "40",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4.1 Kalibrieren mit dem akustischen Kalibrator",
+      "printed_page_number": "41",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4.2 Kalibrieren mit dem Pistonphon",
+      "printed_page_number": "42",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4.3 Kalibrieren mit elektrostatischem Eichgitter",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4.4 Reziprozit\u00e4tskalibrierung",
+      "printed_page_number": "45",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.4.5 Kalibrieren mit besonders hohem Schalldruck",
+      "printed_page_number": "46",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.5 Gerichteter Schall, freies Schallfeld",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.6 Kundt'sches Rohr",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.7 Diffuser Schall",
+      "printed_page_number": "52",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Aufbau, Funktion, Eigenschaften und audiometrische Pr\u00fcfung unseres Geh\u00f6rs",
+      "printed_page_number": "53",
+      "source_page_index": -1,
+      "authors": [
+        "Ivar Veit"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.1 Definition",
+      "printed_page_number": "53",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.2 Aufbau und Funktion des Ohres",
+      "printed_page_number": "53",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.3 H\u00f6rschwelle und Schmerzempfindungsschwelle",
+      "printed_page_number": "56",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.4 Lautst\u00e4rke und Lautheit",
+      "printed_page_number": "58",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.5 Gerade noch wahrnehmbare Frequenz\u00e4nderungen von T\u00f6nen durch unser Geh\u00f6r",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.6 Tonh\u00f6henempfindung und Tonheit",
+      "printed_page_number": "63",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.7 Audiometrische Pr\u00fcfung des Geh\u00f6rs",
+      "printed_page_number": "65",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.7.1 Tonaudiometrie",
+      "printed_page_number": "65",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.7.2 \u00dcberschwellige Audiometrie",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.7.3 Sprachaudiometrie",
+      "printed_page_number": "68",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.7.4 Objektive Audiometrie",
+      "printed_page_number": "70",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Objektive Lautst\u00e4rkemessung",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [
+        "K.-H. Hansen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.1 Bewertete Schallpegel",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.2 Lautst\u00e4rkebeurteilungsmethoden",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.2.1 Lautst\u00e4rkeberechnung nach Zwicker",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.2.2 Lautheitsberechnung nach Stevens",
+      "printed_page_number": "80",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.2.3 L\u00e4rmbereitung von Flugzeugger\u00e4uschen nach Kryter",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.2.4 Bewertung der Gefahr von Geh\u00f6rsch\u00e4den mit Ger\u00e4uschbeurteilungszahlen",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.2.5 Bewertung der Gefahr von Geh\u00f6rsch\u00e4den aus A-Schallpegeln",
+      "printed_page_number": "86",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.3 Lautst\u00e4rke von Schallimpulsen",
+      "printed_page_number": "88",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.4 Energie\u00e4quivalenter Dauerschallpegel, L\u00e4rmdosis",
+      "printed_page_number": "91",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.5 Statistische Pegelmessung, \u00dcberschreitungspiegel",
+      "printed_page_number": "94",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Subminiatur-Mikrofone",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [
+        "Ivar Veit"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.1 Akustisch-elektrische Energieumwandlung",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.2 Das elektromagnetische Mikrofon",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.3 Das Keramik-Mikrofon",
+      "printed_page_number": "106",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.4 Das Elektret-Kondensatormikrofon",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5.5 Praktische Ausf\u00fchrung von Subminiatur-Mikrofonen",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 K\u00f6rperschall-Auslenkung, Schnelle, Beschleunigung",
+      "printed_page_number": "114",
+      "source_page_index": -1,
+      "authors": [
+        "B. C. G\u00fcnther"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.1 Definition",
+      "printed_page_number": "114",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.2 Messung des K\u00f6rperschalls",
+      "printed_page_number": "114",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.3 Wandlertypen",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.4.1 Piezoelektrische Beschleunigungsaufnehmer",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.4.2 Frequenzgang",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.4.3 Dynamikbereich",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.4.4 Richtungsfaktor",
+      "printed_page_number": "130",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.4.5 Umwelteinfl\u00fcsse",
+      "printed_page_number": "132",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.4.5.1 Temperatur",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.4.5.2 Verformung der Montagefl\u00e4che",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.4.5.3 Luftschall",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.4.5.4 Feuchtigkeit",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.4.5.5 Magnetfelder",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.4.5.6 Radioaktive Strahlung",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.5 Ankopplung am Me\u00dfobjekt",
+      "printed_page_number": "136",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.5.1 Konstruktive Faktoren",
+      "printed_page_number": "136",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.5.2 Ankopplungsarten",
+      "printed_page_number": "138",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.5.3 Kabelbewegungen",
+      "printed_page_number": "138",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.5.4 Erdschleifen",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.6 Vorverst\u00e4rker",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.7 Kalibrierung",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6.8 Anhang",
+      "printed_page_number": "146",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Frequenzanalyse",
+      "printed_page_number": "148",
+      "source_page_index": -1,
+      "authors": [
+        "K.-H. Hansen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.1 Einleitung",
+      "printed_page_number": "148",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.2 Beschreibungsmethoden f\u00fcr den Verlauf von Zeitfunktionen",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.3 Anwendungsprinzip der Frequenzdarstellung",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.4 Frequenzanalysatoren",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.4.1 Ein mechanischer Analysator",
+      "printed_page_number": "154",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.4.2 Eigenschaften von Frequenzfiltern",
+      "printed_page_number": "154",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.4.3 Wirkung der Filterbandbreite bei Analysen",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.4.4 Analysatoren mit Abstimmm- oder Schnittfiltern",
+      "printed_page_number": "157",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.4.5 \u00dcberlagerungen-Analysatoren",
+      "printed_page_number": "158",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.4.6 Echtzeit-Analysatoren",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.4.7 FFT-Analysatoren",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.4.8 Synthetische Bandbreiten",
+      "printed_page_number": "170",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.4.9 Zwei- und Mehrkanalanalyse mit FFT",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.4.10 Cepstrumanalyse",
+      "printed_page_number": "172",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.5 Ausf\u00fchrung von Frequenzanalysen",
+      "printed_page_number": "172",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.5.1 Auswahl der Methode",
+      "printed_page_number": "172",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.5.2 Wahl der unver\u00e4nderlichen Einstellung am Analysator",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7.5.3 Deutung der Spektren",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Korrelationsme\u00dftechnik in der Akustik",
+      "printed_page_number": "178",
+      "source_page_index": -1,
+      "authors": [
+        "Ivar Veit"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.1 Einleitung",
+      "printed_page_number": "178",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.2 Korrelationsfunktion",
+      "printed_page_number": "178",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.3 Korrelationsspektrum",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.4 Cepstrum",
+      "printed_page_number": "183",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.5 Beispiele aus der Praxis f\u00fcr die Anwendung der Korrelationsme\u00dftechnik in der Akustik",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.5.1 Die Korrelationsme\u00dftechnik in der Raumakustik",
+      "printed_page_number": "186",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8.5.2 Die Korrelationsme\u00dftechnik in der Schallortung",
+      "printed_page_number": "187",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 L\u00e4rm-Me\u00dftechnik",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [
+        "B. C. G\u00fcnther"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.1 Definition des Begriffes \u201eL\u00e4rm\u201c",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.2 L\u00e4rmessungen \u2013 warum?",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.3 L\u00e4rmvorschriften",
+      "printed_page_number": "192",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.4 Me\u00dfger\u00e4te-Normen",
+      "printed_page_number": "193",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.5 Technik der L\u00e4rmessungen",
+      "printed_page_number": "194",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.5.1 M\u00f6glichkeiten zur Messung einer L\u00e4rmquelle",
+      "printed_page_number": "194",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.5.2 Ortung von L\u00e4rmquellen",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.5.3 Erfahrungen aus der Praxis",
+      "printed_page_number": "203",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9.6 Grunds\u00e4tzliches zu Schallschutzma\u00dfnahmen",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Schallabstrahlung von Maschinen und Apparaten",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [
+        "K.-H. Hansen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.1 Einleitung",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.2 Typische Schallquellen an Maschinen",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.3 \u00dcbertragungswege f\u00fcr Schwingungen",
+      "printed_page_number": "214",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.4 Spektrumerzeugung durch Maschinen",
+      "printed_page_number": "216",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.4.1 Periodische Vorg\u00e4nge",
+      "printed_page_number": "216",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.4.2 Stochastische Vorg\u00e4nge",
+      "printed_page_number": "217",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.4.3 Impulsvorg\u00e4nge",
+      "printed_page_number": "218",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.5 Mechanismen der Schallabstrahlung",
+      "printed_page_number": "219",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.5.1 Schallentwicklung von Kugelstrahlern",
+      "printed_page_number": "219",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.5.2 Schallstrahlung einer eben schwingenden Wand",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.5.3 Schallabstrahlung durch Biegewellen",
+      "printed_page_number": "222",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.6 Beschreibung der Schallabstrahlung durch die Schalleistung",
+      "printed_page_number": "224",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.6.1 Berechnung der Schalleistung aus Schalldruckmessungen im freien Halbraum",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.6.2 Berechnung der Schalleistung aus Schalldruckmessungen im Hallraum",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.6.3 Berechnung der Schalleistung aus Messungen in beliebigen R\u00e4umen",
+      "printed_page_number": "228",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.6.4 Ermittlung der Hallraumkorrekturen mit Hilfe einer Normalschallquelle",
+      "printed_page_number": "230",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10.6.5 Ermittlung der Schalleistung mit einer regelbaren Zusatzquelle",
+      "printed_page_number": "231",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11 Schallvorg\u00e4nge in fl\u00fcssigkeitsgef\u00fcllten Rohren",
+      "printed_page_number": "233",
+      "source_page_index": -1,
+      "authors": [
+        "Ivar Veit"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11.1 Die Wellengleichung und ihre L\u00f6sungen",
+      "printed_page_number": "233",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11.2 Grenzf\u00e4lle: Schallhart und schallweich berandete Fl\u00fcssigkeitss\u00e4ule",
+      "printed_page_number": "236",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11.2.1 Schallhart berandete Fl\u00fcssigkeitss\u00e4ule mit Kreisquerschnitt",
+      "printed_page_number": "236",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11.2.2 Schallweich berandete Fl\u00fcssigkeitss\u00e4ule mit Kreisquerschnitt",
+      "printed_page_number": "236",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11.3 Schallausbreitung in einer federnd berandeten Fl\u00fcssigkeitss\u00e4ule mit Kreisquerschnitt",
+      "printed_page_number": "239",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11.4 Erzeugung ebener Schallwellen in fl\u00fcssigkeitsgef\u00fcllten Rohren",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11.4.1 Schalldruck und Schallschnelle",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11.4.2 Strahlungsimpedanz und Schalleistung",
+      "printed_page_number": "246",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11.4.3 Aufbau von Schallsendern zur Erzeugung ebener Rohrschallwellen",
+      "printed_page_number": "246",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12 Verzerrungsmessungen an Schall\u00fcbertragungssystemen",
+      "printed_page_number": "248",
+      "source_page_index": -1,
+      "authors": [
+        "B. C. G\u00fcnther"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12.1 Definition",
+      "printed_page_number": "248",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12.2 Der elektro-akustische \u00dcbertragungsfaktor, das elektro-akustische \u00dcbertragungs-Ma\u00df",
+      "printed_page_number": "250",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12.3 Messungen von Frequenzg\u00e4ngen",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12.3.1 Der Amplitudenfrequenzgang",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12.3.1.1 Im freien Schallfeld / reflexionsfreien Raum",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12.3.1.2 Im Anwenderraum",
+      "printed_page_number": "255",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12.3.2 Der Phasenfrequenzgang",
+      "printed_page_number": "263",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12.3.3 Amplitudenfrequenzgang von Mikrofonen",
+      "printed_page_number": "262",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12.4 Messungen von Verzerrungen",
+      "printed_page_number": "268",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12.4.1 Die harmonische Verzerrung (Klirrfaktor)",
+      "printed_page_number": "268",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12.4.2 Die Intermodulationsverzerrung",
+      "printed_page_number": "270",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12.4.3 Die Differenzfrequenzverzerrung",
+      "printed_page_number": "273",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12.4.4 Die Transiente Intermodulationsverzerrung (TIM)",
+      "printed_page_number": "275",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13 Fl\u00fcssigkeitsschall",
+      "printed_page_number": "277",
+      "source_page_index": -1,
+      "authors": [
+        "Ivar Veit"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13.1 Gegen\u00fcberstellung: Luft-, Fl\u00fcssigkeits- und K\u00f6rperschall",
+      "printed_page_number": "277",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13.2 Quellen f\u00fcr Fl\u00fcssigkeitsschall",
+      "printed_page_number": "278",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13.3 Kavitation und Kavitationsger\u00e4usche",
+      "printed_page_number": "279",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13.4 Akustische Eigenschaften des Meeres",
+      "printed_page_number": "281",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13.5 Wasserschallwandler",
+      "printed_page_number": "288",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13.5.1 Wasserschallsender",
+      "printed_page_number": "288",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13.5.2 Magnetostriktive Wasserschallsender",
+      "printed_page_number": "290",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13.5.3 Piezoelektrische Wasserschallsender",
+      "printed_page_number": "290",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13.5.4 Wasserschallempf\u00e4nger (Hydrofone)",
+      "printed_page_number": "292",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13.5.5 Magnetostriktive Hydrofone",
+      "printed_page_number": "293",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13.5.6 Piezoelektrische Hydrofone",
+      "printed_page_number": "293",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13.6 Kalibrierung",
+      "printed_page_number": "295",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13.7 Hydroakustische Me\u00dftechnik",
+      "printed_page_number": "297",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14 Wissenswertes aus der Raum- und Bauakustik",
+      "printed_page_number": "298",
+      "source_page_index": -1,
+      "authors": [
+        "Ivar Veit"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14.1 Allgemeines",
+      "printed_page_number": "298",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14.2 Luftschalld\u00e4mmung und bewertetes Schalld\u00e4mm-Ma\u00df",
+      "printed_page_number": "299",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14.3 Trittschall, Trittschalld\u00e4mmung und bewerteter Norm-Trittschallpegel",
+      "printed_page_number": "303",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14.4 Schallschutz in der Raum- und Bauakustik",
+      "printed_page_number": "306",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14.4.1 Schallschutz bei W\u00e4nden",
+      "printed_page_number": "306",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14.4.2 Schallschutz bei Decken",
+      "printed_page_number": "308",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14.4.3 Schallschutz bei Fenstern",
+      "printed_page_number": "309",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14.4.4 Schallschutz bei T\u00fcren",
+      "printed_page_number": "310",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14.5.1 Por\u00f6se Schallschlucker",
+      "printed_page_number": "311",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14.5.2 Resonanz-Schallschlucker",
+      "printed_page_number": "312",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15 Schalleistungsmessung",
+      "printed_page_number": "314",
+      "source_page_index": -1,
+      "authors": [
+        "K.-H. Hansen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15.1 Einleitung",
+      "printed_page_number": "314",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15.2 Grundlagen der Messung",
+      "printed_page_number": "314",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15.3 Praktische Messung",
+      "printed_page_number": "317",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15.3.1 Messung im freien Schallfeld",
+      "printed_page_number": "317",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15.3.2 Wichtige Bedingungen der Freifeldmessung",
+      "printed_page_number": "318",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15.3.3 Messung im Hallraum",
+      "printed_page_number": "319",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15.3.4 Nachhallzeit",
+      "printed_page_number": "319",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15.3.5 Wichtige Bedingungen der Hallraummessung",
+      "printed_page_number": "321",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15.3.6 Sonderhallraum-Verfahren",
+      "printed_page_number": "321",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15.3.7 Messungen am Aufstellungsort",
+      "printed_page_number": "322",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15.3.8 Hilfsschallquellen zur Korrekturermittlung",
+      "printed_page_number": "322",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15.4 Raumunempfindliches Me\u00dfverfahren",
+      "printed_page_number": "324",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15.5 Abw\u00e4gung der Vor- und Nachteile verschiedener Verfahren der Schalleistungsmessung",
+      "printed_page_number": "325",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16 Mikrofone f\u00fcr Luft- und Wasserschall",
+      "printed_page_number": "326",
+      "source_page_index": -1,
+      "authors": [
+        "Ivar Veit"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16.1 Allgemeines",
+      "printed_page_number": "326",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16.2 Luftschaalmikrofone",
+      "printed_page_number": "327",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16.2.1 Elektrodynamische Mikrofone",
+      "printed_page_number": "330",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16.2.2 Elektrostatische Mikrofone",
+      "printed_page_number": "335",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16.2.3 Praktische Ausf\u00fchrungsarten von Mikrofonen",
+      "printed_page_number": "344",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16.2.4 Interessante Varianten piezoelektrischer Mikrofone",
+      "printed_page_number": "351",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16.2.5 Der Helmholtz-Resonator \u2013 ein n\u00fctzliches Hilfsmittel zur Ver\u00e4nderung von Mikrofon-Frequenzg\u00e4ngen",
+      "printed_page_number": "353",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16.3 Wasserschallmikrofone (Hydrofone)",
+      "printed_page_number": "354",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "printed_page_number": "355",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sachregister",
+      "printed_page_number": "363",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "printed_page_number": "370",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "generated_at": 1787243743.0849762,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "III",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Charles Kingsley Barrett, Durham",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Charles Kingsley Barrett"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Faith and Eschatology in Acts 3",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Charles Kingsley Barrett"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jacques Dupont, Ottignies",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Jacques Dupont"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eJe reb\u00e2tirai la cabane de David qui est tomb\u00e9e\u201c (Ac 15,16 = Am 9,11)",
+      "printed_page_number": "19",
+      "source_page_index": -1,
+      "authors": [
+        "Jacques Dupont"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erich Gr\u00e4\u00dfer, Bonn",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Erich Gr\u00e4\u00dfer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Verhei\u00dfung und Erf\u00fcllung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Erich Gr\u00e4\u00dfer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Werner Georg K\u00fcmmels Verst\u00e4ndnis der Eschatologie Jesu",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [
+        "Erich Gr\u00e4\u00dfer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ferdinand Hahn, M\u00fcnchen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ferdinand Hahn"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Glaubensverst\u00e4ndnis im Johannesevangelium",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Ferdinand Hahn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Martin Hengel, T\u00fcbingen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Martin Hengel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Jakobus der Herrenbruder \u2013 der erste \u201ePapst\u201c?",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Hengel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Traugott Holtz, Halle (Saale)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Traugott Holtz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Theo-logie und Christologie bei Paulus",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "Traugott Holtz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans H\u00fcbner, G\u00f6ttingen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hans H\u00fcbner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Was hei\u00dft bei Paulus \u201eWerke des Gesetzes\u201c?",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [
+        "Hans H\u00fcbner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Howard Clark Kee, Boston",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Howard Clark Kee"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Pauline Eschatology: Relationships with Apocalyptic and Stoic Thought",
+      "printed_page_number": "135",
+      "source_page_index": -1,
+      "authors": [
+        "Howard Clark Kee"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eduard Lohse, Hannover",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Eduard Lohse"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Jesu Bu\u00dfruf an die Reichen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Eduard Lohse"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Markus 10,25 Par",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [
+        "Eduard Lohse"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lorenzo De Lorenzi, Roma",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Lorenzo De Lorenzi"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "La speranza nostro vanto",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Lorenzo De Lorenzi"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Rom 5,2c",
+      "printed_page_number": "165",
+      "source_page_index": -1,
+      "authors": [
+        "Lorenzo De Lorenzi"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Otto Merk, Erlangen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Otto Merk"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zu Rudolf Bultmanns Auslegung des 1. Thessalonicherbriefes",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [
+        "Otto Merk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Charles Francis Digby Moule, Cambridge",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Charles Francis Digby Moule"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The Function of the Synoptic Gospels",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [
+        "Charles Francis Digby Moule"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": "VI",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Franz Mu\u00dfner, Regensburg",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Franz Mu\u00dfner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eWeltherrschaft\u201c als eschatologisches Thema der Johannesapokalypse",
+      "printed_page_number": "209",
+      "source_page_index": -1,
+      "authors": [
+        "Franz Mu\u00dfner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J\u00fcrgen Roloff, Erlangen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Roloff"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Pfeiler und Fundament der Wahrheit",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Roloff"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Erw\u00e4gungen zum Kirchenverst\u00e4ndnis der Pastoralbriefe",
+      "printed_page_number": "229",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Roloff"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rudolf Schnackenburg, W\u00fcrzburg",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf Schnackenburg"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die lukanische Eschatologie im Lichte von Aussagen der Apostelgeschichte",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf Schnackenburg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wolfgang Schrage, Bonn",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Schrage"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eEin Tag ist beim Herrn wie tausend Jahre, und tausend Jahre sind wie ein Tag\u201c 2Petr 3,8",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Schrage"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eduard Schweizer, Z\u00fcrich",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Eduard Schweizer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Bedeutung der Eschatologie f\u00fcr den Glauben bei Jesus",
+      "printed_page_number": "277",
+      "source_page_index": -1,
+      "authors": [
+        "Eduard Schweizer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Peter Stuhlmacher, T\u00fcbingen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Peter Stuhlmacher"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Paulus und Luther",
+      "printed_page_number": "285",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Stuhlmacher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anton V\u00f6gtle, Freiburg i. Br.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Anton V\u00f6gtle"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eDann sah ich einen neuen Himmel und eine neue Erde ...\u201c (Apk 21,1)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Anton V\u00f6gtle"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zur kosmischen Dimension neutestamentlicher Eschatologie",
+      "printed_page_number": "303",
+      "source_page_index": -1,
+      "authors": [
+        "Anton V\u00f6gtle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nikolaus Walter, Naumburg",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Nikolaus Walter"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eHellenistische Eschatologie\u201c im Neuen Testament",
+      "printed_page_number": "335",
+      "source_page_index": -1,
+      "authors": [
+        "Nikolaus Walter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

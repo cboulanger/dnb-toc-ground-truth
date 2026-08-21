@@ -1,0 +1,386 @@
+{
+  "generated_at": 1787236341.490251,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "INHALTSVERZEICHNIS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Michael St\u00fcrmer",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Michael St\u00fcrmer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bismarcks Deutschland als Problem der Forschung",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Michael St\u00fcrmer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Helmut B\u00f6hme",
+      "printed_page_number": "26",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut B\u00f6hme"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Politik und \u00d6konomie in der Reichsgr\u00fcndungs- und sp\u00e4ten Bismarckzeit",
+      "printed_page_number": "26",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut B\u00f6hme"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Friedrich P. Kahlenberg",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Friedrich P. Kahlenberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Epochenjahr 1866 in der deutschen Geschichte",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Friedrich P. Kahlenberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Josef Becker",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "Josef Becker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Krieg mit Frankreich als Problem der kleindeutschen Einigungspolitik Bismarcks 1866\u20141870",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "Josef Becker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Manfred Messerschmidt",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "Manfred Messerschmidt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Armee in Staat und Gesellschaft \u2014 Die Bismarckzeit",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "Manfred Messerschmidt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans Boldt",
+      "printed_page_number": "119",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Boldt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Deutscher Konstitutionalismus und Bismarckreich",
+      "printed_page_number": "119",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Boldt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Michael St\u00fcrmer",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [
+        "Michael St\u00fcrmer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Konservatismus und Revolution in Bismarcks Politik",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [
+        "Michael St\u00fcrmer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fritz Stern",
+      "printed_page_number": "168",
+      "source_page_index": -1,
+      "authors": [
+        "Fritz Stern"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die politischen Folgen des unpolitischen Deutschen",
+      "printed_page_number": "168",
+      "source_page_index": -1,
+      "authors": [
+        "Fritz Stern"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Andreas Hillgruber",
+      "printed_page_number": "187",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Hillgruber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zwischen Hegemonie und Weltpolitik. Das Problem der Kontinuit\u00e4t von Bismarck bis Bethmann Hollweg",
+      "printed_page_number": "187",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Hillgruber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Klaus Hildebrand",
+      "printed_page_number": "205",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Hildebrand"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Von der Reichseinigung zur \u201eKrieg in Sicht\u201c Krise. Preu\u00dfen-Deutschland als Faktor der britischen Au\u00dfenpolitik 1866\u20141875",
+      "printed_page_number": "205",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Hildebrand"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans-Ulrich Wehler",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Ulrich Wehler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bismarcks Imperialismus und sp\u00e4te Ru\u00dflandpolitik unter dem Primat der Innenpolitik",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Ulrich Wehler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J\u00fcrgen Kocka",
+      "printed_page_number": "265",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Kocka"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Vorindustrielle Faktoren in der deutschen Industrialisierung. Industrieb\u00fcrokratie und \u201eneuer Mittelstand\u201c",
+      "printed_page_number": "265",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Kocka"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "John C. G. R\u00f6hl",
+      "printed_page_number": "287",
+      "source_page_index": -1,
+      "authors": [
+        "John C. G. R\u00f6hl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beamtenpolitik im Wilhelminischen Deutschland",
+      "printed_page_number": "287",
+      "source_page_index": -1,
+      "authors": [
+        "John C. G. R\u00f6hl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wilhelm Deist",
+      "printed_page_number": "312",
+      "source_page_index": -1,
+      "authors": [
+        "Wilhelm Deist"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Armee in Staat und Gesellschaft 1890\u20141914",
+      "printed_page_number": "312",
+      "source_page_index": -1,
+      "authors": [
+        "Wilhelm Deist"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans-J\u00fcrgen Puhle",
+      "printed_page_number": "340",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-J\u00fcrgen Puhle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Parlament, Parteien und Interessenverb\u00e4nde 1890\u20141914",
+      "printed_page_number": "340",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-J\u00fcrgen Puhle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Volker R. Berghahn",
+      "printed_page_number": "378",
+      "source_page_index": -1,
+      "authors": [
+        "Volker R. Berghahn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Flottenr\u00fcstung und Machtgef\u00fcge",
+      "printed_page_number": "378",
+      "source_page_index": -1,
+      "authors": [
+        "Volker R. Berghahn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gustav Schmidt",
+      "printed_page_number": "397",
+      "source_page_index": -1,
+      "authors": [
+        "Gustav Schmidt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Deutschland am Vorabend des Ersten Weltkriegs",
+      "printed_page_number": "397",
+      "source_page_index": -1,
+      "authors": [
+        "Gustav Schmidt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "printed_page_number": "435",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Abk\u00fcrzungen",
+      "printed_page_number": "441",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Register",
+      "printed_page_number": "443",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Nachwort zur Taschenbuchauflage",
+      "printed_page_number": "449",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

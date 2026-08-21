@@ -1,0 +1,321 @@
+{
+  "entries": [
+    {
+      "title": "Einf\u00fchrung",
+      "authors": [],
+      "printed_page_number": "II",
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Einf\u00fchrung",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": true
+    },
+    {
+      "title": "Ein Beitrag zur historiographischen Erschlie\u00dfung der geschichtlichen Welt",
+      "authors": [
+        "REINHART KOSELLECK",
+        "Bielefeld"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Parteistandpunkt und historisches Argument in der sp\u00e4tmittelalterlichen Publizistik",
+      "authors": [
+        "J\u00dcRGEN MIETHKE",
+        "Berlin"
+      ],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Rankes Begriff der historischen Objektivit\u00e4t",
+      "authors": [
+        "RUDOLF VIERHAUS",
+        "G\u00f6ttingen"
+      ],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "Georg Gottfried Gervinus und das Konzept der objektiven Parteilichkeit im deutschen Historismus",
+      "authors": [
+        "J\u00d6RN R\u00dcSEN",
+        "Bochum"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Ein Diskussionsbeitrag von KARL-GEORG FABER, M\u00fcnster",
+      "authors": [
+        "KARL-GEORG FABER",
+        "M\u00fcnster"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "Objektivit\u00e4t und Parteilichkeit im historiographischen Werk Sybels und Treitschkes",
+      "authors": [
+        "WOLFGANG J. MOMMSEN",
+        "D\u00fcsseldorf"
+      ],
+      "printed_page_number": "134",
+      "skip": false
+    },
+    {
+      "title": "Vier Thesen zur Geschichtstheorie von Karl Marx",
+      "authors": [
+        "HEINZ-DIETER KITTSTEINER",
+        "Berlin"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "Zum Wandel der katholischen Lutherinterpretation",
+      "authors": [
+        "HEINRICH LUTZ",
+        "Wien"
+      ],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "Unterschiede und Gemeinsamkeiten zwischen marxistischer und nichtmarxistischer M\u00fcnzferforschung",
+      "authors": [
+        "WINFRIED SCHULZE",
+        "Berlin"
+      ],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "Grenzen und Bedingungen einer Pers\u00f6nlichkeitsbeurteilung",
+      "authors": [
+        "HEL MUT RUMPLER",
+        "Klagenfurt"
+      ],
+      "printed_page_number": "212",
+      "skip": false
+    },
+    {
+      "title": "Parteilichkeit und Objektivit\u00e4t als Theorie-Problem der DDR-Historie",
+      "authors": [
+        "HEL MUT RUMPLER",
+        "Klagenfurt"
+      ],
+      "printed_page_number": "228",
+      "skip": false
+    },
+    {
+      "title": "Einige Thesen von J\u00dcRGEN KOCKA, Bielefeld",
+      "authors": [
+        "J\u00dcRGEN KOCKA",
+        "Bielefeld"
+      ],
+      "printed_page_number": "263",
+      "skip": false
+    },
+    {
+      "title": "Zur Instrumentalisierung historischen Wissens in der politischen Diskussion",
+      "authors": [
+        "KARL-GEORG FABER",
+        "M\u00fcnster"
+      ],
+      "printed_page_number": "270",
+      "skip": false
+    },
+    {
+      "title": "Das Problem der Objektivit\u00e4t und der Tatsachenbegriff",
+      "authors": [
+        "G\u00dcN THER PATZIG",
+        "G\u00f6ttingen"
+      ],
+      "printed_page_number": "319",
+      "skip": false
+    },
+    {
+      "title": "Parteilichkeit und Objektivit\u00e4t im Geschichtsdenken nach Marx",
+      "authors": [
+        "HEL MUT FLEISCHER",
+        "Darmstadt"
+      ],
+      "printed_page_number": "337",
+      "skip": false
+    },
+    {
+      "title": "Kritik einer These",
+      "authors": [
+        "HANS-WALTER HEDINGER",
+        "Hamburg"
+      ],
+      "printed_page_number": "362",
+      "skip": false
+    },
+    {
+      "title": "\u00dcber Parteilichkeit und Objektivit\u00e4t in den Gesellschaftswissenschaften",
+      "authors": [
+        "KARL ACHAM",
+        "Graz"
+      ],
+      "printed_page_number": "393",
+      "skip": false
+    },
+    {
+      "title": "Die subjektiven Voraussetzungen der Historie und der Sinn von Parteilichkeit",
+      "authors": [
+        "HANS MICHAEL BAUMGARTNER",
+        "Gie\u00dfen"
+      ],
+      "printed_page_number": "425",
+      "skip": false
+    },
+    {
+      "title": "Der perspektivische Charakter historischer Aussagen und das Problem von Parteilichkeit und Objektivit\u00e4t historischer Erkenntnis",
+      "authors": [
+        "WOLFGANG J. MOMMSEN",
+        "D\u00fcsseldorf"
+      ],
+      "printed_page_number": "441",
+      "skip": false
+    },
+    {
+      "title": "Angemessenheitskriterien historischer Argumente",
+      "authors": [
+        "J\u00dcRGEN KOCKA",
+        "Bielefeld"
+      ],
+      "printed_page_number": "469",
+      "skip": true
+    },
+    {
+      "title": "Ausgew\u00e4hlte Bibliographie",
+      "authors": [
+        "CHRISTINE LANDFRIED",
+        "Heidelberg"
+      ],
+      "printed_page_number": "477",
+      "skip": true
+    },
+    {
+      "title": "Personenregister",
+      "authors": [],
+      "printed_page_number": "491",
+      "skip": true
+    },
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Erster Teil",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Das Objektivit\u00e4tsproblem in der Tradition des historischen Denkens",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Standortbindung und Zeitlichkeit",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Der Historiker als \u00bbParteimann des Schicksals\u00ab",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Gervinus oder: Das Elend einer Geschichtsphilosophie",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Objektivit\u00e4t und Totalit\u00e4t",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Zweiter Teil",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Parteilichkeit in der historischen Forschung und in geschichtlicher Argumentation",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Beust im Schatten Bismarcks",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Parteilichkeit in der DDR-marxistischen Geschichtswissenschaft",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Dritter Teil",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Parteilichkeit, Perspektivit\u00e4t, Objektivit\u00e4t",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Ans\u00e4tze zu einer systematischen Er\u00f6rterung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Standortgebundenheit historischer Erkenntnis?",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Ein Diskussionsbeitrag von Karl-Georg Faber, M\u00fcnster",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Einige Thesen von J\u00fcrgen Kocka, Bielefeld",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": false
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

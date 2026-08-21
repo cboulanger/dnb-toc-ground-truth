@@ -1,0 +1,48 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": ["Ulrich Hemel", "Gerhard Kruip"],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "authors": ["Hans Joas"],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Was sind religiöse Überzeugungen?",
+      "authors": ["Thomas Schärtl"],
+      "printed_page_number": "18",
+      "skip": false
+    },
+    {
+      "title": "Systematisch irreführende Äpfel",
+      "authors": ["Clemens Sedmak"],
+      "printed_page_number": "54",
+      "skip": false
+    },
+    {
+      "title": "Was sind religiöse Überzeugungen?",
+      "authors": ["Klaus von Stosch"],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "Über das Forschungsinstitut für Philosophie Hannover",
+      "authors": [],
+      "printed_page_number": "147",
+      "skip": true
+    },
+    {
+      "title": "Informationen zu den Preisträgern",
+      "authors": [],
+      "printed_page_number": "149",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

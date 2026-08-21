@@ -1,0 +1,138 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Kunst und Erfahrung. Eine theoretische Landkarte",
+      "authors": [
+        "Stefan Deines",
+        "Jasper Liptow",
+        "Martin Seel"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Unterwegs zu einer nichtminimalistischen Konzeption ästhetischer Erfahrung",
+      "authors": [
+        "Jerrold Levinson"
+      ],
+      "printed_page_number": "38",
+      "skip": false
+    },
+    {
+      "title": "Neuere Theorien ästhetischer Erfahrung",
+      "authors": [
+        "Noël Carroll"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Ästhetisches Erfahren – ein Phantom?",
+      "authors": [
+        "Matthias Vogel"
+      ],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "Gibt es eine ästhetische Emotion?",
+      "authors": [
+        "Catrin Misselhorn"
+      ],
+      "printed_page_number": "120",
+      "skip": false
+    },
+    {
+      "title": "Die Erfahrung ästhetischer Eigenschaften",
+      "authors": [
+        "Jasper Liptow"
+      ],
+      "printed_page_number": "142",
+      "skip": false
+    },
+    {
+      "title": "Auf dem Weg zu einem angemessenen Objektivismus für ästhetische Urteile",
+      "authors": [
+        "Elisabeth Schellekens"
+      ],
+      "printed_page_number": "160",
+      "skip": false
+    },
+    {
+      "title": "Was geschieht hier? Beim Verfolgen einer Sequenz in Michelangelo Antonionis Film »Zabriskie Point«",
+      "authors": [
+        "Martin Seel"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "Der affektive Motor des Ästhetischen",
+      "authors": [
+        "Christiane Voss"
+      ],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "Kunstphilosophie und Kunsterfahrung. Eine pluralistische Perspektive",
+      "authors": [
+        "Stefan Deines"
+      ],
+      "printed_page_number": "218",
+      "skip": false
+    },
+    {
+      "title": "Ästhetische Erfahrung und die Modernität der Kunst",
+      "authors": [
+        "Georg W. Bertram"
+      ],
+      "printed_page_number": "250",
+      "skip": false
+    },
+    {
+      "title": "Das Problem nichtperzeptueller Kunst",
+      "authors": [
+        "James Shelley"
+      ],
+      "printed_page_number": "270",
+      "skip": false
+    },
+    {
+      "title": "Stil als Artikulation einer Haltung",
+      "authors": [
+        "Eva Schürmann"
+      ],
+      "printed_page_number": "296",
+      "skip": false
+    },
+    {
+      "title": "Kunst und Publikum",
+      "authors": [
+        "Nick Zangwill"
+      ],
+      "printed_page_number": "316",
+      "skip": false
+    },
+    {
+      "title": "Textnachweise",
+      "authors": [],
+      "printed_page_number": "359",
+      "skip": true
+    },
+    {
+      "title": "Hinweise zu den Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "360",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

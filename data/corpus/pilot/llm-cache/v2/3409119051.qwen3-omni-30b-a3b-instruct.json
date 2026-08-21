@@ -1,0 +1,303 @@
+{
+  "generated_at": 1787015674.772258,
+  "entries": [
+    {
+      "title": "Geleitwort",
+      "printed_page_number": "V",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "VII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Teil I: Strategische Aspekte",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kundenfokus im Mobile Commerce: Anforderungen der Kunden und Anforderungen an die Kunden",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Friedhelm Bliemel",
+        "Georg Fassott"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gesch\u00e4ftsmodelle im Mobile Commerce",
+      "printed_page_number": "24",
+      "source_page_index": -1,
+      "authors": [
+        "Reiner Clement"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wettbewerbsstrategische Positionierung von Mobilfunknetzbetreibern im Mobile Business",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [
+        "Torsten J. Gerpott"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mobile Marketing als Schl\u00fcsselgr\u00f6\u00dfe f\u00fcr Multichannel-Commerce",
+      "printed_page_number": "64",
+      "source_page_index": -1,
+      "authors": [
+        "Dirk M\u00f6hlenbruch",
+        "Ulf-Marten Schmieder"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das mobile Unternehmen",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [
+        "August-Wilhelm Scheer",
+        "Thomas Feld",
+        "Mark G\u00f6bl",
+        "Michael Hoffmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil II: Informationsgrundlagen",
+      "printed_page_number": "107",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Rechtlicher Rahmen des Mobile Commerce",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [
+        "Jens-Uwe Heuer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erfolgsplanung und -kontrolle im Mobile Commerce",
+      "printed_page_number": "128",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg Link",
+        "Sebastian Schmidt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "WAP Log Mining als Instrument der Marketingforschung f\u00fcr den Mobile Commerce",
+      "printed_page_number": "150",
+      "source_page_index": -1,
+      "authors": [
+        "Frank Bensberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Utility und Usability im Mobile Commerce",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [
+        "Miriam Yom"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00dcbertragungsstandards und -bandbreiten in der Mobilkommunikation",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Mielke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil III: Absatzpolitische Instrumente",
+      "printed_page_number": "203",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Neue Dienstleistungen im Mobile Commerce",
+      "printed_page_number": "205",
+      "source_page_index": -1,
+      "authors": [
+        "Jens B\u00f6cker",
+        "Sabine Quabeck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Preispolitik im Mobile Commerce",
+      "printed_page_number": "229",
+      "source_page_index": -1,
+      "authors": [
+        "S\u00f6nke Albers",
+        "Bj\u00f6rn Sch\u00e4fers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wireless Advertising",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [
+        "Jens Wohlfahrt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kosten und Wirkungen mobiler Werbung",
+      "printed_page_number": "265",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Hinrichs",
+        "Ingo Lippert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wireless Sponsoring \u2013 Formen und Ans\u00e4tze einer Erfolgskontrolle",
+      "printed_page_number": "279",
+      "source_page_index": -1,
+      "authors": [
+        "Thorsten Wilhelm",
+        "Jens Wohlfahrt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Permission Marketing im Mobile Commerce",
+      "printed_page_number": "289",
+      "source_page_index": -1,
+      "authors": [
+        "Torsten Schwarz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kundenzufriedenheit und Kundenbindung im Mobile Commerce",
+      "printed_page_number": "309",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter Silberer",
+        "Alexander Magermans",
+        "Jens Wohlfahrt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil IV: Branchenaspekte",
+      "printed_page_number": "325",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Mobile Payment",
+      "printed_page_number": "327",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Henkel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mobile Banking und Sicherheit im Mobile Commerce",
+      "printed_page_number": "353",
+      "source_page_index": -1,
+      "authors": [
+        "Nasser Mustafa",
+        "Andreas Oberweis",
+        "Tobias Schnurr"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "One-to-One-Marketing f\u00fcr Autofahrer \u2013 Visionen, M\u00f6glichkeiten und Ans\u00e4tze",
+      "printed_page_number": "373",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg Tegtmeyer",
+        "Verena L\u00f6ser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Web in the car \u2013 Mobile Commerce als Herausforderung f\u00fcr Automobilhersteller",
+      "printed_page_number": "381",
+      "source_page_index": -1,
+      "authors": [
+        "Kilian Fr\u00fchauf",
+        "Rainer Oberbauer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stichwortverzeichnis",
+      "printed_page_number": "399",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Herausgeber",
+      "printed_page_number": "403",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Autoren",
+      "printed_page_number": "405",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

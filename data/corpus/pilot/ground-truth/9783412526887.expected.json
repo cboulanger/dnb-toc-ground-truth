@@ -1,0 +1,107 @@
+{
+  "entries": [
+    {
+      "title": "Einleitung",
+      "authors": [
+        "Klaus Niehr",
+        "Silvia Schmitt-Maaß"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Helden auf Papier. Bildnisse der Welfen in Zeichnungen des 16. bis 18. Jahrhunderts",
+      "authors": [
+        "Klaus Niehr"
+      ],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "Herrscherbildnisse und Porträtserien der Welfen in öffentlichen Sälen um 1700 auf dem Gebiet des heutigen Niedersachsens",
+      "authors": [
+        "Heiko Laß"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "Kinder- und Familienbildnisse der Welfen. Teil I: Wolfenbüttel, Bevern und Braunschweig",
+      "authors": [
+        "Silvia Schmitt-Maaß"
+      ],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "Kinder- und Familienbildnisse der Welfen. Teil II: Hannover und Herrenhausen",
+      "authors": [
+        "Silvia Schmitt-Maaß"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Porträtgemälde der Sammlung des Schlosses Salzdahlum in seiner barocken Gründungsphase. Erwerbung, Präsentation, Bedeutungsebenen und didaktische Aspekte",
+      "authors": [
+        "Silke Gatenbröcker"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "Missglückte Repräsentation? Ein monumentales ›Familienbild‹ als Altartafel in der Wolfenbütteler Schlosskapelle",
+      "authors": [
+        "Sebastian Mönnich"
+      ],
+      "printed_page_number": "151",
+      "skip": false
+    },
+    {
+      "title": "Nach und vor der Lektüre. Die Angst des Grafen Wallmoden vor der Unsichtbarkeit",
+      "authors": [
+        "Ralf Bormann"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "Weibliche Rollenbilder in Welfenbildnissen. Braut, Gemahlin, Mutter, Vormundin, Regentin, Witwe",
+      "authors": [
+        "Karin Schrader"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "Caroline of Ansbach, and the Visual Presentation of Hanoverian Histories at the Early Eighteenth-Century British Court",
+      "authors": [
+        "Joanna Marschner"
+      ],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "Alles Welfen? Bildnisse zwischen wissenschaftlicher Erforschung und öffentlicher Wahrnehmung",
+      "authors": [
+        "Michael Wenzel"
+      ],
+      "printed_page_number": "219",
+      "skip": false
+    },
+    {
+      "title": "Bildnachweise",
+      "authors": [],
+      "printed_page_number": "237",
+      "skip": true
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "241",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

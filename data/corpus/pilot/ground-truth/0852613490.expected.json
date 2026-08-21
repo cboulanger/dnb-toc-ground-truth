@@ -1,0 +1,102 @@
+{
+  "entries": [
+    {
+      "title": "CONTENTS",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "PREFACE",
+      "authors": [],
+      "printed_page_number": "vii",
+      "skip": true
+    },
+    {
+      "title": "ACKNOWLEDGEMENTS",
+      "authors": [],
+      "printed_page_number": "ix",
+      "skip": true
+    },
+    {
+      "title": "BIBLIOGRAPHICAL NOTE",
+      "authors": [],
+      "printed_page_number": "ix",
+      "skip": true
+    },
+    {
+      "title": "Songlines of the Dreamtime on a Map of Misreading (An Unscientific Meditation on the Soledades of Antonio Machado for the Evening of Palm Sunday 1989)",
+      "authors": [
+        "Patricia McDermott"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Antonio Machado, San Juan de la Cruz y el Neomisticismo",
+      "authors": [
+        "Richard A. Cardwell"
+      ],
+      "printed_page_number": "18",
+      "skip": false
+    },
+    {
+      "title": "Editing Campos de Castilla",
+      "authors": [
+        "Geoffrey Ribbans"
+      ],
+      "printed_page_number": "38",
+      "skip": false
+    },
+    {
+      "title": "Questioning the Rules: Concepts of Deviance and Conformism in Campos de Castilla",
+      "authors": [
+        "Robin Warner"
+      ],
+      "printed_page_number": "52",
+      "skip": false
+    },
+    {
+      "title": "Poeticidad en La tierra de Alvargonzález",
+      "authors": [
+        "Roberto A. Valdeón"
+      ],
+      "printed_page_number": "64",
+      "skip": false
+    },
+    {
+      "title": "The Three Caballeros: Don Guido and his Relations",
+      "authors": [
+        "Nicholas G. Round"
+      ],
+      "printed_page_number": "83",
+      "skip": false
+    },
+    {
+      "title": "Nuevas canciones (1917-1920). Machado, the avant-garde and the neopopularismo of the 1927 Generation",
+      "authors": [
+        "Derek Gagen"
+      ],
+      "printed_page_number": "100",
+      "skip": false
+    },
+    {
+      "title": "Guiomar: the Nostalgic Vision",
+      "authors": [
+        "D. Gareth Walters"
+      ],
+      "printed_page_number": "116",
+      "skip": false
+    },
+    {
+      "title": "Machado and the Poetry of Cultural Memory",
+      "authors": [
+        "Edward F. Stanton"
+      ],
+      "printed_page_number": "126",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

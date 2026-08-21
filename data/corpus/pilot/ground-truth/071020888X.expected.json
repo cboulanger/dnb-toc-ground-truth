@@ -1,0 +1,375 @@
+{
+  "entries": [
+    {
+      "title": "INTRODUCTION",
+      "authors": [
+        "Raphael Samuel"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "PREFACE",
+      "authors": [
+        "Raphael Samuel"
+      ],
+      "printed_page_number": "ix",
+      "skip": true
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "authors": [],
+      "printed_page_number": "xix",
+      "skip": true
+    },
+    {
+      "title": "GLOSSARY",
+      "authors": [],
+      "printed_page_number": "xxi",
+      "skip": true
+    },
+    {
+      "title": "1 PRELUDES",
+      "authors": [],
+      "printed_page_number": "40",
+      "skip": false
+    },
+    {
+      "title": "Best suit, the Afan Valley in 1969",
+      "authors": [
+        "Barbara Walters"
+      ],
+      "printed_page_number": "40",
+      "skip": false
+    },
+    {
+      "title": "Horden Colliery, Co. Durham",
+      "authors": [
+        "Huw Beynon",
+        "Ray Hudson",
+        "Dave Sadler"
+      ],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "Huw Beynon, Ray Hudson and Dave Sadler",
+      "authors": [],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "The Doncaster Panel, 1969-84",
+      "authors": [
+        "Dave Douglass"
+      ],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "2 RUMOURS",
+      "authors": [],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "Interviews, South Wales miners at Porthcawl, July 1983",
+      "authors": [],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "3 START OF THE STRIKE",
+      "authors": [],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "Ruskin tapes: How the strike began at Cortonwood",
+      "authors": [],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "Ruskin tapes: How the strike began at Hatfield Main",
+      "authors": [],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "Interview: How the strike began at Armthorpe",
+      "authors": [],
+      "printed_page_number": "70",
+      "skip": false
+    },
+    {
+      "title": "Interview: How the strike failed at Bentinck Colliery, Notts",
+      "authors": [
+        "Barbara Bloomfield"
+      ],
+      "printed_page_number": "72",
+      "skip": false
+    },
+    {
+      "title": "Memoir: North Staffs, a tale of two pits",
+      "authors": [
+        "Dave Cliff"
+      ],
+      "printed_page_number": "86",
+      "skip": false
+    },
+    {
+      "title": "Agit-prop: Delegates's speech at Hatfield Main",
+      "authors": [
+        "Dave Douglass"
+      ],
+      "printed_page_number": "92",
+      "skip": false
+    },
+    {
+      "title": "4 A STRIKE DIARY",
+      "authors": [],
+      "printed_page_number": "100",
+      "skip": false
+    },
+    {
+      "title": "Brookhouse, South Yorkshire",
+      "authors": [
+        "Iris Preston"
+      ],
+      "printed_page_number": "100",
+      "skip": false
+    },
+    {
+      "title": "5 RIOTS",
+      "authors": [],
+      "printed_page_number": "118",
+      "skip": false
+    },
+    {
+      "title": "Mansfield, May 1984",
+      "authors": [
+        "Bobby Girvan"
+      ],
+      "printed_page_number": "118",
+      "skip": false
+    },
+    {
+      "title": "Grimethorpe, October 1984",
+      "authors": [
+        "Harold Hancock"
+      ],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "6 SELF-HELP",
+      "authors": [],
+      "printed_page_number": "122",
+      "skip": false
+    },
+    {
+      "title": "Upton, the Infants' Support Group",
+      "authors": [
+        "Iris Knight"
+      ],
+      "printed_page_number": "122",
+      "skip": false
+    },
+    {
+      "title": "Hatfield Main Welfare Organisation",
+      "authors": [
+        "Bob Hume"
+      ],
+      "printed_page_number": "128",
+      "skip": false
+    },
+    {
+      "title": "7 LETTERS FROM THE COALFIELD",
+      "authors": [],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "Letters from Frickley and South London",
+      "authors": [
+        "Allan Lowe",
+        "Keith Proverbs"
+      ],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "8 WOMEN'S GROUPS",
+      "authors": [],
+      "printed_page_number": "154",
+      "skip": false
+    },
+    {
+      "title": "Women's support group at Maerdy",
+      "authors": [
+        "Barbara Bloomfield"
+      ],
+      "printed_page_number": "154",
+      "skip": false
+    },
+    {
+      "title": "9 PROFILES",
+      "authors": [],
+      "printed_page_number": "166",
+      "skip": false
+    },
+    {
+      "title": "Interviews at Armthorpe, December 1984",
+      "authors": [
+        "Mike Brogden"
+      ],
+      "printed_page_number": "166",
+      "skip": false
+    },
+    {
+      "title": "Interviews at Grimethorpe, June 1985",
+      "authors": [
+        "Guy Boanas"
+      ],
+      "printed_page_number": "202",
+      "skip": false
+    },
+    {
+      "title": "10 PRISON",
+      "authors": [],
+      "printed_page_number": "216",
+      "skip": false
+    },
+    {
+      "title": "Letters",
+      "authors": [
+        "Ray Patton"
+      ],
+      "printed_page_number": "216",
+      "skip": false
+    },
+    {
+      "title": "Diary",
+      "authors": [
+        "Steve Lowe"
+      ],
+      "printed_page_number": "218",
+      "skip": false
+    },
+    {
+      "title": "11 THE RETURN TO WORK",
+      "authors": [],
+      "printed_page_number": "224",
+      "skip": false
+    },
+    {
+      "title": "Pit delegate's report at Hatfield Main, March 1985",
+      "authors": [
+        "Dave Douglass"
+      ],
+      "printed_page_number": "224",
+      "skip": false
+    },
+    {
+      "title": "Lost rights at Hatfield Main, November 1985",
+      "authors": [
+        "Dave Douglass"
+      ],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "A resignation at Bentinck Colliery, Notts",
+      "authors": [
+        "Todd Clark"
+      ],
+      "printed_page_number": "232",
+      "skip": false
+    },
+    {
+      "title": "Letters from South Wales, April, October 1985",
+      "authors": [
+        "Barbara Walters"
+      ],
+      "printed_page_number": "233",
+      "skip": false
+    },
+    {
+      "title": "12 AFTERTHOUGHTS",
+      "authors": [],
+      "printed_page_number": "236",
+      "skip": false
+    },
+    {
+      "title": "Letter from Yorkshire, March 1986",
+      "authors": [
+        "Dave Douglass"
+      ],
+      "printed_page_number": "236",
+      "skip": false
+    },
+    {
+      "title": "Interview with Iris Preston, April 1986",
+      "authors": [],
+      "printed_page_number": "240",
+      "skip": false
+    },
+    {
+      "title": "NAME INDEX",
+      "authors": [],
+      "printed_page_number": "251",
+      "skip": true
+    },
+    {
+      "title": "SUBJECT INDEX",
+      "authors": [],
+      "printed_page_number": "256",
+      "skip": true
+    },
+    {
+      "title": "THE ENEMY WITHIN",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Pit villages and the miners' strike of 1984-5",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Edited by",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "RAPHAEL SAMUEL",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "BARBARA BLOOMFIELD",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "GUY BOANAS",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "CONTENTS",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

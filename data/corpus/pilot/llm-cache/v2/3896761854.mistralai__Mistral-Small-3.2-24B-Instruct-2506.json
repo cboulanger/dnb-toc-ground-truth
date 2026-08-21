@@ -1,0 +1,428 @@
+{
+  "generated_at": 1787256608.416873,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ein Interview mit Horst Siebert",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rolf Arnold",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Arnold"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Konstruktivistische Erm\u00f6glichungsdidaktik",
+      "printed_page_number": "18",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Arnold"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans Tietgens",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hans Tietgens"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vereinbares und Widerspr\u00fcchliches zwischen Curricula und Konstruktivismus",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Tietgens"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erhard Schultz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Erhard Schultz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wirklichkeit widerf\u00e4hrt - Zu Anregungspotential und Kritik der Konstruktivismus-Rezeption",
+      "printed_page_number": "40",
+      "source_page_index": -1,
+      "authors": [
+        "Erhard Schultz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Peter Faulstich",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Peter Faulstich"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zeitgeist und Theoriekonstruktion",
+      "printed_page_number": "58",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Faulstich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Herbert Gerl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Herbert Gerl"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Praktischer Konstruktivismus - Anmerkungen zur Bedeutung von NLP f\u00fcr eine Erwachsenenp\u00e4dagogik als Handlungswissenschaft",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [
+        "Herbert Gerl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Detlef Horster",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Detlef Horster"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Paradigmenwechsel in der Erwachsenenbildung",
+      "printed_page_number": "78",
+      "source_page_index": -1,
+      "authors": [
+        "Detlef Horster"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ortfried Sch\u00e4ffter",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ortfried Sch\u00e4ffter"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Implizite Alltagsdidaktik - Lebensweltliche Institutionalisierungen von Lernkontexten",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "Ortfried Sch\u00e4ffter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hartmut M. Grie\u00dfe",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hartmut M. Grie\u00dfe"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sozialwissenschaftliche Vorl\u00e4ufer und Kritik des Konstruktivismus - ein wissenschafts(autobiographischer) Zugang",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [
+        "Hartmut M. Grie\u00dfe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Joachim H. Knoll",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Joachim H. Knoll"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Pluralit\u00e4t und Subsidiarit\u00e4t im System der Erwachsenenbildung/ Weiterbildung, nationale und internationale Kontexte",
+      "printed_page_number": "124",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim H. Knoll"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Detlef Kuhlenkamp",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Detlef Kuhlenkamp"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Weiterbildung als Politikfeld - Ausgew\u00e4hlte Entwicklungslinien seit 1970",
+      "printed_page_number": "142",
+      "source_page_index": -1,
+      "authors": [
+        "Detlef Kuhlenkamp"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Josef Olbrich",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Josef Olbrich"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Reflexionsprobleme im Weiterbildungssystem: Sinn und Weiterbildung",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [
+        "Josef Olbrich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Roswitha Peters",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Roswitha Peters"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Erwachsenenbildungs-Professionalit\u00e4t als theoretische Konstruktion",
+      "printed_page_number": "178",
+      "source_page_index": -1,
+      "authors": [
+        "Roswitha Peters"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lothar Sch\u00e4ffner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Lothar Sch\u00e4ffner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Transfersicherung in der Betrieblichen Weiterbildung - Bildungsarbeit unter Legitimationsdruck",
+      "printed_page_number": "192",
+      "source_page_index": -1,
+      "authors": [
+        "Lothar Sch\u00e4ffner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christiane Schiersmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Christiane Schiersmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ver\u00e4nderungen der Funktion und Aufgaben des Weiterbildungspersonals vor dem Hintergrund proze\u00dforientierter beruflicher Weiterbildung",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [
+        "Christiane Schiersmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wiltrud Gieseke",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Wiltrud Gieseke"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vernetztes Planen als Angleichungshandeln",
+      "printed_page_number": "212",
+      "source_page_index": -1,
+      "authors": [
+        "Wiltrud Gieseke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rainer Br\u00f6del",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Br\u00f6del"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Lebensf\u00fchrung - Dimension der Erwachsenenbildung",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Br\u00f6del"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gerd Doerry und Elke Bovier",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gerd Doerry",
+        "Elke Bovier"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kritische Situationen in Veranstaltungen der Erwachsenenbildung als neuer Untersuchungsgegenstand der Lehr-Lernforschung",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [
+        "Gerd Doerry",
+        "Elke Bovier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rudolf Tippelt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf Tippelt"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kontinuit\u00e4t oder Diskontinuit\u00e4t von Bildungsbiographien? Schulische Lernerfahrungen und Weiterbildungsinteressen aus der Perspektive sozialer Milieuforschung",
+      "printed_page_number": "253",
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf Tippelt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ekkehard Nui\u00dfl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ekkehard Nui\u00dfl"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Praxis und Theorie in der Erwachsenenbildung",
+      "printed_page_number": "265",
+      "source_page_index": -1,
+      "authors": [
+        "Ekkehard Nui\u00dfl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "printed_page_number": "276",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bibliographie Prof. Dr. Horst Siebert",
+      "printed_page_number": "283",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

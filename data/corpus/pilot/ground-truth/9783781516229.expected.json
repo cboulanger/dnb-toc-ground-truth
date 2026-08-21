@@ -1,0 +1,139 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": "5",
+      "skip": true
+    },
+    {
+      "title": "Vorwort der Herausgeber",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Susanna Roux: Bildung im Elementarbereich \u2013 Zur gegenw\u00e4rtigen Lage der Fr\u00fchp\u00e4dagogik in Deutschland",
+      "authors": [
+        "Susanna Roux"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "Diagnose und F\u00f6rderung von Kindern in Mathematik",
+      "authors": [],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Jens Holger Lorenz: Diagnose und F\u00f6rderung von Kindern in Mathematik \u2013 ein \u00dcberblick",
+      "authors": [
+        "Jens Holger Lorenz"
+      ],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "Klaus Hasemann: M\u00f6glichkeiten der Diagnose arithmetischer F\u00e4higkeiten im vorschulischen Bereich",
+      "authors": [
+        "Klaus Hasemann"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "Frank Hellmich & Sven Jansen: Diagnose mathematischer F\u00e4higkeiten im vorschulischen Bereich",
+      "authors": [
+        "Frank Hellmich",
+        "Sven Jansen"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "Frank Hellmich: F\u00f6rderung mathematischer Vorl\u00e4uferf\u00e4higkeiten im vorschulischen Bereich \u2013 Konzepte, empirische Befunde und Forschungsperspektiven",
+      "authors": [
+        "Frank Hellmich"
+      ],
+      "printed_page_number": "83",
+      "skip": false
+    },
+    {
+      "title": "Claudia Quaiser-Pohl: F\u00f6rderung mathematischer Vorl\u00e4uferf\u00e4higkeiten im Kindergarten mit dem Programm \u201eSpielend Mathe\u201c",
+      "authors": [
+        "Claudia Quaiser-Pohl"
+      ],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "Thomas Rottmann: Vorstellungen von Kindergartenkindern und Schulanf\u00e4ngern zum Verdoppeln und Halbieren",
+      "authors": [
+        "Thomas Rottmann"
+      ],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "Anna Susanne Steinweg: Zwischen Kindergarten und Schule \u2013 Mathematische Basiskompetenzen im \u00dcbergang",
+      "authors": [
+        "Anna Susanne Steinweg"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "Diagnose und F\u00f6rderung von Kindern in den Naturwissenschaften",
+      "authors": [],
+      "printed_page_number": "161",
+      "skip": true
+    },
+    {
+      "title": "Bj\u00f6rn Risch: Vorschulkinder an chemische und physikalische Ph\u00e4nomene heranf\u00fchren \u2013 Aus- und Fortbildungsm\u00f6glichkeiten f\u00fcr P\u00e4dagoginnen und P\u00e4dagogen",
+      "authors": [
+        "Bj\u00f6rn Risch"
+      ],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "Mirjam Steffensky: Einen naturwissenschaftlichen Blick entwickeln: Naturwissenschaftliches Lernen im Kindergarten",
+      "authors": [
+        "Mirjam Steffensky"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Hilde K\u00f6ster: Physik in Kindertagesst\u00e4tten \u2013 Grenzen und M\u00f6glichkeiten",
+      "authors": [
+        "Hilde K\u00f6ster"
+      ],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "Philipp Linder: F\u00f6rderung von Kindern im Lernbereich Technik",
+      "authors": [
+        "Philipp Linder"
+      ],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "Verzeichnis der Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "233",
+      "skip": true
+    },
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

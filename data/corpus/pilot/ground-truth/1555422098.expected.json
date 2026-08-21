@@ -1,0 +1,100 @@
+{
+  "entries": [
+    {
+      "title": "1. Technology as Equivoque: Sensemaking in New Technologies",
+      "authors": [
+        "Karl E. Weick"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Preface",
+      "authors": [],
+      "printed_page_number": "xi",
+      "skip": true
+    },
+    {
+      "title": "The Authors",
+      "authors": [],
+      "printed_page_number": "xix",
+      "skip": true
+    },
+    {
+      "title": "2. Understanding Technology and the Individual in an Organizational Context",
+      "authors": [
+        "Paul S. Goodman",
+        "Terri L. Griffith",
+        "Deborah B. Fenner"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "3. Work Groups: Autonomy, Technology, and Choice",
+      "authors": [
+        "Gerald I. Susman"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "4. Technology and Structure: An Organizational-Level Perspective",
+      "authors": [
+        "W. Richard Scott"
+      ],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "5. Technology, Management, and Competitive Advantage",
+      "authors": [
+        "James G. March",
+        "Lee S. Sproull"
+      ],
+      "printed_page_number": "144",
+      "skip": false
+    },
+    {
+      "title": "6. Technology and Organizations: A Cross-National Analysis",
+      "authors": [
+        "Leonard H. Lynn"
+      ],
+      "printed_page_number": "174",
+      "skip": false
+    },
+    {
+      "title": "7. Technology and Organizations: An Economic/Institutional Analysis",
+      "authors": [
+        "David C. Mowery"
+      ],
+      "printed_page_number": "200",
+      "skip": false
+    },
+    {
+      "title": "8. A Technological Perspective on New Forms of Organizations",
+      "authors": [
+        "Raj Reddy"
+      ],
+      "printed_page_number": "232",
+      "skip": false
+    },
+    {
+      "title": "9. Technology and Organizations: Integration and Opportunities",
+      "authors": [
+        "Lee S. Sproull",
+        "Paul S. Goodman"
+      ],
+      "printed_page_number": "254",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "267",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

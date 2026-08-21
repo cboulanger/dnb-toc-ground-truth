@@ -1,0 +1,330 @@
+{
+  "entries": [
+    {
+      "title": "Preface",
+      "authors": [],
+      "printed_page_number": "vii",
+      "skip": true
+    },
+    {
+      "title": "Introduction",
+      "authors": [
+        "Anne Burns",
+        "Jack C. Richards"
+      ],
+      "printed_page_number": "1",
+      "skip": true
+    },
+    {
+      "title": "Section 1: The Landscape of Second Language Teacher Education",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Chapter 1: The Scope of Second Language Teacher Education",
+      "authors": [
+        "Donald Freeman"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Chapter 2: Trends in Second Language Teacher Education",
+      "authors": [
+        "Karen E. Johnson"
+      ],
+      "printed_page_number": "20",
+      "skip": false
+    },
+    {
+      "title": "Chapter 3: Critical Language Teacher Education",
+      "authors": [
+        "Margaret Hawkins",
+        "Bonny Norton"
+      ],
+      "printed_page_number": "30",
+      "skip": false
+    },
+    {
+      "title": "Chapter 4: Social and Cultural Perspectives",
+      "authors": [
+        "Charlotte Franson",
+        "Adrian Holliday"
+      ],
+      "printed_page_number": "40",
+      "skip": false
+    },
+    {
+      "title": "Section 2: Professionalism and the Language Teaching Profession",
+      "authors": [],
+      "printed_page_number": "47",
+      "skip": true
+    },
+    {
+      "title": "Chapter 5: Second Language Teacher Professionalism",
+      "authors": [
+        "Constant Leung"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "Chapter 6: Certification and Professional Qualifications",
+      "authors": [
+        "Susan Barduhn",
+        "Jenny Johnson"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "Chapter 7: Standards and Second Language Teacher Education",
+      "authors": [
+        "Anne Katz",
+        "Marguerite Ann Snow"
+      ],
+      "printed_page_number": "66",
+      "skip": false
+    },
+    {
+      "title": "Chapter 8: Assessment in Second Language Teacher Education",
+      "authors": [
+        "Donald Freeman",
+        "Melinda McBee Orzulak",
+        "Gwynne Morrisey"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Chapter 9: Teacher Preparation and Nonnative English-Speaking Educators",
+      "authors": [
+        "Lía D. Kamhi-Stein"
+      ],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "Chapter 10: \"Trainer Development\": Professional Development for Language Teacher Educators",
+      "authors": [
+        "Tony Wright"
+      ],
+      "printed_page_number": "102",
+      "skip": false
+    },
+    {
+      "title": "Section 3: Pedagogical Knowledge in Second Language Teacher Education",
+      "authors": [],
+      "printed_page_number": "113",
+      "skip": true
+    },
+    {
+      "title": "Chapter 11: The Curriculum of Second Language Teacher Education",
+      "authors": [
+        "Kathleen Graves"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "Chapter 12: Knowledge About Language",
+      "authors": [
+        "Nat Bartels"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "Chapter 13: SLA and Teacher Education",
+      "authors": [
+        "Rod Ellis"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Chapter 14: Acquiring Knowledge of Discourse Conventions in Teacher Education",
+      "authors": [
+        "John S. Hedgcock"
+      ],
+      "printed_page_number": "144",
+      "skip": false
+    },
+    {
+      "title": "Section 4: Identity, Cognition, and Experience in Teacher Learning",
+      "authors": [],
+      "printed_page_number": "153",
+      "skip": true
+    },
+    {
+      "title": "Chapter 15: Personal Practical Knowledge in L2 Teacher Education",
+      "authors": [
+        "Paula Golombek"
+      ],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "Chapter 16: Language Teacher Cognition",
+      "authors": [
+        "Simon Borg"
+      ],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "Chapter 17: Teacher Identity",
+      "authors": [
+        "Jennifer Miller"
+      ],
+      "printed_page_number": "172",
+      "skip": false
+    },
+    {
+      "title": "Chapter 18: The Novice Teacher Experience",
+      "authors": [
+        "Thomas S. C. Farrell"
+      ],
+      "printed_page_number": "182",
+      "skip": false
+    },
+    {
+      "title": "Chapter 19: Teaching Expertise: Approaches, Perspectives, and Characterizations",
+      "authors": [
+        "Amy B. M. Tsui"
+      ],
+      "printed_page_number": "190",
+      "skip": false
+    },
+    {
+      "title": "Section 5: Contexts for Second Language Teacher Education",
+      "authors": [],
+      "printed_page_number": "199",
+      "skip": true
+    },
+    {
+      "title": "Chapter 20: Teaching and Learning in the Course Room",
+      "authors": [
+        "Gurmit Singh",
+        "Jack C. Richards"
+      ],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "Chapter 21: School-Based Experience",
+      "authors": [
+        "Michael K. Legutke",
+        "Marita Schocker-v. Ditfurth"
+      ],
+      "printed_page_number": "209",
+      "skip": false
+    },
+    {
+      "title": "Chapter 22: Language Teacher Education by Distance",
+      "authors": [
+        "David R. Hall",
+        "John S. Knox"
+      ],
+      "printed_page_number": "218",
+      "skip": false
+    },
+    {
+      "title": "Chapter 23: Technology and Second Language Teacher Education",
+      "authors": [
+        "Hayo Reinders"
+      ],
+      "printed_page_number": "230",
+      "skip": false
+    },
+    {
+      "title": "Section 6: Second Language Teacher Education Through Collaboration",
+      "authors": [],
+      "printed_page_number": "239",
+      "skip": true
+    },
+    {
+      "title": "Chapter 24: Collaborative Teacher Development",
+      "authors": [
+        "Bill Johnston"
+      ],
+      "printed_page_number": "241",
+      "skip": false
+    },
+    {
+      "title": "Chapter 25: The Practicum",
+      "authors": [
+        "Jerry G. Gebhard"
+      ],
+      "printed_page_number": "250",
+      "skip": false
+    },
+    {
+      "title": "Chapter 26: Mentoring",
+      "authors": [
+        "Angi Malderez"
+      ],
+      "printed_page_number": "259",
+      "skip": false
+    },
+    {
+      "title": "Chapter 27: Language Teacher Supervision",
+      "authors": [
+        "Kathleen M. Bailey"
+      ],
+      "printed_page_number": "269",
+      "skip": false
+    },
+    {
+      "title": "Section 7: Second Language Teacher Development Through Research and Practice",
+      "authors": [],
+      "printed_page_number": "279",
+      "skip": true
+    },
+    {
+      "title": "Chapter 28: Second Language Classroom Research",
+      "authors": [
+        "Sandra Lee McKay"
+      ],
+      "printed_page_number": "281",
+      "skip": false
+    },
+    {
+      "title": "Chapter 29: Action Research in Second Language Teacher Education",
+      "authors": [
+        "Anne Burns"
+      ],
+      "printed_page_number": "289",
+      "skip": false
+    },
+    {
+      "title": "Chapter 30: Reflective Practice",
+      "authors": [
+        "Jill Burton"
+      ],
+      "printed_page_number": "298",
+      "skip": false
+    },
+    {
+      "title": "Author Index",
+      "authors": [],
+      "printed_page_number": "309",
+      "skip": true
+    },
+    {
+      "title": "Subject Index",
+      "authors": [],
+      "printed_page_number": "317",
+      "skip": true
+    },
+    {
+      "title": "Acknowledgments",
+      "authors": [],
+      "printed_page_number": "325",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

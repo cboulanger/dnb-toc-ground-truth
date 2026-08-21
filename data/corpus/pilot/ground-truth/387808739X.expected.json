@@ -1,0 +1,138 @@
+{
+  "entries": [
+    {
+      "title": "Avant-Propos",
+      "authors": ["Dietmar Rieger"],
+      "printed_page_number": "VII",
+      "skip": true
+    },
+    {
+      "title": "La poésie des troubadours et des trouvères comme chanson littéraire du moyen-âge",
+      "authors": ["Dietmar Rieger"],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "L'art poétique de Jaufre Rudel. Analyse philologique, musicologique et herméneutique de la chanson no sap chantar qui so non di (262,3)",
+      "authors": ["Jörn Gruber"],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "La chanson des femmes poètes au XVIIe siècle: Mme de la Suze et Mme Deshoulières – une contribution féminine à la poésie chantée",
+      "authors": ["Renate Kroll"],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Chanson et vaudevilles d'un siècle devenu «classique»",
+      "authors": ["Fritz Nies"],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Malbrough s'en va-t-en guerre: Les avatars d'une chanson",
+      "authors": ["Michel Delon"],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "Un air et mille couplets: La Marseillaise et «les marseillaises» pendant la Révolution",
+      "authors": ["Hinrich Hudde"],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "La chanson et le problème des deux cultures (1815–1851)",
+      "authors": ["Heinz Thoma"],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "Béranger et sa place dans l'histoire de la chanson",
+      "authors": ["Jan O. Fischer"],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "Les mélodies des chansons de Béranger",
+      "authors": ["Herbert Schneider"],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "La chanson socialiste utopique à l'époque de la monarchie de Juillet – les exemples de Vinçard ainé et de Louis Festeau",
+      "authors": ["Christine Donat"],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "Le chansonnier comme franc-tireur. Charles Gille et la chanson ouvrière politique pendant la deuxième moitié de la monarchie de Juillet",
+      "authors": ["Thomas Bremer"],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "De Dupont à Hugo – De Hugo à Clément. Les chansons des rues et des bois (1859/65) et les problèmes de la littérature populaire à l'époque du Second Empire",
+      "authors": ["Karlheinrich Biermann"],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "«J'cass'rai la gueule aux proprios». Aristide Bruant et la chanson «naturaliste» fin-de-siècle",
+      "authors": ["Dietmar Rieger"],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "Chansons anarchistes et sociales de la Belle Epoque",
+      "authors": ["Wolfgang Asholt"],
+      "printed_page_number": "225",
+      "skip": false
+    },
+    {
+      "title": "De la chanson ouvrière du XIXe siècle au Rock. Une approche socio-anthropologique de l'histoire de la chanson française",
+      "authors": ["Laurent Marty"],
+      "printed_page_number": "261",
+      "skip": false
+    },
+    {
+      "title": "Histoire politique de la chanson française de L'Entre-deux-guerres",
+      "authors": ["Edward Reichel"],
+      "printed_page_number": "271",
+      "skip": false
+    },
+    {
+      "title": "La chanson dans les années 30: Un nouveau mode d'expression pour les poètes",
+      "authors": ["Lucienne Cantaloube-Ferrieu"],
+      "printed_page_number": "283",
+      "skip": false
+    },
+    {
+      "title": "Chanson et Music-Hall dans les années 20",
+      "authors": ["Jean-Claude Klein"],
+      "printed_page_number": "299",
+      "skip": false
+    },
+    {
+      "title": "La chanson de la BBC dans le contexte de la production chansonnière de l'Occupation et de la Résistance",
+      "authors": ["Ursula Mathis"],
+      "printed_page_number": "307",
+      "skip": false
+    },
+    {
+      "title": "La chanson moderne et les mass-media. Une étude thématique et sociocritique",
+      "authors": ["Karl Hölz"],
+      "printed_page_number": "347",
+      "skip": false
+    },
+    {
+      "title": "Stars et antistars. Comment le chansonnier actuel comprend-il son métier? Conceptions et mise en pratique dans la métachanson",
+      "authors": ["Elisabeth Bügler"],
+      "printed_page_number": "363",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "claude_arbitration"
+}

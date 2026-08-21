@@ -1,0 +1,590 @@
+{
+  "generated_at": 1787018693.568981,
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Konzeptionelle Rahmungen und Entwicklungslinien",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ulrike Weyland und Eveline Wittmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Weyland",
+        "Eveline Wittmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Praxissemester en vogue",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Fichten"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen in der Lehrerbildung",
+      "printed_page_number": "30",
+      "source_page_index": -1,
+      "authors": [
+        "Renate Sch\u00fcssler",
+        "Anke Sch\u00f6ning"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen im Praxissemester \u2013 Potential und Ausgestaltungsm\u00f6glichkeiten",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [
+        "Saskia Schicht"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Institutionalisierung der Kooperation \u2013 Forschendes Lernen als Aufgabe von Fachverb\u00fcnden",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Anke Sch\u00f6ning",
+        "Renate Sch\u00fcssler",
+        "Ulrike Weyland"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Standards f\u00fcr Schulpraktische Studien \u2013 Implikationen f\u00fcr die Ausgestaltung Forschenden Lernens im Praxissemester",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Lilian Streblov",
+        "Sebastian Barsch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Evaluation im Praxissemester",
+      "printed_page_number": "70",
+      "source_page_index": -1,
+      "authors": [
+        "Lilian Streblov",
+        "Sebastian Barsch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 L\u00e4nderspezifische Zug\u00e4nge",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kirsten Gro\u00dfmann, Andreas Bach und Jens Winkel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Kirsten Gro\u00dfmann",
+        "Andreas Bach",
+        "Jens Winkel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Praxissemester in Flensburg",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [
+        "Nicole Naeve-Stof",
+        "Tade Tramm"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen im Hamburger Kernpraktikum",
+      "printed_page_number": "88",
+      "source_page_index": -1,
+      "authors": [
+        "Regine Komoss",
+        "Maria Peters"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Praxissemester an der Universit\u00e4t Bremen",
+      "printed_page_number": "96",
+      "source_page_index": -1,
+      "authors": [
+        "Anke Spies",
+        "Julia Michaelis",
+        "Udo Gerheim",
+        "Vanessa Hinsch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen in Niedersachsen \u2013 Das Oldenburger Praxissemester",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [
+        "Alexander B\u00fcsing",
+        "Vera Gebrs",
+        "Andrea Mochalski",
+        "Yoshiro Nakamura",
+        "B\u00e4rbel Treichel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Profile Forschenden Lernens \u2013 Das Osnabr\u00fccker Konzept als Beispiel aus Niedersachsen",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [
+        "Heike Schaumburg",
+        "Constanze Saunders"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Herausforderungen und Perspektiven \u2013 Forschendes Lernen im Praxissemester an der Humboldt-Universit\u00e4t zu Berlin",
+      "printed_page_number": "119",
+      "source_page_index": -1,
+      "authors": [
+        "Heike Schaumburg",
+        "Constanze Saunders"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Frank Diehr",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Frank Diehr"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Praxissemester in Nordrhein-Westfalen am Beispiel der Universit\u00e4t Duisburg-Essen",
+      "printed_page_number": "126",
+      "source_page_index": -1,
+      "authors": [
+        "Frank Diehr"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Methoden und Anwendungskontexte",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Andreas Feindt und Beate Wischer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Feindt",
+        "Beate Wischer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Begr\u00fcndungen, Ziele und Formen Forschenden Lernens \u2013 ein Reflexionsangebot f\u00fcr den Einstieg",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [
+        "Johanna Gold",
+        "Gabriele Klewin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Empirische Forschungsmethoden in studentischen Forschungsprojekten",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [
+        "Johanna Gold",
+        "Gabriele Klewin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen durch ethnographisches Beobachten",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [
+        "Friederike Kern"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Forschend lernen mit Videografie",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [
+        "Paul Goerigk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen in inklusiven Lehr- und Lern-Arrangements \u2013 Ideen und Perspektiven",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [
+        "Birgit L\u00fctje-Klose",
+        "Simone Seitz",
+        "Bettina Streese"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schulentwicklung als Gegenstand Forschenden Lernens im Praxissemester?",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [
+        "Gabriele Klewin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen im Kontext von Ganztag",
+      "printed_page_number": "187",
+      "source_page_index": -1,
+      "authors": [
+        "Oliver B\u00f6hm-Kasper"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen in der Grundschule",
+      "printed_page_number": "193",
+      "source_page_index": -1,
+      "authors": [
+        "Birgit Holler-Nowitzki",
+        "Susanne Miller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen in inklusiven Lerngruppen der Sekundarstufe I",
+      "printed_page_number": "200",
+      "source_page_index": -1,
+      "authors": [
+        "Jan Christoph St\u00f6rtl\u00e4nder",
+        "Barbara Koch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Praxissemester in berufs- und wirtschaftsp\u00e4dagogischen Studieng\u00e4ngen",
+      "printed_page_number": "206",
+      "source_page_index": -1,
+      "authors": [
+        "H.-Hugo Kremer",
+        "Ulrike Weyland"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Begleitung Forschenden Lernens",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Anke Sch\u00f6ning, Volker Schwier, Hella Wefel und Karen Wiegelmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Anke Sch\u00f6ning",
+        "Volker Schwier",
+        "Hella Wefel",
+        "Karen Wiegelmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "In der Schule \u2013 Begleitung Forschenden Lernens durch MentorInnen",
+      "printed_page_number": "215",
+      "source_page_index": -1,
+      "authors": [
+        "Renate Sch\u00fcssler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fortbildungsangebote zur Unterst\u00fctzung Forschenden Lernens im Praxissemester",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [
+        "Renate Sch\u00fcssler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Beratung Forschenden Lernens im Praxissemester am Beispiel Nordrhein-Westfalen",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [
+        "Karl-Theodor Stiller",
+        "Thorsten B\u00fchrmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Renate Nocon-Stoffers",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Renate Nocon-Stoffers"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Forscherblick im Schulalltag!? \u2013 Begleitung Forschenden Lernens am Zentrum f\u00fcr schulpraktische Lehrerausbildung (ehemals: Studienseminar)",
+      "printed_page_number": "243",
+      "source_page_index": -1,
+      "authors": [
+        "Renate Nocon-Stoffers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Portfolio zur Unterst\u00fctzung Forschenden Lernens im Praxissemester",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [
+        "Agnieszka Werfel",
+        "Nicole Valdorf",
+        "Renate Sch\u00fcssler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Potentiale von E-Learning zur Begleitung im Praxissemester",
+      "printed_page_number": "259",
+      "source_page_index": -1,
+      "authors": [
+        "Bj\u00f6rn Bulizek",
+        "Julia Haarmann",
+        "Christina Kiefer",
+        "Sarah Schotemeier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kooperation der ausbildenden AkteurInnen im Bielefelder Praxissemester \u2013 Fachgruppe BiWi",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [
+        "Gabriele Klewin",
+        "Anne K\u00f6ker",
+        "Klaus K\u00e4sting",
+        "Bernd Trenner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Fachdidaktische Zug\u00e4nge zum Forschenden Lernen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Julia Reckermann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Julia Reckermann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Forschendes Lernen rund um das Praxissemester Anglistik",
+      "printed_page_number": "275",
+      "source_page_index": -1,
+      "authors": [
+        "Julia Reckermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen im Fach Geschichte",
+      "printed_page_number": "281",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg van Norden"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Empirische Studienprojekte im Fach Latein",
+      "printed_page_number": "286",
+      "source_page_index": -1,
+      "authors": [
+        "Jochen Sauer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Perspektiven zum Forschenden Lernen im Fach Mathematik",
+      "printed_page_number": "292",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Kleine",
+        "Sabine Castelli"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Perspektiven zum Forschenden Lernen in Mathematischer Grundbildung",
+      "printed_page_number": "298",
+      "source_page_index": -1,
+      "authors": [
+        "Nicole Wellensiek",
+        "Thomas Rottmann",
+        "Miriam L\u00fcken"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen in der Musikp\u00e4dagogik \u2013 Potentiale videobasierter Unterrichtsforschung im Praxissemester",
+      "printed_page_number": "304",
+      "source_page_index": -1,
+      "authors": [
+        "Julia Rheingans",
+        "Kerstin Heberle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen entlang fachdidaktischer Prinzipien im Fach Sozialwissenschaften",
+      "printed_page_number": "310",
+      "source_page_index": -1,
+      "authors": [
+        "Gunna Rettberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schulsport im Blickfeld Forschenden Lernens",
+      "printed_page_number": "316",
+      "source_page_index": -1,
+      "authors": [
+        "Natalia Fast",
+        "Nils Ukley",
+        "Katrin Neumann",
+        "Valerie Kastrup"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen in der Sprachlichen Grundbildung \u2013 Ethnographisches Beobachten und sprachdidaktische Reflexion",
+      "printed_page_number": "322",
+      "source_page_index": -1,
+      "authors": [
+        "Jan Clemens",
+        "Friederike Kern",
+        "Angelika Stein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Forschendes Lernen im Unterrichtsfach P\u00e4dagogik",
+      "printed_page_number": "328",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Hahn",
+        "Sven Meinholz",
+        "Jan Christoph St\u00f6rtl\u00e4nder",
+        "Christina Thomas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "AutorInnenverzeichnis",
+      "printed_page_number": "335",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

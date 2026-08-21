@@ -1,0 +1,321 @@
+{
+  "generated_at": 1787263310.667625,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Stadler",
+        "Michael Wieser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Vorwort der Herausgeber",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Hauptbeitr\u00e4ge",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "John H. Mann/Carola Honroth Mann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Effekt der Rollenspiel-Erfahrung auf die Rollenspiel-F\u00e4higkeit (The effect of role-playing experience on role-playing ability)",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "David A. Kipper\u2020",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Empirische Studien zur Spontaneit\u00e4t: Eine \u00dcberpr\u00fcfung (Empirical studies with spontaneity: a review)",
+      "printed_page_number": "21",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ren\u00e9 F. Marineau",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Integration von Morenos Erbe (Integrating the Moreno's heritage)",
+      "printed_page_number": "35",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Volker Tschuschke",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wirksamkeit psychodramatischer Gruppenpsychotherapie \u2013 Ergebnisse der PAGE-Studie (Effectiveness of Psychodrama group therapy \u2013 Results from the PAGE-study)",
+      "printed_page_number": "45",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Thomas Schwinger",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Beziehungslandschaften \u2013 Psychodramatische Arbeit zur Differenzierung des Beziehungserlebens (Relationscapes \u2013 Psychodramatic work for differentiation of personal relationships)",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans-Werner Gessmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Empirischer Beitrag zur Pr\u00fcfung der Wirksamkeit psychodramatischer Gruppenpsychotherapie bei NeurosepatientInnen (ICD-10: F3, F4) (The effects of psychodramatic group psychotherapy with neurosis patients\u2014an empirical contribution (ICD-10: F3, F4))",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sonja Hintermeier",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Qualitative Psychodramaforschung (Qualitative psychodrama therapy research)",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Daniel Bindernagel/Alexandra Scherrer/Anna Lea Winzeler/Agnes von Wyl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Psychodrama-Gruppentherapie mit Kindern \u2013 Anregungen f\u00fcr eine praxisorientierte Forschung (Psychodrama group therapy with children \u2013 Implications for practical research)",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ulrike Altendorfer-Kling/Barbara Herzog-Schuster/Leonhard Thun-Hohenstein",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Siegen, wenn die Chancen schlecht stehen! \u2013 Psychodramagruppe f\u00fcr Kinder mit psychosozialen Schwierigkeiten und Kinder von psychisch kranken Eltern (Winning When Chances are Slim \u2013 Psychodrama with Children of Psychically Ill Parents)",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kai-Christian Koch",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zunehmende Segregation durch Akzeleration? \u2013 Empirische Analyse einer entwicklungspsychologischen Erkl\u00e4rung des Wandels der soziometrischen Beziehungen zwischen Jungen und M\u00e4dchen in Grundschulklassen (Increasing segregation through acceleration? \u2013 Analysis of a developmental explanation for the change in sociometric relations between boys and girls in elementary school classes)",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sonja \u010cejka",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das soziale Atom als Analyseinstrument sozialer Netzwerkforschung am Beispiel einer Projektevaluation innerhalb der Jugendwohlfahrt (The \u201csocial atom\u201d as an instrument of analysis for social network research exemplified on the evaluation of a project in youth-welfare)",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gabriele Kastner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vom Blick aus dem Muster zum Blick auf das Muster \u2013 Grounded theory und Psychodrama (From the view out of the pattern to a view onto the pattern \u2013 Grounded theory and psychodrama)",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gerda Trinkel/Andrea Nindler",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Psychodramatische Gruppentherapie bei strukturellen St\u00f6rungsbildern \u2013 Qualit\u00e4tssicherung einer ambulant durchgef\u00fchrten psychotherapeutischen Gruppe (Psychodramatic group treatment with structural disorders \u2013 Quality management of an outpatient group therapy)",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wolfgang F\u00e4rber",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "M\u00f6glichkeiten und Risiken von Psychodrama-Therapie w\u00e4hrend des Drogenentzuges (Chances and risks of psychodrama-therapy during the time of drug-detoxification)",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pia Andreatta/Arthur Drexler/Elisabeth Pauza/Heidi M\u00f6ller",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Entwicklung interpersoneller Probleml\u00f6sekompetenz w\u00e4hrend psychotherapeutischer Ausbildung in Psychodrama (Development of interpersonal problem solving competences during psychotherapy training in psychodrama)",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hermann Mitterhofer/Pia Andreatta/Manuela Seewald",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Rollenspiel in der Psychodramaausbildung im Fokus der Sozialforschung (Role play in psychodrama training in the focus of social research)",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Maria Stippler/Heidi M\u00f6ller",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Entwicklung der Konzeptkompetenz in der Psychodrama-Ausbildung (The development of concept competence in psychodrama-training)",
+      "printed_page_number": "239",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hannes Krall/Jutta F\u00fcrst",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Supervision in der Psychodrama-Psychotherapieausbildung \u2013 Eine empirische Studie zur Wirksamkeit von Ausbildungssupervision (Supervision in psychodrama psychotherapy training \u2013 An empirical study of the efficacy of supervision in training)",
+      "printed_page_number": "253",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}
