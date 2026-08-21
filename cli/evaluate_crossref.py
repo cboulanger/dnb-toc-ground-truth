@@ -23,7 +23,7 @@ from dataclasses import dataclass
 
 from dnb_toc_ground_truth import corpus, crossref, matching
 from dnb_toc_ground_truth.crossref import CrossrefBookData, _load_cache as _load_crossref_cache
-from dnb_toc_ground_truth.toc_entry import TocEntry
+from dnb_toc_ground_truth.toc_entry import TocEntry, _parse_toc_page_number
 
 
 @dataclass(frozen=True)
@@ -50,9 +50,26 @@ def _load_crossref_data(key: str) -> CrossrefBookData | None:
     return _load_crossref_cache(corpus.crossref_cache_dir(), crossref.normalize_isbn(key) or key)
 
 
+def _page_sort_key(entry: TocEntry) -> tuple:
+    # matching.diff_toc_entries' underlying align_toc_entries does a
+    # single greedy, order-preserving scan ("TOC order is book order" --
+    # true for two independent reads of the same printed TOC, which is
+    # all this function was built to diff). Crossref's /works response
+    # order is NOT page order (confirmed empirically, 2026-08-21,
+    # isbn:9783111702681: sorting its chapter list by page before
+    # diffing took that book's match count from 5/20 to 20/20) -- so
+    # both sides are re-sorted into page order here before ever reaching
+    # diff_toc_entries, restoring the precondition that function assumes
+    # without needing to change it. Mirrors matching.gate_book's own
+    # merge-output sort key exactly (unknown page sorts last).
+    value = _parse_toc_page_number(entry.printed_page_number) if entry.printed_page_number else None
+    return (entry.printed_page_number is None, value if value is not None else 0, entry.printed_page_number or "")
+
+
 def evaluate_book(key: str, gt_entries: tuple[TocEntry, ...], crossref_data: CrossrefBookData) -> BookAgreement:
-    gt_real = [e for e in gt_entries if not e.skip]
-    matched_pairs, only_in_gt, only_in_crossref = matching.diff_toc_entries(gt_real, list(crossref_data.chapters))
+    gt_real = sorted((e for e in gt_entries if not e.skip), key=_page_sort_key)
+    crossref_chapters = sorted(crossref_data.chapters, key=_page_sort_key)
+    matched_pairs, only_in_gt, only_in_crossref = matching.diff_toc_entries(gt_real, crossref_chapters)
     denominator = max(len(gt_real), len(crossref_data.chapters))
     agreement_rate = len(matched_pairs) / denominator if denominator else 0.0
     return BookAgreement(

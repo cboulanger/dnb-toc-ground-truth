@@ -71,6 +71,33 @@ class TestEvaluateBook(unittest.TestCase):
         self.assertEqual(result.only_in_crossref, 0)
         self.assertEqual(result.agreement_rate, 0.5)
 
+    def test_matches_correctly_when_crossref_chapters_are_not_in_page_order(self):
+        # Crossref's /works response order is registration order, not
+        # printed page order -- unlike two independent TOC-page reads,
+        # which diff_toc_entries' greedy alignment assumes are already
+        # in the same (page) order. Found empirically (2026-08-21,
+        # isbn:9783111702681): an out-of-order chapter list took a
+        # 20-chapter book's real match count from 20 down to 5 before
+        # evaluate_book started sorting both sides by page first.
+        gt_entries = (
+            TocEntry(title="Introduction", printed_page_number="1", source_page_index=0, skip=False),
+            TocEntry(title="Methods", printed_page_number="20", source_page_index=0, skip=False),
+            TocEntry(title="Results", printed_page_number="40", source_page_index=0, skip=False),
+        )
+        crossref_data = CrossrefBookData(
+            isbn="9783899718188", doi="10.1/x", fetched_at="",
+            chapters=(
+                TocEntry(title="Results", printed_page_number="40", source_page_index=-1, skip=False),
+                TocEntry(title="Introduction", printed_page_number="1", source_page_index=-1, skip=False),
+                TocEntry(title="Methods", printed_page_number="20", source_page_index=-1, skip=False),
+            ),
+        )
+        result = evaluate_book("9783899718188", gt_entries, crossref_data)
+        self.assertEqual(result.matched, 3)
+        self.assertEqual(result.only_in_gt, 0)
+        self.assertEqual(result.only_in_crossref, 0)
+        self.assertEqual(result.agreement_rate, 1.0)
+
     def test_all_gt_entries_skipped_degrades_to_zero_agreement_without_crashing(self):
         gt_entries = (
             TocEntry(title="Part I", printed_page_number="9", source_page_index=0, skip=True),
