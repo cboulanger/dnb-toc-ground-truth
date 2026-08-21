@@ -9,7 +9,7 @@ import json
 import tempfile
 import unittest
 from pathlib import Path
-from unittest.mock import Mock
+from unittest.mock import Mock, patch
 
 import httpx
 
@@ -188,4 +188,18 @@ class TestFetchCrossrefBook(unittest.TestCase):
             data = fetch_crossref_book("9783899718188", client, None, cache_dir)
         self.assertIsNone(data.doi)
         self.assertEqual(data.chapters, ())
+        self.assertFalse((cache_dir / "9783899718188.crossref.json").exists())
+
+    def test_cache_write_failure_still_returns_correct_data(self):
+        # "never raises" must hold for cache-write failures too (a full
+        # disk, a permissions problem, a bad --crossref-cache-dir), not
+        # just network/HTTP/JSON failures -- see _save_cache's docstring.
+        client = Mock()
+        client.get.return_value = _json_response(_MIXED_TYPE_RESPONSE)
+        with tempfile.TemporaryDirectory() as tmp:
+            cache_dir = Path(tmp)
+            with patch.object(Path, "write_text", side_effect=OSError("disk full")):
+                data = fetch_crossref_book("9783899718188", client, None, cache_dir)
+        self.assertEqual(data.doi, "10.1515/book-doi")
+        self.assertEqual(len(data.chapters), 2)
         self.assertFalse((cache_dir / "9783899718188.crossref.json").exists())

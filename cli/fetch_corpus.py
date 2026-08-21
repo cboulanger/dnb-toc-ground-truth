@@ -323,8 +323,8 @@ def _scan_and_acquire(
     limit: Optional[int],
     seen_keys: set[str],
     acquired_so_far: int,
-    contact_email: Optional[str] = None,
-    crossref_cache_dir: Optional[Path] = None,
+    contact_email: Optional[str],
+    crossref_cache_dir: Path,
 ) -> tuple[int, int]:
     """Consumes records from the given iterator, acquiring matches until
     either the iterator is exhausted or acquired_so_far plus newly

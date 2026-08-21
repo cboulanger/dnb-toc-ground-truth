@@ -86,19 +86,27 @@ def _load_cache(cache_dir: Path, isbn: str) -> Optional[CrossrefBookData]:
 
 
 def _save_cache(cache_dir: Path, data: CrossrefBookData) -> None:
-    cache_dir.mkdir(parents=True, exist_ok=True)
-    payload = {
-        "isbn": data.isbn,
-        "doi": data.doi,
-        "fetched_at": data.fetched_at,
-        "chapters": [
-            {"title": c.title, "authors": list(c.authors), "printed_page_number": c.printed_page_number}
-            for c in data.chapters
-        ],
-    }
-    _cache_path(cache_dir, data.isbn).write_text(
-        json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8",
-    )
+    """Best-effort only -- part of fetch_crossref_book's "never raises"
+    contract. A full disk, a permissions problem, or a bad
+    --crossref-cache-dir path must not crash the caller (e.g. a whole
+    --from-dump run): warn and skip persisting the cache, the in-memory
+    CrossrefBookData is still returned to the caller regardless."""
+    try:
+        cache_dir.mkdir(parents=True, exist_ok=True)
+        payload = {
+            "isbn": data.isbn,
+            "doi": data.doi,
+            "fetched_at": data.fetched_at,
+            "chapters": [
+                {"title": c.title, "authors": list(c.authors), "printed_page_number": c.printed_page_number}
+                for c in data.chapters
+            ],
+        }
+        _cache_path(cache_dir, data.isbn).write_text(
+            json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8",
+        )
+    except Exception as exc:
+        print(f"  [warn] failed to write crossref cache for {data.isbn}: {exc}")
 
 
 def _first_page(page_range: Optional[str]) -> Optional[str]:

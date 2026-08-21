@@ -193,7 +193,8 @@ class TestAcquireRecord(unittest.TestCase):
             response = Mock()
             response.raise_for_status = Mock()
             response.content = b"%PDF-1.4 fake toc bytes"
-            client.get.return_value = response
+            crossref_response = _json_response({"message": {"items": []}})
+            client.get.side_effect = [response, crossref_response]
             seen_keys = set()
 
             result = _acquire_record(_SAMPLE_RECORD, manifest_path, client, 0, seen_keys)
@@ -346,6 +347,7 @@ class TestScanAndAcquire(unittest.TestCase):
             scanned, newly_acquired = _scan_and_acquire(
                 _record_stream(), manifest_path, client,
                 rate_limit_seconds=0, limit=2, seen_keys=set(), acquired_so_far=1,
+                contact_email=None, crossref_cache_dir=corpus.crossref_cache_dir(),
             )
         self.assertEqual(newly_acquired, 1)
         self.assertEqual(scanned, 2)
@@ -364,6 +366,7 @@ class TestScanAndAcquire(unittest.TestCase):
             scanned, newly_acquired = _scan_and_acquire(
                 iter(records), manifest_path, client,
                 rate_limit_seconds=0, limit=None, seen_keys=set(), acquired_so_far=0,
+                contact_email=None, crossref_cache_dir=corpus.crossref_cache_dir(),
             )
         self.assertEqual(newly_acquired, 2)
         self.assertEqual(scanned, 2)
