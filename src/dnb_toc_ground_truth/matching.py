@@ -40,9 +40,15 @@ _PUNCTUATION_NORMALIZATION = str.maketrans({
 # asymmetric strip that scores an otherwise-identical pair below threshold.
 _TRAILING_PARENTHETICAL_RE = re.compile(r"\s*\([^()]*\)\.?\s*$")
 
+# The word for "chapter" in every language this corpus's TOCs are known
+# to appear in (English, German, French, Spanish) -- extend this list
+# rather than _LEADING_CHAPTER_NUMBER_RE itself as new languages show up.
+_CHAPTER_WORDS = ("chapter", "kapitel", "chapitre", "capítulo")
+
 # A leading chapter/section number one model includes in the title text
 # ("2 Decision-making", "1.4 Extraordinary revenues", "Chapter 1:
-# Un/thinking...") while the other reports the title alone -- see
+# Un/thinking...", "Kapitel 3: ...", "Chapitre 2 ...", "Capítulo 4 ...")
+# while the other reports the title alone -- see
 # _normalize_title_for_near_identical_check's own docstring for how
 # common this turned out to be. Symmetric on both sides of a comparison,
 # so an identical real leading number on both sides still compares equal
@@ -50,7 +56,10 @@ _TRAILING_PARENTHETICAL_RE = re.compile(r"\s*\([^()]*\)\.?\s*$")
 # error (entry_a says "3", entry_b says "4", same title text otherwise)
 # being masked rather than flagged -- accepted, since it's a much rarer
 # failure mode than the formatting difference this fixes.
-_LEADING_CHAPTER_NUMBER_RE = re.compile(r"^\s*(?:chapter\s+)?\d+(?:\.\d+)*\s*[.:]?\s+", re.IGNORECASE)
+_LEADING_CHAPTER_NUMBER_RE = re.compile(
+    rf"^\s*(?:(?:{'|'.join(re.escape(w) for w in _CHAPTER_WORDS)})\s+)?\d+(?:\.\d+)*\s*[.:]?\s+",
+    re.IGNORECASE,
+)
 
 
 def _normalize_title_for_near_identical_check(entry: TocEntry) -> str:
@@ -280,8 +289,8 @@ def diff_toc_entries(
     objects (not indices) from each side for each matched line,
     only_in_a/only_in_b hold every entry from that side with no match on
     the other. Same underlying alignment gate_book uses to decide
-    pass/fail; this exposes the full breakdown for a human (or Claude,
-    arbitrating a below-threshold book) to review the actual
+    pass/fail; this exposes the full breakdown for a human (or an AI
+    agent, arbitrating a below-threshold book) to review the actual
     disagreement -- see
     docs/superpowers/specs/2026-08-16-dnb-toc-arbitration-design.md
     section 4.1."""
