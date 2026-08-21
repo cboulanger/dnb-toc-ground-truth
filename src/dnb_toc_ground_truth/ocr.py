@@ -3,7 +3,7 @@
 via ocrmypdf + pdfalto, instead of vision_extract_toc_entries' page
 images. See design spec
 docs/superpowers/specs/2026-08-20-dnb-toc-vision-text-pairing-design.md
-section 3. Structurally parallel to evaluation/dnb_toc_vision.py, reusing
+section 3. Structurally parallel to vision.py, reusing
 its cache_path/load_cached_llm_entries/write_cached_llm_entries directly
 (both extraction paths share one cache, keyed by (book, model) -- see
 that module's own "kind" field for how a cached entry records which
@@ -82,8 +82,7 @@ def _resolve_tessdata_best_env(languages: tuple[str, ...] = ("deu", "eng")) -> d
     tessdata_fast only -- there is no Homebrew formula for tessdata_best,
     so this is opt-in via the TESSDATA_BEST_DIR environment variable after
     a manual per-language download from
-    https://github.com/tesseract-ocr/tessdata_best -- see
-    evaluation/README.md's "Building dnb-toc-only ground truth"). Returns
+    https://github.com/tesseract-ocr/tessdata_best). Returns
     None (no env override -- ocrmypdf uses whatever tessdata is already on
     PATH/its default location) when the variable isn't set at all; purely
     opt-in, no default guessed. When it IS set, validates the directory
@@ -93,7 +92,7 @@ def _resolve_tessdata_best_env(languages: tuple[str, ...] = ("deu", "eng")) -> d
     message, not silently fall back to the default or surface as a
     cryptic tesseract error deep inside a subprocess (same
     raise-naming-what's-wrong convention
-    evaluation/inference_endpoints.py's resolve_endpoint_from_env already
+    inference.py's resolve_model_endpoints already
     established for a similar env-var-driven setup step)."""
     directory = os.environ.get(_TESSDATA_BEST_DIR_ENV_VAR)
     if not directory:
@@ -116,13 +115,14 @@ def ocr_pages_to_rows(pdf_path: Path, *, pdfalto_bin: str | None = None) -> list
     regardless of the source PDF's own text layer quality), then runs
     pdfalto and reconstructs reading order via _rows_from_alto_xml. Returns
     one string per page, in page order -- the same per-page-list shape
-    render_pages_to_images (evaluation/dnb_toc_vision.py) returns for
+    render_pages_to_images (vision.py) returns for
     images, so the vision and text extraction paths stay visually parallel
     in any calling code. `pdfalto_bin` is passed straight through to
     pdfalto_runner.resolve_pdfalto_binary -- None (the default) resolves
     via the PDFALTO_BIN environment variable, then a bare "pdfalto" on
     PATH; pdfalto is a sibling checkout, not on PATH by default (see
-    CLAUDE.local.md/evaluation/CLAUDE.md's pdfalto notes). Raises
+    this repo's README.md "Setup" section for the pdfalto
+    sibling-checkout notes). Raises
     RuntimeError if ocrmypdf exits non-zero -- propagates to the caller
     exactly like any other extraction failure, no special-casing."""
     resolved_pdfalto_bin = pdfalto_runner.resolve_pdfalto_binary(pdfalto_bin)
@@ -203,7 +203,7 @@ If a title is printed with a leading number, letter, or label (e.g. "1 ", \
 verbatim as the start of the title string. Do not strip, renumber, or \
 omit any such printed label."""
 
-# Same escalation shape as evaluation/dnb_toc_vision.py's
+# Same escalation shape as vision.py's
 # _VISION_MAX_TOKENS/_VISION_MAX_TOKENS_RETRY -- a truncated JSON array
 # reliably fails parse_json_array regardless of cause, so JSON-parseability
 # alone is a sufficient retry trigger. A text response has no image tokens
@@ -212,7 +212,7 @@ omit any such printed label."""
 _TEXT_MAX_TOKENS = 4096
 _TEXT_MAX_TOKENS_RETRY = 8192
 
-# Same guard and reasoning as evaluation/dnb_toc_vision.py's
+# Same guard and reasoning as vision.py's
 # _MAX_VISION_PAGES -- this corpus's PDFs never exceed 1-3 pages today (the
 # acquisition pipeline's own TOC-only filtering), so this only matters if a
 # mis-filtered outlier ever slips through; a text prompt doesn't inflate
@@ -232,7 +232,7 @@ async def text_extract_toc_entries(
     text. Same return shape as vision_extract_toc_entries, sharing its
     item-parsing tolerance logic (_toc_items_to_entries) and its
     raises-on-failure/max_tokens-escalation contract -- see that
-    function's own docstring in evaluation/dnb_toc_vision.py for why
+    function's own docstring in vision.py for why
     swallowing failures internally would be wrong here too. Does not catch
     exceptions from ocr_pages_to_rows -- an OCR failure propagates exactly
     like any other extraction failure, no special-casing (design spec

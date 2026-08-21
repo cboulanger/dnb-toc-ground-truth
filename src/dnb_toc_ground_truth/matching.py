@@ -3,7 +3,7 @@ spec docs/superpowers/specs/2026-08-15-dnb-toc-ground-truth-generation-design.md
 section 4, and docs/superpowers/specs/2026-08-16-dnb-toc-uniform-ocr-design.md
 for the follow-up redesign. Pure functions over TocEntry lists produced by
 two independent vision_extract_toc_entries calls
-(evaluation/dnb_toc_vision.py), which already return the identical
+(vision.py), which already return the identical
 list[TocEntry] shape."""
 
 import re
@@ -98,8 +98,6 @@ def _normalize_title_for_near_identical_check(entry: TocEntry) -> str:
     title = _TRAILING_PARENTHETICAL_RE.sub("", title)
     return title.strip()
 
-# Same constant src/chapter_segmentation/evidence/fusion.py's _align uses
-# for its own title-similarity matching.
 _ALIGN_SCORE_THRESHOLD = 70.0
 
 # Stricter bar used wherever there's no printed_page_number to independently
@@ -188,7 +186,7 @@ def _title_sort_score(entry_a: TocEntry, entry_b: TocEntry) -> float:
     useless at telling a genuinely truncated/split title apart from a
     merely noisy one -- e.g. "Einleitung:" scores 100 by partial_ratio
     against "Einleitung: Endlichkeit und Verantwortung" (a real
-    split-heading defect found via evaluation/experiments/dnb-toc-ground-truth.md's
+    split-heading defect found via docs/history.md's
     bulk-gate spot-check, 2026-08-19) despite being a completely different,
     incomplete title. token_sort_ratio alone correctly scores that pair
     ~42.
@@ -233,7 +231,7 @@ def align_toc_entries(a: list[TocEntry], b: list[TocEntry]) -> list[tuple[int, i
       >= _ALIGN_SCORE_THRESHOLD per _title_score; or
     - both sides have an UNKNOWN printed_page_number (both None) and their
       titles are near-identical per _title_near_identical -- added
-      2026-08-19 after a real case (evaluation/experiments/dnb-toc-ground-truth.md's
+      2026-08-19 after a real case (docs/history.md's
       bulk-gate spot-check) where two models independently read the exact same
       page-number-less divider ("Anhang:") but the previous blanket "either
       side None -> never match" rule meant two IDENTICAL readings could
@@ -245,12 +243,10 @@ def align_toc_entries(a: list[TocEntry], b: list[TocEntry]) -> list[tuple[int, i
       different section dividers) into one. A None-page entry_a never
       matches a known-page entry_b or vice versa.
 
-    Mirrors evaluation/nuextract_baseline.py's match_toc_entries
-    (page-number-first, then title) and
-    src/chapter_segmentation/evidence/fusion.py's _align (greedy scan from
-    the last matched b-index, "TOC order is book order"), but returns index
-    PAIRS rather than a bare count, since the whole-book gate below needs
-    to know exactly which entries agreed."""
+    Alignment is page-number-first, then title, using a greedy scan from
+    the last matched b-index ("TOC order is book order"), but returns
+    index PAIRS rather than a bare count, since the whole-book gate below
+    needs to know exactly which entries agreed."""
     pairs: list[tuple[int, int]] = []
     last_j = -1
     for i, entry_a in enumerate(a):
@@ -314,7 +310,7 @@ def gate_book(
 
     Also rejected outright, even at/above `threshold`: any matched pair
     whose titles aren't near-identical per _title_near_identical -- added
-    2026-08-19 after a real case (evaluation/experiments/dnb-toc-ground-truth.md's
+    2026-08-19 after a real case (docs/history.md's
     bulk-gate spot-check) where a fuzzy-but-not-exact matched pair (one model split
     a heading the other read whole) silently kept the WORSE of the two
     readings, since the merge below has no way to tell which side is
@@ -363,11 +359,8 @@ def toc_entry_to_gt_dict(entry: TocEntry) -> dict:
     """Serializes one TocEntry to this corpus's <id>.expected.json entry
     shape (design spec section 2) -- printed_page_number is already
     str | None on TocEntry (see docs/superpowers/specs/2026-08-17-printed-page-number-string-design.md),
-    so it's passed through as-is. Matches evaluation/nuextract2_common.py's
-    build_target output shape directly (its primary downstream consumer,
-    per the parent program spec's section 3), and mirrors how
-    citation_pages is already stored as a string elsewhere in this
-    project's ground truth.
+    so it's passed through as-is, and mirrors how citation_pages is
+    already stored as a string elsewhere in this project's ground truth.
 
     "skip" (added 2026-08-17, see TocEntry.skip's own docstring) records
     the extraction's own hint about whether this entry is a real chapter
