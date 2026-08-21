@@ -1,4 +1,4 @@
-# dnb-toc-ground-truth
+# DNB Table of Contents Ground Truth
 
 A pilot case for generating structured, machine-checkable ground truth
 from openly available data -- the Deutsche Nationalbibliothek's
