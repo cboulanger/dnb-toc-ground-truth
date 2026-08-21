@@ -16,9 +16,6 @@ generation pipeline in this repo is the means of producing that data,
 not the point -- the point is the ground-truth data itself, general
 enough to feed pipelines this repo doesn't build.
 
-If you are an AI agent asked to work on this repo, read `AGENTS.md`
-first -- it documents the arbitration workflow you're expected to
-follow for books the automated gate can't resolve on its own.
 
 ## Methodology
 
@@ -83,3 +80,9 @@ not to keep leaning on arbitration indefinitely.
 5. See `cli/README.md` for the full flag reference of every script, and
    `data/corpus/pilot/README.md` for the corpus's current size and
    status.
+
+## Development
+
+If you are an AI agent asked to work on this repo, read `AGENTS.md`
+first -- it documents the arbitration workflow you're expected to
+follow for books the automated gate can't resolve on its own.
