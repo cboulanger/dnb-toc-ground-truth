@@ -1,0 +1,18 @@
+[
+  {
+    "framework": "vLLM",
+    "framework_args": "--model=mistralai/Pixtral-12B-2409 --tensor-parallel-size=2 --trust-remote-code",
+    "host": "10.179.7.234:24100",
+    "key": "REPLACE_WITH_REAL_API_KEY",
+    "status": "Running",
+    "url": "https://your-inference-provider.example/session-a"
+  },
+  {
+    "framework": "vLLM",
+    "framework_args": "--model=Qwen/Qwen3-Omni-30B-A3B-Instruct --tensor-parallel-size=2 --trust-remote-code",
+    "host": "10.179.7.235:24100",
+    "key": "REPLACE_WITH_REAL_API_KEY",
+    "status": "Running",
+    "url": "https://your-inference-provider.example/session-b"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "endpoints_file": ".endpoints",
+  "use_vision": ["mistralai/Pixtral-12B-2409", "Qwen/Qwen3-Omni-30B-A3B-Instruct"],
+  "use_text": [],
+  "concurrency": 4,
+  "limit": null,
+  "gate_threshold": 0.90
+}
