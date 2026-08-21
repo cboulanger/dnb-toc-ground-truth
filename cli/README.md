@@ -35,6 +35,49 @@ options:
   -h, --help     show this help message and exit
 ```
 
+## `backfill_crossref.py`
+
+Backfills Crossref book DOI and cached chapter data for existing
+manifest entries that already have ground truth but no DOI yet.
+
+```
+usage: backfill_crossref.py [-h] [--force] [--contact-email CONTACT_EMAIL]
+                            [--config-file CONFIG_FILE]
+
+Backfills Crossref book DOI and chapter data for existing manifest.json
+entries that already have a .expected.json ground-truth file but no doi yet --
+see design spec docs/superpowers/specs/2026-08-21-crossref-cross-validation-
+design.md.
+
+options:
+  -h, --help            show this help message and exit
+  --force               Re-query Crossref even for an already-cached ISBN
+  --contact-email CONTACT_EMAIL
+                        Crossref polite-pool contact email (default: config
+                        file's "contact_email")
+  --config-file CONFIG_FILE
+                        Path to the config file (default: .config.json)
+```
+
+## `evaluate_crossref.py`
+
+Measures agreement between this corpus's ground truth and each book's
+cached Crossref chapter data, reusing `matching.diff_toc_entries`.
+
+```
+usage: evaluate_crossref.py [-h] [--min-agreement MIN_AGREEMENT]
+
+Measures agreement between this corpus's own ground truth and each book's
+cached Crossref chapter data -- see design spec
+docs/superpowers/specs/2026-08-21-crossref-cross-validation-design.md.
+
+options:
+  -h, --help            show this help message and exit
+  --min-agreement MIN_AGREEMENT
+                        Exit 1 if the aggregate mean agreement rate falls
+                        below this (0-1). Unset: no gate enforced.
+```
+
 ## `fetch_corpus.py`
 
 Acquires real DNB-scanned table-of-contents PDFs via the lobid-resources
@@ -46,6 +89,9 @@ usage: fetch_corpus.py [-h] (--from-dump | --isbns-file ISBNS_FILE)
                        [--rate-limit-seconds RATE_LIMIT_SECONDS]
                        [--max-retries MAX_RETRIES]
                        [--manifest-path MANIFEST_PATH]
+                       [--contact-email CONTACT_EMAIL]
+                       [--crossref-cache-dir CROSSREF_CACHE_DIR]
+                       [--config-file CONFIG_FILE]
 
 Acquires real DNB-scanned table-of-contents PDFs via the lobid-resources
 API (lobid.org/resources) into data/corpus/pilot/ -- see
@@ -78,6 +124,14 @@ options:
                         redirectable, e.g. to a scratch copy that gets merged
                         into the real manifest.json once a long run finishes,
                         without touching the committed file mid-run.
+  --contact-email CONTACT_EMAIL
+                        Crossref polite-pool contact email (default: config
+                        file's "contact_email")
+  --crossref-cache-dir CROSSREF_CACHE_DIR
+                        Override where Crossref DOI/chapter data is cached
+                        (default: data/corpus/pilot/.crossref-cache/)
+  --config-file CONFIG_FILE
+                        Path to the config file (default: .config.json)
 ```
 
 ## `generate_ground_truth.py`
