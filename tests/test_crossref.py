@@ -89,6 +89,33 @@ class TestFetchCrossrefBook(unittest.TestCase):
         self.assertEqual(data.chapters[1].title, "A Second Chapter")
         self.assertEqual(data.chapters[1].printed_page_number, "50")
 
+    def test_strips_page_number_glued_onto_title(self):
+        # Real-world artifact found in some publishers' Crossref
+        # registrations (e.g. isbn:9783111702681): the printed page
+        # number is glued directly onto the front of the title text with
+        # no separator.
+        client = Mock()
+        client.get.return_value = _json_response({
+            "message": {"items": [
+                {"type": "book-chapter", "DOI": "10.1/x", "title": ["49Strategies for Responding"], "author": [], "page": "49-68"},
+            ]}
+        })
+        with tempfile.TemporaryDirectory() as tmp:
+            data = fetch_crossref_book("9783899718188", client, None, Path(tmp))
+        self.assertEqual(data.chapters[0].title, "Strategies for Responding")
+        self.assertEqual(data.chapters[0].printed_page_number, "49")
+
+    def test_does_not_strip_a_number_that_is_not_the_page_prefix(self):
+        client = Mock()
+        client.get.return_value = _json_response({
+            "message": {"items": [
+                {"type": "book-chapter", "DOI": "10.1/x", "title": ["1984: A Retrospective"], "author": [], "page": "49-68"},
+            ]}
+        })
+        with tempfile.TemporaryDirectory() as tmp:
+            data = fetch_crossref_book("9783899718188", client, None, Path(tmp))
+        self.assertEqual(data.chapters[0].title, "1984: A Retrospective")
+
     def test_untitled_chapter_item_is_dropped(self):
         client = Mock()
         client.get.return_value = _json_response(_MIXED_TYPE_RESPONSE)

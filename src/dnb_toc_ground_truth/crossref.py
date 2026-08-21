@@ -116,23 +116,44 @@ def _first_page(page_range: Optional[str]) -> Optional[str]:
     return first or None
 
 
+def _strip_glued_page_prefix(title: str, printed_page_number: Optional[str]) -> str:
+    """Some Crossref-registered book-chapter records glue the printed
+    page number directly onto the front of the title text with no
+    separator -- a metadata-extraction artifact from the publisher's own
+    deposit pipeline, e.g. "49Strategies for Responding to Catastrophe
+    in the Book of Judith" for a chapter whose "page" field is "49".
+    Found empirically comparing this corpus's ground truth against real
+    Crossref data (2026-08-21, isbn:9783111702681): every real chapter's
+    page number matched exactly between the two sources, yet the glued
+    digits corrupted the title's leading token badly enough to fail
+    matching.py's fuzzy title score despite the rest of the title text
+    being identical. Stripped only when the page number is a literal
+    prefix of the title, so a title that doesn't have this artifact (the
+    common case) is never touched."""
+    if printed_page_number and title.startswith(printed_page_number):
+        return title[len(printed_page_number):].lstrip()
+    return title
+
+
 def _parse_chapter_item(item: dict) -> Optional[TocEntry]:
     if item.get("type") != "book-chapter":
         return None
     titles = item.get("title") or []
     if not titles:
         return None
+    printed_page_number = _first_page(item.get("page"))
     # Crossref splits a chapter's real printed heading into separate
     # title/subtitle fields -- see crossref_strategy.py's
     # _parse_crossref_item for the full rationale this ports.
     subtitles = item.get("subtitle") or []
-    title = f"{titles[0]} {subtitles[0]}" if subtitles else titles[0]
+    title0 = _strip_glued_page_prefix(titles[0], printed_page_number)
+    title = f"{title0} {subtitles[0]}" if subtitles else title0
     authors = tuple(
         f"{a.get('given', '')} {a.get('family', '')}".strip()
         for a in item.get("author", []) if a.get("family")
     )
     return TocEntry(
-        title=title, authors=authors, printed_page_number=_first_page(item.get("page")),
+        title=title, authors=authors, printed_page_number=printed_page_number,
         source_page_index=-1, skip=False,
     )
 
