@@ -1,0 +1,158 @@
+# CLI scripts reference
+
+One-line description plus a full `--help` dump for every script in this
+directory, alphabetically. Regenerate an entry by running
+`uv run python cli/<name>.py --help` whenever that script's arguments
+change.
+
+## `arbitrate.py`
+
+Surfaces books whose model reads didn't clear `generate_ground_truth.py`'s
+agreement gate, so a human/Claude session can arbitrate the conflict
+directly -- see `CLAUDE.md`'s "Arbitrating below-gate books". This
+script only REPORTS and records rejections; it never decides.
+
+```
+usage: arbitrate.py [-h] {list,reject} ...
+
+Surfaces pilot-corpus books whose two vision-model TOC extractions didn't
+clear cli/generate_ground_truth.py's agreement gate, so a Claude Code session
+can arbitrate the conflict directly -- see design spec
+docs/superpowers/specs/2026-08-16-dnb-toc-arbitration-design.md. This script
+only REPORTS and records rejections; it never decides. The arbitrator reads a
+book's report, opens the PDF's actual TOC pages via the Read tool when the
+text alone doesn't settle it, then either writes data/corpus/pilot/ground-
+truth/<key>.expected.json directly (same schema as a passing book, "verified":
+true) or runs this script's `reject` subcommand to permanently record the book
+as unrecoverable.
+
+positional arguments:
+  {list,reject}
+    list         List books needing arbitration (default)
+    reject       Permanently mark a book as unrecoverable
+
+options:
+  -h, --help     show this help message and exit
+```
+
+## `fetch_corpus.py`
+
+Acquires real DNB-scanned table-of-contents PDFs via the lobid-resources
+API into `data/corpus/pilot/pdf/`.
+
+```
+usage: fetch_corpus.py [-h] (--from-dump | --isbns-file ISBNS_FILE)
+                       [--dump-url DUMP_URL] [--limit LIMIT]
+                       [--rate-limit-seconds RATE_LIMIT_SECONDS]
+                       [--max-retries MAX_RETRIES]
+                       [--manifest-path MANIFEST_PATH]
+
+Acquires real DNB-scanned table-of-contents PDFs via the lobid-resources
+API (lobid.org/resources) into data/corpus/pilot/ -- see
+docs/superpowers/specs/2026-08-14-dnb-toc-corpus-acquisition-design.md.
+
+options:
+  -h, --help            show this help message and exit
+  --from-dump           Scan the full lobid-resources JSON-Lines dump for
+                        matching records (hours-long; see module docstring)
+  --isbns-file ISBNS_FILE
+                        Path to a text file of ISBNs (one per line, '#'
+                        comments allowed) to look up individually
+  --dump-url DUMP_URL   lobid-resources dump URL for --from-dump (default:
+                        https://lobid.org/download/dumps/lobid-
+                        resources/latestLobidResources.jsonl.gz)
+  --limit LIMIT         Stop after acquiring this many new books
+  --rate-limit-seconds RATE_LIMIT_SECONDS
+                        Delay after each TOC PDF download, to stay polite to
+                        DNB's servers (default: 1.0)
+  --max-retries MAX_RETRIES
+                        For --from-dump: how many times to reconnect and
+                        rescan after a dropped connection before giving up
+                        (default: 5)
+  --manifest-path MANIFEST_PATH
+                        Override where manifest.json entries are read from and
+                        appended to (default:
+                        data/corpus/pilot/manifest.json). PDFs and .lobid-
+                        cache/ always go to the real corpus directory
+                        regardless -- only the tracked manifest write is
+                        redirectable, e.g. to a scratch copy that gets merged
+                        into the real manifest.json once a long run finishes,
+                        without touching the committed file mid-run.
+```
+
+## `generate_ground_truth.py`
+
+Generates bulk-tier ground truth by sending each book's TOC pages to
+every model named via `--use-vision`/`--use-text`, writing a
+ground-truth file only when at least two of the resulting reads agree
+well enough.
+
+```
+usage: generate_ground_truth.py [-h] [--limit LIMIT]
+                                [--concurrency CONCURRENCY] [--spot-check N]
+                                [--use-vision MODEL[,MODEL...]]
+                                [--use-text MODEL[,MODEL...]]
+                                [--endpoints-file ENDPOINTS_FILE]
+                                [--config-file CONFIG_FILE]
+                                [--gate-threshold GATE_THRESHOLD]
+
+Generates structured ground truth for the dnb-toc-only pilot corpus. For every
+manifest book not held out in eval_tier_ids.json (see select_eval_sample.py),
+not already carrying a ground-truth JSON file (bulk-gated or arbitrated), and
+not permanently rejected (arbitration-rejected.json), sends the book's TOC
+pages to every model named via --use-vision/--use-text (resolved against
+--endpoints-file), and writes a ground-truth file only when at least two of
+the resulting reads agree well enough
+(dnb_toc_ground_truth.matching.gate_books, >=0.90 agreement between the best-
+agreeing pair) -- see design spec docs/superpowers/specs/2026-08-21-dnb-toc-
+ground-truth-extraction-design.md. Books that don't clear the gate are skipped
+and reported, not partially written -- run cli/arbitrate.py on them next.
+
+options:
+  -h, --help            show this help message and exit
+  --limit LIMIT         Process at most this many books (smoke-test
+                        convenience)
+  --concurrency CONCURRENCY
+                        How many books to process concurrently (default: 4, or
+                        config file's "concurrency")
+  --spot-check N        Instead of generating, sample N passing bulk-tier
+                        books and walk through a visual Accept/Reject check
+  --use-vision MODEL[,MODEL...]
+                        Model id(s) to resolve against --endpoints-file for
+                        the VISION side -- required (directly or via config),
+                        at least one
+  --use-text MODEL[,MODEL...]
+                        Model id(s) to resolve against --endpoints-file for
+                        the TEXT (OCR'd) side -- optional
+  --endpoints-file ENDPOINTS_FILE
+                        Path to the endpoints file (default: .endpoints, or
+                        config file's "endpoints_file")
+  --config-file CONFIG_FILE
+                        Path to the config file (default: .config)
+  --gate-threshold GATE_THRESHOLD
+                        Whole-book agreement threshold, 0-1 (default: 0.90, or
+                        config file's "gate_threshold")
+```
+
+## `select_eval_sample.py`
+
+Selects a stratified held-out eval-tier sample, so it isn't accidentally
+dominated by one publication era or language.
+
+```
+usage: select_eval_sample.py [-h] [--sample-size SAMPLE_SIZE] [--seed SEED]
+
+Selects a stratified held-out eval-tier sample for the pilot corpus (design
+spec docs/superpowers/specs/2026-08-15-dnb-toc-ground-truth-generation-
+design.md section 5). Reads each candidate book's .lobid-cache/<id>.lobid.json
+for its publication decade and the manifest's language field, and draws a
+sample whose decade/language spread mirrors the corpus's own -- so the held-
+out eval tier used to score NuExtract fine-tuning, the heuristic line-parsing
+harness, and the classifier pilot isn't accidentally dominated by one era or
+language.
+
+options:
+  -h, --help            show this help message and exit
+  --sample-size SAMPLE_SIZE
+  --seed SEED
+```
