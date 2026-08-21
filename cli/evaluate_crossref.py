@@ -21,7 +21,7 @@ import argparse
 import json
 from dataclasses import dataclass
 
-from dnb_toc_ground_truth import corpus, matching
+from dnb_toc_ground_truth import corpus, crossref, matching
 from dnb_toc_ground_truth.crossref import CrossrefBookData, _load_cache as _load_crossref_cache
 from dnb_toc_ground_truth.toc_entry import TocEntry
 
@@ -47,7 +47,7 @@ def _load_gt_entries(key: str) -> tuple[TocEntry, ...]:
 
 
 def _load_crossref_data(key: str) -> CrossrefBookData | None:
-    return _load_crossref_cache(corpus.crossref_cache_dir(), key)
+    return _load_crossref_cache(corpus.crossref_cache_dir(), crossref.normalize_isbn(key) or key)
 
 
 def evaluate_book(key: str, gt_entries: tuple[TocEntry, ...], crossref_data: CrossrefBookData) -> BookAgreement:

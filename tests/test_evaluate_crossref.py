@@ -16,7 +16,7 @@ from dnb_toc_ground_truth.toc_entry import TocEntry
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "cli"))
 
-from evaluate_crossref import BookAgreement, evaluate_book, evaluate_corpus, _load_gt_entries
+from evaluate_crossref import BookAgreement, evaluate_book, evaluate_corpus, _load_crossref_data, _load_gt_entries
 
 
 def _write_expected_json(key: str, entries: list[dict]) -> None:
@@ -123,5 +123,52 @@ class TestEvaluateCorpus(unittest.TestCase):
             results, no_coverage = evaluate_corpus()
             self.assertEqual(len(results), 1)
             self.assertEqual(results[0].key, "9783899718188")
+            self.assertEqual(results[0].agreement_rate, 1.0)
+            self.assertEqual(no_coverage, [])
+
+    def test_finds_cached_crossref_data_when_lookup_key_is_a_hyphenated_isbn_variant(self):
+        # fetch_crossref_book() always writes the cache file keyed by the
+        # NORMALIZED isbn (crossref.normalize_isbn), but a manifest filename
+        # stem -- the raw lookup key -- could in principle be a hyphenated
+        # or differently-cased variant of the same ISBN. _load_crossref_data
+        # must normalize before looking up the cache, or it silently misses
+        # already-cached data and misreports the book as having no coverage.
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            corpus.crossref_cache_dir().mkdir(parents=True, exist_ok=True)
+            (corpus.crossref_cache_dir() / "9783899718188.crossref.json").write_text(
+                json.dumps({
+                    "isbn": "9783899718188", "doi": "10.1/x", "fetched_at": "",
+                    "chapters": [{"title": "Introduction", "authors": [], "printed_page_number": "1"}],
+                }),
+                encoding="utf-8",
+            )
+            data = _load_crossref_data("978-3-89971-818-8")
+            self.assertIsNotNone(data)
+            self.assertEqual(len(data.chapters), 1)
+
+    def test_evaluates_book_whose_manifest_key_is_a_hyphenated_isbn_variant(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            manifest_path = corpus.manifest_path()
+            manifest_path.write_text(
+                json.dumps({
+                    "toc_only": True,
+                    "books": [{"filename": "978-3-89971-818-8.pdf", "doi": "10.1/x"}],
+                }),
+                encoding="utf-8",
+            )
+            _write_expected_json("978-3-89971-818-8", [
+                {"title": "1. Introduction", "authors": [], "printed_page_number": "1", "skip": False},
+            ])
+            corpus.crossref_cache_dir().mkdir(parents=True, exist_ok=True)
+            (corpus.crossref_cache_dir() / "9783899718188.crossref.json").write_text(
+                json.dumps({
+                    "isbn": "9783899718188", "doi": "10.1/x", "fetched_at": "",
+                    "chapters": [{"title": "Introduction", "authors": [], "printed_page_number": "1"}],
+                }),
+                encoding="utf-8",
+            )
+            results, no_coverage = evaluate_corpus()
+            self.assertEqual(len(results), 1)
+            self.assertEqual(results[0].key, "978-3-89971-818-8")
             self.assertEqual(results[0].agreement_rate, 1.0)
             self.assertEqual(no_coverage, [])
