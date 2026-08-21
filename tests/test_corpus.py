@@ -1,4 +1,5 @@
 import json
+import tempfile
 import unittest
 from pathlib import Path
 from unittest.mock import patch
@@ -15,6 +16,10 @@ class TestCorpusPaths(unittest.TestCase):
         path = corpus.expected_json_path("9783899718188")
         self.assertEqual(path.name, "9783899718188.expected.json")
         self.assertEqual(path.parent, corpus.ground_truth_dir())
+
+    def test_crossref_cache_dir(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            self.assertEqual(corpus.crossref_cache_dir(), Path(tmp) / ".crossref-cache")
 
 
 class TestManifestKey(unittest.TestCase):

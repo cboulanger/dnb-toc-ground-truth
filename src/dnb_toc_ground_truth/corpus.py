@@ -33,6 +33,10 @@ def lobid_cache_dir() -> Path:
     return CORPUS_DIR / ".lobid-cache"
 
 
+def crossref_cache_dir() -> Path:
+    return CORPUS_DIR / ".crossref-cache"
+
+
 def locks_dir() -> Path:
     return CORPUS_DIR / ".locks"
 
