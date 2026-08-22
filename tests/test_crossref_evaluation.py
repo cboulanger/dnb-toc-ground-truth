@@ -330,6 +330,29 @@ class TestDiscoverCachedModels(unittest.TestCase):
 
 
 class TestBackfillModelCache(unittest.TestCase):
+    def test_records_a_positive_duration_seconds_in_the_cache_file(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            manifest_path = corpus.manifest_path()
+            manifest_path.write_text(
+                json.dumps({"toc_only": True, "books": [{"filename": "9783899718188.pdf", "doi": "10.1/x"}]}),
+                encoding="utf-8",
+            )
+            corpus.pdf_dir().mkdir(parents=True, exist_ok=True)
+            _make_pdf(corpus.pdf_path("9783899718188"))
+            _write_evaluation_json("9783899718188", [
+                {"title": "Introduction", "authors": [], "printed_page_number": "1", "skip": False},
+            ])
+            client = _fake_client(
+                '[{"title": "1. Introduction", "authors": [], "printed_page_number": "1", "skip": false}]'
+            )
+            endpoint = ModelEndpoint(label="some/model", model_id="some/model", kind="vision", client=client)
+
+            asyncio.run(backfill_model_cache("some/model", endpoint, corpus.llm_cache_dir()))
+
+            data = json.loads(vision.cache_path(corpus.llm_cache_dir(), "9783899718188", "some/model").read_text(encoding="utf-8"))
+            self.assertIsInstance(data["duration_seconds"], float)
+            self.assertGreaterEqual(data["duration_seconds"], 0.0)
+
     def test_backfills_a_missing_book_and_writes_its_cache_entry(self):
         with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
             manifest_path = corpus.manifest_path()

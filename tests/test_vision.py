@@ -49,6 +49,27 @@ class TestLlmCacheRoundTrip(unittest.TestCase):
             loaded = load_cached_llm_entries(cache_dir, "book1", "model-a")
             self.assertEqual(loaded, entries)
 
+    def test_records_duration_seconds_in_the_cache_file(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            cache_dir = Path(tmp)
+            entries = [TocEntry(title="Einleitung", printed_page_number=9, source_page_index=0)]
+            write_cached_llm_entries(cache_dir, "book_dur", "model-a", entries, duration_seconds=4.5)
+            data = json.loads(cache_path(cache_dir, "book_dur", "model-a").read_text(encoding="utf-8"))
+            self.assertEqual(data["duration_seconds"], 4.5)
+            # "duration_seconds" must sit right after "generated_at" -- insertion
+            # order is preserved by json.dumps, and a caller reading the raw file
+            # by eye relies on it being next to the other per-run metadata.
+            keys = list(data.keys())
+            self.assertEqual(keys.index("duration_seconds"), keys.index("generated_at") + 1)
+
+    def test_duration_seconds_defaults_to_null_when_not_given(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            cache_dir = Path(tmp)
+            entries = [TocEntry(title="Einleitung", printed_page_number=9, source_page_index=0)]
+            write_cached_llm_entries(cache_dir, "book_no_dur", "model-a", entries)
+            data = json.loads(cache_path(cache_dir, "book_no_dur", "model-a").read_text(encoding="utf-8"))
+            self.assertIsNone(data["duration_seconds"])
+
     def test_round_trip_preserves_printed_roman(self):
         with tempfile.TemporaryDirectory() as tmp:
             cache_dir = Path(tmp)

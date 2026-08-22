@@ -33,6 +33,7 @@ compute the same scores without importing one script from another (same
 reasoning as vision.py's own cache-loading functions)."""
 
 import json
+import time
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -167,6 +168,7 @@ async def backfill_model_cache(
             failed.append(key)
             continue
         try:
+            start = time.monotonic()
             if endpoint.extraction_api == "nuextract":
                 entries = await nuextract_vision_extract_toc_entries(
                     pdf_path, endpoint.model_id, endpoint.client,
@@ -174,12 +176,13 @@ async def backfill_model_cache(
                 )
             else:
                 entries = await vision_extract_toc_entries(pdf_path, endpoint.model_id, endpoint.client)
+            duration = time.monotonic() - start
         except Exception as exc:  # noqa: BLE001 -- one book's failure must not abort the whole backfill
             print(f"[backfill] {key}: failed -- {type(exc).__name__}: {exc}")
             failed.append(key)
             continue
         if entries:
-            vision.write_cached_llm_entries(cache_directory, key, model, entries, kind="vision")
+            vision.write_cached_llm_entries(cache_directory, key, model, entries, kind="vision", duration_seconds=duration)
             succeeded.append(key)
         else:
             print(f"[backfill] {key}: extraction returned no entries, not cached")

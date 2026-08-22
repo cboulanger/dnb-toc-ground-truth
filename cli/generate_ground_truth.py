@@ -222,15 +222,20 @@ async def _run_book(
             else:
                 async def _call(ep=endpoint):
                     async with semaphore:
+                        start = time.monotonic()
                         if ep.extraction_api == "nuextract":
                             fn = nuextract_text_extract_toc_entries if ep.kind == "text" else nuextract_vision_extract_toc_entries
-                            return await fn(pdf_path, ep.model_id, ep.client, use_instructions=ep.extraction_instructions)
-                        if ep.kind == "text":
-                            return await text_extract_toc_entries(pdf_path, ep.model_id, ep.client)
-                        return await vision_extract_toc_entries(pdf_path, ep.model_id, ep.client)
-                entries = await _call_with_retry(_call, sleep=sleep)
+                            result = await fn(pdf_path, ep.model_id, ep.client, use_instructions=ep.extraction_instructions)
+                        elif ep.kind == "text":
+                            result = await text_extract_toc_entries(pdf_path, ep.model_id, ep.client)
+                        else:
+                            result = await vision_extract_toc_entries(pdf_path, ep.model_id, ep.client)
+                        return result, time.monotonic() - start
+                entries, duration = await _call_with_retry(_call, sleep=sleep)
                 if entries:
-                    write_cached_llm_entries(cache_directory, key, endpoint.model_id, entries, kind=endpoint.kind)
+                    write_cached_llm_entries(
+                        cache_directory, key, endpoint.model_id, entries, kind=endpoint.kind, duration_seconds=duration,
+                    )
             entries_by_endpoint.append(entries)
         return _run_book_entries(key, entries_by_endpoint, threshold)
     except Exception as exc:  # noqa: BLE001 -- must never let one book crash the whole batch

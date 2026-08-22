@@ -252,6 +252,22 @@ _VISION_RESPONSE = (
 
 
 class TestRunBook(unittest.IsolatedAsyncioTestCase):
+    async def test_records_a_positive_duration_seconds_in_the_cache_file(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp) / "corpus"):
+            tmp_path = Path(tmp)
+            cache_directory = tmp_path / "cache"
+            pdf_path = _make_pdf(tmp_path / "book.pdf")
+            client = _fake_vision_client(_VISION_RESPONSE)
+            endpoints = [_endpoint("model-a", client), _endpoint("model-b", client)]
+            semaphore = asyncio.Semaphore(1)
+
+            await _run_book("book_dur", pdf_path, endpoints, semaphore, cache_directory, 0.90, sleep=AsyncMock())
+
+            from dnb_toc_ground_truth.vision import cache_path
+            data = json.loads(cache_path(cache_directory, "book_dur", "model-a").read_text(encoding="utf-8"))
+            self.assertIsInstance(data["duration_seconds"], float)
+            self.assertGreaterEqual(data["duration_seconds"], 0.0)
+
     async def test_calls_each_model_once_and_writes_on_agreement(self):
         with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp) / "corpus"):
             tmp_path = Path(tmp)

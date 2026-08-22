@@ -83,7 +83,8 @@ def load_cached_llm_entries(cache_directory: Path, key: str, model: str) -> Opti
 
 
 def write_cached_llm_entries(
-    cache_directory: Path, key: str, model: str, entries: list[TocEntry], *, kind: str = "vision",
+    cache_directory: Path, key: str, model: str, entries: list[TocEntry], *,
+    kind: str = "vision", duration_seconds: float | None = None,
 ) -> None:
     """Caches entries for (key, model). Callers should only call this
     with a non-empty entries list -- an empty result could be a genuine
@@ -91,11 +92,17 @@ def write_cached_llm_entries(
     would make a later re-run trust a possibly-transient empty result
     forever instead of retrying. `kind` ("vision" or "text", default
     "vision") records which extraction path produced these entries --
-    see load_cached_kind's own docstring for how a caller reads it back."""
+    see load_cached_kind's own docstring for how a caller reads it back.
+    `duration_seconds`, if given, is how long the actual successful
+    extraction call took (a caller's own wall-clock measurement around
+    just that call, excluding any retry/backoff wrapper around it) --
+    written as-is, null if not given; purely descriptive metadata, never
+    read back by any loader in this module."""
     path = cache_path(cache_directory, key, model)
     path.parent.mkdir(parents=True, exist_ok=True)
     data = {
         "generated_at": time.time(),
+        "duration_seconds": duration_seconds,
         "kind": kind,
         "entries": [
             {
