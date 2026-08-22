@@ -161,6 +161,28 @@ options:
                         (default: 3)
 ```
 
+## `generate_evaluation_site.py`
+
+Builds the static GitHub Pages site presenting crossref-evaluation scores
+(ground truth plus every cached model). Reads only committed corpus data --
+no network access, no secrets required. Run automatically by
+`.github/workflows/pages.yml` on every push to `main`.
+
+```
+usage: generate_evaluation_site.py [-h] [--output-dir OUTPUT_DIR]
+
+Builds the static GitHub Pages site presenting crossref-evaluation scores --
+see dnb_toc_ground_truth.evaluation_site for the page-building logic and
+.github/workflows/pages.yml for how this is run and deployed on every push to
+main. Reads only committed corpus data (ground truth, the committed Crossref
+evaluation corpus, and llm-cache) -- no network access, no secrets required.
+
+options:
+  -h, --help            show this help message and exit
+  --output-dir OUTPUT_DIR
+                        Directory to write the site into (default: _site/)
+```
+
 ## `generate_ground_truth.py`
 
 Generates bulk-tier ground truth by sending each book's TOC pages to

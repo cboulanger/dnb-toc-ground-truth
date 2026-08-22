@@ -50,6 +50,10 @@ registration metadata (title, authors, page range), for books that have
 one. This is the only correctness signal in this repo that comes from
 outside its own LLM extraction pipeline entirely.
 
+**[View the current scores on GitHub Pages](https://cboulanger.github.io/dnb-toc-ground-truth/)**
+-- rebuilt automatically from committed corpus data on every push to
+`main` (`.github/workflows/pages.yml`).
+
 **How it works:**
 
 1. Whenever a book's Crossref data is fetched -- either by
