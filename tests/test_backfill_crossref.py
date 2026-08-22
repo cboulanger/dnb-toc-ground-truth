@@ -65,13 +65,50 @@ class TestBackfill(unittest.TestCase):
                 ]}
             })
 
-            checked, found, cached = backfill(manifest_path, client, None, corpus.crossref_cache_dir(), force=False)
+            checked, found, cached, written = backfill(
+                manifest_path, client, None, corpus.crossref_cache_dir(), force=False,
+                eval_dir=corpus.evaluation_dir(), min_chapters=3,
+            )
 
             self.assertEqual(checked, 1)
             self.assertEqual(found, 1)
             self.assertEqual(cached, 1)
+            self.assertEqual(written, 0)  # only 1 chapter, below the default min_chapters=3
             data = json.loads(manifest_path.read_text(encoding="utf-8"))
             self.assertEqual(data["books"][0]["doi"], "10.1515/found")
+
+    def test_writes_evaluation_entry_when_enough_paged_chapters(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            corpus.ground_truth_dir().mkdir(parents=True)
+            corpus.expected_json_path("9783899718188").write_text('{"entries": []}', encoding="utf-8")
+            manifest_path = corpus.manifest_path()
+            manifest_path.write_text(
+                json.dumps({"toc_only": True, "books": [
+                    {"filename": "9783899718188.pdf", "doi": None},
+                ]}),
+                encoding="utf-8",
+            )
+            client = Mock()
+            client.get.return_value = _json_response({
+                "message": {"items": [
+                    {"type": "book", "DOI": "10.1515/found", "title": ["X"]},
+                    {"type": "book-chapter", "DOI": "10.1515/ch1", "title": ["A"], "author": [], "page": "1-10"},
+                    {"type": "book-chapter", "DOI": "10.1515/ch2", "title": ["B"], "author": [], "page": "10-20"},
+                    {"type": "book-chapter", "DOI": "10.1515/ch3", "title": ["C"], "author": [], "page": "20-30"},
+                ]}
+            })
+
+            checked, found, cached, written = backfill(
+                manifest_path, client, None, corpus.crossref_cache_dir(), force=False,
+                eval_dir=corpus.evaluation_dir(), min_chapters=3,
+            )
+
+            self.assertEqual(written, 1)
+            eval_path = corpus.evaluation_dir() / "9783899718188.expected.json"
+            self.assertTrue(eval_path.exists())
+            payload = json.loads(eval_path.read_text(encoding="utf-8"))
+            self.assertEqual(len(payload["entries"]), 3)
+            self.assertEqual(payload["source"], "crossref")
 
     def test_skips_book_without_expected_json(self):
         with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
@@ -83,7 +120,10 @@ class TestBackfill(unittest.TestCase):
             )
             client = Mock()
 
-            checked, found, cached = backfill(manifest_path, client, None, corpus.crossref_cache_dir(), force=False)
+            checked, found, cached, written = backfill(
+                manifest_path, client, None, corpus.crossref_cache_dir(), force=False,
+                eval_dir=corpus.evaluation_dir(), min_chapters=3,
+            )
 
             self.assertEqual(checked, 0)
             client.get.assert_not_called()
@@ -101,7 +141,10 @@ class TestBackfill(unittest.TestCase):
             )
             client = Mock()
 
-            checked, found, cached = backfill(manifest_path, client, None, corpus.crossref_cache_dir(), force=False)
+            checked, found, cached, written = backfill(
+                manifest_path, client, None, corpus.crossref_cache_dir(), force=False,
+                eval_dir=corpus.evaluation_dir(), min_chapters=3,
+            )
 
             self.assertEqual(checked, 0)
             client.get.assert_not_called()
@@ -118,7 +161,10 @@ class TestBackfill(unittest.TestCase):
             client = Mock()
             client.get.return_value = _json_response({"message": {"items": []}})
 
-            checked, found, cached = backfill(manifest_path, client, None, corpus.crossref_cache_dir(), force=False)
+            checked, found, cached, written = backfill(
+                manifest_path, client, None, corpus.crossref_cache_dir(), force=False,
+                eval_dir=corpus.evaluation_dir(), min_chapters=3,
+            )
 
             self.assertEqual(found, 0)
             self.assertEqual(cached, 0)

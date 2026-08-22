@@ -306,6 +306,32 @@ class TestAcquireRecordCrossref(unittest.TestCase):
             data = json.loads(manifest_path.read_text(encoding="utf-8"))
             self.assertIsNone(data["books"][0]["doi"])
 
+    def test_writes_evaluation_entry_when_enough_paged_chapters(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            manifest_path = self._setup(tmp)
+            pdf_response = Mock()
+            pdf_response.raise_for_status = Mock()
+            pdf_response.content = b"%PDF-1.4 fake toc bytes"
+            crossref_response = _json_response({
+                "message": {"items": [
+                    {"type": "book", "DOI": "10.1515/book-doi", "title": ["X"]},
+                    {"type": "book-chapter", "DOI": "10.1/a", "title": ["A"], "author": [], "page": "1-10"},
+                    {"type": "book-chapter", "DOI": "10.1/b", "title": ["B"], "author": [], "page": "10-20"},
+                    {"type": "book-chapter", "DOI": "10.1/c", "title": ["C"], "author": [], "page": "20-30"},
+                ]}
+            })
+            client = Mock()
+            client.get.side_effect = [pdf_response, crossref_response]
+            seen_keys = set()
+
+            result = _acquire_record(_SAMPLE_RECORD, manifest_path, client, 0, seen_keys, min_chapters=3)
+
+            self.assertIsNone(result)
+            eval_path = corpus.evaluation_dir() / "9783899718188.expected.json"
+            self.assertTrue(eval_path.exists())
+            payload = json.loads(eval_path.read_text(encoding="utf-8"))
+            self.assertEqual(len(payload["entries"]), 3)
+
     def test_non_isbn_key_skips_crossref_lookup_entirely(self):
         with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
             manifest_path = self._setup(tmp)
@@ -347,7 +373,7 @@ class TestScanAndAcquire(unittest.TestCase):
             scanned, newly_acquired = _scan_and_acquire(
                 _record_stream(), manifest_path, client,
                 rate_limit_seconds=0, limit=2, seen_keys=set(), acquired_so_far=1,
-                contact_email=None, crossref_cache_dir=corpus.crossref_cache_dir(),
+                contact_email=None, crossref_cache_dir=corpus.crossref_cache_dir(), min_chapters=3,
             )
         self.assertEqual(newly_acquired, 1)
         self.assertEqual(scanned, 2)
@@ -366,7 +392,7 @@ class TestScanAndAcquire(unittest.TestCase):
             scanned, newly_acquired = _scan_and_acquire(
                 iter(records), manifest_path, client,
                 rate_limit_seconds=0, limit=None, seen_keys=set(), acquired_so_far=0,
-                contact_email=None, crossref_cache_dir=corpus.crossref_cache_dir(),
+                contact_email=None, crossref_cache_dir=corpus.crossref_cache_dir(), min_chapters=3,
             )
         self.assertEqual(newly_acquired, 2)
         self.assertEqual(scanned, 2)

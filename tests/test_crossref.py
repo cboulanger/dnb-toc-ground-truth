@@ -13,7 +13,8 @@ from unittest.mock import Mock, patch
 
 import httpx
 
-from dnb_toc_ground_truth.crossref import CrossrefBookData, fetch_crossref_book, normalize_isbn
+from dnb_toc_ground_truth.crossref import CrossrefBookData, fetch_crossref_book, normalize_isbn, write_evaluation_entry
+from dnb_toc_ground_truth.toc_entry import TocEntry
 
 
 class TestNormalizeIsbn(unittest.TestCase):
@@ -230,3 +231,72 @@ class TestFetchCrossrefBook(unittest.TestCase):
         self.assertEqual(data.doi, "10.1515/book-doi")
         self.assertEqual(len(data.chapters), 2)
         self.assertFalse((cache_dir / "9783899718188.crossref.json").exists())
+
+
+class TestWriteEvaluationEntry(unittest.TestCase):
+    def _data(self, chapters):
+        return CrossrefBookData(isbn="9783899718188", doi="10.1/x", chapters=tuple(chapters), fetched_at="2026-08-22T00:00:00")
+
+    def test_writes_file_when_enough_paged_chapters(self):
+        chapters = [
+            TocEntry(title="A", printed_page_number="1", source_page_index=-1, skip=False),
+            TocEntry(title="B", printed_page_number="10", source_page_index=-1, skip=False),
+            TocEntry(title="C", printed_page_number="20", source_page_index=-1, skip=False),
+        ]
+        with tempfile.TemporaryDirectory() as tmp:
+            eval_dir = Path(tmp)
+            written = write_evaluation_entry("9783899718188", self._data(chapters), eval_dir, min_chapters=3)
+
+            self.assertTrue(written)
+            path = eval_dir / "9783899718188.expected.json"
+            self.assertTrue(path.exists())
+            payload = json.loads(path.read_text(encoding="utf-8"))
+            self.assertEqual(payload["source"], "crossref")
+            self.assertEqual(len(payload["entries"]), 3)
+            self.assertEqual(payload["entries"][0], {"title": "A", "authors": [], "printed_page_number": "1", "skip": False})
+
+    def test_skips_page_less_chapters_when_counting_and_writing(self):
+        chapters = [
+            TocEntry(title="A", printed_page_number="1", source_page_index=-1, skip=False),
+            TocEntry(title="B", printed_page_number="10", source_page_index=-1, skip=False),
+            TocEntry(title="C", printed_page_number="20", source_page_index=-1, skip=False),
+            TocEntry(title="Index", printed_page_number=None, source_page_index=-1, skip=False),
+        ]
+        with tempfile.TemporaryDirectory() as tmp:
+            eval_dir = Path(tmp)
+            write_evaluation_entry("9783899718188", self._data(chapters), eval_dir, min_chapters=3)
+            payload = json.loads((eval_dir / "9783899718188.expected.json").read_text(encoding="utf-8"))
+        self.assertEqual({e["title"] for e in payload["entries"]}, {"A", "B", "C"})
+
+    def test_does_not_write_below_min_chapters(self):
+        chapters = [
+            TocEntry(title="A", printed_page_number="1", source_page_index=-1, skip=False),
+            TocEntry(title="B", printed_page_number="10", source_page_index=-1, skip=False),
+        ]
+        with tempfile.TemporaryDirectory() as tmp:
+            eval_dir = Path(tmp)
+            written = write_evaluation_entry("9783899718188", self._data(chapters), eval_dir, min_chapters=3)
+        self.assertFalse(written)
+        self.assertFalse((eval_dir / "9783899718188.expected.json").exists())
+
+    def test_min_chapters_is_configurable(self):
+        chapters = [
+            TocEntry(title="A", printed_page_number="1", source_page_index=-1, skip=False),
+            TocEntry(title="B", printed_page_number="10", source_page_index=-1, skip=False),
+        ]
+        with tempfile.TemporaryDirectory() as tmp:
+            eval_dir = Path(tmp)
+            written = write_evaluation_entry("9783899718188", self._data(chapters), eval_dir, min_chapters=2)
+        self.assertTrue(written)
+
+    def test_write_failure_returns_false_without_raising(self):
+        chapters = [
+            TocEntry(title="A", printed_page_number="1", source_page_index=-1, skip=False),
+            TocEntry(title="B", printed_page_number="10", source_page_index=-1, skip=False),
+            TocEntry(title="C", printed_page_number="20", source_page_index=-1, skip=False),
+        ]
+        with tempfile.TemporaryDirectory() as tmp:
+            eval_dir = Path(tmp)
+            with patch.object(Path, "write_text", side_effect=OSError("disk full")):
+                written = write_evaluation_entry("9783899718188", self._data(chapters), eval_dir, min_chapters=3)
+        self.assertFalse(written)

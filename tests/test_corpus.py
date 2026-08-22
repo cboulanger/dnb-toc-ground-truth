@@ -21,6 +21,16 @@ class TestCorpusPaths(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
             self.assertEqual(corpus.crossref_cache_dir(), Path(tmp) / ".crossref-cache")
 
+    def test_evaluation_dir(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            self.assertEqual(corpus.evaluation_dir(), Path(tmp) / "evaluation")
+
+    def test_evaluation_json_path(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            path = corpus.evaluation_json_path("9783899718188")
+            self.assertEqual(path.name, "9783899718188.expected.json")
+            self.assertEqual(path.parent, corpus.evaluation_dir())
+
 
 class TestManifestKey(unittest.TestCase):
     def test_strips_pdf_extension(self):

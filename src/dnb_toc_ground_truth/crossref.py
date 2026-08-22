@@ -109,6 +109,53 @@ def _save_cache(cache_dir: Path, data: CrossrefBookData) -> None:
         print(f"  [warn] failed to write crossref cache for {data.isbn}: {exc}")
 
 
+DEFAULT_MIN_CHAPTERS_FOR_EVAL = 3
+
+
+def write_evaluation_entry(
+    isbn: str,
+    crossref_data: CrossrefBookData,
+    eval_dir: Path,
+    min_chapters: int = DEFAULT_MIN_CHAPTERS_FOR_EVAL,
+) -> bool:
+    """Filters crossref_data.chapters to those with a non-None
+    printed_page_number -- matching.diff_toc_entries's page-then-title
+    alignment can never match a known-page ground-truth entry against an
+    unknown-page one (see its own docstring's "A None-page entry_a never
+    matches a known-page entry_b" rule), so a chapter Crossref registered
+    with no page data would only ever inflate only_in_crossref noise in
+    an evaluation, never contribute a real match. Writes
+    <eval_dir>/<isbn>.expected.json in the same {"entries": [...]} shape
+    ground-truth files use (skip always False, since every included item
+    is a genuine book-chapter-typed Crossref record) plus a top-level
+    "source": "crossref", IFF at least min_chapters entries survive the
+    page-data filter. Returns whether the file was written. Overwrites
+    any existing file for this isbn unconditionally -- this is a derived
+    artifact regenerated from the cache, never hand-edited. Best-effort
+    only, same "never raises" discipline as _save_cache: a write failure
+    is warned and swallowed, not propagated."""
+    entries = [c for c in crossref_data.chapters if c.printed_page_number is not None]
+    if len(entries) < min_chapters:
+        return False
+    try:
+        eval_dir.mkdir(parents=True, exist_ok=True)
+        payload = {
+            "entries": [
+                {"title": e.title, "authors": list(e.authors), "printed_page_number": e.printed_page_number, "skip": False}
+                for e in entries
+            ],
+            "source": "crossref",
+            "fetched_at": crossref_data.fetched_at,
+        }
+        (eval_dir / f"{isbn}.expected.json").write_text(
+            json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8",
+        )
+        return True
+    except Exception as exc:
+        print(f"  [warn] failed to write crossref evaluation entry for {isbn}: {exc}")
+        return False
+
+
 def _first_page(page_range: Optional[str]) -> Optional[str]:
     if not page_range:
         return None

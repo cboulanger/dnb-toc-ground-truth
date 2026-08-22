@@ -241,6 +241,7 @@ def _acquire_record(
     seen_keys: set[str],
     contact_email: Optional[str] = None,
     crossref_cache_dir: Optional[Path] = None,
+    min_chapters: int = crossref.DEFAULT_MIN_CHAPTERS_FOR_EVAL,
 ) -> Optional[str]:
     """Downloads one matched record's TOC PDF and appends its manifest
     entry. Returns None iff a new book was acquired (so callers can count
@@ -280,6 +281,7 @@ def _acquire_record(
         )
         if crossref_data.doi:
             entry["doi"] = crossref_data.doi
+        crossref.write_evaluation_entry(isbn, crossref_data, corpus.evaluation_dir(), min_chapters)
     _append_book(manifest_path, entry)
     seen_keys.add(key)
     print(f"[fetch] {filename} <- {toc_url}")
@@ -289,7 +291,7 @@ def _acquire_record(
 
 def _run_isbns_file(
     args: argparse.Namespace, manifest_path: Path, client: httpx.Client,
-    contact_email: Optional[str], crossref_cache_dir: Path,
+    contact_email: Optional[str], crossref_cache_dir: Path, min_chapters: int,
 ) -> None:
     seen_keys = _load_existing_keys(manifest_path)
     acquired = 0
@@ -306,7 +308,7 @@ def _run_isbns_file(
             continue
         reason = _acquire_record(
             record, manifest_path, client, args.rate_limit_seconds, seen_keys,
-            contact_email, crossref_cache_dir,
+            contact_email, crossref_cache_dir, min_chapters,
         )
         if reason is None:
             acquired += 1
@@ -325,6 +327,7 @@ def _scan_and_acquire(
     acquired_so_far: int,
     contact_email: Optional[str],
     crossref_cache_dir: Path,
+    min_chapters: int,
 ) -> tuple[int, int]:
     """Consumes records from the given iterator, acquiring matches until
     either the iterator is exhausted or acquired_so_far plus newly
@@ -344,7 +347,7 @@ def _scan_and_acquire(
             break
         reason = _acquire_record(
             record, manifest_path, client, rate_limit_seconds, seen_keys,
-            contact_email, crossref_cache_dir,
+            contact_email, crossref_cache_dir, min_chapters,
         )
         if reason is None:
             acquired += 1
@@ -360,7 +363,7 @@ def _scan_and_acquire(
 
 def _run_from_dump(
     args: argparse.Namespace, manifest_path: Path, client: httpx.Client,
-    contact_email: Optional[str], crossref_cache_dir: Path,
+    contact_email: Optional[str], crossref_cache_dir: Path, min_chapters: int,
 ) -> None:
     seen_keys = _load_existing_keys(manifest_path)
     acquired = 0
@@ -370,7 +373,7 @@ def _run_from_dump(
             scanned, newly = _scan_and_acquire(
                 _iter_dump_records(args.dump_url, client), manifest_path, client,
                 args.rate_limit_seconds, args.limit, seen_keys, acquired,
-                contact_email, crossref_cache_dir,
+                contact_email, crossref_cache_dir, min_chapters,
             )
             acquired += newly
             if args.limit is not None and acquired >= args.limit:
@@ -441,6 +444,13 @@ def main() -> int:
         "--config-file", type=Path, default=Path(inference.DEFAULT_CONFIG_FILENAME),
         help=f"Path to the config file (default: {inference.DEFAULT_CONFIG_FILENAME})",
     )
+    parser.add_argument(
+        "--min-chapters", type=int, default=crossref.DEFAULT_MIN_CHAPTERS_FOR_EVAL,
+        help=(
+            "Minimum page-numbered Crossref chapters a book needs before its evaluation-corpus "
+            f"entry is written (default: {crossref.DEFAULT_MIN_CHAPTERS_FOR_EVAL})"
+        ),
+    )
     args = parser.parse_args()
 
     corpus.corpus_dir().mkdir(parents=True, exist_ok=True)
@@ -455,9 +465,9 @@ def main() -> int:
         timeout=httpx.Timeout(connect=30.0, read=120.0, write=30.0, pool=30.0),
     ) as client:
         if args.isbns_file:
-            _run_isbns_file(args, manifest_path, client, contact_email, crossref_cache_dir)
+            _run_isbns_file(args, manifest_path, client, contact_email, crossref_cache_dir, args.min_chapters)
         else:
-            _run_from_dump(args, manifest_path, client, contact_email, crossref_cache_dir)
+            _run_from_dump(args, manifest_path, client, contact_email, crossref_cache_dir, args.min_chapters)
     return 0
 
 

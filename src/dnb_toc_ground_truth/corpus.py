@@ -37,6 +37,10 @@ def crossref_cache_dir() -> Path:
     return CORPUS_DIR / ".crossref-cache"
 
 
+def evaluation_dir() -> Path:
+    return CORPUS_DIR / "evaluation"
+
+
 def locks_dir() -> Path:
     return CORPUS_DIR / ".locks"
 
@@ -59,6 +63,10 @@ def pdf_path(key: str) -> Path:
 
 def expected_json_path(key: str) -> Path:
     return ground_truth_dir() / f"{key}.expected.json"
+
+
+def evaluation_json_path(key: str) -> Path:
+    return evaluation_dir() / f"{key}.expected.json"
 
 
 def manifest_key(entry: dict) -> str:
