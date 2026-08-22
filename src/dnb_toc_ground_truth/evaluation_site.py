@@ -92,6 +92,7 @@ th { border-bottom: 2px solid #999; }
 td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
 tr.mean { font-weight: 700; }
 tr.mean td { border-top: 2px solid #999; }
+tr.ground-truth td { font-weight: 700; }
 section.ground-truth h2 { color: #0a5c2b; }
 section.ground-truth table { font-weight: 700; }
 .caveats { background: #fff8e6; border: 1px solid #e8d488; border-radius: 6px; padding: 0.9rem 1.2rem; }
@@ -114,6 +115,32 @@ def _link(href: str, text: str, *, escape_href: bool = True, new_tab: bool = Tru
     safe_href = _html.escape(href) if escape_href else href
     target = ' target="_blank" rel="noopener noreferrer"' if new_tab else ""
     return f'<a href="{safe_href}"{target}>{text}</a>'
+
+
+# Tooltip text for each metric column -- shared by _metric_header_cells()
+# so both the per-source tables and the top-of-page overview table explain
+# their columns identically instead of drifting apart.
+_METRIC_TOOLTIPS = {
+    "Precision": "Share of this source's chapters that match a Crossref-registered chapter: TP / (TP + FP).",
+    "Recall": "Share of Crossref-registered chapters this source correctly found: TP / (TP + FN).",
+    "F1": "Harmonic mean of precision and recall.",
+    "TP": "True positives -- chapters that matched between this source and Crossref.",
+    "FP": "False positives -- chapters this source has that Crossref does not.",
+    "FN": "False negatives -- Crossref-registered chapters this source is missing.",
+}
+
+
+def _th(label: str, *, tooltip: Optional[str] = None, num: bool = False) -> str:
+    css_class = ' class="num"' if num else ""
+    title_attr = f' title="{_html.escape(tooltip)}"' if tooltip else ""
+    return f"<th{css_class}{title_attr}>{label}</th>"
+
+
+def _metric_header_cells() -> str:
+    """The <th> cells shared by every table that reports per-book or
+    mean precision/recall/F1/TP/FP/FN -- keeps the column tooltips
+    defined once in _METRIC_TOOLTIPS instead of duplicated per table."""
+    return "".join(_th(label, tooltip=tooltip, num=True) for label, tooltip in _METRIC_TOOLTIPS.items())
 
 
 def _page(title: str, body: str) -> str:
@@ -206,8 +233,7 @@ def _render_source_section(source: SourceScores, titles: dict[str, str], toc_url
             f'<td>-</td></tr>'
         )
         table = f"""<table>
-<thead><tr><th>Book</th><th class="num">Precision</th><th class="num">Recall</th><th class="num">F1</th>
-<th class="num">TP</th><th class="num">FP</th><th class="num">FN</th><th>Data</th></tr></thead>
+<thead><tr><th>Book</th>{_metric_header_cells()}<th>Data</th></tr></thead>
 <tbody>
 {row_html}
 {mean_row}
@@ -220,7 +246,39 @@ def _render_source_section(source: SourceScores, titles: dict[str, str], toc_url
     return f'<section class="{section_class}">\n<h2>{heading}</h2>\n{table}\n{coverage}\n</section>'
 
 
+def _render_overview_table(sources: list[SourceScores]) -> str:
+    """The bottom ("mean") row of every per-source table in one place, so
+    a reader can compare ground truth against every model at a glance
+    without opening each section below. Sources with no results (nothing
+    to average) are left out rather than shown as an empty/zero row."""
+    rows = []
+    for source in sources:
+        if not source.results:
+            continue
+        row_class = ' class="ground-truth"' if source.is_ground_truth else ""
+        mean_precision = _mean([r.precision for r in source.results])
+        mean_recall = _mean([r.recall for r in source.results])
+        mean_f1 = _mean([r.f1 for r in source.results])
+        rows.append(
+            f'<tr{row_class}><td>{_html.escape(source.label)} ({len(source.results)} book(s))</td>'
+            f'<td class="num">{mean_precision:.0%}</td><td class="num">{mean_recall:.0%}</td>'
+            f'<td class="num">{mean_f1:.0%}</td>'
+            f'<td class="num">-</td><td class="num">-</td><td class="num">-</td></tr>'
+        )
+    row_html = "\n".join(rows)
+    if not row_html:
+        return ""
+    return f"""<h2>Overview</h2>
+<table>
+<thead><tr><th>Source</th>{_metric_header_cells()}</tr></thead>
+<tbody>
+{row_html}
+</tbody>
+</table>"""
+
+
 def render_corpus_html(data: CorpusData) -> str:
+    overview = _render_overview_table(data.sources)
     sections = "\n".join(_render_source_section(source, data.titles, data.toc_urls) for source in data.sources)
     body = f"""<p>{_link("index.html", "&larr; Corpora", new_tab=False)}</p>
 <h1>{_html.escape(data.name)}</h1>
@@ -228,6 +286,7 @@ def render_corpus_html(data: CorpusData) -> str:
 corpus. Ground truth is the project's own committed data (highlighted
 below); each model section scores that model's raw, pre-agreement-gate
 llm-cache extraction over the same books.</p>
+{overview}
 {sections}
 """
     return _page(f"{data.name} -- Crossref evaluation", body)

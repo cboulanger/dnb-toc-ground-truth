@@ -217,6 +217,37 @@ class TestRenderCorpusHtml(unittest.TestCase):
         html = render_corpus_html(self._sample_data())
         self.assertIn('<a href="index.html">&larr; Corpora</a>', html)
 
+    def test_metric_headers_carry_explanatory_tooltips(self):
+        html = render_corpus_html(self._sample_data())
+        for label in ("Precision", "Recall", "F1", "TP", "FP", "FN"):
+            self.assertRegex(html, rf'<th[^>]*title="[^"]+"[^>]*>{label}</th>')
+
+    def test_overview_table_has_one_mean_row_per_source_with_book_count(self):
+        html = render_corpus_html(self._sample_data())
+        self.assertIn("Overview", html)
+        self.assertIn("Ground truth (1 book(s))", html)
+        self.assertIn("some__model (1 book(s))", html)
+
+    def test_overview_table_appears_before_the_per_source_sections(self):
+        html = render_corpus_html(self._sample_data())
+        self.assertLess(html.index("Overview"), html.index('<section class="ground-truth"'))
+
+    def test_overview_table_omits_sources_with_no_results(self):
+        data = CorpusData(
+            name="pilot", titles={}, toc_urls={},
+            sources=[
+                SourceScores(label="Ground truth", is_ground_truth=True, results=[], uncovered_count=5),
+                SourceScores(
+                    label="some__model", is_ground_truth=False,
+                    results=[BookMetrics(key="a", tp=1, fp=0, fn=0, precision=1.0, recall=1.0, f1=1.0)],
+                    uncovered_count=0, model="some__model",
+                ),
+            ],
+        )
+        html = render_corpus_html(data)
+        self.assertNotIn("Ground truth (0 book(s))", html)
+        self.assertIn("some__model (1 book(s))", html)
+
 
 def _init_corpus(root: Path, name: str, books: list[dict]) -> None:
     corpus_dir = root / name
