@@ -14,7 +14,9 @@ from unittest.mock import AsyncMock, MagicMock, patch
 
 from pypdf import PdfWriter
 
-from dnb_toc_ground_truth.nuextract import _MAX_PAGES, nuextract_vision_extract_toc_entries
+from dnb_toc_ground_truth.nuextract import (
+    _MAX_PAGES, nuextract_text_extract_toc_entries, nuextract_vision_extract_toc_entries,
+)
 
 
 def _make_pdf(path: Path, page_count: int) -> Path:
@@ -121,3 +123,56 @@ class TestNuextractVisionExtractTocEntries(unittest.IsolatedAsyncioTestCase):
             second_call_kwargs = client.chat.completions.create.call_args_list[1].kwargs
             self.assertEqual(first_call_kwargs["max_tokens"], 4096)
             self.assertEqual(second_call_kwargs["max_tokens"], 8192)
+
+
+class TestNuextractTextExtractTocEntries(unittest.IsolatedAsyncioTestCase):
+    async def test_parses_a_clean_response_into_entries(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            pdf_path = _make_pdf(Path(tmp) / "book.pdf", 1)
+            client = _fake_client(_NUEXTRACT_RESPONSE)
+            with patch("dnb_toc_ground_truth.nuextract.ocr_pages_to_rows", return_value=["Einleitung 9"]):
+                entries = await nuextract_text_extract_toc_entries(pdf_path, "acme/finetuned-nuextract2", client)
+            self.assertEqual(len(entries), 2)
+            self.assertEqual(entries[0].title, "Einleitung")
+
+    async def test_sends_the_ocrd_text_as_plain_string_content(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            pdf_path = _make_pdf(Path(tmp) / "book.pdf", 1)
+            client = _fake_client(json.dumps({"entries": []}))
+            with patch("dnb_toc_ground_truth.nuextract.ocr_pages_to_rows", return_value=["Einleitung 9"]):
+                await nuextract_text_extract_toc_entries(pdf_path, "acme/finetuned-nuextract2", client)
+            messages = client.chat.completions.create.call_args.kwargs["messages"]
+            self.assertIn("Einleitung 9", messages[0]["content"])
+            self.assertIsInstance(messages[0]["content"], str)
+
+    async def test_omits_instructions_when_use_instructions_is_false(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            pdf_path = _make_pdf(Path(tmp) / "book.pdf", 1)
+            client = _fake_client(json.dumps({"entries": []}))
+            with patch("dnb_toc_ground_truth.nuextract.ocr_pages_to_rows", return_value=["Einleitung 9"]):
+                await nuextract_text_extract_toc_entries(
+                    pdf_path, "acme/finetuned-nuextract2", client, use_instructions=False,
+                )
+            extra_body = client.chat.completions.create.call_args.kwargs["extra_body"]
+            self.assertNotIn("instructions", extra_body["chat_template_kwargs"])
+
+    async def test_ocr_failure_propagates_uncaught(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            pdf_path = _make_pdf(Path(tmp) / "book.pdf", 1)
+            client = _fake_client(_NUEXTRACT_RESPONSE)
+            with patch(
+                "dnb_toc_ground_truth.nuextract.ocr_pages_to_rows", side_effect=RuntimeError("ocrmypdf failed"),
+            ):
+                with self.assertRaises(RuntimeError):
+                    await nuextract_text_extract_toc_entries(pdf_path, "acme/finetuned-nuextract2", client)
+            client.chat.completions.create.assert_not_called()
+
+    async def test_raises_before_any_ocr_or_network_call_when_page_count_exceeds_cap(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            pdf_path = _make_pdf(Path(tmp) / "book.pdf", _MAX_PAGES + 1)
+            client = _fake_client(_NUEXTRACT_RESPONSE)
+            with patch("dnb_toc_ground_truth.nuextract.ocr_pages_to_rows") as mock_ocr:
+                with self.assertRaises(ValueError):
+                    await nuextract_text_extract_toc_entries(pdf_path, "acme/finetuned-nuextract2", client)
+            mock_ocr.assert_not_called()
+            client.chat.completions.create.assert_not_called()

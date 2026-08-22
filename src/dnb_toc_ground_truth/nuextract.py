@@ -24,6 +24,7 @@ from typing import Any
 
 from pypdf import PdfReader
 
+from dnb_toc_ground_truth.ocr import ocr_pages_to_rows
 from dnb_toc_ground_truth.toc_entry import TocEntry, _toc_items_to_entries, parse_json_array
 from dnb_toc_ground_truth.vision import render_pages_to_images
 
@@ -101,6 +102,36 @@ async def nuextract_vision_extract_toc_entries(
         b64 = base64.b64encode(image_bytes).decode("ascii")
         content.append({"type": "image_url", "image_url": {"url": f"data:image/png;base64,{b64}"}})
     messages = [{"role": "user", "content": content}]
+    extra_body = _extra_body(use_instructions)
+
+    last_error: Exception | None = None
+    for max_tokens in (_MAX_TOKENS, _MAX_TOKENS_RETRY):
+        response = await client.chat.completions.create(
+            model=model, messages=messages, max_tokens=max_tokens, temperature=0.0, extra_body=extra_body,
+        )
+        raw = response.choices[0].message.content or ""
+        try:
+            items = parse_json_array(raw)
+            return _toc_items_to_entries(items)
+        except Exception as exc:  # noqa: BLE001 -- any parse failure triggers the escalation retry
+            last_error = exc
+    raise last_error
+
+
+async def nuextract_text_extract_toc_entries(
+    pdf_path: Path, model: str, client: Any, *, use_instructions: bool = True, pdfalto_bin: str | None = None,
+) -> list[TocEntry]:
+    """Template-mode counterpart to ocr.py's text_extract_toc_entries --
+    same OCR step, page-count cap, max-tokens escalation, and
+    raises-on-failure contract, sending the OCR'd text as plain chat
+    content alongside NuExtract's chat_template_kwargs instead of a
+    free-text prompt."""
+    page_count = len(PdfReader(str(pdf_path)).pages)
+    if page_count > _MAX_PAGES:
+        raise ValueError(f"{pdf_path}: {page_count} pages exceeds text-extraction cap of {_MAX_PAGES}")
+    page_texts = ocr_pages_to_rows(pdf_path, pdfalto_bin=pdfalto_bin)
+    pages_block = "\n\n".join(f"--- Page {i + 1} ---\n{text}" for i, text in enumerate(page_texts))
+    messages = [{"role": "user", "content": pages_block}]
     extra_body = _extra_body(use_instructions)
 
     last_error: Exception | None = None
