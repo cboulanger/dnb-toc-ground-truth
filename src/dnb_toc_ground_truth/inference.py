@@ -25,12 +25,16 @@ _MODEL_ARG_RE = re.compile(r"--model[= ](\S+)")
 class ModelEndpoint:
     """One ready-to-call (client, model_id) pair, plus which extraction
     path it was requested for ("vision" or "text"). `label` is the
-    resolved model id, used only for log/print output."""
+    resolved model id, used only for log/print output.
+    `extraction_api`/`extraction_instructions` mirror _EndpointEntry's
+    own fields of the same name -- see that dataclass's docstring."""
 
     label: str
     model_id: str
     kind: str
     client: AsyncOpenAI
+    extraction_api: str = ""
+    extraction_instructions: bool = True
 
 
 class OpenAICompatibleLLMClient:
@@ -225,7 +229,10 @@ def resolve_model_endpoints(
                 )
         entry = matches[0]
         client = AsyncOpenAI(base_url=entry.base_url, api_key=entry.api_key, timeout=timeout)
-        resolved.append(ModelEndpoint(label=entry.model, model_id=entry.model, kind=kind, client=client))
+        resolved.append(ModelEndpoint(
+            label=entry.model, model_id=entry.model, kind=kind, client=client,
+            extraction_api=entry.extraction_api, extraction_instructions=entry.extraction_instructions,
+        ))
     return resolved
 
 

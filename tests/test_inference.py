@@ -222,6 +222,34 @@ class TestResolveModelEndpoints(unittest.TestCase):
         self.assertEqual(len(resolved), 2)
 
 
+class TestResolveModelEndpointsExtractionFields(unittest.TestCase):
+    def setUp(self):
+        self._tmp = tempfile.TemporaryDirectory()
+        self.tmp_path = Path(self._tmp.name)
+
+    def tearDown(self):
+        self._tmp.cleanup()
+
+    def _entries(self, rows):
+        path = _write(self.tmp_path, ".endpoints", json.dumps(rows))
+        return load_endpoint_entries(path)
+
+    def test_extraction_fields_are_threaded_onto_the_resolved_endpoint(self):
+        entries = self._entries([
+            {"url": "https://x.invalid/a", "key": "k", "model": "acme/finetuned-nuextract2",
+             "extraction_api": "nuextract", "extraction_instructions": "false"},
+        ])
+        resolved = resolve_model_endpoints(["acme/finetuned-nuextract2"], "text", entries)
+        self.assertEqual(resolved[0].extraction_api, "nuextract")
+        self.assertFalse(resolved[0].extraction_instructions)
+
+    def test_default_extraction_fields_for_an_ordinary_model(self):
+        entries = self._entries([{"url": "https://x.invalid/a", "key": "k", "model": "model-a"}])
+        resolved = resolve_model_endpoints(["model-a"], "vision", entries)
+        self.assertEqual(resolved[0].extraction_api, "")
+        self.assertTrue(resolved[0].extraction_instructions)
+
+
 class TestLoadConfig(unittest.TestCase):
     def setUp(self):
         self._tmp = tempfile.TemporaryDirectory()
