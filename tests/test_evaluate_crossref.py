@@ -11,12 +11,19 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 
-from dnb_toc_ground_truth import corpus
+from dnb_toc_ground_truth import corpus, vision
 from dnb_toc_ground_truth.toc_entry import TocEntry
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "cli"))
 
-from evaluate_crossref import BookMetrics, evaluate_book, evaluate_corpus, _load_entries
+from evaluate_crossref import (
+    BookMetrics,
+    discover_cached_models,
+    evaluate_book,
+    evaluate_corpus,
+    evaluate_model_corpus,
+    _load_entries,
+)
 
 
 def _write_expected_json(key: str, entries: list[dict]) -> None:
@@ -31,6 +38,10 @@ def _write_evaluation_json(key: str, entries: list[dict]) -> None:
     corpus.evaluation_json_path(key).write_text(
         json.dumps({"entries": entries, "source": "crossref", "fetched_at": ""}), encoding="utf-8",
     )
+
+
+def _write_llm_cache_entry(key: str, model: str, entries: list[TocEntry]) -> None:
+    vision.write_cached_llm_entries(corpus.llm_cache_dir(), key, model, entries)
 
 
 class TestLoadEntries(unittest.TestCase):
@@ -208,6 +219,88 @@ class TestEvaluateCorpus(unittest.TestCase):
             self.assertEqual(results[0].key, "978-3-89971-818-8")
             self.assertEqual(results[0].f1, 1.0)
             self.assertEqual(no_coverage, [])
+
+
+class TestEvaluateModelCorpus(unittest.TestCase):
+    def test_scores_model_cache_entries_against_crossref_sample(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            manifest_path = corpus.manifest_path()
+            manifest_path.write_text(
+                json.dumps({"toc_only": True, "books": [{"filename": "9783899718188.pdf", "doi": "10.1/x"}]}),
+                encoding="utf-8",
+            )
+            _write_evaluation_json("9783899718188", [
+                {"title": "Introduction", "authors": [], "printed_page_number": "1", "skip": False},
+            ])
+            _write_llm_cache_entry("9783899718188", "some/model", [
+                TocEntry(title="1. Introduction", printed_page_number="1", source_page_index=-1, skip=False),
+            ])
+            results, no_cache = evaluate_model_corpus("some/model")
+            self.assertEqual(len(results), 1)
+            self.assertEqual(results[0].key, "9783899718188")
+            self.assertEqual(results[0].f1, 1.0)
+            self.assertEqual(no_cache, [])
+
+    def test_book_with_no_cache_entry_for_model_is_reported_not_dropped(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            manifest_path = corpus.manifest_path()
+            manifest_path.write_text(
+                json.dumps({"toc_only": True, "books": [{"filename": "9783899718188.pdf", "doi": "10.1/x"}]}),
+                encoding="utf-8",
+            )
+            _write_evaluation_json("9783899718188", [
+                {"title": "Introduction", "authors": [], "printed_page_number": "1", "skip": False},
+            ])
+            results, no_cache = evaluate_model_corpus("some/model")
+            self.assertEqual(results, [])
+            self.assertEqual(no_cache, ["9783899718188"])
+
+    def test_ignores_books_without_a_crossref_evaluation_entry(self):
+        # A cache entry alone (no evaluation-corpus file) isn't a
+        # meaningful comparison -- must not appear in results OR
+        # no_cache, mirroring evaluate_corpus's own ground-truth-only-book
+        # handling.
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            manifest_path = corpus.manifest_path()
+            manifest_path.write_text(
+                json.dumps({"toc_only": True, "books": [{"filename": "9783899718188.pdf", "doi": None}]}),
+                encoding="utf-8",
+            )
+            _write_llm_cache_entry("9783899718188", "some/model", [
+                TocEntry(title="1. Introduction", printed_page_number="1", source_page_index=-1, skip=False),
+            ])
+            results, no_cache = evaluate_model_corpus("some/model")
+            self.assertEqual(results, [])
+            self.assertEqual(no_cache, [])
+
+
+class TestDiscoverCachedModels(unittest.TestCase):
+    def test_finds_only_models_cached_for_crossref_sample_books(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            manifest_path = corpus.manifest_path()
+            manifest_path.write_text(
+                json.dumps({"toc_only": True, "books": [
+                    {"filename": "9783899718188.pdf", "doi": "10.1/x"},
+                    {"filename": "9781234567897.pdf", "doi": None},
+                ]}),
+                encoding="utf-8",
+            )
+            _write_evaluation_json("9783899718188", [
+                {"title": "Introduction", "authors": [], "printed_page_number": "1", "skip": False},
+            ])
+            _write_llm_cache_entry("9783899718188", "model/a", [
+                TocEntry(title="Introduction", printed_page_number="1", source_page_index=-1, skip=False),
+            ])
+            _write_llm_cache_entry("9783899718188", "model/b", [
+                TocEntry(title="Introduction", printed_page_number="1", source_page_index=-1, skip=False),
+            ])
+            # Cached for a book with no crossref evaluation entry -- must
+            # not be discovered.
+            _write_llm_cache_entry("9781234567897", "model/only-uncovered-book", [
+                TocEntry(title="Introduction", printed_page_number="1", source_page_index=-1, skip=False),
+            ])
+            models = discover_cached_models()
+            self.assertEqual(models, ["model__a", "model__b"])
 
 
 if __name__ == "__main__":

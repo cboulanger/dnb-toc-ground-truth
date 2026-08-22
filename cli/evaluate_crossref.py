@@ -21,18 +21,31 @@ GT match) -- standard precision/recall/F1 from there. Books with no
 evaluation-corpus entry at all are reported separately, not silently
 dropped.
 
+--model also scores one llm-cache model's raw, pre-gate/pre-arbitration
+extraction (cli/generate_ground_truth.py's cache under
+data/corpus/pilot/llm-cache/) against the same crossref-sample books, for
+whichever of those books that model has a cache entry for --
+dnb_toc_ground_truth.vision.load_cached_llm_entries already knows how to
+read that cache, so evaluate_model_corpus reuses it unmodified rather than
+re-implementing cache loading here. --all-models discovers and scores
+every model with at least one such cache entry, without the caller having
+to already know their ids.
+
 Usage:
     uv run python cli/evaluate_crossref.py
     uv run python cli/evaluate_crossref.py --full
     uv run python cli/evaluate_crossref.py --min-f1 0.5
+    uv run python cli/evaluate_crossref.py --model Qwen/Qwen3-Omni-30B-A3B-Instruct
+    uv run python cli/evaluate_crossref.py --all-models --full
 """
 
 import argparse
 import json
 from dataclasses import dataclass
 from pathlib import Path
+from typing import Optional
 
-from dnb_toc_ground_truth import corpus, crossref, matching
+from dnb_toc_ground_truth import corpus, crossref, matching, vision
 from dnb_toc_ground_truth.toc_entry import TocEntry, _parse_toc_page_number
 
 
@@ -106,6 +119,79 @@ def evaluate_corpus() -> tuple[list[BookMetrics], list[str]]:
     return results, no_coverage
 
 
+def evaluate_model_corpus(model: str) -> tuple[list[BookMetrics], list[str]]:
+    """Returns (results, keys_with_no_cache_entry) -- for every manifest
+    book with a committed Crossref evaluation-corpus entry, compares
+    MODEL's cached llm-cache extraction (cli/generate_ground_truth.py's
+    raw per-model output, before the two-model agreement gate or
+    arbitration) against it. Lets a model's raw extraction quality be
+    scored against the same independent Crossref signal used for ground
+    truth, without running the full pipeline. A book with no cache entry
+    for this model is listed in keys_with_no_cache_entry rather than
+    silently dropped -- mirrors evaluate_corpus's own no_coverage list. A
+    book with no Crossref evaluation-corpus entry at all is skipped
+    entirely (not a meaningful comparison either way), same as
+    evaluate_corpus does for ground truth."""
+    results = []
+    no_cache = []
+    for book in corpus.load_manifest_books():
+        key = corpus.manifest_key(book)
+        eval_path = corpus.evaluation_json_path(crossref.normalize_isbn(key) or key)
+        if not eval_path.exists():
+            continue
+        model_entries = vision.load_cached_llm_entries(corpus.llm_cache_dir(), key, model)
+        if model_entries is None:
+            no_cache.append(key)
+            continue
+        crossref_entries = _load_entries(eval_path)
+        results.append(evaluate_book(key, tuple(model_entries), crossref_entries))
+    return results, no_cache
+
+
+def discover_cached_models() -> list[str]:
+    """Every distinct model id with at least one llm-cache entry for a
+    book that also has a committed Crossref evaluation-corpus entry --
+    lets --all-models run without the caller already knowing which model
+    ids exist (they vary run to run as generate_ground_truth.py is
+    pointed at new endpoints). Ids are read back from the cache
+    filename's sanitized model segment (vision.cache_path's "/" -> "__"),
+    same value evaluate_model_corpus needs -- passing it straight back in
+    round-trips through cache_path's sanitization as a no-op."""
+    models: set[str] = set()
+    cache_dir = vision.versioned_cache_dir(corpus.llm_cache_dir())
+    for book in corpus.load_manifest_books():
+        key = corpus.manifest_key(book)
+        eval_path = corpus.evaluation_json_path(crossref.normalize_isbn(key) or key)
+        if not eval_path.exists():
+            continue
+        for path in cache_dir.glob(f"{key}.*.json"):
+            models.add(path.name[len(key) + 1 : -len(".json")])
+    return sorted(models)
+
+
+def _print_book_lines(results: list[BookMetrics]) -> None:
+    for r in results:
+        print(f"[{r.key}] precision={r.precision:.0%} recall={r.recall:.0%} f1={r.f1:.0%} tp={r.tp} fp={r.fp} fn={r.fn}")
+
+
+def _print_model_block(model: str, results: list[BookMetrics], no_cache: list[str], full: bool) -> None:
+    print(f"\n=== model: {model} ===")
+    if full:
+        _print_book_lines(results)
+        print()
+    if results:
+        mean_precision = sum(r.precision for r in results) / len(results)
+        mean_recall = sum(r.recall for r in results) / len(results)
+        mean_f1 = sum(r.f1 for r in results) / len(results)
+        print(
+            f"{len(results)} book(s) compared, mean precision={mean_precision:.0%} "
+            f"mean recall={mean_recall:.0%} mean f1={mean_f1:.0%}"
+        )
+    else:
+        print("No crossref-sample books had a cache entry for this model.")
+    print(f"{len(no_cache)} crossref-sample book(s) with no cache entry for this model.")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     parser.add_argument(
@@ -114,14 +200,24 @@ def main() -> int:
     )
     parser.add_argument(
         "--min-f1", type=float, default=None,
-        help="Exit 1 if the aggregate mean F1 falls below this (0-1). Unset: no gate enforced.",
+        help="Exit 1 if the aggregate mean ground-truth F1 falls below this (0-1). Unset: no gate enforced.",
+    )
+    parser.add_argument(
+        "--model", action="append", default=None,
+        help="Also score this model's cached llm-cache extraction against the crossref sample, alongside "
+             "ground truth (repeatable). Model id as it appears in data/corpus/pilot/llm-cache/v2/ filenames "
+             "(e.g. 'Qwen/Qwen3-Omni-30B-A3B-Instruct' or its sanitized 'Qwen__Qwen3-Omni-30B-A3B-Instruct' form).",
+    )
+    parser.add_argument(
+        "--all-models", action="store_true",
+        help="Score every model with at least one llm-cache entry for a crossref-sample book, without naming "
+             "them individually. Combines with --model.",
     )
     args = parser.parse_args()
 
     results, no_coverage = evaluate_corpus()
     if args.full:
-        for r in results:
-            print(f"[{r.key}] precision={r.precision:.0%} recall={r.recall:.0%} f1={r.f1:.0%} tp={r.tp} fp={r.fp} fn={r.fn}")
+        _print_book_lines(results)
         print()
 
     if results:
@@ -136,6 +232,11 @@ def main() -> int:
         mean_f1 = None
         print("No books had both ground truth and a Crossref evaluation-corpus entry.")
     print(f"{len(no_coverage)} book(s) with ground truth but no Crossref evaluation coverage.")
+
+    models = list(dict.fromkeys((args.model or []) + (discover_cached_models() if args.all_models else [])))
+    for model in models:
+        model_results, no_cache = evaluate_model_corpus(model)
+        _print_model_block(model, model_results, no_cache, args.full)
 
     if args.min_f1 is not None and (mean_f1 is None or mean_f1 < args.min_f1):
         return 1
