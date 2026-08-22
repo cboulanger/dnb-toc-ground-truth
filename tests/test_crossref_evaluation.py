@@ -397,6 +397,28 @@ class TestBackfillModelCache(unittest.TestCase):
             self.assertEqual(failed, ["9783899718188"])
             client.chat.completions.create.assert_not_called()
 
+    def test_an_empty_extraction_result_is_reported_as_failed_and_not_cached(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            manifest_path = corpus.manifest_path()
+            manifest_path.write_text(
+                json.dumps({"toc_only": True, "books": [{"filename": "9783899718188.pdf", "doi": "10.1/x"}]}),
+                encoding="utf-8",
+            )
+            corpus.pdf_dir().mkdir(parents=True, exist_ok=True)
+            _make_pdf(corpus.pdf_path("9783899718188"))
+            _write_evaluation_json("9783899718188", [
+                {"title": "Introduction", "authors": [], "printed_page_number": "1", "skip": False},
+            ])
+            client = _fake_client("[]")
+            endpoint = ModelEndpoint(label="some/model", model_id="some/model", kind="vision", client=client)
+
+            succeeded, failed = asyncio.run(backfill_model_cache("some/model", endpoint, corpus.llm_cache_dir()))
+
+            self.assertEqual(succeeded, [])
+            self.assertEqual(failed, ["9783899718188"])
+            cached = vision.load_cached_llm_entries(corpus.llm_cache_dir(), "9783899718188", "some/model")
+            self.assertIsNone(cached)
+
     def test_an_extraction_failure_is_reported_and_does_not_abort_remaining_books(self):
         with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
             manifest_path = corpus.manifest_path()
