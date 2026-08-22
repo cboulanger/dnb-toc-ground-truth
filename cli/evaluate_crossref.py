@@ -13,7 +13,9 @@ Usage:
 """
 
 import argparse
+from pathlib import Path
 
+from dnb_toc_ground_truth import corpus, inference
 from dnb_toc_ground_truth.crossref_evaluation import (
     BookMetrics,
     discover_cached_models,
@@ -66,7 +68,18 @@ def main() -> int:
         help="Score every model with at least one llm-cache entry for a crossref-sample book, without naming "
              "them individually. Combines with --model.",
     )
+    parser.add_argument(
+        "--corpus", default=None,
+        help=f"Corpus to operate on (default: config file's \"corpus\", or {corpus.DEFAULT_CORPUS_NAME!r})",
+    )
+    parser.add_argument(
+        "--config-file", type=Path, default=Path(inference.DEFAULT_CONFIG_FILENAME),
+        help=f"Path to the config file (default: {inference.DEFAULT_CONFIG_FILENAME})",
+    )
     args = parser.parse_args()
+
+    config = inference.load_config(args.config_file)
+    corpus.set_corpus(args.corpus or config.get("corpus") or corpus.DEFAULT_CORPUS_NAME)
 
     results, no_coverage = evaluate_corpus()
     if args.full:

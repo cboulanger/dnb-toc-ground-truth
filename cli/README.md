@@ -5,6 +5,12 @@ directory, alphabetically. Regenerate an entry by running
 `uv run python cli/<name>.py --help` whenever that script's arguments
 change.
 
+Every script below except `generate_evaluation_site.py` (which builds
+pages for every corpus at once) takes a shared `--corpus` flag selecting
+which `data/corpus/<name>/` directory it operates on -- defaulting to
+`.config.json`'s `"corpus"` key, then `"pilot"`. See
+`dnb_toc_ground_truth.corpus.set_corpus`/`list_corpora`.
+
 ## `arbitrate.py`
 
 Surfaces books whose model reads didn't clear `generate_ground_truth.py`'s
@@ -13,7 +19,8 @@ directly -- see `AGENTS.md`'s "Arbitrating below-gate books". This
 script only REPORTS and records rejections; it never decides.
 
 ```
-usage: arbitrate.py [-h] {list,reject} ...
+usage: arbitrate.py [-h] [--corpus CORPUS] [--config-file CONFIG_FILE]
+                    {list,reject} ...
 
 Surfaces pilot-corpus books whose two vision-model TOC extractions didn't
 clear cli/generate_ground_truth.py's agreement gate, so a strong, multimodal
@@ -28,11 +35,15 @@ as unrecoverable.
 
 positional arguments:
   {list,reject}
-    list         List books needing arbitration (default)
-    reject       Permanently mark a book as unrecoverable
+    list                List books needing arbitration (default)
+    reject              Permanently mark a book as unrecoverable
 
 options:
-  -h, --help     show this help message and exit
+  -h, --help            show this help message and exit
+  --corpus CORPUS       Corpus to operate on (default: config file's "corpus",
+                        or 'pilot')
+  --config-file CONFIG_FILE
+                        Path to the config file (default: .config.json)
 ```
 
 ## `backfill_crossref.py`
@@ -43,7 +54,7 @@ writes each book's filtered evaluation-corpus entry alongside it.
 
 ```
 usage: backfill_crossref.py [-h] [--force] [--contact-email CONTACT_EMAIL]
-                            [--config-file CONFIG_FILE]
+                            [--config-file CONFIG_FILE] [--corpus CORPUS]
                             [--min-chapters MIN_CHAPTERS]
 
 Backfills Crossref book DOI and chapter data for existing manifest.json
@@ -59,6 +70,8 @@ options:
                         file's "contact_email")
   --config-file CONFIG_FILE
                         Path to the config file (default: .config.json)
+  --corpus CORPUS       Corpus to operate on (default: config file's "corpus",
+                        or 'pilot')
   --min-chapters MIN_CHAPTERS
                         Minimum page-numbered Crossref chapters a book needs
                         before its evaluation-corpus entry is written
@@ -75,29 +88,33 @@ the methodology and its constraints.
 
 ```
 usage: evaluate_crossref.py [-h] [--full] [--min-f1 MIN_F1] [--model MODEL]
-                            [--all-models]
+                            [--all-models] [--corpus CORPUS]
+                            [--config-file CONFIG_FILE]
 
 Measures precision/recall/F1 between this corpus's own ground truth and its
-committed Crossref evaluation corpus
-(data/corpus/pilot/evaluation/<key>.expected.json) -- see design spec
-docs/superpowers/specs/2026-08-22-crossref-evaluation-corpus-design.md
-(revises docs/superpowers/specs/2026-08-21-crossref-cross-validation-
-design.md).
+committed Crossref evaluation corpus, plus optionally one or more llm-cache
+models' raw extractions -- see dnb_toc_ground_truth.crossref_evaluation for
+the full methodology.
 
 options:
-  -h, --help       show this help message and exit
-  --full           Print a per-book precision/recall/F1 line for every
-                   compared book, not just the aggregate mean
-  --min-f1 MIN_F1  Exit 1 if the aggregate mean ground-truth F1 falls below
-                   this (0-1). Unset: no gate enforced.
-  --model MODEL    Also score this model's cached llm-cache extraction against
-                   the crossref sample, alongside ground truth (repeatable).
-                   Model id as it appears in data/corpus/pilot/llm-cache/v2/
-                   filenames (e.g. 'Qwen/Qwen3-Omni-30B-A3B-Instruct' or its
-                   sanitized 'Qwen__Qwen3-Omni-30B-A3B-Instruct' form).
-  --all-models     Score every model with at least one llm-cache entry for a
-                   crossref-sample book, without naming them individually.
-                   Combines with --model.
+  -h, --help            show this help message and exit
+  --full                Print a per-book precision/recall/F1 line for every
+                        compared book, not just the aggregate mean
+  --min-f1 MIN_F1       Exit 1 if the aggregate mean ground-truth F1 falls
+                        below this (0-1). Unset: no gate enforced.
+  --model MODEL         Also score this model's cached llm-cache extraction
+                        against the crossref sample, alongside ground truth
+                        (repeatable). Model id as it appears in
+                        data/corpus/pilot/llm-cache/v2/ filenames (e.g.
+                        'Qwen/Qwen3-Omni-30B-A3B-Instruct' or its sanitized
+                        'Qwen__Qwen3-Omni-30B-A3B-Instruct' form).
+  --all-models          Score every model with at least one llm-cache entry
+                        for a crossref-sample book, without naming them
+                        individually. Combines with --model.
+  --corpus CORPUS       Corpus to operate on (default: config file's "corpus",
+                        or 'pilot')
+  --config-file CONFIG_FILE
+                        Path to the config file (default: .config.json)
 ```
 
 ## `fetch_corpus.py`
@@ -113,7 +130,7 @@ usage: fetch_corpus.py [-h] (--from-dump | --isbns-file ISBNS_FILE)
                        [--manifest-path MANIFEST_PATH]
                        [--contact-email CONTACT_EMAIL]
                        [--crossref-cache-dir CROSSREF_CACHE_DIR]
-                       [--config-file CONFIG_FILE]
+                       [--config-file CONFIG_FILE] [--corpus CORPUS]
                        [--min-chapters MIN_CHAPTERS]
 
 Acquires real DNB-scanned table-of-contents PDFs via the lobid-resources
@@ -155,6 +172,10 @@ options:
                         (default: data/corpus/pilot/.crossref-cache/)
   --config-file CONFIG_FILE
                         Path to the config file (default: .config.json)
+  --corpus CORPUS       Corpus to operate on (default: config file's "corpus",
+                        or 'pilot'). If the named corpus has no
+                        data/corpus/<name>/manifest.json yet, one is created
+                        -- this is how a brand-new corpus gets bootstrapped.
   --min-chapters MIN_CHAPTERS
                         Minimum page-numbered Crossref chapters a book needs
                         before its evaluation-corpus entry is written
@@ -164,8 +185,10 @@ options:
 ## `generate_evaluation_site.py`
 
 Builds the static GitHub Pages site presenting crossref-evaluation scores
-(ground truth plus every cached model). Reads only committed corpus data --
-no network access, no secrets required. Run automatically by
+(ground truth plus every cached model) for every corpus
+(`dnb_toc_ground_truth.corpus.list_corpora()`) -- not just one, so it has
+no `--corpus` flag of its own. Reads only committed corpus data -- no
+network access, no secrets required. Run automatically by
 `.github/workflows/pages.yml` on every push to `main`.
 
 ```
@@ -198,6 +221,7 @@ usage: generate_ground_truth.py [-h] [--limit LIMIT]
                                 [--endpoints-file ENDPOINTS_FILE]
                                 [--config-file CONFIG_FILE]
                                 [--gate-threshold GATE_THRESHOLD]
+                                [--corpus CORPUS]
 
 Generates structured ground truth for the dnb-toc-only pilot corpus. For every
 manifest book not held out in eval_tier_ids.json (see select_eval_sample.py),
@@ -235,6 +259,8 @@ options:
   --gate-threshold GATE_THRESHOLD
                         Whole-book agreement threshold, 0-1 (default: 0.90, or
                         config file's "gate_threshold")
+  --corpus CORPUS       Corpus to operate on (default: config file's "corpus",
+                        or 'pilot')
 ```
 
 ## `select_eval_sample.py`
@@ -244,6 +270,7 @@ dominated by one publication era or language.
 
 ```
 usage: select_eval_sample.py [-h] [--sample-size SAMPLE_SIZE] [--seed SEED]
+                             [--corpus CORPUS] [--config-file CONFIG_FILE]
 
 Selects a stratified held-out eval-tier sample for the pilot corpus (design
 spec docs/superpowers/specs/2026-08-15-dnb-toc-ground-truth-generation-
@@ -258,4 +285,8 @@ options:
   -h, --help            show this help message and exit
   --sample-size SAMPLE_SIZE
   --seed SEED
+  --corpus CORPUS       Corpus to operate on (default: config file's "corpus",
+                        or 'pilot')
+  --config-file CONFIG_FILE
+                        Path to the config file (default: .config.json)
 ```

@@ -66,6 +66,19 @@ class TestSetCorpus(unittest.TestCase):
             finally:
                 corpus.CORPUS_DIR = original
 
+    def test_create_true_allows_a_corpus_with_no_manifest_yet(self):
+        # fetch_corpus.py's own job is bootstrapping a brand-new corpus's
+        # manifest.json -- it can't require one to already exist.
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            original = corpus.CORPUS_DIR
+            try:
+                with patch.object(corpus, "_CORPUS_ROOT", root):
+                    corpus.set_corpus("brand-new", create=True)
+                    self.assertEqual(corpus.CORPUS_DIR, root / "brand-new")
+            finally:
+                corpus.CORPUS_DIR = original
+
     def test_raises_with_available_corpora_for_an_unknown_name(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)

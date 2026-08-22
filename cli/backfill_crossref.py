@@ -100,6 +100,10 @@ def main() -> int:
         help=f"Path to the config file (default: {inference.DEFAULT_CONFIG_FILENAME})",
     )
     parser.add_argument(
+        "--corpus", default=None,
+        help=f"Corpus to operate on (default: config file's \"corpus\", or {corpus.DEFAULT_CORPUS_NAME!r})",
+    )
+    parser.add_argument(
         "--min-chapters", type=int, default=crossref.DEFAULT_MIN_CHAPTERS_FOR_EVAL,
         help=(
             "Minimum page-numbered Crossref chapters a book needs before its evaluation-corpus "
@@ -109,6 +113,7 @@ def main() -> int:
     args = parser.parse_args()
 
     config = inference.load_config(args.config_file)
+    corpus.set_corpus(args.corpus or config.get("corpus") or corpus.DEFAULT_CORPUS_NAME)
     contact_email = args.contact_email or config.get("contact_email")
 
     with httpx.Client(follow_redirects=True) as client:

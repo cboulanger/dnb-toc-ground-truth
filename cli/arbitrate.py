@@ -19,7 +19,7 @@ import json
 from datetime import date
 from pathlib import Path
 
-from dnb_toc_ground_truth import corpus
+from dnb_toc_ground_truth import corpus, inference
 from dnb_toc_ground_truth.matching import diff_toc_entries
 from dnb_toc_ground_truth.toc_entry import TocEntry
 from dnb_toc_ground_truth.vision import load_cached_kind, load_cached_llm_entries, versioned_cache_dir
@@ -191,12 +191,23 @@ def reject_book(key: str, reason: str, today=date.today) -> int:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
+    parser.add_argument(
+        "--corpus", default=None,
+        help=f"Corpus to operate on (default: config file's \"corpus\", or {corpus.DEFAULT_CORPUS_NAME!r})",
+    )
+    parser.add_argument(
+        "--config-file", type=Path, default=Path(inference.DEFAULT_CONFIG_FILENAME),
+        help=f"Path to the config file (default: {inference.DEFAULT_CONFIG_FILENAME})",
+    )
     subparsers = parser.add_subparsers(dest="command")
     subparsers.add_parser("list", help="List books needing arbitration (default)")
     reject_parser = subparsers.add_parser("reject", help="Permanently mark a book as unrecoverable")
     reject_parser.add_argument("key")
     reject_parser.add_argument("reason")
     args = parser.parse_args()
+
+    config = inference.load_config(args.config_file)
+    corpus.set_corpus(args.corpus or config.get("corpus") or corpus.DEFAULT_CORPUS_NAME)
 
     if args.command == "reject":
         return reject_book(args.key, args.reason)

@@ -445,6 +445,10 @@ def main() -> int:
         help=f"Path to the config file (default: {inference.DEFAULT_CONFIG_FILENAME})",
     )
     parser.add_argument(
+        "--corpus", default=None,
+        help=f"Corpus to operate on (default: config file's \"corpus\", or {corpus.DEFAULT_CORPUS_NAME!r})",
+    )
+    parser.add_argument(
         "--min-chapters", type=int, default=crossref.DEFAULT_MIN_CHAPTERS_FOR_EVAL,
         help=(
             "Minimum page-numbered Crossref chapters a book needs before its evaluation-corpus "
@@ -453,10 +457,11 @@ def main() -> int:
     )
     args = parser.parse_args()
 
+    config = inference.load_config(args.config_file)
+    corpus.set_corpus(args.corpus or config.get("corpus") or corpus.DEFAULT_CORPUS_NAME, create=True)
     corpus.corpus_dir().mkdir(parents=True, exist_ok=True)
     manifest_path = args.manifest_path or corpus.manifest_path()
     _ensure_manifest_shell(manifest_path)
-    config = inference.load_config(args.config_file)
     contact_email = args.contact_email or config.get("contact_email")
     crossref_cache_dir = args.crossref_cache_dir or corpus.crossref_cache_dir()
 

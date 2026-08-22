@@ -43,14 +43,17 @@ def list_corpora() -> list[str]:
     return sorted(p.name for p in _CORPUS_ROOT.iterdir() if p.is_dir() and (p / "manifest.json").exists())
 
 
-def set_corpus(name: str) -> None:
+def set_corpus(name: str, *, create: bool = False) -> None:
     """Switches CORPUS_DIR (and so every helper below) to
     data/corpus/<name>/. Raises ValueError up front for a name with no
     manifest.json there, listing what IS available, rather than
-    deferring to a confusing FileNotFoundError somewhere downstream."""
+    deferring to a confusing FileNotFoundError somewhere downstream --
+    unless create=True (cli/fetch_corpus.py's own job is bootstrapping a
+    brand-new corpus's manifest.json, so it can't require one to already
+    exist)."""
     global CORPUS_DIR
     candidate = _CORPUS_ROOT / name
-    if not (candidate / "manifest.json").exists():
+    if not create and not (candidate / "manifest.json").exists():
         available = list_corpora()
         raise ValueError(
             f"No corpus named {name!r} (expected {candidate / 'manifest.json'} to exist). "

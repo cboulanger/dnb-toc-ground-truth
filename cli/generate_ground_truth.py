@@ -359,9 +359,14 @@ def main() -> int:
     parser.add_argument("--endpoints-file", type=Path, default=None, help=f"Path to the endpoints file (default: {DEFAULT_ENDPOINTS_FILENAME}, or config file's \"endpoints_file\")")
     parser.add_argument("--config-file", type=Path, default=Path(DEFAULT_CONFIG_FILENAME), help=f"Path to the config file (default: {DEFAULT_CONFIG_FILENAME})")
     parser.add_argument("--gate-threshold", type=float, default=None, help="Whole-book agreement threshold, 0-1 (default: 0.90, or config file's \"gate_threshold\")")
+    parser.add_argument(
+        "--corpus", default=None,
+        help=f"Corpus to operate on (default: config file's \"corpus\", or {corpus.DEFAULT_CORPUS_NAME!r})",
+    )
     args = parser.parse_args()
 
     config = load_config(args.config_file)
+    corpus.set_corpus(args.corpus or config.get("corpus") or corpus.DEFAULT_CORPUS_NAME)
     if args.spot_check is not None:
         return _spot_check(args.spot_check)
     return _generate(args, config)

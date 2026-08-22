@@ -1,4 +1,5 @@
 {
+  "corpus": "pilot",
   "contact_email": "you@example.org",
   "endpoints_file": ".endpoints",
   "use_vision": ["mistralai/Pixtral-12B-2409", "Qwen/Qwen3-Omni-30B-A3B-Instruct"],

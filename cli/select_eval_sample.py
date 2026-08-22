@@ -16,8 +16,9 @@ Not a pytest test, run once (or re-run after the corpus grows further):
 import argparse
 import json
 import random
+from pathlib import Path
 
-from dnb_toc_ground_truth import corpus
+from dnb_toc_ground_truth import corpus, inference
 
 _DEFAULT_SEED = 20260815
 
@@ -75,7 +76,18 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     parser.add_argument("--sample-size", type=int, default=75)
     parser.add_argument("--seed", type=int, default=_DEFAULT_SEED)
+    parser.add_argument(
+        "--corpus", default=None,
+        help=f"Corpus to operate on (default: config file's \"corpus\", or {corpus.DEFAULT_CORPUS_NAME!r})",
+    )
+    parser.add_argument(
+        "--config-file", type=Path, default=Path(inference.DEFAULT_CONFIG_FILENAME),
+        help=f"Path to the config file (default: {inference.DEFAULT_CONFIG_FILENAME})",
+    )
     args = parser.parse_args()
+
+    config = inference.load_config(args.config_file)
+    corpus.set_corpus(args.corpus or config.get("corpus") or corpus.DEFAULT_CORPUS_NAME)
 
     books = corpus.load_manifest_books()
     lobid_records = {}
