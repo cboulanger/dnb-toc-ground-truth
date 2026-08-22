@@ -5,6 +5,7 @@ docs/superpowers/specs/2026-08-21-dnb-toc-ground-truth-extraction-design.md."""
 
 import argparse
 import asyncio
+import dataclasses
 import json
 import os
 import sys
@@ -18,7 +19,7 @@ from openai import RateLimitError
 from pypdf import PdfWriter
 
 from dnb_toc_ground_truth import corpus
-from dnb_toc_ground_truth.inference import ModelEndpoint
+from dnb_toc_ground_truth.inference import ModelEndpoint, load_endpoint_entries, resolve_model_endpoints
 from dnb_toc_ground_truth.toc_entry import TocEntry
 from dnb_toc_ground_truth.vision import load_cached_kind, load_cached_llm_entries, write_cached_llm_entries
 
@@ -571,6 +572,51 @@ class TestRunBook(unittest.IsolatedAsyncioTestCase):
 
             self.assertTrue(passed)
             mock_nuextract.assert_not_called()
+
+    async def test_a_real_endpoints_file_entry_correctly_drives_nuextract_dispatch(self):
+        # Join-point test: every layer above is well-covered in isolation
+        # (test_inference.py covers .endpoints -> ModelEndpoint fields;
+        # the other TestRunBook tests cover ModelEndpoint -> dispatch using
+        # the hand-built _endpoint() helper), but nothing drives the full
+        # chain -- a real .endpoints file, through the real
+        # load_endpoint_entries/resolve_model_endpoints, into _run_book's
+        # actual dispatch decision. This closes that gap.
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp) / "corpus"):
+            tmp_path = Path(tmp)
+            cache_directory = tmp_path / "cache"
+            pdf_path = _make_pdf(tmp_path / "book.pdf")
+            endpoints_path = tmp_path / ".endpoints"
+            endpoints_path.write_text(json.dumps([
+                {"url": "https://x.invalid/a", "key": "k1", "model": "model-a"},
+                {
+                    "url": "https://x.invalid/b", "key": "k2", "model": "acme/finetuned-nuextract2",
+                    "extraction_api": "nuextract", "extraction_instructions": "false",
+                },
+            ]))
+
+            entries = load_endpoint_entries(endpoints_path)
+            resolved = resolve_model_endpoints(["model-a", "acme/finetuned-nuextract2"], "vision", entries)
+            # resolve_model_endpoints builds a real AsyncOpenAI client per
+            # entry (from the .endpoints file's url/key) -- swap in a fake
+            # so _run_book's actual model calls don't hit the network,
+            # while every other field (model_id, kind, extraction_api,
+            # extraction_instructions) stays exactly what real endpoint-file
+            # parsing and resolution produced.
+            client = _fake_vision_client(_VISION_RESPONSE)
+            endpoints = [dataclasses.replace(ep, client=client) for ep in resolved]
+            semaphore = asyncio.Semaphore(1)
+
+            with patch(
+                "generate_ground_truth.nuextract_vision_extract_toc_entries",
+                new=AsyncMock(return_value=[_entry("Einleitung", 9), _entry("Schluss", 40)]),
+            ) as mock_nuextract:
+                key, passed, reason = await _run_book(
+                    "book16", pdf_path, endpoints, semaphore, cache_directory, 0.90, sleep=AsyncMock(),
+                )
+
+            self.assertTrue(passed)
+            mock_nuextract.assert_awaited_once()
+            self.assertFalse(mock_nuextract.call_args.kwargs["use_instructions"])
 
 
 class TestAcquireLock(unittest.TestCase):
