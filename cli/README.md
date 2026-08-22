@@ -38,11 +38,13 @@ options:
 ## `backfill_crossref.py`
 
 Backfills Crossref book DOI and cached chapter data for existing
-manifest entries that already have ground truth but no DOI yet.
+manifest entries that already have ground truth but no DOI yet, and
+writes each book's filtered evaluation-corpus entry alongside it.
 
 ```
 usage: backfill_crossref.py [-h] [--force] [--contact-email CONTACT_EMAIL]
                             [--config-file CONFIG_FILE]
+                            [--min-chapters MIN_CHAPTERS]
 
 Backfills Crossref book DOI and chapter data for existing manifest.json
 entries that already have a .expected.json ground-truth file but no doi yet --
@@ -57,25 +59,35 @@ options:
                         file's "contact_email")
   --config-file CONFIG_FILE
                         Path to the config file (default: .config.json)
+  --min-chapters MIN_CHAPTERS
+                        Minimum page-numbered Crossref chapters a book needs
+                        before its evaluation-corpus entry is written
+                        (default: 3)
 ```
 
 ## `evaluate_crossref.py`
 
-Measures agreement between this corpus's ground truth and each book's
-cached Crossref chapter data, reusing `matching.diff_toc_entries`.
+Measures precision/recall/F1 between this corpus's ground truth and its
+committed Crossref evaluation corpus, reusing `matching.diff_toc_entries`.
+See the "Crossref evaluation" section in the top-level `README.md` for
+the methodology and its constraints.
 
 ```
-usage: evaluate_crossref.py [-h] [--min-agreement MIN_AGREEMENT]
+usage: evaluate_crossref.py [-h] [--full] [--min-f1 MIN_F1]
 
-Measures agreement between this corpus's own ground truth and each book's
-cached Crossref chapter data -- see design spec
-docs/superpowers/specs/2026-08-21-crossref-cross-validation-design.md.
+Measures precision/recall/F1 between this corpus's own ground truth and its
+committed Crossref evaluation corpus
+(data/corpus/pilot/evaluation/<key>.expected.json) -- see design spec
+docs/superpowers/specs/2026-08-22-crossref-evaluation-corpus-design.md
+(revises docs/superpowers/specs/2026-08-21-crossref-cross-validation-
+design.md).
 
 options:
-  -h, --help            show this help message and exit
-  --min-agreement MIN_AGREEMENT
-                        Exit 1 if the aggregate mean agreement rate falls
-                        below this (0-1). Unset: no gate enforced.
+  -h, --help       show this help message and exit
+  --full           Print a per-book precision/recall/F1 line for every
+                   compared book, not just the aggregate mean
+  --min-f1 MIN_F1  Exit 1 if the aggregate mean F1 falls below this (0-1).
+                   Unset: no gate enforced.
 ```
 
 ## `fetch_corpus.py`
@@ -92,6 +104,7 @@ usage: fetch_corpus.py [-h] (--from-dump | --isbns-file ISBNS_FILE)
                        [--contact-email CONTACT_EMAIL]
                        [--crossref-cache-dir CROSSREF_CACHE_DIR]
                        [--config-file CONFIG_FILE]
+                       [--min-chapters MIN_CHAPTERS]
 
 Acquires real DNB-scanned table-of-contents PDFs via the lobid-resources
 API (lobid.org/resources) into data/corpus/pilot/ -- see
@@ -132,6 +145,10 @@ options:
                         (default: data/corpus/pilot/.crossref-cache/)
   --config-file CONFIG_FILE
                         Path to the config file (default: .config.json)
+  --min-chapters MIN_CHAPTERS
+                        Minimum page-numbered Crossref chapters a book needs
+                        before its evaluation-corpus entry is written
+                        (default: 3)
 ```
 
 ## `generate_ground_truth.py`

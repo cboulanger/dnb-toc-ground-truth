@@ -42,6 +42,74 @@ gate (better prompts, better-paired models, a higher-quality second
 reader) so fewer books need a frontier-model agent's direct attention,
 not to keep leaning on arbitration indefinitely.
 
+## Crossref evaluation
+
+Since 2026-08-22, this repo also cross-checks its ground truth against
+an independent, non-LLM data source: Crossref's own per-chapter
+registration metadata (title, authors, page range), for books that have
+one. This is the only correctness signal in this repo that comes from
+outside its own LLM extraction pipeline entirely.
+
+**How it works:**
+
+1. Whenever a book's Crossref data is fetched -- either by
+   `cli/backfill_crossref.py` (for the existing manifest backlog) or in
+   real time by `cli/fetch_corpus.py` as new books are acquired --
+   `dnb_toc_ground_truth.crossref.write_evaluation_entry` filters the
+   returned chapters to those Crossref registered **with real page
+   data** (a chapter with none can never be matched by this repo's own
+   alignment logic, since it never matches a known-page ground-truth
+   entry against an unknown-page one) and writes them to a **committed**
+   `data/corpus/pilot/evaluation/<key>.expected.json`, in the same
+   shape as a ground-truth file (`"source": "crossref"`), but only if at
+   least `--min-chapters` (default 3) survive that filter -- a book with
+   too few usable Crossref-registered chapters isn't a meaningful
+   sample.
+2. `cli/evaluate_crossref.py` then compares, for every book that has
+   both a ground-truth file and an evaluation-corpus entry, the ground
+   truth's real chapters (`"skip": false`) against the evaluation
+   corpus's entries, reusing `dnb_toc_ground_truth.matching.diff_toc_entries`
+   completely unmodified (title, chapter-number-prefix and
+   capitalization normalized, plus first-page-number equivalence -- the
+   same logic that gates the two-model TOC-extraction agreement above).
+   From the resulting matched/only-in-gt/only-in-crossref counts: true
+   positives = matched, false negatives = a real ground-truth chapter
+   Crossref didn't register or match, false positives = a Crossref
+   chapter with no ground-truth match -- standard precision, recall, and
+   F1 from there.
+
+**Run it:**
+
+```bash
+uv run python cli/backfill_crossref.py       # populate/refresh the evaluation corpus
+uv run python cli/evaluate_crossref.py       # aggregate mean only
+uv run python cli/evaluate_crossref.py --full  # + a line per compared book
+```
+
+**Constraints, read before trusting a number this produces:**
+
+- **Aggregate scores are macro-averaged** -- the mean of each compared
+  book's own precision/recall/F1, every book weighted equally regardless
+  of its chapter count. A single short book and a single 300-entry
+  handbook count the same toward the mean.
+- **Coverage is small and not a random sample of the corpus.** As of the
+  first real run (2026-08-22), only 58 of 547 ground-truthed books had
+  enough Crossref-registered, page-numbered chapters to produce an
+  evaluation entry at all -- Crossref registration skews toward larger
+  and more prominent publishers, so this check says nothing about books
+  it has no data for.
+- **A Crossref "miss" doesn't necessarily mean the ground truth is
+  wrong.** Crossref's own chapter registration can itself be incomplete
+  or scoped differently than this corpus's TOC-page extraction -- e.g. a
+  handbook's many short entries registered as one part rather than
+  individually, which this check would score as many false negatives
+  even though the ground truth is correct.
+- **Some publishers' Crossref metadata has its own quirks** already
+  found and corrected for (see `crossref.py`'s
+  `_strip_glued_page_prefix` and `evaluate_crossref.py`'s page-sorting
+  before comparison) -- but the underlying Crossref data is
+  publisher-submitted and not otherwise vetted by this repo.
+
 ## Setup
 
 1. Install dependencies:
