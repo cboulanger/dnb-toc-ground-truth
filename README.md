@@ -155,18 +155,26 @@ uv run python cli/evaluate_crossref.py --all-models  # + every cached model's ow
 
    `.endpoints` lists every inference endpoint you can call (see
    `docs/llm-inference-providers.md`); `.config.json` sets defaults for
-   `cli/generate_ground_truth.py`'s flags (which models to use, gate
-   threshold, concurrency) so you don't have to repeat them on every
-   invocation.
+   the CLI scripts' flags (which models to use, gate threshold,
+   concurrency, and which corpus to operate on) so you don't have to
+   repeat them on every invocation.
 
-4. Smoke-check the install before pointing anything at a real endpoint:
+4. This repo can hold more than one corpus under `data/corpus/<name>/`
+   (today, in practice, just `pilot`). Every script except
+   `generate_evaluation_site.py` takes a `--corpus` flag to select one,
+   defaulting to `.config.json`'s `"corpus"` key, then `"pilot"`. A name
+   with no `data/corpus/<name>/manifest.json` yet is created fresh by
+   `cli/fetch_corpus.py --corpus <name> ...` (every other script expects
+   one to already exist).
+
+5. Smoke-check the install before pointing anything at a real endpoint:
 
    ```bash
    uv run python cli/fetch_corpus.py --help
    uv run python cli/generate_ground_truth.py --help
    ```
 
-5. See `cli/README.md` for the full flag reference of every script, and
+6. See `cli/README.md` for the full flag reference of every script, and
    `data/corpus/pilot/README.md` for the corpus's current size and
    status.
 
