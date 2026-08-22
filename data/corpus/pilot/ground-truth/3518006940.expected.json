@@ -1,0 +1,68 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort der Herausgeber",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Industrieschule und ursprüngliche Akkumulation in Deutschland. Die Qualifizierung der Arbeitskraft im Übergang von der feudalen in die kapitalistische Produktionsweise",
+      "authors": [
+        "Ursula Aumüller"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Zur Entstehung der Realschulen in Preußen im 18. Jahrhundert bis zu den dreißiger Jahren des 19. Jahrhunderts",
+      "authors": [
+        "Hans Waldeyer"
+      ],
+      "printed_page_number": "146",
+      "skip": false
+    },
+    {
+      "title": "Schule und »Fabrikgeschäft«. Zum historischen Zusammenhang von Kinderarbeit, Kinderschutzgesetz und allgemeiner Elementarbildung",
+      "authors": [
+        "Klaus L. Hartmann"
+      ],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "Zur Methodenproblematik in der Analyse der Volksschulentwicklung",
+      "authors": [
+        "Helga Zander",
+        "Gerhard Ketterer",
+        "Anne Steiner"
+      ],
+      "printed_page_number": "254",
+      "skip": false
+    },
+    {
+      "title": "Das Sozialisationskonzept der Stiehlschen Regulative und sein historischer Hintergrund. Zur historisch-materialistischen Analyse der Schulpolitik in den fünfziger und sechziger Jahren des 19. Jahrhunderts",
+      "authors": [
+        "Friedhelm Nyssen"
+      ],
+      "printed_page_number": "292",
+      "skip": false
+    },
+    {
+      "title": "Sicherung von Massenloyalität und Qualifikation der Arbeitskraft als Aufgabe der Volksschule",
+      "authors": [
+        "Franz Wenzel"
+      ],
+      "printed_page_number": "323",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

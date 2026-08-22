@@ -1,0 +1,217 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsübersicht",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort zur 3. Auflage",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Die politischen Systeme Westeuropas im Vergleich",
+      "authors": [
+        "Wolfgang Ismayr"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Das politische System Dänemarks",
+      "authors": [
+        "Peter Nannestad"
+      ],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "Das politische System Schwedens",
+      "authors": [
+        "Detlef Jahn"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "Das politische System Norwegens",
+      "authors": [
+        "Hermann Groß",
+        "Walter Rothholz"
+      ],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "Das politische System Islands",
+      "authors": [
+        "Gretar Thór Eythórsson",
+        "Detlef Jahn"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "Das politische System Finnlands",
+      "authors": [
+        "Burkhard Auffermann"
+      ],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "Das politische System Großbritanniens",
+      "authors": [
+        "Roland Sturm"
+      ],
+      "printed_page_number": "225",
+      "skip": false
+    },
+    {
+      "title": "Das politische System Irlands",
+      "authors": [
+        "Jürgen Elvert"
+      ],
+      "printed_page_number": "263",
+      "skip": false
+    },
+    {
+      "title": "Das politische System Frankreichs",
+      "authors": [
+        "Udo Kempf"
+      ],
+      "printed_page_number": "301",
+      "skip": false
+    },
+    {
+      "title": "Das politische System der Niederlande",
+      "authors": [
+        "Norbert Lepszy"
+      ],
+      "printed_page_number": "349",
+      "skip": false
+    },
+    {
+      "title": "Das politische System Belgiens",
+      "authors": [
+        "Wichard Woyke"
+      ],
+      "printed_page_number": "389",
+      "skip": false
+    },
+    {
+      "title": "Das politische System Luxemburgs",
+      "authors": [
+        "Michael Schroen"
+      ],
+      "printed_page_number": "415",
+      "skip": false
+    },
+    {
+      "title": "Das politische System Deutschlands",
+      "authors": [
+        "Wolfgang Ismayr"
+      ],
+      "printed_page_number": "445",
+      "skip": false
+    },
+    {
+      "title": "Das politische System der Schweiz",
+      "authors": [
+        "Wolf Linder"
+      ],
+      "printed_page_number": "487",
+      "skip": false
+    },
+    {
+      "title": "Das politische System Österreichs",
+      "authors": [
+        "Anton Pelinka"
+      ],
+      "printed_page_number": "521",
+      "skip": false
+    },
+    {
+      "title": "Das politische System Italiens",
+      "authors": [
+        "Günter Trautmann",
+        "Hartmut Ullrich"
+      ],
+      "printed_page_number": "553",
+      "skip": false
+    },
+    {
+      "title": "Das politische System Spaniens",
+      "authors": [
+        "Harald Barrios"
+      ],
+      "printed_page_number": "609",
+      "skip": false
+    },
+    {
+      "title": "Das politische System Portugals",
+      "authors": [
+        "Wolfgang Merkel",
+        "Volker Stiehl"
+      ],
+      "printed_page_number": "651",
+      "skip": false
+    },
+    {
+      "title": "Das politische System Griechenlands",
+      "authors": [
+        "Peter A. Zervakis"
+      ],
+      "printed_page_number": "687",
+      "skip": false
+    },
+    {
+      "title": "Das politische System Maltas",
+      "authors": [
+        "Anita Bestler",
+        "Arno Waschkuhn"
+      ],
+      "printed_page_number": "731",
+      "skip": false
+    },
+    {
+      "title": "Die politischen Systeme Andorras, Liechtensteins, Monacos, San Marinos und des Vatikan",
+      "authors": [
+        "Arno Waschkuhn"
+      ],
+      "printed_page_number": "759",
+      "skip": false
+    },
+    {
+      "title": "Das politische System der Europäischen Union",
+      "authors": [
+        "Wolfgang Wessels"
+      ],
+      "printed_page_number": "779",
+      "skip": false
+    },
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": "819",
+      "skip": true
+    },
+    {
+      "title": "Tabellen- und Abbildungsverzeichnis",
+      "authors": [],
+      "printed_page_number": "831",
+      "skip": true
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "authors": [],
+      "printed_page_number": "837",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

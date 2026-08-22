@@ -1,0 +1,142 @@
+{
+  "entries": [
+    {
+      "title": "Contents",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "v",
+      "skip": true
+    },
+    {
+      "title": "Strukturabhängige Formen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "STRUNK, H.: Strukturbedingtes Mikrorelief am Fako (Mt. Cameroon) und Konvergenzformen: Ein genetischer Vergleich (mit 4 Figuren, 5 Photos und 3 Tabellen)",
+      "authors": [
+        "STRUNK, H."
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "BURGER, D.: Kalkmulden im Rheinischen Schiefergebirge, Strukturformen aus mikromorphologischer Sicht (mit 9 Figuren)",
+      "authors": [
+        "BURGER, D."
+      ],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "SCHMIDT, K.-H.: Das Schichtstufenrelief der präsaharischen Senke, Süd-Marokko (mit 4 Figuren, 4 Photos und 1 Tabelle)",
+      "authors": [
+        "SCHMIDT, K.-H."
+      ],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "BRUNOTTE, E.: Strukturformen im Altrelief der Dransfelder Hochfläche (mit 3 Figuren)",
+      "authors": [
+        "BRUNOTTE, E."
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "GARLEFF, K. & H. STINGL: Struktur- und Skulpturformen am argentinischen Andenrand unter randtropischen bis subantarktischen Bedingungen (mit 6 Figuren)",
+      "authors": [
+        "GARLEFF, K.",
+        "H. STINGL"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "STINGL, H. & K. GARLEFF: Neue Ergebnisse zum alten Thema „Struktur- und Skulpturformen“",
+      "authors": [
+        "STINGL, H.",
+        "K. GARLEFF"
+      ],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "Fluviale Morphodynamik",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "FARRENKOPF, D.: Das Relief als steuernder Parameter der Abflußdynamik – ein Beitrag zur fluvialen Prozeßforschung (mit 3 Figuren)",
+      "authors": [
+        "FARRENKOPF, D."
+      ],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "VEIT, H.: Untersuchungen zur spätglazialen Talentwicklung in Osttirol (mit 6 Figuren)",
+      "authors": [
+        "VEIT, H."
+      ],
+      "printed_page_number": "83",
+      "skip": false
+    },
+    {
+      "title": "BUCH, M. W.: Spätpleistozäne und holozäne fluviale Geomorphodynamik im Donautal östlich von Regensburg – ein Sonderfall unter den mitteleuropäischen Flußsystemen? (mit 3 Figuren)",
+      "authors": [
+        "BUCH, M. W."
+      ],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "HEINE, K.: Jungquartäre fluviale Geomorphodynamik in der Namib, Südwestafrika/Namibia (mit 9 Figuren)",
+      "authors": [
+        "HEINE, K."
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "Geomorphologische Kartographie",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "KAMMERER, P.: Möglichkeiten des Einsatzes der Computerkartographie und des Digitalen Geländemodells bei der Herstellung geomorphologischer Karten (mit 11 Figuren und 1 Tabelle)",
+      "authors": [
+        "KAMMERER, P."
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "LEHMEIER, F.: Entwicklung eines EDV-gestützten Dokumentations- und Abfragesystems für Daten zur regionalen Geomorphologie (DARG) (mit 1 Figur und 4 Tabellen)",
+      "authors": [
+        "LEHMEIER, F."
+      ],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "LESER, H.: Geomorphologische Inhaltselemente in der Geoökologischen Karte 1 : 25 000 (GÖK 25) (mit 2 Figuren)",
+      "authors": [
+        "LESER, H."
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

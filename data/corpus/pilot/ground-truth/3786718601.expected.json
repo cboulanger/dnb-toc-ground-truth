@@ -1,0 +1,74 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Das humanwissenschaftliche Gespräch zum Verständnis sittlicher Kompetenz. Themen – Tendenzen – Einsichten",
+      "authors": [
+        "Alfons Maurer"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Die Moraltheorie von Lawrence Kohlberg als Paradigma für Moraltheologie und religiös-sittliche Erziehung",
+      "authors": [
+        "Anton A. Bucher"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "Wert, Tugend und Identität: zur Gestaltung und Vermittlung sittlicher Kompetenz. Ein Beitrag zur Revitalisierung einer Tugendethik",
+      "authors": [
+        "Georg Beirer"
+      ],
+      "printed_page_number": "76",
+      "skip": false
+    },
+    {
+      "title": "Gesellschaft – Gemeinschaft – Gemeinwohl. Ethische Anmerkungen zum Kommunitarismus",
+      "authors": [
+        "Walter Lesch"
+      ],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "Moralerziehung in pluraler Lebenswelt – und „christliche Moral“? Demokratische Moral als moralpädagogisches Ziel",
+      "authors": [
+        "Volker Eid"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "Politik, Religion und christliches Gewissen",
+      "authors": [
+        "Gerhard Droesser"
+      ],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "Auswahlbibliographie",
+      "authors": [
+        "Alfons Maurer"
+      ],
+      "printed_page_number": "201",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}
