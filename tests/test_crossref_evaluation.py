@@ -1,22 +1,18 @@
-"""Unit tests for cli/evaluate_crossref.py -- measures precision/recall/F1
-between this corpus's own ground truth and its committed Crossref
+"""Unit tests for dnb_toc_ground_truth.crossref_evaluation -- measures
+precision/recall/F1 between this corpus's own ground truth (or an
+individual llm-cache model's raw extraction) and its committed Crossref
 evaluation corpus (data/corpus/pilot/evaluation/*.expected.json), reusing
 matching.diff_toc_entries unmodified. See design spec
 docs/superpowers/specs/2026-08-22-crossref-evaluation-corpus-design.md."""
 
 import json
-import sys
 import tempfile
 import unittest
 from pathlib import Path
 from unittest.mock import patch
 
 from dnb_toc_ground_truth import corpus, vision
-from dnb_toc_ground_truth.toc_entry import TocEntry
-
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "cli"))
-
-from evaluate_crossref import (
+from dnb_toc_ground_truth.crossref_evaluation import (
     BookMetrics,
     discover_cached_models,
     evaluate_book,
@@ -24,6 +20,7 @@ from evaluate_crossref import (
     evaluate_model_corpus,
     _load_entries,
 )
+from dnb_toc_ground_truth.toc_entry import TocEntry
 
 
 def _write_expected_json(key: str, entries: list[dict]) -> None:
