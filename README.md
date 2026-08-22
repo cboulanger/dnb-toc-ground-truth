@@ -77,6 +77,14 @@ outside its own LLM extraction pipeline entirely.
    Crossref didn't register or match, false positives = a Crossref
    chapter with no ground-truth match -- standard precision, recall, and
    F1 from there.
+3. `--model` (repeatable) or `--all-models` additionally scores a
+   specific vision-LLM's *raw, pre-gate/pre-arbitration* cached
+   extraction (`data/corpus/pilot/llm-cache/`, written by
+   `cli/generate_ground_truth.py`) against the same crossref-sample
+   books, for whichever of them that model happens to have a cache entry
+   for -- so a model's extraction quality can be scored against this
+   corpus's one non-LLM signal directly, without needing a ground-truth
+   file (gated or arbitrated) for that book at all.
 
 **Run it:**
 
@@ -84,6 +92,7 @@ outside its own LLM extraction pipeline entirely.
 uv run python cli/backfill_crossref.py       # populate/refresh the evaluation corpus
 uv run python cli/evaluate_crossref.py       # aggregate mean only
 uv run python cli/evaluate_crossref.py --full  # + a line per compared book
+uv run python cli/evaluate_crossref.py --all-models  # + every cached model's own score
 ```
 
 **Constraints, read before trusting a number this produces:**
@@ -110,6 +119,13 @@ uv run python cli/evaluate_crossref.py --full  # + a line per compared book
   `_strip_glued_page_prefix` and `evaluate_crossref.py`'s page-sorting
   before comparison) -- but the underlying Crossref data is
   publisher-submitted and not otherwise vetted by this repo.
+- **`--model`/`--all-models` scores a model's *raw* cache output, not
+  this repo's finished ground truth.** It's the same single-read
+  extraction this repo's own two-model gate (`matching.gate_books`) is
+  designed to catch errors in *before* they reach a ground-truth file --
+  so expect these numbers to run lower than the ground-truth-vs-Crossref
+  numbers above, and don't read a lower per-model score as Crossref
+  disagreeing with this project's own ground truth.
 
 ## Setup
 

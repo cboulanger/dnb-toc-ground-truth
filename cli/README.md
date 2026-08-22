@@ -67,13 +67,15 @@ options:
 
 ## `evaluate_crossref.py`
 
-Measures precision/recall/F1 between this corpus's ground truth and its
+Measures precision/recall/F1 between this corpus's ground truth (and,
+optionally, one or more llm-cache models' raw extractions) and its
 committed Crossref evaluation corpus, reusing `matching.diff_toc_entries`.
 See the "Crossref evaluation" section in the top-level `README.md` for
 the methodology and its constraints.
 
 ```
-usage: evaluate_crossref.py [-h] [--full] [--min-f1 MIN_F1]
+usage: evaluate_crossref.py [-h] [--full] [--min-f1 MIN_F1] [--model MODEL]
+                            [--all-models]
 
 Measures precision/recall/F1 between this corpus's own ground truth and its
 committed Crossref evaluation corpus
@@ -86,8 +88,16 @@ options:
   -h, --help       show this help message and exit
   --full           Print a per-book precision/recall/F1 line for every
                    compared book, not just the aggregate mean
-  --min-f1 MIN_F1  Exit 1 if the aggregate mean F1 falls below this (0-1).
-                   Unset: no gate enforced.
+  --min-f1 MIN_F1  Exit 1 if the aggregate mean ground-truth F1 falls below
+                   this (0-1). Unset: no gate enforced.
+  --model MODEL    Also score this model's cached llm-cache extraction against
+                   the crossref sample, alongside ground truth (repeatable).
+                   Model id as it appears in data/corpus/pilot/llm-cache/v2/
+                   filenames (e.g. 'Qwen/Qwen3-Omni-30B-A3B-Instruct' or its
+                   sanitized 'Qwen__Qwen3-Omni-30B-A3B-Instruct' form).
+  --all-models     Score every model with at least one llm-cache entry for a
+                   crossref-sample book, without naming them individually.
+                   Combines with --model.
 ```
 
 ## `fetch_corpus.py`
