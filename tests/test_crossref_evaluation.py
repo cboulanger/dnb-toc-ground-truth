@@ -5,21 +5,26 @@ evaluation corpus (data/corpus/pilot/evaluation/*.expected.json), reusing
 matching.diff_toc_entries unmodified. See design spec
 docs/superpowers/specs/2026-08-22-crossref-evaluation-corpus-design.md."""
 
+import asyncio
 import json
 import tempfile
 import unittest
 from pathlib import Path
-from unittest.mock import patch
+from unittest.mock import AsyncMock, MagicMock, patch
+
+from pypdf import PdfWriter
 
 from dnb_toc_ground_truth import corpus, vision
 from dnb_toc_ground_truth.crossref_evaluation import (
     BookMetrics,
+    backfill_model_cache,
     discover_cached_models,
     evaluate_book,
     evaluate_corpus,
     evaluate_model_corpus,
     _load_entries,
 )
+from dnb_toc_ground_truth.inference import ModelEndpoint
 from dnb_toc_ground_truth.toc_entry import TocEntry
 
 
@@ -39,6 +44,30 @@ def _write_evaluation_json(key: str, entries: list[dict]) -> None:
 
 def _write_llm_cache_entry(key: str, model: str, entries: list[TocEntry]) -> None:
     vision.write_cached_llm_entries(corpus.llm_cache_dir(), key, model, entries)
+
+
+def _make_pdf(path: Path) -> Path:
+    writer = PdfWriter()
+    writer.add_blank_page(width=200, height=200)
+    with open(path, "wb") as f:
+        writer.write(f)
+    return path
+
+
+def _fake_response(response_text: str):
+    message = MagicMock()
+    message.content = response_text
+    choice = MagicMock()
+    choice.message = message
+    response = MagicMock()
+    response.choices = [choice]
+    return response
+
+
+def _fake_client(response_text: str):
+    client = MagicMock()
+    client.chat.completions.create = AsyncMock(return_value=_fake_response(response_text))
+    return client
 
 
 class TestLoadEntries(unittest.TestCase):
@@ -298,6 +327,134 @@ class TestDiscoverCachedModels(unittest.TestCase):
             ])
             models = discover_cached_models()
             self.assertEqual(models, ["model__a", "model__b"])
+
+
+class TestBackfillModelCache(unittest.TestCase):
+    def test_backfills_a_missing_book_and_writes_its_cache_entry(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            manifest_path = corpus.manifest_path()
+            manifest_path.write_text(
+                json.dumps({"toc_only": True, "books": [{"filename": "9783899718188.pdf", "doi": "10.1/x"}]}),
+                encoding="utf-8",
+            )
+            corpus.pdf_dir().mkdir(parents=True, exist_ok=True)
+            _make_pdf(corpus.pdf_path("9783899718188"))
+            _write_evaluation_json("9783899718188", [
+                {"title": "Introduction", "authors": [], "printed_page_number": "1", "skip": False},
+            ])
+            client = _fake_client(
+                '[{"title": "1. Introduction", "authors": [], "printed_page_number": "1", "skip": false}]'
+            )
+            endpoint = ModelEndpoint(label="some/model", model_id="some/model", kind="vision", client=client)
+
+            succeeded, failed = asyncio.run(backfill_model_cache("some/model", endpoint, corpus.llm_cache_dir()))
+
+            self.assertEqual(succeeded, ["9783899718188"])
+            self.assertEqual(failed, [])
+            cached = vision.load_cached_llm_entries(corpus.llm_cache_dir(), "9783899718188", "some/model")
+            self.assertIsNotNone(cached)
+            self.assertEqual(cached[0].title, "1. Introduction")
+
+    def test_a_book_already_cached_is_not_re_extracted(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            manifest_path = corpus.manifest_path()
+            manifest_path.write_text(
+                json.dumps({"toc_only": True, "books": [{"filename": "9783899718188.pdf", "doi": "10.1/x"}]}),
+                encoding="utf-8",
+            )
+            _write_evaluation_json("9783899718188", [
+                {"title": "Introduction", "authors": [], "printed_page_number": "1", "skip": False},
+            ])
+            _write_llm_cache_entry("9783899718188", "some/model", [
+                TocEntry(title="Introduction", printed_page_number="1", source_page_index=-1, skip=False),
+            ])
+            client = _fake_client("[]")
+            endpoint = ModelEndpoint(label="some/model", model_id="some/model", kind="vision", client=client)
+
+            succeeded, failed = asyncio.run(backfill_model_cache("some/model", endpoint, corpus.llm_cache_dir()))
+
+            self.assertEqual(succeeded, [])
+            self.assertEqual(failed, [])
+            client.chat.completions.create.assert_not_called()
+
+    def test_a_missing_pdf_is_reported_as_failed_without_raising(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            manifest_path = corpus.manifest_path()
+            manifest_path.write_text(
+                json.dumps({"toc_only": True, "books": [{"filename": "9783899718188.pdf", "doi": "10.1/x"}]}),
+                encoding="utf-8",
+            )
+            _write_evaluation_json("9783899718188", [
+                {"title": "Introduction", "authors": [], "printed_page_number": "1", "skip": False},
+            ])
+            # No PDF written at corpus.pdf_path(...) -- must be reported, not crash.
+            client = _fake_client("[]")
+            endpoint = ModelEndpoint(label="some/model", model_id="some/model", kind="vision", client=client)
+
+            succeeded, failed = asyncio.run(backfill_model_cache("some/model", endpoint, corpus.llm_cache_dir()))
+
+            self.assertEqual(succeeded, [])
+            self.assertEqual(failed, ["9783899718188"])
+            client.chat.completions.create.assert_not_called()
+
+    def test_an_extraction_failure_is_reported_and_does_not_abort_remaining_books(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            manifest_path = corpus.manifest_path()
+            manifest_path.write_text(json.dumps({"toc_only": True, "books": [
+                {"filename": "9783899718188.pdf", "doi": "10.1/x"},
+                {"filename": "9781234567897.pdf", "doi": "10.1/y"},
+            ]}), encoding="utf-8")
+            corpus.pdf_dir().mkdir(parents=True, exist_ok=True)
+            _make_pdf(corpus.pdf_path("9783899718188"))
+            _make_pdf(corpus.pdf_path("9781234567897"))
+            _write_evaluation_json("9783899718188", [
+                {"title": "Introduction", "authors": [], "printed_page_number": "1", "skip": False},
+            ])
+            _write_evaluation_json("9781234567897", [
+                {"title": "Introduction", "authors": [], "printed_page_number": "1", "skip": False},
+            ])
+            client = MagicMock()
+            good_response = _fake_response(
+                '[{"title": "1. Introduction", "authors": [], "printed_page_number": "1", "skip": false}]'
+            )
+            client.chat.completions.create = AsyncMock(side_effect=[RuntimeError("boom"), good_response])
+            endpoint = ModelEndpoint(label="some/model", model_id="some/model", kind="vision", client=client)
+
+            succeeded, failed = asyncio.run(backfill_model_cache("some/model", endpoint, corpus.llm_cache_dir()))
+
+            self.assertEqual(len(succeeded), 1)
+            self.assertEqual(len(failed), 1)
+
+    def test_routes_through_nuextract_when_endpoint_declares_extraction_api(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            manifest_path = corpus.manifest_path()
+            manifest_path.write_text(
+                json.dumps({"toc_only": True, "books": [{"filename": "9783899718188.pdf", "doi": "10.1/x"}]}),
+                encoding="utf-8",
+            )
+            corpus.pdf_dir().mkdir(parents=True, exist_ok=True)
+            _make_pdf(corpus.pdf_path("9783899718188"))
+            _write_evaluation_json("9783899718188", [
+                {"title": "Introduction", "authors": [], "printed_page_number": "1", "skip": False},
+            ])
+            endpoint = ModelEndpoint(
+                label="numind/NuExtract3", model_id="numind/NuExtract3", kind="vision", client=MagicMock(),
+                extraction_api="nuextract", extraction_instructions=False,
+            )
+
+            with patch(
+                "dnb_toc_ground_truth.crossref_evaluation.nuextract_vision_extract_toc_entries",
+                new=AsyncMock(return_value=[
+                    TocEntry(title="1. Introduction", printed_page_number="1", source_page_index=-1),
+                ]),
+            ) as mock_nuextract:
+                succeeded, failed = asyncio.run(
+                    backfill_model_cache("numind/NuExtract3", endpoint, corpus.llm_cache_dir())
+                )
+
+            self.assertEqual(succeeded, ["9783899718188"])
+            mock_nuextract.assert_awaited_once()
+            self.assertFalse(mock_nuextract.call_args.kwargs["use_instructions"])
 
 
 if __name__ == "__main__":

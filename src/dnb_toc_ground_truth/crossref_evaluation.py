@@ -37,7 +37,10 @@ from dataclasses import dataclass
 from pathlib import Path
 
 from dnb_toc_ground_truth import corpus, crossref, matching, vision
+from dnb_toc_ground_truth.inference import ModelEndpoint
+from dnb_toc_ground_truth.nuextract import nuextract_vision_extract_toc_entries
 from dnb_toc_ground_truth.toc_entry import TocEntry, _parse_toc_page_number
+from dnb_toc_ground_truth.vision import vision_extract_toc_entries
 
 
 @dataclass(frozen=True)
@@ -137,6 +140,51 @@ def evaluate_model_corpus(model: str) -> tuple[list[BookMetrics], list[str]]:
         crossref_entries = _load_entries(eval_path)
         results.append(evaluate_book(key, tuple(model_entries), crossref_entries))
     return results, no_cache
+
+
+async def backfill_model_cache(
+    model: str, endpoint: ModelEndpoint, cache_directory: Path,
+) -> tuple[list[str], list[str]]:
+    """For every Crossref-evaluation-corpus book missing a llm-cache
+    entry for `model` (reuses evaluate_model_corpus's own no_cache list
+    -- the exact same book-selection logic scoring already trusts),
+    extracts once via `endpoint` and writes the cache entry. Returns
+    (succeeded_keys, failed_keys) -- a failure (missing PDF, network
+    error, unparseable response, empty result) is printed and skipped,
+    not retried; this is a manual one-off utility run, not
+    generate_ground_truth.py's unattended batch job. `model` and
+    `endpoint.model_id` are expected to match (the caller resolved
+    `endpoint` FOR this `model`); kept as two separate parameters rather
+    than reading `endpoint.model_id` directly so the cache is written
+    under exactly the model id the caller/CLI asked to backfill, not
+    whatever string the endpoints file happened to resolve it to."""
+    _, missing_keys = evaluate_model_corpus(model)
+    succeeded, failed = [], []
+    for key in missing_keys:
+        pdf_path = corpus.pdf_path(key)
+        if not pdf_path.exists():
+            print(f"[backfill] {key}: skipped, no PDF at {pdf_path}")
+            failed.append(key)
+            continue
+        try:
+            if endpoint.extraction_api == "nuextract":
+                entries = await nuextract_vision_extract_toc_entries(
+                    pdf_path, endpoint.model_id, endpoint.client,
+                    use_instructions=endpoint.extraction_instructions,
+                )
+            else:
+                entries = await vision_extract_toc_entries(pdf_path, endpoint.model_id, endpoint.client)
+        except Exception as exc:  # noqa: BLE001 -- one book's failure must not abort the whole backfill
+            print(f"[backfill] {key}: failed -- {type(exc).__name__}: {exc}")
+            failed.append(key)
+            continue
+        if entries:
+            vision.write_cached_llm_entries(cache_directory, key, model, entries, kind="vision")
+            succeeded.append(key)
+        else:
+            print(f"[backfill] {key}: extraction returned no entries, not cached")
+            failed.append(key)
+    return succeeded, failed
 
 
 def discover_cached_models() -> list[str]:
