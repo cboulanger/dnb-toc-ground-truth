@@ -42,6 +42,7 @@ from dnb_toc_ground_truth.inference import (
     load_config, load_endpoint_entries, resolve_model_endpoints,
 )
 from dnb_toc_ground_truth.matching import gate_books, toc_entry_to_gt_dict
+from dnb_toc_ground_truth.nuextract import nuextract_text_extract_toc_entries, nuextract_vision_extract_toc_entries
 from dnb_toc_ground_truth.ocr import text_extract_toc_entries
 from dnb_toc_ground_truth.toc_entry import TocEntry
 from dnb_toc_ground_truth.vision import (
@@ -221,6 +222,9 @@ async def _run_book(
             else:
                 async def _call(ep=endpoint):
                     async with semaphore:
+                        if ep.extraction_api == "nuextract":
+                            fn = nuextract_text_extract_toc_entries if ep.kind == "text" else nuextract_vision_extract_toc_entries
+                            return await fn(pdf_path, ep.model_id, ep.client, use_instructions=ep.extraction_instructions)
                         if ep.kind == "text":
                             return await text_extract_toc_entries(pdf_path, ep.model_id, ep.client)
                         return await vision_extract_toc_entries(pdf_path, ep.model_id, ep.client)

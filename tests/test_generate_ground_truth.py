@@ -227,8 +227,13 @@ def _fake_vision_client(response_text: str):
     return client
 
 
-def _endpoint(model_id: str, client, kind: str = "vision") -> ModelEndpoint:
-    return ModelEndpoint(label="test", model_id=model_id, kind=kind, client=client)
+def _endpoint(
+    model_id: str, client, kind: str = "vision", extraction_api: str = "", extraction_instructions: bool = True,
+) -> ModelEndpoint:
+    return ModelEndpoint(
+        label="test", model_id=model_id, kind=kind, client=client,
+        extraction_api=extraction_api, extraction_instructions=extraction_instructions,
+    )
 
 
 def _make_pdf(path: Path) -> Path:
@@ -498,6 +503,74 @@ class TestRunBook(unittest.IsolatedAsyncioTestCase):
             mock_text_extract.assert_awaited_once()
             self.assertEqual(load_cached_kind(cache_directory, "book12", "shared-model"), "text")
             self.assertEqual(load_cached_llm_entries(cache_directory, "book12", "shared-model")[0].title, "Einleitung")
+
+    async def test_extraction_api_nuextract_dispatches_to_nuextract_vision_function(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp) / "corpus"):
+            tmp_path = Path(tmp)
+            cache_directory = tmp_path / "cache"
+            pdf_path = _make_pdf(tmp_path / "book.pdf")
+            client = _fake_vision_client(_VISION_RESPONSE)
+            endpoints = [
+                _endpoint("model-a", client),
+                _endpoint("numind/NuExtract3", client, extraction_api="nuextract"),
+            ]
+            semaphore = asyncio.Semaphore(1)
+
+            with patch(
+                "generate_ground_truth.nuextract_vision_extract_toc_entries",
+                new=AsyncMock(return_value=[_entry("Einleitung", 9), _entry("Schluss", 40)]),
+            ) as mock_nuextract:
+                key, passed, reason = await _run_book(
+                    "book13", pdf_path, endpoints, semaphore, cache_directory, 0.90, sleep=AsyncMock(),
+                )
+
+            self.assertTrue(passed)
+            mock_nuextract.assert_awaited_once()
+            self.assertTrue(mock_nuextract.call_args.kwargs["use_instructions"])
+
+    async def test_extraction_api_nuextract_with_text_kind_dispatches_to_nuextract_text_function(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp) / "corpus"):
+            tmp_path = Path(tmp)
+            cache_directory = tmp_path / "cache"
+            pdf_path = _make_pdf(tmp_path / "book.pdf")
+            client = _fake_vision_client(_VISION_RESPONSE)
+            endpoints = [
+                _endpoint("model-a", client),
+                _endpoint(
+                    "acme/finetuned-nuextract2", client, kind="text",
+                    extraction_api="nuextract", extraction_instructions=False,
+                ),
+            ]
+            semaphore = asyncio.Semaphore(1)
+
+            with patch(
+                "generate_ground_truth.nuextract_text_extract_toc_entries",
+                new=AsyncMock(return_value=[_entry("Einleitung", 9), _entry("Schluss", 40)]),
+            ) as mock_nuextract_text:
+                key, passed, reason = await _run_book(
+                    "book14", pdf_path, endpoints, semaphore, cache_directory, 0.90, sleep=AsyncMock(),
+                )
+
+            self.assertTrue(passed)
+            mock_nuextract_text.assert_awaited_once()
+            self.assertFalse(mock_nuextract_text.call_args.kwargs["use_instructions"])
+
+    async def test_empty_extraction_api_still_dispatches_to_the_ordinary_vision_function(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp) / "corpus"):
+            tmp_path = Path(tmp)
+            cache_directory = tmp_path / "cache"
+            pdf_path = _make_pdf(tmp_path / "book.pdf")
+            client = _fake_vision_client(_VISION_RESPONSE)
+            endpoints = [_endpoint("model-a", client), _endpoint("model-b", client)]
+            semaphore = asyncio.Semaphore(1)
+
+            with patch("generate_ground_truth.nuextract_vision_extract_toc_entries") as mock_nuextract:
+                key, passed, reason = await _run_book(
+                    "book15", pdf_path, endpoints, semaphore, cache_directory, 0.90, sleep=AsyncMock(),
+                )
+
+            self.assertTrue(passed)
+            mock_nuextract.assert_not_called()
 
 
 class TestAcquireLock(unittest.TestCase):
