@@ -13,11 +13,13 @@ Usage:
 """
 
 import argparse
+import asyncio
 from pathlib import Path
 
 from dnb_toc_ground_truth import corpus, inference
 from dnb_toc_ground_truth.crossref_evaluation import (
     BookMetrics,
+    backfill_model_cache,
     discover_cached_models,
     evaluate_corpus,
     evaluate_model_corpus,
@@ -47,6 +49,24 @@ def _print_model_block(model: str, results: list[BookMetrics], no_cache: list[st
     print(f"{len(no_cache)} crossref-sample book(s) with no cache entry for this model.")
 
 
+def _run_backfill(args: argparse.Namespace, config: dict) -> None:
+    """Resolves each --model against --endpoints-file and backfills its
+    missing Crossref-evaluation-corpus llm-cache entries -- see design
+    spec docs/superpowers/specs/2026-08-22-evaluate-crossref-backfill-
+    design.md. Raises SystemExit if --backfill was given with no --model
+    at all, and lets resolve_model_endpoints' own ValueError (naming the
+    unmatched model id) propagate uncaught -- same fail-loud-and-early
+    convention as generate_ground_truth.py's own endpoint resolution."""
+    if not args.model:
+        raise SystemExit("--backfill requires at least one --model")
+    endpoints_file = Path(args.endpoints_file or config.get("endpoints_file", inference.DEFAULT_ENDPOINTS_FILENAME))
+    entries = inference.load_endpoint_entries(endpoints_file)
+    for model in args.model:
+        endpoint = inference.resolve_model_endpoints([model], "vision", entries)[0]
+        succeeded, failed = asyncio.run(backfill_model_cache(model, endpoint, corpus.llm_cache_dir()))
+        print(f"[backfill] {model}: {len(succeeded)} written, {len(failed)} failed")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     parser.add_argument(
@@ -69,6 +89,16 @@ def main() -> int:
              "them individually. Combines with --model.",
     )
     parser.add_argument(
+        "--backfill", action="store_true",
+        help="Before scoring, extract and cache any --model book missing a llm-cache entry, "
+             "resolved against --endpoints-file (vision-input models only)",
+    )
+    parser.add_argument(
+        "--endpoints-file", type=Path, default=None,
+        help=f"Path to the endpoints file, only used with --backfill (default: "
+             f"{inference.DEFAULT_ENDPOINTS_FILENAME}, or config file's \"endpoints_file\")",
+    )
+    parser.add_argument(
         "--corpus", default=None,
         help=f"Corpus to operate on (default: config file's \"corpus\", or {corpus.DEFAULT_CORPUS_NAME!r})",
     )
@@ -80,6 +110,9 @@ def main() -> int:
 
     config = inference.load_config(args.config_file)
     corpus.set_corpus(args.corpus or config.get("corpus") or corpus.DEFAULT_CORPUS_NAME)
+
+    if args.backfill:
+        _run_backfill(args, config)
 
     results, no_coverage = evaluate_corpus()
     if args.full:
