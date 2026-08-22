@@ -1,0 +1,58 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "„Schnee vom vergangenen Jahrhundert?“ Zur Aktualität der Reformpädagogik heute",
+      "authors": [
+        "Waltraud Harth-Peter"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Was ist alternativ an den alternativen Schulen?",
+      "authors": [
+        "Michael Winkler"
+      ],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "Zur Kritik des pädagogischen Aktivismus: Eugène Dévaud",
+      "authors": [
+        "Gabriele Weigand"
+      ],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "Über das „Praktische“ am Praktischen Lernen",
+      "authors": [
+        "Winfried Böhm"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Reformpädagogik in der Tschechoslowakei",
+      "authors": [
+        "Karel Rydl"
+      ],
+      "printed_page_number": "83",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

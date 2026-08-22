@@ -1,0 +1,321 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Der Pfälzerwald im geographischen Überblick",
+      "authors": [
+        "Michael Geiger"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Vor- und Frühgeschichte, Römerzeit, Völkerwanderung",
+      "authors": [
+        "Otto Roller"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "Der Pfälzerwald als historisch-politischer Raum",
+      "authors": [
+        "Jürgen Keddigkeit"
+      ],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "Der Pfälzerwald als militärischer Raum",
+      "authors": [
+        "Hans-Jürgen Wünschel"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "Der Wald",
+      "authors": [
+        "Edmund Mainberger"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "Naturwaldzellen, Urwald der Zukunft",
+      "authors": [
+        "Norbert Hailer"
+      ],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "Der Pfälzerwald, Lebensraum für Pflanzen und Tiere",
+      "authors": [
+        "Günter Preuß"
+      ],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "Die Jagd",
+      "authors": [
+        "Helmut Ehrgott"
+      ],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "Naturschutz und Landschaftspflege",
+      "authors": [
+        "Günter Preuß"
+      ],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "Die Landwirtschaft in Vergangenheit und Gegenwart",
+      "authors": [
+        "Rainer-Joha Bender"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "Die Holzwirtschaft",
+      "authors": [
+        "Klaus Janson"
+      ],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "Die Schuhindustrie",
+      "authors": [
+        "Hanni Mädrich"
+      ],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "Erholungsraum Pfälzerwald",
+      "authors": [
+        "Ingo Eberle"
+      ],
+      "printed_page_number": "215",
+      "skip": false
+    },
+    {
+      "title": "Eisengewinnung und Eisenverarbeitung in früherer Zeit",
+      "authors": [
+        "Ulrike Kaiser-Cloer"
+      ],
+      "printed_page_number": "229",
+      "skip": false
+    },
+    {
+      "title": "Von alten Berufen im Pfälzerwald",
+      "authors": [
+        "Roland Paul"
+      ],
+      "printed_page_number": "239",
+      "skip": false
+    },
+    {
+      "title": "Das Grundwasser und seine Nutzung",
+      "authors": [
+        "Hubert Heitele",
+        "Dietmar Kotke",
+        "Hermann Fischer"
+      ],
+      "printed_page_number": "253",
+      "skip": false
+    },
+    {
+      "title": "Der Pfälzerwald als Planungsraum",
+      "authors": [
+        "Helmut Beeger",
+        "Hellmut Wenner"
+      ],
+      "printed_page_number": "263",
+      "skip": false
+    },
+    {
+      "title": "Der Pfälzerwald in der Literatur",
+      "authors": [
+        "Wolfgang Diehl"
+      ],
+      "printed_page_number": "273",
+      "skip": false
+    },
+    {
+      "title": "Der Pfälzerwald in der bildenden Kunst",
+      "authors": [
+        "Wolfgang Diehl"
+      ],
+      "printed_page_number": "289",
+      "skip": false
+    },
+    {
+      "title": "Bedeutende Bau- und Kunstdenkmäler im Pfälzerwald",
+      "authors": [
+        "Wilhelm Weber"
+      ],
+      "printed_page_number": "309",
+      "skip": false
+    },
+    {
+      "title": "„Sagenhafter“ Pfälzerwald",
+      "authors": [
+        "Viktor Carl",
+        "Dagmar Herr",
+        "Richard Stöbener"
+      ],
+      "printed_page_number": "337",
+      "skip": false
+    },
+    {
+      "title": "Wandern und Hüttenleben",
+      "authors": [
+        "Walter Eitelmann",
+        "Armin Hott"
+      ],
+      "printed_page_number": "355",
+      "skip": false
+    },
+    {
+      "title": "Der Pfälzerwald als Naturpark",
+      "authors": [
+        "Werner Friedrich Dexheimer"
+      ],
+      "printed_page_number": "369",
+      "skip": false
+    },
+    {
+      "title": "Städte am Rande des Pfälzerwaldes",
+      "authors": [],
+      "printed_page_number": "377",
+      "skip": true
+    },
+    {
+      "title": "Bad Bergzabern",
+      "authors": [
+        "Theo Schwarzmüller"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Bad Dürkheim",
+      "authors": [
+        "Eva Klag-Ritz"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Deidesheim",
+      "authors": [
+        "Inga Maria Säftel"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Edenkoben",
+      "authors": [
+        "Franz Schmidt"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Eisenberg",
+      "authors": [
+        "Hans-Josef Dormann"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Kaiserslautern",
+      "authors": [
+        "Karl Scherer"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Landau",
+      "authors": [
+        "Wolfgang Diehl"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Landstuhl",
+      "authors": [
+        "Günther Walther"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Neustadt/a. d. W.",
+      "authors": [
+        "Günter Werner"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Pirmasens",
+      "authors": [
+        "Doris Rheindorf"
+      ],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Orte im Pfälzerwald",
+      "authors": [
+        "Jürgen Keddigkeit",
+        "Günter Preuß",
+        "Karl-Heinz Rothenberger",
+        "Berthold Schnabel"
+      ],
+      "printed_page_number": "421",
+      "skip": false
+    },
+    {
+      "title": "Wanderhilfen und Hüttenverzeichnis",
+      "authors": [
+        "Werner Friedrich Dexheimer",
+        "Walter Eitelmann",
+        "Michael Geiger"
+      ],
+      "printed_page_number": "469",
+      "skip": false
+    },
+    {
+      "title": "Verzeichnis der Autoren, Bildnachweis, Ortsregister",
+      "authors": [],
+      "printed_page_number": "474 – 479",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

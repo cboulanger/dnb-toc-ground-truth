@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Алина Барилко (Грац). НОВООБРАЗОВАНИЯ В СОВРЕМЕННОЙ ИНТЕРНЕТ-ПОЭЗИИ (НА МАТЕРИАЛЕ СТИШКОВ-ПИРОЖКОВ) [Neologismen in der modernen Internet-Poesie (anhand von Gedichten aus dem Genre der „Pirožki“)]",
+      "authors": [
+        "Алина Барилко"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Daniel Dugina (Graz). HRVATSKI PURIZAM I TVORBA RIJEČI U RALJAMA INTERNETA [Der kroatische Purismus und Wortbildung in den „Schlünden“ des Internets]",
+      "authors": [
+        "Daniel Dugina"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Dragana Đurić (Kapfenberg). TVORBENI PROCESI NA FORUMU KRSTARICA.COM [Wortbildungsprozesse im Forum KRSTARICA.COM]",
+      "authors": [
+        "Dragana Đurić"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "Mateja Grabovac (Graz). WORTBILDUNG IM FORUM TEEN385.COM",
+      "authors": [
+        "Mateja Grabovac"
+      ],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Denis Imširović (Graz). FUSSBALL UND SPRACHE DER KINDER UND JUGENDLICHEN IM INTERNET",
+      "authors": [
+        "Denis Imširović"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Sandra Janežić (Graz). TVORBENI PROCESI NA FORU- MIMA ŽENA [Wortbildungsprozesse in Foren für Frauen]",
+      "authors": [
+        "Sandra Janežić"
+      ],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "Mila Jonjić (Graz). WORTBILDUNG IM INTERNET. EINE ANALYSE NEUER LEXEME IN KROATISCHEN, BOSNISCHEN UND SERBISCHEN FOREN",
+      "authors": [
+        "Mila Jonjić"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Виктория Матлахова (Грац). ИНТЕРНЕТ-НЕОЛОГИЗМЫ В СОВРЕМЕННОМ РУССКОМ ЯЗЫКЕ [Internet-Neologismen in der russischen Gegenwartssprache]",
+      "authors": [
+        "Виктория Матлахова"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "Tijana Milenković (Graz). NAJFREKVENTNIJE SKRAĆENICE U INTERNET KOMUNIKACIJI NA SRPSKOM JEZIKU [Die häufigsten Abkürzungen in der Internet-Kommunikation in serbischer Sprache]",
+      "authors": [
+        "Tijana Milenković"
+      ],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "Šeherzada Mujadžić (Graz). TVORBA RIJEČI NA INTER- NETU. TVORBENI PILOLOG [Wortbildung im Internet. Der Wortbildungs-Polylog]",
+      "authors": [
+        "Šeherzada Mujadžić"
+      ],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "Martina Vollmann (Graz). DER WIRTSCHAFTLICHE DIALOG ÖSTERREICHS MIT RUSSLAND IN ONLINE-MEDIEN",
+      "authors": [
+        "Martina Vollmann"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

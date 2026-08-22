@@ -1,0 +1,181 @@
+{
+  "entries": [
+    {
+      "title": "List of figures",
+      "authors": [],
+      "printed_page_number": "vii",
+      "skip": true
+    },
+    {
+      "title": "List of tables",
+      "authors": [],
+      "printed_page_number": "ix",
+      "skip": true
+    },
+    {
+      "title": "List of contributors",
+      "authors": [],
+      "printed_page_number": "xiii",
+      "skip": true
+    },
+    {
+      "title": "Transcription conventions",
+      "authors": [],
+      "printed_page_number": "xv",
+      "skip": true
+    },
+    {
+      "title": "Part I Introduction",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": true
+    },
+    {
+      "title": "1 Comparative perspectives in conversation analysis",
+      "authors": [
+        "JACK SIDNELL"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Part II Repair and beyond",
+      "authors": [],
+      "printed_page_number": "29",
+      "skip": true
+    },
+    {
+      "title": "2 Repetition in the initiation of repair",
+      "authors": [
+        "RUEY-JIUAN REGINA WU"
+      ],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "3 A cross-linguistic investigation of the site of initiation in same-turn self-repair",
+      "authors": [
+        "BARBARA FOX",
+        "FAY WOUK",
+        "MAKOTO HAYASHI",
+        "STEVEN FINCKE",
+        "LIANG TAO",
+        "MARJA-LEENA SORJONEN",
+        "MINNA LAAKSO",
+        "WILFRIDO FLORES HERNANDEZ"
+      ],
+      "printed_page_number": "60",
+      "skip": false
+    },
+    {
+      "title": "4 Repairing reference",
+      "authors": [
+        "MARIA EGBERT",
+        "ANDREA GOLATO",
+        "JEFFREY D. ROBINSON"
+      ],
+      "printed_page_number": "104",
+      "skip": false
+    },
+    {
+      "title": "Part III Aspects of response",
+      "authors": [],
+      "printed_page_number": "133",
+      "skip": true
+    },
+    {
+      "title": "5 Projecting nonalignment in conversation",
+      "authors": [
+        "ANNA LINDSTRÖM"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "6 Two answers to inapposite inquiries",
+      "authors": [
+        "TRINE HEINEMANN"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "7 Gaze, questioning, and culture",
+      "authors": [
+        "FEDERICO ROSSANO",
+        "PENELOPE BROWN",
+        "STEPHEN C. LEVINSON"
+      ],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "8 Negotiating boundaries in talk",
+      "authors": [
+        "MAKOTO HAYASHI",
+        "KYUNG-EUN YOON"
+      ],
+      "printed_page_number": "250",
+      "skip": false
+    },
+    {
+      "title": "Part IV Action formation and sequencing",
+      "authors": [],
+      "printed_page_number": "279",
+      "skip": true
+    },
+    {
+      "title": "9 Alternative responses to assessments",
+      "authors": [
+        "MARJA-LEENA SORJONEN",
+        "AULI HAKULINEN"
+      ],
+      "printed_page_number": "281",
+      "skip": false
+    },
+    {
+      "title": "10 Language-specific resources in repair and assessments",
+      "authors": [
+        "JACK SIDNELL"
+      ],
+      "printed_page_number": "304",
+      "skip": false
+    },
+    {
+      "title": "11 Implementing delayed actions",
+      "authors": [
+        "GALINA B. BOLDEN"
+      ],
+      "printed_page_number": "326",
+      "skip": false
+    },
+    {
+      "title": "Part V Conclusion",
+      "authors": [],
+      "printed_page_number": "355",
+      "skip": true
+    },
+    {
+      "title": "12 One perspective on Conversation Analysis: Comparative Perspectives",
+      "authors": [
+        "EMANUEL A. SCHEGLOFF"
+      ],
+      "printed_page_number": "357",
+      "skip": false
+    },
+    {
+      "title": "Bibliography",
+      "authors": [],
+      "printed_page_number": "407",
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "436",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

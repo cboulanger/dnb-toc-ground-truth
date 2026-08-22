@@ -1,0 +1,347 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis / Contents / Table des Matières",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort / Preface / Avant-propos",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "A. Konzepte und Orientierungen/ Concepts and orientations/Concepts et orientations",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "ERIC CASTAGNE",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Systémiques, hiérarchisations et autonomisations: vers une dynamique évolutive et adaptive",
+      "authors": [
+        "Eric Castagne"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "PAOLO E. BALBONI",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Esiste un'attitudine all'intercomunicazione?",
+      "authors": [
+        "Paolo E. Balboni"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "FRANK G. KÖNIGS",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Müssen wir unsere Normvorstellungen ändern? Überlegungen zum Verhältnis von Mehrsprachigkeitsdidaktik und Normen für den Fremdsprachenunterricht",
+      "authors": [
+        "Frank G. Königs"
+      ],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "MICHAEL BYRAM",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Intercomprehension, intercultural competence and foreign language teaching",
+      "authors": [
+        "Michael Byram"
+      ],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "MIGUEL ANGEL BELVER",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "La intercomprensión como enfoque metodológico en la enseñanza de lenguas",
+      "authors": [
+        "Miguel Angel Belver"
+      ],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "B. Projekte und Anwendungsfelder der Interkomprehension/ Projects and fields of application/Projets et champs d'applications",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "PIERRE ESCUDE",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "L'intercompréhension et ses compétences – euro-mania: une première lecture de l'emploi de la méthode d'apprentissage en intercompréhension",
+      "authors": [
+        "Pierre Escude"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "LEW N. ZYB ATOW",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "EuroComTranslat – der Weg zur Mehrsprachigkeit in der Übersetzerausbildung: Kognitiv-konstruktivistische Grundlagen",
+      "authors": [
+        "Lew N. Zyb Atow"
+      ],
+      "printed_page_number": "74",
+      "skip": false
+    },
+    {
+      "title": "TODOR K. SHOPOV",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Pursuit of Intercomprehension in Three R&D Projects",
+      "authors": [
+        "Todor K. Shopov"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "CHRISTINA REISSNER",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Intercomprehensives Mehrsprachentraining für Angestellte des Frankfurter Flughafens – eine Erfahrungsskizze",
+      "authors": [
+        "Christina Reissner"
+      ],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "URSULA BEHR",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Zur Typologie von Übungen zum sprachenübergreifenden Lernen in der Sekundarstufe I",
+      "authors": [
+        "Ursula Behr"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "ENCARNACIÓN CARRASCO PEREA",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Los planteamientos intercomprensivos en la enseñanza reglada o la importancia de introducirlos desde la primaria: aportaciones, retos y requisitos",
+      "authors": [
+        "Encarnación Carrasco Perea"
+      ],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "C. Intercomprehensives Lernen als Weg zur Autonomie/ Intercomprehension as a way to autonomy/ Intercomprehension comme stratégie d'autonomisation de l'apprenant",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "PETER DOYÉ",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Intercomprehensives Lernen als ein Weg zur Selbstständigkeit",
+      "authors": [
+        "Peter Doyé"
+      ],
+      "printed_page_number": "128",
+      "skip": false
+    },
+    {
+      "title": "HÉLÈNE MARTINEZ",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Plurilingüismo, intercomprehensión y autonomización: el aporte de las lenguas al desarrollo de la autonomía",
+      "authors": [
+        "Hélène Martinez"
+      ],
+      "printed_page_number": "146",
+      "skip": false
+    },
+    {
+      "title": "MARIA GIOVANNA TASSINARI",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Autonomia d'apprendimento: esperienze d'autovalutazione",
+      "authors": [
+        "Maria Giovanna Tassinari"
+      ],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "ANA ISABEL ANDRADE, ANA SOFIA PINHO, LEONOR SANTOS",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Trajetórias em torno da intercompreensão: possibilidades de formação para autonomia",
+      "authors": [
+        "Ana Isabel Andrade",
+        "Ana Sofia Pinho",
+        "Leonor Santos"
+      ],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "D. Empirische Untersuchungen zur Intercomprehension/ Empirical investigations into Intercomprehension/ L'intercompréhension à la lumière de recherches empiriques",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "FRANZ-JOSEPH MEIßNER",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Intercomprehension empirisch geprüft: Kompetenzprofile, Mehrsprachenerlebnis, Lernerautonomisierung",
+      "authors": [
+        "Franz-joseph MEIßNER"
+      ],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "NICOLE MARX",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "eag and Multilingualism Pedagogy. An Empirical Study of Students' Learning Processes on the Internet Platform English after German",
+      "authors": [
+        "Nicole Marx"
+      ],
+      "printed_page_number": "225",
+      "skip": false
+    },
+    {
+      "title": "STEFFI MORKÖTTER",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Intercomprehension in der Jahrgangsstufe 7 – erste Erfahrungen mit Zwischen-Sprachen-Lernen",
+      "authors": [
+        "Steffi Morkötter"
+      ],
+      "printed_page_number": "237",
+      "skip": false
+    },
+    {
+      "title": "ANA MARÍA CARULLO, SILVANA MARCHIARO, ANA CECILIA PÉREZ",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Estrategias cognitivas y metacognitivas en hispanohablantes debutantes en lectura intercomprensiva en lenguas romances",
+      "authors": [
+        "Ana María Carullo",
+        "Silvana Marchiaro",
+        "Ana Cecilia Pérez"
+      ],
+      "printed_page_number": "250",
+      "skip": false
+    },
+    {
+      "title": "SILVIA MÉLO-PFEIFER, MARIA HELENA DE ARAUJO E SA",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "La construction de l'intercompréhension dans l'interaction: images des langues et conscience plurilingue dans des clavardages romanophones",
+      "authors": [
+        "Silvia Mélo-pfeifer",
+        "Maria Helena De Araujo E Sa"
+      ],
+      "printed_page_number": "267",
+      "skip": false
+    },
+    {
+      "title": "MARCUS BÄR",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Motivation durch Intercomprehensionsunterricht – empirisch geprüft",
+      "authors": [
+        "Marcus Bär"
+      ],
+      "printed_page_number": "281",
+      "skip": false
+    },
+    {
+      "title": "PERSONEN / CONTRIBUTORS / AUTEURS",
+      "authors": [],
+      "printed_page_number": "291",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

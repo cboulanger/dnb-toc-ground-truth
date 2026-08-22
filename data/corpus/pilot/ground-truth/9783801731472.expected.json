@@ -1,0 +1,141 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Kapitel 1 Inklusionsherausforderungen in Kindertageseinrichtungen und Schule: Eine Einführung",
+      "authors": [
+        "Marcus Hasselhorn",
+        "Claudia Mähler"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 2 Inklusion aus sonderpädagogischer Perspektive",
+      "authors": [
+        "Clemens Hillenbrand",
+        "Gino Casale"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 3 Multiprofessionelle Kooperation an inklusiven Schulen: Erkenntnisse zur Motivation von Lehrkräften",
+      "authors": [
+        "Julia Gorges",
+        "Janka Goldan",
+        "Phillip Neumann",
+        "Birgit Lütje-Klose"
+      ],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 4 Einstellung von Lehrenden als Gelingensbedingung für schulische Inklusion? Probleme und Potenziale eines komplexen Konstruktes",
+      "authors": [
+        "Werner Greve"
+      ],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 5 Entwicklung des Leseverständnisses bei Kindern mit Deutsch als Zweitsprache",
+      "authors": [
+        "Ariane von Goldammer",
+        "Friederike Cartschau",
+        "Luise Landgraf",
+        "Claudia Mähler"
+      ],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 6 Grundlagen der Diagnostik im inklusiven Kontext",
+      "authors": [
+        "Anne Fischbach",
+        "Claudia Mähler",
+        "Marcus Hasselhorn"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 7 Dynamisches Testen: Diagnostik als Möglichkeit der Modellierung von Kompetenzentwicklung",
+      "authors": [
+        "Moritz Börnert-Ringleb",
+        "Jürgen Wilbert"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 8 Diagnostik bei Lernschwierigkeiten",
+      "authors": [
+        "Claudia Mähler",
+        "Kirsten Schuchardt"
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 9 Entwicklung eines Elternfragebogens zu Qualitätsmerkmalen der Eltern-Schule-Kooperation an inklusiven Ganztagsschulen (EQESK)",
+      "authors": [
+        "Sandra Grüter",
+        "Ziwen Teuber",
+        "Elke Wild"
+      ],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 10 Sprachlich-kognitive Förderung von Kindern in inklusiven Kindertageseinrichtungen",
+      "authors": [
+        "Katja Mackowiak",
+        "Christine Beckerle"
+      ],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 11 Response-to-Intervention (RTI) und schulische Inklusion - Grundlegender Widerspruch oder zwei Seiten einer Medaille?",
+      "authors": [
+        "Michael Grosche",
+        "Gino Casale"
+      ],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 12 Inklusion von Kindern mit Autismus-Spektrum-Störung",
+      "authors": [
+        "Kathrin Berdelmann",
+        "Florian Schmiedek",
+        "Marcus Hasselhorn"
+      ],
+      "printed_page_number": "185",
+      "skip": false
+    },
+    {
+      "title": "Kapitel 13 Psychoedukation in der Schule zur Begleitung und Unterstützung von Kindern mit Lernschwierigkeiten",
+      "authors": [
+        "Kirsten Schuchardt",
+        "Conny Griepenburg"
+      ],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "Verzeichnis der Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "220",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

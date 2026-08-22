@@ -1,0 +1,244 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "1 Gesellschaftliche Aspekte",
+      "authors": [],
+      "printed_page_number": "13",
+      "skip": true
+    },
+    {
+      "title": "Kindheiten heute",
+      "authors": [
+        "Anke König"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "Zur Geschichte der außerfamiliären Betreuung von Kindern unter drei Jahren in Kindertageseinrichtungen",
+      "authors": [
+        "Iris Nentwig-Gesemann"
+      ],
+      "printed_page_number": "24",
+      "skip": false
+    },
+    {
+      "title": "Ausbau der Krippenbetreuung – politische, wirtschaftliche und rechtliche Rahmenbedingungen",
+      "authors": [
+        "Waldtraud Weegmann"
+      ],
+      "printed_page_number": "36",
+      "skip": false
+    },
+    {
+      "title": "Die Bedeutung der Krippenbetreuung für Gesellschaft, Familie und Kinder",
+      "authors": [
+        "Stefan Sell"
+      ],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "2 Frühkindliche Bildung und Entwicklung",
+      "authors": [],
+      "printed_page_number": "65",
+      "skip": true
+    },
+    {
+      "title": "Wie lernen Kinder? Gehirn- und Denkentwicklung",
+      "authors": [
+        "Manfred Spitzer"
+      ],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "Entwicklungspsychologische Grundlagen für die Krippenerziehung",
+      "authors": [
+        "Sabina Pauen & Janna Pahnke"
+      ],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "Entwicklungspsychologische Grundlagen II: Das Kleinstkind",
+      "authors": [
+        "Hellgard Rauh"
+      ],
+      "printed_page_number": "92",
+      "skip": false
+    },
+    {
+      "title": "Die Bedeutung der Bindungstheorie in der Frühpädagogik",
+      "authors": [
+        "Rüdiger Posth"
+      ],
+      "printed_page_number": "100",
+      "skip": false
+    },
+    {
+      "title": "Frühkindliches Selbstempfinden",
+      "authors": [
+        "Marjan Alemzadeh"
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "Theorien und Konzepte der Entwicklungspsychologie",
+      "authors": [
+        "Hellgard Rauh"
+      ],
+      "printed_page_number": "124",
+      "skip": false
+    },
+    {
+      "title": "3 Die Jüngsten in der Kita – Grundpfeiler der Pädagogik",
+      "authors": [],
+      "printed_page_number": "145",
+      "skip": true
+    },
+    {
+      "title": "Ziele in der Krippenpädagogik: Bildungsziele der deutschen Frühpädagogik in der Diskussion",
+      "authors": [
+        "Gabriele Haug-Schnabel & Joachim Bensel"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "Bildung in den ersten Lebensjahren – Wie kleine Kinder denken lernen",
+      "authors": [
+        "Gerd Schäfer"
+      ],
+      "printed_page_number": "164",
+      "skip": false
+    },
+    {
+      "title": "Bewegung von Anfang an!",
+      "authors": [
+        "Julia Schmidt"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Sprache als Tor zur Welt",
+      "authors": [
+        "Karin Jampert & Andrea Sens"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "Krippenkinder in Interaktion mit anderen Kindern – Lernen und Spielen in altersgemischten Gruppen",
+      "authors": [
+        "Dagmar Kasüschke"
+      ],
+      "printed_page_number": "208",
+      "skip": false
+    },
+    {
+      "title": "Ausdrucksformen von Krippenkindern",
+      "authors": [
+        "Ursula Stenger & Angela Franzen"
+      ],
+      "printed_page_number": "220",
+      "skip": false
+    },
+    {
+      "title": "4 Die Jüngsten in der Kita – Themen der pädagogischen Praxis",
+      "authors": [],
+      "printed_page_number": "237",
+      "skip": true
+    },
+    {
+      "title": "Eingewöhnung",
+      "authors": [
+        "Éva Hédervári-Heller"
+      ],
+      "printed_page_number": "237",
+      "skip": false
+    },
+    {
+      "title": "Die Welt der Dinge: Anregende Materialien für Säuglinge, Krabbel- und Kleinkinder",
+      "authors": [
+        "Kornelia Schneider & Wiebke Wüstenberg"
+      ],
+      "printed_page_number": "251",
+      "skip": false
+    },
+    {
+      "title": "Bildungsdokumentation in Krippen",
+      "authors": [
+        "Klaus Fröhlich-Gildhoff & Sibylle Fischer"
+      ],
+      "printed_page_number": "266",
+      "skip": false
+    },
+    {
+      "title": "Erziehungspartnerschaft in Kindertageseinrichtungen",
+      "authors": [
+        "Jorina Senger"
+      ],
+      "printed_page_number": "281",
+      "skip": false
+    },
+    {
+      "title": "Individuen – Interessen – Interaktion: Impulse als Entwicklungsanreize im Bildungs- und Erziehungsverständnis der element-i-Konzeption für Kinderhäuser",
+      "authors": [
+        "Carola Kammerlander"
+      ],
+      "printed_page_number": "292",
+      "skip": false
+    },
+    {
+      "title": "5 Qualität sichern",
+      "authors": [],
+      "printed_page_number": "311",
+      "skip": true
+    },
+    {
+      "title": "Gut ausgebildet für die Jüngsten? Die Ausbildung von pädagogischen Fachkräften für die Arbeit mit Kindern von null bis drei Jahren",
+      "authors": [
+        "Henriette Harms & Stefanie Schwarz"
+      ],
+      "printed_page_number": "311",
+      "skip": false
+    },
+    {
+      "title": "Qualitätsentwicklung im Bildungsbereich",
+      "authors": [
+        "Jutta Hinke-Ruhnau"
+      ],
+      "printed_page_number": "323",
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "authors": [],
+      "printed_page_number": "336",
+      "skip": true
+    },
+    {
+      "title": "Register",
+      "authors": [],
+      "printed_page_number": "338",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

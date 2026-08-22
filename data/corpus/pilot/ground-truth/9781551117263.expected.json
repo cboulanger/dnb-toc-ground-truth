@@ -1,0 +1,232 @@
+{
+  "entries": [
+    {
+      "title": "Contents",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgements",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Foreword, \"Going to Canada\"",
+      "authors": [
+        "Kristina Fagan"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "\"Code-Switching Humour in Aboriginal Literature\"",
+      "authors": [
+        "Sky Dancer Louise Bernice Halfe"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "\"Tawinikewin\"",
+      "authors": [
+        "Tomson Highway"
+      ],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "\"The Time Tomson Highway Went to Mameek and Survived to Tell the Tale\"",
+      "authors": [
+        "Tomson Highway"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "\"The Book that Affected Me the Most\"",
+      "authors": [
+        "Tomson Highway"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "\"A Relevant Resonance: Considering the Study of Indigenous National Literatures\"",
+      "authors": [
+        "Daniel Heath Justice"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "\"Toward a National Literature: 'A Body of Writing'\"",
+      "authors": [
+        "Lee Maracle"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "\"Negotiating a Different Terrain: Geographical and Educational Cross-Border Difficulties\"",
+      "authors": [
+        "Lorraine Mayer"
+      ],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "\"Cree Poetic Discourse\"",
+      "authors": [
+        "Neal McLeod"
+      ],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "\"Wachea\"",
+      "authors": [
+        "Duncan Mercredi"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "\"Writing and Life\"",
+      "authors": [
+        "Duncan Mercredi"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "\"My Grandfather's Face\" (a radio play)",
+      "authors": [
+        "Daniel David Moses"
+      ],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "\"April, Cheryl, and Me\"",
+      "authors": [
+        "Beatrice Mosionier"
+      ],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "\"Memory, History, and the Present\"",
+      "authors": [
+        "Simon Ortiz"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "\"Writing Autobiographically: A Neglected Indigenous Intellectual Tradition\"",
+      "authors": [
+        "Deanna Reder"
+      ],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "\"Where the Voice Was Coming From\"",
+      "authors": [
+        "Armand Garnet Ruffo"
+      ],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "\"The Native American Theory Class Room\"",
+      "authors": [
+        "Craig Womack"
+      ],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "\"From Orion to the Postindian: Vizenor's Movement Towards Postmodern Theory\"",
+      "authors": [
+        "Michael Snyder"
+      ],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "\"Louis Owens's Intervention in the World of the Novice Reader: Methodology and Native American Literary Criticism\"",
+      "authors": [
+        "Steven Sexton"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "\"Tending to Ourselves: Hybridity and Native Literary Criticism\"",
+      "authors": [
+        "Niigonwedom James Sinclair"
+      ],
+      "printed_page_number": "239",
+      "skip": false
+    },
+    {
+      "title": "Interviews",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "\"A Conversation between Jeannette Armstrong and Hartmut Lutz\"",
+      "authors": [
+        "Jeannette Armstrong",
+        "Hartmut Lutz"
+      ],
+      "printed_page_number": "261",
+      "skip": false
+    },
+    {
+      "title": "\"Talking Across Borders: An Interview with Greg Sarris\"",
+      "authors": [
+        "Greg Sarris",
+        "Kelly Burns"
+      ],
+      "printed_page_number": "279",
+      "skip": false
+    },
+    {
+      "title": "\"Sitting Down to Ceremony: An Interview with Gregory Scofield\"",
+      "authors": [
+        "Gregory Scofield",
+        "Tanis MacDonald"
+      ],
+      "printed_page_number": "289",
+      "skip": false
+    },
+    {
+      "title": "\"Living in a Time for Celebration: An Interview with Richard Van Camp\"",
+      "authors": [
+        "Richard Van Camp",
+        "Junko Muro"
+      ],
+      "printed_page_number": "297",
+      "skip": false
+    },
+    {
+      "title": "Contributors",
+      "authors": [],
+      "printed_page_number": "313",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

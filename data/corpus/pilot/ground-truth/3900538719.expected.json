@@ -1,0 +1,130 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Vermündlichte Schriftlichkeit, Text und Gebärden im ‚Nibelungenlied‘: Ein Ausblick auf schwindende Greifbarkeiten",
+      "authors": [
+        "Franz H. Bäuml"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Klage über Kriemhild. Intertextualität, literarische Erinnerungsarbeit und die Konstruktion von Weiblichkeit in der mittelhochdeutschen Heldenepik",
+      "authors": [
+        "Ingrid Bennewitz"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "Die romantische Reanimation der Nibelungen",
+      "authors": [
+        "Ralph Breyer"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "Hat das ‚Nibelungenlied‘ eine Vorgeschichte? Eine Polemik",
+      "authors": [
+        "Alfred Ebenbauer"
+      ],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "Von zweier vrouwen bagen wart vil manic helt verlorn. Der Streit der Königinnen im ‚Nibelungenlied‘",
+      "authors": [
+        "Peter Göhler"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Szenisches Erzählen. Ulrich Füetrer – Wolfram – Nibelungenlied",
+      "authors": [
+        "Volker Mertens"
+      ],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "Sage – Kultur – Gattung – Text. Zu einigen Voraussetzungen des Verständnisses mittelalterlicher Literatur am Beispiel des „Nibelungenliedes“ (Öffentlicher Vortrag)",
+      "authors": [
+        "Jan-Dirk Müller"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "Das Nibelungenlied. Ein Forschungsgegenstand für das 21. Jahrhundert",
+      "authors": [
+        "Siegrid Schmidt"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Kriemhild und Kudrun. Zur intertextuellen Beziehung von ‚Nibelungenlied‘ und ‚Kudrun‘",
+      "authors": [
+        "Kerstin Schmitt"
+      ],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "Der Streit der Königinnen. Zur Nationalisierung „einer großen Szene“",
+      "authors": [
+        "Juliane Vogel"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "Brünhilds Schicksale – oder: Was machen Autoren und Regisseure im 20. Jahrhundert mit Brünhild?",
+      "authors": [
+        "Norbert Voorwinden"
+      ],
+      "printed_page_number": "197",
+      "skip": false
+    },
+    {
+      "title": "Augenzeugenschaft und episches Erzählen. Visualisierungsstrategien im Nibelungenlied",
+      "authors": [
+        "Horst Wenzel"
+      ],
+      "printed_page_number": "215",
+      "skip": false
+    },
+    {
+      "title": "Das Nibelungenepos und sein literarisches Umfeld. Eine Nachlese",
+      "authors": [
+        "Alois Wolf"
+      ],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "Nibelungische Irritationen. Das Heldenepos in der Literaturgeschichte",
+      "authors": [
+        "Ulrich Wyss"
+      ],
+      "printed_page_number": "261",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

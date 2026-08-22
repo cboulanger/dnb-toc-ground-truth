@@ -1,0 +1,419 @@
+{
+  "entries": [
+    {
+      "title": "List of illustrations",
+      "authors": [],
+      "printed_page_number": "ix",
+      "skip": true
+    },
+    {
+      "title": "List of contributors",
+      "authors": [],
+      "printed_page_number": "xi",
+      "skip": true
+    },
+    {
+      "title": "List of abbreviations",
+      "authors": [],
+      "printed_page_number": "xvii",
+      "skip": true
+    },
+    {
+      "title": "Acknowledgements",
+      "authors": [],
+      "printed_page_number": "xx",
+      "skip": true
+    },
+    {
+      "title": "Introduction and overview",
+      "authors": [
+        "Jane Jackson"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "SECTION I",
+      "authors": [],
+      "printed_page_number": "15",
+      "skip": true
+    },
+    {
+      "title": "Foundations of language and intercultural communication",
+      "authors": [],
+      "printed_page_number": "15",
+      "skip": true
+    },
+    {
+      "title": "1 The history and development of the study of intercultural communication and applied linguistics",
+      "authors": [
+        "Judith N. Martin",
+        "Thomas K. Nakayama",
+        "Donal Carbaugh"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "2 Culture, communication, context and power",
+      "authors": [
+        "Adrian Holliday"
+      ],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "3 Language, identity and intercultural communication",
+      "authors": [
+        "Kimberly A. Noels",
+        "Tomoko Yashima",
+        "Rui Zhang"
+      ],
+      "printed_page_number": "52",
+      "skip": false
+    },
+    {
+      "title": "4 Interculturality and intercultural pragmatics",
+      "authors": [
+        "Istvan Kecskes"
+      ],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "5 Conceptualizing intercultural (communicative) competence and intercultural citizenship",
+      "authors": [
+        "Michael Byram"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "SECTION II",
+      "authors": [],
+      "printed_page_number": "99",
+      "skip": true
+    },
+    {
+      "title": "Core themes and issues: verbal/nonverbal communication and culture",
+      "authors": [],
+      "printed_page_number": "99",
+      "skip": true
+    },
+    {
+      "title": "6 Linguaculture and transnationality: the cultural dimensions of language",
+      "authors": [
+        "Karen Risager"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "7 Intercultural rhetoric and intercultural communication",
+      "authors": [
+        "Dwight Atkinson"
+      ],
+      "printed_page_number": "116",
+      "skip": false
+    },
+    {
+      "title": "8 Nonverbal communication: the messages of emotion, action, space, and silence",
+      "authors": [
+        "David Matsumoto",
+        "Hyi-Sung Hwang"
+      ],
+      "printed_page_number": "130",
+      "skip": false
+    },
+    {
+      "title": "9 Speech acts, facework and politeness: relationship-building across cultures",
+      "authors": [
+        "Winnie Cheng"
+      ],
+      "printed_page_number": "148",
+      "skip": false
+    },
+    {
+      "title": "Language, identity and intercultural communication",
+      "authors": [],
+      "printed_page_number": "165",
+      "skip": true
+    },
+    {
+      "title": "10 Gender, language, identity, and intercultural communication",
+      "authors": [
+        "Xingsong Shi",
+        "Juliet Langman"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "11 Cultural identity, representation and othering",
+      "authors": [
+        "Fred Dervin"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "12 Other language learning, identity and intercultural communication in contexts of conflict",
+      "authors": [
+        "Constadina Charalambous",
+        "Ben Rampton"
+      ],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "13 Intercultural contact, hybridity, and third space",
+      "authors": [
+        "Claire Kramsch",
+        "Michiko Uryu"
+      ],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "Understanding intercultural transitions: from adjustment to acculturation",
+      "authors": [],
+      "printed_page_number": "227",
+      "skip": true
+    },
+    {
+      "title": "14 Beyond cultural categories: communication, adaptation and transformation",
+      "authors": [
+        "Young Yun Kim"
+      ],
+      "printed_page_number": "229",
+      "skip": false
+    },
+    {
+      "title": "15 Acculturating intergroup vitalities, accommodation and contact",
+      "authors": [
+        "Howard Giles",
+        "Douglas Bonilla",
+        "Rebecca B. Speer"
+      ],
+      "printed_page_number": "244",
+      "skip": false
+    },
+    {
+      "title": "Intercultural communicative competence: multiple conceptual approaches",
+      "authors": [],
+      "printed_page_number": "261",
+      "skip": true
+    },
+    {
+      "title": "16 Language: an essential component of intercultural communicative competence",
+      "authors": [
+        "Alvino E. Fantini"
+      ],
+      "printed_page_number": "263",
+      "skip": false
+    },
+    {
+      "title": "17 Understanding intercultural conflict competence: multiple theoretical insights",
+      "authors": [
+        "Stella Ting-Toomey"
+      ],
+      "printed_page_number": "279",
+      "skip": false
+    },
+    {
+      "title": "18 The intercultural speaker and the acquisition of intercultural/global competence",
+      "authors": [
+        "Jane Wilkinson"
+      ],
+      "printed_page_number": "296",
+      "skip": false
+    },
+    {
+      "title": "19 World Englishes, intercultural communication and requisite competences",
+      "authors": [
+        "Farzad Sharifian"
+      ],
+      "printed_page_number": "310",
+      "skip": false
+    },
+    {
+      "title": "SECTION III",
+      "authors": [],
+      "printed_page_number": "323",
+      "skip": true
+    },
+    {
+      "title": "Theory into practice: towards intercultural (communicative) competence and citizenship",
+      "authors": [],
+      "printed_page_number": "323",
+      "skip": true
+    },
+    {
+      "title": "20 An intercultural approach to second language education and citizenship",
+      "authors": [
+        "Peih-ying Lu",
+        "John Corbett"
+      ],
+      "printed_page_number": "325",
+      "skip": false
+    },
+    {
+      "title": "21 Intercultural communicative competence through telecollaboration",
+      "authors": [
+        "Robert O'Dowd"
+      ],
+      "printed_page_number": "340",
+      "skip": false
+    },
+    {
+      "title": "22 Critical language and intercultural communication pedagogy",
+      "authors": [
+        "Manuela Guilherme"
+      ],
+      "printed_page_number": "357",
+      "skip": false
+    },
+    {
+      "title": "23 Intercultural training in the global context",
+      "authors": [
+        "Kathryn Sorrells"
+      ],
+      "printed_page_number": "372",
+      "skip": false
+    },
+    {
+      "title": "24 Multiple strategies for assessing intercultural communicative competence",
+      "authors": [
+        "Alvino E. Fantini"
+      ],
+      "printed_page_number": "390",
+      "skip": false
+    },
+    {
+      "title": "SECTION IV",
+      "authors": [],
+      "printed_page_number": "407",
+      "skip": true
+    },
+    {
+      "title": "Language and intercultural communication in context",
+      "authors": [],
+      "printed_page_number": "407",
+      "skip": true
+    },
+    {
+      "title": "25 Second language teacher education",
+      "authors": [
+        "Michael Kelly"
+      ],
+      "printed_page_number": "409",
+      "skip": false
+    },
+    {
+      "title": "26 The English as a foreign or international language classroom",
+      "authors": [
+        "Phyllis Ryan"
+      ],
+      "printed_page_number": "422",
+      "skip": false
+    },
+    {
+      "title": "27 The multicultural classroom",
+      "authors": [
+        "Jennifer Mahon",
+        "Kenneth Cushner"
+      ],
+      "printed_page_number": "434",
+      "skip": false
+    },
+    {
+      "title": "28 Education abroad",
+      "authors": [
+        "Jane Jackson"
+      ],
+      "printed_page_number": "449",
+      "skip": false
+    },
+    {
+      "title": "29 Business and management education",
+      "authors": [
+        "Prue Holmes"
+      ],
+      "printed_page_number": "464",
+      "skip": false
+    },
+    {
+      "title": "30 Professional and workplace settings",
+      "authors": [
+        "Martin Warren"
+      ],
+      "printed_page_number": "481",
+      "skip": false
+    },
+    {
+      "title": "31 Translation, interpreting and intercultural communication",
+      "authors": [
+        "Juliane House"
+      ],
+      "printed_page_number": "495",
+      "skip": false
+    },
+    {
+      "title": "32 Culture and health care: intergroup communication and its consequences",
+      "authors": [
+        "Bernadette Watson",
+        "Cindy Gallois",
+        "David G. Hewett",
+        "Liz Jones"
+      ],
+      "printed_page_number": "510",
+      "skip": false
+    },
+    {
+      "title": "33 Legal contexts",
+      "authors": [
+        "Christoph A. Hafner"
+      ],
+      "printed_page_number": "523",
+      "skip": false
+    },
+    {
+      "title": "34 Tourism",
+      "authors": [
+        "Gavin Jack",
+        "Alison Phipps"
+      ],
+      "printed_page_number": "537",
+      "skip": false
+    },
+    {
+      "title": "SECTION V",
+      "authors": [],
+      "printed_page_number": "551",
+      "skip": true
+    },
+    {
+      "title": "New debates and future directions",
+      "authors": [],
+      "printed_page_number": "551",
+      "skip": true
+    },
+    {
+      "title": "35 A global agenda for intercultural communication research and practice",
+      "authors": [
+        "Malcolm N. MacDonald",
+        "John P. O'Regan"
+      ],
+      "printed_page_number": "553",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "568",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

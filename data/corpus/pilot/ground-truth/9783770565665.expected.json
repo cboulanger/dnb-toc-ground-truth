@@ -1,0 +1,128 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Joseph Roth: Europäer",
+      "authors": [],
+      "printed_page_number": "VII",
+      "skip": true
+    },
+    {
+      "title": "TEIL I Desiderate in den Editionen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1 Das Werk, das Leben Joseph Roths. Kennen wir schon alles?",
+      "authors": [
+        "Heinz Lunzer"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "2 Judaika und jüdische Identität in Joseph Roths Werk vor dem Hintergrund der editionsphilologischen Debatten",
+      "authors": [
+        "Armin Eidherr"
+      ],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "TEIL II Mobilität und Identität",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "3 Joseph Roth: Ein Jude auf Wanderschaft",
+      "authors": [
+        "Iris Hermann"
+      ],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "4 Trostlose Geschichte(n) - Beichte, Märchen und Legende beim späten Joseph Roth",
+      "authors": [
+        "Hans Richard Brittnacher"
+      ],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "5 Roth versus Mussolini. Über Joseph Roths Expedition in die Geschichte im historischen Roman Die Hundert Tage von 1936",
+      "authors": [
+        "Aneta Jachimowicz"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "TEIL III Phänomene der Moderne",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "6 Joseph Roth und der Film",
+      "authors": [
+        "Rainer-Joachim Siegel"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "7 (De-)Formationen des Körpers in den Berliner Feuilletons Joseph Roths",
+      "authors": [
+        "Katarzyna Jastal"
+      ],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "8 Joseph Roths literarische Grandhotels. Hotel Savoy und Hotelwelt als Nicht-Orte der Gastlichkeit",
+      "authors": [
+        "Bastian Lasse"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "TEIL IV Biographische Einsichten: Freundschaften",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "9 Joseph Roth in den Augen seines Freundes Soma Morgenstern",
+      "authors": [
+        "Maria Kłańska"
+      ],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "10 Fragmente einer Freundschaft. Joseph Roth und Helene Szajnocha-Schenk",
+      "authors": [
+        "Victoria Lunzer-Talos"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "Autor*innen",
+      "authors": [],
+      "printed_page_number": "165",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

@@ -1,0 +1,253 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "VORWORT",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [
+        "Sabine Haag"
+      ],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [
+        "Philipp Demandt"
+      ],
+      "printed_page_number": "11",
+      "skip": true
+    },
+    {
+      "title": "EINLEITUNG",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Universale Kraft der Verwandlung",
+      "authors": [
+        "Stefan Weppelmann",
+        "Jochen Sander"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "ESSAYS",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Rubens' Spezialeffekte und die »Zweite Erschaffung der Welt«",
+      "authors": [
+        "Stefan Weppelmann"
+      ],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "In nova fert animus ... Rubens und die Poetik der Verwandlung",
+      "authors": [
+        "Aneta Georgievskа-Shine"
+      ],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "Rubens: Wille und Vorstellung",
+      "authors": [
+        "Alejandro Vergara"
+      ],
+      "printed_page_number": "35",
+      "skip": false
+    },
+    {
+      "title": "Verwandlung und Verständlichkeit: Rubens und die Sprache der Bilder",
+      "authors": [
+        "Nils Büttner"
+      ],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "Rubens' schöpferische Hilfsmittel",
+      "authors": [
+        "David Jaffé"
+      ],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "Rubens und Elsheimer",
+      "authors": [
+        "Jochen Sander"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "»Rubens« und die Passion Christi. Entwerfen mittels einer Brainstorming-Sitzung?",
+      "authors": [
+        "Nico Van Hout"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Variationen und Wandlungen der Schönheitsgöttin",
+      "authors": [
+        "Gerlinde Gruber",
+        "Geert van der Snikt",
+        "Stijn Legrand",
+        "Koen Janssen"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Erfindung und Verwandlung: Die Heilige Familie unter dem Apfelbaum und andere Gemälde der Heiligen Familie",
+      "authors": [
+        "Fiona Healy"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Rubens mit Schere und Kleister. Der Künstler als schöpferischer Bearbeiter",
+      "authors": [
+        "Jeremy Wood"
+      ],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "Rubens' Puzzle",
+      "authors": [
+        "George Bisacca"
+      ],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "Rubens' Gewitterlandschaft: Schadensproblematik und Restaurierung",
+      "authors": [
+        "Elke Oberthaler",
+        "Georg Prast",
+        "Ina Slama"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "KATALOGTEIL",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die Grundlagen: Kopieren und Interpretieren",
+      "authors": [
+        "Nils Büttner"
+      ],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "Theorie und Praxis der Darstellung des menschlichen Körpers",
+      "authors": [
+        "Gerlinde Gruber"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "Antike Leitbilder",
+      "authors": [
+        "Jochen Sander"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "Choreografie kunstvoller Räume",
+      "authors": [
+        "Stefan Weppelmann"
+      ],
+      "printed_page_number": "205",
+      "skip": false
+    },
+    {
+      "title": "Körper sehen und Körper malen",
+      "authors": [
+        "Stefan Weppelmann"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "Spiegelungen und nackte Körper",
+      "authors": [
+        "Nils Büttner"
+      ],
+      "printed_page_number": "249",
+      "skip": false
+    },
+    {
+      "title": "Medusa – Inbegriff der Verwandlung",
+      "authors": [
+        "Gerlinde Gruber"
+      ],
+      "printed_page_number": "267",
+      "skip": false
+    },
+    {
+      "title": "Materielle Wandlungen",
+      "authors": [
+        "Gerlinde Gruber",
+        "Geert van der Snikt",
+        "Stijn Legrand",
+        "Koen Janssen"
+      ],
+      "printed_page_number": "273",
+      "skip": false
+    },
+    {
+      "title": "ANHANG",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Bibliografie",
+      "authors": [],
+      "printed_page_number": "292",
+      "skip": true
+    },
+    {
+      "title": "Abbildungsnachweis",
+      "authors": [],
+      "printed_page_number": "305",
+      "skip": true
+    },
+    {
+      "title": "Impressum",
+      "authors": [],
+      "printed_page_number": "307",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

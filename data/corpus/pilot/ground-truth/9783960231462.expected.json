@@ -1,0 +1,127 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einleitung in den Band",
+      "authors": [
+        "Maria Hallitzky",
+        "Christopher Hempel"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "I Empirische Forschung zum Unterricht",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Aufgabenverstehen und Aufgabenbearbeiten als Schlüssel zum Textverständnis – Lehrer-Schüler-Interaktionen im Literaturunterricht",
+      "authors": [
+        "Johanna Leicht",
+        "Anja Saupe",
+        "Maria Hallitzky",
+        "Christopher Hempel",
+        "Ellen Schroeter"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "Kinder in Rechtschreibgesprächen zum Austausch über Schreibungen herausfordern",
+      "authors": [
+        "Barbara Geist"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "Ergebnisse und Perspektiven der rekonstruktiven Analyse alltäglichen Gemeinschaftskundeunterrichts",
+      "authors": [
+        "Christopher Hempel",
+        "Marcus Heinz",
+        "Dieter Koop"
+      ],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "II Empirische Forschung zu schulischen Akteuren",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "„… weil man manche Wörter so ähnlich wie im Englischen oder Russischen schreibt“ – Was LehrerInnen und SchülerInnen über Mehrsprachigkeit im Fremdsprachenunterricht denken und wie sie sie umsetzen",
+      "authors": [
+        "Christiane Neveling"
+      ],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "Armut im Religionsunterricht. Rekonstruktive Untersuchung zu Erfahrungen von ReligionslehrerInnen mit Kinder- und Jugendarmut an ihren Schulen und der Thematisierung von Armut im Religionsunterricht",
+      "authors": [
+        "Daniel Arnhold"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Unterrichtsplanung kooperativ: Situiertes Lernen in der Ausbildung von Englischlehrenden",
+      "authors": [
+        "Petra Knorr"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "III Konzeptionelle Gestaltung von Unterricht und Angeboten der Lehrerbildung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Was haben Elefantenohren und Aktivkohle gemeinsam? Entwicklung und Erprobung eines Unterrichtskonzepts zur Erarbeitung des naturwissenschaftlichen Grundprinzips der Oberflächenvergrößerung in Chemie und belebter Natur",
+      "authors": [
+        "Rebekka Heimann",
+        "Ines Olschewski"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "Bioethische Themen als Herausforderung für Biologielehrkräfte – Entwicklung eines Professionalisierungsangebotes für Studierende des Lehramts Biologie",
+      "authors": [
+        "Alexander Bergmann",
+        "René Leubecher",
+        "Jörg Zabel"
+      ],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "Wer teilt, gewinnt! Open Educational Resources (OER) als Chance universitärer LehrerInnenbildung",
+      "authors": [
+        "Anja Neubert",
+        "Robert Aust"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "AutorInnenverzeichnis",
+      "authors": [],
+      "printed_page_number": "161",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

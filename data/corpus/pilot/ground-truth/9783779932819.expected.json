@@ -1,0 +1,164 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": "5",
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [
+        "Tom Braun",
+        "Max Fuchs",
+        "Wolfgang Zacharias"
+      ],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Einführung",
+      "authors": [],
+      "printed_page_number": "10",
+      "skip": true
+    },
+    {
+      "title": "Theorien der Kulturpädagogik. Möglichkeiten und Grenzen ihrer Erfassung",
+      "authors": [
+        "Max Fuchs"
+      ],
+      "printed_page_number": "10",
+      "skip": false
+    },
+    {
+      "title": "Teil 1: Historische Zugänge",
+      "authors": [],
+      "printed_page_number": "20",
+      "skip": true
+    },
+    {
+      "title": "Zur Geschichte der Kulturpädagogik",
+      "authors": [
+        "Jörg Zirfas"
+      ],
+      "printed_page_number": "20",
+      "skip": false
+    },
+    {
+      "title": "Zur Entstehung und Begründung der neuen Kulturpädagogik",
+      "authors": [
+        "Wolfgang Zacharias"
+      ],
+      "printed_page_number": "44",
+      "skip": false
+    },
+    {
+      "title": "Kulturpädagogik und Sozialpädagogik Historische Entwicklungen im Vergleich",
+      "authors": [
+        "Burkhard Hill"
+      ],
+      "printed_page_number": "72",
+      "skip": false
+    },
+    {
+      "title": "Teil 2: Theoretische Zugänge",
+      "authors": [],
+      "printed_page_number": "102",
+      "skip": true
+    },
+    {
+      "title": "Kulturelle Bildung in Zeiten der Globalisierung",
+      "authors": [
+        "Eckart Liebau"
+      ],
+      "printed_page_number": "102",
+      "skip": false
+    },
+    {
+      "title": "Kulturpädagogik und kulturelle Bildung Eine symboltheoretische Grundlegung",
+      "authors": [
+        "Max Fuchs"
+      ],
+      "printed_page_number": "114",
+      "skip": false
+    },
+    {
+      "title": "Kulturpädagogik als Systematische Wissenschaft? Entwicklungen, Gefahren und Chancen ...",
+      "authors": [
+        "Susanne Keuchel"
+      ],
+      "printed_page_number": "138",
+      "skip": false
+    },
+    {
+      "title": "Zur Theorienbildung in einer urbanen kulturpädagogischen Topologie",
+      "authors": [
+        "Wolfgang Zacharias"
+      ],
+      "printed_page_number": "160",
+      "skip": false
+    },
+    {
+      "title": "Ästhetische Praxis in der Sozialen Arbeit",
+      "authors": [
+        "Ralf Kuckermann"
+      ],
+      "printed_page_number": "182",
+      "skip": false
+    },
+    {
+      "title": "Theorie ästhetisch-kultureller Bildung Ein Zugang zur Transformation von Selbst- und Weltverhältnissen",
+      "authors": [
+        "Rainer Treptow"
+      ],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "Sozialpädagogik und Kulturpädagogik der Gegenwart",
+      "authors": [
+        "Burkhard Hill"
+      ],
+      "printed_page_number": "225",
+      "skip": false
+    },
+    {
+      "title": "Pädagogische Ästhetik Kritische Instanz der Reflexion kulturell-ästhetischer Bildungs- und Erziehungsprozesse",
+      "authors": [
+        "Armin Bernhard"
+      ],
+      "printed_page_number": "245",
+      "skip": false
+    },
+    {
+      "title": "Die Theorie der ästhetischen Bildung bei Klaus Mollenhauer",
+      "authors": [
+        "Cornelie Dietrich"
+      ],
+      "printed_page_number": "277",
+      "skip": false
+    },
+    {
+      "title": "Schlussbemerkungen",
+      "authors": [],
+      "printed_page_number": "292",
+      "skip": true
+    },
+    {
+      "title": "Desiderate und Aufgaben einer zukünftigen Kulturpädagogik Einige Hinweise in sieben Thesen",
+      "authors": [
+        "Tom Braun"
+      ],
+      "printed_page_number": "292",
+      "skip": false
+    },
+    {
+      "title": "Die Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "301",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

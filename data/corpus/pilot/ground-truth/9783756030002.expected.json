@@ -1,0 +1,154 @@
+{
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "Freiheit in digitalen Infrastrukturen – eine Einleitung in die Thematik",
+      "authors": [
+        "Alexander Roßnagel",
+        "Michael Friedewald",
+        "Christian L. Geminn",
+        "Murat Karaboga"
+      ],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Der geopolitische Kampf um digitale Souveränität: Zur Digital-Governance der EU in der Rivalität zwischen den USA und China und der Wirkung des „Brüssel-Effekts“ im Globalen Süden",
+      "authors": [
+        "Ingrid Schneider"
+      ],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "Freiheit by Design in digitalen Infrastrukturen",
+      "authors": [
+        "Marit Hansen",
+        "Andreas Baur",
+        "Felix Bieker"
+      ],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "Ein offener Webindex: Anwendungen, rechtlicher Rahmen, Akzeptanz",
+      "authors": [
+        "Leopold Beer",
+        "Paul C. Johannes",
+        "Huda Koulani",
+        "Christian L. Geminn",
+        "Matthias Söllner",
+        "Stefan Voigt"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Digitale Vulnerabilität und Selbstbestimmung – Vorgaben zur Sicherstellung der Selbstbestimmung vulnerabler Nutzendenden durch informierte Einwilligung und Rechtspflichten im Behinderten- und Datenrecht",
+      "authors": [
+        "Luisa Schmied",
+        "Maxi Nebel"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "Algorithmen-Transparenz und -Kompetenz als Säulen der informationellen Selbstbestimmung: Ein nutzerzentrierter Blick",
+      "authors": [
+        "German Neubaum"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "Das Privacy Fabric Model: Ein Vorschlag für interdisziplinäre Verständigung in der Privatheitsforschung",
+      "authors": [
+        "Johanna Möller",
+        "Lukas Schmitz",
+        "Sebastian Rehms"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "Freiheit und Selbstbestimmung in digitalen Infrastrukturen? Zur Kontroverse um den Gemeinwohlnutzen soziodigitaler Infrastrukturen",
+      "authors": [
+        "Carsten Ochs",
+        "Andreas Bischof",
+        "Mario Göbel",
+        "Simon Hensellek",
+        "Delphine Reinhardt",
+        "Ina Schiering"
+      ],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "Diversitätsgerechter Privatheitsschutz in digitalen Umgebungen",
+      "authors": [
+        "Heiner Koch",
+        "Clara Strathmann",
+        "Martin Hennig",
+        "Luisa Schmied",
+        "Christian L. Geminn",
+        "Jessica Heesen",
+        "Nicole Krämer",
+        "Karoline Reinhardt"
+      ],
+      "printed_page_number": "223",
+      "skip": false
+    },
+    {
+      "title": "Personalisierung von Werbung – wer, was, warum und wie? Eine soziologische Perspektive darauf, wie Betroffene datenverarbeitende Organisationen personifizieren",
+      "authors": [
+        "Maximilian Lukat",
+        "Volkan Sayman"
+      ],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "Erkenntnisse zur Verbesserung von Datenschutz in Plattformökonomien: Transparenz, Intervenierbarkeit und User Experience im Fokus",
+      "authors": [
+        "Lennart Kiss",
+        "Rachelle Sellung",
+        "Björn Hanneke",
+        "Lorenz Baum"
+      ],
+      "printed_page_number": "263",
+      "skip": false
+    },
+    {
+      "title": "Privacy by Design: Schutz der Privatheit im Metaverse durch Designpraktiken am Beispiel ausgewählter Gefahren für Datenschutz und Persönlichkeitsrechte",
+      "authors": [
+        "Tom Hubert",
+        "Felix Bünning",
+        "Marwan El-Rifaai",
+        "Florian Franke",
+        "Michael Kern",
+        "Sara Elisa Kettner",
+        "Otmar Lell",
+        "Markus Meyer",
+        "Runjie Xie",
+        "Benedikt Morschheuser",
+        "Christian Thorun",
+        "Andreas Wiebe"
+      ],
+      "printed_page_number": "285",
+      "skip": false
+    },
+    {
+      "title": "Mitarbeiterinnen und Mitarbeiter dieses Bandes",
+      "authors": [],
+      "printed_page_number": "319",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}
