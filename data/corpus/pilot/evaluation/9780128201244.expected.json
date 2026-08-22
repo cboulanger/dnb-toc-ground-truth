@@ -1,0 +1,129 @@
+{
+  "entries": [
+    {
+      "title": "List of contributors",
+      "authors": [
+        "Emmanouil Anagnostou",
+        "Sandrine Anquetin",
+        "Marina Astitha",
+        "Tibebu Ayalew",
+        "Martina Calovi",
+        "Forest Cannon",
+        "Amy DeCastro",
+        "Diego Cerrai",
+        "Guido Cervone",
+        "Dan Chen",
+        "Quang-Van Doan",
+        "Laura Clemente",
+        "Masih Eghdami",
+        "F. Di Giuseppe",
+        "Timothy W. Juliano",
+        "Domingo Muñoz-Esparza",
+        "C. Di Napoli",
+        "Morgan Fonley",
+        "Maria Frediani",
+        "Weiming Hu",
+        "Navid Jadidoleslam",
+        "Pedro Jimenez",
+        "Jason C. Knievel",
+        "Sana Khan",
+        "Dalia B. Kirschbaum",
+        "Branko Kosovi",
+        "Witold F. Krajewski",
+        "Hiroyuki Kusaka",
+        "Linus Magnusson",
+        "Ricardo Mantilla",
+        "Luca Delle Monache",
+        "Efthymios Nikolopoulos",
+        "F. Pappenberger",
+        "C. Prudhomme",
+        "Felipe Quintero",
+        "Prathap Ramamurthy",
+        "Pallav Ray",
+        "Isabelle Ruin",
+        "Scott Small",
+        "Amanda Siems-Anderson",
+        "Galateia Terti",
+        "Mukul Tewari",
+        "Nicolas Velasquez",
+        "Zhihua Wang"
+      ],
+      "printed_page_number": "xi",
+      "skip": false
+    },
+    {
+      "title": "Overview of extreme weather events, impacts and forecasting techniques",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Operational multiscale predictions of hazardous events",
+      "authors": [
+        "Linus Magnusson",
+        "C. Prudhomme",
+        "F. Di Giuseppe",
+        "C. Di Napoli",
+        "F. Pappenberger"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Contents",
+      "authors": [],
+      "printed_page_number": "v",
+      "skip": false
+    },
+    {
+      "title": "Copyright",
+      "authors": [],
+      "printed_page_number": "iv",
+      "skip": false
+    },
+    {
+      "title": "Afterword",
+      "authors": [
+        "Marina Astitha"
+      ],
+      "printed_page_number": "327",
+      "skip": false
+    },
+    {
+      "title": "Title page",
+      "authors": [],
+      "printed_page_number": "i",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "329",
+      "skip": false
+    },
+    {
+      "title": "Forecasting extreme weather events and associated impacts: case studies",
+      "authors": [],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "Foreword",
+      "authors": [
+        "Walter A. Robinson"
+      ],
+      "printed_page_number": "xv",
+      "skip": false
+    },
+    {
+      "title": "Preface",
+      "authors": [
+        "Marina Astitha"
+      ],
+      "printed_page_number": "xvii",
+      "skip": false
+    }
+  ],
+  "source": "crossref",
+  "fetched_at": "2026-08-21T21:30:10.292704+00:00"
+}

@@ -93,11 +93,12 @@ uv run python cli/evaluate_crossref.py --full  # + a line per compared book
   of its chapter count. A single short book and a single 300-entry
   handbook count the same toward the mean.
 - **Coverage is small and not a random sample of the corpus.** As of the
-  first real run (2026-08-22), only 58 of 547 ground-truthed books had
+  first real run (2026-08-22), only 54 of 547 ground-truthed books had
   enough Crossref-registered, page-numbered chapters to produce an
-  evaluation entry at all -- Crossref registration skews toward larger
-  and more prominent publishers, so this check says nothing about books
-  it has no data for.
+  evaluation entry at all (mean precision 85%, recall 77%, F1 76%
+  across those 54) -- Crossref registration skews toward larger and
+  more prominent publishers, so this check says nothing about books it
+  has no data for.
 - **A Crossref "miss" doesn't necessarily mean the ground truth is
   wrong.** Crossref's own chapter registration can itself be incomplete
   or scoped differently than this corpus's TOC-page extraction -- e.g. a

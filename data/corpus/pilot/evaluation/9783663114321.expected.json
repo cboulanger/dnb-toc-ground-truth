@@ -1,0 +1,115 @@
+{
+  "entries": [
+    {
+      "title": "Einleitung: Hermeneutik in der deutschsprachigen Soziologie heute",
+      "authors": [
+        "Ronald Hitzler",
+        "Anne Honer"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Diskursanalyse",
+      "authors": [
+        "Reiner Keller"
+      ],
+      "printed_page_number": "309",
+      "skip": false
+    },
+    {
+      "title": "Gattungsanalyse",
+      "authors": [
+        "Susanne Günthner",
+        "Hubert A. Knoblauch"
+      ],
+      "printed_page_number": "281",
+      "skip": false
+    },
+    {
+      "title": "Deutungsmusteranalyse",
+      "authors": [
+        "Christian Lüders",
+        "Michael Meuser"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Wissenssoziologische Hermeneutik",
+      "authors": [
+        "Norbert Schröer"
+      ],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "Dokumentarische Methode",
+      "authors": [
+        "Ralf Bohnsack"
+      ],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "Bildinterpretation als struktural-hermeneutische Symbolanalyse",
+      "authors": [
+        "Stefan Müller-Doohm"
+      ],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "Geschichtenhermeneutik",
+      "authors": [
+        "Gerd Vonderach"
+      ],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "Tiefenhermeneutik als Methode kultursoziologischer Forschung",
+      "authors": [
+        "Hans-Dieter König"
+      ],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "Narrationsanalyse biographischer Selbstpräsentation",
+      "authors": [
+        "Wolfram Fischer-Rosenthal",
+        "Gabriele Rosenthal"
+      ],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "Objektive Hermeneutik",
+      "authors": [
+        "Jo Reichertz"
+      ],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "Ethnographische Semantik: Ein Weg zum Verstehen von Zugehörigkeit",
+      "authors": [
+        "Christoph Maeder",
+        "Achim Brosziewski"
+      ],
+      "printed_page_number": "335",
+      "skip": false
+    },
+    {
+      "title": "Ethnomethodologische Konversationsanalyse",
+      "authors": [
+        "Thomas Samuel Eberle"
+      ],
+      "printed_page_number": "245",
+      "skip": false
+    }
+  ],
+  "source": "crossref",
+  "fetched_at": "2026-08-21T21:30:39.197864+00:00"
+}

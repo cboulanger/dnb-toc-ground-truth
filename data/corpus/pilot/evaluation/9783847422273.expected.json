@@ -1,0 +1,30 @@
+{
+  "entries": [
+    {
+      "title": "Rollen von Lehrenden in der wissenschaftlichen Weiterbildung",
+      "authors": [
+        "Eva Cendon"
+      ],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "Chancen der wissenschaftlichen Weiterbildung bei beruflichen Übergängen in der Lebensmitte",
+      "authors": [
+        "Stefan Rundel"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "Öffnung und Schließung von Hochschulen: Regulative der Beteiligung an wissenschaftlicher Weiterbildung",
+      "authors": [
+        "Olaf Dörner"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    }
+  ],
+  "source": "crossref",
+  "fetched_at": "2026-08-21T21:31:39.528951+00:00"
+}

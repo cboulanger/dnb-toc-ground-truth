@@ -1,0 +1,140 @@
+{
+  "entries": [
+    {
+      "title": "Lagerungsprozesse",
+      "authors": [
+        "Christiane Dieckmann",
+        "Hans Hartmann",
+        "Thomas Hoffmann",
+        "Martin Kaltschmitt",
+        "Thomas Kirisits",
+        "Daniel Kuptz"
+      ],
+      "printed_page_number": "661",
+      "skip": false
+    },
+    {
+      "title": "Transportprozesse",
+      "authors": [
+        "Karl Stampfer",
+        "Ferdinand Hönigsberger",
+        "Martin Kaltschmitt"
+      ],
+      "printed_page_number": "603",
+      "skip": false
+    },
+    {
+      "title": "Algenbiomasse",
+      "authors": [
+        "Sinah Kammler",
+        "Dorina Strieth",
+        "Martin Kaltschmitt"
+      ],
+      "printed_page_number": "721",
+      "skip": false
+    },
+    {
+      "title": "Bereitstellungskonzepte",
+      "authors": [
+        "Hans Hartmann",
+        "Thomas Hoffmann",
+        "Martin Kaltschmitt",
+        "David Moosmann",
+        "Karl Stampfer",
+        "Daniela Thrän"
+      ],
+      "printed_page_number": "343",
+      "skip": false
+    },
+    {
+      "title": "Nebenprodukte, Rückstände und Abfälle",
+      "authors": [
+        "Daniela Thrän",
+        "Martin Kaltschmitt",
+        "Theresa Siegmund",
+        "Tom Karras"
+      ],
+      "printed_page_number": "285",
+      "skip": false
+    },
+    {
+      "title": "Forstwirtschaftlich produzierte Biomasse",
+      "authors": [
+        "Michael Köhl",
+        "Thomas Knoke"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "Einleitung und Zielsetzung",
+      "authors": [
+        "Hans Hartmann",
+        "Hermann Hofbauer",
+        "Martin Kaltschmitt",
+        "Jana Schultz",
+        "Theresa Siegmund",
+        "Karl Stampfer",
+        "Daniela Thrän"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Landwirtschaftlich produzierte Biomasse",
+      "authors": [
+        "Iris Lewandowski"
+      ],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "Biomasseentstehung",
+      "authors": [
+        "Iris Lewandowski",
+        "Christian Wilhelm",
+        "Christian Zörb"
+      ],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "Trocknungsprozesse für biogene Festbrennstoffe",
+      "authors": [
+        "Hans Hartmann",
+        "Jörg B. Ressel",
+        "Klaus Richter",
+        "Alfred Teischinger"
+      ],
+      "printed_page_number": "619",
+      "skip": false
+    },
+    {
+      "title": "Mechanische Aufbereitungsprozesse",
+      "authors": [
+        "Roman Adam",
+        "Martin Englisch",
+        "Hans Hartmann",
+        "Hermann Hofbauer",
+        "Martin Kaltschmitt",
+        "Volker Lenz",
+        "Karl Stampfer"
+      ],
+      "printed_page_number": "481",
+      "skip": false
+    },
+    {
+      "title": "Ernteprozesse",
+      "authors": [
+        "Hans Hartmann",
+        "Thomas Hoffmann",
+        "Martin Kaltschmitt",
+        "Karl Stampfer"
+      ],
+      "printed_page_number": "413",
+      "skip": false
+    }
+  ],
+  "source": "crossref",
+  "fetched_at": "2026-08-21T21:30:39.044513+00:00"
+}

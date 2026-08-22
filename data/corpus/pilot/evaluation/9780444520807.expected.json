@@ -1,0 +1,77 @@
+{
+  "entries": [
+    {
+      "title": "Cognitive Neuroscience of Declarative and Nondeclarative Memory",
+      "authors": [
+        "Paul J. Reber"
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "Insect Minds For Human Minds",
+      "authors": [
+        "Randolf Menzel"
+      ],
+      "printed_page_number": "271",
+      "skip": false
+    },
+    {
+      "title": "The Cell Biology of Learning and Memory in Aplysia",
+      "authors": [
+        "David L. Glanzman"
+      ],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "A Biological Basis for Animal Model Studies of Learning and Memory",
+      "authors": [
+        "Brian S. Dunkelberger",
+        "Christine N. Serway",
+        "J. Steven de Belle"
+      ],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "The Role of Inhibition in Learning",
+      "authors": [
+        "Justin C. Hulbert",
+        "Michael C. Anderson"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Cognitive Neuroscience of Skill Acquisition",
+      "authors": [
+        "J. Bo",
+        "J. Langan",
+        "R.D. Seidler"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "Caenorhabditis elegans as a Model System in Which to Study the Fundamentals of Learning and Memory",
+      "authors": [
+        "Tiffany A. Timbers",
+        "Catharine H. Rankin"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "Neuroanatomical Correlates of Motor Skill Learning: Inferences from Neuroimaging to Behavior",
+      "authors": [
+        "K. Lindquist",
+        "M.A. Guadagnoli"
+      ],
+      "printed_page_number": "167",
+      "skip": false
+    }
+  ],
+  "source": "crossref",
+  "fetched_at": "2026-08-21T21:30:11.799457+00:00"
+}

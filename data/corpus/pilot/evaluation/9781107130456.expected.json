@@ -1,0 +1,232 @@
+{
+  "entries": [
+    {
+      "title": "Grammatical Relations",
+      "authors": [
+        "Randy J. LaPolla"
+      ],
+      "printed_page_number": "269",
+      "skip": false
+    },
+    {
+      "title": "Cleft Sentences and Relative Clauses",
+      "authors": [
+        "Luis París"
+      ],
+      "printed_page_number": "591",
+      "skip": false
+    },
+    {
+      "title": "The Structure and Semantics of Complex Sentences",
+      "authors": [
+        "Toshio Ohori"
+      ],
+      "printed_page_number": "525",
+      "skip": false
+    },
+    {
+      "title": "A Grammatical Sketch of Avatime (Kwa, Niger-Congo, Ghana)",
+      "authors": [
+        "Saskia van Putten",
+        "Rebecca Defina"
+      ],
+      "printed_page_number": "889",
+      "skip": false
+    },
+    {
+      "title": "Case Assignment",
+      "authors": [
+        "Wataru Nakamura"
+      ],
+      "printed_page_number": "318",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "983",
+      "skip": false
+    },
+    {
+      "title": "Lexical and Grammatical Categories in RRG",
+      "authors": [
+        "John M. Peterson"
+      ],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [
+        "Delia Bentley"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Morphology in RRG The Layered Structure of the Word, Inflection and Derivation",
+      "authors": [
+        "Francisco J. Cortés-Rodríguez"
+      ],
+      "printed_page_number": "368",
+      "skip": false
+    },
+    {
+      "title": "A Conceptually Oriented Approach to Semantic Composition in RRG",
+      "authors": [
+        "Ricardo Mairal Usón",
+        "Pamela Faber"
+      ],
+      "printed_page_number": "218",
+      "skip": false
+    },
+    {
+      "title": "Grammatical Aspects of Language Processing in the Brain A Role and Reference Grammar Perspective",
+      "authors": [
+        "Robert D. Van Valin"
+      ],
+      "printed_page_number": "693",
+      "skip": false
+    },
+    {
+      "title": "A Grammatical Sketch of Yimas (Lower Sepik, Papua New Guinea)",
+      "authors": [
+        "William A. Foley"
+      ],
+      "printed_page_number": "861",
+      "skip": false
+    },
+    {
+      "title": "Adverbs, Mimetics and Ideophones",
+      "authors": [
+        "Kiyoko Toratani"
+      ],
+      "printed_page_number": "403",
+      "skip": false
+    },
+    {
+      "title": "Adposition Assignment and Adpositional Phrase Types in RRG",
+      "authors": [
+        "Sergio Ibáñez Cerda"
+      ],
+      "printed_page_number": "428",
+      "skip": false
+    },
+    {
+      "title": "Argument Structure Alternations",
+      "authors": [
+        "James K. Watters"
+      ],
+      "printed_page_number": "292",
+      "skip": false
+    },
+    {
+      "title": "Linking Syntax and Semantics in Adverbial (Adjoined) Clauses",
+      "authors": [
+        "Lilián Guerrero"
+      ],
+      "printed_page_number": "557",
+      "skip": false
+    },
+    {
+      "title": "Extraction Restrictions in Complex Sentences",
+      "authors": [
+        "Mitsuaki Shimojo"
+      ],
+      "printed_page_number": "616",
+      "skip": false
+    },
+    {
+      "title": "Functional Acquisition Processes in Child Language Links to Role and Reference Grammar",
+      "authors": [
+        "Richard M. Weist"
+      ],
+      "printed_page_number": "666",
+      "skip": false
+    },
+    {
+      "title": "Information Structure and Argument Linking",
+      "authors": [
+        "Anja Latrouite",
+        "Robert D. Van Valin"
+      ],
+      "printed_page_number": "488",
+      "skip": false
+    },
+    {
+      "title": "Principles of Role and Reference Grammar",
+      "authors": [
+        "Robert D. Van Valin"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Semantic Macroroles",
+      "authors": [
+        "Rolf Kailuweit"
+      ],
+      "printed_page_number": "242",
+      "skip": false
+    },
+    {
+      "title": "Formalization of RRG Syntax",
+      "authors": [
+        "Laura Kallmeyer",
+        "Rainer Osswald"
+      ],
+      "printed_page_number": "737",
+      "skip": false
+    },
+    {
+      "title": "The RRG Approach to Information Structure",
+      "authors": [
+        "Delia Bentley"
+      ],
+      "printed_page_number": "456",
+      "skip": false
+    },
+    {
+      "title": "A Grammatical Sketch of Amele (Papuan, Papua New Guinea)",
+      "authors": [
+        "John R. Roberts"
+      ],
+      "printed_page_number": "914",
+      "skip": false
+    },
+    {
+      "title": "Case and Voice in Amis (Austronesian, Taiwan)",
+      "authors": [
+        "Joy J. Wu"
+      ],
+      "printed_page_number": "954",
+      "skip": false
+    },
+    {
+      "title": "Role and Reference Grammar and Diachronic Syntax",
+      "authors": [
+        "Ranko Matasović"
+      ],
+      "printed_page_number": "647",
+      "skip": false
+    },
+    {
+      "title": "Computational Implementation and Applications of Role and Reference Grammar",
+      "authors": [
+        "Brian Nolan"
+      ],
+      "printed_page_number": "785",
+      "skip": false
+    },
+    {
+      "title": "A Grammatical Sketch of Cheyenne (Plains Algonquian, USA)",
+      "authors": [
+        "Avelino Corral Esteban"
+      ],
+      "printed_page_number": "823",
+      "skip": false
+    }
+  ],
+  "source": "crossref",
+  "fetched_at": "2026-08-21T21:30:13.991633+00:00"
+}

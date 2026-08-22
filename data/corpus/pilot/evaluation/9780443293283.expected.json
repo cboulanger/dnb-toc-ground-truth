@@ -1,0 +1,120 @@
+{
+  "entries": [
+    {
+      "title": "Random matrix theory and high-dimensional statistics",
+      "authors": [],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "The recursive stochastic algorithm, randomized urn models, and response-adaptive randomization in clinical trials",
+      "authors": [],
+      "printed_page_number": "215",
+      "skip": false
+    },
+    {
+      "title": "Backward stochastic differential equations: Stochastic optimization theory of backward stochastic differential equations and viscosity solutions of Hamilton–Jacobi–Bellman equations",
+      "authors": [],
+      "printed_page_number": "413",
+      "skip": false
+    },
+    {
+      "title": "Multiplier bootstrap inference for generalized functional linear models",
+      "authors": [],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "KOO methods and their high-dimensional consistencies in some multivariate models",
+      "authors": [],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "Normal and nonnormal approximation by Stein's method",
+      "authors": [],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Contributors",
+      "authors": [],
+      "printed_page_number": "xiii",
+      "skip": false
+    },
+    {
+      "title": "Series Page",
+      "authors": [],
+      "printed_page_number": "ii",
+      "skip": false
+    },
+    {
+      "title": "Probabilities and thermodynamics’ third law",
+      "authors": [],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Preface",
+      "authors": [],
+      "printed_page_number": "xv",
+      "skip": false
+    },
+    {
+      "title": "Random matrix theory: Local laws and applications",
+      "authors": [],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "A multivariate cumulative damage model and some applications",
+      "authors": [],
+      "printed_page_number": "457",
+      "skip": false
+    },
+    {
+      "title": "Challenges of statistical machine learning when encountered deep neural network",
+      "authors": [],
+      "printed_page_number": "275",
+      "skip": false
+    },
+    {
+      "title": "Probability models applied to reliability and availability engineering",
+      "authors": [],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "Fourteen lectures on inference for stochastic processes",
+      "authors": [],
+      "printed_page_number": "317",
+      "skip": false
+    },
+    {
+      "title": "Functional law of large numbers for an epidemic model with random effects",
+      "authors": [],
+      "printed_page_number": "297",
+      "skip": false
+    },
+    {
+      "title": "Approximation and bounding techniques for the Fisher-Rao distances between parametric statistical models",
+      "authors": [],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "Copyright",
+      "authors": [],
+      "printed_page_number": "iv",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "499",
+      "skip": false
+    }
+  ],
+  "source": "crossref",
+  "fetched_at": "2026-08-21T21:30:11.671465+00:00"
+}

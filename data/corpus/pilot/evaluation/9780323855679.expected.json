@@ -1,0 +1,112 @@
+{
+  "entries": [
+    {
+      "title": "Principle of minimum loss of Fisher information, arising from the Cramer-Rao inequality: Its role in evolution of bio-physical laws, complex systems and universes",
+      "authors": [
+        "B. Roy Frieden"
+      ],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "Pythagoras theorem in information geometry and applications to generalized linear models",
+      "authors": [
+        "Shinto Eguchi"
+      ],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "Information, economics, and the Cramér-Rao bound",
+      "authors": [
+        "Raymond J. Hawkins",
+        "B. Roy Frieden"
+      ],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "Cramer-Rao inequality for testing the suitability of divergent partition functions",
+      "authors": [
+        "Angelo Plastino",
+        "Mario Carlos Rocca",
+        "Diana Monteoliva"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Copyright",
+      "authors": [],
+      "printed_page_number": "iv",
+      "skip": false
+    },
+    {
+      "title": "Revisiting the connection between Fisher information and entropy's rate of change",
+      "authors": [
+        "A.R. Plastino",
+        "Angelo Plastino",
+        "F. Pennini"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "λ-Deformed probability families with subtractive and divisive normalizations",
+      "authors": [
+        "Jun Zhang",
+        "Ting-Kam Leonard Wong"
+      ],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "Some remarks on Fisher information, the Cramer–Rao inequality, and their applications to physics",
+      "authors": [
+        "H.G. Miller",
+        "Angelo Plastino",
+        "A.R. Plastino"
+      ],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "Information geometry and classical Cramér–Rao-type inequalities",
+      "authors": [
+        "Kumar Vijay Mishra",
+        "M. Ashok Kumar"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Zipf's law results from the scaling invariance of the Cramer–Rao inequality",
+      "authors": [
+        "Alberto Hernando",
+        "Angelo Plastino"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Rao distances and conformal mapping",
+      "authors": [
+        "Arni S.R. Srinivasa Rao",
+        "Steven G. Krantz"
+      ],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "Quantum metrology and quantum correlations",
+      "authors": [
+        "Diego G. Bussandri",
+        "Pedro W. Lamberti"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    }
+  ],
+  "source": "crossref",
+  "fetched_at": "2026-08-21T21:30:11.402134+00:00"
+}

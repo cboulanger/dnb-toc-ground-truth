@@ -1,0 +1,85 @@
+{
+  "entries": [
+    {
+      "title": "Infant synaesthesia",
+      "authors": [
+        "Daphne Maurer",
+        "Laura C. Gibson",
+        "Ferrinne Spector"
+      ],
+      "printed_page_number": "229",
+      "skip": false
+    },
+    {
+      "title": "The role of olfaction in human multisensory development",
+      "authors": [
+        "Benoist Schaal",
+        "Karine Durand"
+      ],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "The development of audiovisual speech perception",
+      "authors": [
+        "Salvador Soto-Faraco",
+        "Marco Calabresi",
+        "Jordi Navarra",
+        "Janet F. Werker",
+        "David J. Lewkowicz"
+      ],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "Developmental disorders and multisensory perception",
+      "authors": [
+        "Elisabeth L. Hill",
+        "Laura Crane",
+        "Andrew J. Bremner"
+      ],
+      "printed_page_number": "273",
+      "skip": false
+    },
+    {
+      "title": "The role of intersensory redundancy in early perceptual, cognitive, and social development",
+      "authors": [
+        "Lorraine E. Bahrick",
+        "Robert Lickliter"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "The development of multisensory balance, locomotion, orientation, and navigation",
+      "authors": [
+        "Marko Nardini",
+        "Dorothy Cowie"
+      ],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "The development of multisensory representations of the body and of the space around the body",
+      "authors": [
+        "Andrew J. Bremner",
+        "Nicholas P. Holmes",
+        "Charles Spence"
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "The multisensory approach to development",
+      "authors": [
+        "Andrew J. Bremner",
+        "David J. Lewkowicz",
+        "Charles Spence"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    }
+  ],
+  "source": "crossref",
+  "fetched_at": "2026-08-21T21:30:11.249254+00:00"
+}
