@@ -17,7 +17,14 @@ process touches its cache or spends an API call on it.
 
     uv run python cli/generate_ground_truth.py --use-vision modelA,modelB --limit 50
     uv run python cli/generate_ground_truth.py --use-vision modelA --use-text modelC
+    uv run python cli/generate_ground_truth.py --use-vision modelA,modelB --keys-file missing-second-read.txt
     uv run python cli/generate_ground_truth.py --spot-check 30
+
+--keys / --keys-file restrict the run to specific manifest keys instead of
+scanning the whole manifest for books that still need a decision -- still
+excludes eval-tier and permanently-rejected keys. Useful for backfilling a
+known set of books (e.g. ones with only one model's cached reading so far)
+without re-scanning or re-touching the rest of the corpus.
 
 --spot-check N does not generate anything -- instead it samples N books
 that already passed the bulk-tier gate (i.e. "verified": false;
@@ -310,6 +317,24 @@ def _resolve_endpoints(args: argparse.Namespace, config: dict) -> list[ModelEndp
     return vision_endpoints + text_endpoints
 
 
+def _requested_keys(args: argparse.Namespace) -> list[str]:
+    """Combines --keys and --keys-file (one key per line, blank lines
+    ignored) into a single ordered, de-duplicated list. Empty if neither
+    was given -- the caller falls back to scanning the manifest."""
+    keys = list(args.keys or [])
+    if args.keys_file is not None:
+        keys += [
+            line.strip() for line in args.keys_file.read_text(encoding="utf-8").splitlines() if line.strip()
+        ]
+    seen: set[str] = set()
+    deduped = []
+    for key in keys:
+        if key not in seen:
+            seen.add(key)
+            deduped.append(key)
+    return deduped
+
+
 def _generate(args: argparse.Namespace, config: dict) -> int:
     eval_tier_path = corpus.eval_tier_ids_path()
     eval_tier_ids = set(json.loads(eval_tier_path.read_text(encoding="utf-8"))) if eval_tier_path.exists() else set()
@@ -319,16 +344,21 @@ def _generate(args: argparse.Namespace, config: dict) -> int:
         if rejected_path.exists() else set()
     )
 
-    books = corpus.load_manifest_books()
-    eligible = [b for b in books if _still_needs_a_decision(b, eval_tier_ids, rejected_ids)]
-    limit = args.limit if args.limit is not None else config.get("limit")
-    if limit is not None:
-        eligible = eligible[:limit]
-    candidates = [
-        (corpus.manifest_key(b), corpus.pdf_path(corpus.manifest_key(b)))
-        for b in eligible if corpus.pdf_path(corpus.manifest_key(b)).exists()
-    ]
-    missing_pdf_count = len(eligible) - len(candidates)
+    requested_keys = _requested_keys(args)
+    if requested_keys:
+        keys = [k for k in requested_keys if k not in eval_tier_ids and k not in rejected_ids]
+        excluded_count = len(requested_keys) - len(keys)
+    else:
+        books = corpus.load_manifest_books()
+        eligible = [b for b in books if _still_needs_a_decision(b, eval_tier_ids, rejected_ids)]
+        limit = args.limit if args.limit is not None else config.get("limit")
+        if limit is not None:
+            eligible = eligible[:limit]
+        keys = [corpus.manifest_key(b) for b in eligible]
+        excluded_count = 0
+
+    candidates = [(k, corpus.pdf_path(k)) for k in keys if corpus.pdf_path(k).exists()]
+    missing_pdf_count = len(keys) - len(candidates)
 
     endpoints = _resolve_endpoints(args, config)
     concurrency = args.concurrency if args.concurrency is not None else config.get("concurrency", 4)
@@ -346,12 +376,22 @@ def _generate(args: argparse.Namespace, config: dict) -> int:
         print(f"  {count} skipped: {reason}")
     if missing_pdf_count:
         print(f"  {missing_pdf_count} skipped: missing_pdf (not downloaded locally)")
+    if excluded_count:
+        print(f"  {excluded_count} skipped: eval_tier_or_rejected")
     return 0
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
-    parser.add_argument("--limit", type=int, default=None, help="Process at most this many books (smoke-test convenience)")
+    parser.add_argument("--limit", type=int, default=None, help="Process at most this many books (smoke-test convenience; ignored when --keys/--keys-file is given)")
+    parser.add_argument(
+        "--keys", type=lambda s: [k.strip() for k in s.split(",") if k.strip()], default=None, metavar="KEY[,KEY...]",
+        help="Process only these manifest keys instead of scanning the whole manifest -- still excludes eval-tier and rejected keys",
+    )
+    parser.add_argument(
+        "--keys-file", type=Path, default=None, metavar="PATH",
+        help="Path to a file with one manifest key per line; combined with --keys if both given",
+    )
     parser.add_argument("--concurrency", type=int, default=None, help="How many books to process concurrently (default: 4, or config file's \"concurrency\")")
     parser.add_argument(
         "--spot-check", type=int, default=None, metavar="N",
