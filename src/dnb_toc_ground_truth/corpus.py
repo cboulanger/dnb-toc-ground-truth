@@ -1,8 +1,18 @@
-"""Corpus-loading helpers for dnb-toc-ground-truth -- slim, single-corpus
-equivalent of chapter-segmentation's evaluation/harness.py. This repo has
-exactly one corpus (data/corpus/pilot/), so there's no multi-corpus
-list_corpora() indirection to carry over. PDFs live under pdf/ and
-ground-truth JSON lives under ground-truth/ -- see design spec
+"""Corpus-loading helpers for dnb-toc-ground-truth -- slim equivalent of
+chapter-segmentation's evaluation/harness.py. This repo can hold more
+than one corpus under data/corpus/<name>/ (today, in practice, just
+"pilot"); CORPUS_DIR is the CURRENTLY SELECTED one, switched via
+set_corpus() -- CLI scripts call that once, from a --corpus flag
+(defaulting to .config.json's "corpus" key, then DEFAULT_CORPUS_NAME),
+before making any other corpus.* call (see cli/README.md's shared
+--corpus flag docs). Every helper below reads the CORPUS_DIR module
+attribute at call time rather than closing over it, so reassigning it
+retargets all of them immediately -- this is a single-process CLI tool,
+never concurrently serving two corpora at once, so a plain module global
+is sufficient; it is not a stand-in for a real multi-tenant design.
+
+PDFs live under pdf/ and ground-truth JSON lives under ground-truth/ --
+see design spec
 docs/superpowers/specs/2026-08-21-dnb-toc-ground-truth-extraction-design.md
 "Repo layout"."""
 
@@ -10,7 +20,43 @@ import json
 from pathlib import Path
 
 _REPO_ROOT = Path(__file__).resolve().parent.parent.parent
-CORPUS_DIR = _REPO_ROOT / "data" / "corpus" / "pilot"
+_CORPUS_ROOT = _REPO_ROOT / "data" / "corpus"
+
+DEFAULT_CORPUS_NAME = "pilot"
+
+CORPUS_DIR = _CORPUS_ROOT / DEFAULT_CORPUS_NAME
+
+
+def corpus_root() -> Path:
+    """Parent of every corpus directory (data/corpus/) -- what
+    list_corpora() scans and set_corpus() resolves names against."""
+    return _CORPUS_ROOT
+
+
+def list_corpora() -> list[str]:
+    """Every data/corpus/<name>/ directory that has a manifest.json,
+    sorted -- real disk discovery, not a hardcoded literal, so a new
+    corpus directory shows up here (and in set_corpus()'s "Available"
+    list) on its own."""
+    if not _CORPUS_ROOT.exists():
+        return []
+    return sorted(p.name for p in _CORPUS_ROOT.iterdir() if p.is_dir() and (p / "manifest.json").exists())
+
+
+def set_corpus(name: str) -> None:
+    """Switches CORPUS_DIR (and so every helper below) to
+    data/corpus/<name>/. Raises ValueError up front for a name with no
+    manifest.json there, listing what IS available, rather than
+    deferring to a confusing FileNotFoundError somewhere downstream."""
+    global CORPUS_DIR
+    candidate = _CORPUS_ROOT / name
+    if not (candidate / "manifest.json").exists():
+        available = list_corpora()
+        raise ValueError(
+            f"No corpus named {name!r} (expected {candidate / 'manifest.json'} to exist). "
+            f"Available: {available or 'none'}."
+        )
+    CORPUS_DIR = candidate
 
 
 def corpus_dir() -> Path:

@@ -15,29 +15,11 @@ from dnb_toc_ground_truth.evaluation_site import (
     CorpusData,
     SourceScores,
     collect_corpus_data,
-    list_corpora,
     render_corpus_html,
     render_index_html,
     write_site,
 )
 from dnb_toc_ground_truth.toc_entry import TocEntry
-
-
-class TestListCorpora(unittest.TestCase):
-    def test_discovers_directories_with_a_manifest_json(self):
-        with tempfile.TemporaryDirectory() as tmp:
-            root = Path(tmp)
-            pilot_dir = root / "pilot"
-            pilot_dir.mkdir()
-            (pilot_dir / "manifest.json").write_text("{}", encoding="utf-8")
-            other_dir = root / "other"
-            other_dir.mkdir()
-            (other_dir / "manifest.json").write_text("{}", encoding="utf-8")
-            # A directory with no manifest.json isn't a corpus -- must be ignored.
-            (root / "not-a-corpus").mkdir()
-            with patch.object(corpus, "CORPUS_DIR", pilot_dir):
-                names = list_corpora()
-            self.assertEqual(names, ["other", "pilot"])
 
 
 class TestCollectCorpusData(unittest.TestCase):
@@ -140,38 +122,58 @@ class TestRenderCorpusHtml(unittest.TestCase):
         self.assertIn("No crossref-sample books had data for this source.", html)
 
 
+def _init_corpus(root: Path, name: str, books: list[dict]) -> None:
+    corpus_dir = root / name
+    corpus_dir.mkdir(parents=True, exist_ok=True)
+    (corpus_dir / "manifest.json").write_text(json.dumps({"toc_only": True, "books": books}), encoding="utf-8")
+
+
 class TestWriteSite(unittest.TestCase):
     def test_writes_index_and_one_page_per_corpus(self):
-        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp) / "pilot"):
-            corpus.CORPUS_DIR.mkdir(parents=True)
-            corpus.manifest_path().write_text(json.dumps({"toc_only": True, "books": []}), encoding="utf-8")
-
-            with tempfile.TemporaryDirectory() as out:
-                output_dir = Path(out) / "site"
-                write_site(output_dir)
-
-                self.assertTrue((output_dir / "index.html").exists())
-                self.assertTrue((output_dir / "pilot.html").exists())
-                self.assertTrue((output_dir / ".nojekyll").exists())
-
-    def test_raises_loudly_for_a_second_corpus_not_yet_wired_through_corpus_py(self):
-        # See evaluation_site's module docstring: corpus.py is hardcoded
-        # to a single corpus, so a second data/corpus/<name>/ directory
-        # can be discovered by list_corpora() but not actually evaluated
-        # -- write_site must fail loud rather than silently skip or
-        # mis-render it.
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
-            pilot_dir = root / "pilot"
-            pilot_dir.mkdir()
-            (pilot_dir / "manifest.json").write_text(json.dumps({"toc_only": True, "books": []}), encoding="utf-8")
-            other_dir = root / "other"
-            other_dir.mkdir()
-            (other_dir / "manifest.json").write_text(json.dumps({"toc_only": True, "books": []}), encoding="utf-8")
+            _init_corpus(root, "pilot", [])
+            _init_corpus(root, "other", [])
 
-            with patch.object(corpus, "CORPUS_DIR", pilot_dir), tempfile.TemporaryDirectory() as out:
-                with self.assertRaises(NotImplementedError):
+            with patch.object(corpus, "_CORPUS_ROOT", root), patch.object(corpus, "CORPUS_DIR", root / "pilot"):
+                with tempfile.TemporaryDirectory() as out:
+                    output_dir = Path(out) / "site"
+                    write_site(output_dir)
+
+                    self.assertTrue((output_dir / "index.html").exists())
+                    self.assertTrue((output_dir / "pilot.html").exists())
+                    self.assertTrue((output_dir / "other.html").exists())
+                    self.assertTrue((output_dir / ".nojekyll").exists())
+                    index_html = (output_dir / "index.html").read_text(encoding="utf-8")
+                    self.assertIn('href="pilot.html"', index_html)
+                    self.assertIn('href="other.html"', index_html)
+
+    def test_restores_the_previously_selected_corpus_afterward(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            _init_corpus(root, "pilot", [])
+            _init_corpus(root, "other", [])
+
+            with patch.object(corpus, "_CORPUS_ROOT", root), patch.object(corpus, "CORPUS_DIR", root / "other"):
+                with tempfile.TemporaryDirectory() as out:
                     write_site(Path(out) / "site")
+                    self.assertEqual(corpus.CORPUS_DIR, root / "other")
+
+    def test_each_corpus_page_reflects_that_corpus_own_data(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            _init_corpus(root, "pilot", [{"filename": "9783899718188.pdf", "doi": None, "title": "Pilot Book"}])
+            _init_corpus(root, "other", [{"filename": "1111111111.pdf", "doi": None, "title": "Other Book"}])
+
+            with patch.object(corpus, "_CORPUS_ROOT", root), patch.object(corpus, "CORPUS_DIR", root / "pilot"):
+                with tempfile.TemporaryDirectory() as out:
+                    output_dir = Path(out) / "site"
+                    write_site(output_dir)
+
+                    pilot_html = (output_dir / "pilot.html").read_text(encoding="utf-8")
+                    other_html = (output_dir / "other.html").read_text(encoding="utf-8")
+                    self.assertIn(">pilot<", pilot_html)
+                    self.assertIn(">other<", other_html)
 
 
 if __name__ == "__main__":

@@ -1,22 +1,8 @@
 """Builds the static GitHub Pages site presenting crossref-evaluation
-scores (dnb_toc_ground_truth.crossref_evaluation) -- see
-cli/generate_evaluation_site.py for the CLI wrapper this feeds, and
-.github/workflows/pages.yml for how the site is built and deployed on
-every push to main.
-
-Single-corpus limitation: this repo currently has exactly one corpus
-(data/corpus/pilot/) -- corpus.py's own module docstring documents that
-as a deliberate design decision, and every function in
-crossref_evaluation.py reads through corpus.py's single hardcoded
-CORPUS_DIR constant with no way to point it at a different corpus.
-list_corpora() below does real filesystem discovery (every
-data/corpus/<name>/ with a manifest.json), so the index page is a
-genuine index rather than a hardcoded single link -- but
-collect_corpus_data() can only ever compute scores for the one corpus
-corpus.py is wired to; cli/generate_evaluation_site.py raises loudly
-rather than silently mis-rendering if list_corpora() ever returns a
-second name. Actually wiring more than one corpus through
-corpus.py/crossref_evaluation.py is a follow-up task, not done here."""
+scores (dnb_toc_ground_truth.crossref_evaluation) for every corpus this
+repo has (corpus.list_corpora()) -- see cli/generate_evaluation_site.py
+for the CLI wrapper this feeds, and .github/workflows/pages.yml for how
+the site is built and deployed on every push to main."""
 
 import html as _html
 from dataclasses import dataclass
@@ -46,22 +32,12 @@ class CorpusData:
     sources: list[SourceScores]
 
 
-def list_corpora() -> list[str]:
-    """Every data/corpus/<name>/ directory that has a manifest.json,
-    sorted -- real disk discovery, not a hardcoded literal, so a second
-    corpus directory shows up here on its own. See this module's
-    docstring for why collect_corpus_data() can't yet compute real
-    scores for anything this returns beyond corpus.py's single wired-up
-    corpus."""
-    corpus_root = corpus.corpus_dir().parent
-    return sorted(
-        p.name for p in corpus_root.iterdir() if p.is_dir() and (p / "manifest.json").exists()
-    )
-
-
 def collect_corpus_data() -> CorpusData:
     """Runs the ground-truth crossref evaluation plus every discovered
-    llm-cache model's, for corpus.py's single currently-wired corpus."""
+    llm-cache model's, for corpus.py's CURRENTLY SELECTED corpus
+    (corpus.set_corpus()) -- callers that want a specific corpus must
+    call corpus.set_corpus(name) first, same as any other corpus.*
+    consumer."""
     titles = {corpus.manifest_key(book): book.get("title", "") for book in corpus.load_manifest_books()}
     gt_results, gt_uncovered = evaluate_corpus()
     sources = [
@@ -199,17 +175,20 @@ llm-cache extraction over the same books.</p>
 
 
 def write_site(output_dir: Path) -> None:
+    """Renders index.html plus one <name>.html per corpus.list_corpora()
+    entry. Temporarily switches corpus.py's selected corpus (via
+    corpus.set_corpus()) to each in turn, restoring whatever was
+    selected beforehand once done -- callers other than
+    cli/generate_evaluation_site.py's main() shouldn't observe a
+    lasting change to which corpus is selected."""
     output_dir.mkdir(parents=True, exist_ok=True)
-    corpus_names = list_corpora()
-    current = corpus.corpus_dir().name
-    for name in corpus_names:
-        if name != current:
-            raise NotImplementedError(
-                f"corpus '{name}' was found on disk (data/corpus/{name}/) but "
-                f"dnb_toc_ground_truth.corpus is hardcoded to a single corpus ('{current}') -- see "
-                "corpus.py's and this module's docstrings. Wiring more than one corpus through "
-                "corpus.py/crossref_evaluation.py is a follow-up task, not yet implemented."
-            )
+    corpus_names = corpus.list_corpora()
+    previous = corpus.corpus_dir().name
+    try:
+        for name in corpus_names:
+            corpus.set_corpus(name)
+            (output_dir / f"{name}.html").write_text(render_corpus_html(collect_corpus_data()), encoding="utf-8")
+    finally:
+        corpus.set_corpus(previous)
     (output_dir / "index.html").write_text(render_index_html(corpus_names), encoding="utf-8")
-    (output_dir / f"{current}.html").write_text(render_corpus_html(collect_corpus_data()), encoding="utf-8")
     (output_dir / ".nojekyll").write_text("", encoding="utf-8")
