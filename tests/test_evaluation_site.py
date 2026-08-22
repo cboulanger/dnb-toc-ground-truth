@@ -128,6 +128,28 @@ class TestRenderCorpusHtml(unittest.TestCase):
         html = render_corpus_html(data)
         self.assertIn("No crossref-sample books had data for this source.", html)
 
+    def test_book_rows_are_sorted_by_descending_f1(self):
+        data = CorpusData(
+            name="pilot",
+            titles={"a": "Low Book", "b": "High Book", "c": "Mid Book"},
+            toc_urls={},
+            sources=[SourceScores(
+                label="Ground truth", is_ground_truth=True,
+                results=[
+                    BookMetrics(key="a", tp=1, fp=9, fn=9, precision=0.1, recall=0.1, f1=0.10),
+                    BookMetrics(key="b", tp=9, fp=1, fn=1, precision=0.9, recall=0.9, f1=0.90),
+                    BookMetrics(key="c", tp=5, fp=5, fn=5, precision=0.5, recall=0.5, f1=0.50),
+                ],
+                uncovered_count=0,
+            )],
+        )
+        html = render_corpus_html(data)
+        first = html.index("High Book")
+        second = html.index("Mid Book")
+        third = html.index("Low Book")
+        self.assertLess(first, second)
+        self.assertLess(second, third)
+
     def test_book_title_links_to_its_toc_download_url(self):
         html = render_corpus_html(self._sample_data())
         self.assertIn('<td><a href="https://example.org/toc.pdf">Some Book</a></td>', html)

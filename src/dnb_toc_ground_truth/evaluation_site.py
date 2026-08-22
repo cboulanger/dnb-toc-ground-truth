@@ -170,7 +170,7 @@ def _render_book_cell(key: str, title: str, toc_urls: dict[str, str]) -> str:
 
 def _render_source_section(source: SourceScores, titles: dict[str, str], toc_urls: dict[str, str]) -> str:
     section_class = "ground-truth" if source.is_ground_truth else "model"
-    rows = sorted(source.results, key=lambda r: (titles.get(r.key, r.key).lower(), r.key))
+    rows = sorted(source.results, key=lambda r: (-r.f1, titles.get(r.key, r.key).lower(), r.key))
     row_html = "\n".join(
         f"<tr>{_render_book_cell(r.key, titles.get(r.key, r.key), toc_urls)}"
         f'<td class="num">{r.precision:.0%}</td><td class="num">{r.recall:.0%}</td><td class="num">{r.f1:.0%}</td>'
