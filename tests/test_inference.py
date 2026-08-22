@@ -96,6 +96,82 @@ class TestLoadEndpointEntriesPlainText(unittest.TestCase):
             load_endpoint_entries(self.tmp_path / "nonexistent")
 
 
+class TestExtractionApiField(unittest.TestCase):
+    def setUp(self):
+        self._tmp = tempfile.TemporaryDirectory()
+        self.tmp_path = Path(self._tmp.name)
+
+    def tearDown(self):
+        self._tmp.cleanup()
+
+    def test_json_format_parses_explicit_extraction_api(self):
+        path = _write(self.tmp_path, ".endpoints", json.dumps([
+            {"url": "https://x.invalid/a", "key": "k", "model": "acme/finetuned-nuextract2",
+             "extraction_api": "nuextract"},
+        ]))
+        entries = load_endpoint_entries(path)
+        self.assertEqual(entries[0].extraction_api, "nuextract")
+
+    def test_json_format_defaults_extraction_api_to_empty_for_an_ordinary_model(self):
+        path = _write(self.tmp_path, ".endpoints", json.dumps([
+            {"url": "https://x.invalid/a", "key": "k", "model": "Qwen/Qwen3-Omni-30B-A3B-Instruct"},
+        ]))
+        entries = load_endpoint_entries(path)
+        self.assertEqual(entries[0].extraction_api, "")
+
+    def test_extraction_instructions_defaults_to_true(self):
+        path = _write(self.tmp_path, ".endpoints", json.dumps([
+            {"url": "https://x.invalid/a", "key": "k", "model": "model-a", "extraction_api": "nuextract"},
+        ]))
+        entries = load_endpoint_entries(path)
+        self.assertTrue(entries[0].extraction_instructions)
+
+    def test_json_format_parses_explicit_extraction_instructions_false(self):
+        path = _write(self.tmp_path, ".endpoints", json.dumps([
+            {"url": "https://x.invalid/a", "key": "k", "model": "acme/finetuned-nuextract2",
+             "extraction_api": "nuextract", "extraction_instructions": "false"},
+        ]))
+        entries = load_endpoint_entries(path)
+        self.assertFalse(entries[0].extraction_instructions)
+
+    def test_plain_text_format_parses_both_fields(self):
+        path = _write(self.tmp_path, ".endpoints", (
+            "framework_args\t--model=acme/finetuned-nuextract2\n"
+            "extraction_api\tnuextract\n"
+            "extraction_instructions\tfalse\n"
+            "key\tsecret\n"
+            "url\thttps://x.invalid/a\n"
+        ))
+        entries = load_endpoint_entries(path)
+        self.assertEqual(entries[0].extraction_api, "nuextract")
+        self.assertFalse(entries[0].extraction_instructions)
+
+    def test_numind_nuextract3_gets_the_convenience_default_when_unset(self):
+        path = _write(self.tmp_path, ".endpoints", json.dumps([
+            {"url": "https://x.invalid/a", "key": "k", "model": "numind/NuExtract3"},
+        ]))
+        entries = load_endpoint_entries(path)
+        self.assertEqual(entries[0].extraction_api, "nuextract")
+        self.assertTrue(entries[0].extraction_instructions)
+
+    def test_other_model_ids_do_not_get_the_convenience_default(self):
+        path = _write(self.tmp_path, ".endpoints", json.dumps([
+            {"url": "https://x.invalid/a", "key": "k", "model": "numind/NuExtract2-finetuned"},
+        ]))
+        entries = load_endpoint_entries(path)
+        self.assertEqual(entries[0].extraction_api, "")
+
+    def test_explicit_empty_extraction_api_overrides_the_convenience_default(self):
+        # An explicit "" for numind/NuExtract3 forces the old free-text
+        # path even though the convenience default would otherwise apply
+        # -- the design spec commits to this override behavior explicitly.
+        path = _write(self.tmp_path, ".endpoints", json.dumps([
+            {"url": "https://x.invalid/a", "key": "k", "model": "numind/NuExtract3", "extraction_api": ""},
+        ]))
+        entries = load_endpoint_entries(path)
+        self.assertEqual(entries[0].extraction_api, "")
+
+
 class TestResolveModelEndpoints(unittest.TestCase):
     def setUp(self):
         self._tmp = tempfile.TemporaryDirectory()

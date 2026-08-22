@@ -60,16 +60,50 @@ class _EndpointEntry:
     """One parsed row from an --endpoints-file, before resolution against
     a requested model id. `status` is the JSON format's raw status string
     ("Running", "Stopped", ...) used only to break a multi-match tie --
-    always "" for the plain-text format, which has no equivalent field."""
+    always "" for the plain-text format, which has no equivalent field.
+    `extraction_api` ("" or "nuextract") and `extraction_instructions`
+    select and configure the NuExtract-family template-mode extraction
+    path in nuextract.py -- see _resolve_extraction_fields below and
+    design spec docs/superpowers/specs/2026-08-22-nuextract-template-
+    mode-integration-design.md."""
 
     base_url: str
     api_key: str
     model: str
     status: str = ""
+    extraction_api: str = ""
+    extraction_instructions: bool = True
 
 
 def _normalize_base_url(url: str) -> str:
     return url if url.rstrip("/").endswith("/v1") else url.rstrip("/") + "/v1"
+
+
+_NUEXTRACT_CONVENIENCE_MODEL = "numind/NuExtract3"
+
+
+def _resolve_extraction_fields(fields: dict, model: str) -> tuple[str, bool]:
+    """Resolves (extraction_api, extraction_instructions) for one endpoint
+    entry from its raw parsed fields dict -- works identically for the
+    JSON-row dict and the plain-text session-block dict, both plain
+    str-keyed dicts by the time this is called. An explicitly-PRESENT
+    "extraction_api" key always wins, even an explicit "" override --
+    only an ABSENT key falls back to the numind/NuExtract3 convenience
+    default (the endpoint already running before this field existed
+    keeps working without editing .endpoints). Every other model with an
+    absent key defaults to "" (today's free-text-prompt path, unchanged).
+    "extraction_instructions" defaults to True unless explicitly set to
+    "false"/"0"/"no" (case-insensitive) -- only meaningful when
+    extraction_api == "nuextract". See design spec 2026-08-22-nuextract-
+    template-mode-integration-design.md."""
+    if "extraction_api" in fields:
+        extraction_api = str(fields["extraction_api"]).strip()
+    elif model == _NUEXTRACT_CONVENIENCE_MODEL:
+        extraction_api = "nuextract"
+    else:
+        extraction_api = ""
+    extraction_instructions = str(fields.get("extraction_instructions", "")).strip().lower() not in ("false", "0", "no")
+    return extraction_api, extraction_instructions
 
 
 def _parse_session_block(block: str) -> dict[str, str]:
@@ -108,7 +142,11 @@ def _parse_plain_text_endpoints(text: str) -> list[_EndpointEntry]:
         model = _model_from_fields(fields)
         if not (url and api_key and model):
             continue
-        entries.append(_EndpointEntry(base_url=_normalize_base_url(url), api_key=api_key, model=model))
+        extraction_api, extraction_instructions = _resolve_extraction_fields(fields, model)
+        entries.append(_EndpointEntry(
+            base_url=_normalize_base_url(url), api_key=api_key, model=model,
+            extraction_api=extraction_api, extraction_instructions=extraction_instructions,
+        ))
     return entries
 
 
@@ -118,7 +156,9 @@ def _parse_json_endpoints(data: list[dict]) -> list[_EndpointEntry]:
     `key`, and the model id (from `model` if present, else parsed out of
     `framework_args`'s `--model=...` token), plus `status` for
     tie-breaking -- every other field (framework, gpus, job_id, ...) is
-    ignored. An entry missing url/key/model is skipped."""
+    ignored except `extraction_api`/`extraction_instructions`, see
+    _resolve_extraction_fields. An entry missing url/key/model is
+    skipped."""
     entries = []
     for row in data:
         url = str(row.get("url", "")).strip()
@@ -129,9 +169,11 @@ def _parse_json_endpoints(data: list[dict]) -> list[_EndpointEntry]:
             model = match.group(1) if match else ""
         if not (url and api_key and model):
             continue
+        extraction_api, extraction_instructions = _resolve_extraction_fields(row, model)
         entries.append(_EndpointEntry(
             base_url=_normalize_base_url(url), api_key=api_key, model=model,
             status=str(row.get("status", "")),
+            extraction_api=extraction_api, extraction_instructions=extraction_instructions,
         ))
     return entries
 
