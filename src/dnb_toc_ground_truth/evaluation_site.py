@@ -101,6 +101,21 @@ footer { color: #777; font-size: 0.85rem; margin-top: 3rem; }
 """
 
 
+def _link(href: str, text: str, *, escape_href: bool = True, new_tab: bool = True) -> str:
+    """new_tab=True (the default) opens in a new tab, with rel="noopener
+    noreferrer" alongside target="_blank" so the new tab can't reach
+    back into this page via window.opener -- for every link that takes
+    the reader off this site's own pages (Crossref, a book's original
+    TOC scan host, a GitHub blob). new_tab=False for links between this
+    site's own pages (index <-> a corpus page) -- plain in-tab
+    navigation, since a reader moving around the site itself shouldn't
+    pile up tabs for it. escape_href=False for a href already built from
+    html.escape'd or known-safe pieces (avoids double-escaping)."""
+    safe_href = _html.escape(href) if escape_href else href
+    target = ' target="_blank" rel="noopener noreferrer"' if new_tab else ""
+    return f'<a href="{safe_href}"{target}>{text}</a>'
+
+
 def _page(title: str, body: str) -> str:
     return f"""<!doctype html>
 <html lang="en">
@@ -119,11 +134,13 @@ def _page(title: str, body: str) -> str:
 
 
 def render_index_html(corpus_names: list[str]) -> str:
-    links = "\n".join(f'<li><a href="{_html.escape(name)}.html">{_html.escape(name)}</a></li>' for name in corpus_names)
+    links = "\n".join(
+        f"<li>{_link(f'{name}.html', _html.escape(name), new_tab=False)}</li>" for name in corpus_names
+    )
     body = f"""<h1>Crossref evaluation</h1>
 <p>This project cross-checks its ground truth -- and, per book, each
 vision-LLM's raw table-of-contents read -- against an independent,
-non-LLM data source: <a href="https://www.crossref.org/">Crossref</a>'s
+non-LLM data source: {_link("https://www.crossref.org/", "Crossref")}'s
 own per-chapter registration metadata (title, authors, page range), for
 books that have one. For each book, the committed ground truth's real
 chapters are compared against Crossref's registered chapters (title and
@@ -165,7 +182,7 @@ def _render_book_cell(key: str, title: str, toc_urls: dict[str, str]) -> str:
     toc_url = toc_urls.get(key)
     if toc_url is None:
         return f"<td>{text}</td>"
-    return f'<td><a href="{_html.escape(toc_url)}">{text}</a></td>'
+    return f"<td>{_link(toc_url, text)}</td>"
 
 
 def _render_source_section(source: SourceScores, titles: dict[str, str], toc_urls: dict[str, str]) -> str:
@@ -175,7 +192,7 @@ def _render_source_section(source: SourceScores, titles: dict[str, str], toc_url
         f"<tr>{_render_book_cell(r.key, titles.get(r.key, r.key), toc_urls)}"
         f'<td class="num">{r.precision:.0%}</td><td class="num">{r.recall:.0%}</td><td class="num">{r.f1:.0%}</td>'
         f'<td class="num">{r.tp}</td><td class="num">{r.fp}</td><td class="num">{r.fn}</td>'
-        f'<td><a href="{_blob_url(_source_data_path(r.key, source.model))}">JSON</a></td></tr>'
+        f'<td>{_link(_blob_url(_source_data_path(r.key, source.model)), "JSON")}</td></tr>'
         for r in rows
     )
     if source.results:
@@ -205,7 +222,7 @@ def _render_source_section(source: SourceScores, titles: dict[str, str], toc_url
 
 def render_corpus_html(data: CorpusData) -> str:
     sections = "\n".join(_render_source_section(source, data.titles, data.toc_urls) for source in data.sources)
-    body = f"""<p><a href="index.html">&larr; Corpora</a></p>
+    body = f"""<p>{_link("index.html", "&larr; Corpora", new_tab=False)}</p>
 <h1>{_html.escape(data.name)}</h1>
 <p>Per-book precision/recall/F1 against the committed Crossref evaluation
 corpus. Ground truth is the project's own committed data (highlighted

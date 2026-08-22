@@ -4,6 +4,7 @@ cli/generate_evaluation_site.py for the CLI wrapper and
 .github/workflows/pages.yml for how the site is deployed."""
 
 import json
+import re
 import tempfile
 import unittest
 from pathlib import Path
@@ -74,6 +75,16 @@ class TestRenderIndexHtml(unittest.TestCase):
         html = render_index_html(["pilot"])
         self.assertIn('href="pilot.html"', html)
         self.assertIn(">pilot<", html)
+
+    def test_corpus_links_stay_in_the_same_tab(self):
+        html = render_index_html(["pilot"])
+        self.assertIn('<a href="pilot.html">pilot</a>', html)
+
+    def test_crossref_link_opens_in_a_new_tab(self):
+        html = render_index_html(["pilot"])
+        self.assertIn(
+            '<a href="https://www.crossref.org/" target="_blank" rel="noopener noreferrer">Crossref</a>', html,
+        )
 
     def test_mentions_sample_bias_and_publisher_data_caveats(self):
         html = render_index_html(["pilot"])
@@ -152,7 +163,10 @@ class TestRenderCorpusHtml(unittest.TestCase):
 
     def test_book_title_links_to_its_toc_download_url(self):
         html = render_corpus_html(self._sample_data())
-        self.assertIn('<td><a href="https://example.org/toc.pdf">Some Book</a></td>', html)
+        self.assertIn(
+            '<td><a href="https://example.org/toc.pdf" target="_blank" rel="noopener noreferrer">Some Book</a></td>',
+            html,
+        )
 
     def test_book_without_a_toc_url_renders_plain(self):
         data = CorpusData(
@@ -172,7 +186,8 @@ class TestRenderCorpusHtml(unittest.TestCase):
         html = render_corpus_html(self._sample_data())
         expected = corpus.expected_json_path("9783899718188").relative_to(corpus.repo_root())
         self.assertIn(
-            f'<a href="https://github.com/cboulanger/dnb-toc-ground-truth/blob/main/{expected}">JSON</a>', html,
+            f'<a href="https://github.com/cboulanger/dnb-toc-ground-truth/blob/main/{expected}" '
+            'target="_blank" rel="noopener noreferrer">JSON</a>', html,
         )
 
     def test_model_row_links_to_its_llm_cache_blob_url(self):
@@ -180,8 +195,27 @@ class TestRenderCorpusHtml(unittest.TestCase):
         cache_path = vision.cache_path(corpus.llm_cache_dir(), "9783899718188", "some__model")
         expected = cache_path.relative_to(corpus.repo_root())
         self.assertIn(
-            f'<a href="https://github.com/cboulanger/dnb-toc-ground-truth/blob/main/{expected}">JSON</a>', html,
+            f'<a href="https://github.com/cboulanger/dnb-toc-ground-truth/blob/main/{expected}" '
+            'target="_blank" rel="noopener noreferrer">JSON</a>', html,
         )
+
+    def test_every_off_site_link_opens_in_a_new_tab(self):
+        # Standing invariant for every link that takes the reader off
+        # this site's own pages (TOC scan host, GitHub blob) -- any
+        # future one that skips the shared _link() helper's new_tab
+        # default should fail here rather than silently opening in the
+        # same tab.
+        html = render_corpus_html(self._sample_data())
+        anchors = re.findall(r"<a\b[^>]*>", html)
+        off_site = [a for a in anchors if 'href="index.html"' not in a and 'href="pilot.html"' not in a]
+        self.assertTrue(off_site)
+        for anchor in off_site:
+            self.assertIn('target="_blank"', anchor)
+            self.assertIn('rel="noopener noreferrer"', anchor)
+
+    def test_back_to_corpora_link_stays_in_the_same_tab(self):
+        html = render_corpus_html(self._sample_data())
+        self.assertIn('<a href="index.html">&larr; Corpora</a>', html)
 
 
 def _init_corpus(root: Path, name: str, books: list[dict]) -> None:
