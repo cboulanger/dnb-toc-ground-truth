@@ -7,14 +7,21 @@ the site is built and deployed on every push to main."""
 import html as _html
 from dataclasses import dataclass
 from pathlib import Path
+from typing import Optional
 
-from dnb_toc_ground_truth import corpus
+from dnb_toc_ground_truth import corpus, vision
 from dnb_toc_ground_truth.crossref_evaluation import (
     BookMetrics,
     discover_cached_models,
     evaluate_corpus,
     evaluate_model_corpus,
 )
+
+# Mirrors `git remote get-url origin` -- not derived at runtime since the
+# generator has no other reason to shell out to git, and this repo isn't
+# expected to be forked under a different owner/name while this site is
+# still relevant.
+_GITHUB_REPO_BASE = "https://github.com/cboulanger/dnb-toc-ground-truth"
 
 
 @dataclass(frozen=True)
@@ -23,12 +30,17 @@ class SourceScores:
     is_ground_truth: bool
     results: list[BookMetrics]
     uncovered_count: int
+    # None for ground truth, else the model id passed to
+    # evaluate_model_corpus() -- lets _render_source_section() find the
+    # right llm-cache file to link each row's score to.
+    model: Optional[str] = None
 
 
 @dataclass(frozen=True)
 class CorpusData:
     name: str
     titles: dict[str, str]
+    toc_urls: dict[str, str]
     sources: list[SourceScores]
 
 
@@ -38,15 +50,35 @@ def collect_corpus_data() -> CorpusData:
     (corpus.set_corpus()) -- callers that want a specific corpus must
     call corpus.set_corpus(name) first, same as any other corpus.*
     consumer."""
-    titles = {corpus.manifest_key(book): book.get("title", "") for book in corpus.load_manifest_books()}
+    books = corpus.load_manifest_books()
+    titles = {corpus.manifest_key(book): book.get("title", "") for book in books}
+    toc_urls = {corpus.manifest_key(book): book["toc_download_url"] for book in books if book.get("toc_download_url")}
     gt_results, gt_uncovered = evaluate_corpus()
     sources = [
         SourceScores(label="Ground truth", is_ground_truth=True, results=gt_results, uncovered_count=len(gt_uncovered)),
     ]
     for model in discover_cached_models():
         model_results, no_cache = evaluate_model_corpus(model)
-        sources.append(SourceScores(label=model, is_ground_truth=False, results=model_results, uncovered_count=len(no_cache)))
-    return CorpusData(name=corpus.corpus_dir().name, titles=titles, sources=sources)
+        sources.append(SourceScores(
+            label=model, is_ground_truth=False, results=model_results, uncovered_count=len(no_cache), model=model,
+        ))
+    return CorpusData(name=corpus.corpus_dir().name, titles=titles, toc_urls=toc_urls, sources=sources)
+
+
+def _source_data_path(key: str, model: Optional[str]) -> Path:
+    """The committed JSON file that produced one book's score for a
+    source -- ground-truth's own .expected.json, or the exact llm-cache
+    file evaluate_model_corpus() read for a model."""
+    if model is None:
+        return corpus.expected_json_path(key)
+    return vision.cache_path(corpus.llm_cache_dir(), key, model)
+
+
+def _blob_url(path: Path) -> str:
+    """A GitHub "view this file" URL for a path inside the repo
+    checkout -- lets a score in the rendered site link back to the exact
+    committed JSON that produced it."""
+    return f"{_GITHUB_REPO_BASE}/blob/main/{path.relative_to(corpus.repo_root())}"
 
 
 _STYLE = """
@@ -128,13 +160,22 @@ def _mean(values: list[float]) -> float:
     return sum(values) / len(values) if values else 0.0
 
 
-def _render_source_section(source: SourceScores, titles: dict[str, str]) -> str:
+def _render_book_cell(key: str, title: str, toc_urls: dict[str, str]) -> str:
+    text = _html.escape(title or key)
+    toc_url = toc_urls.get(key)
+    if toc_url is None:
+        return f"<td>{text}</td>"
+    return f'<td><a href="{_html.escape(toc_url)}">{text}</a></td>'
+
+
+def _render_source_section(source: SourceScores, titles: dict[str, str], toc_urls: dict[str, str]) -> str:
     section_class = "ground-truth" if source.is_ground_truth else "model"
     rows = sorted(source.results, key=lambda r: (titles.get(r.key, r.key).lower(), r.key))
     row_html = "\n".join(
-        f"<tr><td>{_html.escape(titles.get(r.key, r.key))}</td>"
+        f"<tr>{_render_book_cell(r.key, titles.get(r.key, r.key), toc_urls)}"
         f'<td class="num">{r.precision:.0%}</td><td class="num">{r.recall:.0%}</td><td class="num">{r.f1:.0%}</td>'
-        f'<td class="num">{r.tp}</td><td class="num">{r.fp}</td><td class="num">{r.fn}</td></tr>'
+        f'<td class="num">{r.tp}</td><td class="num">{r.fp}</td><td class="num">{r.fn}</td>'
+        f'<td><a href="{_blob_url(_source_data_path(r.key, source.model))}">JSON</a></td></tr>'
         for r in rows
     )
     if source.results:
@@ -144,11 +185,12 @@ def _render_source_section(source: SourceScores, titles: dict[str, str]) -> str:
         mean_row = (
             f'<tr class="mean"><td>Mean ({len(source.results)} book(s))</td>'
             f'<td class="num">{mean_precision:.0%}</td><td class="num">{mean_recall:.0%}</td>'
-            f'<td class="num">{mean_f1:.0%}</td><td class="num">-</td><td class="num">-</td><td class="num">-</td></tr>'
+            f'<td class="num">{mean_f1:.0%}</td><td class="num">-</td><td class="num">-</td><td class="num">-</td>'
+            f'<td>-</td></tr>'
         )
         table = f"""<table>
 <thead><tr><th>Book</th><th class="num">Precision</th><th class="num">Recall</th><th class="num">F1</th>
-<th class="num">TP</th><th class="num">FP</th><th class="num">FN</th></tr></thead>
+<th class="num">TP</th><th class="num">FP</th><th class="num">FN</th><th>Data</th></tr></thead>
 <tbody>
 {row_html}
 {mean_row}
@@ -162,7 +204,7 @@ def _render_source_section(source: SourceScores, titles: dict[str, str]) -> str:
 
 
 def render_corpus_html(data: CorpusData) -> str:
-    sections = "\n".join(_render_source_section(source, data.titles) for source in data.sources)
+    sections = "\n".join(_render_source_section(source, data.titles, data.toc_urls) for source in data.sources)
     body = f"""<p><a href="index.html">&larr; Corpora</a></p>
 <h1>{_html.escape(data.name)}</h1>
 <p>Per-book precision/recall/F1 against the committed Crossref evaluation

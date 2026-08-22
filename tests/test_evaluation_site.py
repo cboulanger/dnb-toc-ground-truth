@@ -27,7 +27,10 @@ class TestCollectCorpusData(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
             corpus.manifest_path().write_text(
                 json.dumps({"toc_only": True, "books": [
-                    {"filename": "9783899718188.pdf", "doi": "10.1/x", "title": "Some Book"},
+                    {
+                        "filename": "9783899718188.pdf", "doi": "10.1/x", "title": "Some Book",
+                        "toc_download_url": "https://example.org/toc.pdf",
+                    },
                 ]}),
                 encoding="utf-8",
             )
@@ -53,13 +56,16 @@ class TestCollectCorpusData(unittest.TestCase):
             data = collect_corpus_data()
 
             self.assertEqual(data.titles["9783899718188"], "Some Book")
+            self.assertEqual(data.toc_urls["9783899718188"], "https://example.org/toc.pdf")
             self.assertEqual(len(data.sources), 2)
             gt_source, model_source = data.sources
             self.assertTrue(gt_source.is_ground_truth)
             self.assertEqual(gt_source.label, "Ground truth")
+            self.assertIsNone(gt_source.model)
             self.assertEqual(len(gt_source.results), 1)
             self.assertFalse(model_source.is_ground_truth)
             self.assertEqual(model_source.label, "some__model")
+            self.assertEqual(model_source.model, "some__model")
             self.assertEqual(len(model_source.results), 1)
 
 
@@ -82,6 +88,7 @@ class TestRenderCorpusHtml(unittest.TestCase):
         return CorpusData(
             name="pilot",
             titles={"9783899718188": "Some Book"},
+            toc_urls={"9783899718188": "https://example.org/toc.pdf"},
             sources=[
                 SourceScores(
                     label="Ground truth", is_ground_truth=True,
@@ -91,7 +98,7 @@ class TestRenderCorpusHtml(unittest.TestCase):
                 SourceScores(
                     label="some__model", is_ground_truth=False,
                     results=[BookMetrics(key="9783899718188", tp=1, fp=0, fn=1, precision=1.0, recall=0.5, f1=2 / 3)],
-                    uncovered_count=3,
+                    uncovered_count=3, model="some__model",
                 ),
             ],
         )
@@ -115,11 +122,44 @@ class TestRenderCorpusHtml(unittest.TestCase):
 
     def test_source_with_no_results_still_renders_without_crashing(self):
         data = CorpusData(
-            name="pilot", titles={},
+            name="pilot", titles={}, toc_urls={},
             sources=[SourceScores(label="Ground truth", is_ground_truth=True, results=[], uncovered_count=5)],
         )
         html = render_corpus_html(data)
         self.assertIn("No crossref-sample books had data for this source.", html)
+
+    def test_book_title_links_to_its_toc_download_url(self):
+        html = render_corpus_html(self._sample_data())
+        self.assertIn('<td><a href="https://example.org/toc.pdf">Some Book</a></td>', html)
+
+    def test_book_without_a_toc_url_renders_plain(self):
+        data = CorpusData(
+            name="pilot", titles={"1111111111": "No URL Book"}, toc_urls={},
+            sources=[SourceScores(
+                label="Ground truth", is_ground_truth=True,
+                results=[BookMetrics(key="1111111111", tp=1, fp=0, fn=0, precision=1.0, recall=1.0, f1=1.0)],
+                uncovered_count=0,
+            )],
+        )
+        html = render_corpus_html(data)
+        # Not wrapped in a link -- if it were, the tag would immediately
+        # follow "<td>" instead of the title text itself.
+        self.assertIn("<td>No URL Book</td>", html)
+
+    def test_ground_truth_row_links_to_the_expected_json_blob_url(self):
+        html = render_corpus_html(self._sample_data())
+        expected = corpus.expected_json_path("9783899718188").relative_to(corpus.repo_root())
+        self.assertIn(
+            f'<a href="https://github.com/cboulanger/dnb-toc-ground-truth/blob/main/{expected}">JSON</a>', html,
+        )
+
+    def test_model_row_links_to_its_llm_cache_blob_url(self):
+        html = render_corpus_html(self._sample_data())
+        cache_path = vision.cache_path(corpus.llm_cache_dir(), "9783899718188", "some__model")
+        expected = cache_path.relative_to(corpus.repo_root())
+        self.assertIn(
+            f'<a href="https://github.com/cboulanger/dnb-toc-ground-truth/blob/main/{expected}">JSON</a>', html,
+        )
 
 
 def _init_corpus(root: Path, name: str, books: list[dict]) -> None:

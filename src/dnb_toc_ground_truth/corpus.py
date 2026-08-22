@@ -27,6 +27,14 @@ DEFAULT_CORPUS_NAME = "pilot"
 CORPUS_DIR = _CORPUS_ROOT / DEFAULT_CORPUS_NAME
 
 
+def repo_root() -> Path:
+    """The repo checkout root -- e.g. so a caller can turn an absolute
+    corpus.py path into a path relative to the repo, such as
+    evaluation_site.py linking a score to the GitHub blob URL of the
+    file that produced it."""
+    return _REPO_ROOT
+
+
 def corpus_root() -> Path:
     """Parent of every corpus directory (data/corpus/) -- what
     list_corpora() scans and set_corpus() resolves names against."""
