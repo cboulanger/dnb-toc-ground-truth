@@ -14,5 +14,15 @@
     "key": "REPLACE_WITH_REAL_API_KEY",
     "status": "Running",
     "url": "https://your-inference-provider.example/session-b"
+  },
+  {
+    "framework": "vLLM",
+    "framework_args": "--model=numind/NuExtract3 --trust-remote-code --chat-template-content-format openai --generation-config vllm --max-model-len 131072",
+    "host": "10.179.7.236:24148",
+    "key": "REPLACE_WITH_REAL_API_KEY",
+    "status": "Running",
+    "url": "https://your-inference-provider.example/session-c",
+    "extraction_api": "nuextract",
+    "extraction_instructions": "true"
   }
 ]

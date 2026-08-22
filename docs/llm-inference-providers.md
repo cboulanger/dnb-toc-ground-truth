@@ -200,3 +200,38 @@ generation without a `gfx94X` variant published yet, and a
 `rocm7.13.0_gfx94X-dcgpu` one that did exist at the time of writing --
 tag availability for a given GPU family lags the newest overall
 release).
+
+## `.endpoints` fields controlling extraction API style
+
+Two optional fields, read by `inference.py`'s endpoint-file parser
+(both the JSON-array and plain-text pasted-session-table formats):
+
+- `extraction_api` -- `"nuextract"` routes this endpoint through
+  `nuextract.py`'s template-mode extraction (an explicit JSON schema
+  plus optional prose instructions, sent via
+  `extra_body={"chat_template_kwargs": {...}}`) instead of the ordinary
+  free-text-prompt path every other model uses. Empty/absent (the
+  default) means the ordinary path, unchanged.
+- `extraction_instructions` -- `"false"`/`"0"`/`"no"` omits the
+  `instructions` field from the template-mode request (needed for a
+  finetuned NuExtract2-family checkpoint, whose own chat template
+  doesn't accept a separate instructions parameter the way NuExtract3's
+  does). Defaults to `true`; only meaningful when
+  `extraction_api == "nuextract"`.
+
+**`numind/NuExtract3` gets `extraction_api: "nuextract"` and
+`extraction_instructions: true` by convenience default when neither
+field is set explicitly** -- a one-off carve-out for that exact model id
+only, so the endpoint already documented above works without editing
+`.endpoints`. Any other NuExtract-family checkpoint (e.g. a finetuned
+NuExtract2) must declare both fields explicitly, since a finetuned
+checkpoint can be renamed to anything.
+
+A free-text prompt sent as ordinary chat content does NOT work against
+`numind/NuExtract3` -- confirmed empirically: the model either ignores
+it (falling back to its own trained document-to-markdown default) or
+returns a degenerate single-entry response. Template mode with an
+explicit JSON schema is the only reliable path. See design spec
+`docs/superpowers/specs/2026-08-22-nuextract-template-mode-integration-design.md`
+for the full empirical comparison (vision vs. text input, with vs.
+without the `instructions` field).
