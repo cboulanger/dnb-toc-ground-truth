@@ -86,12 +86,14 @@ def main() -> int:
     parser.add_argument(
         "--all-models", action="store_true",
         help="Score every model with at least one llm-cache entry for a crossref-sample book, without naming "
-             "them individually. Combines with --model.",
+             "them individually. Combines with --model. Not affected by --backfill, which only resolves "
+             "endpoints for explicitly-named --model entries.",
     )
     parser.add_argument(
         "--backfill", action="store_true",
         help="Before scoring, extract and cache any --model book missing a llm-cache entry, "
-             "resolved against --endpoints-file (vision-input models only)",
+             "resolved against --endpoints-file (vision-input models only). Only applies to "
+             "explicitly-named --model entries, not --all-models-discovered ones.",
     )
     parser.add_argument(
         "--endpoints-file", type=Path, default=None,
