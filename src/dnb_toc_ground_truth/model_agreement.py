@@ -146,3 +146,64 @@ def arbitration_ground_truth_agreement(models: list[str]) -> list[ModelGroundTru
                 n_books=n,
             ))
     return results
+
+
+@dataclass(frozen=True)
+class PairCandidateScore:
+    model_a: str
+    model_b: str
+    f1_a: float
+    f1_b: float
+    observed_agreement: float
+    expected_agreement: float
+    kappa: float
+    score: float
+    n_books: int
+
+
+def rank_candidate_pairs(
+    agreements: list[PairAgreement], gt_metrics: list[ModelGroundTruthMetrics],
+) -> tuple[list[PairCandidateScore], list[tuple[str, str]]]:
+    """Combines pairwise_model_agreement's output with
+    arbitration_ground_truth_agreement's per-model F1 (treated as each
+    model's per-entry "probability of being correct") into a Cohen's
+    kappa: expected_agreement = f1_a*f1_b + (1-f1_a)*(1-f1_b) is the
+    agreement rate two models with these individual accuracies would
+    show if their errors were independent; kappa = (observed - expected)
+    / (1 - expected) is how much OBSERVED agreement exceeds that
+    baseline. kappa ~ 0 means genuine independence; kappa well above 0
+    means they agree more than their accuracy alone explains -- a
+    direct, quantified signal of correlated errors (same architecture
+    family, shared training data, same systematic misreading of some
+    layout). score = min(f1_a, f1_b) - max(0.0, kappa) rewards
+    individually-accurate models and penalizes only EXCESS correlation
+    (kappa below 0 isn't the failure mode this guards against).
+
+    Only pairs where BOTH models have an arbitration-GT F1 (gt_metrics)
+    are scored -- a pair missing coverage for either model is returned
+    in the second list instead, by (model_a, model_b) name, never
+    silently dropped or scored with a fabricated stand-in accuracy.
+    Guards the `expected_agreement == 1.0` degenerate case (both models
+    at F1 0.0 or both at F1 1.0) by defining kappa=0.0 there rather than
+    dividing by zero -- there is no "excess" to measure when the
+    baseline already claims total agreement is expected.
+
+    Returns (scored_pairs sorted by score descending, unscored_pairs)."""
+    f1_by_model = {m.model: m.f1 for m in gt_metrics}
+    scored = []
+    unscored = []
+    for pair in agreements:
+        f1_a = f1_by_model.get(pair.model_a)
+        f1_b = f1_by_model.get(pair.model_b)
+        if f1_a is None or f1_b is None:
+            unscored.append((pair.model_a, pair.model_b))
+            continue
+        expected = f1_a * f1_b + (1 - f1_a) * (1 - f1_b)
+        kappa = 0.0 if expected >= 1.0 else (pair.mean_agreement - expected) / (1 - expected)
+        scored.append(PairCandidateScore(
+            model_a=pair.model_a, model_b=pair.model_b, f1_a=f1_a, f1_b=f1_b,
+            observed_agreement=pair.mean_agreement, expected_agreement=expected,
+            kappa=kappa, score=min(f1_a, f1_b) - max(0.0, kappa), n_books=pair.n_books,
+        ))
+    scored.sort(key=lambda s: s.score, reverse=True)
+    return scored, unscored

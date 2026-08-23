@@ -14,9 +14,11 @@ from dnb_toc_ground_truth import corpus, vision
 from dnb_toc_ground_truth.model_agreement import (
     ModelGroundTruthMetrics,
     PairAgreement,
+    PairCandidateScore,
     arbitration_ground_truth_agreement,
     discover_all_cached_models,
     pairwise_model_agreement,
+    rank_candidate_pairs,
 )
 from dnb_toc_ground_truth.toc_entry import TocEntry
 
@@ -210,6 +212,66 @@ class TestArbitrationGroundTruthAgreement(unittest.TestCase):
             result = arbitration_ground_truth_agreement(["model/a"])
             self.assertEqual(result[0].precision, 1.0)
             self.assertEqual(result[0].recall, 1.0)
+
+
+class TestRankCandidatePairs(unittest.TestCase):
+    def test_kappa_near_zero_when_agreement_matches_chance_prediction(self):
+        # f1_a=0.8, f1_b=0.8 -> expected = 0.8*0.8 + 0.2*0.2 = 0.68.
+        # Observed exactly at that expected value -> kappa == 0.
+        agreements = [PairAgreement(model_a="a", model_b="b", mean_agreement=0.68, n_books=10)]
+        gt_metrics = [
+            ModelGroundTruthMetrics(model="a", precision=0.8, recall=0.8, f1=0.8, n_books=20),
+            ModelGroundTruthMetrics(model="b", precision=0.8, recall=0.8, f1=0.8, n_books=15),
+        ]
+        scored, unscored = rank_candidate_pairs(agreements, gt_metrics)
+        self.assertEqual(unscored, [])
+        self.assertEqual(len(scored), 1)
+        self.assertAlmostEqual(scored[0].expected_agreement, 0.68)
+        self.assertAlmostEqual(scored[0].kappa, 0.0, places=6)
+        self.assertAlmostEqual(scored[0].score, 0.8, places=6)
+
+    def test_positive_kappa_when_agreement_exceeds_chance_prediction(self):
+        agreements = [PairAgreement(model_a="a", model_b="b", mean_agreement=0.98, n_books=10)]
+        gt_metrics = [
+            ModelGroundTruthMetrics(model="a", precision=0.8, recall=0.8, f1=0.8, n_books=20),
+            ModelGroundTruthMetrics(model="b", precision=0.8, recall=0.8, f1=0.8, n_books=15),
+        ]
+        scored, unscored = rank_candidate_pairs(agreements, gt_metrics)
+        self.assertGreater(scored[0].kappa, 0.0)
+        # score penalizes the excess: min(f1_a, f1_b) - kappa < min(f1_a, f1_b)
+        self.assertLess(scored[0].score, 0.8)
+
+    def test_pair_missing_arbitration_gt_for_either_model_is_unscored(self):
+        agreements = [PairAgreement(model_a="a", model_b="b", mean_agreement=0.9, n_books=10)]
+        gt_metrics = [ModelGroundTruthMetrics(model="a", precision=0.8, recall=0.8, f1=0.8, n_books=20)]
+        scored, unscored = rank_candidate_pairs(agreements, gt_metrics)
+        self.assertEqual(scored, [])
+        self.assertEqual(unscored, [("a", "b")])
+
+    def test_sorted_best_score_first(self):
+        agreements = [
+            PairAgreement(model_a="a", model_b="b", mean_agreement=0.68, n_books=10),
+            PairAgreement(model_a="a", model_b="c", mean_agreement=0.99, n_books=10),
+        ]
+        gt_metrics = [
+            ModelGroundTruthMetrics(model="a", precision=0.8, recall=0.8, f1=0.8, n_books=20),
+            ModelGroundTruthMetrics(model="b", precision=0.8, recall=0.8, f1=0.8, n_books=15),
+            ModelGroundTruthMetrics(model="c", precision=0.8, recall=0.8, f1=0.8, n_books=15),
+        ]
+        scored, _ = rank_candidate_pairs(agreements, gt_metrics)
+        self.assertEqual((scored[0].model_a, scored[0].model_b), ("a", "b"))
+        self.assertGreater(scored[0].score, scored[1].score)
+
+    def test_both_models_perfect_does_not_divide_by_zero(self):
+        # expected_agreement = 1.0*1.0 + 0.0*0.0 = 1.0 -> (1 - expected) == 0.
+        agreements = [PairAgreement(model_a="a", model_b="b", mean_agreement=1.0, n_books=5)]
+        gt_metrics = [
+            ModelGroundTruthMetrics(model="a", precision=1.0, recall=1.0, f1=1.0, n_books=5),
+            ModelGroundTruthMetrics(model="b", precision=1.0, recall=1.0, f1=1.0, n_books=5),
+        ]
+        scored, _ = rank_candidate_pairs(agreements, gt_metrics)
+        self.assertEqual(scored[0].kappa, 0.0)
+        self.assertEqual(scored[0].score, 1.0)
 
 
 if __name__ == "__main__":
