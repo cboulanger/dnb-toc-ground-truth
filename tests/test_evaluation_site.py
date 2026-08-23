@@ -83,6 +83,7 @@ class TestRenderIndexHtml(unittest.TestCase):
         html = render_index_html(["pilot"])
         self.assertIn('href="pilot.html"', html)
         self.assertIn(">pilot<", html)
+        self.assertIn('href="pilot-model-comparison.html"', html)
 
     def test_corpus_links_stay_in_the_same_tab(self):
         html = render_index_html(["pilot"])
@@ -215,7 +216,12 @@ class TestRenderCorpusHtml(unittest.TestCase):
         # same tab.
         html = render_corpus_html(self._sample_data())
         anchors = re.findall(r"<a\b[^>]*>", html)
-        off_site = [a for a in anchors if 'href="index.html"' not in a and 'href="pilot.html"' not in a]
+        off_site = [
+            a for a in anchors
+            if 'href="index.html"' not in a
+            and 'href="pilot.html"' not in a
+            and 'href="pilot-model-comparison.html"' not in a
+        ]
         self.assertTrue(off_site)
         for anchor in off_site:
             self.assertIn('target="_blank"', anchor)
@@ -309,6 +315,18 @@ class TestWriteSite(unittest.TestCase):
                     other_html = (output_dir / "other.html").read_text(encoding="utf-8")
                     self.assertIn(">pilot<", pilot_html)
                     self.assertIn(">other<", other_html)
+
+
+class TestWriteSiteModelComparison(unittest.TestCase):
+    def test_writes_a_model_comparison_page_per_corpus(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            _init_corpus(root, "pilot", [])
+            with patch.object(corpus, "_CORPUS_ROOT", root), patch.object(corpus, "CORPUS_DIR", root / "pilot"):
+                with tempfile.TemporaryDirectory() as out:
+                    output_dir = Path(out) / "site"
+                    write_site(output_dir)
+                    self.assertTrue((output_dir / "pilot-model-comparison.html").exists())
 
 
 class TestCollectModelComparisonData(unittest.TestCase):

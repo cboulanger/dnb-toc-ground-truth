@@ -196,7 +196,9 @@ def _page(title: str, body: str) -> str:
 
 def render_index_html(corpus_names: list[str]) -> str:
     links = "\n".join(
-        f"<li>{_link(f'{name}.html', _html.escape(name), new_tab=False)}</li>" for name in corpus_names
+        f"<li>{_link(f'{name}.html', _html.escape(name), new_tab=False)} "
+        f"({_link(f'{name}-model-comparison.html', 'model comparison', new_tab=False)})</li>"
+        for name in corpus_names
     )
     body = f"""<h1>Crossref evaluation</h1>
 <p>This project cross-checks its ground truth -- and, per book, each
@@ -320,6 +322,7 @@ def render_corpus_html(data: CorpusData) -> str:
 corpus. Ground truth is the project's own committed data (highlighted
 below); each model section scores that model's raw, pre-agreement-gate
 llm-cache extraction over the same books.</p>
+<p>{_link(f"{data.name}-model-comparison.html", "Model comparison &rarr;", new_tab=False)}</p>
 {overview}
 {sections}
 """
@@ -353,12 +356,14 @@ def _render_agreement_heatmap(models: list[str], agreements: list[PairAgreement]
                 color = _heatmap_color(pair.mean_agreement)
                 cells.append(f'<td class="num" style="background:{color}">{pair.mean_agreement:.0%} (n={pair.n_books})</td>')
         rows.append(f"<tr><th>{_html.escape(row_model)}</th>{''.join(cells)}</tr>")
-    return f"""<table>
+    return f"""<div style="overflow-x:auto">
+<table>
 <thead><tr><th></th>{header}</tr></thead>
 <tbody>
 {''.join(rows)}
 </tbody>
-</table>"""
+</table>
+</div>"""
 
 
 def _render_model_accuracy_table(
@@ -486,8 +491,9 @@ the full caveat.</li>
 
 
 def write_site(output_dir: Path) -> None:
-    """Renders index.html plus one <name>.html per corpus.list_corpora()
-    entry. Temporarily switches corpus.py's selected corpus (via
+    """Renders index.html plus one <name>.html and one
+    <name>-model-comparison.html per corpus.list_corpora() entry.
+    Temporarily switches corpus.py's selected corpus (via
     corpus.set_corpus()) to each in turn, restoring whatever was
     selected beforehand once done -- callers other than
     cli/generate_evaluation_site.py's main() shouldn't observe a
@@ -499,6 +505,9 @@ def write_site(output_dir: Path) -> None:
         for name in corpus_names:
             corpus.set_corpus(name)
             (output_dir / f"{name}.html").write_text(render_corpus_html(collect_corpus_data()), encoding="utf-8")
+            (output_dir / f"{name}-model-comparison.html").write_text(
+                render_model_comparison_html(collect_model_comparison_data()), encoding="utf-8",
+            )
     finally:
         corpus.set_corpus(previous)
     (output_dir / "index.html").write_text(render_index_html(corpus_names), encoding="utf-8")
