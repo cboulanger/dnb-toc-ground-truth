@@ -1,0 +1,85 @@
+{
+  "generated_at": 1787489399.200077,
+  "duration_seconds": 17.643740040948614,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "1. Vorwort",
+      "printed_page_number": "S. 5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. WITOSZYNSKYJ Eleonore, \"Zum Berufsbild des Rhythmiklehrers in \u00d6sterreich\"",
+      "printed_page_number": "S. 7",
+      "source_page_index": -1,
+      "authors": [
+        "WITOSZYNSKYJ Eleonore"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. SCHNEIDER Margit/WITOSZYNSKYJ Eleonore, \"Umfrageergebnisse zum Berufsbild des Rhythmiklehrers in \u00d6sterreich\" (Dezember 1984)",
+      "printed_page_number": "S. 16",
+      "source_page_index": -1,
+      "authors": [
+        "SCHNEIDER Margit",
+        "WITOSZYNSKYJ Eleonore"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. ILLINI Ralph, \"Fragebogenumfrage zur Berufssituation der \u00f6sterreichischen Rhythmiklehrer\" (November 1985)",
+      "printed_page_number": "S. 19",
+      "source_page_index": -1,
+      "authors": [
+        "ILLINI Ralph"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. HAUSER Angelika, \"Schriftliche Umfrage zur Situation der Rhythmiklehrer an verschiedenen Ausbildungsinstitutionen.\"",
+      "printed_page_number": "S. 34",
+      "source_page_index": -1,
+      "authors": [
+        "HAUSER Angelika"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. HIRMKE Herta/HAUSER Angelika, \"Darstellung der Situation der Rhythmik an Schulen und anderen Ausbildungsinstitutionen anhand von Lehrpl\u00e4nen, Aufstellung der Anstellungserfordernisse und Verwendungsgruppen und von Bezugstabellen\"",
+      "printed_page_number": "S. 39",
+      "source_page_index": -1,
+      "authors": [
+        "HIRMKE Herta",
+        "HAUSER Angelika"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. SCHNEIDER Margit, \"Arbeitskreis f\u00fcr Rhythmisch-Musikalische Erziehung: \u00dcberblick \u00fcber die Fortbildungsveranstaltungen f\u00fcr Rhythmiklehrer von 1973 \u2013 1985.\"",
+      "printed_page_number": "S. 69",
+      "source_page_index": -1,
+      "authors": [
+        "SCHNEIDER Margit"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8. Die Teilnehmer(innen) der Arbeitsgruppe \"Umfrage '85\"",
+      "printed_page_number": "S. 78",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

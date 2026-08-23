@@ -1,0 +1,177 @@
+{
+  "generated_at": 1787492745.899503,
+  "duration_seconds": 6.839101625140756,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Presentaci\u00f3n",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00c1ngel L\u00f3pez Garc\u00eda:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "El contacto de lenguas y la singularidad americana",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "\u00c1ngel L\u00f3pez Garc\u00eda"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Daniel Jorques Jim\u00e9nez:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Transferencias aspectuales en el espa\u00f1ol americano en contacto",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Daniel Jorques Jim\u00e9nez"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Carlos Hern\u00e1ndez Sacrist\u00e1n:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "N\u00e1huatl y espa\u00f1ol en contacto: en torno a la noci\u00f3n de sincretismo",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Carlos Hern\u00e1ndez Sacrist\u00e1n"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Julio Calvo P\u00e9rez:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Part\u00edculas en castellano andino",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [
+        "Julio Calvo P\u00e9rez"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Manuel Prunonosa:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Algunos rasgos f\u00f3nicos de interferencia del guaran\u00ed en el espa\u00f1ol del Paraguay",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [
+        "Manuel Prunonosa"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Azucena Palacios Alcaine:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "El sistema pronominal del espa\u00f1ol paraguayo: un caso de contacto de lenguas",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [
+        "Azucena Palacios Alcaine"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jos\u00e9 Antonio Flores Farf\u00e1n:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Por un programa de investigaci\u00f3n del espa\u00f1ol ind\u00edgena en M\u00e9xico",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "Jos\u00e9 Antonio Flores Farf\u00e1n"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00c1ngela Bartens:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Los criollos de base lexical espa\u00f1ola",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [
+        "\u00c1ngela Bartens"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ana Roca:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "El espa\u00f1ol en los Estados Unidos a principios del siglo XXI: Apuntes relativos a la investigaci\u00f3n sobre la variedad de la lengua y la coexistencia con el ingl\u00e9s en las comunidades biling\u00fces",
+      "printed_page_number": "193",
+      "source_page_index": -1,
+      "authors": [
+        "Ana Roca"
+      ],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

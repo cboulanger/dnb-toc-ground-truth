@@ -1,0 +1,398 @@
+{
+  "generated_at": 1787492394.459033,
+  "duration_seconds": 45.885829834034666,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "I. Grundsatzbeitrag",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Michael Basse",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Michael Basse"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kindsein und Kinderlaube in der Perspektive reformatorischer Theologie",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Basse"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. Theoretische Grundlagen und empirische Einblicke",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Henning Schl\u00fcf",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Henning Schl\u00fcf"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kindertehologische Differenzierungen \u2013 Zwei Fragen zur Kindertheologie",
+      "printed_page_number": "21",
+      "source_page_index": -1,
+      "authors": [
+        "Henning Schl\u00fcf"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christian Butt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Christian Butt"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbVieleicht h\u00e4tten wir ihn ja ganz vergessen, ohne dass wir noch mal die Auferstehung von ihm haben...\u00ab \u2013 Grundschulkinder der 4. Klasse deuten den \u00bbungl\u00e4ubigen Thomas\u00ab (Johannes 20,24\u201329)",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Butt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Michael B\u00fcnker",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Michael B\u00fcnker"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Von Geschichten und Geschenken \u2013 Wie sich Kinder das Verh\u00e4ltnis von Jesus und dem Christkind vorstellen",
+      "printed_page_number": "36",
+      "source_page_index": -1,
+      "authors": [
+        "Michael B\u00fcnker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Tobias Ziegler",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Tobias Ziegler"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbErz\u00e4hl mir von Jesus\u00ab \u2013 Ein Vergleich narrativer Zug\u00e4nge von Kindern und Jugendlichen zur Christologie",
+      "printed_page_number": "48",
+      "source_page_index": -1,
+      "authors": [
+        "Tobias Ziegler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Karina Schmidt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Karina Schmidt"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Z\u00f6llner Zach\u00e4us im Zentrum \u2013 Narrative und exegetische Kompetenzen von Kindern am Beispiel Lukas 19,1\u201310",
+      "printed_page_number": "66",
+      "source_page_index": -1,
+      "authors": [
+        "Karina Schmidt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hannes Sch\u00e4fer / Wilhelm Schwendemann / Frederic Vobbe",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hannes Sch\u00e4fer",
+        "Wilhelm Schwendemann",
+        "Frederic Vobbe"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbWas ist das f\u00fcr ein Menschensohn?\u00ab \u2013 Ein empirisches Forschungsprojekt zur Rezeption von Markus 4,35\u201341 bei Zweit- und Viertkl\u00e4sslern",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [
+        "Hannes Sch\u00e4fer",
+        "Wilhelm Schwendemann",
+        "Frederic Vobbe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. P\u00e4dagogische Anregungen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "J\u00f6rg Biewald",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg Biewald"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zwischen zwei G\u00f6ttern? \u2013 Das doppelte Gottesbild bei Kindern und Erwachsenen",
+      "printed_page_number": "91",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg Biewald"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Friedhelm Kraft",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Friedhelm Kraft"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Verwundern und Entdecken \u2013 Ein narrativer Zugang zur didaktischen Entfaltung des Themas \u00bbDas Evangelium von Jesus Christus\u00ab",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [
+        "Friedhelm Kraft"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Heike Vierling-Ibrig",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Heike Vierling-Ibrig"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Beten lernen mit Kleinst- und Kindergartenkindern durch Begegnen und Erleben, Gew\u00f6hnen und Ein\u00fcben",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [
+        "Heike Vierling-Ibrig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wolfgang Wagerer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Wagerer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das H\u00f6ren ist der erste Schritt \u2013 Vernehmendes Theologisieren im strukturbewahrenden Erz\u00e4hlen",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Wagerer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Martina Steink\u00fchler",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Martina Steink\u00fchler"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wie Brot und Wein \u2013 Wie soll man Kindern von Jesus erz\u00e4hlen?",
+      "printed_page_number": "170",
+      "source_page_index": -1,
+      "authors": [
+        "Martina Steink\u00fchler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Petra Freudenberger-L\u00f6tz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Petra Freudenberger-L\u00f6tz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Von Menschenfischern und Rettungstauchern \u2013 Mit Zweitkl\u00e4sslern im Gespr\u00e4ch \u00fcber die J\u00fcngerberufung in Markus 1,16\u201320",
+      "printed_page_number": "186",
+      "source_page_index": -1,
+      "authors": [
+        "Petra Freudenberger-L\u00f6tz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Angela Kunze-Beiki\u00dfner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Angela Kunze-Beiki\u00dfner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbDa ist jeder gleich viel wert!\u00ab \u2013 Das Gleichnis von den Arbeitern im Weinberg (Matth\u00e4us 20,1\u201316) interpretiert von Kindern und Jugendlichen im Kontext gemeindep\u00e4dagogischer Arbeit",
+      "printed_page_number": "193",
+      "source_page_index": -1,
+      "authors": [
+        "Angela Kunze-Beiki\u00dfner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IV. Buchbesprechungen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Petra Freudenberger-L\u00f6tz, Theologische Gespr\u00e4che mit Kindern",
+      "printed_page_number": "222",
+      "source_page_index": -1,
+      "authors": [
+        "Petra Freudenberger-L\u00f6tz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Michaela Albrecht, F\u00fcr uns gestorben",
+      "printed_page_number": "224",
+      "source_page_index": -1,
+      "authors": [
+        "Michaela Albrecht"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bart Moeyart, Am Anfang",
+      "printed_page_number": "226",
+      "source_page_index": -1,
+      "authors": [
+        "Bart Moeyart"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Albert Biesinger / Helga Kobler-Spiegel, Gibts Gott?",
+      "printed_page_number": "226",
+      "source_page_index": -1,
+      "authors": [
+        "Albert Biesinger",
+        "Helga Kobler-Spiegel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mirjam Schambeck, Mystagogisches Lernen",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [
+        "Mirjam Schambeck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Autorinnen und Autoren",
+      "printed_page_number": "229",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

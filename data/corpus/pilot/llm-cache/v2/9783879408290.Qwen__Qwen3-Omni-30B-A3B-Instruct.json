@@ -1,0 +1,83 @@
+{
+  "generated_at": 1787492760.581028,
+  "duration_seconds": 3.2470037499442697,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kurzbiographie Paul Lorenzen",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00dcRGEN MITTELSTRASS"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Feier zur Gr\u00fcndung der Paul Lorenzen-Stiftung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einf\u00fchrung",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Aktualit\u00e4t Methodischen Denkens.",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "CARL FRIEDRICH GETHMANN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Philosophieren als Verfahrenskunst",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Fundierung und Kritik der Wissenschaften",
+      "printed_page_number": "22",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Lebensweltliche Grundlagen des Philosophierens.",
+      "printed_page_number": "28",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Methodisches Denken und politische Praxis.",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

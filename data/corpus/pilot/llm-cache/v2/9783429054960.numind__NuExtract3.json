@@ -1,0 +1,501 @@
+{
+  "generated_at": 1787491863.356902,
+  "duration_seconds": 42.88328791712411,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Theologie f\u00fcr alle",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Franz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Konzeptionelle und historische Aspekte eines Jubil\u00e4ums",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Franz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein W\u00fcrzburger Angebot f\u00fcr die Kirche in Deutschland",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Franz Jung"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gr\u00fc\u00dfwort des Bischofs von W\u00fcrzburg",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [
+        "Franz Jung"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "I. Zum Profil theologischer Bildung",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Theologie f\u00fcr alle!",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ute Leimgruber"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Theologische Bildung im Kontext von Glaubenskommunikation und \u201eLaienapostolat\u201c",
+      "printed_page_number": "19",
+      "source_page_index": -1,
+      "authors": [
+        "Ute Leimgruber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Theologie im Fernkurs als offenes Bildungsprojekt",
+      "printed_page_number": "19",
+      "source_page_index": -1,
+      "authors": [
+        "Ute Leimgruber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Johannes XXIII. und das Zweite Vatikanische Konzil:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ute Leimgruber"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Schritte aus dem Binnenkreis des Katholischen",
+      "printed_page_number": "22",
+      "source_page_index": -1,
+      "authors": [
+        "Ute Leimgruber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Joseph Cardijn: Apostolat f\u00fcr \u201ealle Laien ohne Ausnahme\u201c",
+      "printed_page_number": "26",
+      "source_page_index": -1,
+      "authors": [
+        "Ute Leimgruber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Theologie im Fernkurs als Beitrag zu einem zeitgem\u00e4\u00dfen Apostolat f\u00fcr alle",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [
+        "Ute Leimgruber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Bedeutung historischer Bildung f\u00fcr die Glaubenskommunikation",
+      "printed_page_number": "45",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Schmiedl"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Historische Erinnerung: Glaubensgeschichte in unserem Land",
+      "printed_page_number": "46",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Schmiedl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Die Themen des Synodalen Weges",
+      "printed_page_number": "52",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Schmiedl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Was lernen wir f\u00fcr die Zukunft aus der Vergangenheit?",
+      "printed_page_number": "59",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Schmiedl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00dcber sich selbst, den kirchlichen Stand und den Zustand der Zeit hinauswachsen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Joachim Sander"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Lernen, mehr vom Glauben zu wissen",
+      "printed_page_number": "63",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Joachim Sander"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Der christliche Glaube \u2013 eine unvermeidbar gesteigerte Komplexit\u00e4t",
+      "printed_page_number": "65",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Joachim Sander"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Dem Glauben glauben \u2013 die Basis des Fernkurses",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Joachim Sander"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Der Fernkurs bringt den Teilnehmerinnen und Teilnehmern einen Distinktionsgewinn durch eine Art Kreuzkusinenheirat mit Mehr-Wissen ein (1. These)",
+      "printed_page_number": "72",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Joachim Sander"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Der Fernkurs modifiziert die Erfahrung der eigenen kirchlichen Gemeinschaft zu einer konzilianten Souver\u00e4nit\u00e4t (2. These)",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Joachim Sander"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Der Fernkurs n\u00f6tigt die an ihm beteiligte Theologie zu einem sch\u00e4rferen Nachdenken \u00fcber ihre Disposition, Schw\u00e4chen zu ignorieren (3. These)",
+      "printed_page_number": "76",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Joachim Sander"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Der Fernkurs f\u00f6rdert die kirchliche Selbstrelativierung durch Mehr-Glauben mittels Mehr-Wissen (4. These)",
+      "printed_page_number": "79",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Joachim Sander"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Didaktische Ambitionen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Thomas S\u00f6ding"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Theologische Bildung in fr\u00fchchristlicher Zeit",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas S\u00f6ding"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Ansatzpunkte",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas S\u00f6ding"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Perspektiven",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas S\u00f6ding"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Horizonte",
+      "printed_page_number": "110",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas S\u00f6ding"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. Zur Geschichte von Theologie im Fernkurs",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Theologie im Fernkurs \u2013 Theologie mit Laien",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "Josef Pretscher"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Zur Geschichte von \u201eTheologie im Fernkurs\u201c",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "Josef Pretscher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Zum theologisch-didaktischen Konzept",
+      "printed_page_number": "132",
+      "source_page_index": -1,
+      "authors": [
+        "Josef Pretscher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Zu den Teilnehmern",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "Josef Pretscher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Zu einigen Zukunftsperspektiven",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [
+        "Josef Pretscher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Theologie im Fernkurs von 1990 bis 2010: 20 weitere Jahre",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Herten"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. \u201eIm Blickpunkt\u201c",
+      "printed_page_number": "146",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Herten"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Die Studienmaterialien",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Herten"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Studienveranstaltungen",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Herten"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Institutionelle Kontakte",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Herten"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Personelle Erneuerung",
+      "printed_page_number": "176",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Herten"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Zwischenspiel: Zuspruch durch die Deutsche Bischofskonferenz",
+      "printed_page_number": "186",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Herten"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. Teilnehmer von \u201eTheologie im Fernkurs\u201c",
+      "printed_page_number": "188",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Herten"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8. Im Jahr 2020 \u2013 \u201eTheologie im Fernkurs\u201c wird 50 Jahre alt",
+      "printed_page_number": "194",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Herten"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein Jahrzehnt im Umbruch: Theologie im Fernkurs von 2010 bis 2020",
+      "printed_page_number": "197",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Franz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Vernetzungen",
+      "printed_page_number": "200",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Franz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Digitalisierung",
+      "printed_page_number": "205",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Franz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Modularisierung",
+      "printed_page_number": "209",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Franz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Umstrukturierungen",
+      "printed_page_number": "212",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Franz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verzeichnis der Autorin und der Autoren",
+      "printed_page_number": "219",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

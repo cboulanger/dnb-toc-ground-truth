@@ -1,0 +1,591 @@
+{
+  "generated_at": 1787492402.4880278,
+  "duration_seconds": 55.42352108308114,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Vorwort zur zweiten, \u00fcberarbeiteten und erweiterten Auflage",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort zur ersten Auflage",
+      "printed_page_number": "12",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Teil 1 Lernst\u00f6rungen: Arten, Klassifikation und Entstehungsbedingungen",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Lernst\u00f6rungen im \u00dcberblick: Arten, Klassifikation, Verbreitung und Erkl\u00e4rungsperspektiven",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard W. Lauth",
+        "Joachim C. Brunstein",
+        "Matthias Gr\u00fcne"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Underachievement: Wenn Sch\u00fclerinnen und Sch\u00fcler weniger leisten als sie k\u00f6nnten",
+      "printed_page_number": "32",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim C. Brunstein",
+        "Cornelia Glaser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Rechenschw\u00e4che",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [
+        "Jens Holger Lorenz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Lese-Rechtschreibschw\u00e4che",
+      "printed_page_number": "56",
+      "source_page_index": -1,
+      "authors": [
+        "Barbara Gasteiger-Klicpera",
+        "Christian Klicpera"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Allgemeine Lernschw\u00e4che (Kombinierte Schulleistungsst\u00f6rung nach ICD-10)",
+      "printed_page_number": "66",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard W. Lauth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Lernbehinderung",
+      "printed_page_number": "76",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Gr\u00fcne",
+        "Michael Grosche"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. Lernschw\u00e4chen bei Entwicklungsverz\u00f6gerungen",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [
+        "Armin Castello",
+        "Matthias Gr\u00fcne",
+        "Andreas Beelmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil 2 Interventionen: Inhalte, Ziele und Vorgehensweisen",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "8. Ausrichtung und Konzeption der Interventionen",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim C. Brunstein",
+        "Gerhard W. Lauth",
+        "Matthias Gr\u00fcne"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9. Evaluation von Interventionen durch Einzelfallstudien",
+      "printed_page_number": "119",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim C. Brunstein",
+        "Henri Julius"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10. F\u00f6rderung von phonologischer Bewusstheit",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Schneider",
+        "Petra Kispert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11. Aufbau von Lesefertigkeiten",
+      "printed_page_number": "150",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Klicpera",
+        "Barbara Gasteiger-Klicpera"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12. F\u00f6rderung des Leseverst\u00e4ndnisses durch \u201eReziprokes Lehren\u201c",
+      "printed_page_number": "162",
+      "source_page_index": -1,
+      "authors": [
+        "Nadine Sp\u00f6rer",
+        "Anke Demmrich",
+        "Joachim C. Brunstein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13. Aufbau von Rechtschreibkenntnissen",
+      "printed_page_number": "176",
+      "source_page_index": -1,
+      "authors": [
+        "Michaela Greisbach"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14. F\u00f6rderung der Schreibkompetenz",
+      "printed_page_number": "188",
+      "source_page_index": -1,
+      "authors": [
+        "Cornelia Glaser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15. F\u00f6rderung des Zahlverst\u00e4ndnisses",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [
+        "Kristin Krajewski"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16. Vermittlung von Basiskompetenzen zum Rechnen",
+      "printed_page_number": "209",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Wilbert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "17. Aufbau elaborierter Rechenf\u00e4higkeiten",
+      "printed_page_number": "220",
+      "source_page_index": -1,
+      "authors": [
+        "Elsbeth Stern",
+        "Klaus Hasemann",
+        "Matthias Gr\u00fcne"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "18. Motivierung durch operante Verst\u00e4rkung",
+      "printed_page_number": "232",
+      "source_page_index": -1,
+      "authors": [
+        "Friedrich Linderkamp"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "19. F\u00f6rderung von Unterrichtsbeteiligung",
+      "printed_page_number": "243",
+      "source_page_index": -1,
+      "authors": [
+        "Bodo Hartke",
+        "Johann Borchert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "20. F\u00f6rderung von Interessen",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrich Schiefele"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "21. Vermittlung von Lernstrategien und selbstreguliertem Lernen",
+      "printed_page_number": "262",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard W. Lauth",
+        "Matthias Gr\u00fcne",
+        "Joachim C. Brunstein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "22. F\u00f6rderung regelkonformen Verhaltens im Unterricht",
+      "printed_page_number": "277",
+      "source_page_index": -1,
+      "authors": [
+        "Henri Julius"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "23. F\u00f6rderung bei visuell-r\u00e4umlicher Wahrnehmungs- und Konstruktionsst\u00f6rung",
+      "printed_page_number": "285",
+      "source_page_index": -1,
+      "authors": [
+        "Claus Jacobs",
+        "Franz Petermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "24. F\u00f6rderung von Ged\u00e4chtnisprozessen (Ged\u00e4chtnistraining)",
+      "printed_page_number": "299",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard B\u00fcttner",
+        "Claudia M\u00e4hler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "25. F\u00f6rderung von Aufmerksamkeit und Konzentration",
+      "printed_page_number": "310",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard W. Lauth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "26. F\u00f6rderung begrifflich-kategorialer Verarbeitung",
+      "printed_page_number": "320",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Gr\u00fcne",
+        "Mark Stemmler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "27. F\u00f6rderung des induktiven Denkens und Lernens",
+      "printed_page_number": "331",
+      "source_page_index": -1,
+      "authors": [
+        "Karl Josef Klauer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "28. F\u00f6rderung von Metakognition und strategischem Lernen",
+      "printed_page_number": "341",
+      "source_page_index": -1,
+      "authors": [
+        "Titus Guldmann",
+        "Gerhard W. Lauth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "29. Anleitung von Eltern sowie Erzieherinnen und Erziehern zur Hausaufgabenbetreuung",
+      "printed_page_number": "353",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Bellingrath",
+        "Kerstin Naumann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil 3 Interventionsverfahren: Mittel und Formen der Lernf\u00f6rderung",
+      "printed_page_number": "365",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "30. Wirkfaktoren beim Lernen",
+      "printed_page_number": "367",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard W. Lauth",
+        "Joachim C. Brunstein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "31. PC-gest\u00fctzte \u00dcbungsprogramme",
+      "printed_page_number": "384",
+      "source_page_index": -1,
+      "authors": [
+        "Udo Kullik"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "32. Das \u00dcben mit der Wortkartei",
+      "printed_page_number": "395",
+      "source_page_index": -1,
+      "authors": [
+        "Margarete Labas",
+        "Heinz Bederski"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "33. Komplexit\u00e4t reduzieren und kontinuierliche Fortschritte erm\u00f6glichen",
+      "printed_page_number": "407",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard W. Lauth",
+        "Udo B. Brack"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "34. Direkte Instruktion",
+      "printed_page_number": "418",
+      "source_page_index": -1,
+      "authors": [
+        "Morena Lebens",
+        "Gerhard W. Lauth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "35. Lernerfolge belohnen: Kontingenzmanagement",
+      "printed_page_number": "429",
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Hillebrandt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "36. Selbstinstruktionstraining",
+      "printed_page_number": "440",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard W. Lauth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "37. Eltern und Lehrkr\u00e4fte als Mediatorinnen und Mediatoren",
+      "printed_page_number": "451",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Bellingrath",
+        "Gerhard W. Lauth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "38. Tutorielles Lernen",
+      "printed_page_number": "462",
+      "source_page_index": -1,
+      "authors": [
+        "Ludwig Haag"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "39. Verhaltensvertr\u00e4ge",
+      "printed_page_number": "472",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Bellingrath"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "40. Attributionstraining",
+      "printed_page_number": "484",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Gr\u00fcne",
+        "Armin Castello"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "41. Fr\u00fchpr\u00e4vention von Lernst\u00f6rungen",
+      "printed_page_number": "493",
+      "source_page_index": -1,
+      "authors": [
+        "Tanja Jungmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "42. Response to Intervention als schulisches F\u00f6rderkonzept",
+      "printed_page_number": "505",
+      "source_page_index": -1,
+      "authors": [
+        "Marco Ennemoser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "43. Gestaltung von F\u00f6rderunterricht",
+      "printed_page_number": "517",
+      "source_page_index": -1,
+      "authors": [
+        "Gerald Matthes"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "44. Abflachung sozial-\u00f6kologischer \u00dcberg\u00e4nge: Vom Kindergarten in die Schule",
+      "printed_page_number": "529",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Beelmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "45. Gestaltung \u00f6kologischer \u00dcberg\u00e4nge: Von der Schule in den Beruf",
+      "printed_page_number": "543",
+      "source_page_index": -1,
+      "authors": [
+        "Roland Stein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "printed_page_number": "551",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "A Leitfaden \u201eVerhaltensanalytisches Interview bei Lernst\u00f6rungen\u201c zur Durchf\u00fchrung mit den Eltern bzw. Lehrerinnen und Lehrern",
+      "printed_page_number": "553",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "B Beobachtung des Lernverhaltens in einer Hausaufgabensituation.",
+      "printed_page_number": "557",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "C Auswahl geeigneter Schulleistungstests",
+      "printed_page_number": "560",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "D Normtabellen zur Umrechnung von verschiedenen Leistungsinformationen",
+      "printed_page_number": "572",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "E Praxisseminare und Schulungskurse",
+      "printed_page_number": "576",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Autorinnen und Autoren des Bandes",
+      "printed_page_number": "579",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Stichwortverzeichnis",
+      "printed_page_number": "583",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

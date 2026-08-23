@@ -1,0 +1,295 @@
+{
+  "generated_at": 1787493343.104417,
+  "duration_seconds": 55.88456929218955,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Roswitha Ertl-Schmuck",
+        "Jonas H\u00e4nel",
+        "Franziska Fichtm\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einf\u00fchrung in die Thematik",
+      "printed_page_number": "12",
+      "source_page_index": -1,
+      "authors": [
+        "Roswitha Ertl-Schmuck",
+        "Jonas H\u00e4nel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil 1 Eine neue Disziplin entsteht \u2013 ein historischer R\u00fcckblick",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Berufs- und bildungspolitische Rahmenbedingungen der Pflegeausbildung \u2013 Auspr\u00e4gungen eines Sonderwegs",
+      "printed_page_number": "22",
+      "source_page_index": -1,
+      "authors": [
+        "Christine Auer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Entwicklungslinien des bundesdeutschen pflegedidaktischen Diskurses",
+      "printed_page_number": "46",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang von Gahlen-Hoops"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil 2 Die Pflegedidaktik als Disziplin \u2013 systematische Perspektiven",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Eigene der Pflegedidaktik",
+      "printed_page_number": "70",
+      "source_page_index": -1,
+      "authors": [
+        "Roswitha Ertl-Schmuck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Komplexit\u00e4t und Multidisziplinarit\u00e4t als Herausforderungen in der Pflegedidaktik",
+      "printed_page_number": "107",
+      "source_page_index": -1,
+      "authors": [
+        "Jonas H\u00e4nel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil 3 Pflegeberufliches Handeln als didaktischer Gegenstand \u2013 eine begriffliche Ann\u00e4herung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Begriffe in Bewegung \u2013 eine Einf\u00fchrung",
+      "printed_page_number": "142",
+      "source_page_index": -1,
+      "authors": [
+        "Jonas H\u00e4nel",
+        "Roswitha Ertl-Schmuck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Subjekt \u2013 ein facettenreicher Begriff",
+      "printed_page_number": "144",
+      "source_page_index": -1,
+      "authors": [
+        "Roswitha Ertl-Schmuck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lernen \u2013 Bildung \u2013 Kompetenz",
+      "printed_page_number": "154",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Greb",
+        "Kirsten Barre"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mimesis \u2013 Leib \u2013 K\u00f6rper",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [
+        "Kirsten Barre",
+        "Ulrike Greb"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Helfen \u2013 der Andere \u2013 Sorge",
+      "printed_page_number": "190",
+      "source_page_index": -1,
+      "authors": [
+        "Jonas H\u00e4nel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Leid und Vulnerabilit\u00e4t",
+      "printed_page_number": "198",
+      "source_page_index": -1,
+      "authors": [
+        "Jonas H\u00e4nel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Intersektionale Diversity-Perspektiven in der Pflegedidaktik",
+      "printed_page_number": "206",
+      "source_page_index": -1,
+      "authors": [
+        "Miriam Tariba Richter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil 4 Handlungsfelder und Herausforderungen der Pflegedidaktik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Lehrerinnen- und Lehrerbildung im Spiegel des Professionswissens f\u00fcr die berufliche Fachrichtung Pflege",
+      "printed_page_number": "222",
+      "source_page_index": -1,
+      "authors": [
+        "Karin Reiber",
+        "Marius Rebmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hochschuldidaktische Gestaltungsr\u00e4ume in der Lehrer/innenbildung f\u00fcr Pflege",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [
+        "Nadin D\u00fcttthorn",
+        "Marie-Luise Junghahn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein Blick in die pflegedidaktische Forschung",
+      "printed_page_number": "273",
+      "source_page_index": -1,
+      "authors": [
+        "Benjamin K\u00fchme",
+        "Ulrike Greb"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pflegedidaktik in der Transformationsgesellschaft \u2013 Herausforderungen f\u00fcr die Disziplin",
+      "printed_page_number": "296",
+      "source_page_index": -1,
+      "authors": [
+        "Anja Walter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil 5 Au\u00dfenperspektiven auf die Disziplin",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Perspektive der Berufsp\u00e4dagogik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Unterschied als Voraussetzung, das Trennende zu \u00fcberwinden \u2013 Blicke durch das Fenster der Pflegedidaktik",
+      "printed_page_number": "318",
+      "source_page_index": -1,
+      "authors": [
+        "Dieter Grottker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Perspektive der Gesundheitswissenschaft und ihre Didaktik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Disziplin der Pflegedidaktik aus der Perspektive einer interdisziplin\u00e4ren (Berufsfeld-)Didaktik Gesundheit",
+      "printed_page_number": "324",
+      "source_page_index": -1,
+      "authors": [
+        "Ursula Walkenhorst",
+        "Meike Schwinger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Perspektive von Studierenden",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eEs ist so eine Denkschule, ein Sensibel-Sein auf verschiedene Dinge\u201c \u2013 ein Gespr\u00e4ch mit Studierenden der Fachrichtung Pflege",
+      "printed_page_number": "333",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Autor/innen",
+      "printed_page_number": "347",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "generated_at": 1787493183.298761,
+  "duration_seconds": 18.57217162498273,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "INHALTSVERZEICHNIS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Paul Wilpert, Vorwort",
+      "printed_page_number": "VII",
+      "source_page_index": -1,
+      "authors": [
+        "Paul Wilpert"
+      ],
+      "printed_roman": true,
+      "skip": false
+    },
+    {
+      "title": "Pierre Michaud-Quantin, La conscience d'\u00eatre membre d'une universitas",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Pierre Michaud-Quantin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jacques Le Goff, Quelle conscience l'universit\u00e9 m\u00e9di\u00e9vale a-t-elle d'elle-m\u00eame?",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "Jacques Le Goff"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pierre Michaud-Quantin, Aspects de la vie sociale chez les moralistes",
+      "printed_page_number": "30",
+      "source_page_index": -1,
+      "authors": [
+        "Pierre Michaud-Quantin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jacques Le Goff, M\u00e9tier et profession d'apr\u00e8s les manuels de confesseurs au moyen\u00e2ge",
+      "printed_page_number": "44",
+      "source_page_index": -1,
+      "authors": [
+        "Jacques Le Goff"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Astrid L. Gabriel, Motivation of the founders at mediaeval colleges",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Astrid L. Gabriel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sophronius Clasen, Die Armut als Beruf: Franziskus von Assisi",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [
+        "Sophronius Clasen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sophronius Clasen, Die 'Legenda Antiqua' des Hl. Franziskus von Assisi",
+      "printed_page_number": "86",
+      "source_page_index": -1,
+      "authors": [
+        "Sophronius Clasen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Willehad Paul Eckert, Das Selbstverst\u00e4ndnis des Thomas von Aquino als Mendikant und als Magister S. Theologiae",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "Willehad Paul Eckert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Paul Wilpert, Boethius von Dacien \u2014 die Autonomie des Philosophen",
+      "printed_page_number": "135",
+      "source_page_index": -1,
+      "authors": [
+        "Paul Wilpert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Daniel A. Callus, The Function of the Philosopher in thirteenth-century Oxford",
+      "printed_page_number": "153",
+      "source_page_index": -1,
+      "authors": [
+        "Daniel A. Callus"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eusebio Colomer, Das Selbstverst\u00e4ndnis des Ramon Llull",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [
+        "Eusebio Colomer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jeannine Quillet, L'organisation de la soci\u00e9t\u00e9 humaine selon le Defensor Pacis de Marsile de Padoue",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [
+        "Jeannine Quillet"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wilhelm K\u00f6lmel, Wilhelm Ockham \u2014 der Mensch zwischen Ordnung und Freiheit",
+      "printed_page_number": "204",
+      "source_page_index": -1,
+      "authors": [
+        "Wilhelm K\u00f6lmel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Heinrich H\u00fcschen, Berufsbewu\u00dftsein und Selbstverst\u00e4ndnis von Musicus und Cantor im Mittelalter",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [
+        "Heinrich H\u00fcschen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fritz Tschirch, Das Selbstverst\u00e4ndnis des mittelalterlichen deutschen Dichters",
+      "printed_page_number": "239",
+      "source_page_index": -1,
+      "authors": [
+        "Fritz Tschirch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans Rheinfelder, Das Selbstverst\u00e4ndnis Dantes als politischer Dichter",
+      "printed_page_number": "286",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Rheinfelder"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erich Maschke, Das Berufsbewu\u00dftsein des mittelalterlichen Fernkaufmanns",
+      "printed_page_number": "306",
+      "source_page_index": -1,
+      "authors": [
+        "Erich Maschke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Graham Pollard, The University and the book trade in mediaeval Oxford",
+      "printed_page_number": "336",
+      "source_page_index": -1,
+      "authors": [
+        "Graham Pollard"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Namenregister",
+      "printed_page_number": "346",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Register zitierter Autoren",
+      "printed_page_number": "352",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sachregister",
+      "printed_page_number": "355",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ortsregister",
+      "printed_page_number": "359",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

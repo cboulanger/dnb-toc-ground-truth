@@ -1,0 +1,240 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [
+        "Roswitha Ertl-Schmuck",
+        "Jonas H\u00e4nel",
+        "Franziska Fichtm\u00fcller"
+      ],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Einf\u00fchrung in die Thematik",
+      "authors": [
+        "Roswitha Ertl-Schmuck",
+        "Jonas H\u00e4nel"
+      ],
+      "printed_page_number": "12",
+      "skip": false
+    },
+    {
+      "title": "Berufs- und bildungspolitische Rahmenbedingungen der Pflegeausbildung \u2013 Auspr\u00e4gungen eines Sonderwegs",
+      "authors": [
+        "Christine Auer"
+      ],
+      "printed_page_number": "22",
+      "skip": false
+    },
+    {
+      "title": "Entwicklungslinien des bundesdeutschen pflegedidaktischen Diskurses",
+      "authors": [
+        "Wolfgang von Gahlen-Hoops"
+      ],
+      "printed_page_number": "46",
+      "skip": false
+    },
+    {
+      "title": "Das Eigene der Pflegedidaktik",
+      "authors": [
+        "Roswitha Ertl-Schmuck"
+      ],
+      "printed_page_number": "70",
+      "skip": false
+    },
+    {
+      "title": "Komplexit\u00e4t und Multidisziplinarit\u00e4t als Herausforderungen in der Pflegedidaktik",
+      "authors": [
+        "Jonas H\u00e4nel"
+      ],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "Begriffe in Bewegung \u2013 eine Einf\u00fchrung",
+      "authors": [
+        "Jonas H\u00e4nel",
+        "Roswitha Ertl-Schmuck"
+      ],
+      "printed_page_number": "142",
+      "skip": false
+    },
+    {
+      "title": "Subjekt \u2013 ein facettenreicher Begriff",
+      "authors": [
+        "Roswitha Ertl-Schmuck"
+      ],
+      "printed_page_number": "144",
+      "skip": false
+    },
+    {
+      "title": "Lernen \u2013 Bildung \u2013 Kompetenz",
+      "authors": [
+        "Ulrike Greb",
+        "Kirsten Barre"
+      ],
+      "printed_page_number": "154",
+      "skip": false
+    },
+    {
+      "title": "Mimesis \u2013 Leib \u2013 K\u00f6rper",
+      "authors": [
+        "Kirsten Barre",
+        "Ulrike Greb"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Helfen \u2013 der Andere \u2013 Sorge",
+      "authors": [
+        "Jonas H\u00e4nel"
+      ],
+      "printed_page_number": "190",
+      "skip": false
+    },
+    {
+      "title": "Leid und Vulnerabilit\u00e4t",
+      "authors": [
+        "Jonas H\u00e4nel"
+      ],
+      "printed_page_number": "198",
+      "skip": false
+    },
+    {
+      "title": "Intersektionale Diversity-Perspektiven in der Pflegedidaktik",
+      "authors": [
+        "Miriam Tariba Richter"
+      ],
+      "printed_page_number": "206",
+      "skip": false
+    },
+    {
+      "title": "Lehrerinnen- und Lehrerbildung im Spiegel des Professionswissens f\u00fcr die berufliche Fachrichtung Pflege",
+      "authors": [
+        "Karin Reiber",
+        "Marius Rebmann"
+      ],
+      "printed_page_number": "222",
+      "skip": false
+    },
+    {
+      "title": "Hochschuldidaktische Gestaltungsr\u00e4ume in der Lehrer/innenbildung f\u00fcr Pflege",
+      "authors": [
+        "Nadin D\u00fcthorn",
+        "Marie-Luise Junghahn"
+      ],
+      "printed_page_number": "245",
+      "skip": false
+    },
+    {
+      "title": "Ein Blick in die pflegedidaktische Forschung",
+      "authors": [
+        "Benjamin K\u00fchme",
+        "Ulrike Greb"
+      ],
+      "printed_page_number": "273",
+      "skip": false
+    },
+    {
+      "title": "Pflegedidaktik in der Transformationsgesellschaft \u2013 Herausforderungen f\u00fcr die Disziplin",
+      "authors": [
+        "Anja Walter"
+      ],
+      "printed_page_number": "296",
+      "skip": false
+    },
+    {
+      "title": "Der Unterschied als Voraussetzung, das Trennende zu \u00fcberwinden \u2013 Blicke durch das Fenster der Pflegedidaktik",
+      "authors": [
+        "Dieter Grottker"
+      ],
+      "printed_page_number": "318",
+      "skip": false
+    },
+    {
+      "title": "Die Disziplin der Pflegedidaktik aus der Perspektive einer interdisziplin\u00e4ren (Berufsfeld-)Didaktik Gesundheit",
+      "authors": [
+        "Ursula Walkenhorst",
+        "Meike Schwinger"
+      ],
+      "printed_page_number": "324",
+      "skip": false
+    },
+    {
+      "title": "\"Es ist so eine Denkschule, ein Sensibel-Sein auf verschiedene Dinge\" \u2013 ein Gespr\u00e4ch mit Studierenden der Fachrichtung Pflege",
+      "authors": [],
+      "printed_page_number": "333",
+      "skip": false
+    },
+    {
+      "title": "Die Autor/innen",
+      "authors": [],
+      "printed_page_number": "347",
+      "skip": true
+    },
+    {
+      "title": "Teil 1 Eine neue Disziplin entsteht \u2013 ein historischer R\u00fcckblick",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Teil 2 Die Pflegedidaktik als Disziplin \u2013 systematische Perspektiven",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Teil 3 Pflegeberufliches Handeln als didaktischer Gegenstand \u2013 eine begriffliche Ann\u00e4herung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Teil 4 Handlungsfelder und Herausforderungen der Pflegedidaktik",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Perspektive der Berufsp\u00e4dagogik",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Perspektive der Gesundheitswissenschaft und ihre Didaktik",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Perspektive von Studierenden",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Teil 5 Au\u00dfensichten auf die Disziplin",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Teil 5 Au\u00dfenperspektiven auf die Disziplin",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

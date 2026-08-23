@@ -1,0 +1,378 @@
+{
+  "generated_at": 1787493287.208707,
+  "duration_seconds": 49.77253679209389,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Florian Baier und Martina Fischer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Florian Baier",
+        "Martina Fischer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einleitung: Begr\u00fcndungen und Besonderheiten von Schulsozialarbeit an Grundschulen",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil I: Normative Orientierungen im Kontext der Gegenwart",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Olivier Steiner und Rahel Heeg",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Olivier Steiner",
+        "Rahel Heeg"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Lebenslagen und Lebensweisen von Kindern in Deutschland, \u00d6sterreich und der Schweiz",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anke Spies",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Anke Spies"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Grundschulentwicklung mit der B\u00fcndispartnerin Schulsozialarbeit",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Florian Baier und Martina Fischer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Florian Baier",
+        "Martina Fischer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Fachliche Orientierungen f\u00fcr die Praxis: Kinderrechte und Capabilities als konzeptionelle Grundlage der Schulsozialarbeit",
+      "printed_page_number": "65",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil II: Arbeitsbereich Beratung in der Schulsozialarbeit mit Kindern",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Martina Fischer und Regula Berger",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Martina Fischer",
+        "Regula Berger"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gespr\u00e4chsf\u00fchrung mit Kindern",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Katjuscha von Werthern",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Katjuscha von Werthern"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zusammenarbeit von Eltern, Schule und Schulsozialarbeit",
+      "printed_page_number": "97",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sabrina Volk, Christin Haude und Melanie Fabel-Lamla",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Sabrina Volk",
+        "Christin Haude",
+        "Melanie Fabel-Lamla"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kooperation mit Lehrpersonen und multiprofessionelle Zusammenarbeit",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kay Biesel und Clarissa Sch\u00e4r",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Kay Biesel",
+        "Clarissa Sch\u00e4r"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kindeswohlgef\u00e4hrdungen erkennen und Kinderschutz gestalten \u2013 eine Aufgabe der Schulsozialarbeit an Grundschulen",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil III: Projekte, gruppen- und strukturbezogene Aktivit\u00e4ten",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Karlheinz Thimm",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Karlheinz Thimm"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Projekte konzipieren und realisieren",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Magdalene Schmid",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Magdalene Schmid"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Partizipation von Kindern in Grundschulen \u2013 Ansatzpunkte f\u00fcr die Schulsozialarbeit",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Thomas Markert",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Markert"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Spielend bilden \u2013 Zur Bedeutung des Spiels f\u00fcr Bildungsprozesse von Kindern",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kathrin Aghamiri",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Kathrin Aghamiri"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wenn die Spieleute kommen \u2013 Sozialp\u00e4dagogische Gruppenarbeit aus Kindersicht",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Angelika Iser",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Angelika Iser"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Konfliktbearbeitung und Mediation an Grundschulen als Aufgabe f\u00fcr Schulsozialarbeit",
+      "printed_page_number": "197",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ulrich Deinet und Heike Gumz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ulrich Deinet",
+        "Heike Gumz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kindliche Lebenswelten und schulische Sozialr\u00e4ume erkunden",
+      "printed_page_number": "217",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil IV: Praxisbeispiele",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "David Ruesch",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "David Ruesch"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Schweiz: Schulsozialarbeit an Primarschulen im Kanton Basel-Stadt",
+      "printed_page_number": "233",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Julia Magdalene Falkenhain und Georg Kaiser",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Julia Magdalene Falkenhain",
+        "Georg Kaiser"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Deutschland: Schulsozialarbeit an der Grundschule Emmertsgrund",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sandra Jensen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Sandra Jensen"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00d6sterreich: Schulsozialarbeit an Volksschulen am Beispiel der ISOP-Schulsozialarbeit Graz",
+      "printed_page_number": "263",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Herausgeberschaft, Autorinnen und Autoren",
+      "printed_page_number": "277",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bibliografische Informationen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

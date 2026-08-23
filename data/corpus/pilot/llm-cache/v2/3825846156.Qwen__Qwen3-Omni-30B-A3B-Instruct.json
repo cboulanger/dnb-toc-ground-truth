@@ -1,0 +1,406 @@
+{
+  "generated_at": 1787492778.211713,
+  "duration_seconds": 17.628212292212993,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "VORWORT",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "PROLOG",
+      "printed_page_number": "21",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Isabelle Bourgeois: \u201eB\u00e9tove ist kein Druckfehler...\u201c",
+      "printed_page_number": "21",
+      "source_page_index": -1,
+      "authors": [
+        "Isabelle Bourgeois"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wie das Passieren einer Grenze die Wahrnehmung ver\u00e4ndert",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Isabelle Bourgeois"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wolfgang Duchkowitsch: Beschattet und gejagt vom Kanzler Metternich. \u00d6sterreichische Publizisten im deutschen Exil",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Duchkowitsch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00dcBERBLICK ZUM DEUTSCHEN EXIL 1933-1945",
+      "printed_page_number": "46",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Horst M\u00f6ller: Die Emigration aus dem nationalsozialistischen Deutschland. Ursachen, Phasen und Formen",
+      "printed_page_number": "46",
+      "source_page_index": -1,
+      "authors": [
+        "Horst M\u00f6ller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "EXILLAND FRANKREICH",
+      "printed_page_number": "58",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Pierre-Paul Sagave: Sanary, Hauptstadt der deutschen Literatur im Exil (1933-1940). Bericht eines Zeitzeugen",
+      "printed_page_number": "58",
+      "source_page_index": -1,
+      "authors": [
+        "Pierre-Paul Sagave"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pierre Albert: Die Untergrundpresse in Frankreich (1940-1944)",
+      "printed_page_number": "74",
+      "source_page_index": -1,
+      "authors": [
+        "Pierre Albert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "EXILERFAHRUNGEN I: PUBLIZISTEN",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Julius H. Schoeps: \u201eJeder Stein ist besudelt\u201c. Der Weg des Journalisten Fritz Heymann aus Nazi-Deutschland in das Amsterdamer Exil",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [
+        "Julius H. Schoeps"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Guy Stern: Hermann Schwab: Orthodoxer Jude, liberaler Publizist",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [
+        "Guy Stern"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Susanne Kinnebrock: \u201eMan f\u00fchlt sich, als w\u00e4re man geistig ein lebender Leichnam\u201c. Lida Gustava Heymann (1868-1943) \u2013 eine genuin weibliche Exilerfahrung?",
+      "printed_page_number": "108",
+      "source_page_index": -1,
+      "authors": [
+        "Susanne Kinnebrock"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "EXILERFAHRUNGEN II: ZEICHNER",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Hans Bohrmann: Benedikt Fred Dolbin, der Portr\u00e4tist eines halben Jahrhunderts",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Bohrmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Thomas Knieper: Max Lingner: Pressezeichner",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Knieper"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ma\u00efke Furbach-Sinani: \u201eAber meine Feder hat l\u00e4nger gehalten.\u201c Walter Trier (1890 - 1951)",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [
+        "Ma\u00efke Furbach-Sinani"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PROPAGANDAAKTIVIT\u00c4TEN DEUTSCHER EMIGRANTEN IN OST UND WEST",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Heinz Starkulla jr.: Vorbemerkungen zum Themenkomplex",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [
+        "Heinz Starkulla jr."
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Klaus Kirchner: Deutsche Politemigranten in der Sowjetunion als Verfasser von Kriegsflugbl\u00e4ttern f\u00fcr Deutsche 1941 bis 1945",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Kirchner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Heinz Starkulla jr.: Politische Emigranten in der verdeckten anglo-amerikanischen Propaganda",
+      "printed_page_number": "196",
+      "source_page_index": -1,
+      "authors": [
+        "Heinz Starkulla jr."
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PERSPEKTIVEN F\u00dcR DEUTSCHLAND AUS DEM EXIL",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Rudolf St\u00f6ber: Das Netzwerk des Exils. Die Deutschlandberichte der Sopade und Sebastian Haffners Germany: Jekyll & Hyde im Vergleich",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf St\u00f6ber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Markus Bebmer: \u201eDer Tag danach\u201c. Eine Exildebatte um Deutschlands Zukunft",
+      "printed_page_number": "223",
+      "source_page_index": -1,
+      "authors": [
+        "Markus Bebmer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "POSITIONEN IN DEUTSCHLAND W\u00c4HREND DER NS-DIKTATUR",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bernd S\u00f6semann: Informationen aus dem Untergrund. Fritz Eberhards publizistische Beitr\u00e4ge in Sozialistische Warte und Die Sonntags-Zeitung w\u00e4hrend der nationalsozialistischen Diktatur",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd S\u00f6semann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Patrick R\u00f6\u00dfler: Exil daheim. die neue linie und der braune Geist \u2013 Beobachtungen zur Avantgarde im Nazi-Deutschland",
+      "printed_page_number": "261",
+      "source_page_index": -1,
+      "authors": [
+        "Patrick R\u00f6\u00dfler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Stefanie Averbeck/Arnulf Kutsch: Blick nach Amerika im \u201eDritten Reich\u201c. Ein disziplinhistorischer Hinweis auf Ernst Roselius (1904-1941) und seine kommunikationswissenschaftliche Erkenntnisperspektive",
+      "printed_page_number": "282",
+      "source_page_index": -1,
+      "authors": [
+        "Stefanie Averbeck",
+        "Arnulf Kutsch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Peter Patzelt: Ein B\u00fcrokrat des Verbrechens. Hans Hinkel und die \u201eEntjudung\u201c der deutschen Kultur",
+      "printed_page_number": "307",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Patzelt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PROBLEMATISCHE R\u00dcCKKEHR \u2013 REMIGRANTEN IN OST UND WEST",
+      "printed_page_number": "318",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kurt Koszyk: Das Exil und die Nachkriegspresse",
+      "printed_page_number": "318",
+      "source_page_index": -1,
+      "authors": [
+        "Kurt Koszyk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Klaus Arnold: R\u00fcckkehr nach Sibirien oder die Macht. Das Schicksal des KPD-Funktion\u00e4rs, SPD-Politikers und Journalisten Leo Bauer",
+      "printed_page_number": "331",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Arnold"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J\u00fcrgen Schl\u00fcmpfer: F\u00fcr keine Schublade passend: Hans Teubner. Ein Exilant an leitender Stelle im DDR-Journalismus",
+      "printed_page_number": "354",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Schl\u00fcmpfer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "W\u00dcRDIGUNG VON URSULA E. KOCH",
+      "printed_page_number": "377",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Dieter Hanitsch: Portr\u00e4tkarikatur",
+      "printed_page_number": "378",
+      "source_page_index": -1,
+      "authors": [
+        "Dieter Hanitsch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pierre-Paul Sagave: Ursula E. Koch. Eine deutsch-franz\u00f6sische Karriere",
+      "printed_page_number": "379",
+      "source_page_index": -1,
+      "authors": [
+        "Pierre-Paul Sagave"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Detlef Schr\u00f6ter: Hommage an eine \u201eGrenzg\u00e4ngerin\u201c aus \u00dcberzeugung. Pers\u00f6nliche Gru\u00dfworte an Ursula E. Koch",
+      "printed_page_number": "382",
+      "source_page_index": -1,
+      "authors": [
+        "Detlef Schr\u00f6ter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schriftenverzeichnis Ursula E. Koch",
+      "printed_page_number": "388",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Verzeichnis der von Ursula E. Koch betreuten akademischen Abschlussarbeiten",
+      "printed_page_number": "397",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Abbildungsverzeichnis",
+      "printed_page_number": "413",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "printed_page_number": "416",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Personenregister",
+      "printed_page_number": "423",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

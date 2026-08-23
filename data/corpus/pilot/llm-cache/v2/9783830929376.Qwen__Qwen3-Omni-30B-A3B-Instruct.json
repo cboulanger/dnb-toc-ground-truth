@@ -1,0 +1,457 @@
+{
+  "generated_at": 1787492732.690511,
+  "duration_seconds": 16.25275720912032,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Eike Th\u00fcrmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sprachtests im Englischunterricht der Grundschule: Orientierungen auf dem Weg von Behauptungen zu Gewissheiten",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Eike Th\u00fcrmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Vorbemerkungen",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Eike Th\u00fcrmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Sprachstandstests und die systemische Evaluation auf der Makro-Ebene",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [
+        "Eike Th\u00fcrmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Sprach(stands)tests auf der Meso-Ebene",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [
+        "Eike Th\u00fcrmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Sprach(stands)tests auf der Mikro-Ebene",
+      "printed_page_number": "32",
+      "source_page_index": -1,
+      "authors": [
+        "Eike Th\u00fcrmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "38",
+      "source_page_index": -1,
+      "authors": [
+        "Eike Th\u00fcrmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "H\u00f6ren \u2013 Zuh\u00f6ren \u2013 Verstehen",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [
+        "Gaby Engel",
+        "Gisela Ehlers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "M\u00f6glichkeiten der Analyse, Diagnose und gezielten F\u00f6rderung des H\u00f6rverstehens",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [
+        "Gaby Engel",
+        "Gisela Ehlers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Wissenschaftliche Erkenntnisse und Grundlagen zum H\u00f6rverstehen im fremdsprachlichen Lernprozess",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [
+        "Gaby Engel",
+        "Gisela Ehlers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Schulung des H\u00f6rverstehens im Fremdsprachenunterricht",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Gaby Engel",
+        "Gisela Ehlers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. \u00dcberpr\u00fcfung des H\u00f6rverstehens",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Gaby Engel",
+        "Gisela Ehlers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Fazit",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [
+        "Gaby Engel",
+        "Gisela Ehlers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "68",
+      "source_page_index": -1,
+      "authors": [
+        "Gaby Engel",
+        "Gisela Ehlers"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "F\u00f6rderung und Erhebung des Lesens im Englischunterricht der Grundschule",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "Otfried B\u00f6rner",
+        "Stefanie Frisch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einleitung: Zur Rolle des Lesens im Englischunterricht der Grundschule",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "Otfried B\u00f6rner",
+        "Stefanie Frisch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Stand der Forschung: Lesen tut dem Fremdsprachenlernen gut",
+      "printed_page_number": "72",
+      "source_page_index": -1,
+      "authors": [
+        "Otfried B\u00f6rner",
+        "Stefanie Frisch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Der Leseprozess in der Fremdsprache Englisch",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [
+        "Otfried B\u00f6rner",
+        "Stefanie Frisch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Die englische und deutsche Orthografie im Vergleich und Konsequenzen f\u00fcr den Unterricht",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [
+        "Otfried B\u00f6rner",
+        "Stefanie Frisch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Praktische Anregungen zur F\u00f6rderung der Lesemotivation und der Lesefertigkeiten",
+      "printed_page_number": "79",
+      "source_page_index": -1,
+      "authors": [
+        "Otfried B\u00f6rner",
+        "Stefanie Frisch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Lesefertigkeiten \u00fcberpr\u00fcfen",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "Otfried B\u00f6rner",
+        "Stefanie Frisch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Fazit",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [
+        "Otfried B\u00f6rner",
+        "Stefanie Frisch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [
+        "Otfried B\u00f6rner",
+        "Stefanie Frisch"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Englisch sprechen lernen: Kompetenzaufbau im Licht der EVENING-Studie",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [
+        "B\u00e4rbel Diehr",
+        "Markus K\u00f6tter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Alltagstheorien und wissenschaftliche Theorien zum Englischsprechen in der Grundschule",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [
+        "B\u00e4rbel Diehr",
+        "Markus K\u00f6tter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Das Konstrukt \u201eSprechen\u201c",
+      "printed_page_number": "97",
+      "source_page_index": -1,
+      "authors": [
+        "B\u00e4rbel Diehr",
+        "Markus K\u00f6tter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Grunds\u00e4tze der Leistungserhebung f\u00fcr Sprechtests im Grundschulenglisch",
+      "printed_page_number": "104",
+      "source_page_index": -1,
+      "authors": [
+        "B\u00e4rbel Diehr",
+        "Markus K\u00f6tter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Der Sprechtest in EVENING",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "B\u00e4rbel Diehr",
+        "Markus K\u00f6tter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Konsequenzen f\u00fcr den Kompetenzaufbau",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "B\u00e4rbel Diehr",
+        "Markus K\u00f6tter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. R\u00fcckschl\u00fcsse aus den Ergebnissen des EVENING-Sprechtests",
+      "printed_page_number": "118",
+      "source_page_index": -1,
+      "authors": [
+        "B\u00e4rbel Diehr",
+        "Markus K\u00f6tter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "119",
+      "source_page_index": -1,
+      "authors": [
+        "B\u00e4rbel Diehr",
+        "Markus K\u00f6tter"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Testinstrumente und -verfahren des EVENING-Projekts \u2013 Eine empirische Betrachtungsweise",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Groot-Wilken",
+        "Vera Husfeldt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Zur Genese des EVENING-Projekts",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Groot-Wilken",
+        "Vera Husfeldt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Der EVENING-Test \u2013 Erhebung des Lernstands nach zwei Jahren",
+      "printed_page_number": "122",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Groot-Wilken",
+        "Vera Husfeldt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Ergebnisse",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Groot-Wilken",
+        "Vera Husfeldt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Einsatz des EVENING-Tests in der eigenen Klasse bzw. an der eigenen Schule",
+      "printed_page_number": "138",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Groot-Wilken",
+        "Vera Husfeldt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "140",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Groot-Wilken",
+        "Vera Husfeldt"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gelingensbedingungen f\u00fcr guten Englischunterricht ab der Grundschule",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg-U. Kessler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Acht Thesen zum Englischerwerb in der Grundschule",
+      "printed_page_number": "142",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg-U. Kessler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Qualit\u00e4tskriterien f\u00fcr guten Englischunterricht in der Grundschule",
+      "printed_page_number": "148",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg-U. Kessler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Bilanz und Ausblick",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg-U. Kessler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "156",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg-U. Kessler"
+      ],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

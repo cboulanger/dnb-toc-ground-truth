@@ -1,0 +1,295 @@
+{
+  "generated_at": 1787493344.812795,
+  "duration_seconds": 55.77309833304025,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Betrachtungen zu einer Geschichte des Wohnens",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Hans J. Teuteberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "I. Traditionelles Wohnen auf dem Lande und der Umbruch zur modernen Urbanisierung und Industrialisierung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einf\u00fchrung von Helmut Ottenjann, Cloppenburg",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Ottenjann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "L\u00e4ndliche Wohnverh\u00e4ltnisse in holsteinischen Gutsbezirken von 1650 bis 1850",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [
+        "Karl-S. Kramer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sozialgeschichte einer l\u00e4ndlichen Wohnkultur in den Niederlanden im 19. Jahrhundert. Die Gegend von Zaanstreek bei Amsterdam um 1860",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [
+        "Anton J. Schuurman"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Entstehen eines schottischen Industriedorfes",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [
+        "Enid Gauldie"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wohnkultur st\u00e4dtischer und l\u00e4ndlicher Sozialgruppen im 19. Jahrhundert: Das Herzogtum Braunschweig als Beispiel",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [
+        "Ruth E. Mohrmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. St\u00e4dtisches Wohnen und soziale Schichtung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einf\u00fchrung von Peter Borscheid, M\u00fcnster",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Borscheid"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Soziale Hierarchie und st\u00e4dtisches Wohnen in Warschau im 16. und 17. Jahrhundert",
+      "printed_page_number": "119",
+      "source_page_index": -1,
+      "authors": [
+        "Maria Bogucka"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wohnen und soziale Schichtung in G\u00f6ttingen im 18. Jahrhundert",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [
+        "Wieland Sachse"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mechanismen der sozialen Segregation",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [
+        "Bruno Fritzsche"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u201eFamiliengerechtes Wohnen\u201c: Anspruch und Wirklichkeit in Deutschland vor dem Ersten Weltkrieg",
+      "printed_page_number": "169",
+      "source_page_index": -1,
+      "authors": [
+        "Clemens Wischermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Arbeiterwohnungen in Kopenhagen 1840-1914",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [
+        "Ole Hyldtoft"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. Wohnstandard und Wohnkonjunktur",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einf\u00fchrung von Richard H. Tilly, M\u00fcnster",
+      "printed_page_number": "223",
+      "source_page_index": -1,
+      "authors": [
+        "Richard H. Tilly"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Entwicklung englischer Arbeiterh\u00e4user und ihre Raumnutzung im 19. Jahrhundert",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [
+        "John Burnett"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mietverh\u00e4ltnisse von 112 Handarbeiterfamilien in der Mitte der f\u00fcnfziger Jahre des 19. Jahrhunderts in D\u00fcsseldorf",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [
+        "Friedrich-Wilhelm Henning"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bev\u00f6lkerungswanderung und Wohnungsbauzyklen in deutschen Gro\u00dfst\u00e4dten im 19. Jahrhundert",
+      "printed_page_number": "273",
+      "source_page_index": -1,
+      "authors": [
+        "Richard H. Tilly",
+        "Thomas Wellenreuther"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Krise des britischen Wohnungswesens 1830-1920",
+      "printed_page_number": "301",
+      "source_page_index": -1,
+      "authors": [
+        "Richard G. Rodger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IV. Wohnungsf\u00fcrsorge, genossenschaftliche Selbsthilfe, Wohnungspolitik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einf\u00fchrung von Hans J. Teuteberg, M\u00fcnster",
+      "printed_page_number": "333",
+      "source_page_index": -1,
+      "authors": [
+        "Hans J. Teuteberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anf\u00e4nge der Baugenossenschaftsbewegung in Norddeutschland zur Zeit des zweiten deutschen Kaiserreiches",
+      "printed_page_number": "339",
+      "source_page_index": -1,
+      "authors": [
+        "Kai-Detlev Sievers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "L\u00e4ndlicher Werkswohnungsbau im S\u00fcdwesten Englands",
+      "printed_page_number": "357",
+      "source_page_index": -1,
+      "authors": [
+        "Walter Minchinton"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Wohnungsbau industrieller Arbeitgeber in Deutschland bis 1945",
+      "printed_page_number": "373",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnther Schulz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Betriebliches Wohnungswesen im Duisburger Norden 1880-1974",
+      "printed_page_number": "391",
+      "source_page_index": -1,
+      "authors": [
+        "Gertrud Milkereit"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kommunale Wohnungspolitik deutscher Gro\u00dfst\u00e4dte 1871-1914",
+      "printed_page_number": "421",
+      "source_page_index": -1,
+      "authors": [
+        "Walter Steitz",
+        "Wolfgang R. Krabbe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "V. Anhang",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Quellen- und Literaturverzeichnis",
+      "printed_page_number": "447",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Teilnehmer der Internationalen Tagung \u201eSozialgeschichte des Wohnens seit Beginn der Neuzeit\u201c des Sonderforschungsbereichs 164 \u201eVergleichende geschichtliche St\u00e4dteforschung\u201c in M\u00fcnster 26.-28. Mai 1983",
+      "printed_page_number": "472",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

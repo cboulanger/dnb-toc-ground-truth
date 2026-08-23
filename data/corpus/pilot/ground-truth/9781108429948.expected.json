@@ -1,0 +1,120 @@
+{
+  "entries": [
+    {
+      "title": "1. MARITIME NETWORKS, CONNECTIVITY, AND MOBILITY IN THE ANCIENT MEDITERRANEAN",
+      "authors": [
+        "Justin Leidwanger",
+        "Carl Knappett"
+      ],
+      "printed_page_number": "I",
+      "skip": false
+    },
+    {
+      "title": "List of Figures",
+      "authors": [],
+      "printed_page_number": "vii",
+      "skip": true
+    },
+    {
+      "title": "List of Tables",
+      "authors": [],
+      "printed_page_number": "x",
+      "skip": true
+    },
+    {
+      "title": "List of Contributors",
+      "authors": [],
+      "printed_page_number": "xi",
+      "skip": true
+    },
+    {
+      "title": "Preface",
+      "authors": [],
+      "printed_page_number": "xiii",
+      "skip": true
+    },
+    {
+      "title": "2. ROBUST SPATIAL NETWORK ANALYSIS",
+      "authors": [
+        "Tim Evans"
+      ],
+      "printed_page_number": "22",
+      "skip": false
+    },
+    {
+      "title": "3. NEW APPROACHES TO THE THERAN ERUPTION",
+      "authors": [
+        "Ray Rivers"
+      ],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "4. GEOGRAPHY MATTERS: DEFINING MARITIME SMALL WORLDS OF THE AEGEAN BRONZE AGE",
+      "authors": [
+        "Thomas F. Tartaron"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "5. CULTS, CABOTAGE, AND CONNECTIVITY: EXPERIMENTING WITH RELIGIOUS AND ECONOMIC NETWORKS IN THE GRECO-ROMAN MEDITERRANEAN",
+      "authors": [
+        "Barbara Kowalzig"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "6. SHIPWRECKS AS INDICES OF ARCHAIC MEDITERRANEAN TRADE NETWORKS",
+      "authors": [
+        "Elizabeth S. Greene"
+      ],
+      "printed_page_number": "132",
+      "skip": false
+    },
+    {
+      "title": "7. NETLOGO SIMULATIONS AND THE USE OF TRANSPORT AMPHORAS IN ANTIQUITY",
+      "authors": [
+        "Mark L. Lawall",
+        "Shawn Graham"
+      ],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "8. LESSONS LEARNED FROM THE UNINFORMATIVE USE OF NETWORK SCIENCE TECHNIQUES: AN EXPLORATORY ANALYSIS OF TABLEWARE DISTRIBUTION IN THE ROMAN EASTERN MEDITERRANEAN",
+      "authors": [
+        "Tom Brughmans"
+      ],
+      "printed_page_number": "184",
+      "skip": false
+    },
+    {
+      "title": "9. AMPHORAS, NETWORKS, AND BYZANTINE MARITIME TRADE",
+      "authors": [
+        "Paul Arthur",
+        "Marco Leo Imperiale",
+        "Giuseppe Muci"
+      ],
+      "printed_page_number": "219",
+      "skip": false
+    },
+    {
+      "title": "10. NAVIGATING MEDITERRANEAN ARCHAEOLOGY'S MARITIME NETWORKS",
+      "authors": [
+        "Barbara J. Mills"
+      ],
+      "printed_page_number": "238",
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "257",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

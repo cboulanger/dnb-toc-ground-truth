@@ -1,0 +1,415 @@
+{
+  "generated_at": 1787488867.644396,
+  "duration_seconds": 48.07681425008923,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort der Herausgeber",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Rechtstheorie und Rechtswissenschaft",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Werner Krawietz: Juristische Methodik und ihre rechtstheoretischen Implikationen",
+      "printed_page_number": "12",
+      "source_page_index": -1,
+      "authors": [
+        "Werner Krawietz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ottmar Ballweg: Rechtsphilosophie als Grundlagenforschung der Rechtswissenschaft und der Jurisprudenz",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [
+        "Ottmar Ballweg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Werner Maihofer: Rechtstheorie als Basisdisziplin der Jurisprudenz",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Werner Maihofer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erkenntnistheorie des Rechts",
+      "printed_page_number": "79",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Hans Albert: Erkenntnis und Recht. Die Jurisprudenz im Lichte des Kritizismus",
+      "printed_page_number": "80",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Albert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eike von Savigny: Die Jurisprudenz im Schatten des Empirismus. Polemische Anmerkungen zu Hans Albert: Erkenntnis und Recht",
+      "printed_page_number": "97",
+      "source_page_index": -1,
+      "authors": [
+        "Eike von Savigny"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans Albert: Normativismus oder Sozialtechnologie? Bemerkungen zu Eike von Savignys Kritik",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Albert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Norbert Hoerster: Grundthesen analytischer Rechtstheorie",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Hoerster"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Logik des Rechts",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ota Weinberger: Bemerkungen zur Grundlegung der Theorie des juristischen Denkens",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [
+        "Ota Weinberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J\u00fcrgen R\u00f6dig: \u00dcber die Notwendigkeit einer besonderen Logik der Normen",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen R\u00f6dig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wilhelm Opfermann: Zur Gehaltsbestimmung normativer Strukturen durch kombinatorische Matrizenkalk\u00fcle",
+      "printed_page_number": "187",
+      "source_page_index": -1,
+      "authors": [
+        "Wilhelm Opfermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lothar Philipps: Das dialogische Tableau als Werkzeug des Rechts",
+      "printed_page_number": "223",
+      "source_page_index": -1,
+      "authors": [
+        "Lothar Philipps"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eike von Savigny: Die Phausnahme und die Phregel, oder Was die Logik im Recht nicht leisten will",
+      "printed_page_number": "231",
+      "source_page_index": -1,
+      "authors": [
+        "Eike von Savigny"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Begriffstheorie und Systemtheorie des Rechts",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ivan Glaser: Sprachphilosophie und rechtswissenschaftliche Begriffsbildung",
+      "printed_page_number": "246",
+      "source_page_index": -1,
+      "authors": [
+        "Ivan Glaser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Niklas Luhmann: Systemtheoretische Beitr\u00e4ge zur Rechtstheorie",
+      "printed_page_number": "255",
+      "source_page_index": -1,
+      "authors": [
+        "Niklas Luhmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rolf-Peter Calliess: Rechtswissenschaft als Projekt- und Strukturwissenschaft. Ein Beitrag zur Rechtstheorie",
+      "printed_page_number": "277",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf-Peter Calliess"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rupert Schreiber: Probleme rechtswissenschaftlicher Systembildung",
+      "printed_page_number": "289",
+      "source_page_index": -1,
+      "authors": [
+        "Rupert Schreiber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gerhard Otte: Komparative S\u00e4tze im Recht. Zur Logik eines beweglichen Systems",
+      "printed_page_number": "301",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard Otte"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Entscheidungstheorie und Informationstheorie des Rechts",
+      "printed_page_number": "321",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bernhard Schlink: Inwieweit sind juristische Entscheidungen mit entscheidungstheoretischen Modellen theoretisch zu erfassen und praktisch zu bew\u00e4ltigen?",
+      "printed_page_number": "322",
+      "source_page_index": -1,
+      "authors": [
+        "Bernhard Schlink"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hansj\u00fcrgen Garstka: Ein Regelungsmodell der Rechtsanwendung",
+      "printed_page_number": "347",
+      "source_page_index": -1,
+      "authors": [
+        "Hansj\u00fcrgen Garstka"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Herbert Fiedler: Konstruktive und kritische Beitr\u00e4ge der Juristischen Informatik",
+      "printed_page_number": "361",
+      "source_page_index": -1,
+      "authors": [
+        "Herbert Fiedler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wilhelm Steinm\u00fcller: Rechtstheorie, Rechtsinformatik und Rechtspolitik",
+      "printed_page_number": "373",
+      "source_page_index": -1,
+      "authors": [
+        "Wilhelm Steinm\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sprachtheorie und Argumentationstheorie des Rechts",
+      "printed_page_number": "389",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "J\u00fcrgen Schmidt: Einige Bemerkungen zur Pr\u00e4zision der Rechtssprache",
+      "printed_page_number": "390",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Schmidt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Theodor Viehweg: Notizen zu einer rhetorischen Argumentationstheorie der Rechtsdisziplin",
+      "printed_page_number": "439",
+      "source_page_index": -1,
+      "authors": [
+        "Theodor Viehweg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J\u00fcrgen Bl\u00fchdorn: Zum \u201eProblemdenken\u201c und seiner Funktion in der Rechtsfindungslehre",
+      "printed_page_number": "447",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Bl\u00fchdorn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Winfried Hassemer: Juristische Argumentationstheorie und juristische Didaktik",
+      "printed_page_number": "467",
+      "source_page_index": -1,
+      "authors": [
+        "Winfried Hassemer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rechtstheorie und Rechtsdogmatik",
+      "printed_page_number": "481",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Reinhold Zippelius: Der Typenvergleich als Instrument der Gesetzesauslegung",
+      "printed_page_number": "482",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhold Zippelius"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Adalbert Podlech: Rechtstheoretische Bedingungen einer Methodenlehre juristischer Dogmatik",
+      "printed_page_number": "491",
+      "source_page_index": -1,
+      "authors": [
+        "Adalbert Podlech"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Klaus Adomeit: Zivilrechtstheorie und Zivilrechtsdogmatik \u2013 mit einem Beitrag zur Theorie der subjektiven Rechte",
+      "printed_page_number": "503",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Adomeit"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rechtstheorie und Rechtspolitik",
+      "printed_page_number": "523",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Peter Noll: Von der Rechtsprechungswissenschaft zur Gesetzgebungswissenschaft",
+      "printed_page_number": "524",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Noll"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wolfram Zitscher: Theoretische Probleme zur Abgrenzung von Richterrecht und Gesetzesrecht auf der Grundlage wertausf\u00fcllungsbed\u00fcrftiger Tatbestandsmerkmale",
+      "printed_page_number": "543",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfram Zitscher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Waldemar Schreckenberger: \u00dcber die Pragmatik der Rechtstheorie",
+      "printed_page_number": "561",
+      "source_page_index": -1,
+      "authors": [
+        "Waldemar Schreckenberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nachwort",
+      "printed_page_number": "577",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ottmar Ballweg: Interdisziplin\u00e4re Forschung als Sophiatrie",
+      "printed_page_number": "578",
+      "source_page_index": -1,
+      "authors": [
+        "Ottmar Ballweg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "generated_at": 1787491665.8914251,
+  "duration_seconds": 22.94104199996218,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Bischof Paul-Werner",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Paul-Werner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zum Geleit",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "I. DIE ALTE DOMSCHULE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Hans Thurn",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Thurn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die W\u00fcrzburger Domschule von ihren Anf\u00e4ngen bis zum Ausgang des Mittelalters: religionis et rei publicae seminarium?",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erik Soder v. G\u00fcldenstubbe",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [
+        "Erik Soder v. G\u00fcldenstubbe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Spurensuche zu einer Geschichte der W\u00fcrzburger Domschule ab 1500",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Werner Dettelbacher",
+      "printed_page_number": "59",
+      "source_page_index": -1,
+      "authors": [
+        "Werner Dettelbacher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Bruderhof im Wandel der Zeiten",
+      "printed_page_number": "59",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. DIE NEUE DOMSCHULE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "G\u00fcnter Koch",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter Koch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die neue Domschule: Akademie f\u00fcr Erwachsenenbildung der Di\u00f6zese W\u00fcrzburg. Wie sie wurde \u2013 was sie ist",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Josef Pretscher",
+      "printed_page_number": "106",
+      "source_page_index": -1,
+      "authors": [
+        "Josef Pretscher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Theologie im Fernkurs \u2013 Theologie mit Laien",
+      "printed_page_number": "106",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "KURZBIOGRAPHIEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Max Domarus",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [
+        "Max Domarus"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anton Maxsein",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [
+        "Anton Maxsein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Irmgard Krebs",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [
+        "Irmgard Krebs"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fritz Hofmann",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [
+        "Fritz Hofmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Irmgard Krebs",
+      "printed_page_number": "148",
+      "source_page_index": -1,
+      "authors": [
+        "Irmgard Krebs"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ignaz Zangerle",
+      "printed_page_number": "148",
+      "source_page_index": -1,
+      "authors": [
+        "Ignaz Zangerle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "KOMMENTARE UND AUFSTELLUNGEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Franz-Ludwig Knemeyer",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [
+        "Franz-Ludwig Knemeyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Domschule. Ihre rechtliche Stellung im Di\u00f6zesan-Bereich",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Die 1. Vorsitzenden des Vereins Domschule e. V.",
+      "printed_page_number": "166",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Die Mitglieder des Kuratoriums der Domschule",
+      "printed_page_number": "166",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Der Wissenschaftliche Beirat des Fernstudienbereichs der Domschule",
+      "printed_page_number": "166",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Die Akademieleitung der Domschule",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Die Wissenschaftlichen Mitarbeiter der Domschule",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Die jetzigen Mitarbeiter in der Verwaltung der Domschule",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bibliografische Informationen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "http://d-nb.info/900550759",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "DEUTSCHE NATIONALBIBLIOTHEK",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

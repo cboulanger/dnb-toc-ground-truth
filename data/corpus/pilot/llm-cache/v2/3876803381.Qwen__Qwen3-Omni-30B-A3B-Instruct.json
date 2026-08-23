@@ -1,0 +1,203 @@
+{
+  "generated_at": 1787488728.903166,
+  "duration_seconds": 8.414956915890798,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Max L\u00fcthi, Z\u00fcrich",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Max L\u00fcthi"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Diesseits- und Jenseitswelt im M\u00e4rchen",
+      "printed_page_number": "22",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Katalin Horn, Basel",
+      "printed_page_number": "37",
+      "source_page_index": -1,
+      "authors": [
+        "Katalin Horn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Weg",
+      "printed_page_number": "37",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Heino Gebts, Alt-M\u00f6lln",
+      "printed_page_number": "84",
+      "source_page_index": -1,
+      "authors": [
+        "Heino Gebts"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Wald",
+      "printed_page_number": "84",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00c1gnes Kov\u00e1cs, Budapest",
+      "printed_page_number": "92",
+      "source_page_index": -1,
+      "authors": [
+        "\u00c1gnes Kov\u00e1cs"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das M\u00e4rchen vom himmelhohen Baum",
+      "printed_page_number": "92",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ursula Heindrichs, Gelsenkirchen",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [
+        "Ursula Heindrichs"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Brunnen",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Felix Karlinger, Geras/\u00d6sterreich",
+      "printed_page_number": "138",
+      "source_page_index": -1,
+      "authors": [
+        "Felix Karlinger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Meer",
+      "printed_page_number": "138",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Heino Gebts, Alt-M\u00f6lln",
+      "printed_page_number": "156",
+      "source_page_index": -1,
+      "authors": [
+        "Heino Gebts"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Klappfelsen",
+      "printed_page_number": "156",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Otto Huth, T\u00fcbingen",
+      "printed_page_number": "169",
+      "source_page_index": -1,
+      "authors": [
+        "Otto Huth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Glasberg",
+      "printed_page_number": "169",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "S\u00e1ndor Solymossy, Budapest",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [
+        "S\u00e1ndor Solymossy"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Burg auf dem Entenbein",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "August Nitschke, Stuttgart",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [
+        "August Nitschke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Bild der Zukunft im europ\u00e4ischen und au\u00dfereurop\u00e4ischen M\u00e4rchen",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

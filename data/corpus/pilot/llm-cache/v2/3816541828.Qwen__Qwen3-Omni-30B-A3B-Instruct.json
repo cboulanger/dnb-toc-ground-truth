@@ -1,0 +1,215 @@
+{
+  "generated_at": 1787492561.630052,
+  "duration_seconds": 36.032031040871516,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Schulsport im Rahmen einer p\u00e4dagogischen Schulentwicklung",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Dietrich Kurz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die p\u00e4dagogische Grundlegung des Schulsports in Nordrhein-Westfalen",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Dietrich Kurz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Vom Sportartenkanon zum offenen Bewegungskonzept",
+      "printed_page_number": "56",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Ge\u00dfmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Grundlagen eines erziehenden Sportunterrichts",
+      "printed_page_number": "86",
+      "source_page_index": -1,
+      "authors": [
+        "Edgar Beckers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bewegung, Spiel und Sport im Schulprogramm \u2013 Chancen und Probleme",
+      "printed_page_number": "98",
+      "source_page_index": -1,
+      "authors": [
+        "G\u00fcnter Stibbe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Koedukation oder Geschlechtertrennung im Schulsport der Zukunft?",
+      "printed_page_number": "114",
+      "source_page_index": -1,
+      "authors": [
+        "Claudia Kugelmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wagnis \u2013 Risiko \u2013 Sicherheit",
+      "printed_page_number": "126",
+      "source_page_index": -1,
+      "authors": [
+        "Horst H\u00fcbner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zeitgem\u00e4\u00dfe p\u00e4dagogische Kategorien f\u00fcr den Schulsport",
+      "printed_page_number": "126",
+      "source_page_index": -1,
+      "authors": [
+        "Horst H\u00fcbner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Vernetzungen zwischen Schulentwicklung und Schulsportentwicklung in verschiedenen Schulformen",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Grundschulp\u00e4dagogik und Schulsport auf gemeinsamem Weg",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [
+        "Doris K\u00fcpper"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Bedeutung der sportdidaktischen Entwicklung f\u00fcr die Sekundarstufe I",
+      "printed_page_number": "160",
+      "source_page_index": -1,
+      "authors": [
+        "Eckart Balz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Norbert Schulz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sport in der gymnasialen Oberstufe \u2013 Zum Verh\u00e4ltnis von Erziehung und Wissenschaftsp\u00e4dagogik",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Schulz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Fach Sport im Berufskolleg \u2013 Ein Beitrag zur umfassenden beruflichen Handlungskompetenz",
+      "printed_page_number": "205",
+      "source_page_index": -1,
+      "authors": [
+        "Roland Naul"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Profilierung einer Bewegungserziehung aus sportdidaktischer und sonderp\u00e4dagogischer Sicht",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [
+        "Gerd H\u00f6fter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Impulse zur Legitimation ausgew\u00e4hlter Inhaltsbereiche des Schulsports",
+      "printed_page_number": "233",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Den K\u00f6rper wahrnehmen und Bewegungsf\u00e4higkeiten auspr\u00e4gen",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [
+        "Doris K\u00fcpper"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Spielen entdecken und Spielr\u00e4ume nutzen",
+      "printed_page_number": "254",
+      "source_page_index": -1,
+      "authors": [
+        "Edgar Beckers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bewegen an Ger\u00e4ten \u2013 Turnen",
+      "printed_page_number": "283",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Funke-Wieneke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mitarbeiterinnen und Mitarbeiter in Lehrplankommissionen",
+      "printed_page_number": "311",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

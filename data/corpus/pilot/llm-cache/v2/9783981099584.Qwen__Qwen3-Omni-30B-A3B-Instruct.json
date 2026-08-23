@@ -1,0 +1,79 @@
+{
+  "generated_at": 1787492692.759833,
+  "duration_seconds": 2.8749851670581847,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Vorwort des Herausgebers",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Petra Ernst, Gerhard Fehrenbach und Ulrike Jensen, Kehl",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Petra Ernst",
+        "Gerhard Fehrenbach",
+        "Ulrike Jensen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pr\u00e4vention lohnt sich \u2013 Jugend im Blickpunkt der Kommunalen Kriminalpr\u00e4vention in Kehl",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Petra Ernst",
+        "Gerhard Fehrenbach",
+        "Ulrike Jensen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ursula Gernbeck, G\u00f6ttingen",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [
+        "Ursula Gernbeck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Soziales Training im (Warnschuss-)Arrest \u2013 Evaluation eines Modellprojekts in Baden-W\u00fcrttemberg",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [
+        "Ursula Gernbeck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Prof. em. Dr. Wolfgang Heinz, Konstanz",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Heinz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Erfolg jugendstrafrechtlicher Sanktionen \u2013 was wirkt, was wirkt vielleicht, was wirkt nicht?",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Heinz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

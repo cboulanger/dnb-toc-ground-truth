@@ -1,0 +1,940 @@
+{
+  "entries": [
+    {
+      "title": "Einleitung: \u201eZeig mir die Argumente\u201c",
+      "authors": [
+        "Michael Bruce",
+        "Steven Barbone"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "1 Die f\u00fcnf Wege des Thomas von Aquin",
+      "authors": [
+        "Timothy J. Pawl"
+      ],
+      "printed_page_number": "8",
+      "skip": false
+    },
+    {
+      "title": "2 Der kosmologische und der Kontingenzbeweis Gottes",
+      "authors": [
+        "Mark T. Nelson"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "3 Der Gottesbeweis des Kal\u00e2m",
+      "authors": [
+        "Harry Lesser"
+      ],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "4 Der ontologische Gottesbeweis",
+      "authors": [
+        "Sara L. Uckelman"
+      ],
+      "printed_page_number": "24",
+      "skip": false
+    },
+    {
+      "title": "5 Die Pascal\u2019sche Wette",
+      "authors": [
+        "Leslie Burkholder"
+      ],
+      "printed_page_number": "26",
+      "skip": false
+    },
+    {
+      "title": "6 William James: der Wille zum Glauben",
+      "authors": [
+        "A. T. Fyfe"
+      ],
+      "printed_page_number": "30",
+      "skip": false
+    },
+    {
+      "title": "7 Theodizee oder die Frage nach dem Ursprung des B\u00f6sen",
+      "authors": [
+        "Michael Bruce",
+        "Steven Barbone"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "8 Die Verteidigung der Willensfreiheit als Begr\u00fcndung des B\u00f6sen",
+      "authors": [
+        "Grant Sterling"
+      ],
+      "printed_page_number": "35",
+      "skip": false
+    },
+    {
+      "title": "9 Anselm von Canterburys Argument der Willensfreiheit",
+      "authors": [
+        "Julia Hermann"
+      ],
+      "printed_page_number": "38",
+      "skip": false
+    },
+    {
+      "title": "10 David Humes Wunderkritik",
+      "authors": [
+        "Tommaso Piazza"
+      ],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "11 Das Euthyphron-Dilemma",
+      "authors": [
+        "David Baggett"
+      ],
+      "printed_page_number": "46",
+      "skip": false
+    },
+    {
+      "title": "12 Friedrich Nietzsche: \u201eGott ist tot\u201c",
+      "authors": [
+        "Tom Grimwood"
+      ],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "13 Ockhams Rasiermesser",
+      "authors": [
+        "Grant Sterling"
+      ],
+      "printed_page_number": "54",
+      "skip": false
+    },
+    {
+      "title": "14 Parmenides\u2019 Widerlegung der Ver\u00e4nderung",
+      "authors": [
+        "Adrian Bardon"
+      ],
+      "printed_page_number": "58",
+      "skip": false
+    },
+    {
+      "title": "15 McTaggarts Beweis der Irrealit\u00e4t der Zeit",
+      "authors": [
+        "M. Joshua Mozersky"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "16 George Berkeleys Beweis des metaphysischen Idealismus",
+      "authors": [
+        "John M. DePoe"
+      ],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "17 Immanuel Kants Widerlegung des metaphysischen Idealismus",
+      "authors": [
+        "Adrian Bardon"
+      ],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "18 Der Meisterbeweis des Diodoros Kronos",
+      "authors": [
+        "Ludger Jansen"
+      ],
+      "printed_page_number": "70",
+      "skip": false
+    },
+    {
+      "title": "19 David K. Lewis\u2019 Beweis m\u00f6glicher Welten",
+      "authors": [
+        "David Van der Laan"
+      ],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "20 Eine reduktionistische Darstellung personaler Identit\u00e4t",
+      "authors": [
+        "Fauve Lybaert"
+      ],
+      "printed_page_number": "76",
+      "skip": false
+    },
+    {
+      "title": "21 Das Problem geteilter personaler Identit\u00e4t",
+      "authors": [
+        "Ludger Jansen"
+      ],
+      "printed_page_number": "82",
+      "skip": false
+    },
+    {
+      "title": "22 Das Schiff des Theseus",
+      "authors": [
+        "Ludger Jansen"
+      ],
+      "printed_page_number": "84",
+      "skip": false
+    },
+    {
+      "title": "23 Das Problem zeitlich intrinsischer Eigenschaften",
+      "authors": [
+        "Montserrat Bordes"
+      ],
+      "printed_page_number": "86",
+      "skip": false
+    },
+    {
+      "title": "24 Ein moderner modallogischer Beweis der Seele",
+      "authors": [
+        "Rafal Urbaniak",
+        "Agnieszka Rostalska"
+      ],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "Epikur: \u201eDer Tod hat keine Bedeutung f\u00fcr uns\u201c",
+      "authors": [
+        "Steven Luper"
+      ],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "Das Symmetrieargument des Lukrez: \u201eDer Tod ber\u00fchrt uns nicht\u201c",
+      "authors": [
+        "Nicolaus Bommarito"
+      ],
+      "printed_page_number": "96",
+      "skip": false
+    },
+    {
+      "title": "26 Die Ideenlehre Platons und deren Beweis aus der Erkenntnism\u00f6glichkeit",
+      "authors": [
+        "Jurgis (George) Brakas"
+      ],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "27 Platon, Aristoteles und das Argument des dritten Menschen",
+      "authors": [
+        "Jurgis (George) Brakas"
+      ],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "28 Der logische Monismus",
+      "authors": [
+        "Luis Estrada-Gonz\u00e1lez"
+      ],
+      "printed_page_number": "108",
+      "skip": false
+    },
+    {
+      "title": "29 Das Paradox der Maximalit\u00e4t",
+      "authors": [
+        "Nicola Ciprotti"
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "30 Moralische Verantwortung als Beweis des freien Willens",
+      "authors": [
+        "Gerald Harrison"
+      ],
+      "printed_page_number": "118",
+      "skip": false
+    },
+    {
+      "title": "31 Harry Frankfurts Widerlegung des Prinzips alternativer M\u00f6glichkeiten",
+      "authors": [
+        "Gerald Harrison"
+      ],
+      "printed_page_number": "120",
+      "skip": false
+    },
+    {
+      "title": "32 Peter van Inwagens Konsequenzargument gegen den Kompatibilismus",
+      "authors": [
+        "Grant Sterling"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "33 Fatalismus",
+      "authors": [
+        "Fernando Migura",
+        "Agustin Arrieta"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "34 Sartres Argument der Freiheit",
+      "authors": [
+        "Jeffrey Gordon"
+      ],
+      "printed_page_number": "128",
+      "skip": false
+    },
+    {
+      "title": "Das cartesianische Cogito-Argument: \u201eCogito, ergo sum\u201c",
+      "authors": [
+        "Joyce Lazier"
+      ],
+      "printed_page_number": "132",
+      "skip": false
+    },
+    {
+      "title": "Das augustinische Cogito-Argument: \u201eSi fallor, sum\u201c",
+      "authors": [
+        "Brett Gaul"
+      ],
+      "printed_page_number": "134",
+      "skip": false
+    },
+    {
+      "title": "36 Der cartesianische Traum: ein Argument gegen die Existenz der Au\u00dfenwelt",
+      "authors": [
+        "Stephen Hetherington"
+      ],
+      "printed_page_number": "136",
+      "skip": false
+    },
+    {
+      "title": "37 George E. Moores Transparency of Experience",
+      "authors": [
+        "Carlos M. Mu\u00f1oz-Su\u00e1rez"
+      ],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "38 Der Regress als Argument f\u00fcr den Skeptizismus",
+      "authors": [
+        "Scott Aikin"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "39 George E. Moores antiskeptische Argumente",
+      "authors": [
+        "Matthew Frise"
+      ],
+      "printed_page_number": "151",
+      "skip": false
+    },
+    {
+      "title": "40 Das Paradox der Parteilichkeit",
+      "authors": [
+        "Deborah Heikes"
+      ],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "41 Gettiers Argument gegen die klassische Analyse des Wissens",
+      "authors": [
+        "John M. DePoe"
+      ],
+      "printed_page_number": "156",
+      "skip": false
+    },
+    {
+      "title": "42 Hilary Putnams Argument gegen Kulturimperialismus",
+      "authors": [
+        "Maria Caama\u00f1o"
+      ],
+      "printed_page_number": "160",
+      "skip": false
+    },
+    {
+      "title": "43 Donald Davidsons Argument gegen Begriffsschemata",
+      "authors": [
+        "George Wrisley"
+      ],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "44 Willard Quine: zwei Dogmen des Empirismus",
+      "authors": [
+        "Robert Sinclair"
+      ],
+      "printed_page_number": "170",
+      "skip": false
+    },
+    {
+      "title": "Humes Induktionsproblem",
+      "authors": [
+        "James E. Taylor"
+      ],
+      "printed_page_number": "176",
+      "skip": false
+    },
+    {
+      "title": "Humes negatives Argument zum Induktionsproblem",
+      "authors": [
+        "Stefanie Rocknack"
+      ],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "46 Das Problem der Analogie bei Thales und Anaximenes",
+      "authors": [
+        "Giannis Stamatellos"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "47 Willard Quines erkenntnistheoretischer Naturalismus",
+      "authors": [
+        "Robert Sinclair"
+      ],
+      "printed_page_number": "186",
+      "skip": false
+    },
+    {
+      "title": "48 Wilfrid Sellars und der Mythos des Gegebenen",
+      "authors": [
+        "Willem A. de Vries"
+      ],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "49 Wilfrid Sellars und der Ryle\u2019sche Mythos",
+      "authors": [
+        "Willem A. de Vries"
+      ],
+      "printed_page_number": "196",
+      "skip": false
+    },
+    {
+      "title": "50 Aristoteles und das Argument, um alle Argumente zu beenden",
+      "authors": [
+        "Toni Vogel Carey"
+      ],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "51 Im platonischen Staat f\u00fchrt ein gerechtes Leben zur Gl\u00fcckseligkeit",
+      "authors": [
+        "Joshua I. Weinstein"
+      ],
+      "printed_page_number": "206",
+      "skip": false
+    },
+    {
+      "title": "52 Das aristotelische Ergon-Argument",
+      "authors": [
+        "Sean McAleer"
+      ],
+      "printed_page_number": "210",
+      "skip": false
+    },
+    {
+      "title": "53 Das aristotelische Argument der Irreduzibilit\u00e4t des Guten",
+      "authors": [
+        "Jurgis (George) Brakas"
+      ],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "54 Das aristotelische Argument des Perfektionismus",
+      "authors": [
+        "Eric J. Silverman"
+      ],
+      "printed_page_number": "216",
+      "skip": false
+    },
+    {
+      "title": "55 Immanuel Kants kategorischer Imperativ als Quelle der Moral",
+      "authors": [
+        "Joyce Lazier"
+      ],
+      "printed_page_number": "218",
+      "skip": false
+    },
+    {
+      "title": "56 Immanuel Kants Begriff der Achtung",
+      "authors": [
+        "Mark Piper"
+      ],
+      "printed_page_number": "222",
+      "skip": false
+    },
+    {
+      "title": "57 John Stuart Mills Beweis des Utilitarismus",
+      "authors": [
+        "A. T. Fyfe"
+      ],
+      "printed_page_number": "224",
+      "skip": false
+    },
+    {
+      "title": "58 Robert Nozicks Erlebnismaschine als Argument gegen den Hedonismus",
+      "authors": [
+        "Dan Weijers"
+      ],
+      "printed_page_number": "230",
+      "skip": false
+    },
+    {
+      "title": "59 John Mackies Irrtumstheorie der Moral",
+      "authors": [
+        "Robert L. Muhlnickel"
+      ],
+      "printed_page_number": "233",
+      "skip": false
+    },
+    {
+      "title": "60 George E. Moores Argument der offenen Frage",
+      "authors": [
+        "Bruno Verbeek"
+      ],
+      "printed_page_number": "238",
+      "skip": false
+    },
+    {
+      "title": "61 Robert Paul Wolffs Argument gegen staatliche Autorit\u00e4t",
+      "authors": [
+        "Ben Saunders"
+      ],
+      "printed_page_number": "241",
+      "skip": false
+    },
+    {
+      "title": "62 Robert Nozick: Besteuerung ist Zwangsarbeit",
+      "authors": [
+        "Jason Waller"
+      ],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "63 Peter Singer und die Pflicht zur Wohlt\u00e4tigkeit",
+      "authors": [
+        "Joakim Sandberg"
+      ],
+      "printed_page_number": "245",
+      "skip": false
+    },
+    {
+      "title": "64 Die widrige Schlussfolgerung",
+      "authors": [
+        "Joakim Sandberg"
+      ],
+      "printed_page_number": "248",
+      "skip": false
+    },
+    {
+      "title": "65 John Taurek: \u201eZ\u00e4hlt die Anzahl?\"",
+      "authors": [
+        "Ben Saunders"
+      ],
+      "printed_page_number": "251",
+      "skip": false
+    },
+    {
+      "title": "66 Derek Parfits Argument gegen Egalitarismus",
+      "authors": [
+        "Ben Saunders"
+      ],
+      "printed_page_number": "254",
+      "skip": false
+    },
+    {
+      "title": "67 Robert Nozicks Wilt-Chamberlain-Argument",
+      "authors": [
+        "Fabian Wendt"
+      ],
+      "printed_page_number": "257",
+      "skip": false
+    },
+    {
+      "title": "68 Liberaler Feminismus",
+      "authors": [
+        "Julinna C. Oxley"
+      ],
+      "printed_page_number": "260",
+      "skip": false
+    },
+    {
+      "title": "69 Das Argument aus menschlichen Grenzf\u00e4llen",
+      "authors": [
+        "Julia Tanner"
+      ],
+      "printed_page_number": "265",
+      "skip": false
+    },
+    {
+      "title": "70 Ein ethisches Argument f\u00fcr Vegetarismus",
+      "authors": [
+        "Robert L. Muhlnickel"
+      ],
+      "printed_page_number": "267",
+      "skip": false
+    },
+    {
+      "title": "71 Judith Jarvis Thomson und der bewusstlose Geiger",
+      "authors": [
+        "Leslie Burkholder"
+      ],
+      "printed_page_number": "270",
+      "skip": false
+    },
+    {
+      "title": "72 Don Marquis: \u201eWarum Abtreibung unmoralisch ist\u201c",
+      "authors": [
+        "Leslie Burkholder"
+      ],
+      "printed_page_number": "274",
+      "skip": false
+    },
+    {
+      "title": "73 Michael Tooley zu Abtreibung und Kindst\u00f6tung",
+      "authors": [
+        "Ben Saunders"
+      ],
+      "printed_page_number": "276",
+      "skip": false
+    },
+    {
+      "title": "74 James Rachels zu aktiver und passiver Sterbehilfe",
+      "authors": [
+        "Leslie Burkholder"
+      ],
+      "printed_page_number": "278",
+      "skip": false
+    },
+    {
+      "title": "75 Gottfried Wilhelm Leibniz\u2019 Argument f\u00fcr angeborene Ideen",
+      "authors": [
+        "Byron Kaldis"
+      ],
+      "printed_page_number": "282",
+      "skip": false
+    },
+    {
+      "title": "76 Die cartesianischen Argumente f\u00fcr die Unterscheidung von K\u00f6rper und Geist",
+      "authors": [
+        "Dale Jacquette"
+      ],
+      "printed_page_number": "290",
+      "skip": false
+    },
+    {
+      "title": "77 Elisabeth von der Pfalz und das K\u00f6rper-Geist-Problem",
+      "authors": [
+        "Jen McWeeny"
+      ],
+      "printed_page_number": "297",
+      "skip": false
+    },
+    {
+      "title": "78 Saul A. Kripkes Argument f\u00fcr einen Eigenschaftsdualismus von K\u00f6rper und Geist",
+      "authors": [
+        "Dale Jacquette"
+      ],
+      "printed_page_number": "301",
+      "skip": false
+    },
+    {
+      "title": "79 Das Argument mentaler Verursachung",
+      "authors": [
+        "Amir Horowitz"
+      ],
+      "printed_page_number": "304",
+      "skip": false
+    },
+    {
+      "title": "80 Donald Davidsons anomaler Monismus",
+      "authors": [
+        "Amir Horowitz"
+      ],
+      "printed_page_number": "308",
+      "skip": false
+    },
+    {
+      "title": "81 Hilary Putnams Multirealisierbarkeit als Argument gegen die Identit\u00e4tstheorie",
+      "authors": [
+        "Amir Horowitz"
+      ],
+      "printed_page_number": "312",
+      "skip": false
+    },
+    {
+      "title": "82 Das Argument der Supervenienz gegen einen nichtreduktionistischen Physikalismus",
+      "authors": [
+        "Andrew Russo"
+      ],
+      "printed_page_number": "315",
+      "skip": false
+    },
+    {
+      "title": "83 Gilbert Ryles Einwand gegen einen cartesianischen Internalismus",
+      "authors": [
+        "Agustin Arrieta",
+        "Fernando Migura"
+      ],
+      "printed_page_number": "319",
+      "skip": false
+    },
+    {
+      "title": "84 Frank Jacksons Wissensargument gegen den Physikalismus",
+      "authors": [
+        "Amir Horowitz"
+      ],
+      "printed_page_number": "321",
+      "skip": false
+    },
+    {
+      "title": "85 Thomas Nagel: \u201eWie ist es, eine Fledermaus zu sein?\"",
+      "authors": [
+        "Amy Kind"
+      ],
+      "printed_page_number": "325",
+      "skip": false
+    },
+    {
+      "title": "86 David Chalmers Zombie-Argument",
+      "authors": [
+        "Amy Kind"
+      ],
+      "printed_page_number": "328",
+      "skip": false
+    },
+    {
+      "title": "87 Das Argument aus der Enth\u00fcllung",
+      "authors": [
+        "Carlos Mario Mu\u00f1oz-Su\u00e1rez"
+      ],
+      "printed_page_number": "331",
+      "skip": false
+    },
+    {
+      "title": "88 John Searle und das chinesische Zimmer",
+      "authors": [
+        "Leslie Burkholder"
+      ],
+      "printed_page_number": "335",
+      "skip": false
+    },
+    {
+      "title": "89 Karl Poppers Abgrenzungsproblem",
+      "authors": [
+        "Liz Stillwaggon Swan"
+      ],
+      "printed_page_number": "340",
+      "skip": false
+    },
+    {
+      "title": "90 Thomas Kuhns Inkommensurabilit\u00e4t wissenschaftlicher Paradigmen",
+      "authors": [
+        "Liz Stillwaggon Swan",
+        "Michael Bruce"
+      ],
+      "printed_page_number": "342",
+      "skip": false
+    },
+    {
+      "title": "91 Hilary Putnams Keine-Wunder-Argument",
+      "authors": [
+        "Liz Stillwaggon Swan"
+      ],
+      "printed_page_number": "345",
+      "skip": false
+    },
+    {
+      "title": "92 Galileo Galileis Argument der fallenden K\u00f6rper",
+      "authors": [
+        "Liz Stillwaggon Swan"
+      ],
+      "printed_page_number": "347",
+      "skip": false
+    },
+    {
+      "title": "93 Der eliminative Materialismus",
+      "authors": [
+        "Charlotte Blease"
+      ],
+      "printed_page_number": "349",
+      "skip": false
+    },
+    {
+      "title": "94 Ludwig Wittgensteins Privatsprachenargument",
+      "authors": [
+        "George Wrisley"
+      ],
+      "printed_page_number": "351",
+      "skip": false
+    },
+    {
+      "title": "95 Jerry Fodors Argument f\u00fcr einen linguistischen Nativismus",
+      "authors": [
+        "Majid Amini"
+      ],
+      "printed_page_number": "356",
+      "skip": false
+    },
+    {
+      "title": "96 Jerry Fodor und die Unm\u00f6glichkeit zu lernen",
+      "authors": [
+        "Majid Amini"
+      ],
+      "printed_page_number": "359",
+      "skip": false
+    },
+    {
+      "title": "97 Willard Quines Unbestimmtheit der \u00dcbersetzung",
+      "authors": [
+        "Robert Sinclair"
+      ],
+      "printed_page_number": "362",
+      "skip": false
+    },
+    {
+      "title": "98 Donald Davidsons Prinzip der wohlwollenden Interpretation",
+      "authors": [
+        "Maria Caama\u00f1o"
+      ],
+      "printed_page_number": "367",
+      "skip": false
+    },
+    {
+      "title": "99 Gottlob Freges Platonismus",
+      "authors": [
+        "Ivan Kasa"
+      ],
+      "printed_page_number": "370",
+      "skip": false
+    },
+    {
+      "title": "100 Der mathematische Platonismus",
+      "authors": [
+        "Nicolas Pain"
+      ],
+      "printed_page_number": "373",
+      "skip": false
+    },
+    {
+      "title": "Anhang A: Einige Fachbegriffe der Logik",
+      "authors": [],
+      "printed_page_number": "377",
+      "skip": true
+    },
+    {
+      "title": "Anhang B: Symbole und Schlussregeln",
+      "authors": [],
+      "printed_page_number": "378",
+      "skip": true
+    },
+    {
+      "title": "Die Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "383",
+      "skip": true
+    },
+    {
+      "title": "Register",
+      "authors": [],
+      "printed_page_number": "391",
+      "skip": true
+    },
+    {
+      "title": "Erster Teil: Religionsphilosophie",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Zweiter Teil: Metaphysik",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "25 Zwei Beweise f\u00fcr die Harmlosigkeit des Todes",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "35 Das cartesianische und das augustinische Cogito-Argument",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "45 David Hume und das Induktionsproblem",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Vierter Teil: Ethik",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "F\u00fcnfter Teil: Philosophie des Geistes",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Sechster Teil: Sprachphilosophie und Wissenschaftstheorie",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "X Die 100 wichtigsten philosophischen Argumente",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Dritter Teil: Erkenntnistheorie",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "XIV Die 100 wichtigsten philosophischen Argumente",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Dritter Teil: Erkenntnistheorie",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

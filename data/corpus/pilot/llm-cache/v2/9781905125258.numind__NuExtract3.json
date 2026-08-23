@@ -1,0 +1,133 @@
+{
+  "generated_at": 1787492001.1739662,
+  "duration_seconds": 5.6687590829096735,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Acknowledgements",
+      "printed_page_number": "vii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Introduction",
+      "printed_page_number": "ix",
+      "source_page_index": -1,
+      "authors": [
+        "Anton Powell"
+      ],
+      "printed_roman": true,
+      "skip": false
+    },
+    {
+      "title": "1. The Memoirs of Augustus: testimonia and fragments",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Christopher Smith (ed.)"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Cato the Elder and the origins of Roman autobiography",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "Tim Cornell"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Was there an ancient genre of \u2018autobiography\u2019? Or, did Augustus know what he was doing?",
+      "printed_page_number": "41",
+      "source_page_index": -1,
+      "authors": [
+        "Christopher Pelling"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Sulla\u2019s Memoirs",
+      "printed_page_number": "65",
+      "source_page_index": -1,
+      "authors": [
+        "Christopher Smith"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Felicitas and the memoirs of Sulla and Augustus",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [
+        "Alexander Thein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. Augustus, Sulla and the supernatural",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [
+        "T. P. Wiseman"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. Divining a lost text: Augustus\u2019 autobiography and the \u0392\u03af\u03bf\u03c2 \u039a\u03b1\u03af\u03c3\u03b1\u03c1\u03bf\u03c2 of Nicolaus of Damascus",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [
+        "Mark Tober"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8. Cantabrian closure: Augustus\u2019 Spanish war and the ending of his memoirs",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "John Rich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9. Augustus\u2019 age of apology: an analysis of the Memoirs \u2013 and an argument for two further fragments",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [
+        "Anton Powell"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10. Alternative memoirs: tales from the \u2018other side\u2019 of the civil war",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [
+        "Kathryn Welch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

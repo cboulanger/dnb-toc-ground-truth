@@ -1,0 +1,383 @@
+{
+  "generated_at": 1787488902.550231,
+  "duration_seconds": 34.89092720905319,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "VII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "I. SOZIALSTRUKTUR - TECHNIK - \u00d6KONOMIE",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Reinhard BLUM",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Blum"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Theorie und Praxis des \u00dcbergangs zur marktwirtschaftlichen Ordnung in den ehemals sozialistischen L\u00e4ndern",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Blum"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rainer MACKENSEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Mackensen"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Neue Dimensionen der Stadt- und Regionalsoziologie",
+      "printed_page_number": "23",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Mackensen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Frederic VESTER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Frederic Vester"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ein neuer Umgang mit der Energie",
+      "printed_page_number": "48",
+      "source_page_index": -1,
+      "authors": [
+        "Frederic Vester"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christiane BENDER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Christiane Bender"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zur Theorie einer sozialwissenschaftlichen Technikforschung",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Christiane Bender"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J\u00fcrgen CROMM",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Cromm"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Krankheit und Sterblichkeit in ihrer Entwicklung als gesellschaftliches Ph\u00e4nomen",
+      "printed_page_number": "78",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Cromm"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Andrea MAURER / Marina M\u00dcLLER / Gabriele SIEGERT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Andrea Maurer",
+        "Marina M\u00fcller",
+        "Gabriele Siegert"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Dominanz der \u00d6konomie - Reflexionen zur \u00d6konomisierung verschiedener Lebensbereiche in modernen Gesellschaften",
+      "printed_page_number": "99",
+      "source_page_index": -1,
+      "authors": [
+        "Andrea Maurer",
+        "Marina M\u00fcller",
+        "Gabriele Siegert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. POLITIK",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Carlo MONGARDINI",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Carlo Mongardini"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The Problem of Political Representation Today in Western Europe",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [
+        "Carlo Mongardini"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Klaus DEIMER / Anita B. PFAFF / Martin PFAFF",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Deimer",
+        "Anita B. Pfaff",
+        "Martin Pfaff"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sozialpolitik und \u00e4ltere Mitb\u00fcrger",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Deimer",
+        "Anita B. Pfaff",
+        "Martin Pfaff"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Horst REIMANN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Horst Reimann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zivismus mit Resonanz",
+      "printed_page_number": "148",
+      "source_page_index": -1,
+      "authors": [
+        "Horst Reimann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ren\u00e9 K\u00d6NIG",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ren\u00e9 K\u00f6nig"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Neue Linie in der Entwicklungspolitik f\u00fcr Indianer in den Vereinigten Staaten",
+      "printed_page_number": "164",
+      "source_page_index": -1,
+      "authors": [
+        "Ren\u00e9 K\u00f6nig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "William Foote WHYTE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "William Foote Whyte"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Government Bureaucracy and Peruvian Culture",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [
+        "William Foote Whyte"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hanlin LI",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hanlin Li"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Soziale Kontrolle und die chinesische Danwei-Organisation",
+      "printed_page_number": "196",
+      "source_page_index": -1,
+      "authors": [
+        "Hanlin Li"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Michael SCHMID",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Michael Schmid"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zur Evolution von Regeln Eine modelltheoretische \u00dcberlegung",
+      "printed_page_number": "224",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Schmid"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. KULTUR",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Peter GROSS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Peter Gross"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sie wissen, was sie zu tun haben! Vom Beruf zur Selbstberufung",
+      "printed_page_number": "253",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Gross"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Helga REIMANN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Helga Reimann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Mandarin - Stilisierung chinesischer H\u00f6flichkeit",
+      "printed_page_number": "264",
+      "source_page_index": -1,
+      "authors": [
+        "Helga Reimann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nico STEHR",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Nico Stehr"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Macht und Ohnmacht wissenschaftlicher Erkenntnis",
+      "printed_page_number": "281",
+      "source_page_index": -1,
+      "authors": [
+        "Nico Stehr"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Autorinnen und Autoren des Bandes",
+      "printed_page_number": "307",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

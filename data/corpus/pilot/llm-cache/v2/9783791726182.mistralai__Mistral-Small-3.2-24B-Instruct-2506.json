@@ -1,0 +1,233 @@
+{
+  "generated_at": 1787493375.278454,
+  "duration_seconds": 24.286575417034328,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Martin Stuflesser",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort: Eine Vortragsreihe zur Liturgiereform des II. Vatikanischen Konzils",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Stuflesser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2011",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Friedrich Kardinal Wetter",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Liturgiereform als Kirchenreform",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Friedrich Kardinal Wetter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rupert Berger",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kirche, die Eucharistie feiert",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Rupert Berger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2012",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bischof Friedhelm Hofmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Predigt: Tagung zu \u201e50 Jahre Liturgiekonstitution des II. Vaticanums\u201c",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [
+        "Bischof Friedhelm Hofmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erzbischof Piero Marini",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Konstitution \u00fcber die Liturgie Sacrosanctum Concilium und die p\u00e4pstlichen Liturgien von Papst Johannes Paul II.",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Erzbischof Piero Marini"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nicole Stockhoff",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eSei Verwalter der Mysterien Gottes. \u2013 Nicht ihr H\u00fcter\u201c",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "Nicole Stockhoff"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2013",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bischof Friedhelm Hofmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Predigt: 50 Jahre Liturgiekonstitution \u201eSacrosanctum Concilium\u201c",
+      "printed_page_number": "91",
+      "source_page_index": -1,
+      "authors": [
+        "Bischof Friedhelm Hofmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erzbischof Gerhard Ludwig M\u00fcller",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "50 Jahre Liturgiereform",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [
+        "Erzbischof Gerhard Ludwig M\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Winfried Haunerland",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kritik an der Liturgiereform und an ihren Kritikern",
+      "printed_page_number": "107",
+      "source_page_index": -1,
+      "authors": [
+        "Winfried Haunerland"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Danksagung",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Verzeichnis der Konzilsdokumente",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

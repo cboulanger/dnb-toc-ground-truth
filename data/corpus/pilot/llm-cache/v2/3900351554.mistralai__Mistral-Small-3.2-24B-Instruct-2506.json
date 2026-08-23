@@ -1,0 +1,442 @@
+{
+  "generated_at": 1787493158.4250612,
+  "duration_seconds": 30.552530416985974,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "INHALT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort der Herausgeber",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Josef Christian Aigner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zur Einleitung: Die Last der Lust. Anmerkungen zur Liberalisierung des Sexuallebens.",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Josef Christian Aigner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HISTORISCHE ASPEKTE SEXUALWISSENSCHAFTLICHER FORSCHUNG",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Erwin J. Haeberle",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zur Geschichte der Pornografie: Fotografierte Unzucht. Ein historischer \u00dcberblick.",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [
+        "Erwin J. Haeberle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Raymond Burt, Barbara Eppensteiner, Johannes Reichmayr",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sexualforschung und Psychoanalyse: Friedrich Salomon Krauss und Sigmund Freud \u2014 gelehrte Zuh\u00f6rer nach unten.",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [
+        "Raymond Burt",
+        "Barbara Eppensteiner",
+        "Johannes Reichmayr"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Josef Dvorak",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ein Sexualforscher als Patient. Die Analyse des Otto Gro\u00df bei Wilhelm Stekl.",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [
+        "Josef Dvorak"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "FRAUENFORSCHUNG UND SEXUALWISSENSCHAFT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Christine Steiniger",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ja, das Studium der Weiber ist schwer! \u00dcberlegungen zur Frauenforschung.",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [
+        "Christine Steiniger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Cheryl Benard / Edit Schlaffer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Starkes Geschlecht \u2014 schwaches Geschlecht? Zur Diskussion um die sexuellen Machtverh\u00e4ltnisse.",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [
+        "Cheryl Benard",
+        "Edit Schlaffer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Demosthenes Savramis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ursachen und Wirkungen der Polarisierung der Geschlechter.",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "Demosthenes Savramis"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "BEITR\u00c4GE ZUR SOZIOSEXUALIT\u00c4T: SEXUALP\u00c4DAGOGIK UND BERATUNGARBEIT IN THEORIE UND PRAXIS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ignatz Kerscher",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Friedensp\u00e4dagogische Aspekte der Sexualerziehung.",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [
+        "Ignatz Kerscher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Brigitte Maier",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sexualerziehung in der Schulpraxis. Konflikte zwischen Lehrerpers\u00f6nlichkeit und Erziehungsauftrag.",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "Brigitte Maier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rolf Gindorf",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bisexuell, homophil, schwul. Homosexualit\u00e4ten in Theorie und Beratungsarbeit.",
+      "printed_page_number": "155",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Gindorf"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "NEUERE ERGEBNISSE ZUR SEXUALFORSCHUNG",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "J\u00f6rg Bopp",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Wunsch nach Strafe \u2014 \u00dcber den Umgang mit AIDS.",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg Bopp"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Reinhart Lempp",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Jugendliche als Sexualstraft\u00e4ter? Ein Beitrag zu den \u201eAbwegen\u201c der sexuellen Kontaktaufnahme in der Reifezeit.",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhart Lempp"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rolf Schwendter",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Intimnetzwerke. \u00dcber die Schwierigkeiten, in ihrer Erforschung weiterzukommen.",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Schwendter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wolfgang Kr\u00f6hn",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wer sind die Vergewaltiger? Sexuelle Gewalt als Folge geschlechtlicher Machtverh\u00e4ltnisse.",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Kr\u00f6hn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ZUM GEGENW\u00c4RTIGEN STAND SEXUELLER LIBERALISIERUNG",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Klaus Ottomeyer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Geisterj\u00e4ger. Sexuelle W\u00fcnsche, M\u00e4nnerangst und Militarisierung im Spiegel eines zeitgen\u00f6ssischen Kulturprodukts.",
+      "printed_page_number": "211",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Ottomeyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Uwe Bolius",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00dcber die Freiheit der K\u00f6rper.",
+      "printed_page_number": "223",
+      "source_page_index": -1,
+      "authors": [
+        "Uwe Bolius"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Julius Mende",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ein Rest von Sinnlichkeit. Oder: Emanzipatorischer Abfall am Rande der Sexwelle?",
+      "printed_page_number": "231",
+      "source_page_index": -1,
+      "authors": [
+        "Julius Mende"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rainer M\u00fcnz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sexualit\u00e4t und Gesellschaft. Eine Standortbestimmung.",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer M\u00fcnz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "SEXUALWISSENSCHAFT \u201eINTERN\u201c",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Eva Bornemann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Leichen am Legendenwegrand. Sehr pers\u00f6nliche Anmerkungen zum innerehelichen Verh\u00e4ltnis von Licht, Identit\u00e4t und Schatten.",
+      "printed_page_number": "261",
+      "source_page_index": -1,
+      "authors": [
+        "Eva Bornemann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Oswald Kolle",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ist angesichts der gegenw\u00e4rtigen Liberalisierung Optimismus angebracht? Ein Gespr\u00e4ch mit Ernest Borneman.",
+      "printed_page_number": "265",
+      "source_page_index": -1,
+      "authors": [
+        "Oswald Kolle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "printed_page_number": "277",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

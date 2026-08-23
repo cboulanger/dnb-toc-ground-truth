@@ -1,0 +1,231 @@
+{
+  "generated_at": 1787491561.196268,
+  "duration_seconds": 53.3031542499084,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Hinkel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "I. DAS NIBELUNGENLIED",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Nibelungenlied \u2013 Inhalt",
+      "printed_page_number": "10",
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Heinzle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. DIE HANDSCHRIFT L",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Traurige Tr\u00fcmmer?",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Handschrift L im Kontext der \u201eNibelungenlied\u201c-\u00dcberlieferung",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Klein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der \u201eNibelungenbinder\u201c",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Entdeckungen durch Einbandforschung",
+      "printed_page_number": "41",
+      "source_page_index": -1,
+      "authors": [
+        "Kurt Hans Staub"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "So wenig wie m\u00f6glich, so viel wie n\u00f6tig",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Restaurierung der Mainzer Nibelungenlied-Fragmente 1988",
+      "printed_page_number": "53",
+      "source_page_index": -1,
+      "authors": [
+        "Annette Lang-Edwards"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Geschriebenes als Artefakt",
+      "printed_page_number": "74",
+      "source_page_index": -1,
+      "authors": [
+        "Alban Grimm"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Mainzer \u201eNibelungenlied\u201c-Handschrift L",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Transskription",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Klein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. GESCHICHTE UND GESCHICHTEN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Burgunden: Ein unsichtbares Volk?",
+      "printed_page_number": "119",
+      "source_page_index": -1,
+      "authors": [
+        "Mathilde Gr\u00fcnewald"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u201eNibelungenstadt\u201c",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Rezeption der Nibelungen in Worms",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [
+        "Busso Diekamp"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nibelungen in Mainz",
+      "printed_page_number": "209",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Hinkel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IV. HELDISCHES UND CHRISTLICHES",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Untergang der Burgunden und seine christliche Deutung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eNibelungenlied\u201c und \u201eNibelungenklage\u201c",
+      "printed_page_number": "237",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Schirok"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "V. BIBLIOGRAPHISCHES",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kabinettausstellung \u201eNibelungen Schnipsel\u201c",
+      "printed_page_number": "298",
+      "source_page_index": -1,
+      "authors": [
+        "Martina Pauly"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nachweis der Abbildungen",
+      "printed_page_number": "328",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zu den Autorinnen und Autoren",
+      "printed_page_number": "330",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

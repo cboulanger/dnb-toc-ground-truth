@@ -1,0 +1,239 @@
+{
+  "generated_at": 1787489739.3880188,
+  "duration_seconds": 44.0237830420956,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort.",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ars Moriendi \u2013 Ars Memoriae?",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gl\u00fcckliches Ged\u00e4chtnis am Horizont der Trauerarbeit",
+      "printed_page_number": "12",
+      "source_page_index": -1,
+      "authors": [
+        "Fana Schiefen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kommentare",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Und das unfreiwillige Vergessen? (Aurica Jax)",
+      "printed_page_number": "41",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gr\u00fcndender Bruch \u2013 oder: Glaube und Liebe als doing loss (Sarah Rosenhauer)",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Spuren der Trauer (Gregor Taxacher)",
+      "printed_page_number": "46",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Liebe tr\u00e4gt nicht",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christliche Hoffnung im Zeitalter technischer Amortalit\u00e9 und aufgekl\u00e4rter Endlichkeit",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Sarah Rosenhauer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kommentare",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Unendlich unerl\u00f6st \u2013 oder warum der Transhumanismus aus christlich-eschatologischer Perspektive ein hoffnungsloser Fall ist (Fana Schiefen)",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hoffnung als animalische Existenzweise (Gregor Taxacher)",
+      "printed_page_number": "94",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Ort der Erl\u00f6sung (Aurica Jax)",
+      "printed_page_number": "98",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hoffen f\u00fcr die Anderen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Notizen zu einer apokalyptischen und postanthropozentrischen Eschatologie",
+      "printed_page_number": "100",
+      "source_page_index": -1,
+      "authors": [
+        "Gregor Taxacher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kommentare",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Apokalyptische Halbierungstendenzen (Sarah Rosenhauer)",
+      "printed_page_number": "138",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Abschied vom Gericht? (Aurica Jax)",
+      "printed_page_number": "142",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hoffnung jenseits des Jenseits (Fana Schiefen)",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u201eWeniger nicht\u201c",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Leibliches Aufstehen von Paulus bis zu Black Lives Matter",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [
+        "Aurica Jax"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kommentare",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Leibliche Auferstehung \u2013 welche Leiber? (Gregor Taxacher)",
+      "printed_page_number": "162",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Aufstand gegen Sterben \u00fcben (Fana Schiefen)",
+      "printed_page_number": "166",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mehr Moderne wagen \u2013 nicht weniger (Sarah Rosenhauer)",
+      "printed_page_number": "169",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Autorinnen und Autoren",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bibliografische Informationen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

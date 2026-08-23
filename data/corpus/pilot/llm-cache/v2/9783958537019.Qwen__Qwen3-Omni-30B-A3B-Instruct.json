@@ -1,0 +1,206 @@
+{
+  "generated_at": 1787492111.399488,
+  "duration_seconds": 23.813275874825194,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "0 Einleitung - Licht und Schatten",
+      "printed_page_number": "8",
+      "source_page_index": -1,
+      "authors": [
+        "Prof. Dr. Andreas Koch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Vorwort: Bleiben wir zuversichtlich!",
+      "printed_page_number": "12",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Schay",
+        "Roland Helsper",
+        "Niklas Helsper"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Kinder und Jugendliche im Kontext der Sucht- und Jugendhilfe",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Schay",
+        "Fabian Peters"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Kinder und Jugendliche aus psychosozial belasteten und \u201earmen\u201c Lebensverh\u00e4ltnissen",
+      "printed_page_number": "63",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Schay"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Jugendhilfe trifft Suchthilfe",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Kuhlmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Gelungene Kooperation von Jugendhilfe, Selbsthilfe und Suchthilfe \u2013 ein Dortmunder Erfahrungsbericht",
+      "printed_page_number": "128",
+      "source_page_index": -1,
+      "authors": [
+        "Kirsten Grabowsky"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Ambulant Betreutes Wohnen mit Kindern \u2013 Bericht \u00fcber ein Pilotprojekt in Bremen",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [
+        "Janina Tessloff"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Hilfsanl\u00e4sse & Erfahrungen mit den Hilfesystemen von suchtbelasteten Eltern \u2013 Qualitative Inhaltsanalyse von 12 Interviews mit suchtkranken Elternteilen",
+      "printed_page_number": "144",
+      "source_page_index": -1,
+      "authors": [
+        "Niklas Helsper",
+        "Kim Kemner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Die Thematisierung von Vaterschaft im Rahmen der Sucht- und Drogenberatung als m\u00f6glicher Zugangsweg f\u00fcr Unterst\u00fctzungsleistungen von Eltern und Kindern in suchtbelasteten Familien",
+      "printed_page_number": "164",
+      "source_page_index": -1,
+      "authors": [
+        "Dr. Brigitta L\u00f6kenhoff",
+        "Martina T\u00f6dte"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 \u201eUnd jedem Anfang wohnt ein Zauber inne, der uns besch\u00fctzt und der uns hilft, zu leben.\u201c",
+      "printed_page_number": "183",
+      "source_page_index": -1,
+      "authors": [
+        "Roland Helsper",
+        "eine Betroffene"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Kinder aus suchtbelasteten Familien \u2013 warum die Erwachsenenpsychiatrie sich damit besch\u00e4ftigen sollte: ein pers\u00f6nlicher Erfahrungsbericht",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [
+        "Dr. Antje Niedersteberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11 Elternperspektive: Unterst\u00fctzungsangebote von suchtbelasteten Eltern \u2013 Auswertung eines Interviews von betroffenen Eltern",
+      "printed_page_number": "233",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Schay",
+        "Roland Helsper",
+        "Kristin D\u00fcrre"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12 Die Fachklinik Villa Lily \u2013 Entstehung eines Modellprojektes f\u00fcr suchtbelastete Familien",
+      "printed_page_number": "243",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Schwehm",
+        "Dr. Dirk Kratz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13 Lauftherapie und ihr therapeutischer Nutzen f\u00fcr Kinder und Jugendliche mit einer Traumatisierung",
+      "printed_page_number": "252",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Schay",
+        "Fabian Peters"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14 Die Zufriedenheit der Klient*innen mit den Hilfeleistungen und die Beurteilung und Zufriedenheit der Betreuer der Suchthilfe und Jugendhilfe",
+      "printed_page_number": "286",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Schay",
+        "Roland Helsper"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15 AUSBLICK: Bleiben wir zuversichtlich!",
+      "printed_page_number": "302",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Schay",
+        "Roland Helsper",
+        "Niklas Helsper"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "16 Pl\u00e4doyer und Nachwort: Die effektive Vernetzung aller Hilfesysteme!",
+      "printed_page_number": "308",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Schay"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "17 Die Autor*innen",
+      "printed_page_number": "312",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

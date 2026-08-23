@@ -1,0 +1,179 @@
+{
+  "generated_at": 1787493172.9768279,
+  "duration_seconds": 14.544422417180613,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "About the Authors",
+      "printed_page_number": "vii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Editors' Foreword",
+      "printed_page_number": "xii",
+      "source_page_index": -1,
+      "authors": [
+        "Joan Huber",
+        "Beth E. Schneider"
+      ],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Introduction",
+      "printed_page_number": "xiii",
+      "source_page_index": -1,
+      "authors": [
+        "Beth E. Schneider",
+        "Joan Huber"
+      ],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Part I: The Social Context of AIDS",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1. Sociology and People Living with AIDS",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Barry D. Adam"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. AIDS and Class, Gender, and Race Relations",
+      "printed_page_number": "19",
+      "source_page_index": -1,
+      "authors": [
+        "Beth E. Schneider"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part II: The Social Context of Risky Behavior",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "3. Unprotected Sex: Understanding Gay Men's Participation",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [
+        "Martin P. Levine",
+        "Karolynn Siegel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Women Don't Wear Condoms: AIDS Risk Among Sexual Partners of IV Drug Users",
+      "printed_page_number": "72",
+      "source_page_index": -1,
+      "authors": [
+        "Laurie Wermuth",
+        "Jennifer Ham",
+        "Rebecca L. Robbins"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. Sexual Behavior of Male Prostitutes",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [
+        "Rhoda Estep",
+        "Dan Waldorf",
+        "Toby Marotta"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Part III: The Social Context of Treatment and Policy",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "6. Organizing Drug Users Against AIDS",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "Samuel R. Friedman",
+        "Meryl Sufian",
+        "Richard Curtis",
+        "Alan Neaigus",
+        "Don C. Des Jarlais"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. From Burying to Caring: Family AIDS Support Groups",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [
+        "Barbara G. Sosnowitz",
+        "David R. Kovacs"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8. Forced Blood Testing: Role Taking, Identity, and Discrimination",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "Michael L. Schwalbe",
+        "Clifford L. Staples"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9. Health Care and the Social Construction of AIDS: The Impact of Disease Definitions",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [
+        "Stephen Crystal",
+        "Marguerite Jackson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Glossary",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

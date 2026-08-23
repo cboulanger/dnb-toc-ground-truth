@@ -1,0 +1,151 @@
+{
+  "generated_at": 1787491800.4017,
+  "duration_seconds": 43.20581087493338,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "List of Figures",
+      "printed_page_number": "vii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of Tables",
+      "printed_page_number": "x",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of Contributors",
+      "printed_page_number": "xi",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Preface",
+      "printed_page_number": "xiii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "1. MARITIME NETWORKS, CONNECTIVITY, AND MOBILITY IN THE ANCIENT MEDITERRANEAN",
+      "printed_page_number": "I",
+      "source_page_index": -1,
+      "authors": [
+        "Justin Leidwanger",
+        "Carl Knappett"
+      ],
+      "printed_roman": true,
+      "skip": false
+    },
+    {
+      "title": "2. ROBUST SPATIAL NETWORK ANALYSIS",
+      "printed_page_number": "22",
+      "source_page_index": -1,
+      "authors": [
+        "Tim Evans"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. NEW APPROACHES TO THE THERAN ERUPTION",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [
+        "Ray Rivers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. GEOGRAPHY MATTERS: DEFINING MARITIME SMALL WORLDS OF THE AEGEAN BRONZE AGE",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas F. Tartaron"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5. CULTS, CABOTAGE, AND CONNECTIVITY: EXPERIMENTING WITH RELIGIOUS AND ECONOMIC NETWORKS IN THE GRECO-ROMAN MEDITERRANEAN",
+      "printed_page_number": "93",
+      "source_page_index": -1,
+      "authors": [
+        "Barbara Kowalzig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6. SHIPWRECKS AS INDICES OF ARCHAIC MEDITERRANEAN TRADE NETWORKS",
+      "printed_page_number": "132",
+      "source_page_index": -1,
+      "authors": [
+        "Elizabeth S. Greene"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7. NETLOGO SIMULATIONS AND THE USE OF TRANSPORT AMPHORAS IN ANTIQUITY",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [
+        "Mark L. Lawall",
+        "Shawn Graham"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8. LESSONS LEARNED FROM THE UNINFORMATIVE USE OF NETWORK SCIENCE TECHNIQUES: AN EXPLORATORY ANALYSIS OF TABLEWARE DISTRIBUTION IN THE ROMAN EASTERN MEDITERRANEAN",
+      "printed_page_number": "184",
+      "source_page_index": -1,
+      "authors": [
+        "Tom Brughmans"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9. AMPHORAS, NETWORKS, AND BYZANTINE MARITIME TRADE",
+      "printed_page_number": "219",
+      "source_page_index": -1,
+      "authors": [
+        "Paul Arthur",
+        "Marco Leo Imperiale",
+        "Giuseppe Muci"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10. NAVIGATING MEDITERRANEAN ARCHAEOLOGY'S MARITIME NETWORKS",
+      "printed_page_number": "238",
+      "source_page_index": -1,
+      "authors": [
+        "Barbara J. Mills"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "generated_at": 1787492420.810713,
+  "duration_seconds": 18.32035516621545,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Foreword",
+      "printed_page_number": "vii",
+      "source_page_index": -1,
+      "authors": [
+        "Henry M. Hoenigswald",
+        "Franklin C. Southworth"
+      ],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgments",
+      "printed_page_number": "ix",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "I. Introduction",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "A R\u00e9sum\u00e9 of Comparative Studies in South American Indian Languages",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Mary Ritchie Key"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. Classification and Typological Problems",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "How to Deal with Unclassified Languages: An Ethnolinguistic View of Comparative Linguistics",
+      "printed_page_number": "23",
+      "source_page_index": -1,
+      "authors": [
+        "Aurore Monod-Becquelin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Vowel Shift in the Tupi-Guarani Language Family: A Typological Approach",
+      "printed_page_number": "36",
+      "source_page_index": -1,
+      "authors": [
+        "Marilia Fac\u00f3 Soares",
+        "Yonne Leite"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "A Spatial Model of Lexical Relationships Among Fourteen Cariban Varieties",
+      "printed_page_number": "54",
+      "source_page_index": -1,
+      "authors": [
+        "Mar\u00eda Eugenia Villal\u00f3n"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. Comparative Linguistics",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The Phonology of Ranquel and Phonological Comparisons with Other Mapuche Dialects",
+      "printed_page_number": "97",
+      "source_page_index": -1,
+      "authors": [
+        "Ana Fern\u00e1ndez Garay"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Southern Peruvian Quechua Consonant Lenition",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [
+        "Bruce Mannheim"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IV. Grammatical Matters",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Variations in Tense-Aspect Markers Among Inga (Quechuan) Dialects",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "Stephen H. Levinson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The Minimal Finite Verbal Paradigm in Mapuche or Araucanian at the End of the Sixteenth Century",
+      "printed_page_number": "166",
+      "source_page_index": -1,
+      "authors": [
+        "Adalberto Salas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "V. Ethnolinguistics",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The Tal\u00e1tur: Ceremonial Chant of the Atacama People",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [
+        "Gustavo Rodr\u00edguez"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VI. Distant Relationships",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Amazonian Origins and Affiliations of the Timucua Language",
+      "printed_page_number": "195",
+      "source_page_index": -1,
+      "authors": [
+        "Julian Granberry"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Uto-Aztecan Affinities with Panoan of Peru I: Correspondences",
+      "printed_page_number": "243",
+      "source_page_index": -1,
+      "authors": [
+        "Lila Wistrand-Robinson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Appendix: Language Families",
+      "printed_page_number": "277",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bibliography of Comparative Studies",
+      "printed_page_number": "279",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Contributors",
+      "printed_page_number": "287",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "291",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

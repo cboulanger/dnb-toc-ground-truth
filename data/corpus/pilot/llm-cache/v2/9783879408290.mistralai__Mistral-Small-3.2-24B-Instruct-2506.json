@@ -1,0 +1,85 @@
+{
+  "generated_at": 1787493510.1655428,
+  "duration_seconds": 10.183075959095731,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Kurzbiographie Paul Lorenzen",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Feier zur Gr\u00fcndung der Paul Lorenzen-Stiftung",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Mittelstra\u00df"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einf\u00fchrung",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Mittelstra\u00df"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Aktualit\u00e4t Methodischen Denkens",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "Carl Friedrich Gethmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1 Philosophieren als Verfahrenskunst",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Carl Friedrich Gethmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Fundierung und Kritik der Wissenschaften",
+      "printed_page_number": "22",
+      "source_page_index": -1,
+      "authors": [
+        "Carl Friedrich Gethmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Lebensweltliche Grundlagen des Philosophierens",
+      "printed_page_number": "28",
+      "source_page_index": -1,
+      "authors": [
+        "Carl Friedrich Gethmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Methodisches Denken und politische Praxis",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [
+        "Carl Friedrich Gethmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}
