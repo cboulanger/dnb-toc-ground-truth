@@ -403,6 +403,30 @@ class TestRenderModelComparisonHtml(unittest.TestCase):
         self.assertIn('<a href="index.html">&larr; Corpora</a>', html)
         self.assertIn('<a href="pilot.html">&larr; pilot</a>', html)
 
+    def test_model_with_no_arbitration_gt_coverage_sorts_last_and_shows_dashes(self):
+        data = ModelComparisonData(
+            name="pilot", models=["model__a", "model__b"],
+            agreements=[PairAgreement(model_a="model__a", model_b="model__b", mean_agreement=0.9, n_books=5)],
+            gt_metrics=[
+                ModelGroundTruthMetrics(model="model__a", precision=0.8, recall=0.8, f1=0.8, n_books=10),
+            ],  # model__b has NO arbitration-GT coverage at all
+            crossref_results={"model__a": ([], []), "model__b": ([], [])},
+            scored_pairs=[], unscored_pairs=[("model__a", "model__b")],
+        )
+        html = render_model_comparison_html(data)
+        table = html[html.index("Per-model accuracy"):html.index("Candidate pair ranking")]
+        # model__a (has coverage) must appear before model__b (no coverage) in the accuracy table.
+        self.assertLess(table.index("model__a"), table.index("model__b"))
+        row_a = table[table.index("<tr><td>model__a"):table.index("<tr><td>model__b")]
+        row_b = table[table.index("<tr><td>model__b"):]
+        # model__a's real F1 shows as a proportional bar.
+        self.assertIn('<div style="width:80%; background:#2e7d32; height:0.5rem;"></div>', row_a)
+        # model__b's row shows dashes for its missing arbitration-GT columns...
+        self.assertIn('<td class="num">-</td><td class="num">-</td><td class="num">-</td><td class="num">-</td>', row_b)
+        # ...and its bar cell is empty, not a fabricated 0%-width div.
+        self.assertIn("<td></td>", row_b)
+        self.assertNotIn("width:0%", row_b)
+
 
 if __name__ == "__main__":
     unittest.main()

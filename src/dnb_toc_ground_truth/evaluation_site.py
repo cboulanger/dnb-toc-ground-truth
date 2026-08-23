@@ -385,15 +385,17 @@ def _render_model_accuracy_table(
             )
         else:
             cr_cells = '<td class="num">-</td><td class="num">-</td><td class="num">-</td><td class="num">-</td>'
-        bar_width = f"{gt.f1:.0%}" if gt else "0%"
+        bar_cell = (
+            f'<td><div style="width:{gt.f1:.0%}; background:#2e7d32; height:0.5rem;"></div></td>'
+            if gt else "<td></td>"
+        )
         rows.append(
-            f"<tr><td>{_html.escape(model)}</td>{gt_cells}{cr_cells}"
-            f'<td><div style="width:{bar_width}; background:#2e7d32; height:0.5rem;"></div></td></tr>'
+            f"<tr><td>{_html.escape(model)}</td>{gt_cells}{cr_cells}{bar_cell}</tr>"
         )
     return f"""<table>
 <thead><tr><th>Model</th><th class="num">Arb. P</th><th class="num">Arb. R</th><th class="num">Arb. F1</th>
 <th class="num">Arb. N</th><th class="num">Crossref P</th><th class="num">Crossref R</th>
-<th class="num">Crossref F1</th><th class="num">Crossref N</th><th>F1</th></tr></thead>
+<th class="num">Crossref F1</th><th class="num">Crossref N</th><th title="Visualizes the Arb. F1 column">Arb. F1 (bar)</th></tr></thead>
 <tbody>
 {''.join(rows)}
 </tbody>
