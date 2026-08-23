@@ -38,8 +38,6 @@ metadata into open databases.
 | Books with ground truth | 776 |
 | — via two-model gate (`bulk_gate`) | 193 |
 | — via arbitration (`agent_arbitration`) | 583 |
-| Books with a `OpenGVLab/InternVL2_5-8B` reading | 2 |
-| Books with a `Qwen/Qwen2.5-VL-7B-Instruct` reading | 3 |
 | Books with a `Qwen/Qwen3-Omni-30B-A3B-Instruct` reading | 762 |
 | Books with a `mistralai/Mistral-Small-3.2-24B-Instruct-2506` reading | 430 |
 | Books with a `numind/NuExtract3` reading | 175 |

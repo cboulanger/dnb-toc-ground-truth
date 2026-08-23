@@ -17,6 +17,7 @@ from dnb_toc_ground_truth.vision import write_cached_llm_entries
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "cli"))
 
+import corpus_status
 from corpus_status import _MARKER_END, _MARKER_START, build_status_table, update_readme
 
 
@@ -42,7 +43,11 @@ def _write_ground_truth(key: str, source: str) -> None:
 
 class TestBuildStatusTable(unittest.TestCase):
     def test_counts_every_metric_from_a_small_fixture_corpus(self):
-        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp) / "corpus"):
+        with (
+            tempfile.TemporaryDirectory() as tmp,
+            patch.object(corpus, "CORPUS_DIR", Path(tmp) / "corpus"),
+            patch.object(corpus_status, "_MIN_MODEL_READINGS", 1),
+        ):
             _write_manifest(["book1.pdf", "book2.pdf", "book3.pdf", "book4.pdf"])
 
             write_cached_llm_entries(corpus.llm_cache_dir(), "book1", "model-a", [_entry("X", 1)])
@@ -77,6 +82,22 @@ class TestBuildStatusTable(unittest.TestCase):
             self.assertIn("| Books permanently rejected (unrecoverable) | 1 |", table)
             self.assertIn("| Held-out eval-tier sample | 1 |", table)
             self.assertIn("| Crossref evaluation-corpus entries | 1 |", table)
+
+    def test_omits_a_model_below_the_minimum_reading_threshold(self):
+        with (
+            tempfile.TemporaryDirectory() as tmp,
+            patch.object(corpus, "CORPUS_DIR", Path(tmp) / "corpus"),
+            patch.object(corpus_status, "_MIN_MODEL_READINGS", 3),
+        ):
+            _write_manifest(["book1.pdf", "book2.pdf", "book3.pdf"])
+            for i, key in enumerate(["book1", "book2", "book3"]):
+                write_cached_llm_entries(corpus.llm_cache_dir(), key, "frequent-model", [_entry("X", 1)])
+            write_cached_llm_entries(corpus.llm_cache_dir(), "book1", "rare-model", [_entry("X", 1)])
+
+            table = build_status_table()
+
+            self.assertIn("| Books with a `frequent-model` reading | 3 |", table)
+            self.assertNotIn("rare-model", table)
 
     def test_handles_an_empty_corpus_without_crashing(self):
         with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp) / "corpus"):

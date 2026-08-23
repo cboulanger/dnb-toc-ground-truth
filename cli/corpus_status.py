@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """Prints corpus coverage counts -- manifest size, ground-truth
-coverage (and how it was produced), per-model LLM-cache reading counts,
-outstanding arbitration/rejection backlog, the held-out eval tier, and
-Crossref evaluation-corpus size -- as a markdown table, and rewrites it
-into README.md's "Current status" section in place.
+coverage (and how it was produced), per-model LLM-cache reading counts
+(models with fewer than _MIN_MODEL_READINGS are omitted -- a one-off
+smoke-test endpoint isn't worth a permanent table row), outstanding
+arbitration/rejection backlog, the held-out eval tier, and Crossref
+evaluation-corpus size -- as a markdown table, and rewrites it into
+README.md's "Current status" section in place.
 
 Run this after a `generate_ground_truth.py`/`arbitrate.py`/
 `backfill_crossref.py` batch changes the numbers, so the README doesn't
@@ -21,6 +23,8 @@ from dnb_toc_ground_truth import corpus, inference, vision
 
 _MARKER_START = "<!-- corpus-status:start -->"
 _MARKER_END = "<!-- corpus-status:end -->"
+
+_MIN_MODEL_READINGS = 50
 
 
 def _cached_model_counts() -> dict[str, int]:
@@ -91,6 +95,8 @@ def build_status_table() -> str:
               f"| — via two-model gate (`bulk_gate`) | {source_counts.get('bulk_gate', 0)} |",
               f"| — via arbitration (`agent_arbitration`) | {source_counts.get('agent_arbitration', 0)} |"]
     for model in sorted(model_counts):
+        if model_counts[model] < _MIN_MODEL_READINGS:
+            continue
         lines.append(f"| Books with a `{model}` reading | {model_counts[model]} |")
     lines.append(f"| Books awaiting arbitration | {needing_arbitration} |")
     lines.append(f"| Books permanently rejected (unrecoverable) | {len(rejected)} |")
