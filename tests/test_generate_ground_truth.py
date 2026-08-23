@@ -251,6 +251,23 @@ class TestRunBookEntries(unittest.TestCase):
             self.assertEqual(reason, "no_entries")
             self.assertFalse(corpus.expected_json_path("book3").exists())
 
+    def test_a_single_requested_endpoint_is_reported_as_single_reading_only(self):
+        # A one-element entries_by_endpoint is a legitimate call shape --
+        # e.g. `--use-vision numind/NuExtract3` alone, backfilling one
+        # more model's reading onto books that already have others
+        # cached under different endpoints. gate_books itself raises
+        # ValueError below 2 lists; this must be turned into an ordinary
+        # skip reason before it ever reaches gate_books, not surface as
+        # an uncaught exception.
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            a = [_entry("Einleitung", 9), _entry("Schluss", 40)]
+
+            key, passed, reason = _run_book_entries("book4", [a], 0.90)
+
+            self.assertFalse(passed)
+            self.assertEqual(reason, "single_reading_only")
+            self.assertFalse(corpus.expected_json_path("book4").exists())
+
 
 def _fake_vision_client(response_text: str):
     message = MagicMock()

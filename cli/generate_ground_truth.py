@@ -172,9 +172,24 @@ def _run_book_entries(
     extracted TocEntry list -- kept separate from PDF/network I/O so
     it's directly unit-testable with synthetic entries. Returns (key,
     passed, reason); reason is "ok" on success, else why the book was
-    skipped ("no_entries", "below_threshold")."""
+    skipped ("no_entries", "single_reading_only", "below_threshold").
+
+    A single requested endpoint (e.g. `--use-vision numind/NuExtract3`
+    alone, used to backfill one more model's reading onto books that
+    already have others cached under different endpoints -- see
+    AGENTS.md) legitimately produces a one-element entries_by_endpoint:
+    gate_books needs >=2 lists to compare and RAISES ValueError below
+    that, by design (see its own docstring) -- it has no notion of
+    "this book's other cached readings from a different run" to compare
+    against. Guarding here turns that into an ordinary skip reason
+    instead of an uncaught exception _run_book's broad `except
+    Exception` would otherwise report as a misleading "error:
+    ValueError" (the cache write for this endpoint's reading, done by
+    the caller before this function runs, is unaffected either way)."""
     if all(not entries for entries in entries_by_endpoint):
         return key, False, "no_entries"
+    if len(entries_by_endpoint) < 2:
+        return key, False, "single_reading_only"
     passed, entries, _winning_pair = gate_books(entries_by_endpoint, threshold=threshold)
     if not passed:
         return key, False, "below_threshold"
