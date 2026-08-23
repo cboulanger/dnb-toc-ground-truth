@@ -1,0 +1,567 @@
+{
+  "generated_at": 1787504600.7001758,
+  "duration_seconds": 67.73772970819846,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "VII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Tabula gratulatoria",
+      "printed_page_number": "IX",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "I. Verfassungs-, Kirchen- und Verkehrsgeschichte",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Churr\u00e4tien im \u00dcbergang von der Sp\u00e4tantike zum Mittelalter nach den Schriftquellen.",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Von der Sp\u00e4tantike zum fr\u00fchen Mittelalter, hg. v. Joachim Werner und Eugen Ewig, Vortr\u00e4ge und Forschungen XXV, Sigmaringen 1979, 159\u2013178.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Joachim Werner",
+        "Eugen Ewig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur F\u00fchrungsschicht im fr\u00fchmittelalterlichen R\u00e4tien.",
+      "printed_page_number": "21",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Montfort, Vierteljahresschrift f\u00fcr Geschichte und Gegenwart Voralbergs, 42. Jg., 1990, 63\u201370.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Verfassungsgeschichte des merowingischen R\u00e4tien.",
+      "printed_page_number": "32",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Fr\u00fchmittelalterliche Studien, Jahrbuch des Instituts f\u00fcr Fr\u00fchmittelalterforschung der Universit\u00e4t M\u00fcnster 8, 1974, 60\u201370.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Einf\u00fchrung der Grafschaftsverfassung in R\u00e4tien und die Klageschriften Bischof Viktors III. von Chur.",
+      "printed_page_number": "44",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Zeitschrift der Savigny-Stiftung f\u00fcr Rechtsgeschichte 70, Kanonistische Abteilung 39, 1953, 46\u2013111.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Datum der Urkunde Kaiser Lothars I. f\u00fcr Volk und Bischof von Chur (BM.\u00b2 1096).",
+      "printed_page_number": "110",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Deutsches Archiv f\u00fcr Erforschung des Mittelalters 10, 1953, 161\u2013165.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das churr\u00e4tische Reichsgutsurbar als Quelle zur Geschichte des Vertrags von Verdun.",
+      "printed_page_number": "114",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Zeitschrift der Savigny-Stiftung f\u00fcr Rechtsgeschichte, Germanistische Abteilung 70, 1953, 1\u201363.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nochmals zum churr\u00e4tischen Reichsgutsurbar aus der Mitte des 9. Jhs.",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Zeitschrift der Savigny-Stiftung f\u00fcr Rechtsgeschichte, Germanistische Abteilung 76, 1959, 319\u2013328.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hostisana und pretium comitis. Ein Beitrag zur Reichsgutsforschung.",
+      "printed_page_number": "187",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Schweizerische Zeitschrift f\u00fcr Geschichte 14, 1964, 218\u2013227.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Schicksal von Reichsgut und Reichsrechten in R\u00e4tien.",
+      "printed_page_number": "197",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Vierteljahresschrift f\u00fcr Sozial- und Wirtschaftsgeschichte 54, 1967, 46\u201374.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Schicksal bisch\u00f6flicher Eigenkirchen (Riein und Pitasch).",
+      "printed_page_number": "226",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: B\u00fcndnerisches Monatsblatt, Zeitschrift f\u00fcr b\u00fcndnerische Geschichte, Landes- und Volkskunde 1951, 108\u2013116.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pitasch \u2013 Poitiers.",
+      "printed_page_number": "235",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: B\u00fcndner Monatsblatt, Zeitschrift f\u00fcr b\u00fcndnerische Geschichte, Landes- und Volkskunde 1953, 277\u2013282.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Flurnamen als Zeugen ehemaligen K\u00f6nigsgutes in R\u00e4tien.",
+      "printed_page_number": "241",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Vortr\u00e4ge und Forschungen X, Konstanz/Stuttgart 1965, 111\u2013139.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verkehrsorganisation in R\u00e4tien zur Karolingerzeit.",
+      "printed_page_number": "270",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Schweizerische Zeitschrift f\u00fcr Geschichte 5, 1955, 1\u201330.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Valserberg-Route im Fr\u00fchmittelalter.",
+      "printed_page_number": "300",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Neue B\u00fcndner Zeitung Nr. 213 vom 11. September 1954.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Bischofseinsetzung im 9. Jahrhundert.",
+      "printed_page_number": "302",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Zeitschrift der Savigny-Stiftung f\u00fcr Rechtsgeschichte 73, Kanonistische Abteilung 42, 1956, 388\u2013392.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mainz und Chur im Mittelalter.",
+      "printed_page_number": "307",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Geschichtliche Landeskunde, Ver\u00f6ffentlichungen des Instituts f\u00fcr geschichtliche Landeskunde an der Universit\u00e4t Mainz V, Festschrift Ludwig Petry, Wiesbaden 1968, 78\u201396.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Herrschaftsbildung in R\u00e4tien.",
+      "printed_page_number": "326",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Vortr\u00e4ge und Forschungen X, Konstanz/Stuttgart 1965, 141\u2013158.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nobilis, edel, fry.",
+      "printed_page_number": "344",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Historische Forschungen f\u00fcr Walter Schlesinger, hg. v. Helmut Beumann, K\u00f6ln/Wien 1974, 242\u2013251.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Beumann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Burgen im mittelalterlichen R\u00e4tien.",
+      "printed_page_number": "354",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Die Burgen im deutschen Sprachraum. Ihre rechts- und verfassungsgeschichtliche Bedeutung, hg. v. Hans Patze, Vortr\u00e4ge und Forschungen XIX/2, Sigmaringen 1976, 273\u2013292.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hans Patze"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das B\u00fcndnis der Rheinwaldner und Safier mit den r\u00e4tischen Freiherren vom Jahre 1360.",
+      "printed_page_number": "374",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Schweizerische Zeitschrift f\u00fcr Geschichte 17, 1967, 153\u2013165.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. Rezeption des R\u00f6mischen Rechts, Notariat",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "L'influence du droit romain en Rh\u00e9tie au XIIe et au commencement du XIVe si\u00e8cle.",
+      "printed_page_number": "387",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: M\u00e9moires de la Soci\u00e9t\u00e9 pour l'Histoire du Droit et des Institutions des anciens pays bourguignons, comtois et romands. fsc. 18, 1956 (\u00e9d. 1959), 45\u201363.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Verzicht (renuntiatio) auf Exceptionen in den b\u00fcndnerischen Urkunden des Mittelalters. Die Gebiete s\u00fcdlich der Alpen.",
+      "printed_page_number": "406",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Zeitschrift f\u00fcr Schweizerisches Recht NF 77, 1958, 101\u2013138.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Verzicht (renuntiatio) auf Exceptionen in den b\u00fcndnerischen Urkunden des Mittelalters. Die Gebiete n\u00f6rdlich der Alpen.",
+      "printed_page_number": "444",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Zeitschrift f\u00fcr Schweizerisches Recht NF 77, 1958, 363\u2013388.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die erbrechtliche Repr\u00e4sentation in Graub\u00fcnden w\u00e4hrend des Mittelalters.",
+      "printed_page_number": "470",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Zeitschrift f\u00fcr Schweizerisches Recht NF 80 (102), 1961, 27\u201361.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Ann\u00e4herung der sp\u00e4tmittelalterlichen Erbleihe im nordalpinen Graub\u00fcnden an das freie Grundeigentum.",
+      "printed_page_number": "505",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Geschichtliche Landeskunde, Ver\u00f6ffentlichungen des Instituts f\u00fcr geschichtliche Landeskunde an der Universit\u00e4t Mainz III, Festschrift Johannes B\u00e4rmann, Wiesbaden 1966, 27\u201344.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "R\u00f6mischrechtlicher Heimfall in der r\u00e4tischen Erbleihe des Sp\u00e4tmittelalters.",
+      "printed_page_number": "523",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Festschrift Hermann Baitl, hg. v. Kurt Ebert, Innsbruck 1978, 123\u2013133.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Kurt Ebert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wandlung der Rechtssprache im 13. Jahrhundert. Nach b\u00fcndnerischen Quellen.",
+      "printed_page_number": "535",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Festschrift Karl Siegfried Bader, hg. v. Ferdinand Elsener und W.H. Ruoff, Z\u00fcrich/K\u00f6ln/Graz 1965, 85\u2013100.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ferdinand Elsener",
+        "W.H. Ruoff"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zum Notariat im mittelalterlichen R\u00e4tien.",
+      "printed_page_number": "551",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Festschrift Friedrich Hausmann, Graz 1977, 81\u201392.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00d6ffentliche Notare in der Bischofsstadt Chur im 14. Jahrhundert.",
+      "printed_page_number": "563",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Tradition und Gegenwart, Festschrift zum 175j\u00e4hrigen Bestehen eines badischen Notarstandes, hg. v. P. J. Schuler, Karlsruhe 1981 (= Badische Heimat Heft 3/1981), 85\u201394.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "P. J. Schuler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Notariat und Notare im westlichen Vinschgau im 13. und 14. Jahrhundert.",
+      "printed_page_number": "574",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Der Vinschgau und seine Nachbarr\u00e4ume, Vortr\u00e4ge des landeskundlichen Symposiums veranstaltet vom S\u00fcdtiroler Kulturinstitut in Verbindung mit dem Bildungshaus Schlo\u00df Goldrain, hg. v. Rainer Loose, Bozen 1991, 137\u2013147.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Loose"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zum Problem der Schriftsprachen im mittelalterlichen R\u00e4tien.",
+      "printed_page_number": "585",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erstdruck: Annalas da la Societ\u00e0 Retorumantscha, 107, 1994, 59\u201363.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bibliographie Otto P. Clavadetscher (seit 1985)",
+      "printed_page_number": "591",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Register der Personen- und Ortsnamen",
+      "printed_page_number": "593",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

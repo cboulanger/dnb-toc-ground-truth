@@ -1,0 +1,215 @@
+{
+  "generated_at": 1787503769.775436,
+  "duration_seconds": 18.244929749984294,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Preface",
+      "printed_page_number": "xi",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgements",
+      "printed_page_number": "xii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "I Ciconia's last songs and their milieu",
+      "printed_page_number": "107\u2013130",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II Ciconia's influence",
+      "printed_page_number": "215\u2013224",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III Two equal voices: a French song repertory with music for two more works of Oswald von Wolkenstein",
+      "printed_page_number": "227\u2013241",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IV Binchois and the poets",
+      "printed_page_number": "199\u2013219",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "V Ballades by Dufay, Grenon and Binchois: the Boorman fragment",
+      "printed_page_number": "25\u201335",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VI Leonardo Giustinian and Quattrocento polyphonic song",
+      "printed_page_number": "247\u2013260",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VII Johannes Ockeghem: the changing image, the songs and a new source",
+      "printed_page_number": "218\u2013230",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VIII Ockeghem as a song composer: hints towards a chronology",
+      "printed_page_number": "301\u2013316",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IX The life of Johannes Regis, ca. 1425 to 1496",
+      "printed_page_number": "143\u2013172",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "X Busnoys and the early fifteenth century: a note on L'ardant d\u00e9sir and Faictes de moy",
+      "printed_page_number": "20\u201324",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "XI 'Trained and immersed in all musical delights': towards a new picture of Busnoys",
+      "printed_page_number": "21\u201350",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "XII Jean Molinet and the lost Burgundian court chansonniers of the 1470s",
+      "printed_page_number": "35\u201342",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "XIII Walter Frye's Ave regina celorum and the Latin song style 'Et facciam dol\u00e7i canti': Studi in onore di Agostino Ziino in occasione del suo 65\u00b0 compleanno",
+      "printed_page_number": "331\u2013345",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "XIV Who composed Mille regretz?",
+      "printed_page_number": "241\u2013252",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "XV What happened to El grillo",
+      "printed_page_number": "390\u2013399",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "XVI Influences on Josquin",
+      "printed_page_number": "67\u201380",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "XVII Josquin and popular songs",
+      "printed_page_number": "161\u2013171",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "XVIII Josquin and Il n'est plaisir",
+      "printed_page_number": "3\u20138",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "XIX Petrucci's Canti volumes: scope and repertory",
+      "printed_page_number": "39\u201352",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "XX Alamire as a composer",
+      "printed_page_number": "247\u2013258",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "XXI Henry VIII as a composer",
+      "printed_page_number": "27\u201339",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Additions and Corrections",
+      "printed_page_number": "1\u20132",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Index of Names and Texts",
+      "printed_page_number": "1\u20137",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Index of Manuscripts",
+      "printed_page_number": "1\u20133",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

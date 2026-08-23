@@ -1,0 +1,247 @@
+{
+  "generated_at": 1787504704.418452,
+  "duration_seconds": 17.80629974999465,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "MATTHIAS MEYER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "MATTHIAS MEYER"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Monologische und dialogische M\u00e4nnlichkeit in Rolandsliedversionen",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [
+        "MATTHIAS MEYER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "KERSTIN SCHMITT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "KERSTIN SCHMITT"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kontrollverlust und Fragmentierung. M\u00e4nnlichkeit und Monster in Strickers \u00bbDaniel von dem Bl\u00fchenden Tal\u00ab",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "KERSTIN SCHMITT"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MARKUS STOCK",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "MARKUS STOCK"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "M\u00e4nnlichkeit in der Lyrik Burkharts von Hohenfels",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [
+        "MARKUS STOCK"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HENDRIKJE HAUFE",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "HENDRIKJE HAUFE"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Minne, L\u00e4rm und Gewalt.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "HENDRIKJE HAUFE"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zur Konstitution von M\u00e4nnlichkeit in Winterliedern Neidharts",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [
+        "HENDRIKJE HAUFE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JOHANNES KELLER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "JOHANNES KELLER"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Dekonstruierte M\u00e4nnlichkeit:",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "JOHANNES KELLER"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "von scheintoten und begrabenen Ehem\u00e4nnern",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [
+        "JOHANNES KELLER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MARTIN BAISCH",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "MARTIN BAISCH"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Welt ir: er vervellet; / Wellent ir: er ist genesen!",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "MARTIN BAISCH"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zur Figur Keies in Heinrichs von dem T\u00fcrlin \u00bbDiu Cr\u00f4ne\u00ab",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [
+        "MARTIN BAISCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MICHAEL MECKLENBURG",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "MICHAEL MECKLENBURG"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ritter Venus und die R\u00fcckeroberung verlorenen Terrains",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [
+        "MICHAEL MECKLENBURG"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ANDREA SIEBER",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "ANDREA SIEBER"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Lancelot und Galahot \u2013 Melancholische Helden?",
+      "printed_page_number": "209",
+      "source_page_index": -1,
+      "authors": [
+        "ANDREA SIEBER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ANN MINDNICH",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "ANN MINDNICH"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "male bonding \u2013 M\u00e4nnerfreundschaft und ritterlicher Zweikampf in Bertholds von Holle \u00bbDemantin\u00ab",
+      "printed_page_number": "233",
+      "source_page_index": -1,
+      "authors": [
+        "ANN MINDNICH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JUDITH KLINGER UND SILKE WINST",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "JUDITH KLINGER",
+        "SILKE WINST"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zweierlei minne stricke. Zur Ausdifferenzierung von M\u00e4nnlichkeit im \u00bbEngelhard\u00ab Konrads von W\u00fcrzburg",
+      "printed_page_number": "259",
+      "source_page_index": -1,
+      "authors": [
+        "JUDITH KLINGER",
+        "SILKE WINST"
+      ],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

@@ -40,7 +40,7 @@ metadata into open databases.
 | — via arbitration (`agent_arbitration`) | 583 |
 | Books with a `Qwen/Qwen3-Omni-30B-A3B-Instruct` reading | 762 |
 | Books with a `mistralai/Mistral-Small-3.2-24B-Instruct-2506` reading | 430 |
-| Books with a `numind/NuExtract3` reading | 175 |
+| Books with a `numind/NuExtract3` reading | 461 |
 | Books awaiting arbitration | 0 |
 | Books permanently rejected (unrecoverable) | 0 |
 | Held-out eval-tier sample | 75 |

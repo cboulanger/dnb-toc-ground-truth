@@ -1,0 +1,484 @@
+{
+  "generated_at": 1787504856.512265,
+  "duration_seconds": 47.56691091693938,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Preface",
+      "printed_page_number": "V",
+      "source_page_index": -1,
+      "authors": [
+        "Kathryn Klar",
+        "Margaret Langdon",
+        "Shirley Silver"
+      ],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Publications of Madison S. Beeler",
+      "printed_page_number": "VII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of Contributors.",
+      "printed_page_number": "XIII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "American Indian studies",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ethnosemantics of the dream helper in south-central California",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Richard B. Applegate"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chimariko placenames and the boundaries of Chimariko territory.",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "James Bauman"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "An \u2018Indo European\u2019 type paradigm in Proto Eastern Miwok.",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Catherine A. Callaghan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Consequential verbs in the Northern Iroquoian languages and elsewhere.",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [
+        "Wallace L. Chafe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The \u201cold time\u201d Chunut count",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "G. L. Gamble"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Some Yokuts-Maidun comparisons",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [
+        "Victor Golla"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Notes on Karok internal reconstruction.",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [
+        "Mary R. Haas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Patterns of derivational affixation in the Spanish dialect of the last Rumsen speakers",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [
+        "Mercedes Q. Hinkson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Washo bipartite verb stems",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "William H. Jacobsen, Jr."
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pre-Columbian borrowing involving Huastec",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [
+        "Terrence Kaufman"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Northern Chumash numerals",
+      "printed_page_number": "113",
+      "source_page_index": -1,
+      "authors": [
+        "Kathryn A. Klar"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Yuman numerals",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [
+        "Margaret Langdon",
+        "Pamela Munro"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "How languages die: A social history of unstable bilingualism among the Eastern Pomo",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "Sally McLendon"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Preaspirated consonants in Central Numic",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [
+        "Wick R. Miller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Renewal in Numic color systems",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [
+        "Michael J. P. Nichols"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rumsen II: An evaluation of reconstitution",
+      "printed_page_number": "169",
+      "source_page_index": -1,
+      "authors": [
+        "Mark Okrand"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ukiah : Yokaya",
+      "printed_page_number": "183",
+      "source_page_index": -1,
+      "authors": [
+        "Robert L. Oswalt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nonimmediate as a semantic unit in Delaware.",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [
+        "Bruce L. Pearson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Two plus two makes two",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [
+        "Harvey Pitkin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The non-genetic relationship of Wappo and Yuki.",
+      "printed_page_number": "209",
+      "source_page_index": -1,
+      "authors": [
+        "Jesse O. Sawyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "English and Spanish loanwords in Wintu",
+      "printed_page_number": "221",
+      "source_page_index": -1,
+      "authors": [
+        "Alice Schlichter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Two systems of Cahuilla kinship expressions: labeling and descriptive",
+      "printed_page_number": "229",
+      "source_page_index": -1,
+      "authors": [
+        "Hansjakob Seiler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rumsen derivation.",
+      "printed_page_number": "237",
+      "source_page_index": -1,
+      "authors": [
+        "William Shipley"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Shasta and Konomihu",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [
+        "Shirley Silver"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Greek \u03b2\u03bf\u03cd\u03bb\u03c9\u03bc\u03b1\u03b9: Etymology and evolution",
+      "printed_page_number": "267",
+      "source_page_index": -1,
+      "authors": [
+        "Sara B. Aleshire"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The d\u00f5nsk tunga in Early Medieval Normandy: a note",
+      "printed_page_number": "279",
+      "source_page_index": -1,
+      "authors": [
+        "Frederic Amory"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The present participle again \u2013 some observations based on an Old Norse text",
+      "printed_page_number": "291",
+      "source_page_index": -1,
+      "authors": [
+        "Foster W. Blaisdell, Jr."
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Extension versus convergence in the North Germanic verb.",
+      "printed_page_number": "299",
+      "source_page_index": -1,
+      "authors": [
+        "Michael R. Dilts"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sanskrit bh\u014dgin- \u2018wealthy\u2019 \u2192 \u2018village headman; fisherman, palanquin-bearer\u2019.",
+      "printed_page_number": "315",
+      "source_page_index": -1,
+      "authors": [
+        "M. B. Emeneau"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Diphthongs in Old English.",
+      "printed_page_number": "327",
+      "source_page_index": -1,
+      "authors": [
+        "Alice Wyland Grundt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Albanian \u00ebshht\u00eb",
+      "printed_page_number": "337",
+      "source_page_index": -1,
+      "authors": [
+        "Eric P. Hamp"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "On the origin of the 3rd sg. -r in Old Norse.",
+      "printed_page_number": "347",
+      "source_page_index": -1,
+      "authors": [
+        "Gary B. Holland"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Indo-European themes in Homer",
+      "printed_page_number": "357",
+      "source_page_index": -1,
+      "authors": [
+        "James T. Hooker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The nominative singular of n-stems in Germanic",
+      "printed_page_number": "375",
+      "source_page_index": -1,
+      "authors": [
+        "Jay Jasanoff"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The unethical dative.",
+      "printed_page_number": "383",
+      "source_page_index": -1,
+      "authors": [
+        "Martha B. Kendall"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Definite default in Old Icelandic.",
+      "printed_page_number": "395",
+      "source_page_index": -1,
+      "authors": [
+        "Karen C. Kossuth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "August Friedrich Pott as a pioneer of Romance linguistics.",
+      "printed_page_number": "409",
+      "source_page_index": -1,
+      "authors": [
+        "Yakov Malkiel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The syntax of Old Russian m\u00een\u011bti (sja)",
+      "printed_page_number": "421",
+      "source_page_index": -1,
+      "authors": [
+        "Johanna Nichols"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Notker\u2019s \u201cAnlautgesetz\u201d and generative phonology",
+      "printed_page_number": "441",
+      "source_page_index": -1,
+      "authors": [
+        "Herbert Penzl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "An exception to Old High German umlaut",
+      "printed_page_number": "449",
+      "source_page_index": -1,
+      "authors": [
+        "Orrin W. Robinson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The etymon of snake, snail, and sneak in the light of Indo-Iranian",
+      "printed_page_number": "461",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Schwartz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Indo-European, Classical Armenian, and Modern Armenian",
+      "printed_page_number": "469",
+      "source_page_index": -1,
+      "authors": [
+        "Hasmig Seropian"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The Venetic r-forms in a comparative perspective",
+      "printed_page_number": "477",
+      "source_page_index": -1,
+      "authors": [
+        "Hariklia Statha-Halikas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "OInd. m\u00e1hi : Gk. m\u00e9ga \u2018great\u2019 reconsidered",
+      "printed_page_number": "487",
+      "source_page_index": -1,
+      "authors": [
+        "Werner Winter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}
