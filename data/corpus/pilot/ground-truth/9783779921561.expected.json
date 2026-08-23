@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {"title": "Inhalt", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "1 Ganztagsschulentwicklung und Ganztagsschulforschung. Eine Einleitung", "authors": ["Ivo Züchner", "Natalie Fischer"], "printed_page_number": "9", "skip": false},
+    {"title": "2 Theoretisch-konzeptionelle Bezüge – ein Analyserahmen für die Entwicklung von Ganztagsschulen", "authors": ["Natalie Fischer", "Heinz Günter Holtappels", "Ludwig Stecher", "Ivo Züchner"], "printed_page_number": "18", "skip": false},
+    {"title": "3 Die Studie zur Entwicklung von Ganztagsschulen. Beschreibung des Designs und Entwicklung der Stichprobe", "authors": ["Peter Furthmüller", "Dagmar Neumann", "Holger Quellenberg", "Christine Steiner", "Ivo Züchner"], "printed_page_number": "30", "skip": false},
+    {"title": "4 Teilnahme am Ganztagsbetrieb. Zeitliche Entwicklung und mögliche Selektionseffekte", "authors": ["Christine Steiner"], "printed_page_number": "57", "skip": false},
+    {"title": "5 Außerunterrichtliche Angebotsstruktur an Ganztagsschulen. Entwicklungstrends und Entwicklungsbedingungen", "authors": ["Wolfram Rollett", "Karin Lossen", "Stephan Jarsinski", "Nadine Lüpschen", "Heinz Günter Holtappels"], "printed_page_number": "76", "skip": false},
+    {"title": "6 Teilnahme als Qualitätsmerkmal für Ganztagsschulen. Entwicklung von Schülerteilnahmequoten auf Schulebene", "authors": ["Heinz Günter Holtappels", "Stephan Jarsinski", "Wolfram Rollett"], "printed_page_number": "97", "skip": false},
+    {"title": "7 Schulentwicklungsprozesse an Ganztagsschulen. Effekte schulischer Entwicklungsarbeit im Längsschnitt", "authors": ["Lea Spillebeen", "Heinz Günter Holtappels", "Wolfram Rollett"], "printed_page_number": "120", "skip": false},
+    {"title": "8 Innerschulische Kooperation und Schulprogramm. Zur Bedeutung des Schulprogramms als Schulentwicklungsinstrument", "authors": ["Katja Tillmann"], "printed_page_number": "139", "skip": false},
+    {"title": "9 Prozessqualität der Ganztagsangebote aus Schülersicht. Zusammenhänge mit Angebots- und Schulmerkmalen", "authors": ["Felix Brümmer", "Wolfram Rollett", "Natalie Fischer"], "printed_page_number": "162", "skip": false},
+    {"title": "10 Ganztagsteilnahme und Klassenwiederholung", "authors": ["Christine Steiner"], "printed_page_number": "187", "skip": false},
+    {"title": "11 Entwicklung der Schulnoten in der Ganztagsschule. Einflüsse der Ganztagsteilnahme und der Angebotsqualität", "authors": ["Hans Peter Kuhn", "Natalie Fischer"], "printed_page_number": "207", "skip": false},
+    {"title": "12 Entwicklung von Wohlbefinden und motivationalen Orientierungen in der Ganztagsschule. Zusammenhänge mit der Prozess- und Beziehungsqualität in den Angeboten", "authors": ["Natalie Fischer", "Felix Brümmer", "Hans Peter Kuhn"], "printed_page_number": "227", "skip": false},
+    {"title": "13 Entwicklung von Sozialverhalten in der Ganztagsschule. Wirkungen der Ganztagsteilnahme und der Angebotsqualität", "authors": ["Natalie Fischer", "Hans Peter Kuhn", "Ivo Züchner"], "printed_page_number": "246", "skip": false},
+    {"title": "14 Schulische und außerschulische Freizeit- und Bildungsaktivitäten. Teilhabe und Wechselwirkungen", "authors": ["Ivo Züchner", "Bettina Arnoldt"], "printed_page_number": "267", "skip": false},
+    {"title": "15 Ganztagsschulen und Familienleben. Auswirkungen des ganztägigen Schulbesuchs", "authors": ["Ivo Züchner"], "printed_page_number": "291", "skip": false},
+    {"title": "16 Kooperation zwischen Ganztagsschule und außerschulischen Partnern. Entwicklung der Rahmenbedingungen", "authors": ["Bettina Arnoldt"], "printed_page_number": "312", "skip": false},
+    {"title": "17 Analysestrategien und Auswertungsmethoden", "authors": ["Ivo Züchner", "Felix Brümmer", "Wolfram Rollett"], "printed_page_number": "330", "skip": false},
+    {"title": "18 Entwicklung und Wirkung von Ganztagsschule. Eine Bilanz auf Basis der StEG-Studie", "authors": ["Eckhard Klieme", "Thomas Rauschenbach"], "printed_page_number": "342", "skip": false},
+    {"title": "Literatur", "authors": [], "printed_page_number": "351", "skip": true},
+    {"title": "Verzeichnis wichtiger Abkürzungen", "authors": [], "printed_page_number": "382", "skip": true},
+    {"title": "Autorinnen und Autoren", "authors": [], "printed_page_number": "384", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {"title": "Contents", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "About the Authors", "authors": [], "printed_page_number": "vii", "skip": true},
+    {"title": "Editors' Foreword", "authors": ["Joan Huber", "Beth E. Schneider"], "printed_page_number": "xii", "skip": true},
+    {"title": "Introduction", "authors": ["Beth E. Schneider", "Joan Huber"], "printed_page_number": "xiii", "skip": true},
+    {"title": "Part I: The Social Context of AIDS", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "1. Sociology and People Living with AIDS", "authors": ["Barry D. Adam"], "printed_page_number": "3", "skip": false},
+    {"title": "2. AIDS and Class, Gender, and Race Relations", "authors": ["Beth E. Schneider"], "printed_page_number": "19", "skip": false},
+    {"title": "Part II: The Social Context of Risky Behavior", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "3. Unprotected Sex: Understanding Gay Men's Participation", "authors": ["Martin P. Levine", "Karolynn Siegel"], "printed_page_number": "47", "skip": false},
+    {"title": "4. Women Don't Wear Condoms: AIDS Risk Among Sexual Partners of IV Drug Users", "authors": ["Laurie Wermuth", "Jennifer Ham", "Rebecca L. Robbins"], "printed_page_number": "72", "skip": false},
+    {"title": "5. Sexual Behavior of Male Prostitutes", "authors": ["Rhoda Estep", "Dan Waldorf", "Toby Marotta"], "printed_page_number": "95", "skip": false},
+    {"title": "Part III: The Social Context of Treatment and Policy", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "6. Organizing Drug Users Against AIDS", "authors": ["Samuel R. Friedman", "Meryl Sufian", "Richard Curtis", "Alan Neaigus", "Don C. Des Jarlais"], "printed_page_number": "115", "skip": false},
+    {"title": "7. From Burying to Caring: Family AIDS Support Groups", "authors": ["Barbara G. Sosnowitz", "David R. Kovacs"], "printed_page_number": "131", "skip": false},
+    {"title": "8. Forced Blood Testing: Role Taking, Identity, and Discrimination", "authors": ["Michael L. Schwalbe", "Clifford L. Staples"], "printed_page_number": "145", "skip": false},
+    {"title": "9. Health Care and the Social Construction of AIDS: The Impact of Disease Definitions", "authors": ["Stephen Crystal", "Marguerite Jackson"], "printed_page_number": "163", "skip": false},
+    {"title": "Glossary", "authors": [], "printed_page_number": "181", "skip": true},
+    {"title": "Index", "authors": [], "printed_page_number": "183", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

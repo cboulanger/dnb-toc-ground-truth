@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {"title": "Einleitung: Begründungen und Besonderheiten von Schulsozialarbeit an Grundschulen", "authors": ["Florian Baier", "Martina Fischer"], "printed_page_number": "7", "skip": false},
+    {"title": "Teil I: Normative Orientierungen im Kontext der Gegenwart", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Lebenslagen und Lebensweisen von Kindern in Deutschland, Österreich und der Schweiz", "authors": ["Olivier Steiner", "Rahel Heeg"], "printed_page_number": "25", "skip": false},
+    {"title": "Grundschulentwicklung mit der Bündnispartnerin Schulsozialarbeit", "authors": ["Anke Spies"], "printed_page_number": "47", "skip": false},
+    {"title": "Fachliche Orientierungen für die Praxis: Kinderrechte und Capabilities als konzeptionelle Grundlage der Schulsozialarbeit", "authors": ["Florian Baier", "Martina Fischer"], "printed_page_number": "65", "skip": false},
+    {"title": "Teil II: Arbeitsbereich Beratung in der Schulsozialarbeit mit Kindern", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Gesprächsführung mit Kindern", "authors": ["Martina Fischer", "Regula Berger"], "printed_page_number": "83", "skip": false},
+    {"title": "Zusammenarbeit von Eltern, Schule und Schulsozialarbeit", "authors": ["Katjuscha von Werthern"], "printed_page_number": "97", "skip": false},
+    {"title": "Kooperation mit Lehrpersonen und multiprofessionelle Zusammenarbeit", "authors": ["Sabrina Volk", "Christin Haude", "Melanie Fabel-Lamla"], "printed_page_number": "111", "skip": false},
+    {"title": "Kindeswohlgefährdungen erkennen und Kinderschutz gestalten – eine Aufgabe der Schulsozialarbeit an Grundschulen", "authors": ["Kay Biesel", "Clarissa Schär"], "printed_page_number": "123", "skip": false},
+    {"title": "Teil III: Projekte, gruppen- und strukturbezogene Aktivitäten", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Projekte konzipieren und realisieren", "authors": ["Karlheinz Thimm"], "printed_page_number": "143", "skip": false},
+    {"title": "Partizipation von Kindern in Grundschulen – Ansatzpunkte für die Schulsozialarbeit", "authors": ["Magdalene Schmid"], "printed_page_number": "159", "skip": false},
+    {"title": "Spielend bilden – Zur Bedeutung des Spiels für Bildungsprozesse von Kindern", "authors": ["Thomas Markert"], "printed_page_number": "173", "skip": false},
+    {"title": "Wenn die Spielleute kommen – Sozialpädagogische Gruppenarbeit aus Kindersicht", "authors": ["Kathrin Aghamiri"], "printed_page_number": "185", "skip": false},
+    {"title": "Konfliktbearbeitung und Mediation an Grundschulen als Aufgabe für Schulsozialarbeit", "authors": ["Angelika Iser"], "printed_page_number": "197", "skip": false},
+    {"title": "Kindliche Lebenswelten und schulische Sozialräume erkunden", "authors": ["Ulrich Deinet", "Heike Gumz"], "printed_page_number": "217", "skip": false},
+    {"title": "Teil IV: Praxisbeispiele", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Schweiz: Schulsozialarbeit an Primarschulen im Kanton Basel-Stadt", "authors": ["David Ruesch"], "printed_page_number": "233", "skip": false},
+    {"title": "Deutschland: Schulsozialarbeit an der Grundschule Emmertsgrund", "authors": ["Julia Magdalene Falkenhain", "Georg Kaiser"], "printed_page_number": "245", "skip": false},
+    {"title": "Österreich: Schulsozialarbeit an Volksschulen am Beispiel der ISOP-Schulsozialarbeit Graz", "authors": ["Sandra Jensen"], "printed_page_number": "263", "skip": false},
+    {"title": "Herausgeberschaft, Autorinnen und Autoren", "authors": [], "printed_page_number": "277", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

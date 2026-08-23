@@ -1,0 +1,32 @@
+{
+  "entries": [
+    {"title": "Inhalt", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Vorwort", "authors": [], "printed_page_number": "7", "skip": true},
+    {"title": "I. Grundsatzbeitrag", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Kindsein und Kinderglaube in der Perspektive reformatorischer Theologie", "authors": ["Michael Basse"], "printed_page_number": "9", "skip": false},
+    {"title": "II. Theoretische Grundlagen und empirische Einblicke", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Kindertheologische Differenzierungen – Zwei Fragen zur Kindertheologie", "authors": ["Henning Schluß"], "printed_page_number": "21", "skip": false},
+    {"title": "»Vielleicht hätten wir ihn ja ganz vergessen, ohne dass wir noch mal die Auferstehung von ihm haben ...« – Grundschulkinder der 4. Klasse deuten den »ungläubigen Thomas« (Johannes 20,24–29)", "authors": ["Christian Butt"], "printed_page_number": "25", "skip": false},
+    {"title": "Von Geschichten und Geschenken – Wie sich Kinder das Verhältnis von Jesus und dem Christkind vorstellen", "authors": ["Michael Bünker"], "printed_page_number": "36", "skip": false},
+    {"title": "»Erzähl mir von Jesus« – Ein Vergleich narrativer Zugänge von Kindern und Jugendlichen zur Christologie", "authors": ["Tobias Ziegler"], "printed_page_number": "48", "skip": false},
+    {"title": "Der Zöllner Zachäus im Zentrum – Narrative und exegetische Kompetenzen von Kindern am Beispiel Lukas 19,1–10", "authors": ["Karina Schmidt"], "printed_page_number": "66", "skip": false},
+    {"title": "»Was ist das für ein Menschensohn?« – Ein empirisches Forschungsprojekt zur Rezeption von Markus 4,35–41 bei Zweit- und Viertklässlern", "authors": ["Hannes Schäfer", "Wilhelm Schwendemann", "Frederic Vobbe"], "printed_page_number": "77", "skip": false},
+    {"title": "III. Pädagogische Anregungen", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Zwischen zwei Göttern? – Das doppelte Gottesbild bei Kindern und Erwachsenen", "authors": ["Jörg Biewald"], "printed_page_number": "91", "skip": false},
+    {"title": "Verwundern und Entdecken – Ein narrativer Zugang zur didaktischen Entfaltung des Themas »Das Evangelium von Jesus Christus«", "authors": ["Friedhelm Kraft"], "printed_page_number": "111", "skip": false},
+    {"title": "Beten lernen mit Kleinst- und Kindergartenkindern durch Begegnen und Erleben, Gewöhnen und Einüben", "authors": ["Heike Vierling-Ibrig"], "printed_page_number": "139", "skip": false},
+    {"title": "Das Hören ist der erste Schritt – Vernehmendes Theologisieren im strukturbewahrenden Erzählen", "authors": ["Wolfgang Wagerer"], "printed_page_number": "155", "skip": false},
+    {"title": "Wie Brot und Wein – Wie soll man Kindern von Jesus erzählen?", "authors": ["Martina Steinkühler"], "printed_page_number": "170", "skip": false},
+    {"title": "Von Menschenfischern und Rettungstauchern – Mit Zweitklässlern im Gespräch über die Jüngerberufung in Markus 1,16–20", "authors": ["Petra Freudenberger-Lötz"], "printed_page_number": "186", "skip": false},
+    {"title": "»Da ist jeder gleich viel wert!« – Das Gleichnis von den Arbeitern im Weinberg (Matthäus 20,1–16) interpretiert von Kindern und Jugendlichen im Kontext gemeindepädagogischer Arbeit", "authors": ["Angela Kunze-Beiküfner"], "printed_page_number": "193", "skip": false},
+    {"title": "IV. Buchbesprechungen", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Theologische Gespräche mit Kindern", "authors": ["Petra Freudenberger-Lötz"], "printed_page_number": "217", "skip": false},
+    {"title": "Für uns gestorben", "authors": ["Michaela Albrecht"], "printed_page_number": "222", "skip": false},
+    {"title": "Am Anfang", "authors": ["Bart Moeyart"], "printed_page_number": "224", "skip": false},
+    {"title": "Gibt’s Gott?", "authors": ["Albert Biesinger", "Helga Kobler-Spiegel"], "printed_page_number": "226", "skip": false},
+    {"title": "Mystagogisches Lernen", "authors": ["Mirjam Schambeck"], "printed_page_number": "227", "skip": false},
+    {"title": "Die Autorinnen und Autoren", "authors": [], "printed_page_number": "229", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

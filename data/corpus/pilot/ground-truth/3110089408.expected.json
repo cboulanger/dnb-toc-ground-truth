@@ -1,0 +1,19 @@
+{
+  "entries": [
+    {"title": "Inhaltsverzeichnis", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Vorwort", "authors": ["Albert Zimmermann"], "printed_page_number": "V", "skip": true},
+    {"title": "Wahrheitsbegriff und voûς-Lehre bei Aristoteles und einigen seiner Kommentatoren", "authors": ["Karl Bormann"], "printed_page_number": "1", "skip": false},
+    {"title": "'Gut' und 'schlecht' – die Analyse ihrer Entgegensetzung bei Aristoteles, bei einigen Aristoteles-Kommentatoren und bei Thomas von Aquin", "authors": ["Klaus Jacobi"], "printed_page_number": "25", "skip": false},
+    {"title": "Gott, Freiheit und Notwendigkeit in der Consolatio philosophiae des Boethius", "authors": ["Paul-Bernd Lüttringhaus"], "printed_page_number": "53", "skip": false},
+    {"title": "Untersuchungen zu Wilhelm von Moerbekes Metaphysikübersetzung. I. Revision und Neuübersetzung. II. Die griechische Quelle: Vind. phil. gr. 100 (J)? III. Das Theophrast-Scholion und seine Verwechslung", "authors": ["Gudrun Vuillemin-Diem"], "printed_page_number": "102", "skip": false},
+    {"title": "Gottfried von Fontaines als Zeuge der Echtheit der Theologischen Summe des Albertus Magnus", "authors": ["Robert Wielockx"], "printed_page_number": "209", "skip": false},
+    {"title": "Albert le Grand et Thomas d'Aquin dans la censure parisienne du 7 mars 1277", "authors": ["Roland Hissette"], "printed_page_number": "226", "skip": false},
+    {"title": "Bemerkungen zu Thomas von Aquin, Quaest. disp. De veritate I", "authors": ["Albert Zimmermann"], "printed_page_number": "247", "skip": false},
+    {"title": "Ein kurzer Fehlschlußtraktat: die Fallaciae breves (ad modum Oxoniae). London, British Museum, Royal MSS 12 F XIX, 104rb–105vb", "authors": ["Clemens Kopp"], "printed_page_number": "262", "skip": false},
+    {"title": "Ausführungen zur terminatio materiae primae in einem Physikkommentar des 14. Jahrhunderts", "authors": ["Ingrid Craemer-Ruegenberg"], "printed_page_number": "278", "skip": false},
+    {"title": "Was geht Lambert von Heerenberg die Seligkeit des Aristoteles an?", "authors": ["Hans Gerhard Senger"], "printed_page_number": "293", "skip": false},
+    {"title": "Namenregister", "authors": [], "printed_page_number": "313", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

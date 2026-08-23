@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {"title": "INHALTSVERZEICHNIS", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Vorwort", "authors": [], "printed_page_number": "7", "skip": true},
+    {"title": "Der Josephinismus als Variante des Aufgeklärten Absolutismus und seine Reformkomplexe", "authors": ["Helmut Reinalter"], "printed_page_number": "9", "skip": false},
+    {"title": "Das Verhältnis von Staat und Kirche/Religion im theresianisch-josephinischen Zeitalter", "authors": ["Rudolf Pranzl"], "printed_page_number": "17", "skip": false},
+    {"title": "Josephinismus und Bürokratie", "authors": ["Irmgard Plattner"], "printed_page_number": "53", "skip": false},
+    {"title": "„National-Erziehung“: Überwachung als Prinzip. Österreichische Bildungspolitik im Zeichen von Absolutismus und Aufklärung", "authors": ["Barbara Gant"], "printed_page_number": "97", "skip": false},
+    {"title": "Die Rechtsreformen Josephs II.", "authors": ["Gernot Kocher"], "printed_page_number": "125", "skip": false},
+    {"title": "Die Sozialreformen Josephs II.", "authors": ["Helmut Reinalter"], "printed_page_number": "163", "skip": false},
+    {"title": "Die staatliche Wirtschaftspolitik zwischen 1740 und 1792: Reform versus Stagnation", "authors": ["Bernhard Hackl"], "printed_page_number": "191", "skip": false},
+    {"title": "Kunst und Kultur im Josephinismus", "authors": ["Reinhold Knoll"], "printed_page_number": "273", "skip": false},
+    {"title": "Nachwirkungen des Josephinismus", "authors": ["Matthias Rettenwander"], "printed_page_number": "317", "skip": false},
+    {"title": "Auswahlbibliographie", "authors": [], "printed_page_number": "427", "skip": true},
+    {"title": "Register", "authors": [], "printed_page_number": "433", "skip": true},
+    {"title": "AutorInnenverzeichnis", "authors": [], "printed_page_number": "445", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

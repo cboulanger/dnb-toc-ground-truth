@@ -1,0 +1,27 @@
+{
+  "entries": [
+    {"title": "Inhaltsübersicht", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Zum Geleit", "authors": ["Bischof Paul-Werner"], "printed_page_number": "7", "skip": true},
+    {"title": "I. Die alte Domschule", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Die Würzburger Domschule von ihren Anfängen bis zum Ausgang des Mittelalters: religionis et rei publicae seminarium?", "authors": ["Hans Thurn"], "printed_page_number": "11", "skip": false},
+    {"title": "Spurensuche zu einer Geschichte der Würzburger Domschule ab 1500", "authors": ["Erik Soder v. Güldenstubbe"], "printed_page_number": "34", "skip": false},
+    {"title": "Der Bruderhof im Wandel der Zeiten", "authors": ["Werner Dettelbacher"], "printed_page_number": "59", "skip": false},
+    {"title": "II. Die neue Domschule", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Die neue Domschule: Akademie für Erwachsenenbildung der Diözese Würzburg. Wie sie wurde – was sie ist", "authors": ["Günter Koch"], "printed_page_number": "73", "skip": false},
+    {"title": "Theologie im Fernkurs – Theologie mit Laien", "authors": ["Josef Pretscher"], "printed_page_number": "106", "skip": false},
+    {"title": "Kurzbiographien", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Anton Maxsein", "authors": ["Max Domarus"], "printed_page_number": "141", "skip": false},
+    {"title": "Fritz Hofmann", "authors": ["Irmgard Krebs"], "printed_page_number": "143", "skip": false},
+    {"title": "Ignaz Zangerle", "authors": ["Irmgard Krebs"], "printed_page_number": "148", "skip": false},
+    {"title": "Kommentare und Aufstellungen", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Die Domschule. Ihre rechtliche Stellung im Diözesan-Bereich", "authors": ["Franz-Ludwig Knemeyer"], "printed_page_number": "155", "skip": false},
+    {"title": "1. Die 1. Vorsitzenden des Vereins Domschule e.V.", "authors": [], "printed_page_number": "166", "skip": false},
+    {"title": "2. Die Mitglieder des Kuratoriums der Domschule", "authors": [], "printed_page_number": "166", "skip": false},
+    {"title": "3. Der Wissenschaftliche Beirat des Fernstudienbereichs der Domschule", "authors": [], "printed_page_number": "166", "skip": false},
+    {"title": "4. Die Akademieleitung der Domschule", "authors": [], "printed_page_number": "167", "skip": false},
+    {"title": "5. Die Wissenschaftlichen Mitarbeiter der Domschule", "authors": [], "printed_page_number": "167", "skip": false},
+    {"title": "6. Die jetzigen Mitarbeiter in der Verwaltung der Domschule", "authors": [], "printed_page_number": "167", "skip": false}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

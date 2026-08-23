@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {"title": "Inhaltsverzeichnis", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Vorwort: Eine Vortragsreihe zur Liturgiereform des II. Vatikanischen Konzils", "authors": ["Martin Stuflesser"], "printed_page_number": "9", "skip": false},
+    {"title": "2011", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Liturgiereform als Kirchenreform", "authors": ["Friedrich Kardinal Wetter"], "printed_page_number": "17", "skip": false},
+    {"title": "Kirche, die Eucharistie feiert", "authors": ["Rupert Berger"], "printed_page_number": "31", "skip": false},
+    {"title": "2012", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Predigt: Tagung zu „50 Jahre Liturgiekonstitution des II. Vaticanums“", "authors": ["Bischof Friedhelm Hofmann"], "printed_page_number": "47", "skip": false},
+    {"title": "Die Konstitution über die Liturgie Sacrosanctum Concilium und die päpstlichen Liturgien von Papst Johannes Paul II.", "authors": ["Erzbischof Piero Marini"], "printed_page_number": "51", "skip": false},
+    {"title": "„Sei Verwalter der Mysterien Gottes. – Nicht ihr Hüter“", "authors": ["Nicole Stockhoff"], "printed_page_number": "71", "skip": false},
+    {"title": "2013", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Predigt: 50 Jahre Liturgiekonstitution „Sacrosanctum Concilium“", "authors": ["Bischof Friedhelm Hofmann"], "printed_page_number": "91", "skip": false},
+    {"title": "50 Jahre Liturgiereform", "authors": ["Erzbischof Gerhard Ludwig Müller"], "printed_page_number": "95", "skip": false},
+    {"title": "Kritik an der Liturgiereform und an ihren Kritikern", "authors": ["Winfried Haunerland"], "printed_page_number": "107", "skip": false},
+    {"title": "Danksagung", "authors": [], "printed_page_number": "121", "skip": true},
+    {"title": "Verzeichnis der Konzilsdokumente", "authors": [], "printed_page_number": "123", "skip": true},
+    {"title": "Autorenverzeichnis", "authors": [], "printed_page_number": "125", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

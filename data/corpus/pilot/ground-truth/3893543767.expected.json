@@ -1,0 +1,17 @@
+{
+  "entries": [
+    {"title": "ÍNDICE GENERAL", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Presentación", "authors": [], "printed_page_number": "9", "skip": true},
+    {"title": "El contacto de lenguas y la singularidad americana", "authors": ["Ángel López García"], "printed_page_number": "17", "skip": false},
+    {"title": "Transferencias aspectuales en el español americano en contacto", "authors": ["Daniel Jorques Jiménez"], "printed_page_number": "31", "skip": false},
+    {"title": "Náhuatl y español en contacto: en torno a la noción de sincretismo", "authors": ["Carlos Hernández Sacristán"], "printed_page_number": "61", "skip": false},
+    {"title": "Partículas en castellano andino", "authors": ["Julio Calvo Pérez"], "printed_page_number": "73", "skip": false},
+    {"title": "Algunos rasgos fónicos de interferencia del guaraní en el español del Paraguay", "authors": ["Manuel Pruñonosa"], "printed_page_number": "113", "skip": false},
+    {"title": "El sistema pronominal del español paraguayo: un caso de contacto de lenguas", "authors": ["Azucena Palacios Alcaine"], "printed_page_number": "123", "skip": false},
+    {"title": "Por un programa de investigación del español indígena en México", "authors": ["José Antonio Flores Farfán"], "printed_page_number": "145", "skip": false},
+    {"title": "Los criollos de base lexical española", "authors": ["Ángela Bartens"], "printed_page_number": "159", "skip": false},
+    {"title": "El español en los Estados Unidos a principios del siglo XXI: Apuntes relativos a la investigación sobre la variedad de la lengua y la coexistencia con el inglés en las comunidades bilingües", "authors": ["Ana Roca"], "printed_page_number": "193", "skip": false}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

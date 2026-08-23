@@ -1,0 +1,23 @@
+{
+  "entries": [
+    {"title": "Contents", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Sheet fractures: response to erosional offloading or to tectonic stress? (with 18 figures)", "authors": ["C.R. Twidale", "J.R. Vidal Romani", "E.M. Campbell", "J.D. Centeno"], "printed_page_number": "1-24", "skip": false},
+    {"title": "Late Cenozoic landform development in East Africa: The role of near base level planation within the dynamic etchplanation concept (with 3 figures)", "authors": ["A. Veldkamp"], "printed_page_number": "25-40", "skip": false},
+    {"title": "Late Quaternary uplift history, Mount Gambier region, South Australia (with 7 figures and 2 tables)", "authors": ["C.V. Murray-Wallace", "A.P. Belperio", "J.H. Cann", "D.J. Huntley", "J.R. Prescott"], "printed_page_number": "41-56", "skip": false},
+    {"title": "The effect of rock properties on rates of tafoni growth in coastal environments (with 6 figures and 4 tables)", "authors": ["Y. Matsukura", "N. Matsuoka"], "printed_page_number": "57-72", "skip": false},
+    {"title": "Cavernous weathering in the Basin and Range area, southwestern USA and northwestern Mexico (with 10 figures and 2 tables)", "authors": ["G. Kirchner"], "printed_page_number": "73-97", "skip": false},
+    {"title": "Palaeoflood analysis of channel-fill deposits, central Tapti river basin, India (with 5 figures and 2 tables)", "authors": ["J.N. Malik", "A.S. Khadkikar"], "printed_page_number": "99-106", "skip": false},
+    {"title": "Scale and morphometry interaction in the drainage network of badlands areas (with 5 figures and 9 tables)", "authors": ["C. Conesa-García", "F. López-Bermúdez", "M.A. Romero-Díaz"], "printed_page_number": "107-124", "skip": false},
+    {"title": "A possible origin for a mega-fluting complex on the southern Alberta prairies, Canada (with 14 figures)", "authors": ["D.J.A. Evans"], "printed_page_number": "125-148", "skip": false},
+    {"title": "Likelihood of erosive rains in Lesotho (with 14 figures and 3 tables)", "authors": ["B. Calles", "L. Kulander"], "printed_page_number": "149-168", "skip": false},
+    {"title": "Late Quaternary hillslope erosion rates in Japanese mountains estimated from landform classification and morphometry (with 6 figures and 1 table)", "authors": ["T. Oguchi"], "printed_page_number": "169-181", "skip": false},
+    {"title": "A comparison of the interrill infiltration, runoff and erosion characteristics of two contrasting 'badland' areas in southern France (with 7 figures and 2 tables)", "authors": ["J. Wainwright"], "printed_page_number": "183-198", "skip": false},
+    {"title": "Ploughing blocks as evidence of down-slope sediment transport in the English Lake District (with 12 figures and 3 tables)", "authors": ["R.J. Allison", "K.C. Davies"], "printed_page_number": "199-219", "skip": false},
+    {"title": "Estimating sediment transport and reservoir sedimentation in an EIA framework (a case study applied to the Pequenos Limbobos Dam in Southern Mozambique) (with 7 figures and 2 tables)", "authors": ["E. Chonguiça"], "printed_page_number": "221-237", "skip": false},
+    {"title": "Morphologic characteristics of debris flow fans in Xiaojiang Valley of southwestern China (with 14 figures and 1 table)", "authors": ["Xilin Liu"], "printed_page_number": "239-254", "skip": false},
+    {"title": "A simple portable device for the measurement of ground loss and surface changes (with 5 figures and 1 table)", "authors": ["A.W. Wells", "M.R. Bennett"], "printed_page_number": "255-265", "skip": false},
+    {"title": "L'évolution hydrogéomorphologique du delta du Danube Étape Pleistocène-Holocène inférieur (avec 22 figures et 1 tableau)", "authors": ["G. Romanescu"], "printed_page_number": "267-295", "skip": false}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

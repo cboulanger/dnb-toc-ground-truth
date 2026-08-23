@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {"title": "Inhalt", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Entwürfe für eine Welt mit Zukunft", "authors": [], "printed_page_number": "7", "skip": false},
+    {"title": "Die nachhaltige Republik. Eine reale Utopie", "authors": ["Harald Welzer"], "printed_page_number": "9", "skip": false},
+    {"title": "Flussbad Berlin", "authors": ["Harald Welzer"], "printed_page_number": "28", "skip": false},
+    {"title": "Close the gap", "authors": ["PLANET Architects"], "printed_page_number": "34", "skip": false},
+    {"title": "Die offene Stadt der nachhaltigen Republik. Ein Entwurf", "authors": ["Friedrich von Borries", "Benjamin Kasten"], "printed_page_number": "40", "skip": false},
+    {"title": "Digital, dezentral, demokratisch?! Nachhaltige Mobilität in der nachhaltigen Republik", "authors": ["Stephan Rammler"], "printed_page_number": "63", "skip": false},
+    {"title": "Die biozentrische Republik", "authors": ["Julia Lohmann"], "printed_page_number": "100", "skip": false},
+    {"title": "Die Internalisierungsgesellschaft. Ein Rückblick aus dem Jahr 2050", "authors": ["Frank Graef", "Charlotte Hoffmann", "Maxim Keller"], "printed_page_number": "117", "skip": false},
+    {"title": "Zukunftstore. Einige Beobachtungen zur Praxis utopischer Nachhaltigkeitspolitik", "authors": ["Günther Bachmann"], "printed_page_number": "141", "skip": false},
+    {"title": "Nützliches zum Weiterlesen", "authors": [], "printed_page_number": "154", "skip": true},
+    {"title": "Autorinnen und Autoren", "authors": [], "printed_page_number": "157", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}
