@@ -7,9 +7,11 @@ Every function here only ever reads already-committed data (llm-cache/,
 ground-truth/*.expected.json) -- no new caching, no network calls."""
 
 import itertools
+import json
 from dataclasses import dataclass
 
 from dnb_toc_ground_truth import corpus, matching, vision
+from dnb_toc_ground_truth.toc_entry import TocEntry, _parse_toc_page_number
 
 
 @dataclass(frozen=True)
@@ -66,5 +68,81 @@ def pairwise_model_agreement(models: list[str]) -> list[PairAgreement]:
             results.append(PairAgreement(
                 model_a=model_a, model_b=model_b,
                 mean_agreement=sum(rates) / len(rates), n_books=len(rates),
+            ))
+    return results
+
+
+@dataclass(frozen=True)
+class ModelGroundTruthMetrics:
+    model: str
+    precision: float
+    recall: float
+    f1: float
+    n_books: int
+
+
+def _entries_from_dicts(entries: list[dict]) -> list[TocEntry]:
+    return [
+        TocEntry(
+            title=e["title"], authors=tuple(e.get("authors", [])),
+            printed_page_number=e["printed_page_number"], source_page_index=-1, skip=e.get("skip", False),
+        )
+        for e in entries
+    ]
+
+
+def _page_sort_key(entry: TocEntry) -> tuple:
+    value = _parse_toc_page_number(entry.printed_page_number) if entry.printed_page_number else None
+    return (entry.printed_page_number is None, value if value is not None else 0, entry.printed_page_number or "")
+
+
+def arbitration_ground_truth_agreement(models: list[str]) -> list[ModelGroundTruthMetrics]:
+    """For every model, and every manifest book whose ground truth has
+    "source": "agent_arbitration" (verified: true -- Claude-transcribed
+    directly from the TOC page images, independent of any model's own
+    raw reading, so there is no circularity risk in using this corpus-wide
+    set rather than just the eval-tier subset of it), compares that
+    model's raw llm-cache entries against the arbitrated ground truth's
+    entries via matching.diff_toc_entries.
+
+    Unlike crossref_evaluation.evaluate_book (which only knows about real
+    chapters), this compares ALL entries including skip:true ones -- it
+    measures raw TOC-line extraction fidelity, not chapter classification.
+
+    TP = matched, FN = only_in_gt, FP = only_in_model; precision/recall/F1
+    from there, macro-averaged across the model's covered books. A model
+    with zero qualifying books is omitted, not reported as 0%."""
+    books = corpus.load_manifest_books()
+    cache_dir = corpus.llm_cache_dir()
+    results = []
+    for model in sorted(models):
+        book_scores = []
+        for book in books:
+            key = corpus.manifest_key(book)
+            gt_path = corpus.expected_json_path(key)
+            if not gt_path.exists():
+                continue
+            gt_data = json.loads(gt_path.read_text(encoding="utf-8"))
+            if gt_data.get("source") != "agent_arbitration":
+                continue
+            model_entries = vision.load_cached_llm_entries(cache_dir, key, model)
+            if model_entries is None:
+                continue
+            gt_entries = sorted(_entries_from_dicts(gt_data["entries"]), key=_page_sort_key)
+            model_sorted = sorted(model_entries, key=_page_sort_key)
+            matched_pairs, only_in_gt, only_in_model = matching.diff_toc_entries(gt_entries, model_sorted)
+            tp, fn, fp = len(matched_pairs), len(only_in_gt), len(only_in_model)
+            precision = tp / (tp + fp) if (tp + fp) else 0.0
+            recall = tp / (tp + fn) if (tp + fn) else 0.0
+            f1 = 2 * precision * recall / (precision + recall) if (precision + recall) else 0.0
+            book_scores.append((precision, recall, f1))
+        if book_scores:
+            n = len(book_scores)
+            results.append(ModelGroundTruthMetrics(
+                model=model,
+                precision=sum(s[0] for s in book_scores) / n,
+                recall=sum(s[1] for s in book_scores) / n,
+                f1=sum(s[2] for s in book_scores) / n,
+                n_books=n,
             ))
     return results
