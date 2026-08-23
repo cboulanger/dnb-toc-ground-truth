@@ -14,12 +14,16 @@ from dnb_toc_ground_truth import corpus, vision
 from dnb_toc_ground_truth.crossref_evaluation import BookMetrics
 from dnb_toc_ground_truth.evaluation_site import (
     CorpusData,
+    ModelComparisonData,
     SourceScores,
     collect_corpus_data,
+    collect_model_comparison_data,
     render_corpus_html,
     render_index_html,
+    render_model_comparison_html,
     write_site,
 )
+from dnb_toc_ground_truth.model_agreement import ModelGroundTruthMetrics, PairAgreement, PairCandidateScore
 from dnb_toc_ground_truth.toc_entry import TocEntry
 
 
@@ -301,6 +305,99 @@ class TestWriteSite(unittest.TestCase):
                     other_html = (output_dir / "other.html").read_text(encoding="utf-8")
                     self.assertIn(">pilot<", pilot_html)
                     self.assertIn(">other<", other_html)
+
+
+class TestCollectModelComparisonData(unittest.TestCase):
+    def test_gathers_agreement_gt_metrics_and_crossref_for_every_cached_model(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp) / "pilot"):
+            corpus.corpus_dir().mkdir(parents=True, exist_ok=True)
+            corpus.manifest_path().write_text(
+                json.dumps({"toc_only": True, "books": [{"filename": "111.pdf", "doi": None}]}),
+                encoding="utf-8",
+            )
+            corpus.ground_truth_dir().mkdir(parents=True, exist_ok=True)
+            corpus.expected_json_path("111").write_text(
+                json.dumps({
+                    "entries": [{"title": "1. Introduction", "authors": [], "printed_page_number": "1", "skip": False}],
+                    "verified": True, "source": "agent_arbitration",
+                }),
+                encoding="utf-8",
+            )
+            entries = [TocEntry(title="1. Introduction", printed_page_number="1", source_page_index=0)]
+            vision.write_cached_llm_entries(corpus.llm_cache_dir(), "111", "model/a", entries)
+            vision.write_cached_llm_entries(corpus.llm_cache_dir(), "111", "model/b", entries)
+
+            data = collect_model_comparison_data()
+
+            self.assertEqual(data.name, "pilot")
+            self.assertEqual(data.models, ["model__a", "model__b"])
+            self.assertEqual(len(data.agreements), 1)
+            self.assertEqual(len(data.gt_metrics), 2)
+            self.assertIn("model__a", data.crossref_results)
+            self.assertEqual(len(data.scored_pairs), 1)
+            self.assertEqual(data.unscored_pairs, [])
+
+    def test_no_cached_models_yields_empty_data_without_crashing(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            corpus.manifest_path().write_text(json.dumps({"toc_only": True, "books": []}), encoding="utf-8")
+            data = collect_model_comparison_data()
+            self.assertEqual(data.models, [])
+            self.assertEqual(data.agreements, [])
+
+
+class TestRenderModelComparisonHtml(unittest.TestCase):
+    def _sample_data(self) -> ModelComparisonData:
+        return ModelComparisonData(
+            name="pilot",
+            models=["model__a", "model__b"],
+            agreements=[PairAgreement(model_a="model__a", model_b="model__b", mean_agreement=0.9, n_books=5)],
+            gt_metrics=[
+                ModelGroundTruthMetrics(model="model__a", precision=0.8, recall=0.8, f1=0.8, n_books=10),
+                ModelGroundTruthMetrics(model="model__b", precision=0.7, recall=0.7, f1=0.7, n_books=8),
+            ],
+            crossref_results={"model__a": ([], []), "model__b": ([], [])},
+            scored_pairs=[PairCandidateScore(
+                model_a="model__a", model_b="model__b", f1_a=0.8, f1_b=0.7,
+                observed_agreement=0.9, expected_agreement=0.62, kappa=0.74, score=-0.04, n_books=5,
+            )],
+            unscored_pairs=[],
+        )
+
+    def test_renders_all_three_sections(self):
+        html = render_model_comparison_html(self._sample_data())
+        self.assertIn("Pairwise agreement", html)
+        self.assertIn("Per-model accuracy", html)
+        self.assertIn("Candidate pair ranking", html)
+        self.assertIn("model__a", html)
+        self.assertIn("model__b", html)
+
+    def test_heatmap_cell_shows_rate_and_n(self):
+        html = render_model_comparison_html(self._sample_data())
+        self.assertIn("90% (n=5)", html)
+
+    def test_no_models_renders_a_placeholder_without_crashing(self):
+        data = ModelComparisonData(
+            name="pilot", models=[], agreements=[], gt_metrics=[], crossref_results={},
+            scored_pairs=[], unscored_pairs=[],
+        )
+        html = render_model_comparison_html(data)
+        self.assertIn("No cached model readings found", html)
+
+    def test_unscored_pairs_are_listed_separately(self):
+        data = ModelComparisonData(
+            name="pilot", models=["model__a", "model__b"],
+            agreements=[PairAgreement(model_a="model__a", model_b="model__b", mean_agreement=0.9, n_books=5)],
+            gt_metrics=[], crossref_results={}, scored_pairs=[],
+            unscored_pairs=[("model__a", "model__b")],
+        )
+        html = render_model_comparison_html(data)
+        self.assertIn("Unscored pairs", html)
+        self.assertIn("model__a + model__b", html)
+
+    def test_back_links_to_corpora_and_corpus_page(self):
+        html = render_model_comparison_html(self._sample_data())
+        self.assertIn('<a href="index.html">&larr; Corpora</a>', html)
+        self.assertIn('<a href="pilot.html">&larr; pilot</a>', html)
 
 
 if __name__ == "__main__":

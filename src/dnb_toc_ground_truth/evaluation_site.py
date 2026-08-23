@@ -16,6 +16,15 @@ from dnb_toc_ground_truth.crossref_evaluation import (
     evaluate_corpus,
     evaluate_model_corpus,
 )
+from dnb_toc_ground_truth.model_agreement import (
+    ModelGroundTruthMetrics,
+    PairAgreement,
+    PairCandidateScore,
+    arbitration_ground_truth_agreement,
+    discover_all_cached_models,
+    pairwise_model_agreement,
+    rank_candidate_pairs,
+)
 
 # Mirrors `git remote get-url origin` -- not derived at runtime since the
 # generator has no other reason to shell out to git, and this repo isn't
@@ -44,6 +53,17 @@ class CorpusData:
     sources: list[SourceScores]
 
 
+@dataclass(frozen=True)
+class ModelComparisonData:
+    name: str
+    models: list[str]
+    agreements: list[PairAgreement]
+    gt_metrics: list[ModelGroundTruthMetrics]
+    crossref_results: dict[str, tuple[list[BookMetrics], list[str]]]
+    scored_pairs: list[PairCandidateScore]
+    unscored_pairs: list[tuple[str, str]]
+
+
 def collect_corpus_data() -> CorpusData:
     """Runs the ground-truth crossref evaluation plus every discovered
     llm-cache model's, for corpus.py's CURRENTLY SELECTED corpus
@@ -63,6 +83,20 @@ def collect_corpus_data() -> CorpusData:
             label=model, is_ground_truth=False, results=model_results, uncovered_count=len(no_cache), model=model,
         ))
     return CorpusData(name=corpus.corpus_dir().name, titles=titles, toc_urls=toc_urls, sources=sources)
+
+
+def collect_model_comparison_data() -> ModelComparisonData:
+    """Same "operates on corpus.py's CURRENTLY SELECTED corpus" contract
+    as collect_corpus_data()."""
+    models = discover_all_cached_models()
+    agreements = pairwise_model_agreement(models)
+    gt_metrics = arbitration_ground_truth_agreement(models)
+    crossref_results = {model: evaluate_model_corpus(model) for model in models}
+    scored_pairs, unscored_pairs = rank_candidate_pairs(agreements, gt_metrics)
+    return ModelComparisonData(
+        name=corpus.corpus_dir().name, models=models, agreements=agreements, gt_metrics=gt_metrics,
+        crossref_results=crossref_results, scored_pairs=scored_pairs, unscored_pairs=unscored_pairs,
+    )
 
 
 def _source_data_path(key: str, model: Optional[str]) -> Path:
@@ -290,6 +324,163 @@ llm-cache extraction over the same books.</p>
 {sections}
 """
     return _page(f"{data.name} -- Crossref evaluation", body)
+
+
+def _heatmap_color(rate: float) -> str:
+    """White (0%) -> a mid green (100%), linearly interpolated -- the
+    printed "NN% (n=NNN)" text is always the primary read, this is a
+    secondary visual cue only."""
+    r = round(255 + (46 - 255) * rate)
+    g = round(255 + (125 - 255) * rate)
+    b = round(255 + (50 - 255) * rate)
+    return f"rgb({r},{g},{b})"
+
+
+def _render_agreement_heatmap(models: list[str], agreements: list[PairAgreement]) -> str:
+    by_pair = {frozenset((a.model_a, a.model_b)): a for a in agreements}
+    header = "".join(f"<th>{_html.escape(m)}</th>" for m in models)
+    rows = []
+    for row_model in models:
+        cells = []
+        for col_model in models:
+            if row_model == col_model:
+                cells.append("<td></td>")
+                continue
+            pair = by_pair.get(frozenset((row_model, col_model)))
+            if pair is None:
+                cells.append('<td class="num">-</td>')
+            else:
+                color = _heatmap_color(pair.mean_agreement)
+                cells.append(f'<td class="num" style="background:{color}">{pair.mean_agreement:.0%} (n={pair.n_books})</td>')
+        rows.append(f"<tr><th>{_html.escape(row_model)}</th>{''.join(cells)}</tr>")
+    return f"""<table>
+<thead><tr><th></th>{header}</tr></thead>
+<tbody>
+{''.join(rows)}
+</tbody>
+</table>"""
+
+
+def _render_model_accuracy_table(
+    models: list[str], gt_metrics: list[ModelGroundTruthMetrics],
+    crossref_results: dict[str, tuple[list[BookMetrics], list[str]]],
+) -> str:
+    gt_by_model = {m.model: m for m in gt_metrics}
+    ordered = sorted(models, key=lambda m: -(gt_by_model[m].f1 if m in gt_by_model else -1.0))
+    rows = []
+    for model in ordered:
+        gt = gt_by_model.get(model)
+        gt_cells = (
+            f'<td class="num">{gt.precision:.0%}</td><td class="num">{gt.recall:.0%}</td>'
+            f'<td class="num">{gt.f1:.0%}</td><td class="num">{gt.n_books}</td>'
+            if gt else '<td class="num">-</td><td class="num">-</td><td class="num">-</td><td class="num">-</td>'
+        )
+        cr_results, _ = crossref_results.get(model, ([], []))
+        if cr_results:
+            mean_f1 = _mean([r.f1 for r in cr_results])
+            cr_cells = (
+                f'<td class="num">{_mean([r.precision for r in cr_results]):.0%}</td>'
+                f'<td class="num">{_mean([r.recall for r in cr_results]):.0%}</td>'
+                f'<td class="num">{mean_f1:.0%}</td><td class="num">{len(cr_results)}</td>'
+            )
+        else:
+            cr_cells = '<td class="num">-</td><td class="num">-</td><td class="num">-</td><td class="num">-</td>'
+        bar_width = f"{gt.f1:.0%}" if gt else "0%"
+        rows.append(
+            f"<tr><td>{_html.escape(model)}</td>{gt_cells}{cr_cells}"
+            f'<td><div style="width:{bar_width}; background:#2e7d32; height:0.5rem;"></div></td></tr>'
+        )
+    return f"""<table>
+<thead><tr><th>Model</th><th class="num">Arb. P</th><th class="num">Arb. R</th><th class="num">Arb. F1</th>
+<th class="num">Arb. N</th><th class="num">Crossref P</th><th class="num">Crossref R</th>
+<th class="num">Crossref F1</th><th class="num">Crossref N</th><th>F1</th></tr></thead>
+<tbody>
+{''.join(rows)}
+</tbody>
+</table>"""
+
+
+def _render_candidate_ranking_table(scored_pairs: list[PairCandidateScore], unscored_pairs: list[tuple[str, str]]) -> str:
+    if not scored_pairs:
+        table = "<p>No pair has arbitration-GT coverage for both models yet.</p>"
+    else:
+        rows = "\n".join(
+            f"<tr><td>{_html.escape(p.model_a)}</td><td>{_html.escape(p.model_b)}</td>"
+            f'<td class="num">{p.f1_a:.0%}</td><td class="num">{p.f1_b:.0%}</td>'
+            f'<td class="num">{p.observed_agreement:.0%}</td><td class="num">{p.expected_agreement:.0%}</td>'
+            f'<td class="num">{p.kappa:+.2f}</td><td class="num">{p.score:+.2f}</td><td class="num">{p.n_books}</td></tr>'
+            for p in scored_pairs
+        )
+        table = f"""<table>
+<thead><tr><th>Model A</th><th>Model B</th><th class="num">F1 A</th><th class="num">F1 B</th>
+<th class="num">Observed</th><th class="num">Expected</th><th class="num">Kappa</th><th class="num">Score</th>
+<th class="num">N</th></tr></thead>
+<tbody>
+{rows}
+</tbody>
+</table>"""
+    if unscored_pairs:
+        items = "".join(f"<li>{_html.escape(a)} + {_html.escape(b)}</li>" for a, b in unscored_pairs)
+        table += f"<p>Unscored pairs (missing arbitration-GT coverage for one or both models):</p><ul>{items}</ul>"
+    return table
+
+
+def render_model_comparison_html(data: ModelComparisonData) -> str:
+    back_links = (
+        f'<p>{_link("index.html", "&larr; Corpora", new_tab=False)} '
+        f'{_link(f"{data.name}.html", f"&larr; {_html.escape(data.name)}", new_tab=False)}</p>'
+    )
+    if not data.models:
+        body = f"""{back_links}
+<h1>{_html.escape(data.name)} -- Model comparison</h1>
+<p>No cached model readings found for this corpus.</p>
+"""
+        return _page(f"{data.name} -- Model comparison", body)
+    body = f"""{back_links}
+<h1>{_html.escape(data.name)} -- Model comparison</h1>
+<p>Corpus-level metrics for choosing which two models to pair for the
+bulk-tier two-model agreement gate: how much two models' raw TOC
+readings agree with each other, how close each model is to
+arbitration-sourced ground truth (Claude-transcribed directly from the
+TOC page images, independent of any model's own raw reading) and to an
+independent Crossref cross-check, and a derived ranking of candidate
+pairs.</p>
+<div class="caveats">
+<strong>Caveats -- read before trusting a number below:</strong>
+<ul>
+<li><strong>Agreement measures how much two models say the same
+thing, not whether either is right.</strong> Two models sharing the
+same systematic blind spot (e.g. the same architecture family) would
+still show high agreement.</li>
+<li><strong>A HIGH kappa is the specific red flag for that failure
+mode</strong> -- agreement in excess of what each model's own
+arbitration-GT accuracy already predicts under independent errors is
+exactly why the candidate-pair ranking penalizes it rather than
+simply sorting by raw agreement. The kappa calculation is a
+simplification (it treats each model's arbitration-GT F1 as a flat
+per-entry "probability of being correct"), so read it directionally,
+not as a precise probability.</li>
+<li><strong>The ranking's score is NOT weighted by how many books it's
+based on.</strong> A pair backed by only a handful of shared/arbitrated
+books can outrank a pair backed by hundreds -- always check each row's
+N alongside its score, and treat a low-N score as provisional.</li>
+<li><strong>Arbitration-GT coverage differs per model and grows over
+time</strong> as more of the corpus gets arbitrated -- a low N means a
+score is based on fewer books and can shift as more books are
+arbitrated.</li>
+<li><strong>Crossref coverage is small and skewed</strong> toward
+larger, more prominent publishers -- see this corpus's main page for
+the full caveat.</li>
+</ul>
+</div>
+<h2>Pairwise agreement</h2>
+{_render_agreement_heatmap(data.models, data.agreements)}
+<h2>Per-model accuracy</h2>
+{_render_model_accuracy_table(data.models, data.gt_metrics, data.crossref_results)}
+<h2>Candidate pair ranking</h2>
+{_render_candidate_ranking_table(data.scored_pairs, data.unscored_pairs)}
+"""
+    return _page(f"{data.name} -- Model comparison", body)
 
 
 def write_site(output_dir: Path) -> None:
