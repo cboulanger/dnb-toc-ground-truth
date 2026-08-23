@@ -115,6 +115,13 @@ def _blob_url(path: Path) -> str:
     return f"{_GITHUB_REPO_BASE}/blob/main/{path.relative_to(corpus.repo_root())}"
 
 
+def _model_comparison_filename(name: str) -> str:
+    """The output filename for a corpus's model-comparison page --
+    single source of truth so render_index_html, render_corpus_html,
+    and write_site can never drift out of sync on this convention."""
+    return f"{name}-model-comparison.html"
+
+
 _STYLE = """
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
        max-width: 60rem; margin: 2rem auto; padding: 0 1.5rem; color: #1a1a1a; line-height: 1.5; }
@@ -197,7 +204,7 @@ def _page(title: str, body: str) -> str:
 def render_index_html(corpus_names: list[str]) -> str:
     links = "\n".join(
         f"<li>{_link(f'{name}.html', _html.escape(name), new_tab=False)} "
-        f"({_link(f'{name}-model-comparison.html', 'model comparison', new_tab=False)})</li>"
+        f"({_link(_model_comparison_filename(name), 'model comparison', new_tab=False)})</li>"
         for name in corpus_names
     )
     body = f"""<h1>Crossref evaluation</h1>
@@ -322,7 +329,7 @@ def render_corpus_html(data: CorpusData) -> str:
 corpus. Ground truth is the project's own committed data (highlighted
 below); each model section scores that model's raw, pre-agreement-gate
 llm-cache extraction over the same books.</p>
-<p>{_link(f"{data.name}-model-comparison.html", "Model comparison &rarr;", new_tab=False)}</p>
+<p>{_link(_model_comparison_filename(data.name), "Model comparison &rarr;", new_tab=False)}</p>
 {overview}
 {sections}
 """
@@ -505,7 +512,7 @@ def write_site(output_dir: Path) -> None:
         for name in corpus_names:
             corpus.set_corpus(name)
             (output_dir / f"{name}.html").write_text(render_corpus_html(collect_corpus_data()), encoding="utf-8")
-            (output_dir / f"{name}-model-comparison.html").write_text(
+            (output_dir / _model_comparison_filename(name)).write_text(
                 render_model_comparison_html(collect_model_comparison_data()), encoding="utf-8",
             )
     finally:

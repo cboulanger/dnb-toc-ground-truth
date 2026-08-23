@@ -16,6 +16,7 @@ from dnb_toc_ground_truth.evaluation_site import (
     CorpusData,
     ModelComparisonData,
     SourceScores,
+    _model_comparison_filename,
     collect_corpus_data,
     collect_model_comparison_data,
     render_corpus_html,
@@ -327,6 +328,36 @@ class TestWriteSiteModelComparison(unittest.TestCase):
                     output_dir = Path(out) / "site"
                     write_site(output_dir)
                     self.assertTrue((output_dir / "pilot-model-comparison.html").exists())
+
+
+class TestModelComparisonFilenameConsistency(unittest.TestCase):
+    """render_index_html, render_corpus_html, and write_site each build a
+    corpus's model-comparison filename independently -- this pins all
+    three to _model_comparison_filename() so a future edit to one call
+    site's convention (e.g. renaming the suffix) fails here instead of
+    silently producing a broken link."""
+
+    def test_index_link_matches_the_shared_filename_convention(self):
+        html = render_index_html(["pilot"])
+        self.assertIn(f'href="{_model_comparison_filename("pilot")}"', html)
+
+    def test_corpus_page_link_matches_the_shared_filename_convention(self):
+        data = CorpusData(
+            name="pilot", titles={}, toc_urls={},
+            sources=[SourceScores(label="Ground truth", is_ground_truth=True, results=[], uncovered_count=0)],
+        )
+        html = render_corpus_html(data)
+        self.assertIn(f'href="{_model_comparison_filename("pilot")}"', html)
+
+    def test_write_site_writes_the_file_the_shared_filename_convention_predicts(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            _init_corpus(root, "pilot", [])
+            with patch.object(corpus, "_CORPUS_ROOT", root), patch.object(corpus, "CORPUS_DIR", root / "pilot"):
+                with tempfile.TemporaryDirectory() as out:
+                    output_dir = Path(out) / "site"
+                    write_site(output_dir)
+                    self.assertTrue((output_dir / _model_comparison_filename("pilot")).exists())
 
 
 class TestCollectModelComparisonData(unittest.TestCase):
