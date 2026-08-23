@@ -66,3 +66,18 @@ gate's weaker models fail -- is done by a strong, multimodal AI agent
    This writes to the committed `data/corpus/pilot/arbitration-rejected.json`
    -- refuses (rather than silently overwriting) if `<key>` is already
    present, so re-running this step is safe.
+
+6. After a generation or arbitration batch changes the corpus's
+   coverage numbers, refresh the top-level `README.md`'s "Current
+   status" table:
+
+   ```bash
+   uv run python cli/corpus_status.py
+   ```
+
+   This rewrites the table in place (between its `<!-- corpus-status:
+   -->` markers) with fresh counts -- manifest size, ground truth (and
+   the bulk-gate/arbitration split), per-model reading counts, the
+   arbitration backlog, and the Crossref evaluation-corpus size. Run it
+   as the last step of any session that wrote new ground truth or cache
+   entries, and commit the resulting README diff alongside the data.

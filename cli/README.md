@@ -78,6 +78,34 @@ options:
                         (default: 3)
 ```
 
+## `corpus_status.py`
+
+Prints manifest/ground-truth/per-model/arbitration-backlog/evaluation
+coverage counts as a markdown table and rewrites it into the top-level
+`README.md`'s "Current status" section in place -- see `AGENTS.md`.
+
+```
+usage: corpus_status.py [-h] [--check] [--readme README] [--corpus CORPUS]
+                        [--config-file CONFIG_FILE]
+
+Prints corpus coverage counts -- manifest size, ground-truth coverage (and how
+it was produced), per-model LLM-cache reading counts, outstanding
+arbitration/rejection backlog, the held-out eval tier, and Crossref
+evaluation-corpus size -- as a markdown table, and rewrites it into
+README.md's "Current status" section in place.
+
+options:
+  -h, --help            show this help message and exit
+  --check               Print the table but don't write README.md; exit 1 if
+                        README.md's current section is stale
+  --readme README       Path to the README to update (default: this repo's
+                        top-level README.md)
+  --corpus CORPUS       Corpus to operate on (default: config file's "corpus",
+                        or 'pilot')
+  --config-file CONFIG_FILE
+                        Path to the config file (default: .config.json)
+```
+
 ## `evaluate_crossref.py`
 
 Measures precision/recall/F1 between this corpus's ground truth (and,
