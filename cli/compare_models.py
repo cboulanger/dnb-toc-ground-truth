@@ -39,7 +39,8 @@ def _print_agreement_matrix(models: list[str], agreements: list) -> None:
 def _print_accuracy_table(models: list[str], gt_metrics: list, crossref_results: dict) -> None:
     print("\n=== Per-model accuracy ===")
     gt_by_model = {m.model: m for m in gt_metrics}
-    for model in models:
+    ordered = sorted(models, key=lambda m: -(gt_by_model[m].f1 if m in gt_by_model else -1.0))
+    for model in ordered:
         gt = gt_by_model.get(model)
         gt_str = (
             f"P={gt.precision:.0%} R={gt.recall:.0%} F1={gt.f1:.0%} (n={gt.n_books})"
@@ -47,8 +48,10 @@ def _print_accuracy_table(models: list[str], gt_metrics: list, crossref_results:
         )
         cr_results, _ = crossref_results.get(model, ([], []))
         if cr_results:
+            mean_p = sum(r.precision for r in cr_results) / len(cr_results)
+            mean_r = sum(r.recall for r in cr_results) / len(cr_results)
             mean_f1 = sum(r.f1 for r in cr_results) / len(cr_results)
-            cr_str = f"F1={mean_f1:.0%} (n={len(cr_results)})"
+            cr_str = f"P={mean_p:.0%} R={mean_r:.0%} F1={mean_f1:.0%} (n={len(cr_results)})"
         else:
             cr_str = "no crossref coverage"
         print(f"{model}: arbitration-GT[{gt_str}] crossref[{cr_str}]")
