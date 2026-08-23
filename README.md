@@ -211,6 +211,12 @@ project measures all three:
    rewards individually-accurate models while penalizing only that
    excess correlation.
 
+Only models with at least 50 cached readings corpus-wide are included
+(`model_agreement._MIN_MODEL_READINGS`, same threshold and rationale as
+`cli/corpus_status.py`'s own status table) -- a one-off smoke-test
+endpoint's handful of readings isn't a meaningful sample, and would
+otherwise show up with noise-dominated agreement/accuracy numbers.
+
 **Run it:**
 
 ```bash

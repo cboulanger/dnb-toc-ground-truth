@@ -10,7 +10,7 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 
-from dnb_toc_ground_truth import corpus, vision
+from dnb_toc_ground_truth import corpus, model_agreement, vision
 from dnb_toc_ground_truth.crossref_evaluation import BookMetrics
 from dnb_toc_ground_truth.evaluation_site import (
     CorpusData,
@@ -362,7 +362,8 @@ class TestModelComparisonFilenameConsistency(unittest.TestCase):
 
 class TestCollectModelComparisonData(unittest.TestCase):
     def test_gathers_agreement_gt_metrics_and_crossref_for_every_cached_model(self):
-        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp) / "pilot"):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp) / "pilot"), \
+                patch.object(model_agreement, "_MIN_MODEL_READINGS", 1):
             corpus.corpus_dir().mkdir(parents=True, exist_ok=True)
             corpus.manifest_path().write_text(
                 json.dumps({"toc_only": True, "books": [{"filename": "111.pdf", "doi": None}]}),

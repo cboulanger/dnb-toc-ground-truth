@@ -16,13 +16,14 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "cli"))
 
 from compare_models import main
 
-from dnb_toc_ground_truth import corpus, vision
+from dnb_toc_ground_truth import corpus, model_agreement, vision
 from dnb_toc_ground_truth.toc_entry import TocEntry
 
 
 class TestMain(unittest.TestCase):
     def test_runs_end_to_end_and_prints_all_three_sections(self):
-        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)), \
+                patch.object(model_agreement, "_MIN_MODEL_READINGS", 1):
             corpus.manifest_path().write_text(
                 json.dumps({"toc_only": True, "books": [{"filename": "111.pdf", "doi": None}]}),
                 encoding="utf-8",

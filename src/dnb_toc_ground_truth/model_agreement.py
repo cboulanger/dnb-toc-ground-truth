@@ -22,25 +22,37 @@ class PairAgreement:
     n_books: int
 
 
+# Below this many cached readings, a model isn't a meaningful sample for a
+# corpus-level comparison metric -- a one-off smoke-test endpoint's handful
+# of readings would otherwise show up in the agreement matrix/ranking with
+# noise-dominated numbers. Same threshold and rationale as
+# cli/corpus_status.py's own _MIN_MODEL_READINGS (kept as a separate
+# constant rather than imported, matching this project's convention of
+# small, self-contained per-module constants over cross-module sharing).
+_MIN_MODEL_READINGS = 50
+
+
 def discover_all_cached_models() -> list[str]:
-    """Every distinct (sanitized) model id with at least one llm-cache
-    entry anywhere in the currently-selected corpus, regardless of
-    Crossref-sample coverage (unlike
+    """Every distinct (sanitized) model id with at least _MIN_MODEL_READINGS
+    llm-cache entries anywhere in the currently-selected corpus, regardless
+    of Crossref-sample coverage (unlike
     crossref_evaluation.discover_cached_models, which is scoped to
-    Crossref-sample books only). Cache filenames are
-    "<key>.<safe_model>.json" (vision.cache_path) -- the manifest key
-    never contains a dot, so splitting each filename stem on its FIRST
-    dot recovers the full sanitized model id even when the model id
-    itself contains one (e.g. "mistralai__Mistral-Small-3.2-24B-Instruct-2506")."""
+    Crossref-sample books only). A model below the threshold is excluded
+    entirely from the comparison, not shown with a noise-dominated number.
+    Cache filenames are "<key>.<safe_model>.json" (vision.cache_path) --
+    the manifest key never contains a dot, so splitting each filename stem
+    on its FIRST dot recovers the full sanitized model id even when the
+    model id itself contains one (e.g.
+    "mistralai__Mistral-Small-3.2-24B-Instruct-2506")."""
     cache_dir = vision.versioned_cache_dir(corpus.llm_cache_dir())
     if not cache_dir.exists():
         return []
-    models: set[str] = set()
+    counts: dict[str, int] = {}
     for path in cache_dir.glob("*.json"):
         stem = path.name[: -len(".json")]
         _key, _sep, model = stem.partition(".")
-        models.add(model)
-    return sorted(models)
+        counts[model] = counts.get(model, 0) + 1
+    return sorted(model for model, count in counts.items() if count >= _MIN_MODEL_READINGS)
 
 
 def pairwise_model_agreement(models: list[str]) -> list[PairAgreement]:

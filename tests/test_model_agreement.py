@@ -10,7 +10,7 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 
-from dnb_toc_ground_truth import corpus, vision
+from dnb_toc_ground_truth import corpus, model_agreement, vision
 from dnb_toc_ground_truth.model_agreement import (
     ModelGroundTruthMetrics,
     PairAgreement,
@@ -35,8 +35,9 @@ def _write_manifest(keys: list[str]) -> None:
 
 
 class TestDiscoverAllCachedModels(unittest.TestCase):
-    def test_finds_every_model_with_at_least_one_cache_entry(self):
-        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+    def test_finds_every_model_with_at_least_min_readings_cache_entries(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)), \
+                patch.object(model_agreement, "_MIN_MODEL_READINGS", 1):
             _write_llm_cache_entry("111", "model/a", [
                 TocEntry(title="Introduction", printed_page_number="1", source_page_index=0),
             ])
@@ -56,12 +57,29 @@ class TestDiscoverAllCachedModels(unittest.TestCase):
         # ("mistralai/Mistral-Small-3.2-24B-Instruct-2506" sanitizes to
         # "mistralai__Mistral-Small-3.2-24B-Instruct-2506"). Splitting on
         # the FIRST dot only (not any dot) must recover the full model id.
-        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)), \
+                patch.object(model_agreement, "_MIN_MODEL_READINGS", 1):
             _write_llm_cache_entry("111", "mistralai/Mistral-Small-3.2-24B-Instruct-2506", [
                 TocEntry(title="Introduction", printed_page_number="1", source_page_index=0),
             ])
             models = discover_all_cached_models()
             self.assertEqual(models, ["mistralai__Mistral-Small-3.2-24B-Instruct-2506"])
+
+    def test_default_threshold_excludes_a_model_with_too_few_readings(self):
+        # A one-off smoke-test endpoint's handful of readings isn't a
+        # meaningful sample for a corpus-level comparison metric -- same
+        # rationale as cli/corpus_status.py's own _MIN_MODEL_READINGS.
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp)):
+            for i in range(49):
+                _write_llm_cache_entry(f"below-{i}", "model/below-threshold", [
+                    TocEntry(title="Introduction", printed_page_number="1", source_page_index=0),
+                ])
+            for i in range(50):
+                _write_llm_cache_entry(f"above-{i}", "model/at-threshold", [
+                    TocEntry(title="Introduction", printed_page_number="1", source_page_index=0),
+                ])
+            models = discover_all_cached_models()
+            self.assertEqual(models, ["model__at-threshold"])
 
 
 class TestPairwiseModelAgreement(unittest.TestCase):
