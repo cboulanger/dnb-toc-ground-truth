@@ -1,0 +1,32 @@
+{
+  "entries": [
+    {"title": "List of figures", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "List of maps", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "List of tables", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "List of contributors", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Acknowledgments", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "1 Introduction: South American indigenous languages; genealogy, typology, contacts", "authors": ["Pieter Muysken", "Loretta O'Connor"], "printed_page_number": "1", "skip": false},
+    {"title": "Part I Introduction to South America", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "2 Human migrations, dispersals, and contacts in South America", "authors": ["Loretta O'Connor", "Vishnupriya Kolipakam"], "printed_page_number": "29", "skip": false},
+    {"title": "3 Basic vocabulary comparison in South American languages", "authors": ["Harald Hammarström"], "printed_page_number": "56", "skip": false},
+    {"title": "Part II Case studies in contact", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "4 Structural features and language contact in the Isthmo-Colombian area", "authors": ["Loretta O'Connor"], "printed_page_number": "73", "skip": false},
+    {"title": "5 The Andean foothills and adjacent Amazonian fringe", "authors": ["Rik van Gijn"], "printed_page_number": "102", "skip": false},
+    {"title": "6 The Andean matrix", "authors": ["Simon van de Kerke", "Pieter Muysken"], "printed_page_number": "126", "skip": false},
+    {"title": "7 The Arawakan matrix", "authors": ["Love Eriksen", "Swintha Danielsen"], "printed_page_number": "152", "skip": false},
+    {"title": "8 The Tupian expansion", "authors": ["Love Eriksen", "Ana Vilacy Galucio"], "printed_page_number": "177", "skip": false},
+    {"title": "Part III Comparative perspectives on linguistic structures", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "9 Language internal and external factors in the development of the desiderative in South American indigenous languages", "authors": ["Neele Müller"], "printed_page_number": "203", "skip": false},
+    {"title": "10 Verbal argument marking patterns in South American languages", "authors": ["Joshua Birchall"], "printed_page_number": "223", "skip": false},
+    {"title": "11 The Noun Phrase: focus on demonstratives, redrawing the semantic map", "authors": ["Olga Krasnoukhova"], "printed_page_number": "250", "skip": false},
+    {"title": "12 Subordination strategies in South America: nominalization", "authors": ["Rik van Gijn"], "printed_page_number": "274", "skip": false},
+    {"title": "Part IV Major findings and conclusions", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "13 The languages of South America: deep families, areal relationships, and language contact", "authors": ["Pieter Muysken", "Harald Hammarström", "Joshua Birchall", "Swintha Danielsen", "Love Eriksen", "Ana Vilacy Galucio", "Rik van Gijn", "Simon van de Kerke", "Vishnupriya Kolipakam", "Olga Krasnoukhova", "Neele Müller", "Loretta O'Connor"], "printed_page_number": "299", "skip": false},
+    {"title": "References", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Subject and place index", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Language index", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Author index", "authors": [], "printed_page_number": null, "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

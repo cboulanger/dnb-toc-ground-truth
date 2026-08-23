@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {"title": "Inhalt", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Studentische Medienwelten (in) der Gegenwart", "authors": ["Sandra Hofhues", "Mandy Schiefner-Rohs", "Sandra Aßmann", "Taiga Brahm"], "printed_page_number": "9", "skip": false},
+    {"title": "I. Erforschung von und Erkenntnisse zu studentischen Medienwelten", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Eigensinniges Medienhandeln Studierender? Studentisches Medienhandeln zwischen Selbstverständlichkeit, eigenmotivierten Handlungen und Anpassung", "authors": ["Filiz Aksoy", "Olga Neuberger"], "printed_page_number": "23", "skip": false},
+    {"title": "„Man ist halt so ein ganz kleiner Teil von diesem ganzen Großen“. Rekonstruktion der studentischen Sicht auf digitale Lerninfrastrukturen an Hochschulen", "authors": ["Sabrina Pensel", "Sandra Hofhues", "Jonathan Schiller"], "printed_page_number": "41", "skip": false},
+    {"title": "„Manche wissen halt einfach echt nicht, wie Studieren funktioniert, hat man das Gefühl“. Kontextuelle Dimensionen und Orientierungen studentischen Medienhandelns", "authors": ["Katharina Mojescik", "Mario Engemann", "Inga Lotta Limpinsel", "Kira Lewandowski", "Sandra Aßmann"], "printed_page_number": "65", "skip": false},
+    {"title": "Von Hoffnungen und Enttäuschungen gegenseitiger Erwartungen an Lehre. Eigensinniges Medienhandeln Studierender in Abhängigkeit von Lehrgestaltung", "authors": ["Michael Becker", "Tim Riplinger", "Mandy Schiefner-Rohs"], "printed_page_number": "87", "skip": false},
+    {"title": "Erkenntnisse zur medienbezogenen Selbstwirksamkeit von Studierenden", "authors": ["Marina Pumptow", "Taiga Brahm"], "printed_page_number": "107", "skip": false},
+    {"title": "Digitale Spuren von Studierenden in virtuellen Lernumgebungen", "authors": ["Philipp Krieter", "Andreas Breiter"], "printed_page_number": "131", "skip": false},
+    {"title": "Die Erforschung studentischen Medienhandelns mit der dokumentarischen Methode. Forschungsleitende Grundannahmen und forschungspraktische Umsetzung", "authors": ["Sabrina Pensel", "Katharina Mojescik", "Filiz Aksoy", "Mario Engemann", "Kira Lewandowski"], "printed_page_number": "153", "skip": false},
+    {"title": "II. Forschungswerkstätten und projektorientierte Hochschulbildungsforschung", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Studentische Erfahrungen in der Durchführung der Gruppendiskussionen", "authors": ["Jennifer Grüntjens", "Jonathan Schiller"], "printed_page_number": "165", "skip": false},
+    {"title": "Einbindung Studierender bei der Erforschung studentischen Medienhandelns", "authors": ["Katharina Mojescik", "Sabrina Pensel", "Sarah Schick", "Mario Engemann"], "printed_page_number": "171", "skip": false},
+    {"title": "Learning Analytics in der Hochschule: Theoretisches Potenzial oder praktischer Nutzen?", "authors": ["Antonia Weber", "Peter Salden"], "printed_page_number": "181", "skip": false},
+    {"title": "Forschungsdatenmanagement und das Teilen qualitativer Daten", "authors": ["Antonia Weber", "Sandra Hofhues"], "printed_page_number": "193", "skip": false},
+    {"title": "Studentische Medienwelten gemeinsam analysieren. Ein Plädoyer für transdisziplinäre Zusammenarbeit", "authors": ["Sandra Hofhues", "Mandy Schiefner-Rohs", "Taiga Brahm", "Sandra Aßmann", "Arne Hendrik Ruhe"], "printed_page_number": "207", "skip": false},
+    {"title": "III. Beziehungen zur und Bedeutungen für die Universität (in) der Gegenwart", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Medienhandeln und die Gestaltung von Lehre. Implikationen aus Studierendenperspektive", "authors": ["Tim Riplinger", "Michael Becker", "Constanze Reder-Knerr", "Christian Layes", "Sarah Adrian"], "printed_page_number": "221", "skip": false},
+    {"title": "All-in-One – Hochschulkontexte studierendengerecht und digital gestalten durch einen ganzheitlichen Onboarding-Prozess", "authors": ["Inga Lotta Limpinsel", "Olga Neuberger", "Sandra Aßmann", "Mario Engemann"], "printed_page_number": "229", "skip": false},
+    {"title": "Förderung von (medienbezogener) Selbstwirksamkeit an Hochschulen", "authors": ["Taiga Brahm", "Marina Pumptow"], "printed_page_number": "237", "skip": false},
+    {"title": "Im Widerspruch der Organisation", "authors": ["Sandra Hofhues"], "printed_page_number": "245", "skip": false},
+    {"title": "Verzeichnis der Autor*innen", "authors": [], "printed_page_number": "255", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

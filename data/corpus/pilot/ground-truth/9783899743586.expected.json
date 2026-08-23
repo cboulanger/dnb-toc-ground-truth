@@ -1,0 +1,33 @@
+{
+  "entries": [
+    {"title": "Einleitung: Politische Bildung von Anfang an", "authors": ["Dagmar Richter"], "printed_page_number": "9", "skip": false},
+    {"title": "A. Orientierungen und Rahmenbedingungen", "authors": [], "printed_page_number": "17", "skip": true},
+    {"title": "Politische Bildung in der Grundschule – Überblick, Kritik, Perspektiven", "authors": ["Peter Massing"], "printed_page_number": "18", "skip": false},
+    {"title": "Welche politischen Kompetenzen sollen Grundschülerinnen und -schüler erwerben?", "authors": ["Dagmar Richter"], "printed_page_number": "36", "skip": false},
+    {"title": "Politische Sozialisation von Kindern im Grundschulalter", "authors": ["Bernhard Ohlmeier"], "printed_page_number": "54", "skip": false},
+    {"title": "Naive Theorien zur Politik – Lernpsychologische Forschungen zum Wissen von Grundschülerinnen und -schülern", "authors": ["Anke Götzmann"], "printed_page_number": "73", "skip": false},
+    {"title": "Politische Bildung in Kindergarten und Vorschule", "authors": ["Dagmar Beinzger", "Isabell Diehm"], "printed_page_number": "89", "skip": false},
+    {"title": "Außerschulische Formen politischer Partizipation von Kindern", "authors": ["Raingard Knauer"], "printed_page_number": "103", "skip": false},
+    {"title": "B. Themenfelder des Unterrichts", "authors": [], "printed_page_number": "119", "skip": true},
+    {"title": "»Die Gemeinde« als Gegenstand des Sachunterrichts – Chancen für politische Bildung", "authors": ["Joachim Detjen"], "printed_page_number": "120", "skip": false},
+    {"title": "Heimat – von der Kunde des Regionalen zur Erkundung von Beziehungen", "authors": ["Jürgen Hasse"], "printed_page_number": "140", "skip": false},
+    {"title": "»Familie« als politisches Unterrichtsthema", "authors": ["Dagmar Richter"], "printed_page_number": "156", "skip": false},
+    {"title": "Kinderrechte in der Grundschule", "authors": ["Gisela Wegener-Spöhring"], "printed_page_number": "171", "skip": false},
+    {"title": "Krieg und Frieden, Terror und politische Gewalt", "authors": ["Christiane Dettmar-Sander", "Wolfgang Sander"], "printed_page_number": "185", "skip": false},
+    {"title": "Holocaust und Nationalsozialismus als Thema in der Grundschule? Politisch-historisches Lernen im Sachunterricht", "authors": ["Dietmar von Reeken"], "printed_page_number": "199", "skip": false},
+    {"title": "Bildung für Nachhaltigkeit", "authors": ["Joachim Kahlert"], "printed_page_number": "215", "skip": false},
+    {"title": "Arbeitswelt im Wandel – Konsequenzen für das ökonomische Lernen in der Grundschule", "authors": ["Eva Gläser"], "printed_page_number": "229", "skip": false},
+    {"title": "Die Kategorie Geschlecht im Unterricht – Zwischen Thematisierung und Entdramatisierung", "authors": ["Christian Boeser"], "printed_page_number": "245", "skip": false},
+    {"title": "Vielfalt respektieren, Ausgrenzung widerstehen – Politisches Lernen in der Einwanderungsgesellschaft", "authors": ["Petra Wagner"], "printed_page_number": "260", "skip": false},
+    {"title": "C. Zugangsweisen und Praxisbeispiele", "authors": [], "printed_page_number": "275", "skip": true},
+    {"title": "»Ein Factory Outlet Center für Roppenheim« – Konzeptuelles Wissen über Politik im muttersprachlichen und bilingualen Sachunterricht", "authors": ["Georg Weisseno", "Gérald Schlemminger", "Anke Götzmann"], "printed_page_number": "276", "skip": false},
+    {"title": "Medien – Politische Medienkompetenzen im sozialwissenschaftlichen Sachunterricht fördern", "authors": ["Hans-Werner Kuhn"], "printed_page_number": "289", "skip": false},
+    {"title": "Ästhetische Zugänge – Politische Bildung mit Grundschülern und Grundschülerinnen", "authors": ["Carla Schelle", "Nina Meister"], "printed_page_number": "305", "skip": false},
+    {"title": "Schulung der Urteilskraft – Mit Kindern über Freiheit, Gerechtigkeit und Verantwortung philosophieren", "authors": ["Markus Tiedemann"], "printed_page_number": "321", "skip": false},
+    {"title": "Fallanalysen im Sachunterricht als Möglichkeit des Demokratie-Lernens", "authors": ["Detlef Eichner"], "printed_page_number": "335", "skip": false},
+    {"title": "Wir wählen wie die Großen – Beispiele aus dem Grundschulunterricht", "authors": ["Marcel K. Bisdorf"], "printed_page_number": "351", "skip": false},
+    {"title": "Die Autorinnen und Autoren", "authors": [], "printed_page_number": "366", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

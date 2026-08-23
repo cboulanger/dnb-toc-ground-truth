@@ -1,0 +1,27 @@
+{
+  "entries": [
+    {"title": "SOMMARIO", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "PREAMBOLO", "authors": [], "printed_page_number": "7", "skip": true},
+    {"title": "I. RICERCA SEMANTICA/LESSICALE", "authors": [], "printed_page_number": "15", "skip": true},
+    {"title": "Veronica Ricotta, I germanismi nella Commedia: un aggiornamento", "authors": ["Veronica Ricotta"], "printed_page_number": "17", "skip": false},
+    {"title": "Daniele Maria Pegorari, Dante e le parole del diritto", "authors": ["Daniele Maria Pegorari"], "printed_page_number": "45", "skip": false},
+    {"title": "Marco Giola, Parole della «Commedia» e le «Derivationes» di Uguccione da Pisa. Quindici schede dalla lettera F", "authors": ["Marco Giola"], "printed_page_number": "73", "skip": false},
+    {"title": "Myrtha de Meo-Ehlert, Alcune parole dantesche tra manoscritti tedeschi quattrocenteschi. Co-testualizzazione del mito della fenice", "authors": ["Myrtha de Meo-Ehlert"], "printed_page_number": "95", "skip": false},
+    {"title": "II. PAROLE DANTE TRADOTTE", "authors": [], "printed_page_number": "115", "skip": true},
+    {"title": "Camilla Miglio, \"Like Harlequins on the beach of imaginary\". L'esperienza del 'vertere' nel e del Versatorium", "authors": ["Camilla Miglio"], "printed_page_number": "117", "skip": false},
+    {"title": "Versatorium, Dante, Commedia, Inf. XXVI", "authors": [], "printed_page_number": "122", "skip": false},
+    {"title": "Esther Kinsky, Non vogliate negar l'esperienza: Ulisse come cantore", "authors": ["Esther Kinsky"], "printed_page_number": "135", "skip": false},
+    {"title": "Dante, Purgatorio I", "authors": [], "printed_page_number": "149", "skip": false},
+    {"title": "Rosa Coppola, Singolari avvicinamenti. Purgatorio I di F.J. Czernin", "authors": ["Rosa Coppola"], "printed_page_number": "155", "skip": false},
+    {"title": "Franz Joseph Czernin, Purgatorio I", "authors": ["Franz Joseph Czernin"], "printed_page_number": "167", "skip": false},
+    {"title": "Theresia Prammer, \"Et verborum ordo mysterium est\". Per una poetica della versione (o visione) interlineare", "authors": ["Theresia Prammer"], "printed_page_number": "175", "skip": false},
+    {"title": "Theresia Prammer, Paradiso XXIII", "authors": ["Theresia Prammer"], "printed_page_number": "195", "skip": false},
+    {"title": "Antonella Catone, La traduzione interlineare come strumento e fine: la versione dantesca di Theresia Prammer", "authors": ["Antonella Catone"], "printed_page_number": "207", "skip": false},
+    {"title": "Gabriella Sgambati, Ostacoli e intralci in mezzo al cammin. Waterhouse legge Dante", "authors": ["Gabriella Sgambati"], "printed_page_number": "221", "skip": false},
+    {"title": "Peter Waterhouse, «Formidable obstacle»", "authors": ["Peter Waterhouse"], "printed_page_number": "227", "skip": false},
+    {"title": "BIBLIOGRAFIA", "authors": [], "printed_page_number": "249", "skip": true},
+    {"title": "NOTE BIOGRAFICHE", "authors": [], "printed_page_number": "275", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

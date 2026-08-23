@@ -1,0 +1,27 @@
+{
+  "entries": [
+    {"title": "Foreword by the Editors", "authors": [], "printed_page_number": "v", "skip": false},
+    {"title": "Bibliography of the Writings of J. C. van Leur", "authors": [], "printed_page_number": "xvi", "skip": false},
+    {"title": "On Early Asian Trade", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Introduction", "authors": [], "printed_page_number": "3", "skip": false},
+    {"title": "Chapter One: On Methodology and Theory", "authors": [], "printed_page_number": "9", "skip": false},
+    {"title": "Chapter Two: Trade and the Trade Routes", "authors": [], "printed_page_number": "44", "skip": false},
+    {"title": "Chapter Three: Indonesia and the Trade Route", "authors": [], "printed_page_number": "89", "skip": false},
+    {"title": "Chapter Four: Indonesian Trade and the Coming of the Europeans", "authors": [], "printed_page_number": "117", "skip": false},
+    {"title": "On the Study of Indonesian History", "authors": [], "printed_page_number": "145", "skip": false},
+    {"title": "The World of Southeast Asia: 1500–1650", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Chapter One", "authors": [], "printed_page_number": "159", "skip": false},
+    {"title": "Chapter Two", "authors": [], "printed_page_number": "191", "skip": false},
+    {"title": "Chapter Three", "authors": [], "printed_page_number": "221", "skip": false},
+    {"title": "A History of the Netherlands East Indies: Three Reviews", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "One", "authors": [], "printed_page_number": "249", "skip": false},
+    {"title": "Two", "authors": [], "printed_page_number": "261", "skip": false},
+    {"title": "Three: On the Eighteenth Century as a Category in Indonesian History", "authors": [], "printed_page_number": "268", "skip": false},
+    {"title": "Notes", "authors": [], "printed_page_number": "291", "skip": true},
+    {"title": "Bibliography", "authors": [], "printed_page_number": "409", "skip": true},
+    {"title": "Glossary", "authors": [], "printed_page_number": "441", "skip": true},
+    {"title": "Index", "authors": [], "printed_page_number": "447", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

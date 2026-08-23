@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {"title": "INHALTSVERZEICHNIS", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "VORWORT", "authors": ["MICHAEL SCHRATZ", "HANS ANAND PANT"], "printed_page_number": "9", "skip": true},
+    {"title": "QUALITÄTSVOLLER FACHUNTERRICHT", "authors": ["MARKUS WILHELM", "MARKUS REHM", "VOLKER REINHARDT"], "printed_page_number": "11", "skip": false},
+    {"title": "WIRKSAMER MATHEMATIKUNTERRICHT – EINE EINFÜHRUNG", "authors": ["MARKUS VOGEL"], "printed_page_number": "19", "skip": false},
+    {"title": "MIT GUT STRUKTURIERTEN DIDAKTISCHEN SUCHRÄUMEN ZUR WIRKSAMEN PRAXIS", "authors": ["ANDREAS EICHLER"], "printed_page_number": "27", "skip": false},
+    {"title": "IMMER NEUES IST UNNÖTIG – MODERNER UNTERRICHT HAT TRADITION", "authors": ["CHRISTIAN FAHSE"], "printed_page_number": "35", "skip": false},
+    {"title": "ZUTRAUEN, ZUWENDEN, ZUMUTEN – IN MATHE GEHT'S UM MEHR ALS ZAHLEN", "authors": ["MICHAEL FELTEN"], "printed_page_number": "45", "skip": false},
+    {"title": "MATHEMATIK PRODUKTIV UNTERRICHTEN – WAS BRAUCHT MAN? WIE GEHT DAS?", "authors": ["HENNING KÖRNER"], "printed_page_number": "54", "skip": false},
+    {"title": "DIE LEHRPERSON MUSS DIE SACHE VERSTEHEN UND DIE KINDER ERNST NEHMEN", "authors": ["ANSELM LAMBERT"], "printed_page_number": "66", "skip": false},
+    {"title": "MATHEMATIKUNTERRICHT IST WIRKSAM, WENN ER EIN BELASTBARES VERHÄLTNIS VON MATHEMATIK UND MENSCH ERREICHT!", "authors": ["KATJA LENGNINK"], "printed_page_number": "77", "skip": false},
+    {"title": "GUTER MATHEMATIKUNTERRICHT – ZWISCHEN EVIDENZBASIERTER WIRKSAMKEIT UND KOMPLEXER PRAXIS", "authors": ["TIMO LEUDERS"], "printed_page_number": "87", "skip": false},
+    {"title": "GIBT ES DEN „FERTIGEN LEHRER“? – WARUM DURCH WIRKSAMEN MATHEMATIKUNTERRICHT NICHT NUR DIE SCHÜLERINNEN UND SCHÜLER LERNEN SOLLTEN", "authors": ["ANKE LINDMEIER"], "printed_page_number": "100", "skip": false},
+    {"title": "WIRKSAMER MATHEMATIKUNTERRICHT AUS DER SICHT EINES FACHLEITERS", "authors": ["JÖRG MEYER"], "printed_page_number": "112", "skip": false},
+    {"title": "MATHEMATISCHE ZUSAMMENHÄNGE MÜSSEN BEWUSST GEMACHT WERDEN UND ERFAHRBAR", "authors": ["RENATE MOTZER"], "printed_page_number": "120", "skip": false},
+    {"title": "VON DER PASSION ZUR PROFESSION: MATHEMATIK LEHREN", "authors": ["ANDREAS PALLACK"], "printed_page_number": "131", "skip": false},
+    {"title": "DIE MATHEMATIK IM SCHULUNTERRICHT", "authors": ["GUIDO PINKERNELL"], "printed_page_number": "140", "skip": false},
+    {"title": "VERSTEHENSORIENTIERT UND DIFFERENZIERT – VON DER BEDEUTUNG, LERNZIELE ZU SPEZIFIZIEREN", "authors": ["SUSANNE PREDIGER"], "printed_page_number": "149", "skip": false},
+    {"title": "MATHEMATIKUNTERRICHT NEU DENKEN", "authors": ["ANDREAS PRÖMMEL"], "printed_page_number": "158", "skip": false},
+    {"title": "IMMER WIEDER VON VORNE ANFANGEN", "authors": ["MATTHIAS RÖMER"], "printed_page_number": "171", "skip": false},
+    {"title": "WIRKSAMER MATHEMATIKUNTERRICHT – AUSRICHTUNG AN KERNIDEEN DER MATHEMATISCHEN INHALTE UND DEN LERNENDEN", "authors": ["JÜRGEN ROTH"], "printed_page_number": "182", "skip": false},
+    {"title": "EMANZIPATION FÖRDERN IM UND DURCH MATHEMATIKUNTERRICHT", "authors": ["REINHARD SCHMIDT"], "printed_page_number": "189", "skip": false},
+    {"title": "SCHÜLERINNEN UND SCHÜLER IM MATHEMATIKUNTERRICHT AKTIVIEREN – KLEINE MASSNAHMEN KÖNNEN HELFEN!", "authors": ["UTE SPROESSER"], "printed_page_number": "199", "skip": false},
+    {"title": "DIE SCHÜLERINNEN UND SCHÜLER IM BLICK ZUR ERMÖGLICHUNG VON SINNHAFTEN LERNPROZESSEN", "authors": ["MAIKE VOLLSTEDT"], "printed_page_number": "209", "skip": false},
+    {"title": "WIRKSAMER MATHEMATIKUNTERRICHT – EIN FAZIT", "authors": ["MARKUS VOGEL"], "printed_page_number": "220", "skip": false},
+    {"title": "DIE REIHENHERAUSGEBER", "authors": [], "printed_page_number": "239", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

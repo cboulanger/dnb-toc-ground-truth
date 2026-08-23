@@ -1,0 +1,21 @@
+{
+  "entries": [
+    {"title": "Vorwort", "authors": [], "printed_page_number": "7", "skip": true},
+    {"title": "Einleitung: Protest aus politikwissenschaftlicher, soziologischer und kulturwissenschaftlicher Perspektive", "authors": ["Hans-Jürgen Lüsebrink", "Ulrike Dausend", "Luitpold Rampeltshammer"], "printed_page_number": "9", "skip": false},
+    {"title": "Zwischen kalkulierter Eskalation und Aufruhr: Populäre Protestformen in der Krise der Deindustrialisierung. Westeuropa 1978-2000", "authors": ["Lutz Raphael"], "printed_page_number": "35", "skip": false},
+    {"title": "Die Geschichte „des Volkes“ als Erzählung der Machtverhältnisse – Le ‚populaire‘ comme relation de pouvoir", "authors": ["Gérard Noiriel"], "printed_page_number": "61", "skip": false},
+    {"title": "Ländliche Jugendproteste der 68er-Zeit und ihre Vorgeschichte – untersucht am Beispiel von drei rheinland-pfälzischen Kleinstädten", "authors": ["Axel Redmer"], "printed_page_number": "81", "skip": false},
+    {"title": "Ein Kommentar zur Studierendenkultur der 1950er-1960er Jahre", "authors": ["Reinhard Klimmt"], "printed_page_number": "115", "skip": false},
+    {"title": "Neue Protestformen und alternative Lebensstile der 68er-Bewegung", "authors": ["Franziska Brachmann"], "printed_page_number": "123", "skip": false},
+    {"title": "Von der lokalen Betroffenheit zur globalen Gerechtigkeit – Die Entwicklung der ökologischen Bewegung ab den 1970er Jahren zu den aktuellen Klimaprotesten", "authors": ["Ines Casper"], "printed_page_number": "153", "skip": false},
+    {"title": "Der Fall Huaraz: ein peruanischer Bauer verklagt RWE", "authors": ["Nicola Veit"], "printed_page_number": "203", "skip": false},
+    {"title": "Lokale (Protest-?) Formen des urban gardening in verschiedenen Kulturregionen oder Eine soziale Bewegung für lebenswerte Stadtgestaltung, Gemeinschaftlichkeit und politische Artikulation", "authors": ["Mara-Louise Günzel"], "printed_page_number": "251", "skip": false},
+    {"title": "Die Debatte um die französische Protestbewegung der Gilets jaunes – eine Analyse der Berichterstattungs- und Kommentarformen im deutsch-französischen Vergleich", "authors": ["Franziska Treder"], "printed_page_number": "283", "skip": false},
+    {"title": "Die Kritik sozialer Ungleichheit und der Ausdruck von Elitenkritik am Beispiel der Protestbewegung der Gilets jaunes und der Sammlungsbewegung Aufstehen", "authors": ["Florian Lisson"], "printed_page_number": "317", "skip": false},
+    {"title": "„I look at books as being a form of activism.“ Afroamerikanische Kinder- und Jugendliteratur als Teil der Black Lives Matter-Bewegung.", "authors": ["Élodie Malanda"], "printed_page_number": "343", "skip": false},
+    {"title": "ArtResist 2021 – Kunst und Widerstand in der Underground-Szene Rio de Janeiros", "authors": ["Anna Carina Mensch"], "printed_page_number": "371", "skip": false},
+    {"title": "Autor:innen", "authors": [], "printed_page_number": "403", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

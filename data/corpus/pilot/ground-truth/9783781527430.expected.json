@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {"title": "Inhaltsverzeichnis", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Der 'Fall' Mathilde Vaerting", "authors": ["Susann Hofbauer", "Esther Berner"], "printed_page_number": "7", "skip": false},
+    {"title": "Teil 1: Mathilde Vaerting - Person und Werk", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Mathilde Vaerting (1884-1977). Eine biografische und wissenschaftsgeschichtliche Annäherung", "authors": ["Margret Kraul"], "printed_page_number": "17", "skip": false},
+    {"title": "Gender Bias. Mathilde Vaertings Beitrag zur Entdeckung eines pädagogisch relevanten Problems", "authors": ["Esther Berner"], "printed_page_number": "40", "skip": false},
+    {"title": "Machtstrukturen und kulturelle Dynamiken in Mathilde Vaertings Soziologie und Psychologie der Macht", "authors": ["Timm Gerd Hellmanzik", "Eik Gädeke"], "printed_page_number": "57", "skip": false},
+    {"title": "„Warum gibt es so wenig berühmte Frauen?“ Zur Nichteinschreibung von Frauen in die Geschichten und Selbstdarstellungen der Pädagogik", "authors": ["Susann Hofbauer"], "printed_page_number": "69", "skip": false},
+    {"title": "Teil 2: Genderperspektiven", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Promotionsgutachten als disziplinäres Ordnungsinstrument. Beispiele geschlechtsspezifischer Exklusion im frühen 20. Jahrhundert.", "authors": ["Edith Glaser"], "printed_page_number": "91", "skip": false},
+    {"title": "Geschichte schreiben – Zur (Un-)Sichtbarkeit von Frauen* in der disziplinären Historiografie der Erwachsenenbildung", "authors": ["Maria Stimm", "Stephanie Freide"], "printed_page_number": "111", "skip": false},
+    {"title": "Anna Siemsen. Berufsbildungstheoretische und berufsbildungspolitische Positionen", "authors": ["Silke Lange", "Christoph Porcher", "Kristina Trampe"], "printed_page_number": "125", "skip": false},
+    {"title": "Wie Geschlecht die Erziehungstheorie durchwirkt. Annäherungen an diskursive Strategien und ihre wissenspolitischen Folgen", "authors": ["Sylvia Wehren", "Lukas Schildknecht"], "printed_page_number": "137", "skip": false},
+    {"title": "Klassiker:innen, Gender und Akteur-Netzwerke. Eine inklusive Disziplin- und Wissenschaftsgeschichte der Erziehungswissenschaft", "authors": ["Jasmin Bentele"], "printed_page_number": "153", "skip": false},
+    {"title": "Teil 3: Traditionen und Rezeptionen", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "„... dass man sie in Frankreich viel lieber lesen wird als die Metaphysik der Sitten.“ Die Schrift „Über Pädagogik“ im Spiegel ihrer Herausgeber:innen", "authors": ["Sabine Krause", "Thomas Mikhail", "Thorsten Fuchs", "Jochen Laub"], "printed_page_number": "171", "skip": false},
+    {"title": "„...da gerade hier die allgemeinen Theorieen uns nur zu oft im Stiche lassen.“ Rousseau in der Kritik gelehrter Frauen seiner Zeit", "authors": ["Stefanie Vochatzer", "Sebastian Engelmann"], "printed_page_number": "184", "skip": false},
+    {"title": "Nunc pro tunc? Anmerkungen zum Verhältnis von Kontextualismus und Präsentismus in der ideengeschichtlichen Forschung der Erziehungswissenschaft am Beispiel von Jean-Jacques Rousseaus „Émile ou De l'éducation”", "authors": ["Tim Zumhof", "Sebastian Gräber"], "printed_page_number": "198", "skip": false},
+    {"title": "Niemals geht man so ganz. Erinnerungen an die Postmoderne-Debatte in der Erziehungswissenschaft und Beobachtungen zu ihrer neuen Aktualität", "authors": ["Ewald Terhart"], "printed_page_number": "212", "skip": false},
+    {"title": "Entwicklung einer Klassifikation im Rahmen einer Conceptual Systematic Review am Beispiel der Rezeption von Demokratie in Bildung und Erziehung", "authors": ["Christian von Stietencron", "Felix Schreiber", "Colin Cramer"], "printed_page_number": "228", "skip": false},
+    {"title": "Autor:innenverzeichnis", "authors": [], "printed_page_number": "243", "skip": false}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

@@ -1,0 +1,33 @@
+{
+  "entries": [
+    {"title": "Vorwort zur Neuausgabe", "authors": [], "printed_page_number": "7", "skip": true},
+    {"title": "Vorwort des Autors", "authors": [], "printed_page_number": "13", "skip": true},
+    {"title": "1. Eine zweifelhafte Erlösung", "authors": [], "printed_page_number": "17", "skip": false},
+    {"title": "2. Tradition und Umdeutung", "authors": [], "printed_page_number": "35", "skip": false},
+    {"title": "3. Das Bezugsproblem", "authors": [], "printed_page_number": "55", "skip": false},
+    {"title": "4. Die Seele und das Ganze", "authors": [], "printed_page_number": "79", "skip": false},
+    {"title": "5. Beobachtungen auf der Teufelsebene", "authors": [], "printed_page_number": "99", "skip": false},
+    {"title": "6. Alternativen und Fortsetzungen", "authors": [], "printed_page_number": "123", "skip": false},
+    {"title": "Zwischenbemerkung: Warum der Zweite Teil ›schwierig‹ ist", "authors": [], "printed_page_number": "149", "skip": true},
+    {"title": "7. Der Künstler Faust", "authors": [], "printed_page_number": "159", "skip": false},
+    {"title": "8. Der Parodien-Akt", "authors": [], "printed_page_number": "189", "skip": false},
+    {"title": "9. Helena I – Realitätsfragen", "authors": [], "printed_page_number": "211", "skip": false},
+    {"title": "10. Helena II – Die Zeit des Schönen", "authors": [], "printed_page_number": "239", "skip": false},
+    {"title": "11. Herrschaft und Eigentum", "authors": [], "printed_page_number": "261", "skip": false},
+    {"title": "12. Schlussfragen", "authors": [], "printed_page_number": "285", "skip": false},
+    {"title": "Anhang: Grundlagen", "authors": [], "printed_page_number": "319", "skip": true},
+    {"title": "Zur Verssemantik", "authors": [], "printed_page_number": "319", "skip": true},
+    {"title": "Konkordanz von Urfaust, Faust-Fragment und Faust I", "authors": [], "printed_page_number": "324", "skip": true},
+    {"title": "Entstehung von Faust II", "authors": [], "printed_page_number": "326", "skip": true},
+    {"title": "Das Paralipomenon 1", "authors": [], "printed_page_number": "327", "skip": true},
+    {"title": "Texte und Kommentare", "authors": [], "printed_page_number": "329", "skip": true},
+    {"title": "Anmerkungen", "authors": [], "printed_page_number": "332", "skip": true},
+    {"title": "Editorische Notiz", "authors": [], "printed_page_number": "377", "skip": true},
+    {"title": "Register", "authors": [], "printed_page_number": "379", "skip": true},
+    {"title": "Begriffe", "authors": [], "printed_page_number": "379", "skip": true},
+    {"title": "Personen und Werkfiguren", "authors": [], "printed_page_number": "381", "skip": true},
+    {"title": "Werke und andere Texte Goethes", "authors": [], "printed_page_number": "387", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

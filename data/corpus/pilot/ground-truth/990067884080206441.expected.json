@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {"title": "Bernard Magnier : Présentation", "authors": ["Bernard Magnier"], "printed_page_number": "9", "skip": false},
+    {"title": "Mali", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Massa Makan Diabaté : L'épopée mandingue et le titre d'honneur de Sunjata Keita", "authors": ["Massa Makan Diabaté"], "printed_page_number": "11", "skip": false},
+    {"title": "Drissa Diakhité : Des hymnes à la maternité : les chants de veillées de circoncision (solisi) du Birgo", "authors": ["Drissa Diakhité"], "printed_page_number": "21", "skip": false},
+    {"title": "Catherine Mazauric : Salif Keita, un héritier singulier", "authors": ["Catherine Mazauric"], "printed_page_number": "29", "skip": false},
+    {"title": "Congo-Zaïre", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Sylvain Bemba : La naissance du discours amoureux dans la vie quotidienne chantée au Congo-Zaïre", "authors": ["Sylvain Bemba"], "printed_page_number": "39", "skip": false},
+    {"title": "Théophile Obenga : La chanson mbochi", "authors": ["Théophile Obenga"], "printed_page_number": "55", "skip": false},
+    {"title": "Pius Ngandu : La chanson de la rupture dans la musique du Zaïre", "authors": ["Pius Ngandu"], "printed_page_number": "63", "skip": false},
+    {"title": "Cameroun", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Patrice Kayo : La chanson dans la société traditionnelle bamiléké", "authors": ["Patrice Kayo"], "printed_page_number": "77", "skip": false},
+    {"title": "Bénin", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Ascension Bogniaho : A la découverte de la chanson populaire au Bénin", "authors": ["Ascension Bogniaho"], "printed_page_number": "81", "skip": false},
+    {"title": "Côte-d'Ivoire", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Jean Dérive : La chanson dans une société de tradition orale : les Dioula de Kong", "authors": ["Jean Dérive"], "printed_page_number": "89", "skip": false},
+    {"title": "Madagascar", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Michèle Rakotoson : Dix ans de chanson à Madagascar", "authors": ["Michèle Rakotoson"], "printed_page_number": "99", "skip": false},
+    {"title": "Guadeloupe-Martinique", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Nelly Schmidt : Chansons des « nouveaux libres » : 1848-1851", "authors": ["Nelly Schmidt"], "printed_page_number": "107", "skip": false}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

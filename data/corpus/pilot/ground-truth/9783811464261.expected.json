@@ -1,0 +1,262 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "v",
+      "skip": false
+    },
+    {
+      "title": "Inhalt aller bislang erschienenen Bände",
+      "authors": [],
+      "printed_page_number": "ix",
+      "skip": false
+    },
+    {
+      "title": "Autorinnen und Autoren des Handbuchs",
+      "authors": [],
+      "printed_page_number": "xi",
+      "skip": false
+    },
+    {
+      "title": "Sechster Teil",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Grundlagen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "§ 49 Demokratietheorien und verfassungsrechtlicher Demokratiebegriff",
+      "authors": [
+        "Horst Dreier"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "§ 50 Demokratische Legitimation",
+      "authors": [
+        "Christian Seiler"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "§ 51 Verfassungsrechtliche Möglichkeiten unmittelbarer Demokratie",
+      "authors": [
+        "Markus Möstl"
+      ],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "§ 52 Wehrhafte Demokratie",
+      "authors": [
+        "Wolfgang Durner"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "§ 53 „Liberale“ und „illiberale“ Demokratie",
+      "authors": [
+        "Matthias Mahlmann"
+      ],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "§ 54 Europa- und völkerrechtliche Demokratievorgaben",
+      "authors": [
+        "Andreas von Arnauld"
+      ],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "§ 55 Demokratische Legitimation der Unionsgewalt",
+      "authors": [
+        "Martin Nettesheim"
+      ],
+      "printed_page_number": "279",
+      "skip": false
+    },
+    {
+      "title": "Siebter Teil",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Politische Willensbildung in der Gesellschaft",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "§ 56 Politische Willensbildung der Bürger",
+      "authors": [
+        "Hans-Detlef Horn"
+      ],
+      "printed_page_number": "351",
+      "skip": false
+    },
+    {
+      "title": "§ 57 Massenmedien und soziale Medien in der Demokratie",
+      "authors": [
+        "Thomas Vesting"
+      ],
+      "printed_page_number": "409",
+      "skip": false
+    },
+    {
+      "title": "§ 58 Verbände und Nichtregierungsorganisationen in der Demokratie",
+      "authors": [
+        "Winfried Kluth"
+      ],
+      "printed_page_number": "449",
+      "skip": false
+    },
+    {
+      "title": "§ 59 Wissenschaft und Experten in der Demokratie",
+      "authors": [
+        "Laura Münkler"
+      ],
+      "printed_page_number": "493",
+      "skip": false
+    },
+    {
+      "title": "Achter Teil",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Politische Parteien",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "§ 60 Parteien und Staat",
+      "authors": [
+        "Julian Krüper"
+      ],
+      "printed_page_number": "531",
+      "skip": false
+    },
+    {
+      "title": "§ 61 Parteikonzeptionen im Rechtsvergleich",
+      "authors": [
+        "Emanuel V. Towfigh"
+      ],
+      "printed_page_number": "575",
+      "skip": false
+    },
+    {
+      "title": "§ 62 Parteienrecht",
+      "authors": [
+        "Martin Morlok"
+      ],
+      "printed_page_number": "619",
+      "skip": false
+    },
+    {
+      "title": "§ 63 Parteienfinanzierung",
+      "authors": [
+        "Foroud Shirvani"
+      ],
+      "printed_page_number": "653",
+      "skip": false
+    },
+    {
+      "title": "§ 64 Parteiverbot",
+      "authors": [
+        "Fabian Wittreck"
+      ],
+      "printed_page_number": "695",
+      "skip": false
+    },
+    {
+      "title": "Neunter Teil",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Parlamentarismus",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "§ 65 Parlamentarisches Regierungssystem",
+      "authors": [
+        "Florian Meinel"
+      ],
+      "printed_page_number": "751",
+      "skip": false
+    },
+    {
+      "title": "§ 66 Demokratische Wahl und Wahlsysteme",
+      "authors": [
+        "Matthias Rossi"
+      ],
+      "printed_page_number": "791",
+      "skip": false
+    },
+    {
+      "title": "§ 67 Wahlrecht und Wahlsysteme im Rechtsvergleich",
+      "authors": [
+        "Jochen Rauber"
+      ],
+      "printed_page_number": "835",
+      "skip": false
+    },
+    {
+      "title": "§ 68 Wahlgrundsätze und Wahlprüfung",
+      "authors": [
+        "Hermann Butzer"
+      ],
+      "printed_page_number": "877",
+      "skip": false
+    },
+    {
+      "title": "§ 69 Parlamentarische Repräsentation und Identität",
+      "authors": [
+        "Judith Froese"
+      ],
+      "printed_page_number": "939",
+      "skip": false
+    },
+    {
+      "title": "§ 70 Petitionsrecht",
+      "authors": [
+        "Annette Guckelberger"
+      ],
+      "printed_page_number": "977",
+      "skip": false
+    },
+    {
+      "title": "§ 71 Europawahl",
+      "authors": [
+        "Claus Dieter Classen"
+      ],
+      "printed_page_number": "1015",
+      "skip": false
+    },
+    {
+      "title": "Stichwortverzeichnis",
+      "authors": [],
+      "printed_page_number": "1051",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

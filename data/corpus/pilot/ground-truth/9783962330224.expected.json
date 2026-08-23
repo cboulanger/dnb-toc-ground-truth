@@ -1,0 +1,21 @@
+{
+  "entries": [
+    {"title": "Inhalt", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Grußwort", "authors": [], "printed_page_number": "7", "skip": true},
+    {"title": "Vorwort", "authors": [], "printed_page_number": "9", "skip": true},
+    {"title": "Gesichter der Familie Cuvilliés – Untersuchungen zu bisher ungelösten Fragen der Abstammung und der Erscheinung des Münchner Architekten und Dekorschöpfers", "authors": ["Hermann Neumann"], "printed_page_number": "11", "skip": false},
+    {"title": "Adresse: Herzog Maxische Residenz – Cuvilliés’ Dienstwohnung in der Kreativwerkstatt", "authors": ["Gabriele Dischinger"], "printed_page_number": "37", "skip": false},
+    {"title": "Kollege und Konkurrent – Cuvilliés und das Münchner Hofbauamt", "authors": ["Hanna Dornieden"], "printed_page_number": "57", "skip": false},
+    {"title": "Cuvilliés’ Dienstkutsche – Hofkutschen und Hippomobilität zur Zeit des Hofbaumeisters", "authors": ["Magdalena Bayreuther"], "printed_page_number": "67", "skip": false},
+    {"title": "Besuch in der Amalienburg – Kaiserin-Witwe Maria Amalia spaziert mit einem Gast durch den Nymphenburger Schlosspark", "authors": ["Ernst Götz"], "printed_page_number": "87", "skip": false},
+    {"title": "Cuvilliés’ Amalienburg – Kühler Traum in Silber und Farbe", "authors": ["Alexandra Loske"], "printed_page_number": "101", "skip": false},
+    {"title": "Aus dem Vollen schöpfende Fantasie – Cuvilliés als Rokoko-Designer", "authors": ["Max Tillmann"], "printed_page_number": "115", "skip": false},
+    {"title": "»Der Saal war wunderschön ...« – Der Dominoball in Cuvilliés’ »Opera-Haus« und die Münchner Hochzeitsfeierlichkeiten von 1765", "authors": ["Christian Quaeitzsch"], "printed_page_number": "129", "skip": false},
+    {"title": "Melodie an den Wänden – Aspekte von Cuvilliés’ Spätwerk in Schloss Nymphenburg am Beispiel der Musikempore und des Gartensaals", "authors": ["Neven Denhauser"], "printed_page_number": "149", "skip": false},
+    {"title": "Die Münchner Theatinerkirche und ihre Vollendung durch Cuvilliés’ Fassade", "authors": ["Stefan Nadler"], "printed_page_number": "161", "skip": false},
+    {"title": "Einblicke in die Lebenswelt des François de Cuvilliés", "authors": ["Albrecht Vorherr"], "printed_page_number": "179", "skip": false},
+    {"title": "Anhang", "authors": [], "printed_page_number": "227", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

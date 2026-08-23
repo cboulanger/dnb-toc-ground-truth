@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {"title": "Inhaltsverzeichnis", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Einleitung", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Soziale Arbeit und soziale Entwicklung – eine einleitende Skizze", "authors": ["Hans Günter Homfeldt", "Christian Reutlinger"], "printed_page_number": "2", "skip": false},
+    {"title": "1. Internationale Soziale Arbeit und social development – eine Hinführung", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Social Work and Social Development – towards a Global Dialogue", "authors": ["James Midgley"], "printed_page_number": "12", "skip": false},
+    {"title": "The Importance of Social Development for the Internationalization of Social Work", "authors": ["Manohar Pawar", "David Cox"], "printed_page_number": "25", "skip": false},
+    {"title": "Developmental Social Work in South Africa: Lessons from the South", "authors": ["Leila Patel"], "printed_page_number": "47", "skip": false},
+    {"title": "2. Soziale Entwicklung im sozialwissenschaftlichen Diskurs – aktuelle Facetten", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Transnational Social Action: Linking Transnational Advocacy and Social Development", "authors": ["Prasad Reddy"], "printed_page_number": "70", "skip": false},
+    {"title": "Beyond Gender Mainstreaming: The Role of Empowerment in Fostering Women's Capabilities", "authors": ["Loretta Pyles"], "printed_page_number": "92", "skip": false},
+    {"title": "Sozialer Raum, soziale Entwicklung und transnationale Soziale Arbeit", "authors": ["Hans Günther Homfeldt", "Christian Reutlinger"], "printed_page_number": "102", "skip": false},
+    {"title": "Human Development und Capabilities – Wohlergehen als Maßeinheit zur Bestimmung des Nutzens Sozialer Arbeit für ihre AdressatInnen", "authors": ["Holger Ziegler"], "printed_page_number": "126", "skip": false},
+    {"title": "Measurement of Social Development", "authors": ["Amal Kanti Ray"], "printed_page_number": "148", "skip": false},
+    {"title": "Gouvernementalität und Social Development", "authors": ["Ute Karl"], "printed_page_number": "165", "skip": false},
+    {"title": "Soziale Entwicklung, Sozialpolitik und Sozialstaat", "authors": ["Lothar Böhnisch", "Wolfgang Schröer"], "printed_page_number": "181", "skip": false},
+    {"title": "3. Gewinn von Kontexten durch soziale Entwicklung – Beispiele", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Soziale Entwicklung in transnationalen Kontexten. Das Beispiel transnationalen Sorgens", "authors": ["Cornelia Schweppe"], "printed_page_number": "194", "skip": false},
+    {"title": "Drogen- und Katastrophenprävention in Bolivien. Ansätze zu einer gemeinwesenbezogenen sozialen Entwicklung", "authors": ["Johannes Kniffki"], "printed_page_number": "206", "skip": false},
+    {"title": "Sri Lanka nach dem Tsunami – Sozialraumorientierte Projektarbeit als Beitrag zu einem entwicklungsortierten Verständnis Sozialer Arbeit", "authors": ["Jan Zychlinski"], "printed_page_number": "222", "skip": false},
+    {"title": "Sozialarbeit des Südens. Entwicklung und Befreiung", "authors": ["Christine Rehklau", "Ronald Lutz"], "printed_page_number": "237", "skip": false},
+    {"title": "Soziale Entwicklung im Kontext von Arbeit und Beschäftigungsentwicklung", "authors": ["Andreas Oehme"], "printed_page_number": "254", "skip": false},
+    {"title": "Autoren und Autorinnen", "authors": [], "printed_page_number": "270", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

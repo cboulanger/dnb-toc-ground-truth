@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {"title": "Einleitung", "authors": [], "printed_page_number": "VII", "skip": true},
+    {"title": "Spuren materialer Textkulturen. Neun Thesen zur höfischen Textualität im Spiegel textimmanenter Inschriften", "authors": ["LUDGER LIEB (Heidelberg)"], "printed_page_number": "1", "skip": false},
+    {"title": "Mittelalterliches Textwissen in Metaphern. Bemerkungen zu Konrads von Heimesfurt Diu urstende", "authors": ["ANJA BECKER (München)"], "printed_page_number": "21", "skip": false},
+    {"title": "Eine kleine Geschichte der ère. Thesen zur historischen Semantik von Ehre und zu ihrer Narrativierung in höfischen und legendarischen Texten des hohen Mittelalters", "authors": ["STEPHANIE SEIDL (Stuttgart)"], "printed_page_number": "45", "skip": false},
+    {"title": "Das Spiel um die âventiure. Ein Versuch zu Pennincs und Pieter Vostaerts Roman van Walewein", "authors": ["CHRISTINE STRIDDE (Zürich)"], "printed_page_number": "65", "skip": false},
+    {"title": "Alischanz II – Die ikonoklastische Zurücknahme des Höfischen im Willehalm Wolframs von Eschenbach", "authors": ["TOBIAS BULANG (Heidelberg)"], "printed_page_number": "95", "skip": false},
+    {"title": "Spiegelphänomene in der mittelalterlichen Literatur. Entwürfe an der Schnittstelle magisch-religiöser, semiotischer und optischer Diskurse", "authors": ["MARION OSWALD (Dresden)"], "printed_page_number": "113", "skip": false},
+    {"title": "Spielräume des Unmöglichen. Möglichkeits- und Wirklichkeitssinn beim Stricker", "authors": ["FRANZISKA WENZEL (München)"], "printed_page_number": "131", "skip": false},
+    {"title": "Kaiser Heinrichs artificium: Ein Versuch zur Archäologie des Poetischen im Minnesang", "authors": ["MICHAEL WALTENBERGER (Frankfurt/Main)"], "printed_page_number": "147", "skip": false},
+    {"title": "Hohe Lieder der Freude", "authors": ["BEATE KELLNER (München)"], "printed_page_number": "163", "skip": false},
+    {"title": "Warne ob ich entslâfen bin. Die Rolle des Wächters im Tagelied nach Wolfram", "authors": ["PIA SELMAYR (München/Zürich)"], "printed_page_number": "189", "skip": false},
+    {"title": "Inszenierte Mündlichkeit und höfische Repräsentation. Repetitive Erzählstrukturen in Ulrichs von Liechtenstein Frauendienst", "authors": ["JAN MOHR (München)"], "printed_page_number": "211", "skip": false},
+    {"title": "Des Raben Minnegruß. Neues zur Kemenatenszene im Münchner Oswald (The Morgan Library, MS B.61)", "authors": ["STEPHAN MÜLLER (Wien)"], "printed_page_number": "249", "skip": false},
+    {"title": "Register", "authors": [], "printed_page_number": "263", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}
