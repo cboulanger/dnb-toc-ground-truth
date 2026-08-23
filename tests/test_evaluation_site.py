@@ -23,7 +23,11 @@ from dnb_toc_ground_truth.evaluation_site import (
     render_model_comparison_html,
     write_site,
 )
-from dnb_toc_ground_truth.model_agreement import ModelGroundTruthMetrics, PairAgreement, PairCandidateScore
+from dnb_toc_ground_truth.model_agreement import (
+    ModelGroundTruthMetrics,
+    PairAgreement,
+    PairCandidateScore,
+)
 from dnb_toc_ground_truth.toc_entry import TocEntry
 
 
