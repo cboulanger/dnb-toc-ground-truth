@@ -1,0 +1,990 @@
+{
+  "entries": [
+    {
+      "title": "INHALTSVERZEICHNIS",
+      "authors": [],
+      "printed_page_number": "5",
+      "skip": true
+    },
+    {
+      "title": "VORWORT",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": true
+    },
+    {
+      "title": "Lars Dörfel: Vorwort",
+      "authors": [
+        "Lars Dörfel"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "KAPITEL 1 EINFÜHRUNG",
+      "authors": [],
+      "printed_page_number": "13",
+      "skip": true
+    },
+    {
+      "title": "Frank Martin Hein: Ob gemixt, gerührt oder geschüttelt: Content is King – Die Auswahl interner Kommunikationsmedien liegt letztendlich bei den Rezipienten",
+      "authors": [
+        "Frank Martin Hein"
+      ],
+      "printed_page_number": "14",
+      "skip": false
+    },
+    {
+      "title": "1. Kommunikation ist Mittel zum Zweck – kein Selbstzweck",
+      "authors": [],
+      "printed_page_number": "14",
+      "skip": false
+    },
+    {
+      "title": "2. Systematische Medienwahl folgt einigen wenigen einfachen Prinzipien",
+      "authors": [],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "3. Was Interne Kommunikation leisten kann und was nicht",
+      "authors": [],
+      "printed_page_number": "20",
+      "skip": false
+    },
+    {
+      "title": "Hermann Sottong: His Master's Voice geht nicht mehr – Warum immer mehr Botschaften bei zunehmendem Mediendruck das Ziel bei Interner Kommunikation verfehlen.",
+      "authors": [
+        "Hermann Sottong"
+      ],
+      "printed_page_number": "22",
+      "skip": false
+    },
+    {
+      "title": "1. Die problematische IK-Erfolgsstory der vergangenen Jahre",
+      "authors": [],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "2. Die aktuelle Problemlage: Information Overload, Aufweichung der Grenzen, Rezipientenparadox",
+      "authors": [],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "3. Happy End im zweiten Akt? Was in Zukunft zu leisten ist.",
+      "authors": [],
+      "printed_page_number": "32",
+      "skip": false
+    },
+    {
+      "title": "KAPITEL 2 INSTRUMENTE IM FOKUS",
+      "authors": [],
+      "printed_page_number": "35",
+      "skip": true
+    },
+    {
+      "title": "Rainer Burkhardt und Lukas Kircher: Das relevanteste Wirtschaftsmagazin der Welt – Nichts ist interessanter als Neuigkeiten aus dem eigenen Unternehmen. Deswegen sind Mitarbeitermagazine eine große Chance. Es lohnt sich: Bei der Rendite macht die Motivation der Mitarbeiter bis zu 5,7 Prozent aus.",
+      "authors": [
+        "Rainer Burkhardt",
+        "Lukas Kircher"
+      ],
+      "printed_page_number": "36",
+      "skip": false
+    },
+    {
+      "title": "1. Ein Blick in die HR-Forschung",
+      "authors": [],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "2. Das Metagefühl",
+      "authors": [],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "3. Die Treiber von Motivation und Bindung",
+      "authors": [],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "4. Print oder online?",
+      "authors": [],
+      "printed_page_number": "42",
+      "skip": false
+    },
+    {
+      "title": "5. Konkurrenz am Kiosk",
+      "authors": [],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "6. Wie es richtig geht",
+      "authors": [],
+      "printed_page_number": "44",
+      "skip": false
+    },
+    {
+      "title": "7. Handwerkliche Regeln",
+      "authors": [],
+      "printed_page_number": "46",
+      "skip": false
+    },
+    {
+      "title": "8. Größere Verbreitung des Gedruckten",
+      "authors": [],
+      "printed_page_number": "46",
+      "skip": false
+    },
+    {
+      "title": "9. Glaubwürdigkeit hilft bei Veränderungen",
+      "authors": [],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "Olaf Nitz: E-Mails in der Internen Kommunikation",
+      "authors": [
+        "Olaf Nitz"
+      ],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "1. Warum werden E-Mails so stark genutzt?",
+      "authors": [],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "2. Was schränkt die Nutzung von E-Mails ein?",
+      "authors": [],
+      "printed_page_number": "51",
+      "skip": false
+    },
+    {
+      "title": "3. Wie kann das Instrument E-Mail besser genutzt werden?",
+      "authors": [],
+      "printed_page_number": "54",
+      "skip": false
+    },
+    {
+      "title": "4. Wie wird sich die E-Mail-Nutzung entwickeln?",
+      "authors": [],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "Ulrich E. Hinsen: FAMA. Mit dem Flurfunk arbeiten",
+      "authors": [
+        "Ulrich E. Hinsen"
+      ],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "1. Gerüchte – eine ziemlich flutschige Angelegenheit?!",
+      "authors": [],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "2. Change Management: Akzeptierte Veränderungen",
+      "authors": [],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "3. Antennen empfangen",
+      "authors": [],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "4. Präzise Ausrichtung",
+      "authors": [],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "5. Antennen senden",
+      "authors": [],
+      "printed_page_number": "72",
+      "skip": false
+    },
+    {
+      "title": "6. Mit dem Flurfunk arbeiten",
+      "authors": [],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "Birgit Bruns, Silke Rau und Susanne Marell: Das Cognis Intranet: Motor globaler Kommunikationsprozesse",
+      "authors": [
+        "Birgit Bruns",
+        "Silke Rau",
+        "Susanne Marell"
+      ],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "1. Intranet 2.0: Interne Kommunikation geht neue Wege",
+      "authors": [],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "2. Der Cognis Intranet Relaunch: Weltweite One-Voice-Policy – lokale Mitarbeiterinformationen",
+      "authors": [],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "3. Fit für die Zukunft: Auf dem Weg zum Enterprise Information-Portal",
+      "authors": [],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "4. Danksagung",
+      "authors": [],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "Silke Fuß: Corporate Audio: Baustein Interner Kommunikation",
+      "authors": [
+        "Silke Fuß"
+      ],
+      "printed_page_number": "94",
+      "skip": false
+    },
+    {
+      "title": "1. Einleitung",
+      "authors": [],
+      "printed_page_number": "94",
+      "skip": false
+    },
+    {
+      "title": "2. Wichtige Regeln für Corporate Audio",
+      "authors": [],
+      "printed_page_number": "96",
+      "skip": false
+    },
+    {
+      "title": "3. Trend der Zeit",
+      "authors": [],
+      "printed_page_number": "100",
+      "skip": false
+    },
+    {
+      "title": "4. Fazit",
+      "authors": [],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "Wolfgang A. Eck: Corporate Audio: Jetzt gibt's was auf die Ohren – Wirkungsvolle Mitarbeiterkommunikation setzt auf „sinnliche” Wahrnehmungserlebnisse",
+      "authors": [
+        "Wolfgang A. Eck"
+      ],
+      "printed_page_number": "102",
+      "skip": false
+    },
+    {
+      "title": "1. Standortbestimmung",
+      "authors": [],
+      "printed_page_number": "102",
+      "skip": false
+    },
+    {
+      "title": "2. Corporate Audio als Teil der Markenwelt",
+      "authors": [],
+      "printed_page_number": "106",
+      "skip": false
+    },
+    {
+      "title": "3. Trend: Audiovisuelle Unternehmenskommunikation",
+      "authors": [],
+      "printed_page_number": "108",
+      "skip": false
+    },
+    {
+      "title": "4. Nutzen: Wahrnehmung funktioniert nicht eindimensional",
+      "authors": [],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "5. Wirklichkeit: Konzentration auf Printmedien hält an",
+      "authors": [],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "6. Best Practice: Fallbeispiel Versicherungskonzern",
+      "authors": [],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "7. Resümee und Ausblick",
+      "authors": [],
+      "printed_page_number": "120",
+      "skip": false
+    },
+    {
+      "title": "Tina Kulow: Wikis, Blogs und Micro-Blogs in der Internen Kommunikation",
+      "authors": [
+        "Tina Kulow"
+      ],
+      "printed_page_number": "122",
+      "skip": false
+    },
+    {
+      "title": "1. Präambel",
+      "authors": [],
+      "printed_page_number": "122",
+      "skip": false
+    },
+    {
+      "title": "2. Start",
+      "authors": [],
+      "printed_page_number": "122",
+      "skip": false
+    },
+    {
+      "title": "3. Learning by doing",
+      "authors": [],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "4. Case Study CoreMedia und die Enterprise-Community-Plattform blog.coremedia.com: „Don't write anything stupid”",
+      "authors": [],
+      "printed_page_number": "124",
+      "skip": false
+    },
+    {
+      "title": "5. Kaffeeküche 2.0",
+      "authors": [],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "Yvonne Töbe: Einsatz eines Bildschirmschoners mit RSS-Feeds in der Internen Kommunikation",
+      "authors": [
+        "Yvonne Töbe"
+      ],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "1. Mitarbeiter erhalten mehrmals täglich aktualisierte Nachrichten – weltweit – direkt auf den Bildschirm",
+      "authors": [],
+      "printed_page_number": "130",
+      "skip": false
+    },
+    {
+      "title": "2. Schnell „Up to date”",
+      "authors": [],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "3. Im Onlinearchiv suchen und finden",
+      "authors": [],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "4. Interne Unternehmenskommunikation effizient managen",
+      "authors": [],
+      "printed_page_number": "132",
+      "skip": false
+    },
+    {
+      "title": "5. Nicht nur ein Sprichwort: „Ein Bild sagt mehr als 1.000 Worte”",
+      "authors": [],
+      "printed_page_number": "132",
+      "skip": false
+    },
+    {
+      "title": "6. Vom Nachrichten-Potpourri bis zur Spezialausgabe mit Sonderthema – alle Inhalte sind möglich",
+      "authors": [],
+      "printed_page_number": "134",
+      "skip": false
+    },
+    {
+      "title": "7. Ein CMS für verschiedene Frontend-Varianten",
+      "authors": [],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "8. Zielgruppen differenziert ansprechen",
+      "authors": [],
+      "printed_page_number": "136",
+      "skip": false
+    },
+    {
+      "title": "9. Wissen ist besser als Glauben",
+      "authors": [],
+      "printed_page_number": "136",
+      "skip": false
+    },
+    {
+      "title": "10. Technischer Ablauf: Wie kommen RSS-Feeds in den Nachrichtenticker?",
+      "authors": [],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "11. Fazit",
+      "authors": [],
+      "printed_page_number": "140",
+      "skip": false
+    },
+    {
+      "title": "Christian Clawien: Das Wissen zu Websourcen im Unternehmen bündeln – Corporate Bookmarking als Bestandteil von Enterprise 2.0 in der Internen Kommunikation",
+      "authors": [
+        "Christian Clawien"
+      ],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "1. Web 2.0 und die Ankunft auf dem Massenmarkt",
+      "authors": [],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "2. Web 2.0 und die Auswirkungen auf Kommunikation und Marketing",
+      "authors": [],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "3. Vom Web 2.0 zum Enterprise 2.0",
+      "authors": [],
+      "printed_page_number": "142",
+      "skip": false
+    },
+    {
+      "title": "4. Corporate Bookmarking in der Internen Kommunikation",
+      "authors": [],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "5. Grundprinzip des Social Bookmarkings: das „Tagging”",
+      "authors": [],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "6. Integration in das Intranet",
+      "authors": [],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "7. Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "Anja Blaschke: Persönliche Gespräche mit der Geschäftsführung als Instrument der Mitarbeiterführung",
+      "authors": [
+        "Anja Blaschke"
+      ],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "1. Kommunikation als Führungsaufgabe",
+      "authors": [],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "2. Was ist persönliche Kommunikation?",
+      "authors": [],
+      "printed_page_number": "150",
+      "skip": false
+    },
+    {
+      "title": "3. Persönliche Gesprächsrunden mit der Geschäftsführung zahlen sich aus",
+      "authors": [],
+      "printed_page_number": "154",
+      "skip": false
+    },
+    {
+      "title": "4. Mit der Geschäftsführung zu Mittag essen",
+      "authors": [],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "5. Mitarbeiter brauchen Foren zur Kommunikation",
+      "authors": [],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "6. Ganz spontan miteinander frühstücken",
+      "authors": [],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "7. Fazit – Mut zur persönlichen Kommunikation",
+      "authors": [],
+      "printed_page_number": "158",
+      "skip": false
+    },
+    {
+      "title": "KAPITEL 3 METHODEN UND ZIELGRUPPEN DER INTERNEN KOMMUNIKATION",
+      "authors": [],
+      "printed_page_number": "161",
+      "skip": true
+    },
+    {
+      "title": "Harald Dudel: Planen mit der MultiMediaMatrix",
+      "authors": [
+        "Harald Dudel"
+      ],
+      "printed_page_number": "162",
+      "skip": false
+    },
+    {
+      "title": "1. Wie das Wie des Mediums das Was der Botschaft prägt",
+      "authors": [],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "2. Klare Kernbotschaften für klare Kommunikationsziele",
+      "authors": [],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "3. Rezept für die konkrete Planung",
+      "authors": [],
+      "printed_page_number": "166",
+      "skip": false
+    },
+    {
+      "title": "4. Matrixerstellung ganz konkret",
+      "authors": [],
+      "printed_page_number": "166",
+      "skip": false
+    },
+    {
+      "title": "5. Drei Fallbeispiele",
+      "authors": [],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "Dieter Herbst: Aktuelle Erkenntnisse der Neurowissenschaften für die Interne Kommunikation",
+      "authors": [
+        "Dieter Herbst"
+      ],
+      "printed_page_number": "174",
+      "skip": false
+    },
+    {
+      "title": "1. Menschen haben ein soziales Gehirn",
+      "authors": [],
+      "printed_page_number": "174",
+      "skip": false
+    },
+    {
+      "title": "2. Wirkprinzipien der Internen Kommunikation",
+      "authors": [],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "3. Interne Kommunikation am Beispiel des Wandels",
+      "authors": [],
+      "printed_page_number": "188",
+      "skip": false
+    },
+    {
+      "title": "4. Weitere Empfehlungen für gehirngerechte Interne Kommunikation",
+      "authors": [],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "5. Interne Kommunikation als Lernprozess",
+      "authors": [],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "6. Fazit",
+      "authors": [],
+      "printed_page_number": "200",
+      "skip": false
+    },
+    {
+      "title": "Michael Müller: Storytelling: Narrative Methoden in der Unternehmenskommunikation",
+      "authors": [
+        "Michael Müller"
+      ],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "1. Unser Gehirn denkt in Geschichten",
+      "authors": [],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "2. Storytelling in der Internen Unternehmenskommunikation: Anwendungsfelder.",
+      "authors": [],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "3. Die richtigen Geschichten finden",
+      "authors": [],
+      "printed_page_number": "205",
+      "skip": false
+    },
+    {
+      "title": "4. Storys auf den Punkt bringen: Die Elemente einer guten Geschichte",
+      "authors": [],
+      "printed_page_number": "209",
+      "skip": false
+    },
+    {
+      "title": "5. Strategien des Storytellings in der Unternehmenskommunikation",
+      "authors": [],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "6. Storytelling: Denken in Geschichten",
+      "authors": [],
+      "printed_page_number": "212",
+      "skip": false
+    },
+    {
+      "title": "Birgit Ziesche: Von Managern und Menschen: Führungskräfte als eine – wenn auch wichtige – Zielgruppe der Internen Kommunikation bei Volkswagen",
+      "authors": [
+        "Birgit Ziesche"
+      ],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "1. Führung ist Kommunikation",
+      "authors": [],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "2. Zielgerichtete Information der Führungskräfte",
+      "authors": [],
+      "printed_page_number": "214",
+      "skip": false
+    },
+    {
+      "title": "3. Instrumente der Führungskräftekommunikation bei Volkswagen",
+      "authors": [],
+      "printed_page_number": "215",
+      "skip": false
+    },
+    {
+      "title": "4. Evaluation",
+      "authors": [],
+      "printed_page_number": "218",
+      "skip": false
+    },
+    {
+      "title": "Susanne Arndt: Mehr-Wert: Die Rolle der Kommunikation in Werteprozessen",
+      "authors": [
+        "Susanne Arndt"
+      ],
+      "printed_page_number": "220",
+      "skip": false
+    },
+    {
+      "title": "1. Werte: Die entscheidende Nasenlänge Vorsprung",
+      "authors": [],
+      "printed_page_number": "220",
+      "skip": false
+    },
+    {
+      "title": "2. Die Kommunikationsprinzipien: Reibung erzeugen",
+      "authors": [],
+      "printed_page_number": "222",
+      "skip": false
+    },
+    {
+      "title": "3. Der Kommunikationsprozess: Dekrete durchreichen reicht nicht",
+      "authors": [],
+      "printed_page_number": "225",
+      "skip": false
+    },
+    {
+      "title": "4. Nachhaltigkeit: Sich selbst den Spiegel vorhalten",
+      "authors": [],
+      "printed_page_number": "229",
+      "skip": false
+    },
+    {
+      "title": "Ralf Langen und Robert Wreschniok: Reputation als Steuerungs- und Orientierungsgröße in der Internen Kommunikation",
+      "authors": [
+        "Ralf Langen",
+        "Robert Wreschniok"
+      ],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "1. Einleitung",
+      "authors": [],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "2. Das Streben nach Reputation",
+      "authors": [],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "3. Reputationsmanagement in der Internen Kommunikation",
+      "authors": [],
+      "printed_page_number": "232",
+      "skip": false
+    },
+    {
+      "title": "4. Fallbeispiel I: Finanzbranche",
+      "authors": [],
+      "printed_page_number": "234",
+      "skip": false
+    },
+    {
+      "title": "5. Das Kommunikationsprogramm: den Wandel begleiten",
+      "authors": [],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "6. Der Reputationsmanagementprozess: den Wandel steuern",
+      "authors": [],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "7. Auswahlprozess und Nominierung der Excellence Agents",
+      "authors": [],
+      "printed_page_number": "236",
+      "skip": false
+    },
+    {
+      "title": "8. Leading the Change",
+      "authors": [],
+      "printed_page_number": "237",
+      "skip": false
+    },
+    {
+      "title": "9. Fallbeispiel II: Mobilfunkbranche",
+      "authors": [],
+      "printed_page_number": "239",
+      "skip": false
+    },
+    {
+      "title": "10. Ausblick",
+      "authors": [],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "KAPITEL 4 LEISTUNGS- UND WIRKUNGSMESSUNG",
+      "authors": [],
+      "printed_page_number": "245",
+      "skip": true
+    },
+    {
+      "title": "Ralf Leinemann: Messbarkeit von Interner Kommunikation",
+      "authors": [
+        "Ralf Leinemann"
+      ],
+      "printed_page_number": "246",
+      "skip": false
+    },
+    {
+      "title": "1. Einleitung",
+      "authors": [],
+      "printed_page_number": "246",
+      "skip": false
+    },
+    {
+      "title": "2. Balanced Scorecard",
+      "authors": [],
+      "printed_page_number": "249",
+      "skip": false
+    },
+    {
+      "title": "3. Ziele von Interne Kommunikation",
+      "authors": [],
+      "printed_page_number": "251",
+      "skip": false
+    },
+    {
+      "title": "4. Messebenen",
+      "authors": [],
+      "printed_page_number": "252",
+      "skip": false
+    },
+    {
+      "title": "5. Messmethoden",
+      "authors": [],
+      "printed_page_number": "258",
+      "skip": false
+    },
+    {
+      "title": "6. Kennzahlen",
+      "authors": [],
+      "printed_page_number": "259",
+      "skip": false
+    },
+    {
+      "title": "7. Beispiele",
+      "authors": [],
+      "printed_page_number": "262",
+      "skip": false
+    },
+    {
+      "title": "8. Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "265",
+      "skip": false
+    },
+    {
+      "title": "Ariana Fischer: Erfolgreiche Steuerung der Kommunikation – Kommunikationscontrolling macht es möglich! Nur wer den Erfolg seiner Kommunikationsmaßnahmen misst, kann die Interne Kommunikation erfolgreich steuern",
+      "authors": [
+        "Ariana Fischer"
+      ],
+      "printed_page_number": "267",
+      "skip": false
+    },
+    {
+      "title": "1. Warum gewinnt Kommunikationscontrolling an Bedeutung?",
+      "authors": [],
+      "printed_page_number": "267",
+      "skip": false
+    },
+    {
+      "title": "2. Wie kann der Erfolg der Internen Kommunikation gemessen und gesteuert werden?",
+      "authors": [],
+      "printed_page_number": "270",
+      "skip": false
+    },
+    {
+      "title": "3. Erfahrungen und Trends aus fünf Jahren Kommunikationscontrolling",
+      "authors": [],
+      "printed_page_number": "280",
+      "skip": false
+    },
+    {
+      "title": "4. Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "284",
+      "skip": false
+    },
+    {
+      "title": "Reimer Stobbe: Wertschöpfung durch Interne Kommunikation",
+      "authors": [
+        "Reimer Stobbe"
+      ],
+      "printed_page_number": "286",
+      "skip": false
+    },
+    {
+      "title": "1. Bedeutungszuwachs durch Beziehungsmanagement",
+      "authors": [],
+      "printed_page_number": "286",
+      "skip": false
+    },
+    {
+      "title": "2. Professionalisierung",
+      "authors": [],
+      "printed_page_number": "286",
+      "skip": false
+    },
+    {
+      "title": "3. Professionelles Management",
+      "authors": [],
+      "printed_page_number": "287",
+      "skip": false
+    },
+    {
+      "title": "4. Effizienz und Effektivität",
+      "authors": [],
+      "printed_page_number": "289",
+      "skip": false
+    },
+    {
+      "title": "5. Beitrag zu den Unternehmenszielen, Übereinstimmung mit strategischer Ausrichtung",
+      "authors": [],
+      "printed_page_number": "291",
+      "skip": false
+    },
+    {
+      "title": "6. Beziehungsmanagement und Unternehmenskultur",
+      "authors": [],
+      "printed_page_number": "293",
+      "skip": false
+    },
+    {
+      "title": "7. Fazit und Ausblick",
+      "authors": [],
+      "printed_page_number": "294",
+      "skip": false
+    },
+    {
+      "title": "ANHANG",
+      "authors": [],
+      "printed_page_number": "297",
+      "skip": true
+    },
+    {
+      "title": "Autorinnen/Autoren",
+      "authors": [],
+      "printed_page_number": "299",
+      "skip": true
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "313",
+      "skip": true
+    },
+    {
+      "title": "Register",
+      "authors": [],
+      "printed_page_number": "327",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

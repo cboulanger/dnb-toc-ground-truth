@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {"title": "Inhalt", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Vorwort", "authors": ["Ulrich Rüdiger", "Jürgen Mittelstrass"], "printed_page_number": "9", "skip": false},
+    {"title": "I. Einleitung", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Wohin geht der wissenschaftliche Nachwuchs? Eine Einführung", "authors": ["Jürgen Mittelstrass"], "printed_page_number": "13", "skip": false},
+    {"title": "II. Wissenschaftlicher Nachwuchs – Anspruch und Wirklichkeit", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Ausbildung an den Universitäten – Status Quo und Zukunft", "authors": ["Walter Berka"], "printed_page_number": "19", "skip": false},
+    {"title": "Perspektiven für den Nachwuchs.", "authors": ["Matthias Kleiner"], "printed_page_number": "41", "skip": false},
+    {"title": "Wie wird und wie bleibt der wissenschaftliche Nachwuchs kreativ?", "authors": ["Julian Nida-Rümelin"], "printed_page_number": "55", "skip": false},
+    {"title": "Verloren im Grenzland transformativer Forschung? Chancen und Risiken des wissenschaftlichen Nachwuchses", "authors": ["Wilhelm Krull"], "printed_page_number": "63", "skip": false},
+    {"title": "Rahmenbedingungen unternehmerischer Innovation: Die Rolle der steuerlichen FuE-Förderung", "authors": ["Michael Hüther"], "printed_page_number": "79", "skip": false},
+    {"title": "III. Quo Vadis Elite – Karrierewege", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Die Eurodoc-Befragung 2008-2009", "authors": ["Karoline Holländer", "Gülay Ates"], "printed_page_number": "89", "skip": false},
+    {"title": "Die Promotion gegen ihre Liebhaber verteidigt.", "authors": ["Matthias Mayer"], "printed_page_number": "97", "skip": false},
+    {"title": "Wie willkommen ist der akademische Nachwuchs außerhalb der Akademie?", "authors": ["Sybille Reichert"], "printed_page_number": "107", "skip": false},
+    {"title": "Willkommen ohne Abschied – Perspektiven für den wissenschaftlichen Nachwuchs verbessern", "authors": ["Anke Burkhardt"], "printed_page_number": "117", "skip": false},
+    {"title": "Wie willkommen der wissenschaftliche Nachwuchs war. Ein Nachruf auf die Juniorprofessur", "authors": ["Albert Kümmel-Schnur"], "printed_page_number": "129", "skip": false},
+    {"title": "IV. Nachwuchsmodelle hierzulande und andernorts", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Das Zukunftskolleg der Universität Konstanz – eine alternative Möglichkeit der Nachwuchsförderung", "authors": ["Giovanni Galizia", "Stefanie Sender"], "printed_page_number": "135", "skip": false},
+    {"title": "Interdisziplinäre und internationale Qualifizierung von Wissenschaftlerinnen und Wissenschaftlern in Deutschland – in der Jungen Akademie und an der Jacobs University Bremen", "authors": ["Katja Windt", "Theresa Geyer"], "printed_page_number": "147", "skip": false},
+    {"title": "Gibt es einen Königsweg zur Promotion?", "authors": ["Christoph Kratky"], "printed_page_number": "163", "skip": false},
+    {"title": "Wie willkommen ist der akademische Nachwuchs in den USA?", "authors": ["Eva Bosbach"], "printed_page_number": "169", "skip": false},
+    {"title": "Autorinnen und Autoren", "authors": [], "printed_page_number": "177", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

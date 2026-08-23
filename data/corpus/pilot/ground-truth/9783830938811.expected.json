@@ -1,0 +1,102 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Dealing with Diversity: Heterogenität als durchgängiges Thema im Curriculum",
+      "authors": ["Christian Fischer", "Ewald Terhart", "Elmar Souvignier"],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Begriffliche Perspektiven auf Unterschiede und Ungleichheit im schulpädagogischen Diskurs – eine kritische Reflexion",
+      "authors": ["Tanja Sturm"],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "Diversity als Anhaltspunkt für die Hochschullehre\nFragen zu Gestaltungsmöglichkeiten in der Lehrer*innenbildung",
+      "authors": ["David Rott"],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "Das Konzept des Seminars „Inklusion im Kontext von Sprachvermittlung“",
+      "authors": ["Myriam Haddara"],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "„Jede Jeck is' anders“ – Heterogenität als theologische, kommunikative und didaktische Herausforderung für angehende Religionslehrer*innen",
+      "authors": ["Stefanie Auditor"],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "„Diversität im Mathematikunterricht der Grundschule“ – Ein kooperatives Lehrprojekt",
+      "authors": ["Timo Dexel", "Friedhelm Käpnick", "Daniel Bertels"],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "Einsatzmöglichkeiten digitaler Medien im Geographieunterricht im Kontext heterogener Lernvoraussetzungen – Entwicklung eines geographie-didaktischen Seminars in der ersten Phase der Lehrer*innenbildung",
+      "authors": ["Anke Schumacher", "Gabriele Schrüfer"],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "Inklusion in der Sportlehrerbildung – Hochschuldidaktische Konzepte zur Förderung einer inklusiven Haltung",
+      "authors": ["Franziska Duensing-Knop", "Uta Kaundinya", "Nils Neuber"],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "Diversitätssensibler Biologieunterricht – Veränderungen im Lehramtsstudium zur Vorbereitung auf das Unterrichten in heterogenen Lerngruppen",
+      "authors": ["Katharina Düsing", "Helge Gresch", "Marcus Hammann"],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "Heterogenitätssensibler Geschichtsunterricht als Thema der universitären Lehrer*innenbildung – geschichtsdidaktische Zugänge",
+      "authors": ["Jan Matthias Hoffrogge", "Vanessa Kilimann"],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "Entwicklung von inklusionsorientierten Curricula im beruflichen Lehramtsstudium",
+      "authors": ["Ursula Bylinski", "Nora Austermann", "Melanie Wiegelmann"],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "Metakognition in Lernprozessen als Facette von Heterogenität.",
+      "authors": ["Eva Schöll", "Stephan Dutke"],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "Kooperative und diagnostische Kompetenzen schärfen: Zwei erziehungswissenschaftliche Konzepte zur Kooperation von Lehrkräften und der Entwicklung von Beobachtungskompetenzen",
+      "authors": ["Julia Feldmann", "David Rott"],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "Heterogenität in der universitären Lehrer*innenbildung: Perspektiven, Begriffe und Ansätze in der Qualitätsoffensive Lehrerbildung Münster – eine Standortbestimmung",
+      "authors": ["Nina Zeuch", "David Rott"],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "Autor*innenverzeichnis",
+      "authors": [],
+      "printed_page_number": "229",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {"title": "Vorwort", "authors": [], "printed_page_number": "6", "skip": true},
+    {"title": "26. Göppinger Staufertage", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Die Vorträge", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Heinrich der Löwe und sein Politikmodell im Norden des Reichs", "authors": ["Bernd Schneidmüller"], "printed_page_number": "12", "skip": false},
+    {"title": "Dänemark und die Staufer", "authors": ["Jens E. Olesen"], "printed_page_number": "47", "skip": false},
+    {"title": "Die Staufer und Lübeck", "authors": ["Rolf Hammel-Kiesow"], "printed_page_number": "67", "skip": false},
+    {"title": "Vom „Hausorden\" zum Gegenspieler? Der Deutsche Orden und die Staufer", "authors": ["Jürgen Sarnowsky"], "printed_page_number": "95", "skip": false},
+    {"title": "Sieger und Verlierer oder: Das Ende der dänischen Hegemonie, das staufische Kaisertum und die Entstehung der Landesherrschaft in Norddeutschland im 13. Jahrhundert", "authors": ["Oliver Auge"], "printed_page_number": "111", "skip": false},
+    {"title": "Niederrhein – Niederlande – Lothringen im 12. Jahrhundert. Der Nordwesten des Reichs als Peripherie?", "authors": ["Gerhard Lubich"], "printed_page_number": "131", "skip": false},
+    {"title": "11. Verleihung des Wissenschaftspreises der Stauferstiftung Göppingen", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Laudationes und Festvortrag", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Laudatio zur Verleihung der wissenschaftlichen Förderpreise an Dr. Lioba Geis und Dr. Eleni Tounta", "authors": ["Stefan Lang"], "printed_page_number": "156", "skip": false},
+    {"title": "Laudatio zur Verleihung des Wissenschaftspreises an Prof. Dr. Wolfgang Stürner", "authors": ["Folker Reichert"], "printed_page_number": "163", "skip": false},
+    {"title": "Die Staufer auf dem Weg zur Königswürde – Herzog Friedrich II. von Schwaben und sein Bruder Konrad", "authors": ["Wolfgang Stürner"], "printed_page_number": "170", "skip": false},
+    {"title": "Die Autoren", "authors": [], "printed_page_number": "186", "skip": true},
+    {"title": "Bildnachweis", "authors": [], "printed_page_number": "191", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {"title": "Vorwort von Prof. Dr. Heidi Keller", "authors": [], "printed_page_number": "7", "skip": true},
+    {"title": "Vorwort der Herausgeber", "authors": [], "printed_page_number": "13", "skip": true},
+    {"title": "1 Grundsätze einer systemisch-entwicklungspsychologischen Beratungsarbeit", "authors": ["Jörn Borke", "Andreas Eickhorst"], "printed_page_number": "15", "skip": false},
+    {"title": "I Theoretische Grundlagen", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "2 Systemische Grundlagen der Eltern-Kleinkind-Beratung", "authors": ["Jürgen Kriz"], "printed_page_number": "23", "skip": false},
+    {"title": "3 Kulturvergleichende Grundlagen frühkindlicher Selbstregulationsprozesse", "authors": ["Monika Abels"], "printed_page_number": "44", "skip": false},
+    {"title": "4 Zur Evolutionspsychologie der ersten drei Lebensjahre. Theoretische Grundlagen, empirische Befunde und praktische Konsequenzen", "authors": ["Athanasios Chasiotis"], "printed_page_number": "60", "skip": false},
+    {"title": "II Konkrete Umsetzung und Praxisbezüge", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "5 Die Babysprechstunde Osnabrück – Geschichte, Theorie und Praxis einer systemisch-entwicklungspsychologischen Beratungseinrichtung", "authors": ["Jörn Borke"], "printed_page_number": "87", "skip": false},
+    {"title": "6 „Good Enough“-Counseling. Familienberaterinnen und Familienberater in der Babysprechstunde Osnabrück und ihre Supervision", "authors": ["Christian Hawellek", "Arist von Schlippe"], "printed_page_number": "109", "skip": false},
+    {"title": "7 Elternkompetenz – Vom Leidfaden zum Leitfaden", "authors": ["Michael Grabbe"], "printed_page_number": "122", "skip": false},
+    {"title": "III Zentrale Schwierigkeitsbereiche", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "8 Exzessives Schreien im Säuglingsalter", "authors": ["Antje Beck", "Jörn Borke", "Imke Westrup", "Nelia Wiegard"], "printed_page_number": "147", "skip": false},
+    {"title": "9 Schlafstörungen in den ersten Lebensjahren", "authors": ["Oskar G. Jenni", "Caroline Benz", "Remo H. Largo"], "printed_page_number": "164", "skip": false},
+    {"title": "10 Therapie frühkindlicher Fütterstörungen", "authors": ["Markus Wilken", "Martina Jotzo", "Marguerite Dunitz-Scheer"], "printed_page_number": "189", "skip": false},
+    {"title": "IV Spezifische Familiensubsysteme", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "11 Mütterliches Wohlbefinden rund um Schwangerschaft, Geburt und Wochenbett", "authors": ["Beate Schücking", "Claudia Hellmers", "Brigitte Bormann", "Stefanie Gebker"], "printed_page_number": "211", "skip": false},
+    {"title": "12 Väter in Beratungskontexten: Status quo und Perspektiven", "authors": ["Andreas Eickhorst"], "printed_page_number": "236", "skip": false},
+    {"title": "13 Geschwisterbeziehungen in der frühen Kindheit", "authors": ["Bettina Lamm", "Christina Holtmeyer"], "printed_page_number": "253", "skip": false},
+    {"title": "14 Auch positive Ereignisse erfordern Bewältigung: Prävention von Partnerschaftsproblemen nach dem Übergang zur Elternschaft", "authors": ["Barbara Reichle", "Sabine Franiek"], "printed_page_number": "273", "skip": false},
+    {"title": "V Empirische Überprüfung und Evaluation", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "15 Effektivität von Interaktionsberatung", "authors": ["Kerstin Polster"], "printed_page_number": "297", "skip": false},
+    {"title": "16 Der Beratungsbeginn: Analyse von Erstgesprächen", "authors": ["Verena Kantrowitsch"], "printed_page_number": "311", "skip": false},
+    {"title": "Die Autoren", "authors": [], "printed_page_number": "328", "skip": true},
+    {"title": "Stichwortverzeichnis", "authors": [], "printed_page_number": "333", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

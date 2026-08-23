@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {"title": "Inhaltsverzeichnis", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Vorwort", "authors": [], "printed_page_number": "7", "skip": true},
+    {"title": "1 Aktuelle Praxis", "authors": [], "printed_page_number": "11", "skip": true},
+    {"title": "1.1 Aktueller Umgang mit Drogengebrauchenden bei Haftentlassung", "authors": ["Heino Stöver"], "printed_page_number": "11", "skip": false},
+    {"title": "1.2 Suchtmittelbelastung von Inhaftierten – Ergebnisse aus der „Bundeseinheitlichen Erhebung zur stoffgebunden Suchtmittelproblematik im Justizvollzug“ am Beispiel Niedersachsens", "authors": ["Ulrike Häßler"], "printed_page_number": "41", "skip": false},
+    {"title": "2 Überblick über Bedarfe, Bedürfnisse und Konsummuster", "authors": [], "printed_page_number": "55", "skip": true},
+    {"title": "2.1 Illegale Substanzen im Jugendstrafvollzug – Prävalenz, Entwicklung und Prädiktoren des Konsums", "authors": ["Esther Bäumler"], "printed_page_number": "55", "skip": false},
+    {"title": "2.2 Perspektive der Drogengebrauchenden und Fachkräfte – Ergebnisse des EU-Forschungsprojekts „My first 48 hours out“", "authors": ["Daniela Jamin"], "printed_page_number": "70", "skip": false},
+    {"title": "3 Verbesserte Handlungsmöglichkeiten für die Praxis", "authors": [], "printed_page_number": "93", "skip": true},
+    {"title": "3.1 Medizin – Praxis der Substitutionsbehandlung in Haft", "authors": ["Karlheinz Keppler"], "printed_page_number": "93", "skip": false},
+    {"title": "3.2 Soziale Arbeit; Drogenberatung, AIDS-Hilfe", "authors": [], "printed_page_number": "103", "skip": true},
+    {"title": "3.2.1 Begleitung von drogengebrauchenden Frauen während und nach der Haft", "authors": ["Bianca Shah"], "printed_page_number": "103", "skip": false},
+    {"title": "3.2.2 Vorbereitung der Haftentlassung bei Menschen mit chronischen Infektionserkrankungen", "authors": ["Bärbel Knorr"], "printed_page_number": "116", "skip": false},
+    {"title": "3.2.3 Das „Therapie statt Strafe“-Prinzip (§ 35 BtMG) im niedersächsischen Justizvollzug- Entwicklungen, Stand und Chancen für die Resozialisierung", "authors": ["Jan Weber", "Thimna Klatt"], "printed_page_number": "123", "skip": false},
+    {"title": "3.2.4 Drogenhilfe nach Entlassung – Praxisbeispiel Bielefeld", "authors": ["Jan-Gert Hein"], "printed_page_number": "163", "skip": false},
+    {"title": "3.3 Übergangsmanagement, Kooperation und Netzwerk", "authors": [], "printed_page_number": "171", "skip": true},
+    {"title": "3.3.1 Übergangsmanagement. Erfolgserwartungen und Behandlungsabbruch einer stationären Suchtmitteltherapie", "authors": ["Ulrike Häßler", "Marcel Guéridon"], "printed_page_number": "171", "skip": false},
+    {"title": "3.3.2 Übergangsmanagement als Netzwerkaufgabe im Fokus von Gesundheit und Substitution", "authors": ["Farschid Dehnad"], "printed_page_number": "191", "skip": false},
+    {"title": "3.3.3 Das PLUS für die Haftentlassung – Versorgungsverbesserung durch sektorübergreifende Netzwerke", "authors": ["Georg Moog", "Thomas Walker"], "printed_page_number": "209", "skip": false},
+    {"title": "Autor*innenverzeichnis", "authors": [], "printed_page_number": "225", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

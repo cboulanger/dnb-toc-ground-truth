@@ -1,0 +1,162 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Foreword",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "Pedagogical field experiences in teacher education: Introduction to the research area\nSchulpraktika in der Lehrerbildung: Einführung in das Forschungsfeld",
+      "authors": ["Karl-Heinz Arnold", "Alexander Gröschner", "Tina Hascher"],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "1 Grundlagen der schulpraktischen Komponenten der Lehrerbildung [Foundations of teacher student learning and developement by field experiences]",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Theoretische Grundlagen des Theorie-Praxis-Problems in der Lehrer/innenbildung\nLinking theory and practice in teacher education: A theoretical foundation",
+      "authors": ["Jean-Luc Patry"],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "Entwicklung des Praxisbezugs in der Volksschullehrer/innenbildung\nDevelopment of practical orientation in elementary teacher education",
+      "authors": ["Andreas Bach"],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "Unterrichtsversuche als allgemeindidaktische Lerngelegenheit: Eine vergleichende Curriculumanalyse\nTeaching experiences as an opportunity to apply General Didactics: A comparative curriculum analysis",
+      "authors": ["Karl-Heinz Arnold"],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "How student teachers learn: the role of self-regulated learning\nWie Lehramtsstudierende lernen: Die Bedeutung des selbstregulierten Lernens",
+      "authors": ["Maaike D. Endedijk"],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "The turn toward practice and clinical experience in U.S. teacher education\nDie Wendung zu Schulpraktika und Praxiserfahrungen in der US-amerikanischen Lehrerbildung",
+      "authors": ["Ken Zeichner", "Marisa Bier"],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "2 Wirksamkeit von Praktika: Lernerfahrungen und Kompetenzentwicklung [Learning outcomes and competency development from field experiences]",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Empirical evidence on field experiences in teacher education: A review of the research base\nEmpirische Ergebnisse zur Wirksamkeit von Schulpraktika: Eine Übersicht zum Forschungsstand",
+      "authors": ["Kris-Stephen Besa", "Michaela Büdcher"],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "Core competences of students in pre-service university teacher education and their longitudinal development: First results of the KOSTA Study\nEntwicklung der Kernkompetenzen Lehramtsstudierender im Längsschnitt: Erste Ergebnisse der KOSTA-Studie",
+      "authors": ["Christoph Schneider", "Rainer Bodensohn"],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "Bedingungen von Lernprozessen in Schulpraktika: Ergebnisse aus dem Projekt ESIS (Entwicklung Studierender in Schulpraktika)\nConditions of learning processes during internships: Results from the project TDSI (Teacher Student Development in Internships)",
+      "authors": ["Andreas Bach", "Kris-Stephen Besa", "Karl-Heinz Arnold"],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "Kognitive Aktivierung als Ausbildungsziel der Lehrer/innenbildung – Was zeigt der Blick in den Unterricht?\nCognitive activation as a goal of teacher education – Looks into lessons and what they tell",
+      "authors": ["Matthias Baer", "Titus Guldimann", "Mirjam Kocher", "Corinne Wyss"],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "Wahrgenommene Kompetenzentwicklung im Praxissemester und dessen berufsorientierende Wirkung: Ergebnisse der ProPrax-Studie\nPerceived competency development during the student teaching semester and its impact on vocational orientation: Results from the ProPrax Study",
+      "authors": ["Wilfried Schubarth", "Corinna Gottmann", "Maud Krohn"],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "Learning processes in student teaching: Analyses from a study using learning diaries\nLernprozesse im Schulpraktikum – Analysen aus einer Lerntagebuchstudie",
+      "authors": ["Tina Hascher", "Cornelia Kittinger"],
+      "printed_page_number": "221",
+      "skip": false
+    },
+    {
+      "title": "Anbahnung von Reflexivität im Praktikum. Empirische Befunde zur Wirkung von Beobachtungsaufgaben im Grundschulpraktikum\nDeveloping reflexivity in student teacher internships. Empirical evidence on the impact of classroom observation in elementary schools.",
+      "authors": ["Sibylle Rahm", "Martin Lunkenbein"],
+      "printed_page_number": "237",
+      "skip": false
+    },
+    {
+      "title": "One size fits all? Differences in the use of learning diaries and preconditions for their effective use in field experiences\nOne size fits all? Unterschiede im Gebrauch von Lerntagebüchern und Voraussetzungen für ihren wirkungsvollen Einsatz in Praktika.",
+      "authors": ["Tina Hascher", "Franz Hofmann"],
+      "printed_page_number": "257",
+      "skip": false
+    },
+    {
+      "title": "Eignungsabklärung und Lern- und Entwicklungsziele von Studierenden in Praxisphasen der universitären Lehrerbildung\nClarifying vocational aptitude and students' learning resp. developmental objectives in practical periods of university teacher education",
+      "authors": ["Timo Nolle", "Dorit Bosse", "Elke Döring-Seipel"],
+      "printed_page_number": "277",
+      "skip": false
+    },
+    {
+      "title": "3 Effekte von Mentoring in Schulpraktika [Effects of mentoring on pedagogical field experiences]",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Herausforderung Differenzierung: Eine Studie zur Entwicklung anspruchsvoller Handlungskompetenzen von Lehramtsstudierenden im Spannungsfeld zwischen theoretischer und praktischer Ausbildung\nDifferentiated instruction: A study on the development of demanding teaching competencies of teacher students experiencing both theoretically and practically focused courses",
+      "authors": ["Roger Gut", "Sandra Moroni", "Alois Niggli", "Beat Bertschy"],
+      "printed_page_number": "295",
+      "skip": false
+    },
+    {
+      "title": "Inwiefern sagen berufsbezogene Erfahrungen und individuelle Einstellungen von Mentorinnen und Mentoren die Lernbegleitung von Lehramtsstudierenden im Praktikum voraus?\nHow do mentor teachers' experiences and individual beliefs predict the mentoring of student teachers during an internship?",
+      "authors": ["Alexander Gröschner", "Janina Häusler"],
+      "printed_page_number": "315",
+      "skip": false
+    },
+    {
+      "title": "Unterrichtsbesprechungen als Lerngelegenheiten im Praktikum\nLesson conferences as learning opportunities in internships",
+      "authors": ["Fritz Staub", "Monika Waldis", "Kathrin Futter", "Sina Schatzmann"],
+      "printed_page_number": "335",
+      "skip": false
+    },
+    {
+      "title": "Motive und Einstellungen betreuender Lehrkräfte in Schulpraktika\nMotives and attitudes of mentors in teacher student internships",
+      "authors": ["Stefanie Schnebel"],
+      "printed_page_number": "359",
+      "skip": false
+    },
+    {
+      "title": "Training mentor teachers for effective supervision: The impact of the SMART programme\nMentorenvorbereitung für wirksame Supervision: Effekte des SMART-Programms",
+      "authors": ["Frank Crasborn", "Paul Hennissen"],
+      "printed_page_number": "377",
+      "skip": false
+    },
+    {
+      "title": "Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "398",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

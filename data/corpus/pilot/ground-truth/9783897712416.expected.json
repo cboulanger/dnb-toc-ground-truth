@@ -1,0 +1,102 @@
+{
+  "entries": [
+    {
+      "title": "Einleitung",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "GeisterSpuren – Ein Dialog",
+      "authors": ["Iman Attia", "Mariam Popal"],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Spuren der Theorie",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "»Terror«. Ein Vortrag nach dem 11. September",
+      "authors": ["Gayatri Chakravorty Spivak"],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "Tabuisierte Erinnerungen, diasporische Visionen. Kolumbus, Palästina und Arabo-Jüd*innen",
+      "authors": ["Ella Shohat"],
+      "printed_page_number": "90",
+      "skip": false
+    },
+    {
+      "title": "Spuren der Geschichte",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Glaube, Kultur und Angst. Antimuslimischer Rassismus im Spanien der Frühen Neuzeit und im Europa des 21. Jahrhunderts – ein Vergleich",
+      "authors": ["François Soyer"],
+      "printed_page_number": "126",
+      "skip": false
+    },
+    {
+      "title": "Islam und das Schwarze Amerika. Die Geschichte des antimuslimischen Rassismus",
+      "authors": ["Junaid Rana"],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "Die Rassisierung der Religion",
+      "authors": ["Moustafa Bayoumi"],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "Islam und »Türkenfieber« im kolonialen Gefüge. Zum Verhältnis von Orient-, Kolonial- und Islampolitik im Deutschen Reich",
+      "authors": ["Ozan Zakariya Keskinkılıç"],
+      "printed_page_number": "200",
+      "skip": false
+    },
+    {
+      "title": "Spuren des Gegenwärtigen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Imagination und Flucht-Migration. Künstlerisch-literarische Kontrapunkte zur dominanten Fiktion des Faktischen",
+      "authors": ["Markus Schmitz"],
+      "printed_page_number": "224",
+      "skip": false
+    },
+    {
+      "title": "Unkontrollierbarer Hass und wegwerfbare Kinder. Vom »Intensivtäter mit Migrationshintergrund« zum »homophoben Muslim«",
+      "authors": ["Jin Haritaworn"],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "Symbolische und materielle Grenzziehungen. Geschlecht und »Rasse« im Diskurs über Gewalt und Fluchtbewegungen in Kanada und Deutschland",
+      "authors": ["Gökçe Yurdakul", "Anna C. Korteweg", "Ulrike Hamann"],
+      "printed_page_number": "276",
+      "skip": false
+    },
+    {
+      "title": "Die Orientalisierung des muslimischen Lebens in Deutschland. Die Deutsche Islamkonferenz und die Studie Muslimisches Leben in Deutschland",
+      "authors": ["Luis Manuel Hernández Aguilar"],
+      "printed_page_number": "297",
+      "skip": false
+    },
+    {
+      "title": "Über die Herausgeberinnen und Autor*innen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

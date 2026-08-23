@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {"title": "Vorwort zur zweiten Auflage", "authors": [], "printed_page_number": "11", "skip": true},
+    {"title": "Vorwort zur ersten Auflage", "authors": [], "printed_page_number": "13", "skip": true},
+    {"title": "Grundlagen", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Benchmarking – der Vergleich mit den Besten", "authors": ["Kai Mertins", "Holger Kohl"], "printed_page_number": "19", "skip": false},
+    {"title": "Benchmarking-Techniken", "authors": ["Kai Mertins", "Holger Kohl"], "printed_page_number": "63", "skip": false},
+    {"title": "Der richtige Benchmarking-Partner", "authors": ["Holger Kohl"], "printed_page_number": "89", "skip": false},
+    {"title": "Durchführung eines Benchmarking-Projektes", "authors": ["Andreas Lentrodt", "Werner Hane"], "printed_page_number": "107", "skip": false},
+    {"title": "Anwendungsfelder", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Benchmarking für kleine und mittlere Unternehmen", "authors": ["Mario Görmer", "Holger Kohl"], "printed_page_number": "137", "skip": false},
+    {"title": "Benchmarking in der Produktion", "authors": ["Christoph Maier-Rothe"], "printed_page_number": "169", "skip": false},
+    {"title": "Konsortialbenchmarking", "authors": ["Daniel Anderes", "Thomas Friedli"], "printed_page_number": "193", "skip": false},
+    {"title": "Benchmarking zur Messung und Steigerung der Nachhaltigkeit", "authors": ["Susanne Kaldschmidt"], "printed_page_number": "209", "skip": false},
+    {"title": "Benchmarking des Intellektuellen Kapitals", "authors": ["Kai Mertins", "Markus Will"], "printed_page_number": "237", "skip": false},
+    {"title": "IT-Benchmarking", "authors": ["Matthias Seidl"], "printed_page_number": "271", "skip": false},
+    {"title": "Benchmarking des IT-Service Engineering", "authors": ["Thomas Knothe"], "printed_page_number": "295", "skip": false},
+    {"title": "Benchmarking für Existenzgründer", "authors": ["Mario Görmer"], "printed_page_number": "331", "skip": false},
+    {"title": "Fallbeispiele", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Prozess-Benchmarking im Mercedes-Benz Werk Berlin", "authors": ["Ulf Räse"], "printed_page_number": "357", "skip": false},
+    {"title": "Internationales Benchmarking kleiner und mittlerer Unternehmen", "authors": ["Holger Kohl"], "printed_page_number": "377", "skip": false}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

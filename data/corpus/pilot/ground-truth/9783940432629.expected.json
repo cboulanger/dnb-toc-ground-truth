@@ -1,0 +1,17 @@
+{
+  "entries": [
+    {"title": "Geleitwort", "authors": ["Franz M. Haniel"], "printed_page_number": "7", "skip": true},
+    {"title": "Einleitung", "authors": ["Timon Beyes"], "printed_page_number": "10", "skip": true},
+    {"title": "Finden und Erfinden. Über die Entstehung des Neuen im Spannungsfeld von Wissenschaft, Wirtschaft und Gesellschaft", "authors": ["Jürgen Mittelstraß"], "printed_page_number": "17", "skip": false},
+    {"title": "Über die Entstehung des Neuen in den Wirtschaftswissenschaften: Gedanken zu Jürgen Mittelstraß' »Finden und Erfinden«", "authors": ["Axel Börsch-Supan"], "printed_page_number": "32", "skip": false},
+    {"title": "Entdecker und Erfinder. Theologische Gedanken zur Organisation von Innovation", "authors": ["Rolf Schieder"], "printed_page_number": "43", "skip": false},
+    {"title": "Politische Praxis und Wissenschaft: Public Policy als Innovation politikwissenschaftlicher Ausbildung und Forschung", "authors": ["Dietmar Herz"], "printed_page_number": "56", "skip": false},
+    {"title": "Finden und Erfinden: Forschung in der unternehmerischen Stadt", "authors": ["Timon Beyes"], "printed_page_number": "73", "skip": false},
+    {"title": "Wie kommt das Neue in die Welt? Eine ethisch-historische Fallstudie", "authors": ["Nils Ole Oermann"], "printed_page_number": "84", "skip": false},
+    {"title": "Innovation in der Sozialen Ordnung", "authors": ["Kurt H. Biedenkopf"], "printed_page_number": "100", "skip": false},
+    {"title": "Freiräume schaffen: Was Innovationspolitik bedeutet – und wie sie die Suche nach dem Neuen unterstützen kann", "authors": ["Andreas Pinkwart"], "printed_page_number": "120", "skip": false},
+    {"title": "Zu den Autoren", "authors": [], "printed_page_number": "129", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

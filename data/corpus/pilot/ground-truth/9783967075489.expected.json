@@ -1,0 +1,180 @@
+{
+  "entries": [
+    {
+      "title": "Platzhalter der Zukunft: Digitale Literatur II (2001 → 2021)",
+      "authors": ["Hannes Bajohr", "Annette Gilbert"],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "On the Road",
+      "authors": ["Gregor Weichbrodt"],
+      "printed_page_number": "22",
+      "skip": false
+    },
+    {
+      "title": "Eine Liste",
+      "authors": ["Gregor Weichbrodt"],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "Digitale Literatur als Gegenstand der Literaturwissenschaft. Ein multimodales Forschungsprogramm",
+      "authors": ["Thorsten Ries"],
+      "printed_page_number": "24",
+      "skip": false
+    },
+    {
+      "title": "Die Zukunft der Gegenwart (Berlin, Miami). Über die Literatur der ›digitalen Gesellschaft‹",
+      "authors": ["Elias Kreuzmair"],
+      "printed_page_number": "35",
+      "skip": false
+    },
+    {
+      "title": "Cocktail Fubar",
+      "authors": ["Kathrin Passig"],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Unendlicher Stress (mit Gregor Weichbrodt; Auszug)",
+      "authors": ["Kathrin Passig"],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "Verteilung und Zerstäubung. Zur Autorschaft computergestützter Literatur",
+      "authors": ["Jasmin Meerhoff"],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "Kollaterales Schreiben. Digitale Kollaboration im Zeitalter von Crowdworking und Algotaylorismus",
+      "authors": ["Annette Gilbert"],
+      "printed_page_number": "62",
+      "skip": false
+    },
+    {
+      "title": "aufgestaut",
+      "authors": ["Jasmin Meerhoff"],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "Computerspiele und Literatur. Schnittmengen, Unterschiede und offene Fragen",
+      "authors": ["Dilan Canan Çakir", "Anna Kinder", "Sandra Richter"],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Instagram-Collagen",
+      "authors": ["Sarah Berger"],
+      "printed_page_number": "89",
+      "skip": false
+    },
+    {
+      "title": "33",
+      "authors": ["Sarah Berger"],
+      "printed_page_number": "90",
+      "skip": false
+    },
+    {
+      "title": "Populäre Schreibweisen. Instapoetry und Fan-Fiction",
+      "authors": ["Niels Penke"],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "»Bin ich das Arschloch hier?« Wie Reddit und Twitter neue literarische Schreibweisen hervorbringen",
+      "authors": ["Berit Glanz"],
+      "printed_page_number": "106",
+      "skip": false
+    },
+    {
+      "title": "der balkon der natur",
+      "authors": ["Fabian Navarro", "Selina Seemann"],
+      "printed_page_number": "118",
+      "skip": false
+    },
+    {
+      "title": "wir sind die, die gratulieren",
+      "authors": ["Fabian Navarro", "Selina Seemann"],
+      "printed_page_number": "119",
+      "skip": false
+    },
+    {
+      "title": "Wenn man nicht alles selber schreibt. Sieben Gründe für das Generieren von Texten",
+      "authors": ["Kathrin Passig"],
+      "printed_page_number": "120",
+      "skip": false
+    },
+    {
+      "title": "Do Conceptualists Dream of Electric Sheep? Algorithmische Interpretation des Unbewussten in Conceptual Writing und konzeptueller Codeliteratur",
+      "authors": ["Karl Wolfgang Flender"],
+      "printed_page_number": "134",
+      "skip": false
+    },
+    {
+      "title": "entropie",
+      "authors": ["Jörg Piringer"],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "dunkelheit",
+      "authors": ["Jörg Piringer"],
+      "printed_page_number": "146",
+      "skip": false
+    },
+    {
+      "title": "Zeichenkodierung und digitale Textkunst",
+      "authors": ["Andreas Bülhoff"],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "Reflexive Immersion. Zur Lesbarkeit korpusbasierter digitaler Poesie",
+      "authors": ["Alexander Waszynski"],
+      "printed_page_number": "160",
+      "skip": false
+    },
+    {
+      "title": "Compasses",
+      "authors": ["Allison Parrish"],
+      "printed_page_number": "172",
+      "skip": false
+    },
+    {
+      "title": "Künstliche Intelligenz und digitale Literatur. Theorie und Praxis konnektionistischen Schreibens",
+      "authors": ["Hannes Bajohr"],
+      "printed_page_number": "174",
+      "skip": false
+    },
+    {
+      "title": "Vom Verlegen. Ein Wirkstättenbericht",
+      "authors": ["Christiane Frohmann"],
+      "printed_page_number": "186",
+      "skip": false
+    },
+    {
+      "title": "Complaint / Polytropon",
+      "authors": ["Nick Montfort"],
+      "printed_page_number": "198",
+      "skip": false
+    },
+    {
+      "title": "Auswahlbibliografie",
+      "authors": [],
+      "printed_page_number": "201",
+      "skip": true
+    },
+    {
+      "title": "Notizen",
+      "authors": [],
+      "printed_page_number": "210",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {"title": "Einführung. Inklusive Didaktik für die Regelschule", "authors": ["Ewald Kiel", "Sabine Weiß"], "printed_page_number": "7", "skip": false},
+    {"title": "Förderschwerpunkt Sprache. Inklusive Didaktik für den Unterricht mit sprachentwicklungsgestörten Schüler*innen", "authors": ["Andreas Mayer", "Angelika Bauer", "Sabine Prepens"], "printed_page_number": "11", "skip": false},
+    {"title": "Förderschwerpunkt Hören und Kommunikation. Inklusiver Unterricht im Kontext von Taubheit und Hörbehinderung", "authors": ["Laura Avemarie", "Debora Eck", "Melanie Pospischil", "Christian Müller"], "printed_page_number": "29", "skip": false},
+    {"title": "Förderschwerpunkt Sehen. Pädagogik bei Blindheit und Sehbeeinträchtigung", "authors": ["Markus Lang"], "printed_page_number": "49", "skip": false},
+    {"title": "Förderschwerpunkt körperlich-motorische Entwicklung. Schüler*innen mit einem sonderpädagogischen Unterstützungsbedarf im Schwerpunkt körperlich-motorische Entwicklung im inklusiven Setting: Überlegungen zur Unterrichtsgestaltung", "authors": ["Annett Thiele", "Sönke Thies"], "printed_page_number": "67", "skip": false},
+    {"title": "Förderschwerpunkt Autismus. Inklusive Didaktik und Autismus", "authors": ["Reinhard Markowetz"], "printed_page_number": "83", "skip": false},
+    {"title": "Förderschwerpunkt emotional-soziale Entwicklung. Inklusive Didaktik für den Unterricht mit Schüler*innen im Bereich emotional-soziale Entwicklung", "authors": ["Madeleine Müller", "Felix Piegsda"], "printed_page_number": "103", "skip": false},
+    {"title": "Förderschwerpunkt Geistige Entwicklung. Inklusive Bildung von Schüler:innen des sonderpädagogischen Schwerpunktes geistige Entwicklung", "authors": ["Peter Zentel"], "printed_page_number": "121", "skip": false},
+    {"title": "Förderschwerpunkt Lernen. Inklusive Didaktik im Förderschwerpunkt Lernen", "authors": ["Markus Gebhardt", "Georgia Koutsianikouli"], "printed_page_number": "135", "skip": false},
+    {"title": "Zusammenschau. Inklusive Didaktik für die Regelschule – eine Zusammenschau", "authors": ["Ewald Kiel", "Sabine Weiß"], "printed_page_number": "149", "skip": false},
+    {"title": "Autor*innen", "authors": [], "printed_page_number": "159", "skip": true},
+    {"title": "Sachregister", "authors": [], "printed_page_number": "163", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

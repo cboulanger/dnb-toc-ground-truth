@@ -1,0 +1,23 @@
+{
+  "entries": [
+    {"title": "Vorwort. Öffnungen und Entgrenzungen", "authors": [], "printed_page_number": "7", "skip": true},
+    {"title": "Hubert Steins: Wahrnehmungsverschiebungen. Kontextverrückungen im Werk Carola Bauckholts", "authors": ["Hubert Steins"], "printed_page_number": "11", "skip": false},
+    {"title": "Torsten Möller: Vom Verklingen der Geräusche ... oder: Zur Komposition von Klangkomplexen", "authors": ["Torsten Möller"], "printed_page_number": "25", "skip": false},
+    {"title": "Jürgen Oberschmidt: Über das Hören. Ein Lauschangriff auf Musik von Carola Bauckholt", "authors": ["Jürgen Oberschmidt"], "printed_page_number": "34", "skip": false},
+    {"title": "Karolin Schmitt-Weidmann: Musik in gewohnter Umgebung. Die Ästhetik Carola Bauckholts im Spannungsfeld zwischen Kunst und Alltag", "authors": ["Karolin Schmitt-Weidmann"], "printed_page_number": "55", "skip": false},
+    {"title": "Lydia Jeschke: trouvé et composé. Kreatur und Kreation in der Musik von Carola Bauckholt", "authors": ["Lydia Jeschke"], "printed_page_number": "78", "skip": false},
+    {"title": "Julia Croot: Klangtheater. Carola Bauckholts Musiktheater hellhörig", "authors": ["Julia Croot"], "printed_page_number": "85", "skip": false},
+    {"title": "Julia Croot: Verflechtung von Bild und Ton. Videosequenzen als ‚dritte Stimme' in Carola Bauckholts Trio In gewohnter Umgebung III", "authors": ["Julia Croot"], "printed_page_number": "91", "skip": false},
+    {"title": "Julia Croot: Im Lupenglas", "authors": ["Julia Croot"], "printed_page_number": "101", "skip": false},
+    {"title": "Gerhard Schmitt: Über Wut und Eifer. Eine symboltheoretische Analyse der Werke Carola Bauckholts", "authors": ["Gerhard Schmitt"], "printed_page_number": "107", "skip": false},
+    {"title": "Martina Seeber: Ich bin (k)ein ICE. Sog und Laufwerk: Zwei Kompositionen für Instrumentalensemble und Samples von Carola Bauckholt", "authors": ["Martina Seeber"], "printed_page_number": "136", "skip": false},
+    {"title": "Carola Bauckholt: Bewegung erfassen. Das Musiktheaterwerk hellhörig", "authors": ["Carola Bauckholt"], "printed_page_number": "144", "skip": false},
+    {"title": "Marion Saxer: Soma und Semantik. Die gespaltene Stimme in den Vokalkompositionen Carola Bauckholts", "authors": ["Marion Saxer"], "printed_page_number": "157", "skip": false},
+    {"title": "Reinhard Schulz: Hellhörig. Porträt der Komponistin Carola Bauckholt", "authors": ["Reinhard Schulz"], "printed_page_number": "171", "skip": false},
+    {"title": "Werkverzeichnis", "authors": [], "printed_page_number": "181", "skip": true},
+    {"title": "Autoren", "authors": [], "printed_page_number": "187", "skip": true},
+    {"title": "Programm: Internationale Weingartener Tage für Neue Musik", "authors": [], "printed_page_number": "189", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

@@ -1,0 +1,120 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "I. Föderale Mehr-Ebenen-Systeme und Europäische Integration",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Regulierung in föderalen Mehr-Ebenen-Systemen",
+      "authors": ["Wolfgang Kerber"],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Zur ökonomischen Theorie des Föderalismus: Eine prozeßorientierte Sicht",
+      "authors": ["Lars P. Feld"],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "Regulierungswettbewerb in föderalen Strukturen: Königsweg zwischen Staatsversagen und Marktversagen?",
+      "authors": ["Thomas Apolte"],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "Die Grundsätze der Subsidiarität und Verhältnismäßigkeit: Wirksame Kompetenzschranken der Europäischen Union?",
+      "authors": ["Martin Leschke", "Markus Möstl"],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Der Ausschuß der Regionen in Europa: Institutioneller Aufbau und Subsidiaritätsauftrag",
+      "authors": ["Dirk Wentzel"],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "II. Europäische Regulierungen zwischen Zentralität und Dezentralität",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Modernisierung der europäischen Wettbewerbsordnung: Werden die nationalen Wettbewerbspolitiken verdrängt?",
+      "authors": ["Oliver Budzinski"],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "Zentralität und Dezentralität im europäischen Zivilrecht",
+      "authors": ["Klaus Heine", "Katarina Röpke"],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "The Uneasy Case for Harmonising Consumer Law",
+      "authors": ["Roger Van den Bergh"],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "„Race to the Bottom\" oder „Race to Brussels\"? Regulierungswettbewerb im Umweltschutz",
+      "authors": ["Katharina Holzinger", "Thomas Sommerer"],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "Die Politische Ökonomie der sozialpolitischen Regulierung in der Europäischen Union",
+      "authors": ["Roland Vaubel"],
+      "printed_page_number": "237",
+      "skip": false
+    },
+    {
+      "title": "III. Sektorspezifische Regulierungen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Die Kompetenzen der Europäischen Union in der Rentenpolitik: Wohin geht die Reise?",
+      "authors": ["Martina Eckardt"],
+      "printed_page_number": "261",
+      "skip": false
+    },
+    {
+      "title": "Ökonomische Begründungen für Pharmamarktregulierungen auf verschiedenen Kompetenzebenen. Das Beispiel der Arzneimittel-Zulassungshürden in Europa",
+      "authors": ["Dieter Cassel", "Christian Müller", "Torsten Sundmacher"],
+      "printed_page_number": "287",
+      "skip": false
+    },
+    {
+      "title": "Zentralität versus Dezentralität der Verkehrspolitik in der Europäischen Union",
+      "authors": ["Eva Becker"],
+      "printed_page_number": "309",
+      "skip": false
+    },
+    {
+      "title": "Die Medienaufsicht im föderalen Bundesstaat – Veränderungsmöglichkeiten im Zuge der Föderalismusreform",
+      "authors": ["Bernd Holznagel", "Pascal Schumacher"],
+      "printed_page_number": "329",
+      "skip": false
+    },
+    {
+      "title": "Autoren und Seminarteilnehmer",
+      "authors": [],
+      "printed_page_number": "347",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

@@ -1,0 +1,376 @@
+{
+  "entries": [
+    {
+      "title": "0 Introduction",
+      "authors": [
+        "Esme Winter-Froemel",
+        "Álvaro S. Octavio de Toledo y Huerta"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Part I: The theory and history of discourse traditions and discourse traditional knowledge",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1 Discourse traditions research: foundations, theoretical issues and implications",
+      "authors": [
+        "Esme Winter-Froemel"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "2 Discourse traditions and variation linguistics",
+      "authors": [
+        "Araceli López Serena"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "3 Conceptual developments in discourse tradition theory",
+      "authors": [
+        "Angela Schrott"
+      ],
+      "printed_page_number": "81",
+      "skip": false
+    },
+    {
+      "title": "4 Discourse traditions and the historicity of language: discourse traditional knowledge and discourse universes",
+      "authors": [
+        "Johannes Kabatek"
+      ],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "5 Discourse traditions in synchrony",
+      "authors": [
+        "Konstanze Brigitte Jungbluth",
+        "Valéria Severina Gomes"
+      ],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "6 Discourse traditions and linguistic dynamics",
+      "authors": [
+        "Esme Winter-Froemel"
+      ],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "7 International diffusion of the discourse traditions model",
+      "authors": [
+        "Araceli López Serena"
+      ],
+      "printed_page_number": "183",
+      "skip": false
+    },
+    {
+      "title": "Part II: Discourse traditions within historical linguistics and textual linguistics: models, concepts, and approaches",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "8 Discourse traditions and the construction of discourse from a historical perspective",
+      "authors": [
+        "Rafael Cano Aguilar"
+      ],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "9 Discourse traditions, linguistic standardisation and elaboration: reflections from Spanish",
+      "authors": [
+        "Lola Pons Rodríguez"
+      ],
+      "printed_page_number": "229",
+      "skip": false
+    },
+    {
+      "title": "10 Discourse traditions, text linguistics and historical pragmatics",
+      "authors": [
+        "Massimo Palermo",
+        "Jacqueline Visconti"
+      ],
+      "printed_page_number": "249",
+      "skip": false
+    },
+    {
+      "title": "11 Discourse traditions, functional and cognitive linguistics",
+      "authors": [
+        "Felix Tacke"
+      ],
+      "printed_page_number": "267",
+      "skip": false
+    },
+    {
+      "title": "12 Discourse traditions and Construction Grammar",
+      "authors": [
+        "Jacques François",
+        "Dominique Legallois"
+      ],
+      "printed_page_number": "283",
+      "skip": false
+    },
+    {
+      "title": "13 Discourse traditions, genres, and rhetoric",
+      "authors": [
+        "Christophe Gérard",
+        "François Rastier"
+      ],
+      "printed_page_number": "297",
+      "skip": false
+    },
+    {
+      "title": "14 Discourse traditions, text linguistics, and translation studies",
+      "authors": [
+        "Jörn Albrecht",
+        "Irene Kunert"
+      ],
+      "printed_page_number": "317",
+      "skip": false
+    },
+    {
+      "title": "15 Discourse traditions and models of discourse segmentation",
+      "authors": [
+        "Margarita Borreguero Zuloaga"
+      ],
+      "printed_page_number": "333",
+      "skip": false
+    },
+    {
+      "title": "Part III: Discourse traditions in the history of Romance: applications and case studies",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "16 Discourse traditions in the early Romance period (with a focus on Gallo-Romance varieties)",
+      "authors": [
+        "Maria Selig"
+      ],
+      "printed_page_number": "353",
+      "skip": false
+    },
+    {
+      "title": "17 Discourse traditions in early Italo-Romance varieties",
+      "authors": [
+        "Rembert Eufe"
+      ],
+      "printed_page_number": "369",
+      "skip": false
+    },
+    {
+      "title": "18 Discourse traditions in early Ibero-Romance varieties",
+      "authors": [
+        "Heiner Böhmer"
+      ],
+      "printed_page_number": "385",
+      "skip": false
+    },
+    {
+      "title": "19 Romance and Latin in medieval discourse traditions: the elaboration of vernacular writing between inscriptions and in-scripturation",
+      "authors": [
+        "Barbara Frank-Job"
+      ],
+      "printed_page_number": "397",
+      "skip": false
+    },
+    {
+      "title": "20 Discourse traditions and translation: interference between Latin and Romance in the Early Modern Period (poetry, dialogue, doctrinal prose)",
+      "authors": [
+        "Santiago Del Rey Quesada"
+      ],
+      "printed_page_number": "411",
+      "skip": false
+    },
+    {
+      "title": "21 Discourse traditions in the history of French",
+      "authors": [
+        "Esme Winter-Froemel",
+        "Carlotta Posth"
+      ],
+      "printed_page_number": "435",
+      "skip": false
+    },
+    {
+      "title": "22 Discourse traditions in the history of Italian",
+      "authors": [
+        "Elisa De Roberto"
+      ],
+      "printed_page_number": "467",
+      "skip": false
+    },
+    {
+      "title": "23 Discourse traditions in the history of European Spanish",
+      "authors": [
+        "Álvaro S. Octavio de Toledo y Huerta"
+      ],
+      "printed_page_number": "489",
+      "skip": false
+    },
+    {
+      "title": "24 Discourse traditions and the history of American Spanish: social settings, contacts, ideologies and challenges",
+      "authors": [
+        "Carlos Garatea Grau"
+      ],
+      "printed_page_number": "527",
+      "skip": false
+    },
+    {
+      "title": "25 Diachronic approaches to discourse traditions in Spanish America",
+      "authors": [
+        "Jennifer Gabel de Aguirre"
+      ],
+      "printed_page_number": "539",
+      "skip": false
+    },
+    {
+      "title": "26 Discourse traditions in the history of Brazilian Portuguese: a case study on forms of address",
+      "authors": [
+        "Célia Regina dos Santos Lopes"
+      ],
+      "printed_page_number": "553",
+      "skip": false
+    },
+    {
+      "title": "27 Discourse traditions in the history of Romanian",
+      "authors": [
+        "Aurelia Merlan"
+      ],
+      "printed_page_number": "571",
+      "skip": false
+    },
+    {
+      "title": "28 Discourse traditions in the history of Catalan: a case study on additive discourse markers",
+      "authors": [
+        "Mar Garachana Camarero"
+      ],
+      "printed_page_number": "599",
+      "skip": false
+    },
+    {
+      "title": "29 Discourse traditions in the history of Romansh",
+      "authors": [
+        "Philipp Obrist"
+      ],
+      "printed_page_number": "615",
+      "skip": false
+    },
+    {
+      "title": "30 Discourse traditions in multilingual contexts: the Kingdom of Naples",
+      "authors": [
+        "Verena Schwägerl-Melchior"
+      ],
+      "printed_page_number": "633",
+      "skip": false
+    },
+    {
+      "title": "Part IV: Contacts with further approaches",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "31 Discourse traditions and corpus linguistics",
+      "authors": [
+        "Malte Rosemeyer"
+      ],
+      "printed_page_number": "647",
+      "skip": false
+    },
+    {
+      "title": "32 Discourse traditions and computational linguistics",
+      "authors": [
+        "Emmanuel Cartier"
+      ],
+      "printed_page_number": "669",
+      "skip": false
+    },
+    {
+      "title": "33 Discourse traditions and lexical innovation",
+      "authors": [
+        "Christophe Gérard"
+      ],
+      "printed_page_number": "691",
+      "skip": false
+    },
+    {
+      "title": "34 Discourse traditions and formulaic language studies",
+      "authors": [
+        "Natalia Filatkina"
+      ],
+      "printed_page_number": "705",
+      "skip": false
+    },
+    {
+      "title": "35 Syntactic complexity in Standard Average European: language contact and discourse traditions in the domain of communicative distance",
+      "authors": [
+        "Bert Cornillie"
+      ],
+      "printed_page_number": "721",
+      "skip": false
+    },
+    {
+      "title": "36 Discourse traditions and literary studies: the example of Ancient Greek and Latin literature(s)",
+      "authors": [
+        "Robert Kirstein"
+      ],
+      "printed_page_number": "739",
+      "skip": false
+    },
+    {
+      "title": "37 Interdiscursivity in French theatre: crossing linguistic and literary perspectives",
+      "authors": [
+        "Carlotta Posth",
+        "Esme Winter-Froemel"
+      ],
+      "printed_page_number": "751",
+      "skip": false
+    },
+    {
+      "title": "38 Discourse traditions, multimodality and media studies",
+      "authors": [
+        "Johannes Müller-Lancé"
+      ],
+      "printed_page_number": "767",
+      "skip": false
+    },
+    {
+      "title": "Appendix",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Discourse traditions: on their status in language theory and on their dynamics",
+      "authors": [
+        "Peter Koch"
+      ],
+      "printed_page_number": "783",
+      "skip": false
+    },
+    {
+      "title": "Contributors",
+      "authors": [],
+      "printed_page_number": "821",
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "823",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

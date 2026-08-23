@@ -1,0 +1,120 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": ["Britta Hufeisen"],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "I Einleitender Teil",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Einleitung",
+      "authors": ["Giuseppe Manno", "Mirjam Egli Cuenat", "Christine Le Pape Racine", "Christian Brühwiler"],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "2. Untersuchungsanlage und methodisches Vorgehen",
+      "authors": ["Christian Brühwiler", "Anja Gebhardt", "Giuseppe Manno", "Mirjam Egli Cuenat", "Christine Le Pape Racine"],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "II Textkompetenz: Rezeption und Produktion",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "3. Kognatenerkennung und Detailverständnis in den schulisch geförderten Fremdsprachen Französisch und Englisch am Ende der 6. und der 7. Klasse",
+      "authors": ["Giuseppe Manno"],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "4. Transversale und longitudinale Kontinuität in der schriftlichen und mündlichen Textproduktion in drei Sprachen am Übergang zwischen Primarstufe und Sekundarstufe I",
+      "authors": ["Mirjam Egli Cuenat", "Christian Brühwiler"],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "5. Schriftliche und mündliche Textproduktion im Französischen mit oder ohne vorgängigen Englischunterricht am Ende der Primarstufe (6. Klasse)",
+      "authors": ["Mirjam Egli Cuenat", "Lukas Bleichenbacher"],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "6. Lesekompetenz in einer mehrsprachigen Perspektive: Ein Systemvergleich am Ende der 7. Klasse in Französisch als Fremdsprache unter Berücksichtigung der Schulsprache Deutsch",
+      "authors": ["Giuseppe Manno"],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "7. Die Erschliessung unbekannter Wörter: Strategien beim Lesen von Texten in den schulisch geförderten Fremdsprachen am Ende des 7. Schuljahres",
+      "authors": ["Giuseppe Manno", "Christine Le Pape Racine"],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "8. Zusammenhänge und mögliche Wechselwirkungen zwischen schriftlicher Textrezeption und -produktion in Schulsprache, erster und zweiter Fremdsprache",
+      "authors": ["Mirjam Egli Cuenat", "Giuseppe Manno"],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "9. Profile mehrsprachiger Textkompetenz in den schulisch geförderten Sprachen Deutsch, Englisch und Französisch",
+      "authors": ["Anja Gebhardt", "Christian Brühwiler", "Giuseppe Manno", "Mirjam Egli Cuenat"],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "III Die Rolle von individuellen Lernvoraussetzungen, Unterrichtsmerkmalen und Schultypen im schulischen Mehrsprachenerwerb",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "10. Überzeugungen von Schüler/innen und Lehrpersonen zur Wirksamkeit von Sprachlernstrategien im Fremdsprachenunterricht am Übergang von der Primarstufe in die Sekundarstufe I",
+      "authors": ["Christine Le Pape Racine", "Christian Brühwiler"],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "11. Gestaltung des Sprachenunterrichts Deutsch, Englisch und Französisch aus Sicht der Schüler/innen und Lehrpersonen am Stufenübergang von der Primarstufe zur Sekundarstufe I",
+      "authors": ["Christine Le Pape Racine", "Christian Brühwiler"],
+      "printed_page_number": "257",
+      "skip": false
+    },
+    {
+      "title": "12. Die Rolle des Schultyps bzw. des Anforderungsniveaus in Bezug auf die Lesekompetenzen von Schüler/innen im 7. Schuljahr in den Fremdsprachen Englisch und Französisch sowie in der Schulsprache Deutsch",
+      "authors": ["Giuseppe Manno", "Anja Gebhardt"],
+      "printed_page_number": "287",
+      "skip": false
+    },
+    {
+      "title": "IV Conclusio",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "13. Schulischer Mehrsprachenerwerb am Übergang zwischen Primarstufe und Sekundarstufe I: Synthese der Ergebnisse, Schlussfolgerungen und Desiderate",
+      "authors": ["Mirjam Egli Cuenat", "Giuseppe Manno", "Christian Brühwiler", "Christine Le Pape Racine"],
+      "printed_page_number": "311",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

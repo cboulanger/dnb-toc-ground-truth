@@ -1,0 +1,1376 @@
+{
+  "entries": [
+    {
+      "title": "Danksagung",
+      "authors": [],
+      "printed_page_number": "15",
+      "skip": true
+    },
+    {
+      "title": "1 Einleitung",
+      "authors": [
+        "Jean Morrissey",
+        "Kielty Oberlin"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "authors": [],
+      "printed_page_number": "24",
+      "skip": true
+    },
+    {
+      "title": "2 Theoretische Modelle zur Erklärung von Essstörungen",
+      "authors": [
+        "Kielty Oberlin",
+        "Jean Morrissey"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "2.1 Einleitung",
+      "authors": [],
+      "printed_page_number": "26",
+      "skip": true
+    },
+    {
+      "title": "2.2 Lernziele",
+      "authors": [],
+      "printed_page_number": "26",
+      "skip": true
+    },
+    {
+      "title": "2.3 Philosophische Perspektiven",
+      "authors": [],
+      "printed_page_number": "26",
+      "skip": true
+    },
+    {
+      "title": "2.4 Das biopsychosoziale Modell",
+      "authors": [],
+      "printed_page_number": "27",
+      "skip": true
+    },
+    {
+      "title": "2.5 Therapeutische Ansätze zur Behandlung und Genesung von Essstörungen",
+      "authors": [],
+      "printed_page_number": "34",
+      "skip": true
+    },
+    {
+      "title": "2.6 Das Recovery-Modell",
+      "authors": [],
+      "printed_page_number": "37",
+      "skip": true
+    },
+    {
+      "title": "2.7 Spiritualität und Genesung",
+      "authors": [],
+      "printed_page_number": "38",
+      "skip": true
+    },
+    {
+      "title": "2.8 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "39",
+      "skip": true
+    },
+    {
+      "title": "2.9 Literatur",
+      "authors": [],
+      "printed_page_number": "40",
+      "skip": true
+    },
+    {
+      "title": "3 „Keiner versteht mich. Ich verstehe mich selbst nicht“",
+      "authors": [
+        "Kielty Oberlin"
+      ],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "3.1 Einleitung",
+      "authors": [],
+      "printed_page_number": "44",
+      "skip": true
+    },
+    {
+      "title": "3.2 Lernziele",
+      "authors": [],
+      "printed_page_number": "44",
+      "skip": true
+    },
+    {
+      "title": "3.3 Persönliche Erfahrungen mit Essstörungen",
+      "authors": [],
+      "printed_page_number": "45",
+      "skip": true
+    },
+    {
+      "title": "3.3.1 Essstörungen sind nicht immer am Gewicht erkennbar",
+      "authors": [],
+      "printed_page_number": "45",
+      "skip": true
+    },
+    {
+      "title": "3.3.2 Essstörungen betreffen auch das männliche Geschlecht",
+      "authors": [],
+      "printed_page_number": "46",
+      "skip": true
+    },
+    {
+      "title": "3.3.3 Essstörungen können auch in höherem Alter auftreten",
+      "authors": [],
+      "printed_page_number": "48",
+      "skip": true
+    },
+    {
+      "title": "3.3.4 Essstörungen sind keine Life-Style-Entscheidung aufgrund der Überbewertung von Figur und Konfektionsgröße",
+      "authors": [],
+      "printed_page_number": "50",
+      "skip": true
+    },
+    {
+      "title": "3.3.5 Essstörungen sind schwerwiegende psychische und physische Erkrankungen",
+      "authors": [],
+      "printed_page_number": "51",
+      "skip": true
+    },
+    {
+      "title": "3.3.6 Eltern sind eine wertvolle Ressource und dürfen nicht für die Essstörung ihres Kindes verantwortlich gemacht werden",
+      "authors": [],
+      "printed_page_number": "52",
+      "skip": true
+    },
+    {
+      "title": "3.3.7 Auch für Praktizierende kann der Umgang mit Menschen mit Essstörungen schwierig sein",
+      "authors": [],
+      "printed_page_number": "54",
+      "skip": true
+    },
+    {
+      "title": "3.3.8 Die Genesung von einer Essstörung ist langfristig und mit entsprechender Unterstützung möglich",
+      "authors": [],
+      "printed_page_number": "55",
+      "skip": true
+    },
+    {
+      "title": "3.4 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "56",
+      "skip": true
+    },
+    {
+      "title": "3.5 Literatur",
+      "authors": [],
+      "printed_page_number": "57",
+      "skip": true
+    },
+    {
+      "title": "4 Was bedeutet Genesung im Kontext von Essstörungen?",
+      "authors": [
+        "Jan Alexander de Vos",
+        "Kielty Oberlin",
+        "Jean Morrissey"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "4.1 Einleitung",
+      "authors": [],
+      "printed_page_number": "60",
+      "skip": true
+    },
+    {
+      "title": "4.2 Lernziele",
+      "authors": [],
+      "printed_page_number": "60",
+      "skip": true
+    },
+    {
+      "title": "4.3 Was bedeutet Genesung?",
+      "authors": [],
+      "printed_page_number": "60",
+      "skip": true
+    },
+    {
+      "title": "4.3.1 Anhand von welchen Kriterien wird Genesung gemessen?",
+      "authors": [],
+      "printed_page_number": "61",
+      "skip": true
+    },
+    {
+      "title": "4.4 Zentrale Elemente der Genesung",
+      "authors": [],
+      "printed_page_number": "63",
+      "skip": true
+    },
+    {
+      "title": "4.5 Behandlung genesungsrelevanter psychosozialer Aspekte",
+      "authors": [],
+      "printed_page_number": "69",
+      "skip": true
+    },
+    {
+      "title": "4.6 Positive Effekte der Einbeziehung psychosozialer Kategorien",
+      "authors": [],
+      "printed_page_number": "75",
+      "skip": true
+    },
+    {
+      "title": "4.6.1 Zu berücksichtigende Aspekte",
+      "authors": [],
+      "printed_page_number": "76",
+      "skip": true
+    },
+    {
+      "title": "4.7 Aufbau unterstützender Beziehungen",
+      "authors": [],
+      "printed_page_number": "76",
+      "skip": true
+    },
+    {
+      "title": "4.7.1 Ist Genesung möglich?",
+      "authors": [],
+      "printed_page_number": "77",
+      "skip": true
+    },
+    {
+      "title": "4.7.2 Umgang mit Ambivalenz",
+      "authors": [],
+      "printed_page_number": "78",
+      "skip": true
+    },
+    {
+      "title": "4.8 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "78",
+      "skip": true
+    },
+    {
+      "title": "4.9 Literatur",
+      "authors": [],
+      "printed_page_number": "79",
+      "skip": true
+    },
+    {
+      "title": "5 Aufbau einer genesungsorientierten Beziehung zu Menschen mit Essstörungen",
+      "authors": [
+        "Harriet Parsons",
+        "Kielty Oberlin"
+      ],
+      "printed_page_number": "83",
+      "skip": false
+    },
+    {
+      "title": "5.1 Einleitung",
+      "authors": [],
+      "printed_page_number": "84",
+      "skip": true
+    },
+    {
+      "title": "5.2 Lernziele",
+      "authors": [],
+      "printed_page_number": "84",
+      "skip": true
+    },
+    {
+      "title": "5.3 Was es bedeutet, mit einer Essstörung zu leben",
+      "authors": [],
+      "printed_page_number": "84",
+      "skip": true
+    },
+    {
+      "title": "5.4 Verstehen, wie eine Person mit Essstörung denkt",
+      "authors": [],
+      "printed_page_number": "85",
+      "skip": true
+    },
+    {
+      "title": "5.4.1 Verzerrtes Denken",
+      "authors": [],
+      "printed_page_number": "85",
+      "skip": true
+    },
+    {
+      "title": "5.4.2 Perfektionistische Tendenzen",
+      "authors": [],
+      "printed_page_number": "85",
+      "skip": true
+    },
+    {
+      "title": "5.4.3 Polarisiertes Denken",
+      "authors": [],
+      "printed_page_number": "86",
+      "skip": true
+    },
+    {
+      "title": "5.5 Verstehen, wie eine Person mit Essstörung fühlt",
+      "authors": [],
+      "printed_page_number": "86",
+      "skip": true
+    },
+    {
+      "title": "5.5.1 Sensibilität",
+      "authors": [],
+      "printed_page_number": "87",
+      "skip": true
+    },
+    {
+      "title": "5.5.2 Selbstkritik",
+      "authors": [],
+      "printed_page_number": "87",
+      "skip": true
+    },
+    {
+      "title": "5.5.3 Keine Akzeptanz von Mitgefühl für die eigene Person",
+      "authors": [],
+      "printed_page_number": "88",
+      "skip": true
+    },
+    {
+      "title": "5.6 Aufbau einer unterstützenden zwischenmenschlichen Beziehung",
+      "authors": [],
+      "printed_page_number": "90",
+      "skip": true
+    },
+    {
+      "title": "5.6.1 Entscheidende Elemente für eine unterstützende Beziehung zu Menschen mit Essstörungen",
+      "authors": [],
+      "printed_page_number": "91",
+      "skip": true
+    },
+    {
+      "title": "5.6.2 Empathie",
+      "authors": [],
+      "printed_page_number": "92",
+      "skip": true
+    },
+    {
+      "title": "5.6.3 Sympathie und Lob – zwei Seiten derselben Medaille",
+      "authors": [],
+      "printed_page_number": "92",
+      "skip": true
+    },
+    {
+      "title": "5.6.4 Strukturierung von Gesprächen",
+      "authors": [],
+      "printed_page_number": "93",
+      "skip": true
+    },
+    {
+      "title": "5.7 Herausforderungen in Beziehungen zu Menschen mit Essstörungen",
+      "authors": [],
+      "printed_page_number": "98",
+      "skip": true
+    },
+    {
+      "title": "5.7.1 Umgang mit Uneinsichtigkeit",
+      "authors": [],
+      "printed_page_number": "98",
+      "skip": true
+    },
+    {
+      "title": "5.7.2 Umgang mit der eigenen Unsicherheit",
+      "authors": [],
+      "printed_page_number": "99",
+      "skip": true
+    },
+    {
+      "title": "5.7.3 Eigene Ängste",
+      "authors": [],
+      "printed_page_number": "100",
+      "skip": true
+    },
+    {
+      "title": "5.7.4 Der Weg ist das Ziel",
+      "authors": [],
+      "printed_page_number": "100",
+      "skip": true
+    },
+    {
+      "title": "5.8 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "101",
+      "skip": true
+    },
+    {
+      "title": "5.9 Literatur",
+      "authors": [],
+      "printed_page_number": "101",
+      "skip": true
+    },
+    {
+      "title": "6 Essstörungen und Komorbidität im Genesungsprozess",
+      "authors": [
+        "Kielty Oberlin"
+      ],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "6.1 Einleitung",
+      "authors": [],
+      "printed_page_number": "104",
+      "skip": true
+    },
+    {
+      "title": "6.2 Lernziele",
+      "authors": [],
+      "printed_page_number": "104",
+      "skip": true
+    },
+    {
+      "title": "6.3 Komorbidität bei Essstörungen verstehen",
+      "authors": [],
+      "printed_page_number": "104",
+      "skip": true
+    },
+    {
+      "title": "6.4 Häufige psychische Erkrankungen bei Essstörungen",
+      "authors": [],
+      "printed_page_number": "105",
+      "skip": true
+    },
+    {
+      "title": "6.5 Die Beziehung zwischen Komorbidität und Essstörungen",
+      "authors": [],
+      "printed_page_number": "112",
+      "skip": true
+    },
+    {
+      "title": "6.5.1 Entwicklung von Komorbidität",
+      "authors": [],
+      "printed_page_number": "112",
+      "skip": true
+    },
+    {
+      "title": "6.5.2 Essstörungen als Sekundärerkrankung",
+      "authors": [],
+      "printed_page_number": "112",
+      "skip": true
+    },
+    {
+      "title": "6.5.3 Aufrechterhaltung von maladaptiven Verhaltensmustern",
+      "authors": [],
+      "printed_page_number": "113",
+      "skip": true
+    },
+    {
+      "title": "6.5.4 Wann ist das Risiko für Essstörungen und Komorbidität am höchsten?",
+      "authors": [],
+      "printed_page_number": "114",
+      "skip": true
+    },
+    {
+      "title": "6.5.5 Komorbidität im Prozess der Genesung einer Essstörung",
+      "authors": [],
+      "printed_page_number": "115",
+      "skip": true
+    },
+    {
+      "title": "6.6 Empfehlungen zur Behandlung von Essstörungen und Komorbidität",
+      "authors": [],
+      "printed_page_number": "116",
+      "skip": true
+    },
+    {
+      "title": "6.6.1 Diagnose von Komorbidität",
+      "authors": [],
+      "printed_page_number": "117",
+      "skip": true
+    },
+    {
+      "title": "6.6.2 Hinweise zur Diagnose von Komorbidität bei gestörtem Ess- und Purging-Verhalten",
+      "authors": [],
+      "printed_page_number": "118",
+      "skip": true
+    },
+    {
+      "title": "6.6.3 Hinweise zur Reihenfolge der Behandlung von Komorbidität und Essstörung",
+      "authors": [],
+      "printed_page_number": "118",
+      "skip": true
+    },
+    {
+      "title": "6.6.4 Auswirkungen mehrerer psychiatrischer Diagnosen auf die Person",
+      "authors": [],
+      "printed_page_number": "119",
+      "skip": true
+    },
+    {
+      "title": "6.7 Reaktionen von Praktizierenden auf Komorbidität",
+      "authors": [],
+      "printed_page_number": "120",
+      "skip": true
+    },
+    {
+      "title": "6.7.1 Herausforderungen für Praktizierende aller Gesundheitsfachbereiche",
+      "authors": [],
+      "printed_page_number": "120",
+      "skip": true
+    },
+    {
+      "title": "6.7.2 Spezielle Schulungen im Bereich von Essstörungen und Komorbidität",
+      "authors": [],
+      "printed_page_number": "121",
+      "skip": true
+    },
+    {
+      "title": "6.8 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "121",
+      "skip": true
+    },
+    {
+      "title": "6.9 Literatur",
+      "authors": [],
+      "printed_page_number": "122",
+      "skip": true
+    },
+    {
+      "title": "7 Klinische Begutachtung von Personen mit Essstörungen",
+      "authors": [
+        "Fiona McNicholas",
+        "Sara McDevitt"
+      ],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "7.1 Einleitung",
+      "authors": [],
+      "printed_page_number": "126",
+      "skip": true
+    },
+    {
+      "title": "7.2 Lernziele",
+      "authors": [],
+      "printed_page_number": "126",
+      "skip": true
+    },
+    {
+      "title": "7.3 Zweck der klinischen Begutachtung",
+      "authors": [],
+      "printed_page_number": "126",
+      "skip": true
+    },
+    {
+      "title": "7.4 Grundsätze zur Durchführung der klinischen Begutachtung",
+      "authors": [],
+      "printed_page_number": "127",
+      "skip": true
+    },
+    {
+      "title": "7.4.1 Die Person zur Teilnahme ermutigen",
+      "authors": [],
+      "printed_page_number": "128",
+      "skip": true
+    },
+    {
+      "title": "7.4.2 Eine vertrauensvolle Beziehung herstellen",
+      "authors": [],
+      "printed_page_number": "128",
+      "skip": true
+    },
+    {
+      "title": "7.4.3 Angehörige einbinden",
+      "authors": [],
+      "printed_page_number": "129",
+      "skip": true
+    },
+    {
+      "title": "7.4.4 Vertraulichkeit wahren",
+      "authors": [],
+      "printed_page_number": "129",
+      "skip": true
+    },
+    {
+      "title": "7.4.5 Informationen sammeln",
+      "authors": [],
+      "printed_page_number": "130",
+      "skip": true
+    },
+    {
+      "title": "7.4.6 Balance zwischen der Autonomie erwachsener Personen und dem klinischen Risiko wahren",
+      "authors": [],
+      "printed_page_number": "130",
+      "skip": true
+    },
+    {
+      "title": "7.5 Klinische Begutachtung von Menschen mit Essstörungen: Beurteilung der PFZU-Bereiche",
+      "authors": [],
+      "printed_page_number": "131",
+      "skip": true
+    },
+    {
+      "title": "7.5.1 Beurteilung der psychopathologischen Symptome der Person",
+      "authors": [],
+      "printed_page_number": "131",
+      "skip": true
+    },
+    {
+      "title": "7.5.2 Beurteilung der familiären Situation",
+      "authors": [],
+      "printed_page_number": "133",
+      "skip": true
+    },
+    {
+      "title": "7.5.3 Beurteilung des körperlichen Zustands",
+      "authors": [],
+      "printed_page_number": "134",
+      "skip": true
+    },
+    {
+      "title": "7.5.4 Beurteilung des sozialen Umfelds",
+      "authors": [],
+      "printed_page_number": "137",
+      "skip": true
+    },
+    {
+      "title": "7.6 Weitere Beurteilungsinstrumente",
+      "authors": [],
+      "printed_page_number": "139",
+      "skip": true
+    },
+    {
+      "title": "7.7 Fallbeispiel Jane und klinische Begutachtung",
+      "authors": [],
+      "printed_page_number": "143",
+      "skip": true
+    },
+    {
+      "title": "7.7.1 Beurteilung der psychopathologischen Symptome der Person",
+      "authors": [],
+      "printed_page_number": "143",
+      "skip": true
+    },
+    {
+      "title": "7.7.2 Beurteilung der familiären Situation",
+      "authors": [],
+      "printed_page_number": "144",
+      "skip": true
+    },
+    {
+      "title": "7.7.3 Beurteilung des körperlichen Zustands",
+      "authors": [],
+      "printed_page_number": "144",
+      "skip": true
+    },
+    {
+      "title": "7.7.4 Beurteilung des sozialen Umfelds",
+      "authors": [],
+      "printed_page_number": "145",
+      "skip": true
+    },
+    {
+      "title": "7.7.5 Diagnose und Therapieempfehlung",
+      "authors": [],
+      "printed_page_number": "145",
+      "skip": true
+    },
+    {
+      "title": "7.8 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "146",
+      "skip": true
+    },
+    {
+      "title": "7.9 Literatur",
+      "authors": [],
+      "printed_page_number": "147",
+      "skip": true
+    },
+    {
+      "title": "8 Behandlung und Genesung bei Essstörungen",
+      "authors": [
+        "Sara McDevitt",
+        "Fiona McNicholas"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "8.1 Einleitung",
+      "authors": [],
+      "printed_page_number": "150",
+      "skip": true
+    },
+    {
+      "title": "8.2 Lernziele",
+      "authors": [],
+      "printed_page_number": "150",
+      "skip": true
+    },
+    {
+      "title": "8.3 Grundsätze bei der Erstellung eines Therapieplans",
+      "authors": [],
+      "printed_page_number": "151",
+      "skip": true
+    },
+    {
+      "title": "8.3.1 Ein multidisziplinärer Ansatz",
+      "authors": [],
+      "printed_page_number": "151",
+      "skip": true
+    },
+    {
+      "title": "8.4 Modelle und Methoden zur Behandlung von Essstörungen",
+      "authors": [],
+      "printed_page_number": "153",
+      "skip": true
+    },
+    {
+      "title": "8.4.1 Biologische Aspekte des Behandlungsplans",
+      "authors": [],
+      "printed_page_number": "153",
+      "skip": true
+    },
+    {
+      "title": "8.4.2 Psychologische Aspekte des Behandlungsplans",
+      "authors": [],
+      "printed_page_number": "153",
+      "skip": true
+    },
+    {
+      "title": "8.4.3 Soziale Aspekte des Behandlungsplans",
+      "authors": [],
+      "printed_page_number": "154",
+      "skip": true
+    },
+    {
+      "title": "8.5 Einbindung der Person in den Behandlungsplan",
+      "authors": [],
+      "printed_page_number": "154",
+      "skip": true
+    },
+    {
+      "title": "8.6 Therapieplanung",
+      "authors": [],
+      "printed_page_number": "155",
+      "skip": true
+    },
+    {
+      "title": "8.6.1 Medizinische Aspekte der Behandlung von Essstörungen",
+      "authors": [],
+      "printed_page_number": "155",
+      "skip": true
+    },
+    {
+      "title": "8.6.2 Management des Kostaufbaus",
+      "authors": [],
+      "printed_page_number": "155",
+      "skip": true
+    },
+    {
+      "title": "8.7 Refeeding-Syndrom",
+      "authors": [],
+      "printed_page_number": "156",
+      "skip": true
+    },
+    {
+      "title": "8.8 Psychosoziale Methoden zur Behandlung von Essstörungen bei Erwachsenen",
+      "authors": [],
+      "printed_page_number": "159",
+      "skip": true
+    },
+    {
+      "title": "8.8.1 Anorexia nervosa",
+      "authors": [],
+      "printed_page_number": "159",
+      "skip": true
+    },
+    {
+      "title": "8.8.2 Bulimia nervosa und Binge-Eating-Störung",
+      "authors": [],
+      "printed_page_number": "161",
+      "skip": true
+    },
+    {
+      "title": "8.8.3 Störung mit Vermeidung oder Einschränkung der Nahrungsaufnahme (ARFID)",
+      "authors": [],
+      "printed_page_number": "161",
+      "skip": true
+    },
+    {
+      "title": "8.9 Medikamentöse Behandlung von Essstörungen bei Erwachsenen",
+      "authors": [],
+      "printed_page_number": "161",
+      "skip": true
+    },
+    {
+      "title": "8.10 Psychosoziale Methoden zur Behandlung von Essstörungen bei Kindern und Jugendlichen",
+      "authors": [],
+      "printed_page_number": "162",
+      "skip": true
+    },
+    {
+      "title": "8.10.1 Anorexia nervosa",
+      "authors": [],
+      "printed_page_number": "162",
+      "skip": true
+    },
+    {
+      "title": "8.10.2 Bulimia nervosa",
+      "authors": [],
+      "printed_page_number": "164",
+      "skip": true
+    },
+    {
+      "title": "8.10.3 Binge-Eating-Störung",
+      "authors": [],
+      "printed_page_number": "164",
+      "skip": true
+    },
+    {
+      "title": "8.10.4 Störung mit Vermeidung oder Einschränkung der Nahrungsaufnahme (ARFID)",
+      "authors": [],
+      "printed_page_number": "166",
+      "skip": true
+    },
+    {
+      "title": "8.11 Medikamentöse Behandlung von Essstörungen bei Kindern und Jugendlichen",
+      "authors": [],
+      "printed_page_number": "166",
+      "skip": true
+    },
+    {
+      "title": "8.12 Behandlung von Komorbidität",
+      "authors": [],
+      "printed_page_number": "167",
+      "skip": true
+    },
+    {
+      "title": "8.12.1 Psychische Komorbidität",
+      "authors": [],
+      "printed_page_number": "167",
+      "skip": true
+    },
+    {
+      "title": "8.12.2 Medizinische Komorbidität",
+      "authors": [],
+      "printed_page_number": "167",
+      "skip": true
+    },
+    {
+      "title": "8.13 Überprüfung und Erhaltung der Fortschritte im Genesungsprozess",
+      "authors": [],
+      "printed_page_number": "167",
+      "skip": true
+    },
+    {
+      "title": "8.14 Anwendung der Theorie auf die Praxis",
+      "authors": [],
+      "printed_page_number": "170",
+      "skip": true
+    },
+    {
+      "title": "8.14.1 Hintergrund",
+      "authors": [],
+      "printed_page_number": "171",
+      "skip": true
+    },
+    {
+      "title": "8.14.2 Reflexion",
+      "authors": [],
+      "printed_page_number": "172",
+      "skip": true
+    },
+    {
+      "title": "8.15 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "174",
+      "skip": true
+    },
+    {
+      "title": "8.16 Literatur",
+      "authors": [],
+      "printed_page_number": "174",
+      "skip": true
+    },
+    {
+      "title": "9 Die Rolle von Angehörigen im Genesungsprozess einer Person mit Essstörung",
+      "authors": [
+        "Patricia O'Connor"
+      ],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "9.1 Einleitung",
+      "authors": [],
+      "printed_page_number": "178",
+      "skip": true
+    },
+    {
+      "title": "9.2 Lernziele",
+      "authors": [],
+      "printed_page_number": "178",
+      "skip": true
+    },
+    {
+      "title": "9.3 Auswirkungen der Essstörung auf andere Familienmitglieder",
+      "authors": [],
+      "printed_page_number": "178",
+      "skip": true
+    },
+    {
+      "title": "9.3.1 Psychisches Wohlbefinden von Angehörigen",
+      "authors": [],
+      "printed_page_number": "179",
+      "skip": true
+    },
+    {
+      "title": "9.3.2 Soziales Wohlbefinden von Angehörigen",
+      "authors": [],
+      "printed_page_number": "180",
+      "skip": true
+    },
+    {
+      "title": "9.3.3 Interaktion mit der Person mit Essstörung",
+      "authors": [],
+      "printed_page_number": "180",
+      "skip": true
+    },
+    {
+      "title": "9.4 Erfahrungen verschiedener Familienmitglieder im Zusammenleben mit der Person mit Essstörung",
+      "authors": [],
+      "printed_page_number": "182",
+      "skip": true
+    },
+    {
+      "title": "9.4.1 Erfahrungen von Geschwistern",
+      "authors": [],
+      "printed_page_number": "182",
+      "skip": true
+    },
+    {
+      "title": "9.4.2 Erfahrungen von Partnern",
+      "authors": [],
+      "printed_page_number": "183",
+      "skip": true
+    },
+    {
+      "title": "9.5 Schwierigkeiten von Angehörigen",
+      "authors": [],
+      "printed_page_number": "184",
+      "skip": true
+    },
+    {
+      "title": "9.6 Unterstützung von Angehörigen in ihrer Rolle als Fürsorgende",
+      "authors": [],
+      "printed_page_number": "185",
+      "skip": true
+    },
+    {
+      "title": "9.6.1 Einbindung der Familie in die Therapie",
+      "authors": [],
+      "printed_page_number": "185",
+      "skip": true
+    },
+    {
+      "title": "9.6.2 Berücksichtigung der Bedürfnisse von Angehörigen",
+      "authors": [],
+      "printed_page_number": "186",
+      "skip": true
+    },
+    {
+      "title": "9.7 Strategien zur Unterstützung des Genesungsprozesses",
+      "authors": [],
+      "printed_page_number": "187",
+      "skip": true
+    },
+    {
+      "title": "9.8 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "191",
+      "skip": true
+    },
+    {
+      "title": "9.9 Literatur",
+      "authors": [],
+      "printed_page_number": "192",
+      "skip": true
+    },
+    {
+      "title": "10 Körperbildarbeit im Kontext von Essstörungen",
+      "authors": [
+        "Gerry Butcher",
+        "Michel Probst"
+      ],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "10.1 Einleitung",
+      "authors": [],
+      "printed_page_number": "196",
+      "skip": true
+    },
+    {
+      "title": "10.2 Lernziele",
+      "authors": [],
+      "printed_page_number": "196",
+      "skip": true
+    },
+    {
+      "title": "10.3 Was bedeutet Körperbild?",
+      "authors": [],
+      "printed_page_number": "196",
+      "skip": true
+    },
+    {
+      "title": "10.4 Auswirkungen eines schlechten Körperbilds",
+      "authors": [],
+      "printed_page_number": "198",
+      "skip": true
+    },
+    {
+      "title": "10.5 Theorien zum Körperbild",
+      "authors": [],
+      "printed_page_number": "198",
+      "skip": true
+    },
+    {
+      "title": "10.6 Die „Theorie der Linsen“",
+      "authors": [],
+      "printed_page_number": "199",
+      "skip": true
+    },
+    {
+      "title": "10.7 Beurteilung und Behandlung des Körperbilds",
+      "authors": [],
+      "printed_page_number": "200",
+      "skip": true
+    },
+    {
+      "title": "10.8 Verhalten der Praktizierenden",
+      "authors": [],
+      "printed_page_number": "201",
+      "skip": true
+    },
+    {
+      "title": "10.9 Beurteilung des Körperbilds",
+      "authors": [],
+      "printed_page_number": "201",
+      "skip": true
+    },
+    {
+      "title": "10.10 Verschiedene Methoden der Körperbildtherapie",
+      "authors": [],
+      "printed_page_number": "203",
+      "skip": true
+    },
+    {
+      "title": "10.11 Körperorientierte Therapie",
+      "authors": [],
+      "printed_page_number": "204",
+      "skip": true
+    },
+    {
+      "title": "10.12 Körperbildorientierte therapeutische Maßnahmen",
+      "authors": [],
+      "printed_page_number": "206",
+      "skip": true
+    },
+    {
+      "title": "10.13 Durchführung körperbildorientierter Maßnahmen",
+      "authors": [],
+      "printed_page_number": "206",
+      "skip": true
+    },
+    {
+      "title": "10.13.1 Spiegelübung",
+      "authors": [],
+      "printed_page_number": "212",
+      "skip": true
+    },
+    {
+      "title": "10.14 Zu berücksichtigende Aspekte",
+      "authors": [],
+      "printed_page_number": "213",
+      "skip": true
+    },
+    {
+      "title": "10.15 Studienergebnisse zur körperorientierten Therapie",
+      "authors": [],
+      "printed_page_number": "213",
+      "skip": true
+    },
+    {
+      "title": "10.16 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "213",
+      "skip": true
+    },
+    {
+      "title": "10.17 Literatur",
+      "authors": [],
+      "printed_page_number": "214",
+      "skip": true
+    },
+    {
+      "title": "11 Soziale Medien und Essstörungen",
+      "authors": [
+        "Andrea LaMarre"
+      ],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "11.1 Einleitung",
+      "authors": [],
+      "printed_page_number": "218",
+      "skip": true
+    },
+    {
+      "title": "11.2 Lernziele",
+      "authors": [],
+      "printed_page_number": "218",
+      "skip": true
+    },
+    {
+      "title": "11.3 Soziale Medien und das Internet",
+      "authors": [],
+      "printed_page_number": "218",
+      "skip": true
+    },
+    {
+      "title": "11.4 Soziale Medien und Essstörungen: Risiken und Chancen",
+      "authors": [],
+      "printed_page_number": "220",
+      "skip": true
+    },
+    {
+      "title": "11.5 Soziale Medien und Unzufriedenheit mit dem eigenen Körper",
+      "authors": [],
+      "printed_page_number": "220",
+      "skip": true
+    },
+    {
+      "title": "11.5.1 Veränderung des Körperideals",
+      "authors": [],
+      "printed_page_number": "222",
+      "skip": true
+    },
+    {
+      "title": "11.5.2 Die Rolle des sozialen Vergleichs",
+      "authors": [],
+      "printed_page_number": "222",
+      "skip": true
+    },
+    {
+      "title": "11.5.3 Werbung in sozialen Medien",
+      "authors": [],
+      "printed_page_number": "223",
+      "skip": true
+    },
+    {
+      "title": "11.5.4 Reflexionspunkt",
+      "authors": [],
+      "printed_page_number": "223",
+      "skip": true
+    },
+    {
+      "title": "11.6 Einfluss von Zeit und sozialem Vergleich in sozialen Medien",
+      "authors": [],
+      "printed_page_number": "224",
+      "skip": true
+    },
+    {
+      "title": "11.7 Wirksamkeit der Zensur zur Eindämmung des Risikos",
+      "authors": [],
+      "printed_page_number": "225",
+      "skip": true
+    },
+    {
+      "title": "11.8 Entwicklung von Medienkompetenz",
+      "authors": [],
+      "printed_page_number": "225",
+      "skip": true
+    },
+    {
+      "title": "11.9 Chancen für die Behandlung und Unterstützung von Menschen mit Essstörungen",
+      "authors": [],
+      "printed_page_number": "227",
+      "skip": true
+    },
+    {
+      "title": "11.10 Integration von Technologie in die klinische Praxis",
+      "authors": [],
+      "printed_page_number": "227",
+      "skip": true
+    },
+    {
+      "title": "11.11 Unterstützung für Angehörige und Praktizierende",
+      "authors": [],
+      "printed_page_number": "228",
+      "skip": true
+    },
+    {
+      "title": "11.12 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "232",
+      "skip": true
+    },
+    {
+      "title": "11.13 Literatur",
+      "authors": [],
+      "printed_page_number": "233",
+      "skip": true
+    },
+    {
+      "title": "12 Stigmatisierung sowie ethische und rechtliche Aspekte im Kontext von Essstörungen",
+      "authors": [
+        "Jean Morrissey"
+      ],
+      "printed_page_number": "237",
+      "skip": false
+    },
+    {
+      "title": "12.1 Stigmatisierung von Essstörungen",
+      "authors": [],
+      "printed_page_number": "238",
+      "skip": true
+    },
+    {
+      "title": "12.1.1 Der Prozess der Stigmatisierung",
+      "authors": [],
+      "printed_page_number": "239",
+      "skip": true
+    },
+    {
+      "title": "12.1.2 Formen von Stigmatisierung",
+      "authors": [],
+      "printed_page_number": "239",
+      "skip": true
+    },
+    {
+      "title": "12.2 Folgen von Stigmatisierung",
+      "authors": [],
+      "printed_page_number": "242",
+      "skip": true
+    },
+    {
+      "title": "12.3 Studien zur Stigmatisierung von Essstörungen und Adipositas",
+      "authors": [],
+      "printed_page_number": "243",
+      "skip": true
+    },
+    {
+      "title": "12.3.1 Stigmatisierung des Körpergewichts",
+      "authors": [],
+      "printed_page_number": "245",
+      "skip": true
+    },
+    {
+      "title": "12.3.2 Stigmatisierung von Essstörungen durch medizinisches Personal",
+      "authors": [],
+      "printed_page_number": "245",
+      "skip": true
+    },
+    {
+      "title": "12.4 Strategien zur Entstigmatisierung von Menschen mit Essstörungen",
+      "authors": [],
+      "printed_page_number": "246",
+      "skip": true
+    },
+    {
+      "title": "12.5 Berufliche und ethische Herausforderungen",
+      "authors": [],
+      "printed_page_number": "247",
+      "skip": true
+    },
+    {
+      "title": "12.5.1 Risiken bei der Arbeit mit Menschen mit Essstörungen",
+      "authors": [],
+      "printed_page_number": "249",
+      "skip": true
+    },
+    {
+      "title": "12.6 Rechtliche Aspekte der Behandlung von Personen mit Essstörungen",
+      "authors": [],
+      "printed_page_number": "251",
+      "skip": true
+    },
+    {
+      "title": "12.7 Selbstfürsorge und berufliche Weiterentwicklung",
+      "authors": [],
+      "printed_page_number": "251",
+      "skip": true
+    },
+    {
+      "title": "12.7.1 Strategien zur Selbstfürsorge",
+      "authors": [],
+      "printed_page_number": "252",
+      "skip": true
+    },
+    {
+      "title": "12.8 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "253",
+      "skip": true
+    },
+    {
+      "title": "12.9 Literatur",
+      "authors": [],
+      "printed_page_number": "253",
+      "skip": true
+    },
+    {
+      "title": "13 Fazit",
+      "authors": [],
+      "printed_page_number": "257",
+      "skip": false
+    },
+    {
+      "title": "13.1 Kernaussagen dieses Buches",
+      "authors": [],
+      "printed_page_number": "258",
+      "skip": true
+    },
+    {
+      "title": "Klassifikation und diagnostische Kriterien von Fütter- und Essstörungen: DSM-5",
+      "authors": [],
+      "printed_page_number": "261",
+      "skip": true
+    },
+    {
+      "title": "Autoren- und Mitarbeiterverzeichnis",
+      "authors": [],
+      "printed_page_number": "267",
+      "skip": true
+    },
+    {
+      "title": "Abkürzungsverzeichnis",
+      "authors": [],
+      "printed_page_number": "270",
+      "skip": true
+    },
+    {
+      "title": "Adressen- und Linkverzeichnis",
+      "authors": [],
+      "printed_page_number": "272",
+      "skip": true
+    },
+    {
+      "title": "Body-Maß-Index",
+      "authors": [],
+      "printed_page_number": "274",
+      "skip": true
+    },
+    {
+      "title": "Sachwortverzeichnis",
+      "authors": [],
+      "printed_page_number": "275",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

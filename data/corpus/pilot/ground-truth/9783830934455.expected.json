@@ -1,0 +1,84 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": ["Jürgen Baumert"],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "1. Das Forschungsprojekt FALKO – ein einleitender Überblick",
+      "authors": ["Stefan Krauss", "Alfred Lindl", "Anita Schilcher", "Oliver Tepner"],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "2. FALKO-D: Die Untersuchung des Professionswissens von Deutschlehrenden. Entwicklung eines Messinstruments zur fachspezifischen Lehrerkompetenz und Ergebnisse zu dessen Validierung",
+      "authors": ["Markus Pissarek", "Anita Schilcher"],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "3. FALKO-E: Fachspezifisches professionelles Wissen von Englischlehrkräften\nEntwicklung und Validierung eines domänenspezifischen Testinstruments",
+      "authors": ["Petra Kirchhoff"],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "artifices docendi\n4. FALKO-L: Modellierung und Messung domänenspezifischer Kompetenzen von Lateinlehrkräften",
+      "authors": ["Alfred Lindl", "Harald Kloiber"],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "5. FALKO-P: Fachspezifische Lehrerkompetenzen im Fach Physik\nEntwicklung und Validierung eines Testinstruments zur Erfassung des fachspezifischen Professionswissens von Physiklehrkräften",
+      "authors": ["Anja Schödl", "Anja Göhring"],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "6. FALKO-M: Entwicklung und Validierung eines Testinstruments zum domänenspezifischen Professionswissen von Musiklehrkräften",
+      "authors": ["Gabriele Puffer", "Bernhard Hofmann"],
+      "printed_page_number": "245",
+      "skip": false
+    },
+    {
+      "title": "7. FALKO-R: Professionswissen von Religionslehrkräften\nEntwicklung eines Messinstruments zur fachspezifischen Lehrerkompetenz",
+      "authors": ["Michael Fricke"],
+      "printed_page_number": "291",
+      "skip": false
+    },
+    {
+      "title": "8. FALKO-PA: Ein Instrument aus flexibel einsetzbaren Vignetten zur Erfassung pädagogischer Kompetenzen",
+      "authors": ["Regina H. Mulder", "Susanne Sauer", "Franziska Kempka"],
+      "printed_page_number": "337",
+      "skip": false
+    },
+    {
+      "title": "9. Transdisziplinäre Perspektiven auf domänenspezifische Lehrerkompetenzen\nEine Metaanalyse zentraler Resultate des Forschungsprojektes FALKO",
+      "authors": ["Alfred Lindl", "Stefan Krauss"],
+      "printed_page_number": "381",
+      "skip": false
+    },
+    {
+      "title": "10. Ausblick – Aus FALKO wird FALKE\nFachspezifische Lehrerkompetenz im Erklären",
+      "authors": ["Anita Schilcher", "Stefan Krauss", "Karsten Rincke", "Sven Hilbert"],
+      "printed_page_number": "439",
+      "skip": false
+    },
+    {
+      "title": "Verzeichnis der Autorinnen und Autoren",
+      "authors": [],
+      "printed_page_number": "453",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

@@ -1,0 +1,72 @@
+{
+  "entries": [
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Einleitung – Sozialdividende, beim Wort genommen",
+      "authors": ["Diethelm Klesczewski"],
+      "printed_page_number": "9",
+      "skip": false
+    },
+    {
+      "title": "Zur gegenwärtigen politischen Debatte über ein unbedingtes Grundeinkommen",
+      "authors": ["Benjamin-Immanuel Hoff"],
+      "printed_page_number": "35",
+      "skip": false
+    },
+    {
+      "title": "Eigentum als Gegenstand der politischen Theorie und Ideengeschichte",
+      "authors": ["Manfred Brocker"],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "Diskussionsbericht Themenbereich A – »Gemeinbesitzidee und Eigentumsbegründung«",
+      "authors": ["Bettina Engewald", "Magdalena Fricke"],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Eigentumsrechte und dynamische Wertschöpfung in der Marktwirtschaft – Ist der »Kapitalismus« ein System zur »Ausbeutung« der Unternehmen?",
+      "authors": ["Ingo Pies"],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "Diskussionsbericht zum Themenkreis B – »Eigentum und Teilhabe in der Marktwirtschaft«",
+      "authors": ["Lukas von Gierke"],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "Der Sozialstaat – Von der Betreuung systemnotwendiger Wechselfälle der Lohnarbeit und ihrer unangenehmen Verlaufsform",
+      "authors": ["Marek Schauer"],
+      "printed_page_number": "97",
+      "skip": false
+    },
+    {
+      "title": "Diskussionsbericht zum Themenbereich C – »Prekäre Grundsicherung im Sozialstaat«",
+      "authors": ["Kenny Wolff"],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "Die Rechtswidrigkeit des bedingungslosen Grundeinkommens",
+      "authors": ["Gerald Süchting"],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "Diskussionsbericht zum Themenbereich D – »Teilhabe und Eigentumsgarantie«",
+      "authors": ["Norman Jäckel", "Clemens Richter"],
+      "printed_page_number": "133",
+      "skip": false
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

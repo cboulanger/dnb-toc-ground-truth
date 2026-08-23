@@ -1,0 +1,33 @@
+{
+  "entries": [
+    {"title": "Abkürzungsverzeichnis", "authors": [], "printed_page_number": "6", "skip": true},
+    {"title": "Autor:innen der Kapitel", "authors": [], "printed_page_number": "7", "skip": true},
+    {"title": "Vorwort", "authors": [], "printed_page_number": "9", "skip": true},
+    {"title": "Teil A: Rahmenbedingungen der Kinder- und Jugendhilfe", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "1. Aufwachsen in Deutschland – Rahmenbedingungen der Kinder- und Jugendhilfe", "authors": [], "printed_page_number": "11", "skip": false},
+    {"title": "2. Kinder- und Jugendhilfe im Überblick", "authors": [], "printed_page_number": "29", "skip": false},
+    {"title": "Teil B: Arbeitsfelder der Kinder- und Jugendhilfe", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "3. Kindertagesbetreuung bis zum Schuleintritt (§§ 22 bis 24 SGB VIII)", "authors": [], "printed_page_number": "51", "skip": false},
+    {"title": "4. Grundschulkinder in Hortangeboten (§ 24 Abs. 4 SGB VIII)", "authors": [], "printed_page_number": "73", "skip": false},
+    {"title": "5. Hilfen zur Erziehung (§§ 27 bis 35, 41 SGB VIII)", "authors": [], "printed_page_number": "89", "skip": false},
+    {"title": "6. Eingliederungshilfen (SGB VIII/SGB IX)", "authors": [], "printed_page_number": "115", "skip": false},
+    {"title": "7. Kinder- und Jugendarbeit (§ 11 SGB VIII)", "authors": [], "printed_page_number": "145", "skip": false},
+    {"title": "8. Jugendsozialarbeit (§§ 13, 13a SGB VIII)", "authors": [], "printed_page_number": "165", "skip": false},
+    {"title": "Teil C: Weitere Aufgabenbereiche der Kinder- und Jugendhilfe", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "9. Gefährdungseinschätzungen zum Schutz von Kindern und Jugendlichen (§ 8a SGB VIII)", "authors": [], "printed_page_number": "179", "skip": false},
+    {"title": "10. Inobhutnahmen (§ 42 SGB VIII)", "authors": [], "printed_page_number": "193", "skip": false},
+    {"title": "11. Amtsvormundschaften, Amtspflegschaften, Beistandschaften (§ 55 SGB VIII)", "authors": [], "printed_page_number": "203", "skip": false},
+    {"title": "12. Adoptionen", "authors": [], "printed_page_number": "213", "skip": false},
+    {"title": "Teil D: Kommunale Jugendämter und Allgemeiner Sozialer Dienst", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "13. Jugendämter", "authors": [], "printed_page_number": "223", "skip": false},
+    {"title": "14. Allgemeiner Sozialer Dienst", "authors": [], "printed_page_number": "235", "skip": false},
+    {"title": "Teil E: Schwerpunkt: Fachkräftemangel in der Kinder- und Jugendhilfe", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "15. Die Fachkräftemisere. Zur aktuellen Lage und Zukunft in der Kinder- und Jugendhilfe", "authors": [], "printed_page_number": "243", "skip": false},
+    {"title": "Anhang", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Literatur", "authors": [], "printed_page_number": "281", "skip": true},
+    {"title": "Verzeichnis der verwendeten Statistiken", "authors": [], "printed_page_number": "291", "skip": true},
+    {"title": "Autor:innen", "authors": [], "printed_page_number": "292", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

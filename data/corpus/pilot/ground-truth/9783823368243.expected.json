@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {"title": "Einführung", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Wozu Sprachmittlung? Zum fremdsprachendidaktischen Potenzial einer komplexen Kompetenz", "authors": ["Andrea Rössler", "Daniel Reimann"], "printed_page_number": "11", "skip": false},
+    {"title": "Sprachmittlung im Fremdsprachenunterricht. Konzeptionelle Grundlagen", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Sprachmittlung als kommunikative Situation. Eine Aufgabentypologie als Anstoß zur Weiterentwicklung eines Sprachmittlungsmodells", "authors": ["Daniela Caspari"], "printed_page_number": "27", "skip": false},
+    {"title": "Was ist eine sinnvolle Sprachmittlungsaufgabe? Ein Instrument zur Evaluation und Erstellung von Aufgaben für den Fremdsprachenunterricht", "authors": ["Alexander Pfeiffer"], "printed_page_number": "44", "skip": false},
+    {"title": "Sprachmittlung in alltagsweltlicher Kommunikation. Eine komplexe Herausforderung für Fremdsprachenlehrer und -lerner", "authors": ["Inez De Florio-Hansen"], "printed_page_number": "65", "skip": false},
+    {"title": "Eine translationswissenschaftliche Sicht auf Sprachmittlung im Fremdsprachenunterricht", "authors": ["Carsten Sinner", "Katharina Wieland"], "printed_page_number": "93", "skip": false},
+    {"title": "Empirische Befunde zur Sprachmittlung im Fremdsprachenunterricht", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Aufgabenformate zur Sprachmittlung in Französisch- und Spanischlehrwerken seit den 1980er Jahren", "authors": ["Christiane Fäcke"], "printed_page_number": "117", "skip": false},
+    {"title": "»Bei der Sprachmittlung schwebt man stets zwischen zwei Sprachen«. Einschätzung von Sprachmittlungsaufgaben durch Italienischlehrende und Stand der Aufgabenentwicklung", "authors": ["Wiebke Otten"], "printed_page_number": "131", "skip": false},
+    {"title": "Sprachmittlung und interkulturelle Kompetenz in empirischer Perspektive", "authors": ["Birgit Schädlich", "Friederike Ramisch"], "printed_page_number": "153", "skip": false},
+    {"title": "Sprachmittlung in verschiedenen Phasen des Fremdsprachenunterrichts", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Sprachmittlung im Anfangsunterricht am Beispiel des Französischen. Frühe Strategie- und Kompetenzentwicklung", "authors": ["Christine Michler"], "printed_page_number": "169", "skip": false},
+    {"title": "Schriftliche Sprachmittlung im Abitur Französisch. Eine Aufgabe mit Anspruch", "authors": ["Heide Schrader"], "printed_page_number": "184", "skip": false},
+    {"title": "Evaluation mündlicher Sprachmittlungskompetenz. Entwicklung von Deskriptoren auf translationswissenschaftlicher Grundlage", "authors": ["Daniel Reimann"], "printed_page_number": "194", "skip": false},
+    {"title": "Sprachmittlung und ihre Potentiale für die Weiterentwicklung des Fremdsprachenunterrichts – Fallstudien aus translationswissenschaftlicher und fremdsprachendidaktischer Perspektive", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Zum Stellenwert der audiovisuellen Translation in der Fremdsprachendidaktik am Beispiel der interlingualen Untertitelung Französisch-Deutsch", "authors": ["Ramona Schröpf"], "printed_page_number": "229", "skip": false},
+    {"title": "Sprachmittlung zwischen romanischen Sprachen als Bestandteil einer praxisorientierten Mehrsprachigkeitsdidaktik", "authors": ["Claire-Marie Jeske"], "printed_page_number": "244", "skip": false},
+    {"title": "Wortschatzlernen als Vorbereitung auf Sprachmittlungsaufgaben. Lexemkombinationen und kontrastive Wortschatzdidaktik im mehrsprachigen Unterricht", "authors": ["Christine Konecny", "Carmen Konzett"], "printed_page_number": "261", "skip": false},
+    {"title": "Kulturbasiertes Übersetzen im Italienischunterricht. Vom wörtlichen Übersetzen zur Sprach- und Kulturmittlung", "authors": ["Alexandra Krause"], "printed_page_number": "281", "skip": false}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

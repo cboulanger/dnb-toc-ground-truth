@@ -1,0 +1,144 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Einleitung: Zur Aktualität von Literaturpreisen und Literaturpreisforschung",
+      "authors": ["Dennis Borghardt", "Sarah Maaß", "Alexandra Pontzen"],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Werkstattbericht I: Round-Table-Diskussion zu Literaturpreisen im gegenwärtigen Kulturbetrieb",
+      "authors": [],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Werkstattbericht II: Autorenbefragung zur Rolle und Relevanz von Literaturpreisen",
+      "authors": [],
+      "printed_page_number": "32",
+      "skip": false
+    },
+    {
+      "title": "I. Historische Paradigmen und Entwicklungen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Literarische Prämierungen in der Antike",
+      "authors": ["Dennis Borghardt"],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "Der Dichter und sein Henker\nLiteraturwettstreit und Literaturpreise bis zum Spätmittelalter",
+      "authors": ["Martin Schubert"],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Herrschaft und Dichterlob\nSchlaglichter auf eine Problemkonstellation von der frühneuzeitlichen Auszeichnungskultur bis zu den ersten deutschen Literaturpreisen",
+      "authors": ["Jörg Wesche"],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Sozialistischer Wettbewerb? Literaturpreise in der DDR",
+      "authors": ["Hannes Krauss"],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "II. Theorie: Modelle und Funktionen von Literaturpreisen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Valuierung und Valorisierung: Literaturpreise zwischen eigener und fremder Wertung",
+      "authors": ["Michael Hutter"],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "Zur kulturökonomischen Struktur von Literaturpreisen",
+      "authors": ["Burckhard Dücker"],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "Trianguläre Konsekrationsprozesse\nGabe und Gegengabe am Beispiel des Thomas-Mann-Preises",
+      "authors": ["Nick Cichon"],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Literarische Wertung und heterarchische Valorierung\nÜberlegungen zur Modellierung der Literaturpreislandschaft",
+      "authors": ["Sarah Maaß"],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "III. Politiken und Ökonomien: Literaturpreise in der Praxis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Literaturpreise im Kontext individueller Kulturförderung",
+      "authors": ["Andreas Joh. Wiesand"],
+      "printed_page_number": "165",
+      "skip": false
+    },
+    {
+      "title": "Europäische Integration, Legitimation und Literaturpreise – Grenzen und Potentiale ‚europäischer‘ Literaturpreise",
+      "authors": ["Anna Schoon"],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "Der E.T.A. Hoffmann-Preis der Stadt Bamberg 1989–2018\nEine systematische Analyse der Preisverleihungen eines Autor- und Stadtpreises",
+      "authors": ["Anna Christina Köbrich"],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "Und machet zu Lesern ...!\nDer Deutsche Buchpreis zwischen Marketing und Mission. Ein Praxisbericht",
+      "authors": ["Torsten Casimir"],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "Wie repräsentiert man Diversität?\nDer Preis der Hotlist und seine kulturpolitische Strategie",
+      "authors": ["Leon Huff"],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "Literaturpreise im Selfpublishing, Social Reading und der Autor als Unternehmer",
+      "authors": ["Birthe Kolb"],
+      "printed_page_number": "261",
+      "skip": false
+    },
+    {
+      "title": "Zur Akkumulationslogik der Anerkennung\nAuszeichnungsökonomien im Literaturbetrieb der Gegenwart",
+      "authors": ["Carolin Amlinger"],
+      "printed_page_number": "277",
+      "skip": false
+    },
+    {
+      "title": "AutorInnen und Beteiligte",
+      "authors": [],
+      "printed_page_number": "299",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

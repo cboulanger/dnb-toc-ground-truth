@@ -1,0 +1,32 @@
+{
+  "entries": [
+    {"title": "Inhalt", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Zeitkritische Medien im Kontext von Wahrnehmung, Kommunikation und Ästhetik. Eine Einleitung", "authors": ["Axel Volmar"], "printed_page_number": "9", "skip": false},
+    {"title": "Die Frage nach dem Zeitkritischen", "authors": ["Wolfgang Ernst"], "printed_page_number": "27", "skip": false},
+    {"title": "I. Intervall und Wirklichkeit – mikrotemporale Mediendramaturgien", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Welche Auffassung der lebenden Natur ist die richtige? und wie ist diese Auffassung auf die Entomologie anzuwenden?", "authors": ["Karl Ernst von Baer"], "printed_page_number": "45", "skip": false},
+    {"title": "Der dritte Ort des Wissens. Das Gedankenexperiment und die kybernetischen Grundlagen des Erhabenen", "authors": ["Stefan Rieger"], "printed_page_number": "61", "skip": false},
+    {"title": "ZeitSchriften. Von einer Revolution der Experimentalkultur im 19. Jahrhundert", "authors": ["Christof Windgätter"], "printed_page_number": "81", "skip": false},
+    {"title": "Zeitkritische Bilder. Bergsons Bildphilosophie zwischen Topologie und Fernsehen", "authors": ["Christina Vagt"], "printed_page_number": "105", "skip": false},
+    {"title": "Bitmapped Graphics.", "authors": ["Peter Berz"], "printed_page_number": "127", "skip": false},
+    {"title": "Blitz und Serie – Ereignis und Donner", "authors": ["Friedrich Kittler"], "printed_page_number": "155", "skip": false},
+    {"title": "A momentary flash. Kurze Anmerkung zu sehr kurzen Lichtblitzen", "authors": ["Jens Schröter"], "printed_page_number": "167", "skip": false},
+    {"title": "II. Temporale Architekturen, Rechtzeitigkeit und die Chronologistik der Kommunikation", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Rechnen mit der Zeit, Rechnen gegen die Zeit. F.X. von Zachs »Archiv der Beobachtungen« und C.F. Gauß' Rechnung per rückkehrender Post (1800–1802)", "authors": ["Maarten Bullynck"], "printed_page_number": "177", "skip": false},
+    {"title": "Das Rechtzeitige. Doppelte Extension und formales Experiment", "authors": ["Julian Rohrhuber"], "printed_page_number": "195", "skip": false},
+    {"title": "Kanalarbeit. Das Übertragungsproblem in der Geschichte der Kommunikationstechnik und die Entstehung der Signalverarbeitung", "authors": ["Kilian Hirt", "Axel Volmar"], "printed_page_number": "213", "skip": false},
+    {"title": "Netzwerk-Zeit, Zeit der Netzwerke. Fragmente zur Datenökonomie um 1960", "authors": ["Sebastian Gießmann"], "printed_page_number": "239", "skip": false},
+    {"title": "Kollisionen. RFID und die zeitliche Logistik der Signale", "authors": ["Christoph Rosol"], "printed_page_number": "255", "skip": false},
+    {"title": "Time of Non-Reality. Miszellen zum Thema Zeit und Auflösung", "authors": ["Claus Pias"], "printed_page_number": "267", "skip": false},
+    {"title": "III. Zeitkritische Medienkultur zwischen Kunst und Wissenschaft", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Zur Mediengeschichte der Bilder. Wandel der raumzeitlichen Entwürfe", "authors": ["Götz Großklaus"], "printed_page_number": "283", "skip": false},
+    {"title": "Gegen die Zeit", "authors": ["Alexander Firyn"], "printed_page_number": "299", "skip": false},
+    {"title": "Zeit und Gedächtnis im techno-medialen Weltzeitalter. Jacques Lacans Theorie mit Chris Markers »Sans Soleil«", "authors": ["Annette Bitsch"], "printed_page_number": "307", "skip": false},
+    {"title": "Rechnen mit Licht.", "authors": ["Ana Ofak"], "printed_page_number": "331", "skip": false},
+    {"title": "Im Spiegelstadium. Carsten Höller als Bildner retinaler Kunststücke", "authors": ["Philipp von Hilgers"], "printed_page_number": "345", "skip": false},
+    {"title": "Hörgeräte. Zur Psychomathematik des akroamatischen Leibniz", "authors": ["Jens Gerrit Papenburg"], "printed_page_number": "367", "skip": false},
+    {"title": "Das Algorhythmische. Microsound an der Schwelle zwischen Klang und Rhythmus", "authors": ["Shintaro Miyazaki"], "printed_page_number": "383", "skip": false}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

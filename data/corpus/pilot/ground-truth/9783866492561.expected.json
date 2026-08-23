@@ -1,0 +1,21 @@
+{
+  "entries": [
+    {"title": "Inhaltsverzeichnis", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Einleitung: Kindliche Lebenslagen und Lebenssituationen in Pflegefamilien", "authors": ["Rita Braches-Chyrek", "Kathrin Macke", "Ingrid Wölfel"], "printed_page_number": "6", "skip": false},
+    {"title": "Beiträge", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Biografiearbeit mit Pflegekindern", "authors": ["Kathrin Macke"], "printed_page_number": "11", "skip": false},
+    {"title": "Zur Omnipräsenz des Jugendamtes in der Lebenswelt von Pflegekindern", "authors": ["Ingrid Wölfel"], "printed_page_number": "23", "skip": false},
+    {"title": "Zur Komplexität des Bedingungsgefüges öffentlicher Erziehungshilfe in privaten Pflegefamilien", "authors": ["Gaby Lenz"], "printed_page_number": "38", "skip": false},
+    {"title": "Dimensionen von Kindeswohl", "authors": ["Karl-Michael Froning"], "printed_page_number": "53", "skip": false},
+    {"title": "Ambivalente Mutterschaft", "authors": ["Rita Braches-Chyrek"], "printed_page_number": "73", "skip": false},
+    {"title": "Geschwisterbeziehungen bei Pflegekindern", "authors": ["Annegret Freiburg"], "printed_page_number": "92", "skip": false},
+    {"title": "Historischer Exkurs: Das Pflegekinderwesen in Hamburg", "authors": ["Gerd Günther"], "printed_page_number": "107", "skip": false},
+    {"title": "\"Fremdversorgung\" – eine frühe Form der Tagespflege", "authors": ["Eckart Günther", "Marie-Luise Caspar"], "printed_page_number": "116", "skip": false},
+    {"title": "Kindheitsforschung und Analyse kindlicher Lebenslagen", "authors": ["Rita Braches-Chyrek", "Heinz Sünker"], "printed_page_number": "130", "skip": false},
+    {"title": "Abschiednehmen", "authors": ["Annegret Freiburg"], "printed_page_number": "149", "skip": false},
+    {"title": "Gleiche Chancen für fremduntergebrachte Kinder?", "authors": ["Annegret Freiburg", "Kathrin Macke"], "printed_page_number": "159", "skip": false},
+    {"title": "Qualifizierung von Pflegefamilien – ein kurzes Statement", "authors": ["Ingrid Wölfel"], "printed_page_number": "167", "skip": false}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

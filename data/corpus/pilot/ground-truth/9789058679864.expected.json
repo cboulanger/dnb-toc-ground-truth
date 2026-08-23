@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {"title": "Notes about the contributors", "authors": [], "printed_page_number": "VII", "skip": true},
+    {"title": "Bartholomew of Messina, Translator at the Court of Manfred, King of Sicily", "authors": ["Pieter De Leemans"], "printed_page_number": "XI", "skip": false},
+    {"title": "Like Father, Like Son? The Life and Reign of Manfred, King of Sicily", "authors": ["Steven J. Williams"], "printed_page_number": "1", "skip": false},
+    {"title": "The Sapientia of Manfred and the Studium of Naples", "authors": ["Fulvio Delle Donne"], "printed_page_number": "31", "skip": false},
+    {"title": "Dubitauit Rex Manfridus ... King Manfred and the Determinatio Magistralis of Peter of Ireland", "authors": ["Michael W. Dunne"], "printed_page_number": "49", "skip": false},
+    {"title": "De Hebrea lingua transtulimus in Latinam: Manfred of Sicily and the pseudo-Aristotelian Liber de pomo", "authors": ["Paraskevi Kotzia"], "printed_page_number": "65", "skip": false},
+    {"title": "Fra la corte e l'università: manoscritti miniati di età manfrediana", "authors": ["Alessandra Perriccioli Saggese"], "printed_page_number": "91", "skip": false},
+    {"title": "Jewish Philosophy and Translations of Philosophical Texts into Hebrew in 13th-Century Southern Italy, Including Sicily: Some Observations", "authors": ["Mauro Zonta"], "printed_page_number": "113", "skip": false},
+    {"title": "Stephen of Messina and the Translation of Astrological Texts from Greek in the Time of Manfred", "authors": ["Charles Burnett"], "printed_page_number": "123", "skip": false},
+    {"title": "Barthélemy de Messine, traducteur du Ps.-Aristote, De mundo: la diffusion de néologismes métaphysiques, astrologiques et cosmologiques (influentia, inalterabilis) du XIIe au XIVe siècle", "authors": ["Giacinta Spinosa"], "printed_page_number": "133", "skip": false},
+    {"title": "True Colours: the Medieval Latin Translations of De Coloribus", "authors": ["Pieter Beullens"], "printed_page_number": "165", "skip": false},
+    {"title": "Revision der Translatio Bartholomaei oder Neuübersetzung? Zu dem Fragment von De coloribus des Wilhelm von Moerbeke", "authors": ["Gudrun Vuillemin-Diem"], "printed_page_number": "203", "skip": false},
+    {"title": "Le vocabulaire médical de Barthélemy de Messine et sa réception par Pietro d'Abano", "authors": ["Élisabeth Dévière"], "printed_page_number": "249", "skip": false},
+    {"title": "The Latin Versions of Pseudo-Aristotle's De signis", "authors": ["Charles Burnett"], "printed_page_number": "285", "skip": false},
+    {"title": "Facilius sit Nili Caput Invenire: Towards an Attribution and Reconstruction of the Aristotelian Treatise De inundatione Nili", "authors": ["Pieter Beullens"], "printed_page_number": "303", "skip": false},
+    {"title": "The Translation of De Principiis (Theophrastus) by Bartholomew of Messina", "authors": ["Dimitri Gutas"], "printed_page_number": "331", "skip": false},
+    {"title": "La version latine des Magna moralia par Barthélemy de Messine et son modèle grec: le ms. Wien, ÖNB, phil. gr. 315 (V)", "authors": ["Valérie Cordonier"], "printed_page_number": "337", "skip": false},
+    {"title": "Index codicum manu scriptorum", "authors": [], "printed_page_number": "383", "skip": true},
+    {"title": "Index nominum", "authors": [], "printed_page_number": "387", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

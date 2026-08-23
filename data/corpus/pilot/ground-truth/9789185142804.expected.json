@@ -1,0 +1,33 @@
+{
+  "entries": [
+    {"title": "Introduction", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Deportations, Extraditions and the Absence of Swedish Legal Proceedings Against Perpetrators of International Crimes in the Second World War", "authors": ["Mats Deland"], "printed_page_number": "15", "skip": false},
+    {"title": "Trials in Sweden, Participants in the Proceedings and other Actors", "authors": ["Mark Klamberg"], "printed_page_number": "27", "skip": false},
+    {"title": "The Objectives of the International Criminal Justice System", "authors": ["Fanny Holm"], "printed_page_number": "41", "skip": false},
+    {"title": "Jurisdiction and Immunities in Sweden When Investigating and Prosecuting International Crimes", "authors": ["Dennis Martinsson and Mark Klamberg"], "printed_page_number": "51", "skip": false},
+    {"title": "General Principles and Matters of Criminal Law", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Participation in International Crime Pursuant to Swedish and International Criminal Law – Perpetration and Accomplice Liability", "authors": ["Erik Svensson"], "printed_page_number": "79", "skip": false},
+    {"title": "The Mens Rea Element of Intent in the Context of International Criminal Trials in Sweden", "authors": ["Ebba Lekvall and Dennis Martinsson"], "printed_page_number": "99", "skip": false},
+    {"title": "Grounds for Excluding Criminal Responsibility for International Crimes under Domestic Swedish Law", "authors": ["Annika Norée and Dennis Andreev"], "printed_page_number": "131", "skip": false},
+    {"title": "Concursus Delictorum concerning Swedish Prosecution of Crimes under International Criminal Law", "authors": ["Fredrik Björklund"], "printed_page_number": "157", "skip": false},
+    {"title": "The Applicability of International Rules to the Sentencing of International Crimes in Domestic Trials: The Swedish Case", "authors": ["Axel Holmgren"], "printed_page_number": "175", "skip": false},
+    {"title": "International Crimes", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "The Evolution of Swedish Legislation on International Crimes", "authors": ["Mark Klamberg"], "printed_page_number": "205", "skip": false},
+    {"title": "Swedish Case Law on the Contextual Elements Relating to War Crimes", "authors": ["Mark Klamberg and Anna Andersson"], "printed_page_number": "217", "skip": false},
+    {"title": "Outrage upon the Personal Dignity of the Dead in International and Swedish War Crimes Legislation and Case Law", "authors": ["Anna Andersson"], "printed_page_number": "245", "skip": false},
+    {"title": "Sexual Violence and Gender-Based International Crimes in Swedish Case Law", "authors": ["Maria Sjöholm"], "printed_page_number": "281", "skip": false},
+    {"title": "The Crime of Genocide Before Swedish Courts", "authors": ["Jonas Nilsson"], "printed_page_number": "307", "skip": false},
+    {"title": "Procedural Matters", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Swedish Law and Practice on Victims of International Crimes", "authors": ["Fanny Holm"], "printed_page_number": "329", "skip": false},
+    {"title": "Structural Criminal Investigations in Sweden - Reinventing Investigations of International Crimes", "authors": ["Miriam Ingeson"], "printed_page_number": "357", "skip": false},
+    {"title": "Evidentiary Matters in the Context of Investigating and Prosecuting International Crimes in Sweden: Admissibility, Digital Evidence and Judicial Notice", "authors": ["Mark Klamberg"], "printed_page_number": "367", "skip": false},
+    {"title": "International Crimes and Exclusion from Asylum in a Swedish Context", "authors": ["Hevi Dawody Nylén"], "printed_page_number": "385", "skip": false},
+    {"title": "Comparative Outlook: Investigation and Prosecution in Scandinavia of International Crimes", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "A Norwegian Perspective on the Prosecution of International Crimes", "authors": ["Sofie A. E. Høgestøl"], "printed_page_number": "407", "skip": false},
+    {"title": "Investigation and Prosecution in Denmark of International Crimes", "authors": ["Lars Plum"], "printed_page_number": "435", "skip": false},
+    {"title": "The Criminalisation and Prosecution of International Core Crimes in Finland", "authors": ["Mikaela Heikkilä"], "printed_page_number": "457", "skip": false},
+    {"title": "Contributors", "authors": [], "printed_page_number": "479", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

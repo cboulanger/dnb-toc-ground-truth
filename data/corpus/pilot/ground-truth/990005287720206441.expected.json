@@ -1,0 +1,32 @@
+{
+  "entries": [
+    {"title": "Inhalt", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Der Beitrag Walter Hallsteins zur europäischen Integration", "authors": ["Ernst Steindorff"], "printed_page_number": "1", "skip": false},
+    {"title": "Internationalrechtliches zur Gesellschaftsfusion", "authors": ["Günther Beitzke"], "printed_page_number": "14", "skip": false},
+    {"title": "Dumping und Diskriminierung", "authors": ["Bodo Börner"], "printed_page_number": "36", "skip": false},
+    {"title": "Rechtsvereinheitlichung und internationales Privatrecht", "authors": ["Ernst von Caemmerer"], "printed_page_number": "64", "skip": false},
+    {"title": "Das politische Element in den Europäischen Gemeinschaften", "authors": ["Karl Carstens"], "printed_page_number": "96", "skip": false},
+    {"title": "Gemeines Recht und Gemeinschaftsrecht in Europa", "authors": ["Helmut Coing"], "printed_page_number": "116", "skip": false},
+    {"title": "Das Verhältnis von Kartellrecht und Recht des unlauteren Wettbewerbs im deutschen und europäischen Recht", "authors": ["Wolfgang Fikentscher"], "printed_page_number": "127", "skip": false},
+    {"title": "Zwei Probleme der Rechtsangleichung aus dem Niederlassungsrecht der Versicherungswirtschaft in der Europäischen Wirtschaftsgemeinschaft", "authors": ["Emil Frey"], "printed_page_number": "162", "skip": false},
+    {"title": "La coopération judiciaire, instrument d'édification de l'ordre juridique communautaire", "authors": ["Michel Gaudet"], "printed_page_number": "202", "skip": false},
+    {"title": "Über das Problem der Grundrechte in der Europäischen Gemeinschaft", "authors": ["Hans von der Groeben"], "printed_page_number": "226", "skip": false},
+    {"title": "Als Bundesstaat in der Gemeinschaft", "authors": ["Hans Peter Ipsen"], "printed_page_number": "248", "skip": false},
+    {"title": "Modi der Integration — Ökonomische Elemente und juristische Relevanz", "authors": ["Joseph H. Kaiser"], "printed_page_number": "266", "skip": false},
+    {"title": "Erfahrungen aus amerikanischer Rechtsangleichung", "authors": ["Heinrich Kronstein"], "printed_page_number": "275", "skip": false},
+    {"title": "Die Bindungswirkung von Urteilen des Gerichtshofes der Europäischen Gemeinschaften", "authors": ["Heinrich Matthies"], "printed_page_number": "304", "skip": false},
+    {"title": "Die Beurteilung von Unternehmenszusammenschlüssen nach Artikel 86 des Vertrages über die Europäische Wirtschaftsgemeinschaft", "authors": ["Ernst-Joachim Mestmäcker"], "printed_page_number": "322", "skip": false},
+    {"title": "Die Entstehung des Modells supranationaler und gewaltenteilender Staatenverbindungen in den Verhandlungen über den Schuman-Plan", "authors": ["Hermann Mosler"], "printed_page_number": "355", "skip": false},
+    {"title": "Zur ideengeschichtlichen Herkunft der Gemeinschaftsverfassung", "authors": ["Carl Friedrich Ophüls"], "printed_page_number": "387", "skip": false},
+    {"title": "Über den Rechtsschutz von Privatpersonen und Unternehmen in der Europäischen Wirtschaftsgemeinschaft", "authors": ["Otto Riese"], "printed_page_number": "414", "skip": false},
+    {"title": "Der Gerichtshof der Europäischen Gemeinschaften als Integrationsfaktor", "authors": ["Hans-Jürgen Schlochauer"], "printed_page_number": "431", "skip": false},
+    {"title": "Die Dienstleistungsfreiheit der Versicherungsunternehmen — zur Rechtslage innerhalb der Europäischen Wirtschaftsgemeinschaft und der Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung", "authors": ["Reimer Schmidt"], "printed_page_number": "453", "skip": false},
+    {"title": "Zur Konzeption der Rechtsangleichung in der Europäischen Wirtschaftsgemeinschaft", "authors": ["Ivo E. Schwartz"], "printed_page_number": "474", "skip": false},
+    {"title": "Zölle und mengenmäßige Beschränkungen in der Rechtsprechung des Gerichtshofes der Europäischen Gemeinschaften zum Recht der Europäischen Wirtschaftsgemeinschaft", "authors": ["Walter Strauß"], "printed_page_number": "515", "skip": false},
+    {"title": "Das Filmurheberrecht in den Plänen zur Reform der Berner Übereinkunft", "authors": ["Eugen Ulmer"], "printed_page_number": "541", "skip": false},
+    {"title": "Einige Auswirkungen des Gemeinsamen Marktes auf das internationale Privatrecht der Mitgliedstaaten", "authors": ["Konrad Zweigert"], "printed_page_number": "555", "skip": false},
+    {"title": "Verzeichnis der wissenschaftlichen Veröffentlichungen von Professor Dr. Walter Hallstein zusammengestellt von Professor Dr. Ernst Steindorff", "authors": ["Ernst Steindorff"], "printed_page_number": "570", "skip": false}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

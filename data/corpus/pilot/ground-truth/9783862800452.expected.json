@@ -1,0 +1,23 @@
+{
+  "entries": [
+    {"title": "Vorwort", "authors": [], "printed_page_number": "8", "skip": true},
+    {"title": "I Bilder, Gedanken und Dinge", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Kunst und Wissen oder: die künstlerischen Dinge und der Kopf", "authors": [], "printed_page_number": "12", "skip": false},
+    {"title": "Kunst und Recht oder: von der Kunst im Recht zum Recht als Kunst", "authors": [], "printed_page_number": "37", "skip": false},
+    {"title": "Kultur und Kommerz oder: über zwei Welten, die sich näherkommen", "authors": [], "printed_page_number": "65", "skip": false},
+    {"title": "Bauen als Kulturleistung", "authors": [], "printed_page_number": "84", "skip": false},
+    {"title": "Leonardo und die Leonardo-Welt oder: der universale Mensch als Weltbaumeister", "authors": [], "printed_page_number": "107", "skip": false},
+    {"title": "II Lebensformen", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Platon, die Liebe und was daraus wurde", "authors": [], "printed_page_number": "134", "skip": false},
+    {"title": "Jugendwahn und Altersangst oder: zur Ordnung und Unordnung der Lebensformen", "authors": [], "printed_page_number": "153", "skip": false},
+    {"title": "Europa erfinden – über die europäische Idee, die europäische Kultur und die Geisteswissenschaften", "authors": [], "printed_page_number": "181", "skip": false},
+    {"title": "Was kommt? oder: über die Kunst im Umgang mit prognostischen Neigungen", "authors": [], "printed_page_number": "204", "skip": false},
+    {"title": "Werbung oder: die Lizenz zum Lügen", "authors": [], "printed_page_number": "215", "skip": false},
+    {"title": "Bildverzeichnis", "authors": [], "printed_page_number": "221", "skip": true},
+    {"title": "Nachweise", "authors": [], "printed_page_number": "228", "skip": true},
+    {"title": "Personenregister", "authors": [], "printed_page_number": "229", "skip": true},
+    {"title": "Sachregister", "authors": [], "printed_page_number": "235", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

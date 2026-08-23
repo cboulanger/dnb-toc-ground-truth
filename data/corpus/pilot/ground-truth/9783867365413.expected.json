@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {"title": "Inhalt", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Einleitung", "authors": ["Julia Benner", "Lea Braun"], "printed_page_number": "7", "skip": false},
+    {"title": "„A beastly anachronism“: Der vielfach transformierte Merlin und der Zauber der Zeit", "authors": ["Julia Benner", "Lea Braun"], "printed_page_number": "17", "skip": false},
+    {"title": "Das Mittelalter als Lehrmeister des Lebens: Entwicklungslinien der geschichtserzählenden Kinder- und Jugendliteratur in theoretischer, historischer und systematischer Perspektive (1700 bis 1900)", "authors": ["Sebastian Schmideler"], "printed_page_number": "37", "skip": false},
+    {"title": "Die Vergangenheit ante Portas oder Zeitreisen in die Gegenwart: Kinder- und jugendliterarische Mittelalterinszenierungen des 20. und 21. Jahrhunderts", "authors": ["Gabriele von Glasenapp"], "printed_page_number": "55", "skip": false},
+    {"title": "Das Geheimnis der Farben: Über die Imagination irischer Kultur im palimpsesthaften Animationsfilm The Secret of Kells", "authors": ["Julia Benner"], "printed_page_number": "75", "skip": false},
+    {"title": "Provozierte Männlichkeit: Thors Transformationen in der Kinder- und Jugendliteratur", "authors": ["Niels Penke"], "printed_page_number": "99", "skip": false},
+    {"title": "Die Spur des Einhorns: Phantastische Tiere und woher sie kommen", "authors": ["Andreas Kraß"], "printed_page_number": "117", "skip": false},
+    {"title": "Excalibur – zur außergewöhnlichen Karriere eines Schwertes", "authors": ["Lea Braun"], "printed_page_number": "137", "skip": false},
+    {"title": "Rot und blau und nebenan: Zur raumzeitlichen Verschaltung des Erzählens in Felicitas Hoppes Iwein Löwenritter", "authors": ["Jutta Eming"], "printed_page_number": "163", "skip": false},
+    {"title": "Interview mit Torsten Poschmann: Leiter der Museumspädagogik im Braunschweigischen Landesmuseum", "authors": [], "printed_page_number": "183", "skip": false},
+    {"title": "„Davon kann man eine Menge lernen“: Mittelalterliche Stoffe und ihre Rezeptionen in der Kinder- und Jugendliteratur im Deutschunterricht", "authors": ["Detlef Goller"], "printed_page_number": "189", "skip": false},
+    {"title": "Interview mit Felicitas Hoppe", "authors": [], "printed_page_number": "207", "skip": false},
+    {"title": "Verzeichnis der Autor*innen", "authors": [], "printed_page_number": "213", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

@@ -1,0 +1,27 @@
+{
+  "entries": [
+    {"title": "Inhalt", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Diskriminierung und Antidiskriminierung: Eine Einleitung", "authors": ["Gero Bauer", "Maria Kechaja", "Sebastian Engelmann", "Lean Haug"], "printed_page_number": "7", "skip": false},
+    {"title": "1. Grundlagen der (Anti-)Diskriminierung", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Antidiskriminierung im Zusammenspiel von Beratung und Empowerment", "authors": ["Lean Haug", "Borghild Strähle", "Maria Kechaja"], "printed_page_number": "23", "skip": false},
+    {"title": "Die gesellschaftliche Funktion von Diskriminierung und Diskriminierungskritik", "authors": ["Albert Scherr"], "printed_page_number": "43", "skip": false},
+    {"title": "Sieben Eckpunkte zu unserem Verständnis von Diskriminierung", "authors": ["Maria Kechaja", "Andreas Foitzik"], "printed_page_number": "59", "skip": false},
+    {"title": "2. Räume der (Anti-)Diskriminierung", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Wissen schafft: Zur feministischen Praxis im universitären Kontext", "authors": ["Rebecca Hahn", "Anya Heise-von der Lippe", "Nicole Hirschfelder"], "printed_page_number": "79", "skip": false},
+    {"title": "Diskriminierungsschutz aktiv gestalten: Herausforderungen und Möglichkeiten für Hochschulen", "authors": ["Nathalie Schlenzka im Gespräch mit Andreas Foitzik"], "printed_page_number": "99", "skip": false},
+    {"title": "Politische Hochschuldidaktik, Queer Theory und Antidiskriminierungspraxis: Eingreifende Bemerkungen", "authors": ["Sebastian Engelmann", "Gero Bauer"], "printed_page_number": "111", "skip": false},
+    {"title": "Diskriminierung durch Algorithmen vermeiden: Analysen und Instrumente für eine demokratische digitale Gesellschaft", "authors": ["Jessica Heesen", "Karoline Reinhardt", "Laura Schelenz"], "printed_page_number": "129", "skip": false},
+    {"title": "Künstliche Intelligenz in der Medizin: Diskriminierung oder Fairness?", "authors": ["Renate Baumgartner"], "printed_page_number": "149", "skip": false},
+    {"title": "Diskriminierung als Identität? Phänomene von Un/doing Gender in der Katholischen Kirche", "authors": ["Michael Schüßler"], "printed_page_number": "165", "skip": false},
+    {"title": "Keine Trauung für alle: Die Diskriminierung gleichgeschlechtlicher Ehepaare in der Evangelischen Landeskirche in Württemberg", "authors": ["Birgit Weyel"], "printed_page_number": "183", "skip": false},
+    {"title": "3. Dimensionen der (Anti-)Diskriminierung", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Konkurrenz vs. Solidarität: Überlegungen zu den Chancen und Herausforderungen jüdisch-muslimischer Allianzen", "authors": ["Ozan Zakariya Keskinkılıç", "Armin Langer"], "printed_page_number": "201", "skip": false},
+    {"title": "»Das Transsexuellengesetz ist eine massive Menschenrechtsverletzung«: Zur institutionellen Diskriminierung von trans* Personen und den Möglichkeiten von Beratung", "authors": ["Mari Günther im Gespräch mit Barbara Stauber"], "printed_page_number": "213", "skip": false},
+    {"title": "Diskriminierung aufgrund von Behinderungen", "authors": ["Petra Flieger", "Volker Schönwiese"], "printed_page_number": "229", "skip": false},
+    {"title": "Rassismus als traumatisches Erlebnis: Implikationen für die Soziale Arbeit", "authors": ["Teresa Cersan im Gespräch mit Maria Kechaja"], "printed_page_number": "243", "skip": false},
+    {"title": "Ist Armut Diskriminierung? Ein Diskussionsbeitrag für die Soziale Arbeit", "authors": ["Lena Hezel"], "printed_page_number": "257", "skip": false},
+    {"title": "Autor*innen", "authors": [], "printed_page_number": "275", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

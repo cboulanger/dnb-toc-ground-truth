@@ -1,0 +1,17 @@
+{
+  "entries": [
+    {"title": "Einleitung – zur Idee dieses Buches", "authors": [], "printed_page_number": "7", "skip": false},
+    {"title": "Kinderarmut in Deutschland. Einführung in wichtige Aspekte des Diskurses", "authors": ["Peter Rahn"], "printed_page_number": "15", "skip": false},
+    {"title": "Kinderarmut im aktuellen Diskurs. Ein Interview mit Karl August Chassé", "authors": ["Samira Anwar", "Isabelle Deuss", "Jasmin Faßbender", "Debora Gafner"], "printed_page_number": "39", "skip": false},
+    {"title": "Kinderarmut und Migrationshintergrund – ein blinder Fleck der Armutsforschung? Ein Interview mit Carolin Butterwegge", "authors": ["Artur Dirks", "Milena Frankenberger"], "printed_page_number": "53", "skip": false},
+    {"title": "Letztendlich geht es um Gerechtigkeit als Frage der Umverteilung. Ein Interview mit Sabine Andresen", "authors": ["Samira Anwar", "Isabelle Deuss", "Jasmin Faßbender", "Debora Gafner"], "printed_page_number": "65", "skip": false},
+    {"title": "Kinderarmut in ihrer gesellschaftlichen Bedeutung – und Corona als ihr Katalysator. Ein Interview mit Michael Klundt", "authors": ["Christiane Frieg", "Nikolas Lukomski", "Jennifer Palencia"], "printed_page_number": "75", "skip": false},
+    {"title": "Kinderarmut in Kitas – wie Folgen kompensiert oder verstärkt werden. Ein Interview mit Kirsten Fuchs-Rechlin", "authors": ["Anna David", "Miriam Klein"], "printed_page_number": "87", "skip": false},
+    {"title": "Strategien der Kinderarmutsprävention. Ein Interview mit Gerda Holz", "authors": ["Fabienne Aalmans", "Anika Gaul"], "printed_page_number": "95", "skip": false},
+    {"title": "Wie Kinder mit Armut umgehen – Resilienzförderung als Konzept zur Armutsprävention. Ein Interview mit Margherita Zander", "authors": ["Leonie Lobbe", "Sandra Gitzel", "Sebastian Horn"], "printed_page_number": "111", "skip": false},
+    {"title": "Kinderarmut und Digitalisierung. Ein Interview mit Nadia Kutscher", "authors": ["Leonie Lobbe", "Sandra Gitzel", "Sebastian Horn"], "printed_page_number": "125", "skip": false},
+    {"title": "Der Kampf gegen Kinderarmut ist politischer Auftrag Sozialer Arbeit", "authors": ["Sabine Zimmermann"], "printed_page_number": "139", "skip": false}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}
