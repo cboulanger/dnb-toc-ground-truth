@@ -141,6 +141,42 @@ class TestCallWithRetry(unittest.IsolatedAsyncioTestCase):
         self.assertEqual(result, "ok")
         sleep.assert_called_once_with(20.0)
 
+    async def test_a_call_that_never_returns_is_killed_by_the_hard_wall_clock_timeout(self):
+        # A request that hangs forever (e.g. a proxy trickling keep-alive
+        # bytes so the HTTP client's own per-read timeout never fires)
+        # must still be treated as a retryable failure, not block forever.
+        # A real coroutine function (not an AsyncMock side_effect list) --
+        # AsyncMock doesn't await a coroutine OBJECT handed to it as a
+        # side_effect item, it just returns it unawaited, so it can't
+        # simulate a genuinely long-running call.
+        calls = 0
+
+        async def coro_fn():
+            nonlocal calls
+            calls += 1
+            if calls == 1:
+                await asyncio.sleep(3600)
+            return "ok"
+
+        sleep = AsyncMock()
+
+        result = await _call_with_retry(coro_fn, attempts=2, call_timeout=0.01, sleep=sleep)
+
+        self.assertEqual(result, "ok")
+        self.assertEqual(calls, 2)
+        sleep.assert_called_once_with(2.0)
+
+    async def test_hard_timeout_exhausting_all_attempts_raises_a_descriptive_timeout_error(self):
+        async def coro_fn():
+            await asyncio.sleep(3600)
+
+        sleep = AsyncMock()
+
+        with self.assertRaises(TimeoutError) as ctx:
+            await _call_with_retry(coro_fn, attempts=2, call_timeout=0.01, sleep=sleep)
+
+        self.assertIn("0s", str(ctx.exception))
+
 
 class TestBindingRateLimitWindow(unittest.TestCase):
     def test_none_when_no_headers(self):

@@ -95,8 +95,12 @@ def _retry_after_seconds(headers) -> Optional[float]:
         return None
 
 
+_CALL_TIMEOUT_DEFAULT = 450.0
+
+
 async def _call_with_retry(
-    coro_fn, attempts: int = 6, base_delay: float = 2.0, rate_limit_delay: float = 20.0, sleep=asyncio.sleep,
+    coro_fn, attempts: int = 6, base_delay: float = 2.0, rate_limit_delay: float = 20.0,
+    call_timeout: float = _CALL_TIMEOUT_DEFAULT, sleep=asyncio.sleep,
 ):
     """Exponential backoff for a non-429 failure. A 429 instead schedules
     its retry from the response's own rate-limit headers when present
@@ -111,11 +115,35 @@ async def _call_with_retry(
     time. Re-invoking the script once the daily quota actually resets
     already skips every book with a cached/decided result, so nothing
     extra is lost by not waiting inline. `sleep` is injectable so tests
-    don't actually wait."""
+    don't actually wait.
+
+    `call_timeout` is a hard WALL-CLOCK cap per attempt, independent of
+    each endpoint's own AsyncOpenAI client `timeout=` (inference.py's
+    DEFAULT_TIMEOUT, 90s). That client-level value only bounds the gap
+    between individual reads on the HTTP connection, not the request as
+    a whole -- an intervening proxy that keeps the connection alive with
+    any trickle of bytes (common in front of long-running LLM inference,
+    to stop a load balancer from killing an in-flight request) can keep
+    every individual read under the client's timeout indefinitely even
+    though the request itself never completes. Confirmed in practice on
+    2026-08-23: 11 books stuck 85+ minutes with zero errors, not a
+    pdftoppm rendering hang (both offending PDFs render standalone in
+    under a second) -- with no wall-clock cap anywhere, one such request
+    hangs the entire batch, since asyncio.gather (in _run_all) never
+    returns until every task finishes. `_CALL_TIMEOUT_DEFAULT` is
+    calibrated from this corpus's own cached `duration_seconds`: median
+    22s, p95 72s, p99 138s, observed legitimate max 344s -- 450s leaves
+    real slow calls comfortable headroom while still bounding a hang to
+    a finite (if still generous) wait."""
     last_exc: Optional[Exception] = None
     for attempt in range(attempts):
         try:
-            return await coro_fn()
+            return await asyncio.wait_for(coro_fn(), timeout=call_timeout)
+        except asyncio.TimeoutError:
+            last_exc = TimeoutError(f"no response within {call_timeout:.0f}s (hard wall-clock timeout)")
+            if attempt >= attempts - 1:
+                break
+            await sleep(base_delay * 2 ** attempt)
         except Exception as exc:  # noqa: BLE001 -- any failure here (network, parse) is retryable
             last_exc = exc
             if attempt >= attempts - 1:
