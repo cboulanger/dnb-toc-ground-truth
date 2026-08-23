@@ -167,6 +167,72 @@ uv run python cli/evaluate_crossref.py --all-models  # + every cached model's ow
   numbers above, and don't read a lower per-model score as Crossref
   disagreeing with this project's own ground truth.
 
+## Model comparison
+
+Beyond checking ground truth against Crossref, this project also
+compares the models feeding the bulk-tier two-model agreement gate
+(`matching.gate_books`) against each other, to inform which two models
+to actually pair. Two raw metrics alone don't answer that question --
+and naively optimizing either one in isolation is wrong:
+
+- **Maximizing agreement is wrong.** Two models from a similar
+  architecture/training lineage can agree with each other often while
+  sharing the same systematic misreadings -- high agreement in that
+  case reflects a shared blind spot, not a real independent check.
+- **Minimizing agreement is equally wrong.** Two models that disagree a
+  lot because one or both are simply unreliable aren't a good pairing
+  either -- that's not healthy independence, it's noise.
+
+What matters is the combination: each model individually close to the
+truth, AND their agreement no higher than what that individual accuracy
+alone would already predict if their errors were independent. This
+project measures all three:
+
+1. **Inter-model agreement** (`model_agreement.pairwise_model_agreement`)
+   -- for every pair of models with cached readings for the same books,
+   the same match-rate formula the bulk gate itself gates on
+   (`matching.diff_toc_entries`), macro-averaged across every book the
+   pair shares.
+2. **Closeness to ground truth**
+   (`model_agreement.arbitration_ground_truth_agreement`) -- each
+   model's raw cached reading scored (precision/recall/F1) against
+   every book whose ground truth came from full agent arbitration
+   (`"source": "agent_arbitration"` -- Claude-transcribed directly from
+   the TOC page images, independent of any model's own raw reading).
+3. **A derived candidate-pair score**
+   (`model_agreement.rank_candidate_pairs`) -- combines both via a
+   Cohen's-kappa-style excess-agreement calculation: treating each
+   model's arbitration-GT F1 as its per-entry "probability of being
+   correct", `expected_agreement = f1_a*f1_b + (1-f1_a)*(1-f1_b)` is
+   what two that-accurate-but-independent models would show by chance;
+   `kappa = (observed - expected) / (1 - expected)` quantifies how much
+   the OBSERVED agreement exceeds that -- well above 0 is a direct flag
+   for correlated errors. `score = min(f1_a, f1_b) - max(0, kappa)`
+   rewards individually-accurate models while penalizing only that
+   excess correlation.
+
+**Run it:**
+
+```bash
+uv run python cli/compare_models.py
+```
+
+**[View the current numbers on GitHub Pages](https://cboulanger.github.io/dnb-toc-ground-truth/pilot-model-comparison.html)**
+-- a pairwise agreement heatmap, a per-model accuracy table (against
+both arbitration-GT and Crossref), and the candidate-pair ranking,
+rebuilt automatically on every push to `main` alongside the Crossref
+pages.
+
+**Constraints:**
+
+- **Arbitration-GT coverage differs per model and grows over time** as
+  more of the corpus gets arbitrated -- always read a score alongside
+  its N, not in isolation.
+- **The kappa calculation is a simplification, not a measured
+  probability** -- good enough to flag an obvious excess, not precise
+  enough to treat small kappa differences between two candidate pairs
+  as decisive.
+
 ## Setup
 
 1. Install dependencies:
