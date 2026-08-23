@@ -453,6 +453,45 @@ class TestRunBook(unittest.IsolatedAsyncioTestCase):
             self.assertEqual(client_a.chat.completions.create.await_args.kwargs["model"], "model-a")
             self.assertEqual(client_b.chat.completions.create.await_args.kwargs["model"], "model-b")
 
+    async def test_a_skipped_endpoint_pair_is_never_called(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp) / "corpus"):
+            tmp_path = Path(tmp)
+            cache_directory = tmp_path / "cache"
+            pdf_path = _make_pdf(tmp_path / "book.pdf")
+            client_a = _fake_vision_client(_VISION_RESPONSE)
+            client_b = _fake_vision_client(_VISION_RESPONSE)
+            endpoints = [_endpoint("model-a", client_a), _endpoint("model-b", client_b)]
+            semaphore = asyncio.Semaphore(1)
+
+            key, passed, reason = await _run_book(
+                "book10", pdf_path, endpoints, semaphore, cache_directory, 0.90, sleep=AsyncMock(),
+                skip_set=frozenset({("book10", "model-b")}),
+            )
+
+            client_a.chat.completions.create.assert_awaited_once()
+            client_b.chat.completions.create.assert_not_called()
+            self.assertFalse(passed)
+            self.assertEqual(reason, "single_reading_only")
+
+    async def test_a_book_with_every_endpoint_skipped_reports_skipped_known_bad(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp) / "corpus"):
+            tmp_path = Path(tmp)
+            cache_directory = tmp_path / "cache"
+            pdf_path = _make_pdf(tmp_path / "book.pdf")
+            client = _fake_vision_client(_VISION_RESPONSE)
+            endpoints = [_endpoint("model-a", client)]
+            semaphore = asyncio.Semaphore(1)
+
+            key, passed, reason = await _run_book(
+                "book11", pdf_path, endpoints, semaphore, cache_directory, 0.90, sleep=AsyncMock(),
+                skip_set=frozenset({("book11", "model-a")}),
+            )
+
+            self.assertFalse(passed)
+            self.assertEqual(reason, "skipped_known_bad")
+            client.chat.completions.create.assert_not_called()
+            self.assertFalse(_lock_path("book11").exists(), "a fully-skipped book should never acquire a lock")
+
     async def test_a_book_whose_lock_is_already_held_is_skipped_without_calling_any_model(self):
         with tempfile.TemporaryDirectory() as tmp, patch.object(corpus, "CORPUS_DIR", Path(tmp) / "corpus"):
             tmp_path = Path(tmp)

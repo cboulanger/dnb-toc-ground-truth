@@ -114,6 +114,10 @@ def arbitration_rejected_path() -> Path:
     return CORPUS_DIR / "arbitration-rejected.json"
 
 
+def model_skip_list_path() -> Path:
+    return CORPUS_DIR / "model-skip-list.json"
+
+
 def pdf_path(key: str) -> Path:
     return pdf_dir() / f"{key}.pdf"
 

@@ -43,6 +43,7 @@ metadata into open databases.
 | Books with a `numind/NuExtract3` reading | 462 |
 | Books awaiting arbitration | 0 |
 | Books permanently rejected (unrecoverable) | 0 |
+| Known model/book skips (retry once fixed) | 10 |
 | Held-out eval-tier sample | 75 |
 | Crossref evaluation-corpus entries | 54 |
 

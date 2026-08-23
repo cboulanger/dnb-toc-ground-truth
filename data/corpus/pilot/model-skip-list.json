@@ -1,0 +1,64 @@
+{
+  "skipped": [
+    {
+      "key": "3789082120",
+      "model": "numind/NuExtract3",
+      "reason": "non-terminating/malformed generation even serially at concurrency=1 (deeply-nested TOC w/ heavy repetition); frequency_penalty 0.1-0.3 tested as a fix, unreliable and regresses other books -- retry once guided/structured JSON decoding is available",
+      "skipped_at": "2026-08-23"
+    },
+    {
+      "key": "3825220494",
+      "model": "numind/NuExtract3",
+      "reason": "non-terminating/malformed generation even serially at concurrency=1 (deeply-nested TOC w/ heavy repetition); frequency_penalty 0.1-0.3 tested as a fix, unreliable and regresses other books -- retry once guided/structured JSON decoding is available",
+      "skipped_at": "2026-08-23"
+    },
+    {
+      "key": "3933480159",
+      "model": "numind/NuExtract3",
+      "reason": "non-terminating/malformed generation even serially at concurrency=1 (deeply-nested TOC w/ heavy repetition); frequency_penalty 0.1-0.3 tested as a fix, unreliable and regresses other books -- retry once guided/structured JSON decoding is available",
+      "skipped_at": "2026-08-23"
+    },
+    {
+      "key": "9780323855679",
+      "model": "numind/NuExtract3",
+      "reason": "non-terminating/malformed generation even serially at concurrency=1 (deeply-nested TOC w/ heavy repetition); frequency_penalty 0.1-0.3 tested as a fix, unreliable and regresses other books -- retry once guided/structured JSON decoding is available",
+      "skipped_at": "2026-08-23"
+    },
+    {
+      "key": "9780443295768",
+      "model": "numind/NuExtract3",
+      "reason": "non-terminating/malformed generation even serially at concurrency=1 (deeply-nested TOC w/ heavy repetition); frequency_penalty 0.1-0.3 tested as a fix, unreliable and regresses other books -- retry once guided/structured JSON decoding is available",
+      "skipped_at": "2026-08-23"
+    },
+    {
+      "key": "9783110373912",
+      "model": "numind/NuExtract3",
+      "reason": "non-terminating/malformed generation even serially at concurrency=1 (deeply-nested TOC w/ heavy repetition); frequency_penalty 0.1-0.3 tested as a fix, unreliable and regresses other books -- retry once guided/structured JSON decoding is available",
+      "skipped_at": "2026-08-23"
+    },
+    {
+      "key": "9783447066044",
+      "model": "numind/NuExtract3",
+      "reason": "non-terminating/malformed generation even serially at concurrency=1 (deeply-nested TOC w/ heavy repetition); frequency_penalty 0.1-0.3 tested as a fix, unreliable and regresses other books -- retry once guided/structured JSON decoding is available",
+      "skipped_at": "2026-08-23"
+    },
+    {
+      "key": "9783648200056",
+      "model": "numind/NuExtract3",
+      "reason": "non-terminating/malformed generation even serially at concurrency=1 (deeply-nested TOC w/ heavy repetition); frequency_penalty 0.1-0.3 tested as a fix, unreliable and regresses other books -- retry once guided/structured JSON decoding is available",
+      "skipped_at": "2026-08-23"
+    },
+    {
+      "key": "9783658408275",
+      "model": "numind/NuExtract3",
+      "reason": "non-terminating/malformed generation even serially at concurrency=1 (deeply-nested TOC w/ heavy repetition); frequency_penalty 0.1-0.3 tested as a fix, unreliable and regresses other books -- retry once guided/structured JSON decoding is available",
+      "skipped_at": "2026-08-23"
+    },
+    {
+      "key": "990004330580206441",
+      "model": "numind/NuExtract3",
+      "reason": "non-terminating/malformed generation even serially at concurrency=1 (deeply-nested TOC w/ heavy repetition); frequency_penalty 0.1-0.3 tested as a fix, unreliable and regresses other books -- retry once guided/structured JSON decoding is available",
+      "skipped_at": "2026-08-23"
+    }
+  ]
+}

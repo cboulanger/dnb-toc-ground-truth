@@ -242,8 +242,9 @@ ground-truth file only when at least two of the resulting reads agree
 well enough.
 
 ```
-usage: generate_ground_truth.py [-h] [--limit LIMIT]
-                                [--concurrency CONCURRENCY] [--spot-check N]
+usage: generate_ground_truth.py [-h] [--limit LIMIT] [--keys KEY[,KEY...]]
+                                [--keys-file PATH] [--concurrency CONCURRENCY]
+                                [--spot-check N]
                                 [--use-vision MODEL[,MODEL...]]
                                 [--use-text MODEL[,MODEL...]]
                                 [--endpoints-file ENDPOINTS_FILE]
@@ -256,17 +257,25 @@ manifest book not held out in eval_tier_ids.json (see select_eval_sample.py),
 not already carrying a ground-truth JSON file (bulk-gated or arbitrated), and
 not permanently rejected (arbitration-rejected.json), sends the book's TOC
 pages to every model named via --use-vision/--use-text (resolved against
---endpoints-file), and writes a ground-truth file only when at least two of
-the resulting reads agree well enough
-(dnb_toc_ground_truth.matching.gate_books, >=0.90 agreement between the best-
-agreeing pair) -- see design spec docs/superpowers/specs/2026-08-21-dnb-toc-
-ground-truth-extraction-design.md. Books that don't clear the gate are skipped
-and reported, not partially written -- run cli/arbitrate.py on them next.
+--endpoints-file) -- except a (key, model) pair recorded in model-skip-
+list.json (see cli/skip_list.py), which is dropped from that book's endpoint
+list entirely rather than retried into the hard-timeout budget again, and
+writes a ground-truth file only when at least two of the resulting reads agree
+well enough (dnb_toc_ground_truth.matching.gate_books, >=0.90 agreement
+between the best-agreeing pair) -- see design spec
+docs/superpowers/specs/2026-08-21-dnb-toc-ground-truth-extraction-design.md.
+Books that don't clear the gate are skipped and reported, not partially
+written -- run cli/arbitrate.py on them next.
 
 options:
   -h, --help            show this help message and exit
   --limit LIMIT         Process at most this many books (smoke-test
-                        convenience)
+                        convenience; ignored when --keys/--keys-file is given)
+  --keys KEY[,KEY...]   Process only these manifest keys instead of scanning
+                        the whole manifest -- still excludes eval-tier and
+                        rejected keys
+  --keys-file PATH      Path to a file with one manifest key per line;
+                        combined with --keys if both given
   --concurrency CONCURRENCY
                         How many books to process concurrently (default: 4, or
                         config file's "concurrency")
@@ -313,6 +322,46 @@ options:
   -h, --help            show this help message and exit
   --sample-size SAMPLE_SIZE
   --seed SEED
+  --corpus CORPUS       Corpus to operate on (default: config file's "corpus",
+                        or 'pilot')
+  --config-file CONFIG_FILE
+                        Path to the config file (default: .config.json)
+```
+
+## `skip_list.py`
+
+Manages `model-skip-list.json`, the list of (book key, model) pairs that
+`generate_ground_truth.py` should never attempt because a prior run
+showed that model hangs or produces malformed output on that specific
+book. Not the same as `arbitrate.py`'s `reject` -- a skip only excludes
+one model for one book, leaving its other readings and the book itself
+untouched, and is meant to be temporary: `remove` clears an entry once a
+fix is worth retrying.
+
+```
+usage: skip_list.py [-h] [--corpus CORPUS] [--config-file CONFIG_FILE]
+                    {add,remove,list} ...
+
+Manages model-skip-list.json -- (book key, model id) pairs that
+cli/generate_ground_truth.py should never attempt, because a prior run
+demonstrated that specific model hangs or produces malformed output on that
+specific book (e.g. numind/NuExtract3's non-terminating/repetitive generation
+on a handful of unusually large, deeply-nested TOCs -- see
+docs/superpowers/specs/2026-08-21-dnb-toc-ground-truth-extraction-design.md's
+neighboring investigation notes). Skipping the pair entirely avoids burning
+the hard wall-clock timeout's full retry budget on a call that's already known
+not to terminate cleanly, while leaving the book's OTHER model readings (and
+the book itself) untouched -- this is not the same as cli/arbitrate.py's
+`reject`, which discards a whole book.
+
+positional arguments:
+  {add,remove,list}
+    add                 Skip a (key, model) pair
+    remove              Un-skip a (key, model) pair
+    list                List every currently-skipped pair
+
+options:
+  -h, --help            show this help message and exit
   --corpus CORPUS       Corpus to operate on (default: config file's "corpus",
                         or 'pilot')
   --config-file CONFIG_FILE

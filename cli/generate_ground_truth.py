@@ -3,7 +3,10 @@ For every manifest book not held out in eval_tier_ids.json (see
 select_eval_sample.py), not already carrying a ground-truth JSON file
 (bulk-gated or arbitrated), and not permanently rejected
 (arbitration-rejected.json), sends the book's TOC pages to every model
-named via --use-vision/--use-text (resolved against --endpoints-file),
+named via --use-vision/--use-text (resolved against --endpoints-file) --
+except a (key, model) pair recorded in model-skip-list.json (see
+cli/skip_list.py), which is dropped from that book's endpoint list
+entirely rather than retried into the hard-timeout budget again,
 and writes a ground-truth file only when at least two of the resulting
 reads agree well enough (dnb_toc_ground_truth.matching.gate_books,
 >=0.90 agreement between the best-agreeing pair) -- see design spec
@@ -251,7 +254,7 @@ def _release_lock(key: str) -> None:
 
 async def _run_book(
     key: str, pdf_path: Path, endpoints: list[ModelEndpoint], semaphore: asyncio.Semaphore,
-    cache_directory: Path, threshold: float, *, sleep=asyncio.sleep,
+    cache_directory: Path, threshold: float, *, sleep=asyncio.sleep, skip_set: frozenset = frozenset(),
 ) -> tuple[str, bool, str]:
     """Thin I/O wrapper around _run_book_entries -- calls
     vision_extract_toc_entries or text_extract_toc_entries (per each
@@ -260,12 +263,24 @@ async def _run_book(
     _run_book_entries. Catches any exception and reports it as a
     failed-but-tuple-shaped result instead of letting it propagate -- one
     book's failure must never abort the rest of a long, unattended,
-    budget-spending batch run."""
+    budget-spending batch run.
+
+    `skip_set` holds (key, model_id) pairs recorded via
+    cli/skip_list.py -- a prior run demonstrated that specific model
+    doesn't terminate cleanly on that specific book (see nuextract.py's
+    NuExtract3 investigation notes), so the endpoint is dropped from
+    consideration entirely for this book rather than spending the full
+    hard-timeout retry budget on a call already known not to work. If
+    every requested endpoint is skipped this way, the book is reported
+    as "skipped_known_bad" without ever acquiring its lock."""
+    active_endpoints = [e for e in endpoints if (key, e.model_id) not in skip_set]
+    if not active_endpoints:
+        return key, False, "skipped_known_bad"
     if not _acquire_lock(key):
         return key, False, "locked_by_another_process"
     try:
         entries_by_endpoint: list[list[TocEntry]] = []
-        for endpoint in endpoints:
+        for endpoint in active_endpoints:
             cached = load_cached_llm_entries(cache_directory, key, endpoint.model_id)
             if cached is not None and load_cached_kind(cache_directory, key, endpoint.model_id) == endpoint.kind:
                 entries = cached
@@ -307,11 +322,11 @@ def _rate_limit_headers_suffix(exc: Exception) -> str:
 
 async def _run_all(
     keys_and_paths: list[tuple[str, Path]], endpoints: list[ModelEndpoint], concurrency: int,
-    cache_directory: Path, threshold: float,
+    cache_directory: Path, threshold: float, *, skip_set: frozenset = frozenset(),
 ) -> list[tuple[str, bool, str]]:
     semaphore = asyncio.Semaphore(concurrency)
     return list(await asyncio.gather(*[
-        _run_book(key, path, endpoints, semaphore, cache_directory, threshold)
+        _run_book(key, path, endpoints, semaphore, cache_directory, threshold, skip_set=skip_set)
         for key, path in keys_and_paths
     ]))
 
@@ -406,8 +421,13 @@ def _generate(args: argparse.Namespace, config: dict) -> int:
     endpoints = _resolve_endpoints(args, config)
     concurrency = args.concurrency if args.concurrency is not None else config.get("concurrency", 4)
     threshold = args.gate_threshold if args.gate_threshold is not None else config.get("gate_threshold", _GATE_THRESHOLD_DEFAULT)
+    skip_list_path = corpus.model_skip_list_path()
+    skip_set = (
+        {(entry["key"], entry["model"]) for entry in json.loads(skip_list_path.read_text(encoding="utf-8"))["skipped"]}
+        if skip_list_path.exists() else set()
+    )
 
-    results = asyncio.run(_run_all(candidates, endpoints, concurrency, corpus.llm_cache_dir(), threshold))
+    results = asyncio.run(_run_all(candidates, endpoints, concurrency, corpus.llm_cache_dir(), threshold, skip_set=frozenset(skip_set)))
     passed = [r for r in results if r[1]]
     by_reason: dict[str, int] = {}
     for _, ok, reason in results:

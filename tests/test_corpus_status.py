@@ -64,6 +64,12 @@ class TestBuildStatusTable(unittest.TestCase):
                 json.dumps({"rejected": [{"key": "book5", "reason": "unrecoverable", "rejected_at": "2026-08-16"}]}),
                 encoding="utf-8",
             )
+            corpus.model_skip_list_path().write_text(
+                json.dumps({"skipped": [
+                    {"key": "book3", "model": "model-a", "reason": "hangs", "skipped_at": "2026-08-23"},
+                ]}),
+                encoding="utf-8",
+            )
             corpus.eval_tier_ids_path().write_text(json.dumps(["book4"]), encoding="utf-8")
             corpus.evaluation_dir().mkdir(parents=True, exist_ok=True)
             corpus.evaluation_json_path("book2").write_text(
@@ -80,6 +86,7 @@ class TestBuildStatusTable(unittest.TestCase):
             self.assertIn("| Books with a `model-b` reading | 1 |", table)
             self.assertIn("| Books awaiting arbitration | 1 |", table)
             self.assertIn("| Books permanently rejected (unrecoverable) | 1 |", table)
+            self.assertIn("| Known model/book skips (retry once fixed) | 1 |", table)
             self.assertIn("| Held-out eval-tier sample | 1 |", table)
             self.assertIn("| Crossref evaluation-corpus entries | 1 |", table)
 

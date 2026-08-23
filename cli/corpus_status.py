@@ -8,8 +8,8 @@ evaluation-corpus size -- as a markdown table, and rewrites it into
 README.md's "Current status" section in place.
 
 Run this after a `generate_ground_truth.py`/`arbitrate.py`/
-`backfill_crossref.py` batch changes the numbers, so the README doesn't
-go stale (see `AGENTS.md`).
+`backfill_crossref.py`/`skip_list.py` batch changes the numbers, so the
+README doesn't go stale (see `AGENTS.md`).
 
     uv run python cli/corpus_status.py           # print + update README.md
     uv run python cli/corpus_status.py --check    # print only, exit 1 if README.md is stale
@@ -81,6 +81,13 @@ def _eval_tier_count() -> int:
     return len(json.loads(path.read_text(encoding="utf-8")))
 
 
+def _skip_list_count() -> int:
+    path = corpus.model_skip_list_path()
+    if not path.exists():
+        return 0
+    return len(json.loads(path.read_text(encoding="utf-8"))["skipped"])
+
+
 def build_status_table() -> str:
     manifest_count = len(corpus.load_manifest_books())
     ground_truth_count = len(list(corpus.ground_truth_dir().glob("*.expected.json")))
@@ -100,6 +107,7 @@ def build_status_table() -> str:
         lines.append(f"| Books with a `{model}` reading | {model_counts[model]} |")
     lines.append(f"| Books awaiting arbitration | {needing_arbitration} |")
     lines.append(f"| Books permanently rejected (unrecoverable) | {len(rejected)} |")
+    lines.append(f"| Known model/book skips (retry once fixed) | {_skip_list_count()} |")
     lines.append(f"| Held-out eval-tier sample | {_eval_tier_count()} |")
     lines.append(f"| Crossref evaluation-corpus entries | {evaluation_count} |")
     return "\n".join(lines)

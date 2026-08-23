@@ -67,7 +67,24 @@ gate's weaker models fail -- is done by a strong, multimodal AI agent
    -- refuses (rather than silently overwriting) if `<key>` is already
    present, so re-running this step is safe.
 
-6. After a generation or arbitration batch changes the corpus's
+6. If instead only ONE model consistently hangs or emits malformed
+   output on a specific book (the book's other models still read it
+   fine, and/or you don't want to permanently give up on that model for
+   it), don't reject the whole book -- record the (key, model) pair
+   instead so future `generate_ground_truth.py` runs stop retrying it
+   into the hard-timeout budget:
+
+   ```bash
+   uv run python cli/skip_list.py add <key> "<model>" "<short reason>"
+   ```
+
+   This writes to the committed `data/corpus/pilot/model-skip-list.json`.
+   Unlike step 5's rejection, this is meant to be temporary -- once a fix
+   is worth trying (e.g. guided/structured JSON decoding), clear it with
+   `uv run python cli/skip_list.py remove <key> "<model>"` so the next
+   run attempts that pair again.
+
+7. After a generation or arbitration batch changes the corpus's
    coverage numbers, refresh the top-level `README.md`'s "Current
    status" table:
 
