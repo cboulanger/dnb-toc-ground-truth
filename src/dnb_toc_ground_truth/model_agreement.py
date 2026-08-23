@@ -199,6 +199,12 @@ def rank_candidate_pairs(
             unscored.append((pair.model_a, pair.model_b))
             continue
         expected = f1_a * f1_b + (1 - f1_a) * (1 - f1_b)
+        # As `expected` approaches 1.0 (both models' F1 close to 0 or both
+        # close to 1), (1 - expected) shrinks toward zero and small sampling
+        # noise in `pair.mean_agreement` (itself a macro-average over
+        # n_books) gets amplified in kappa. Not a bug -- just means a kappa
+        # near this boundary should be read alongside its n_books, same as
+        # any other metric here.
         kappa = 0.0 if expected >= 1.0 else (pair.mean_agreement - expected) / (1 - expected)
         scored.append(PairCandidateScore(
             model_a=pair.model_a, model_b=pair.model_b, f1_a=f1_a, f1_b=f1_b,

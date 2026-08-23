@@ -273,6 +273,24 @@ class TestRankCandidatePairs(unittest.TestCase):
         self.assertEqual(scored[0].kappa, 0.0)
         self.assertEqual(scored[0].score, 1.0)
 
+    def test_asymmetric_f1_pair_uses_min_for_score_and_correct_cross_term(self):
+        # f1_a=0.9, f1_b=0.6 -> expected = 0.9*0.6 + 0.1*0.4 = 0.54 + 0.04 = 0.58.
+        # Distinguishes min(f1_a, f1_b) from max/either single value, and confirms
+        # each model's own F1 is attributed to the correct side (a vs b).
+        agreements = [PairAgreement(model_a="a", model_b="b", mean_agreement=0.58, n_books=10)]
+        gt_metrics = [
+            ModelGroundTruthMetrics(model="a", precision=0.9, recall=0.9, f1=0.9, n_books=20),
+            ModelGroundTruthMetrics(model="b", precision=0.6, recall=0.6, f1=0.6, n_books=15),
+        ]
+        scored, unscored = rank_candidate_pairs(agreements, gt_metrics)
+        self.assertEqual(unscored, [])
+        self.assertEqual(scored[0].f1_a, 0.9)
+        self.assertEqual(scored[0].f1_b, 0.6)
+        self.assertAlmostEqual(scored[0].expected_agreement, 0.58)
+        self.assertAlmostEqual(scored[0].kappa, 0.0, places=6)
+        # score uses min(f1_a, f1_b) = 0.6, not max (0.9) or either average.
+        self.assertAlmostEqual(scored[0].score, 0.6, places=6)
+
 
 if __name__ == "__main__":
     unittest.main()
