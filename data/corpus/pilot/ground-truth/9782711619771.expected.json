@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "title": "AVANT-PROPOS",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "SIGLES ET ABBR\u00c9VIATIONS",
+      "authors": [],
+      "printed_page_number": "10",
+      "skip": true
+    },
+    {
+      "title": "I. PHILOSOPHIE ET TH\u00c9OLOGIE d\u2019apr\u00e8s le Prologue de Thomas d\u2019Aquin au Super Boetium De Trinitate. Essai d\u2019une lecture th\u00e9ologique",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Prologue de Thomas d\u2019Aquin au Super Boetium De Trinitate",
+      "authors": [],
+      "printed_page_number": "58",
+      "skip": false
+    },
+    {
+      "title": "II. \u00ab DIEU CONDUIT TOUTES CHOSES VERS LEUR FIN \u00bb. Providence et gouvernement divin chez Thomas d\u2019Aquin",
+      "authors": [],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "III. NATURE ET GR\u00c2CE CHEZ THOMAS D\u2019AQUIN",
+      "authors": [],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "IV. SAINT THOMAS ET L\u2019HISTOIRE. \u00c9tat de la question et pistes de recherche",
+      "authors": [],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "V. SITUATION ACTUELLE DES \u00c9TUDES THOMISTES",
+      "authors": [],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "INDEX DES NOMS",
+      "authors": [],
+      "printed_page_number": "203",
+      "skip": true
+    },
+    {
+      "title": "TABLE DES MATI\u00c8RES",
+      "authors": [],
+      "printed_page_number": "208",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

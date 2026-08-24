@@ -1,0 +1,95 @@
+{
+  "entries": [
+    {
+      "title": "Per il testo della \u00abDivina Commedia\u00bb",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Introduzione di Vittore Branca Michele Barbi e la nuova filologia",
+      "authors": [
+        "Vittore Branca",
+        "Michele Barbi"
+      ],
+      "printed_page_number": "5",
+      "skip": false
+    },
+    {
+      "title": "Dedica",
+      "authors": [],
+      "printed_page_number": "V",
+      "skip": true
+    },
+    {
+      "title": "Introduzione",
+      "authors": [],
+      "printed_page_number": "VII",
+      "skip": true
+    },
+    {
+      "title": "Sul testo del \u00abDecameron\u00bb",
+      "authors": [],
+      "printed_page_number": "35",
+      "skip": false
+    },
+    {
+      "title": "Per una nuova edizione delle Novelle del Sacchetti",
+      "authors": [],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Per una compiuta edizione dei \u00abRicordi politici e civili\u00bb del Guicciardini",
+      "authors": [],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "L'edizione nazionale del Foscolo e le \u00abGrazie\u00bb",
+      "authors": [],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "Per la \u00abLettera apologetica\u00bb del Foscolo",
+      "authors": [],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Una pagina del Tedaldi Fores attribuita al Foscolo",
+      "authors": [],
+      "printed_page_number": "192",
+      "skip": false
+    },
+    {
+      "title": "Il testo dei \u00abPromessi Sposi\u00bb",
+      "authors": [],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "Crusca lingua e vocabolari",
+      "authors": [],
+      "printed_page_number": "229",
+      "skip": false
+    },
+    {
+      "title": "D'un antico codice pisano-lucchese di trattati morali",
+      "authors": [],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "Bibliografia degli scritti di Michele Barbi compilata da Silvio Adrasto Barbi",
+      "authors": [
+        "Silvio Adrasto Barbi"
+      ],
+      "printed_page_number": "261",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

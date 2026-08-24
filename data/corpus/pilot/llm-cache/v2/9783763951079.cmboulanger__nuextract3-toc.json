@@ -1,0 +1,376 @@
+{
+  "generated_at": 1787581859.776053,
+  "duration_seconds": 20.482057749992236,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorbemerkungen",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "I Der Begriff \u201eInklusion\u201c",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Soziologische Anmerkungen zu zwei Debatten \u00fcber Inklusion und Exklusion",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Kronauer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inklusion \u2013 Begr\u00fcndungsfiguren, Organisationsformen, Antinomien",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [
+        "Dieter Katzenbach"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Begriff \u201eInklusion\u201c \u2013 Ein Grundsatz der Menschenrechte und seine Bedeutung f\u00fcr die Erwachsenenbildung",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [
+        "Marianne Hirschberg",
+        "Christian Lindmeier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inklusion und Exklusion aus relationaler Sicht \u2013 Eine grundlagentheoretische Auseinandersetzung mit gesellschaftlichen Inklusionsprozessen",
+      "printed_page_number": "53",
+      "source_page_index": -1,
+      "authors": [
+        "Ortfried Sch\u00e4ffter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bilanz: Inklusion in der Erwachsenenbildung",
+      "printed_page_number": "65",
+      "source_page_index": -1,
+      "authors": [
+        "Markus Dederich"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II Institution und Organisation",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eHallo Zielgruppe\u201c!? Inklusion und Sozialraumorientierung am Beispiel der Erwachsenenbildung",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [
+        "Nicole Hoffmann",
+        "Ewelina Mania"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antwort zu Hoffmann/Mania: Sozialraumorientierung",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "Jens Wurtzbacher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inklusion als Qualit\u00e4t \u2013 Zu Rolle und Potenzial des Kriteriums Inklusionsf\u00e4higkeit in Qualit\u00e4tsmanagementsystemen der Erwachsenenbildung",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "Henning P\u00e4tzold",
+        "Henrik Bruns"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antwort zu P\u00e4tzold/Bruns: Inklusion als Qualit\u00e4t",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [
+        "Heinrich Greving"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erwachsenenbildung inklusive? Die Werkstatt f\u00fcr behinderte Menschen zwischen Exklusion und Inklusion",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Burtscher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antwort zu Burtscher: Erwachsenenbildung inklusive?",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "Veronika Zimmer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Unterst\u00fctzungsstrukturen in der inklusiven Erwachsenenbildung in England",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [
+        "Rebecca Babilon"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antwort zu Babilon: Unterst\u00fctzungsstrukturen in der inklusiven Erwachsenenbildung in England",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [
+        "Monika Tr\u00f6ster"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Funktionale Analphabetinnen und Analphabeten im Fokus der Diskussion um Exklusion",
+      "printed_page_number": "135",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Buddeberg",
+        "Anke Grotl\u00fcschen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antwort zu Buddeberg/Grotl\u00fcschen: Funktionale Analphabetinnen und Analphabeten",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "Katrin Gr\u00fcber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III Professionalit\u00e4t und Didaktik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Professionswissen f\u00fcr eine inkludierende Erwachsenenbildung",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [
+        "Ines Langemeyer",
+        "Ingeborg Sch\u00fc\u00dfler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antwort zu Langemeyer/Sch\u00fc\u00dfler: Professionswissen",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Markowetz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Riskante \u00dcbergangszeiten \u2013 Ein Bildungsformat zur berufsbiografischen Transition zwischen Ausbildung und Beruf",
+      "printed_page_number": "167",
+      "source_page_index": -1,
+      "authors": [
+        "Claudia Gorecki",
+        "Hildegard Schicke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antwort zu Gorecki/Schicke: Riskante \u00dcbergangszeiten",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf Husemann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bildungspartizipation und Lernen im Alter \u2013 Individuelle Voraussetzungen und organisatorische Handlungsanforderungen",
+      "printed_page_number": "183",
+      "source_page_index": -1,
+      "authors": [
+        "Jens Friebe",
+        "Bernhard Schmidt-Hertha"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antwort zu Friebe/Schmidt-Hertha: Lernen im Alter",
+      "printed_page_number": "193",
+      "source_page_index": -1,
+      "authors": [
+        "Werner Schlummer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Didaktische und methodische \u00dcberlegungen zur Inklusion in der Erwachsenenbildung",
+      "printed_page_number": "197",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Furrer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antwort zu Furrer: Didaktische und methodische \u00dcberlegungen",
+      "printed_page_number": "209",
+      "source_page_index": -1,
+      "authors": [
+        "Malte Ebner von Eschenbach"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Digitale Alphabetisierung \u2013 Inklusion und computer-unterst\u00fctzter Unterricht",
+      "printed_page_number": "215",
+      "source_page_index": -1,
+      "authors": [
+        "Eduard Jan Ditschek"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antwort zu Ditschek: Digitale Alphabetisierung",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Zentel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gemeinsam lernen \u2013 Seminare unter Beteiligung von Menschen mit einer geistigen Behinderung",
+      "printed_page_number": "231",
+      "source_page_index": -1,
+      "authors": [
+        "Bettina Lindmeier",
+        "Dorothee Meyer",
+        "Simone Kielhorn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Antwort zu Lindmeier/Meyer/Kielhorn: Gemeinsam lernen",
+      "printed_page_number": "241",
+      "source_page_index": -1,
+      "authors": [
+        "Johannes Bilstein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bilanz der Perspektiven: Organisation und Profession im Gestaltungsrahmen einer inkludierenden Erwachsenenbildung",
+      "printed_page_number": "243",
+      "source_page_index": -1,
+      "authors": [
+        "Monika Kil"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schlusswort",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "261",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Autorinnen und Autoren, Herausgeberin und Herausgeber",
+      "printed_page_number": "285",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zusammenfassung/Abstract",
+      "printed_page_number": "291",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

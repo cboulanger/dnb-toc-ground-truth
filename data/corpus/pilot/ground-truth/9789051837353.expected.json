@@ -1,0 +1,353 @@
+{
+  "entries": [
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Caribbean Writers Between Orality and Writing / Les Auteurs caribéens entre l’oralité et l’écriture",
+      "authors": [
+        "Marlies Glaser",
+        "Marion Pausch"
+      ],
+      "printed_page_number": "xi",
+      "skip": false
+    },
+    {
+      "title": "Articles",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Oral Tradition and Recent Caribbean Poetry",
+      "authors": [
+        "Emilio Jorge Rodríguez"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "The Black Writer in the Multicultural Caribbean – The Vision of Africa in Edward Kamau Brathwaite’s The Arrivants",
+      "authors": [
+        "Charles A. Bodunde"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Forty Years Hence – Immigrants and Yardies in Selvon and Headley",
+      "authors": [
+        "Moya Jones Petithomme"
+      ],
+      "printed_page_number": "35",
+      "skip": false
+    },
+    {
+      "title": "Les traditions créoles dans la littérature contemporaine de la Guadeloupe et de la Martinique",
+      "authors": [
+        "Alexandra Jermann"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "Baron Samedi ou la Fleur d’Or? – La culture populaire dans la littérature haïtienne",
+      "authors": [
+        "Denise Lorenz"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "L’image de l’Afrique dans le théâtre antillais francophone",
+      "authors": [
+        "Cyril Mokwenye"
+      ],
+      "printed_page_number": "139",
+      "skip": false
+    },
+    {
+      "title": "Interviews",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Lillian Allen: “The message is the most important”",
+      "authors": [
+        "Christian Habekost"
+      ],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Mervyn Morris: “The labels pin them down”",
+      "authors": [
+        "Pam Mordecai"
+      ],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "Olive Senior: “A shared culture”",
+      "authors": [
+        "Marlies Glaser"
+      ],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Patrick Chamoiseau: “Exprimer la complexité antillaise à l’aide de la tradition orale”",
+      "authors": [
+        "Marion Pausch"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Xavier Orville: “Le métissage n’est pas une tare mais un enrichissement”",
+      "authors": [
+        "Marion Pausch"
+      ],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "Pamela Mordecai: Publishing in the Caribbean",
+      "authors": [
+        "Holger G. Ehling"
+      ],
+      "printed_page_number": "171",
+      "skip": false
+    },
+    {
+      "title": "Creative Writing",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Poems: Catch the Wind; Protest Poem; Mongoose; Last Lines",
+      "authors": [
+        "Pamela Mordecai"
+      ],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "Poems: Guyanese Reflections; Tricks of the Trade",
+      "authors": [
+        "Gloria Escoffery"
+      ],
+      "printed_page_number": "45",
+      "skip": false
+    },
+    {
+      "title": "Story: You Think I Mad, Miss?",
+      "authors": [
+        "Olive Senior"
+      ],
+      "printed_page_number": "85",
+      "skip": false
+    },
+    {
+      "title": "Poems: No Man’s Land; After the Fall",
+      "authors": [
+        "Gloria Escoffery"
+      ],
+      "printed_page_number": "91",
+      "skip": false
+    },
+    {
+      "title": "Poems: night flight; limbo-man; history class",
+      "authors": [
+        "Judith Hamilton"
+      ],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "Poems: Country Dance; Dusk Poem; The Carpenter’s Complaint; Sometimes in the Middle of the Story",
+      "authors": [
+        "Edward Baugh"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Poems: moonsong of sister rabbit; the horse and the bull; flame tree time; optimism",
+      "authors": [
+        "Elaine Savory"
+      ],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "Poem: Up and Down the Deck",
+      "authors": [
+        "Merle Collins"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "Poems: Music music music; Hauptbahnhof Ditty",
+      "authors": [
+        "Pamela Mordecai"
+      ],
+      "printed_page_number": "178",
+      "skip": false
+    },
+    {
+      "title": "Poem: Text Worship",
+      "authors": [
+        "Niyi Osundare"
+      ],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "Marketplace",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Dutch Caribbean Literature",
+      "authors": [
+        "Wim Rutgers"
+      ],
+      "printed_page_number": "185",
+      "skip": false
+    },
+    {
+      "title": "Recent Editions of Dutch Caribbean Fiction",
+      "authors": [
+        "Gordon Collier"
+      ],
+      "printed_page_number": "192",
+      "skip": false
+    },
+    {
+      "title": "The Stigma",
+      "authors": [
+        "Tayo Olafioye"
+      ],
+      "printed_page_number": "197",
+      "skip": false
+    },
+    {
+      "title": "How Post-Colonial is African Literature?",
+      "authors": [
+        "Niyi Osundare"
+      ],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "Book Reviews",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Rasse, Klasse und Kultur in der Karibik, ed. Karl Kohut",
+      "authors": [
+        "Thomas Bremer"
+      ],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "Afrique et Antilles francophones, ed. Claude Bouygues",
+      "authors": [
+        "Andrea Pohl"
+      ],
+      "printed_page_number": "219",
+      "skip": false
+    },
+    {
+      "title": "Barbara Bush, Slave Women in Caribbean Society, 1650-1838",
+      "authors": [
+        "Andrea Pohl"
+      ],
+      "printed_page_number": "220",
+      "skip": false
+    },
+    {
+      "title": "Evelyn Heinemann, Mama Afrika: Das Trauma der Versklavung",
+      "authors": [
+        "Sabine Bröck"
+      ],
+      "printed_page_number": "221",
+      "skip": false
+    },
+    {
+      "title": "Stephan Palmié, Das Exil der Götter: Geschichte und Vorstellungswelt einer afrokubanischen Religion",
+      "authors": [
+        "Monika Wehrheim-Peuker"
+      ],
+      "printed_page_number": "224",
+      "skip": false
+    },
+    {
+      "title": "Bibliography of Women Writers from the Caribbean, ed. Brenda F. Berrian & Aart Broek",
+      "authors": [
+        "Stefanie Gehrke"
+      ],
+      "printed_page_number": "226",
+      "skip": false
+    },
+    {
+      "title": "Christian Habekost, Verbal Riddim: The Politics and Aesthetics of African-Caribbean Dub Poetry",
+      "authors": [
+        "Helge Nowak"
+      ],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "Caribana, N° 1, ed. Luigi Sampietro",
+      "authors": [
+        "Ulrike Jamin"
+      ],
+      "printed_page_number": "230",
+      "skip": false
+    },
+    {
+      "title": "J.B. Alston, Yoruba Drama in English: Interpretation and Production",
+      "authors": [
+        "Christopher Balme"
+      ],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "Crisis and Creativity in the New Literatures in English, ed. Geoffrey V. Davis & Hena Maes-Jelinek",
+      "authors": [
+        "Ode S. Ogede"
+      ],
+      "printed_page_number": "232",
+      "skip": false
+    },
+    {
+      "title": "Syndicat National des Enseignants du Supérieur (SYNES), La Dérive de l’Université au Cameroun, Livre Blanc",
+      "authors": [
+        "André Djiffack"
+      ],
+      "printed_page_number": "234",
+      "skip": false
+    },
+    {
+      "title": "Addresses",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

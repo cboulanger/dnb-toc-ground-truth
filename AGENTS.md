@@ -1,4 +1,63 @@
-# Arbitrating below-gate books
+# Agent notes
+
+## Starting a fresh batch (generation step, before arbitration)
+
+Before running `cli/generate_ground_truth.py`, a few things aren't
+obvious from that script's own `--help` and aren't written down
+anywhere else in this repo:
+
+- **`.endpoints`'s `status` field (e.g. "Building") is unreliable in
+  both directions** -- a session that's actually fully loaded can still
+  show "Building", and vice versa. The only real readiness signal is
+  hitting the endpoint's own `<url>/v1/models` with its `key` as a
+  bearer token and checking for HTTP 200. Do this for every endpoint
+  before kicking off a batch rather than trusting the status column.
+- **There is no `.env` in this repo.** Model credentials live entirely
+  in `.endpoints` (one `key`/`url`/`model` per pasted dashboard session
+  block, or a JSON array -- see `src/dnb_toc_ground_truth/inference.py`).
+  If someone says "fresh session credentials in `.env`", they mean a
+  freshly-regenerated `.endpoints` file.
+- **A model id in `.endpoints` must exactly match the id in
+  `.config.json`'s `use_vision`/`use_text`, or resolution fails
+  outright** (`ValueError: no endpoint found for model ...`), even if
+  it's obviously "the same model" to a human. In particular, an
+  endpoint serving a fine-tuned variant (e.g. `cmboulanger/nuextract3-toc`
+  instead of the base `numind/NuExtract3`) needs BOTH files updated to
+  the exact same string, AND needs `extraction_api\tnuextract` added
+  explicitly to that block in `.endpoints` -- the NuExtract template-mode
+  extraction path only auto-applies for the literal model id
+  `numind/NuExtract3` (see `_resolve_extraction_fields` in
+  `inference.py`); any other id silently falls back to the plain-text
+  prompt path unless told otherwise. This is a pipeline-shape decision
+  (which model backs future "NuExtract3" readings), not a mechanical
+  fix -- ask before switching it if unclear which model is intended.
+- **`data/corpus/pilot/pdf/`, `.lobid-cache/`, `.crossref-cache/`, and
+  `.locks/` are all gitignored** -- a fresh checkout has none of them,
+  even though `manifest.json` (committed) lists 1000+ books. On a fresh
+  checkout, `generate_ground_truth.py` will pick its usual candidates
+  but skip every one of them as `missing_pdf`, reporting `0/0 books
+  passed the gate` with no other explanation.
+  - **`--limit` is applied to the eligible-book list BEFORE filtering
+    on local PDF existence** (see `_generate` in
+    `cli/generate_ground_truth.py`), so a missing-PDF book silently
+    eats one slot of your batch instead of being skipped in favor of
+    the next eligible book. A `--limit 50` run with no local PDFs
+    processes zero books, not 50 different ones.
+  - **`cli/fetch_corpus.py` does NOT fix this.** It only discovers and
+    downloads NEW manifest entries (via `--from-dump` or
+    `--isbns-file`), skipping anything already in the manifest --
+    there's no built-in "re-download PDFs for existing manifest
+    entries" command. To rehydrate, download each candidate book's
+    manifest `toc_download_url` field directly into
+    `data/corpus/pilot/pdf/<filename>` yourself (a plain `httpx` GET is
+    enough; no need to re-derive `_acquire_record`'s full logic since
+    the manifest entry, lobid cache, and Crossref data already exist).
+    Compute the exact candidate set first with the same
+    `_still_needs_a_decision`/`--limit` logic `generate_ground_truth.py`
+    uses, so you fetch precisely the books that batch will actually
+    attempt.
+
+## Arbitrating below-gate books
 
 `cli/generate_ground_truth.py`'s agreement gate discards a book outright
 when no pair of its resolved endpoints' reads agrees well enough (below

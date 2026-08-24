@@ -1,0 +1,1992 @@
+{
+  "entries": [
+    {
+      "title": "Abkürzungsverzeichnis",
+      "authors": [],
+      "printed_page_number": "XV",
+      "skip": true
+    },
+    {
+      "title": "Einleitung: Einzweckgesellschaft (Single Purpose Company)",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "1. Unternehmensübernahmen",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": true
+    },
+    {
+      "title": "2. Big ticket-Leasing",
+      "authors": [],
+      "printed_page_number": "6",
+      "skip": true
+    },
+    {
+      "title": "3. Asset Backed-Finanzierungen",
+      "authors": [],
+      "printed_page_number": "9",
+      "skip": true
+    },
+    {
+      "title": "4. Projektfinanzierungen",
+      "authors": [],
+      "printed_page_number": "10",
+      "skip": true
+    },
+    {
+      "title": "Kapitel 1. Strukturierung und Finanzierung von Unternehmensübernahmen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Beispielssachverhalte",
+      "authors": [],
+      "printed_page_number": "14",
+      "skip": true
+    },
+    {
+      "title": "Erster Teil. Übernahme und Finanzierung der Übernahme einer GmbH oder einer (GmbH & Co.) KG",
+      "authors": [],
+      "printed_page_number": "17",
+      "skip": true
+    },
+    {
+      "title": "Abschnitt A: Strukturierung und Steuern",
+      "authors": [],
+      "printed_page_number": "17",
+      "skip": true
+    },
+    {
+      "title": "A. Übernahme einer GmbH",
+      "authors": [],
+      "printed_page_number": "17",
+      "skip": true
+    },
+    {
+      "title": "I. Interessenlage der Parteien",
+      "authors": [],
+      "printed_page_number": "17",
+      "skip": true
+    },
+    {
+      "title": "II. Leveraged-Buy-Out",
+      "authors": [],
+      "printed_page_number": "18",
+      "skip": true
+    },
+    {
+      "title": "III. Erwerb der Anteile einer Kapitalgesellschaft (Share deal)",
+      "authors": [],
+      "printed_page_number": "19",
+      "skip": true
+    },
+    {
+      "title": "1. Zivilrecht",
+      "authors": [],
+      "printed_page_number": "19",
+      "skip": true
+    },
+    {
+      "title": "2. Steuerrecht",
+      "authors": [],
+      "printed_page_number": "20",
+      "skip": true
+    },
+    {
+      "title": "a. Ertragsteuern",
+      "authors": [],
+      "printed_page_number": "20",
+      "skip": true
+    },
+    {
+      "title": "aa. Verkäufer",
+      "authors": [],
+      "printed_page_number": "20",
+      "skip": true
+    },
+    {
+      "title": "bb. Erwerber",
+      "authors": [],
+      "printed_page_number": "22",
+      "skip": true
+    },
+    {
+      "title": "b. Verkehrsteuern",
+      "authors": [],
+      "printed_page_number": "22",
+      "skip": true
+    },
+    {
+      "title": "aa. Umsatzsteuer",
+      "authors": [],
+      "printed_page_number": "22",
+      "skip": true
+    },
+    {
+      "title": "bb. Grunderwerbsteuer",
+      "authors": [],
+      "printed_page_number": "23",
+      "skip": true
+    },
+    {
+      "title": "3. Zwischenresümee",
+      "authors": [],
+      "printed_page_number": "23",
+      "skip": true
+    },
+    {
+      "title": "IV. Erwerb von Wirtschaftsgütern (Asset deal)",
+      "authors": [],
+      "printed_page_number": "25",
+      "skip": true
+    },
+    {
+      "title": "1. Zivilrecht",
+      "authors": [],
+      "printed_page_number": "25",
+      "skip": true
+    },
+    {
+      "title": "2. Steuerrecht",
+      "authors": [],
+      "printed_page_number": "25",
+      "skip": true
+    },
+    {
+      "title": "a. Ertragsteuern",
+      "authors": [],
+      "printed_page_number": "25",
+      "skip": true
+    },
+    {
+      "title": "aa. Erwerber",
+      "authors": [],
+      "printed_page_number": "25",
+      "skip": true
+    },
+    {
+      "title": "bb. Verkäufer",
+      "authors": [],
+      "printed_page_number": "27",
+      "skip": true
+    },
+    {
+      "title": "b. Verkehrsteuern",
+      "authors": [],
+      "printed_page_number": "28",
+      "skip": true
+    },
+    {
+      "title": "aa. Umsatzsteuer",
+      "authors": [],
+      "printed_page_number": "28",
+      "skip": true
+    },
+    {
+      "title": "bb. Grunderwerbsteuer",
+      "authors": [],
+      "printed_page_number": "28",
+      "skip": true
+    },
+    {
+      "title": "V. Kombinationsmodell",
+      "authors": [],
+      "printed_page_number": "28",
+      "skip": true
+    },
+    {
+      "title": "1. Typisierende Teilschritte, körperschaftsteuerliche Teilwertabschreibung",
+      "authors": [],
+      "printed_page_number": "29",
+      "skip": true
+    },
+    {
+      "title": "2. Gewerbesteuer: Keine Teilwertabschreibung",
+      "authors": [],
+      "printed_page_number": "30",
+      "skip": true
+    },
+    {
+      "title": "3. Verkehrsteuern",
+      "authors": [],
+      "printed_page_number": "32",
+      "skip": true
+    },
+    {
+      "title": "4. Zwischenresümee",
+      "authors": [],
+      "printed_page_number": "33",
+      "skip": true
+    },
+    {
+      "title": "VI. Umwandlungsmodell",
+      "authors": [],
+      "printed_page_number": "33",
+      "skip": true
+    },
+    {
+      "title": "1. Handelsrecht/Umwandlungsgesetz",
+      "authors": [],
+      "printed_page_number": "34",
+      "skip": true
+    },
+    {
+      "title": "a. Verschmelzungsmodell",
+      "authors": [],
+      "printed_page_number": "35",
+      "skip": true
+    },
+    {
+      "title": "b. Formwechselmodell",
+      "authors": [],
+      "printed_page_number": "35",
+      "skip": true
+    },
+    {
+      "title": "c. Entscheidungskriterien: Verschmelzungs- oder Formwechselmodell",
+      "authors": [],
+      "printed_page_number": "36",
+      "skip": true
+    },
+    {
+      "title": "2. Steuerrecht/Umwandlungssteuergesetz",
+      "authors": [],
+      "printed_page_number": "37",
+      "skip": true
+    },
+    {
+      "title": "a. Umwandlungssteuergesetz, Step up-AfA und Gewerbesteuer",
+      "authors": [],
+      "printed_page_number": "39",
+      "skip": true
+    },
+    {
+      "title": "b. Sondermeinung der Finanzverwaltung zur Gewerbesteuer",
+      "authors": [],
+      "printed_page_number": "39",
+      "skip": true
+    },
+    {
+      "title": "c. „Maßgeblichkeitsprinzip“ und die „Diagonale Maßgeblichkeit“ im Verschmelzungsfall",
+      "authors": [],
+      "printed_page_number": "41",
+      "skip": true
+    },
+    {
+      "title": "d. Nichtwesentlich Beteiligte",
+      "authors": [],
+      "printed_page_number": "42",
+      "skip": true
+    },
+    {
+      "title": "e. Einbringungsgeborene Anteile",
+      "authors": [],
+      "printed_page_number": "43",
+      "skip": true
+    },
+    {
+      "title": "f. Kauf vom nichtanrechnungsberechtigten Steuerausländer oder inländischen Minderheitsgesellschafter",
+      "authors": [],
+      "printed_page_number": "44",
+      "skip": true
+    },
+    {
+      "title": "g. Verlustvortrag",
+      "authors": [],
+      "printed_page_number": "45",
+      "skip": true
+    },
+    {
+      "title": "h. Verkehrsteuern, insbesondere Grunderwerbsteuer",
+      "authors": [],
+      "printed_page_number": "45",
+      "skip": true
+    },
+    {
+      "title": "aa. Umsatzsteuer",
+      "authors": [],
+      "printed_page_number": "45",
+      "skip": true
+    },
+    {
+      "title": "bb. Grunderwerbsteuer",
+      "authors": [],
+      "printed_page_number": "46",
+      "skip": true
+    },
+    {
+      "title": "3. „Zurück“ von der Personenhandelsgesellschaft in die Kapitalgesellschaft",
+      "authors": [],
+      "printed_page_number": "46",
+      "skip": true
+    },
+    {
+      "title": "4. Fazit: Vorteilhaftigkeit des Umwandlungsmodells, insbesondere des Formwechselmodells, gegenüber dem Kombinationsmodell",
+      "authors": [],
+      "printed_page_number": "48",
+      "skip": true
+    },
+    {
+      "title": "5. Empfehlung im Beispielssachverhalt I",
+      "authors": [],
+      "printed_page_number": "48",
+      "skip": true
+    },
+    {
+      "title": "B. Übernahme einer KG",
+      "authors": [],
+      "printed_page_number": "48",
+      "skip": true
+    },
+    {
+      "title": "I. Interessenlage der Parteien",
+      "authors": [],
+      "printed_page_number": "48",
+      "skip": true
+    },
+    {
+      "title": "II. Share deal, Ergänzungsbilanz",
+      "authors": [],
+      "printed_page_number": "49",
+      "skip": true
+    },
+    {
+      "title": "III. Anwachsungsmodell",
+      "authors": [],
+      "printed_page_number": "49",
+      "skip": true
+    },
+    {
+      "title": "IV. Zwischenresümee",
+      "authors": [],
+      "printed_page_number": "50",
+      "skip": true
+    },
+    {
+      "title": "C. Beispielhafte Berechnung der Barwertvorteile aus Step up-AfA",
+      "authors": [],
+      "printed_page_number": "50",
+      "skip": true
+    },
+    {
+      "title": "Abschnitt B: Finanzierung der Übernahme unter besonderer Berücksichtigung des „Strukturellen Nachranges“ der Kreditgeber",
+      "authors": [],
+      "printed_page_number": "53",
+      "skip": true
+    },
+    {
+      "title": "A. Einführung",
+      "authors": [],
+      "printed_page_number": "53",
+      "skip": true
+    },
+    {
+      "title": "1. Interessenlagen",
+      "authors": [],
+      "printed_page_number": "53",
+      "skip": true
+    },
+    {
+      "title": "2. Haftungsbegrenzung für Käufer",
+      "authors": [],
+      "printed_page_number": "53",
+      "skip": true
+    },
+    {
+      "title": "3. Finanzierungselemente",
+      "authors": [],
+      "printed_page_number": "54",
+      "skip": true
+    },
+    {
+      "title": "B. Kredit",
+      "authors": [],
+      "printed_page_number": "54",
+      "skip": true
+    },
+    {
+      "title": "I. „Struktureller Nachrang“",
+      "authors": [],
+      "printed_page_number": "55",
+      "skip": true
+    },
+    {
+      "title": "1. Drittbesicherung als Einlagenrückgewähr? Leistungsverweigerungsrecht gegenüber Inanspruchnahme durch die Bank?",
+      "authors": [],
+      "printed_page_number": "57",
+      "skip": true
+    },
+    {
+      "title": "a. Unstreitige Grundsätze",
+      "authors": [],
+      "printed_page_number": "57",
+      "skip": true
+    },
+    {
+      "title": "b. Vorliegen einer Unterbilanz; stille Reserven",
+      "authors": [],
+      "printed_page_number": "59",
+      "skip": true
+    },
+    {
+      "title": "c. Maßgeblicher Zeitpunkt der Unterbilanz – Folgerungen für die Frage, ob dem Sicherheitengeber ein Leistungsverweigerungsrecht gegenüber der Bank zusteht",
+      "authors": [],
+      "printed_page_number": "62",
+      "skip": true
+    },
+    {
+      "title": "aa. Zeitpunkt der Sicherheitenbestellung und Folge",
+      "authors": [],
+      "printed_page_number": "62",
+      "skip": true
+    },
+    {
+      "title": "bb. Zeitpunkt der Inanspruchnahme der Sicherheit, Folge",
+      "authors": [],
+      "printed_page_number": "67",
+      "skip": true
+    },
+    {
+      "title": "2. Schuldrechtliche Drittbesicherungsschranken",
+      "authors": [],
+      "printed_page_number": "69",
+      "skip": true
+    },
+    {
+      "title": "a. § 138 BGB",
+      "authors": [],
+      "printed_page_number": "70",
+      "skip": true
+    },
+    {
+      "title": "b. § 826 BGB",
+      "authors": [],
+      "printed_page_number": "70",
+      "skip": true
+    },
+    {
+      "title": "c. § 134 BGB",
+      "authors": [],
+      "printed_page_number": "71",
+      "skip": true
+    },
+    {
+      "title": "d. Übertragbarkeit auf GmbH & Co. KG",
+      "authors": [],
+      "printed_page_number": "71",
+      "skip": true
+    },
+    {
+      "title": "e. Fazit: Die Drittbesicherung im vorliegenden Zusammenhang hat Bestand",
+      "authors": [],
+      "printed_page_number": "72",
+      "skip": true
+    },
+    {
+      "title": "3. Drittbesicherung als Einlagenrückgewähr und Kapitalschutz bei der Aktiengesellschaft (§ 57 AktG)",
+      "authors": [],
+      "printed_page_number": "73",
+      "skip": true
+    },
+    {
+      "title": "4. Kein Durchgriff auf die Bank als „atypische“ Pfandgläubigerin gemäß § 32a Abs. 3 GmbHG",
+      "authors": [],
+      "printed_page_number": "74",
+      "skip": true
+    },
+    {
+      "title": "a. Kein „atypisches“ Pfandrecht der Bank als Eigenkapitalsurrogat",
+      "authors": [],
+      "printed_page_number": "75",
+      "skip": true
+    },
+    {
+      "title": "aa. „Typisches“ Pfandrecht",
+      "authors": [],
+      "printed_page_number": "75",
+      "skip": true
+    },
+    {
+      "title": "bb. „Atypisches“ Pfandrecht",
+      "authors": [],
+      "printed_page_number": "75",
+      "skip": true
+    },
+    {
+      "title": "b. Kumulation von „typischem“ Pfandrecht und Drittbesicherung",
+      "authors": [],
+      "printed_page_number": "76",
+      "skip": true
+    },
+    {
+      "title": "5. Fazit",
+      "authors": [],
+      "printed_page_number": "76",
+      "skip": true
+    },
+    {
+      "title": "II. Plausibilitätsprüfung des Kaufpreises/Unternehmenswertes durch die Bank",
+      "authors": [],
+      "printed_page_number": "77",
+      "skip": true
+    },
+    {
+      "title": "1. Ertragswert",
+      "authors": [],
+      "printed_page_number": "77",
+      "skip": true
+    },
+    {
+      "title": "2. Discounted-Cash flow",
+      "authors": [],
+      "printed_page_number": "78",
+      "skip": true
+    },
+    {
+      "title": "3. Substanzwert als Hilfsgröße",
+      "authors": [],
+      "printed_page_number": "79",
+      "skip": true
+    },
+    {
+      "title": "III. Due Diligence/Tragfähigkeitsprüfung der Bank",
+      "authors": [],
+      "printed_page_number": "79",
+      "skip": true
+    },
+    {
+      "title": "IV. Kaufvertrag: Risiken für die Bank",
+      "authors": [],
+      "printed_page_number": "82",
+      "skip": true
+    },
+    {
+      "title": "V. Nach Valutierung: Verpflichtungserklärungen gegenüber der Bank",
+      "authors": [],
+      "printed_page_number": "86",
+      "skip": true
+    },
+    {
+      "title": "1. Informationspflichten",
+      "authors": [],
+      "printed_page_number": "86",
+      "skip": true
+    },
+    {
+      "title": "2. Auflagen",
+      "authors": [],
+      "printed_page_number": "86",
+      "skip": true
+    },
+    {
+      "title": "3. Finanzkennzahlen",
+      "authors": [],
+      "printed_page_number": "87",
+      "skip": true
+    },
+    {
+      "title": "VI. Zwischenresümee",
+      "authors": [],
+      "printed_page_number": "87",
+      "skip": true
+    },
+    {
+      "title": "C. Mezzanine",
+      "authors": [],
+      "printed_page_number": "88",
+      "skip": true
+    },
+    {
+      "title": "1. Qualifikationsmerkmale",
+      "authors": [],
+      "printed_page_number": "89",
+      "skip": true
+    },
+    {
+      "title": "a. Nachrangkapital",
+      "authors": [],
+      "printed_page_number": "89",
+      "skip": true
+    },
+    {
+      "title": "b. Handels- und steuerrechtlicher Betriebsaufwand",
+      "authors": [],
+      "printed_page_number": "89",
+      "skip": true
+    },
+    {
+      "title": "c. Befristung",
+      "authors": [],
+      "printed_page_number": "89",
+      "skip": true
+    },
+    {
+      "title": "d. Gesamtbetrachtung der Qualifikationsmerkmale",
+      "authors": [],
+      "printed_page_number": "90",
+      "skip": true
+    },
+    {
+      "title": "2. Mezzanine-Investoren",
+      "authors": [],
+      "printed_page_number": "90",
+      "skip": true
+    },
+    {
+      "title": "3. Mezzanine-Typen",
+      "authors": [],
+      "printed_page_number": "90",
+      "skip": true
+    },
+    {
+      "title": "4. Beispielssachverhalte",
+      "authors": [],
+      "printed_page_number": "91",
+      "skip": true
+    },
+    {
+      "title": "D. Eigenkapital (Private Equity)",
+      "authors": [],
+      "printed_page_number": "92",
+      "skip": true
+    },
+    {
+      "title": "E. Umsetzung des Beispielssachverhaltes 1",
+      "authors": [],
+      "printed_page_number": "93",
+      "skip": true
+    },
+    {
+      "title": "1. Analyse",
+      "authors": [],
+      "printed_page_number": "93",
+      "skip": true
+    },
+    {
+      "title": "2. Planungsrechnung",
+      "authors": [],
+      "printed_page_number": "95",
+      "skip": true
+    },
+    {
+      "title": "3. Term Sheet",
+      "authors": [],
+      "printed_page_number": "99",
+      "skip": true
+    },
+    {
+      "title": "Zweiter Teil. Öffentliches Übernahmeangebot für eine börsennotierte Aktiengesellschaft im Rahmen eines Hostile Take Over und seine Finanzierung",
+      "authors": [],
+      "printed_page_number": "103",
+      "skip": true
+    },
+    {
+      "title": "I. Grundlegung",
+      "authors": [],
+      "printed_page_number": "105",
+      "skip": true
+    },
+    {
+      "title": "1. Definitorische Eingrenzung",
+      "authors": [],
+      "printed_page_number": "105",
+      "skip": true
+    },
+    {
+      "title": "2. Bisherige Entwicklung",
+      "authors": [],
+      "printed_page_number": "106",
+      "skip": true
+    },
+    {
+      "title": "3. Interessenlagen",
+      "authors": [],
+      "printed_page_number": "107",
+      "skip": true
+    },
+    {
+      "title": "a. Aktionäre der Zielgesellschaft",
+      "authors": [],
+      "printed_page_number": "107",
+      "skip": true
+    },
+    {
+      "title": "b. Aktionäre der bietenden Gesellschaft",
+      "authors": [],
+      "printed_page_number": "107",
+      "skip": true
+    },
+    {
+      "title": "c. Vorstand der Zielgesellschaft",
+      "authors": [],
+      "printed_page_number": "108",
+      "skip": true
+    },
+    {
+      "title": "d. Arbeitnehmer des Zielunternehmens",
+      "authors": [],
+      "printed_page_number": "108",
+      "skip": true
+    },
+    {
+      "title": "4. Betriebswirtschaftlich-ökonomische Gründe",
+      "authors": [],
+      "printed_page_number": "108",
+      "skip": true
+    },
+    {
+      "title": "a. Synergien",
+      "authors": [],
+      "printed_page_number": "108",
+      "skip": true
+    },
+    {
+      "title": "b. „Empire-Building-Hypothese“",
+      "authors": [],
+      "printed_page_number": "109",
+      "skip": true
+    },
+    {
+      "title": "c. „Disziplinierung des Managements“",
+      "authors": [],
+      "printed_page_number": "109",
+      "skip": true
+    },
+    {
+      "title": "d. Zwischenresümee",
+      "authors": [],
+      "printed_page_number": "110",
+      "skip": true
+    },
+    {
+      "title": "II. Freiwilliges öffentliches Kaufangebot",
+      "authors": [],
+      "printed_page_number": "110",
+      "skip": true
+    },
+    {
+      "title": "1. Fehlende gesetzliche Regelung, aber selbstregulatorischer Übernahmekodex",
+      "authors": [],
+      "printed_page_number": "110",
+      "skip": true
+    },
+    {
+      "title": "2. Angebot auf sämtliche Aktien der Zielgesellschaft",
+      "authors": [],
+      "printed_page_number": "112",
+      "skip": true
+    },
+    {
+      "title": "a. Kaufvertrag, Kontrollprämie",
+      "authors": [],
+      "printed_page_number": "112",
+      "skip": true
+    },
+    {
+      "title": "b. Sämtliche Aktien (Pflichtangebot)",
+      "authors": [],
+      "printed_page_number": "113",
+      "skip": true
+    },
+    {
+      "title": "c. Kapitalmaßnahmen der Zielgesellschaft, Bezugsrechte",
+      "authors": [],
+      "printed_page_number": "118",
+      "skip": true
+    },
+    {
+      "title": "3. Bedingungen",
+      "authors": [],
+      "printed_page_number": "119",
+      "skip": true
+    },
+    {
+      "title": "a. Mehrheitserwerb",
+      "authors": [],
+      "printed_page_number": "119",
+      "skip": true
+    },
+    {
+      "title": "b. Zustimmung der Hauptversammlung",
+      "authors": [],
+      "printed_page_number": "119",
+      "skip": true
+    },
+    {
+      "title": "c. Kartellrecht",
+      "authors": [],
+      "printed_page_number": "120",
+      "skip": true
+    },
+    {
+      "title": "4. Annahme und Annahmefrist",
+      "authors": [],
+      "printed_page_number": "121",
+      "skip": true
+    },
+    {
+      "title": "5. Nachbesserung, Gegenangebot",
+      "authors": [],
+      "printed_page_number": "121",
+      "skip": true
+    },
+    {
+      "title": "6. Rücktrittsrechte",
+      "authors": [],
+      "printed_page_number": "122",
+      "skip": true
+    },
+    {
+      "title": "7. Information des Vorstandes der Zielgesellschaft",
+      "authors": [],
+      "printed_page_number": "122",
+      "skip": true
+    },
+    {
+      "title": "8. Angaben über Preis, Ziele, Absichten und finanzielle sowie bilanzielle Auswirkungen",
+      "authors": [],
+      "printed_page_number": "122",
+      "skip": true
+    },
+    {
+      "title": "III. Finanzierung des Erwerbs der Aktien der Ziel-AG",
+      "authors": [],
+      "printed_page_number": "124",
+      "skip": true
+    },
+    {
+      "title": "1. Finanzschulden, Eigenkapital, Bilanzstruktur",
+      "authors": [],
+      "printed_page_number": "125",
+      "skip": true
+    },
+    {
+      "title": "2. Zügige Rückführung: Desinvestitionen und Synergien",
+      "authors": [],
+      "printed_page_number": "125",
+      "skip": true
+    },
+    {
+      "title": "3. Besicherung („Struktureller Nachrang“)",
+      "authors": [],
+      "printed_page_number": "126",
+      "skip": true
+    },
+    {
+      "title": "IV. Abwehrmaßnahmen",
+      "authors": [],
+      "printed_page_number": "126",
+      "skip": true
+    },
+    {
+      "title": "1. Abwehrmaßnahmen während der Angebotslaufzeit",
+      "authors": [],
+      "printed_page_number": "127",
+      "skip": true
+    },
+    {
+      "title": "a. Neutralitätsgebot für Vorstand",
+      "authors": [],
+      "printed_page_number": "127",
+      "skip": true
+    },
+    {
+      "title": "b. Freundlicher Bieter (White Knight)",
+      "authors": [],
+      "printed_page_number": "129",
+      "skip": true
+    },
+    {
+      "title": "c. Gegenangebot der Zielgesellschaft, Auskauf des Bieters",
+      "authors": [],
+      "printed_page_number": "129",
+      "skip": true
+    },
+    {
+      "title": "d. Provozieren kartellrechtlicher oder anderer Probleme durch Zukauf seitens der Zielgesellschaft",
+      "authors": [],
+      "printed_page_number": "130",
+      "skip": true
+    },
+    {
+      "title": "2. Abwehrmaßnahmen vor Bekanntgabe eines öffentlichen Angebotes",
+      "authors": [],
+      "printed_page_number": "130",
+      "skip": true
+    },
+    {
+      "title": "a. Grundsatz",
+      "authors": [],
+      "printed_page_number": "130",
+      "skip": true
+    },
+    {
+      "title": "b. Höchststimmrechte",
+      "authors": [],
+      "printed_page_number": "131",
+      "skip": true
+    },
+    {
+      "title": "c. Vorzugsaktien; Vinkulierung von Namensaktien",
+      "authors": [],
+      "printed_page_number": "132",
+      "skip": true
+    },
+    {
+      "title": "d. Kapitalerhöhungen unter Ausschluß des Bezugsrechtes",
+      "authors": [],
+      "printed_page_number": "132",
+      "skip": true
+    },
+    {
+      "title": "e. Erwerb eigener Aktien",
+      "authors": [],
+      "printed_page_number": "135",
+      "skip": true
+    },
+    {
+      "title": "f. Organisationsstrukturelle Maßnahmen",
+      "authors": [],
+      "printed_page_number": "135",
+      "skip": true
+    },
+    {
+      "title": "g. Verkauf wesentlicher Aktiva",
+      "authors": [],
+      "printed_page_number": "135",
+      "skip": true
+    },
+    {
+      "title": "h. Fazit",
+      "authors": [],
+      "printed_page_number": "136",
+      "skip": true
+    },
+    {
+      "title": "V. Folgerungen für den Beispielssachverhalt",
+      "authors": [],
+      "printed_page_number": "137",
+      "skip": true
+    },
+    {
+      "title": "VI. Schlußbemerkung",
+      "authors": [],
+      "printed_page_number": "137",
+      "skip": true
+    },
+    {
+      "title": "Kapitel 2. Großanlagen- und Immobilien-Leasing (Big ticket-Leasing)",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Beispielssachverhalte",
+      "authors": [],
+      "printed_page_number": "139",
+      "skip": true
+    },
+    {
+      "title": "Einführung",
+      "authors": [],
+      "printed_page_number": "141",
+      "skip": true
+    },
+    {
+      "title": "Erster Teil. Vertragliche Beziehungen",
+      "authors": [],
+      "printed_page_number": "144",
+      "skip": true
+    },
+    {
+      "title": "I. Einzweckgesellschaft als Leasing-Geber",
+      "authors": [],
+      "printed_page_number": "144",
+      "skip": true
+    },
+    {
+      "title": "1. Einzweckgesellschaft aktiviert Leasing-Gut",
+      "authors": [],
+      "printed_page_number": "144",
+      "skip": true
+    },
+    {
+      "title": "2. Rechtsform, Gesellschaftszweck",
+      "authors": [],
+      "printed_page_number": "146",
+      "skip": true
+    },
+    {
+      "title": "II. Verwaltungsvertrag zwischen Einzweckgesellschaft und Leasing-Unternehmen",
+      "authors": [],
+      "printed_page_number": "148",
+      "skip": true
+    },
+    {
+      "title": "III. Erwerb der Leasing-Objekte durch den Leasing-Geber",
+      "authors": [],
+      "printed_page_number": "149",
+      "skip": true
+    },
+    {
+      "title": "IV. Leasing-Vertrag",
+      "authors": [],
+      "printed_page_number": "151",
+      "skip": true
+    },
+    {
+      "title": "1. Bedeutung des Vertragstyps",
+      "authors": [],
+      "printed_page_number": "151",
+      "skip": true
+    },
+    {
+      "title": "2. Vertragslaufzeitbezogene Regelungen",
+      "authors": [],
+      "printed_page_number": "153",
+      "skip": true
+    },
+    {
+      "title": "a. Vertragslaufzeit",
+      "authors": [],
+      "printed_page_number": "153",
+      "skip": true
+    },
+    {
+      "title": "b. Kündigungsrechte",
+      "authors": [],
+      "printed_page_number": "155",
+      "skip": true
+    },
+    {
+      "title": "c. Leasing-Raten",
+      "authors": [],
+      "printed_page_number": "156",
+      "skip": true
+    },
+    {
+      "title": "d. Gewährleistung, Instandhaltung, Versicherungen",
+      "authors": [],
+      "printed_page_number": "158",
+      "skip": true
+    },
+    {
+      "title": "3. Optionsregelungen",
+      "authors": [],
+      "printed_page_number": "160",
+      "skip": true
+    },
+    {
+      "title": "a. Teilamortisation erfordern Optionsregelungen",
+      "authors": [],
+      "printed_page_number": "160",
+      "skip": true
+    },
+    {
+      "title": "b. Ankaufsrecht zum Restbuchwert (call option)",
+      "authors": [],
+      "printed_page_number": "161",
+      "skip": true
+    },
+    {
+      "title": "c. Vorkaufsrecht zum Verkehrswert mit Restwertgarantie",
+      "authors": [],
+      "printed_page_number": "162",
+      "skip": true
+    },
+    {
+      "title": "d. Andienungsrecht zum Restbuchwert (put option)",
+      "authors": [],
+      "printed_page_number": "163",
+      "skip": true
+    },
+    {
+      "title": "e. Kombiniertes Ankaufs- und Andienungsrecht unter Einbezug der Gesellschafterebene",
+      "authors": [],
+      "printed_page_number": "165",
+      "skip": true
+    },
+    {
+      "title": "f. Mietvorauszahlungsmodell",
+      "authors": [],
+      "printed_page_number": "166",
+      "skip": true
+    },
+    {
+      "title": "V. Leasing-Fonds",
+      "authors": [],
+      "printed_page_number": "167",
+      "skip": true
+    },
+    {
+      "title": "1. Vertrag über Plazierung des Eigenkapitals einschließlich Plazierungsgarantie",
+      "authors": [],
+      "printed_page_number": "167",
+      "skip": true
+    },
+    {
+      "title": "2. Vertrag mit Treuhandkommanditist",
+      "authors": [],
+      "printed_page_number": "167",
+      "skip": true
+    },
+    {
+      "title": "3. Fonds-Verwaltungsvertrag",
+      "authors": [],
+      "printed_page_number": "167",
+      "skip": true
+    },
+    {
+      "title": "4. Konzeptionsvertrag",
+      "authors": [],
+      "printed_page_number": "169",
+      "skip": true
+    },
+    {
+      "title": "Zweiter Teil. Strukturierte steuerinduzierte Finanzierungen (insbesondere Publikums-Leasing-Fonds)",
+      "authors": [],
+      "printed_page_number": "169",
+      "skip": true
+    },
+    {
+      "title": "A. Objektgesellschaft mit sehr geringem Eigenkapital",
+      "authors": [],
+      "printed_page_number": "170",
+      "skip": true
+    },
+    {
+      "title": "1. Kreditfinanzierung: „Name Lending“",
+      "authors": [],
+      "printed_page_number": "170",
+      "skip": true
+    },
+    {
+      "title": "2. Forfaitierung: Passivischer Rechnungsabgrenzungsposten",
+      "authors": [],
+      "printed_page_number": "172",
+      "skip": true
+    },
+    {
+      "title": "3. Erweiterte Kürzung gem. § 9 Nr. 1 Satz 2 GewStG",
+      "authors": [],
+      "printed_page_number": "174",
+      "skip": true
+    },
+    {
+      "title": "B. Leasing-Fonds-Modell, insbesondere Publikums-Fonds",
+      "authors": [],
+      "printed_page_number": "175",
+      "skip": true
+    },
+    {
+      "title": "I. Parameter für die Eigen- und Fremdkapitalausstattung der Fonds-Einzweckgesellschaft",
+      "authors": [],
+      "printed_page_number": "176",
+      "skip": true
+    },
+    {
+      "title": "1. Fonds-Eigenkapital als Risikoträger",
+      "authors": [],
+      "printed_page_number": "176",
+      "skip": true
+    },
+    {
+      "title": "2. Haftungserwägungen der Eigenkapital plazierenden Banken",
+      "authors": [],
+      "printed_page_number": "177",
+      "skip": true
+    },
+    {
+      "title": "II. Steuerinduzierte Renditeerhöhung sowie Barwertvorteile",
+      "authors": [],
+      "printed_page_number": "178",
+      "skip": true
+    },
+    {
+      "title": "II.A. Einführung",
+      "authors": [],
+      "printed_page_number": "178",
+      "skip": true
+    },
+    {
+      "title": "II.B. Einkommensteuern",
+      "authors": [],
+      "printed_page_number": "178",
+      "skip": true
+    },
+    {
+      "title": "1. Wirkweise der Verlustzuweisungen",
+      "authors": [],
+      "printed_page_number": "178",
+      "skip": true
+    },
+    {
+      "title": "2. Barwertvorteil für den Leasing-Nehmer",
+      "authors": [],
+      "printed_page_number": "179",
+      "skip": true
+    },
+    {
+      "title": "3. Rechtsformwahl für die Fonds-Einzweckgesellschaft",
+      "authors": [],
+      "printed_page_number": "181",
+      "skip": true
+    },
+    {
+      "title": "a. Rechtsformwahl",
+      "authors": [],
+      "printed_page_number": "181",
+      "skip": true
+    },
+    {
+      "title": "b. Haftungsrisiken",
+      "authors": [],
+      "printed_page_number": "182",
+      "skip": true
+    },
+    {
+      "title": "4. Steuerliche Qualifikation der Fonds-Einkünfte, Einkünfteerzielungsabsicht, Einbeziehung des Veräußerungsgewinns",
+      "authors": [],
+      "printed_page_number": "182",
+      "skip": true
+    },
+    {
+      "title": "a. Ausgangslage",
+      "authors": [],
+      "printed_page_number": "182",
+      "skip": true
+    },
+    {
+      "title": "b. Einkunftsart Vermietung und Verpachtung, Sonstige Einkünfte i.S.d. § 22 EStG, natürliche Person als KG-Komplementär",
+      "authors": [],
+      "printed_page_number": "183",
+      "skip": true
+    },
+    {
+      "title": "aa. Immobilie",
+      "authors": [],
+      "printed_page_number": "183",
+      "skip": true
+    },
+    {
+      "title": "bb. Mobile Großanlagen",
+      "authors": [],
+      "printed_page_number": "184",
+      "skip": true
+    },
+    {
+      "title": "c. Gewerbliche Einkünfte; GmbH als Komplementär",
+      "authors": [],
+      "printed_page_number": "185",
+      "skip": true
+    },
+    {
+      "title": "d. Zwischenresümee",
+      "authors": [],
+      "printed_page_number": "187",
+      "skip": true
+    },
+    {
+      "title": "5. Anteilsfinanzierung (Sonderbetriebsvermögen)",
+      "authors": [],
+      "printed_page_number": "187",
+      "skip": true
+    },
+    {
+      "title": "a. Rechtliche Grundlagen",
+      "authors": [],
+      "printed_page_number": "188",
+      "skip": true
+    },
+    {
+      "title": "b. Steuerliche Grundlagen",
+      "authors": [],
+      "printed_page_number": "190",
+      "skip": true
+    },
+    {
+      "title": "6. Ertragsteuerliche Voraussetzungen",
+      "authors": [],
+      "printed_page_number": "191",
+      "skip": true
+    },
+    {
+      "title": "1. Mitunternehmerschaft",
+      "authors": [],
+      "printed_page_number": "191",
+      "skip": true
+    },
+    {
+      "title": "2. Verlustausgleich",
+      "authors": [],
+      "printed_page_number": "192",
+      "skip": true
+    },
+    {
+      "title": "7. Beendigung der Kapitalanlage",
+      "authors": [],
+      "printed_page_number": "192",
+      "skip": true
+    },
+    {
+      "title": "1. Planmäßiger Aufgabegewinn",
+      "authors": [],
+      "printed_page_number": "192",
+      "skip": true
+    },
+    {
+      "title": "2. Vorzeitiges Ausscheiden",
+      "authors": [],
+      "printed_page_number": "193",
+      "skip": true
+    },
+    {
+      "title": "8. Steuerliche Behandlung von Dienstleistungshonoraren",
+      "authors": [],
+      "printed_page_number": "194",
+      "skip": true
+    },
+    {
+      "title": "II.C. Sonstige Steuern",
+      "authors": [],
+      "printed_page_number": "195",
+      "skip": true
+    },
+    {
+      "title": "1. Erbschaft-/Schenkungsteuer",
+      "authors": [],
+      "printed_page_number": "195",
+      "skip": true
+    },
+    {
+      "title": "2. Steuern der Leasing-Einzweckgesellschaft",
+      "authors": [],
+      "printed_page_number": "195",
+      "skip": true
+    },
+    {
+      "title": "a. Gewerbesteuer",
+      "authors": [],
+      "printed_page_number": "195",
+      "skip": true
+    },
+    {
+      "title": "b. Umsatzsteuer",
+      "authors": [],
+      "printed_page_number": "196",
+      "skip": true
+    },
+    {
+      "title": "c. Grundsteuer und Grunderwerbsteuer",
+      "authors": [],
+      "printed_page_number": "196",
+      "skip": true
+    },
+    {
+      "title": "C. Defeasance-Strukturen (In-Substance-Defeasance; derivativer Schuldner)",
+      "authors": [],
+      "printed_page_number": "196",
+      "skip": true
+    },
+    {
+      "title": "1. Grundstruktur",
+      "authors": [],
+      "printed_page_number": "197",
+      "skip": true
+    },
+    {
+      "title": "2. Legal Defeasance",
+      "authors": [],
+      "printed_page_number": "197",
+      "skip": true
+    },
+    {
+      "title": "3. Economic Defeasance",
+      "authors": [],
+      "printed_page_number": "199",
+      "skip": true
+    },
+    {
+      "title": "D. Grenzüberschreitende Leasing-Finanzierungen",
+      "authors": [],
+      "printed_page_number": "201",
+      "skip": true
+    },
+    {
+      "title": "1. Double dip",
+      "authors": [],
+      "printed_page_number": "201",
+      "skip": true
+    },
+    {
+      "title": "2. Lease-in/Lease-out",
+      "authors": [],
+      "printed_page_number": "203",
+      "skip": true
+    },
+    {
+      "title": "a. Einführung",
+      "authors": [],
+      "printed_page_number": "203",
+      "skip": true
+    },
+    {
+      "title": "b. Grundstruktur",
+      "authors": [],
+      "printed_page_number": "203",
+      "skip": true
+    },
+    {
+      "title": "c. Defeasance",
+      "authors": [],
+      "printed_page_number": "205",
+      "skip": true
+    },
+    {
+      "title": "E. Fortsetzung: Vertragstypologische Qualifikation",
+      "authors": [],
+      "printed_page_number": "205",
+      "skip": true
+    },
+    {
+      "title": "F. Schlußbemerkung",
+      "authors": [],
+      "printed_page_number": "206",
+      "skip": true
+    },
+    {
+      "title": "G. Term Sheets",
+      "authors": [],
+      "printed_page_number": "207",
+      "skip": true
+    },
+    {
+      "title": "Kapitel 3. Asset Backed-Finanzierungen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Beispielssachverhalt",
+      "authors": [],
+      "printed_page_number": "213",
+      "skip": true
+    },
+    {
+      "title": "I. Einleitung",
+      "authors": [],
+      "printed_page_number": "214",
+      "skip": true
+    },
+    {
+      "title": "1. Statistisch-historische Gesamtbewertung des anzukaufenden Forderungsportfolios",
+      "authors": [],
+      "printed_page_number": "214",
+      "skip": true
+    },
+    {
+      "title": "2. Isolierung des Forderungsportfolios: Rating- und Finanzierungskostenvorteile",
+      "authors": [],
+      "printed_page_number": "215",
+      "skip": true
+    },
+    {
+      "title": "3. Zugang zum Geld- und Kapitalmarkt",
+      "authors": [],
+      "printed_page_number": "216",
+      "skip": true
+    },
+    {
+      "title": "4. Off-Balance Sheet-Finanzierung",
+      "authors": [],
+      "printed_page_number": "216",
+      "skip": true
+    },
+    {
+      "title": "II. Forderungskaufvertrag (True Sale)",
+      "authors": [],
+      "printed_page_number": "217",
+      "skip": true
+    },
+    {
+      "title": "1. Bestimmbarkeitsgrundsatz; Ausschluß der Abtretbarkeit",
+      "authors": [],
+      "printed_page_number": "217",
+      "skip": true
+    },
+    {
+      "title": "2. Regreßlosigkeit; Gewährleistungen",
+      "authors": [],
+      "printed_page_number": "218",
+      "skip": true
+    },
+    {
+      "title": "a. Absicherung allein aus den zedierten Forderungen",
+      "authors": [],
+      "printed_page_number": "219",
+      "skip": true
+    },
+    {
+      "title": "b. Teilweise Risikoübernahme durch den Forderungsverkäufer",
+      "authors": [],
+      "printed_page_number": "221",
+      "skip": true
+    },
+    {
+      "title": "c. Haftungsübernahme durch Gesellschafter",
+      "authors": [],
+      "printed_page_number": "221",
+      "skip": true
+    },
+    {
+      "title": "d. Besicherungen durch außenstehende Dritte",
+      "authors": [],
+      "printed_page_number": "222",
+      "skip": true
+    },
+    {
+      "title": "3. Revolvierender Forderungsankauf",
+      "authors": [],
+      "printed_page_number": "223",
+      "skip": true
+    },
+    {
+      "title": "4. Forderungseinzug",
+      "authors": [],
+      "printed_page_number": "225",
+      "skip": true
+    },
+    {
+      "title": "III. Forderungskäufer: Einzweckgesellschaft",
+      "authors": [],
+      "printed_page_number": "226",
+      "skip": true
+    },
+    {
+      "title": "IV. Bilanz- und Steuerrecht",
+      "authors": [],
+      "printed_page_number": "226",
+      "skip": true
+    },
+    {
+      "title": "1. Bilanzrecht",
+      "authors": [],
+      "printed_page_number": "226",
+      "skip": true
+    },
+    {
+      "title": "2. Steuerrecht",
+      "authors": [],
+      "printed_page_number": "228",
+      "skip": true
+    },
+    {
+      "title": "a. Gewerbesteuer",
+      "authors": [],
+      "printed_page_number": "229",
+      "skip": true
+    },
+    {
+      "title": "b. Umsatzsteuer",
+      "authors": [],
+      "printed_page_number": "229",
+      "skip": true
+    },
+    {
+      "title": "c. Sonstige Steuern",
+      "authors": [],
+      "printed_page_number": "229",
+      "skip": true
+    },
+    {
+      "title": "V. (Re-)Finanzierung",
+      "authors": [],
+      "printed_page_number": "229",
+      "skip": true
+    },
+    {
+      "title": "1. Kredit (Bankenmarkt)",
+      "authors": [],
+      "printed_page_number": "231",
+      "skip": true
+    },
+    {
+      "title": "2. Asset Backed-Securities (Kapitalmarkt)",
+      "authors": [],
+      "printed_page_number": "232",
+      "skip": true
+    },
+    {
+      "title": "a. Rating",
+      "authors": [],
+      "printed_page_number": "232",
+      "skip": true
+    },
+    {
+      "title": "b. Credit enhancement",
+      "authors": [],
+      "printed_page_number": "233",
+      "skip": true
+    },
+    {
+      "title": "c. Conduit, Multi Seller Vehicle",
+      "authors": [],
+      "printed_page_number": "233",
+      "skip": true
+    },
+    {
+      "title": "d. Back-up-line",
+      "authors": [],
+      "printed_page_number": "233",
+      "skip": true
+    },
+    {
+      "title": "e. Swap-Vereinbarungen",
+      "authors": [],
+      "printed_page_number": "234",
+      "skip": true
+    },
+    {
+      "title": "f. Kosten",
+      "authors": [],
+      "printed_page_number": "234",
+      "skip": true
+    },
+    {
+      "title": "3. Sonderformen",
+      "authors": [],
+      "printed_page_number": "234",
+      "skip": true
+    },
+    {
+      "title": "a. Mortgage Backed-Securities",
+      "authors": [],
+      "printed_page_number": "234",
+      "skip": true
+    },
+    {
+      "title": "b. Verbriefung von Bankkreditforderungen",
+      "authors": [],
+      "printed_page_number": "235",
+      "skip": true
+    },
+    {
+      "title": "VI. Konsequenzen für den Beispielssachverhalt",
+      "authors": [],
+      "printed_page_number": "236",
+      "skip": true
+    },
+    {
+      "title": "VII. Schlußbemerkung",
+      "authors": [],
+      "printed_page_number": "237",
+      "skip": true
+    },
+    {
+      "title": "VIII. Term Sheet",
+      "authors": [],
+      "printed_page_number": "239",
+      "skip": true
+    },
+    {
+      "title": "Kapitel 4. Projektfinanzierungen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": false
+    },
+    {
+      "title": "Beispielssachverhalt",
+      "authors": [],
+      "printed_page_number": "253",
+      "skip": true
+    },
+    {
+      "title": "A. Einleitung; Begriffliche Eingrenzung",
+      "authors": [],
+      "printed_page_number": "254",
+      "skip": true
+    },
+    {
+      "title": "B. Projektgesellschaft (Einzweckgesellschaft)",
+      "authors": [],
+      "printed_page_number": "259",
+      "skip": true
+    },
+    {
+      "title": "C. Projektverträge",
+      "authors": [],
+      "printed_page_number": "262",
+      "skip": true
+    },
+    {
+      "title": "1. Bauvertrag",
+      "authors": [],
+      "printed_page_number": "263",
+      "skip": true
+    },
+    {
+      "title": "2. Verträge zur Rohstoffversorgung und Abnahme der Fertigprodukte",
+      "authors": [],
+      "printed_page_number": "264",
+      "skip": true
+    },
+    {
+      "title": "3. Betreibervertrag",
+      "authors": [],
+      "printed_page_number": "265",
+      "skip": true
+    },
+    {
+      "title": "4. Konzessionen, Lizenzen",
+      "authors": [],
+      "printed_page_number": "265",
+      "skip": true
+    },
+    {
+      "title": "D. Kreditvertrag",
+      "authors": [],
+      "printed_page_number": "265",
+      "skip": true
+    },
+    {
+      "title": "I. Einleitung",
+      "authors": [],
+      "printed_page_number": "269",
+      "skip": true
+    },
+    {
+      "title": "II. Kommerzieller Kredit",
+      "authors": [],
+      "printed_page_number": "269",
+      "skip": true
+    },
+    {
+      "title": "1. Vertragspartner",
+      "authors": [],
+      "printed_page_number": "269",
+      "skip": true
+    },
+    {
+      "title": "2. Präambel",
+      "authors": [],
+      "printed_page_number": "269",
+      "skip": true
+    },
+    {
+      "title": "3. Betrag",
+      "authors": [],
+      "printed_page_number": "269",
+      "skip": true
+    },
+    {
+      "title": "4. Mittelverwendung",
+      "authors": [],
+      "printed_page_number": "269",
+      "skip": true
+    },
+    {
+      "title": "5. Zinssatz",
+      "authors": [],
+      "printed_page_number": "270",
+      "skip": true
+    },
+    {
+      "title": "6. Inanspruchnahme",
+      "authors": [],
+      "printed_page_number": "270",
+      "skip": true
+    },
+    {
+      "title": "7. Rückzahlung",
+      "authors": [],
+      "printed_page_number": "270",
+      "skip": true
+    },
+    {
+      "title": "8. Auszahlungsvoraussetzungen (Conditions Precedent)",
+      "authors": [],
+      "printed_page_number": "270",
+      "skip": true
+    },
+    {
+      "title": "a. Auszahlungsvoraussetzungen, die der Kreditnehmer zu erbringen hat",
+      "authors": [],
+      "printed_page_number": "270",
+      "skip": true
+    },
+    {
+      "title": "b. Auszahlungsvoraussetzungen, die von staatlichen Institutionen zu erbringen sind",
+      "authors": [],
+      "printed_page_number": "273",
+      "skip": true
+    },
+    {
+      "title": "c. Auszahlungsvoraussetzungen, die von den Sponsoren zu erbringen sind",
+      "authors": [],
+      "printed_page_number": "273",
+      "skip": true
+    },
+    {
+      "title": "d. Auszahlungsvoraussetzungen, die von sonstigen Dritten erfüllt werden",
+      "authors": [],
+      "printed_page_number": "275",
+      "skip": true
+    },
+    {
+      "title": "9. Aus- und Rückzahlungen",
+      "authors": [],
+      "printed_page_number": "275",
+      "skip": true
+    },
+    {
+      "title": "10. Steuern",
+      "authors": [],
+      "printed_page_number": "275",
+      "skip": true
+    },
+    {
+      "title": "11. Margensicherung; Rechtswidrigkeitsklausel; freie Verfügbarkeit der Währung",
+      "authors": [],
+      "printed_page_number": "275",
+      "skip": true
+    },
+    {
+      "title": "12. Konten",
+      "authors": [],
+      "printed_page_number": "276",
+      "skip": true
+    },
+    {
+      "title": "13. Verpflichtungserklärungen (Covenants)",
+      "authors": [],
+      "printed_page_number": "278",
+      "skip": true
+    },
+    {
+      "title": "14. Vertragliche Zusicherungen (Representations and Warranties)",
+      "authors": [],
+      "printed_page_number": "279",
+      "skip": true
+    },
+    {
+      "title": "15. Kündigungsgründe (Events of Default)",
+      "authors": [],
+      "printed_page_number": "280",
+      "skip": true
+    },
+    {
+      "title": "16. Sicherheiten (Collateral)",
+      "authors": [],
+      "printed_page_number": "282",
+      "skip": true
+    },
+    {
+      "title": "17. Anwendbares Recht; Gerichtsstand",
+      "authors": [],
+      "printed_page_number": "282",
+      "skip": true
+    },
+    {
+      "title": "III. Exportfinanzierung",
+      "authors": [],
+      "printed_page_number": "286",
+      "skip": true
+    },
+    {
+      "title": "IV. Kapitalanlage-Deckung",
+      "authors": [],
+      "printed_page_number": "286",
+      "skip": true
+    },
+    {
+      "title": "1. Einleitung",
+      "authors": [],
+      "printed_page_number": "286",
+      "skip": true
+    },
+    {
+      "title": "2. GKA-Deckung für Direktbeteiligungen, Dotationskapitel einer Niederlassung",
+      "authors": [],
+      "printed_page_number": "287",
+      "skip": true
+    },
+    {
+      "title": "3. GKA-Deckung für „Beteiligungsähnliches Darlehen“",
+      "authors": [],
+      "printed_page_number": "289",
+      "skip": true
+    },
+    {
+      "title": "V. IFC-Loan (A und B)",
+      "authors": [],
+      "printed_page_number": "290",
+      "skip": true
+    },
+    {
+      "title": "VI. Intercreditor Agreement",
+      "authors": [],
+      "printed_page_number": "291",
+      "skip": true
+    },
+    {
+      "title": "E. Umsetzung des Beispielssachverhaltes",
+      "authors": [],
+      "printed_page_number": "292",
+      "skip": true
+    },
+    {
+      "title": "1. Zentrale Deckungsrelationen",
+      "authors": [],
+      "printed_page_number": "292",
+      "skip": true
+    },
+    {
+      "title": "a. Life of Loan Cover Ratio (LLCR)",
+      "authors": [],
+      "printed_page_number": "292",
+      "skip": true
+    },
+    {
+      "title": "b. Debt Service Cover Ratio (DSCR)",
+      "authors": [],
+      "printed_page_number": "293",
+      "skip": true
+    },
+    {
+      "title": "2. Analyse",
+      "authors": [],
+      "printed_page_number": "293",
+      "skip": true
+    },
+    {
+      "title": "3. Planungsrechnung",
+      "authors": [],
+      "printed_page_number": "299",
+      "skip": true
+    },
+    {
+      "title": "F. Schlußbemerkung",
+      "authors": [],
+      "printed_page_number": "301",
+      "skip": true
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "301",
+      "skip": true
+    },
+    {
+      "title": "Stichwortverzeichnis",
+      "authors": [],
+      "printed_page_number": "311",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

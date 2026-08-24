@@ -1,0 +1,156 @@
+{
+  "generated_at": 1787585422.3393788,
+  "duration_seconds": 11.367284707986983,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Neue an der Frauenbewegung. Versuch einer Wirkungsanalyse der neuen Frauenbewegung",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "Barbara Riedm\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "I. WISSENSCHAFT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Frauenrolle und Rollenanalyse",
+      "printed_page_number": "45",
+      "source_page_index": -1,
+      "authors": [
+        "Uta Gerhardt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "M\u00e4nnliche Moral \u2013 weibliche Moral?",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer D\u00f6bert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "M\u00fctterliche Erwerbst\u00e4tigkeit und wissenschaftliche Forschung",
+      "printed_page_number": "114",
+      "source_page_index": -1,
+      "authors": [
+        "Yvonne Sch\u00fctze"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. RECHT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Thesen zur rechtlichen Stellung der Frau",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [
+        "Barbara Willenbacher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gleichberechtigung via Rechtsnorm? Zur Frage eines Antidiskriminierungsgesetzes in der Bundesrepublik",
+      "printed_page_number": "166",
+      "source_page_index": -1,
+      "authors": [
+        "Christine Hohmann-Dennhardt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der F\u00f6tus als Subjekt und die Autonomie der Frau. Wissenschaftlich-technische Optionen und soziale Kontrollen in der Schwangerschaft",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang van den Daele"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. FAMILIE UND ARBEITSMARKT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Weibliche Erwerbst\u00e4tigkeit und Kinderzahl",
+      "printed_page_number": "219",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Joachim Hoffmann-Nowotny"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Von der Hausfrau zur Berufsfrau? Der Einflu\u00df struktureller Wandlungen des Frauseins auf familiales Zusammenleben",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Bertram",
+        "Renate Borrmann-M\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00bbMan marschiert als Frau auf Neuland\u00ab \u2013 \u00dcber den schwierigen Weg der Frauen in die Wissenschaft",
+      "printed_page_number": "273",
+      "source_page_index": -1,
+      "authors": [
+        "Angelika Wetterer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hinweise zu den Autorinnen und Autoren",
+      "printed_page_number": "292",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

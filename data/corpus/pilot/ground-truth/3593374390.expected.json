@@ -1,0 +1,200 @@
+{
+  "entries": [
+    {
+      "title": "1. Einleitung",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "2. Elite und Masse",
+      "authors": [],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "2.1 \u00bbDie Psychologie der Massen\u00ab (Gustave Le Bon)",
+      "authors": [
+        "Gustave Le Bon"
+      ],
+      "printed_page_number": "16",
+      "skip": false
+    },
+    {
+      "title": "2.2 \u00bbDie herrschende Klasse\u00ab (Gaetano Mosca)",
+      "authors": [
+        "Gaetano Mosca"
+      ],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "2.3 Der \u00bbKreislauf der Eliten\u00ab (Vilfredo Pareto)",
+      "authors": [
+        "Vilfredo Pareto"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "2.4 Das \u00bbherrne Gesetz der Oligarchie\u00ab (Robert Michels)",
+      "authors": [
+        "Robert Michels"
+      ],
+      "printed_page_number": "32",
+      "skip": false
+    },
+    {
+      "title": "2.5 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "3. Die Funktionseliten",
+      "authors": [],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "3.1 Masse und Funktionseliten",
+      "authors": [],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "3.2 Funktionseliten und Demokratie",
+      "authors": [],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "3.3 \u00bbStrategic Elites\u00ab (Suzanne Keller)",
+      "authors": [
+        "Suzanne Keller"
+      ],
+      "printed_page_number": "60",
+      "skip": false
+    },
+    {
+      "title": "3.4 Funktionseliten und Konsens",
+      "authors": [],
+      "printed_page_number": "66",
+      "skip": false
+    },
+    {
+      "title": "3.5 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "4. Eliten und Klassen",
+      "authors": [],
+      "printed_page_number": "76",
+      "skip": false
+    },
+    {
+      "title": "4.1 \u00bbThe Power Elite\u00ab (C. Wright Mills)",
+      "authors": [
+        "C. Wright Mills"
+      ],
+      "printed_page_number": "76",
+      "skip": false
+    },
+    {
+      "title": "4.2 Die Reproduktion der herrschenden Klasse",
+      "authors": [
+        "Pierre Bourdieu"
+      ],
+      "printed_page_number": "84",
+      "skip": false
+    },
+    {
+      "title": "4.3 Zusammenfassung",
+      "authors": [],
+      "printed_page_number": "98",
+      "skip": false
+    },
+    {
+      "title": "5. Nationale Bildungssysteme und Elitenrekrutierung",
+      "authors": [],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "5.1 Frankreich: Die Grandes \u00c9coles und die Grands Corps",
+      "authors": [],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "5.2 Gro\u00dfbritannien: Eton und Oxbridge",
+      "authors": [],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "5.3 USA: St. Grottesex und die Ivy League",
+      "authors": [],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "5.4 Japan: Die Todai-Connection",
+      "authors": [],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "5.5 Deutschland: Promotion und b\u00fcrgerlicher Habitus",
+      "authors": [],
+      "printed_page_number": "136",
+      "skip": false
+    },
+    {
+      "title": "5.6 Internationalisierung der Eliten?",
+      "authors": [],
+      "printed_page_number": "147",
+      "skip": false
+    },
+    {
+      "title": "6. Eliten und Klassenstrukturen",
+      "authors": [],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "6.1 Leistungseliten und Elitenkonsens",
+      "authors": [],
+      "printed_page_number": "154",
+      "skip": false
+    },
+    {
+      "title": "6.2 Die besondere Rolle der Wirtschaftselite",
+      "authors": [],
+      "printed_page_number": "162",
+      "skip": false
+    },
+    {
+      "title": "6.3 Herrschende Klasse und gesamtgesellschaftliche Kr\u00e4fteverh\u00e4ltnisse",
+      "authors": [],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "authors": [],
+      "printed_page_number": "187",
+      "skip": true
+    },
+    {
+      "title": "Register",
+      "authors": [],
+      "printed_page_number": "197",
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

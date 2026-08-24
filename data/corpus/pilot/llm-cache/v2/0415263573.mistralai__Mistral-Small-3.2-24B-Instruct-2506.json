@@ -1,0 +1,641 @@
+{
+  "generated_at": 1787585045.480924,
+  "duration_seconds": 58.60591920898878,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "List of Illustrations",
+      "printed_page_number": "xii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Annotation and Footnotes",
+      "printed_page_number": "xiii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgments",
+      "printed_page_number": "xiv",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Introduction",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "I: Contexts",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Contextual Overview",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chronology",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Contemporary Documents",
+      "printed_page_number": "26",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Selected Letters",
+      "printed_page_number": "26",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Charlotte Perkins Stetson, Letter to Martha Luther Lane, 1890",
+      "printed_page_number": "26",
+      "source_page_index": -1,
+      "authors": [
+        "Charlotte Perkins Stetson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "William Dean Howells, Letter to Horace E. Scudder, 1890",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [
+        "William Dean Howells"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Horace E. Scudder, Letter to Charlotte Perkins Stetson, 1890",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [
+        "Horace E. Scudder"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literary Context",
+      "printed_page_number": "28",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Edgar Allan Poe, \"The Tell-Tale Heart,\" The Pioneer (1843)",
+      "printed_page_number": "28",
+      "source_page_index": -1,
+      "authors": [
+        "Edgar Allan Poe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Alice James, The Diary of Alice James (posthumously published in 1934)",
+      "printed_page_number": "32",
+      "source_page_index": -1,
+      "authors": [
+        "Alice James"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Charlotte Perkins Gilman, \"Through This,\" Kate Field\u2019s Washington (1893)",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [
+        "Charlotte Perkins Gilman"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kate Chopin, \"The Story of an Hour,\" Vogue (1894)",
+      "printed_page_number": "37",
+      "source_page_index": -1,
+      "authors": [
+        "Kate Chopin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Selected poems from Charlotte Perkins Gilman, In This Our World (3rd edn, 1898)",
+      "printed_page_number": "39",
+      "source_page_index": -1,
+      "authors": [
+        "Charlotte Perkins Gilman"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Charlotte Perkins Gilman, \"Why I Wrote 'The Yellow Wallpaper'?,\" Forerunner (1913)",
+      "printed_page_number": "45",
+      "source_page_index": -1,
+      "authors": [
+        "Charlotte Perkins Gilman"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Charlotte Perkins Gilman, The Living of Charlotte Perkins Gilman (1935)",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [
+        "Charlotte Perkins Gilman"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Cultural Context",
+      "printed_page_number": "52",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Catharine E. Beecher and Harriet Beecher Stowe, The American Woman\u2019s Home (1869)",
+      "printed_page_number": "52",
+      "source_page_index": -1,
+      "authors": [
+        "Catharine E. Beecher",
+        "Harriet Beecher Stowe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Charles Eastlake, Hints on Household Taste: The Classic Handbook of Victorian Interior Decoration (4th edn, 1878)",
+      "printed_page_number": "55",
+      "source_page_index": -1,
+      "authors": [
+        "Charles Eastlake"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Sylvanus Stall, What a Young Husband Ought to Know (1897)",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [
+        "Sylvanus Stall"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Scientific Context",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Edward H. Clarke, M.D., Sex in Education; Or, A Fair Chance for the Girls (1873)",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [
+        "Edward H. Clarke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Dr. Fordyce Barker, The Puerperal Diseases: Clinical Lectures Delivered at Bellevue Hospital (1874)",
+      "printed_page_number": "59",
+      "source_page_index": -1,
+      "authors": [
+        "Fordyce Barker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Dr. S. Weir Mitchell, Fat and Blood: And How to Make Them (1877) and Doctor and Patient (1887)",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "S. Weir Mitchell"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2: Interpretations",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Critical History",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nineteenth-Century and Early Twentieth-Century Interpretations",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Selected Reviews of \"The Yellow Wall-Paper\"",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Initial two reviews in Boston Evening Transcript, 1892",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anne M[ontgomerie], \"The Yellow Wall Paper,\" The Conservator 10 (June 1899)",
+      "printed_page_number": "82",
+      "source_page_index": -1,
+      "authors": [
+        "Anne M[ontgomerie]"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anon., \"New Books and Those Who Make Them,\" Boston Daily Advertiser, June 10, 1899",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anon., \"A Question of 'Nerves,'\" Times (Baltimore, Md.), June 10, 1899",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Henry B. Blackwell, \"Literary Notices: The Yellow Wall Paper,\" Woman\u2019s Journal, June 17, 1899",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [
+        "Henry B. Blackwell"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anon., \"Books: Light and Serious Stories,\" Time and the Hour 10, June 17, 1899",
+      "printed_page_number": "84",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anon., \"Minor Fiction,\" Literature (American edition), July 14, 1899",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anon., \"The Yellow Wall Paper,\" The Literary World (Boston), July 22, 1899",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anon., \"Brief Reviews,\" The Daily Oklahoman (Oklahoma City), January 29, 1928",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anon., \"New Books in Brief Review,\" The Independent, February 11, 1928",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From William Dean Howells (ed.), \"Introduction,\" The Great Modern American Stories, An Anthology (1920)",
+      "printed_page_number": "86",
+      "source_page_index": -1,
+      "authors": [
+        "William Dean Howells"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Modern Criticism",
+      "printed_page_number": "88",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Elaine R. Hedges, \"Afterword\" to The Yellow Wallpaper (The Feminist Press edition, 1973)",
+      "printed_page_number": "88",
+      "source_page_index": -1,
+      "authors": [
+        "Elaine R. Hedges"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Sandra Gilbert and Susan Gubar, The Madwoman in the Attic (1979)",
+      "printed_page_number": "91",
+      "source_page_index": -1,
+      "authors": [
+        "Sandra Gilbert",
+        "Susan Gubar"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Annette Kolodny, \"A Map for Rereading\" (1980)",
+      "printed_page_number": "92",
+      "source_page_index": -1,
+      "authors": [
+        "Annette Kolodny"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Mary Jacobus, \"An Unnecessary Maze of Sign Reading\" (1986)",
+      "printed_page_number": "94",
+      "source_page_index": -1,
+      "authors": [
+        "Mary Jacobus"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Janice Haney-Peritz, \"Monumental Feminism and Literature\u2019s Ancestral House: Another Look at 'The Yellow Wallpaper'\" (1986)",
+      "printed_page_number": "96",
+      "source_page_index": -1,
+      "authors": [
+        "Janice Haney-Peritz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Walter Benn Michaels, \"Introduction,\" The Gold Standard and the Logic of Naturalism: American Literature at the Turn of the Century (1987)",
+      "printed_page_number": "99",
+      "source_page_index": -1,
+      "authors": [
+        "Walter Benn Michaels"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Catherine J. Golden, \"The Writing of 'The Yellow Wallpaper': A Double Palimpsest\" (1989)",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [
+        "Catherine J. Golden"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Susan Lanser, \"Feminist Criticism, 'The Yellow Wallpaper,' and the Politics of Color in America\" (1989)",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "Susan Lanser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Tom Lutz, American Nervousness, 1903: An Anecdotal History (1991)",
+      "printed_page_number": "108",
+      "source_page_index": -1,
+      "authors": [
+        "Tom Lutz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Jonathan Crewe, \"Queering The Yellow Wallpaper? Charlotte Perkins Gilman and the Politics of Form\" (1995)",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [
+        "Jonathan Crewe"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Ann Heilmann, \"Overwriting Decadence: Charlotte Perkins Gilman, Oscar Wilde, and the Feminization of Art in 'The Yellow Wall-Paper'\" (2000)",
+      "printed_page_number": "114",
+      "source_page_index": -1,
+      "authors": [
+        "Ann Heilmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Marty Roth, \"Gilman\u2019s Arabesque Wallpaper\" (2001)",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "Marty Roth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "From Guiyou Huang, \"The Use of Audiovisual Material as an Aid in Teaching 'The Yellow Wall-Paper'\" (2003)",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [
+        "Guiyou Huang"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3: Text",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Introduction",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "A Note on the Text",
+      "printed_page_number": "129",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The Yellow Wall-Paper",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4: Further Reading",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Story Collections",
+      "printed_page_number": "157",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Editions with Story and Criticism",
+      "printed_page_number": "158",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Articles",
+      "printed_page_number": "158",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Biographical Reading",
+      "printed_page_number": "160",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bibliographical Approaches",
+      "printed_page_number": "160",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pedagogical Approaches",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Books on Gilman\u2019s Oeuvre",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Companion Pieces by Gilman",
+      "printed_page_number": "161",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

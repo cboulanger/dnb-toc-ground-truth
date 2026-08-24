@@ -1,0 +1,1780 @@
+{
+  "entries": [
+    {
+      "title": "Introduction",
+      "authors": [
+        "GREIL MARCUS",
+        "WERNER SOLLORS"
+      ],
+      "printed_page_number": "xxi",
+      "skip": false
+    },
+    {
+      "title": "1507 The name \"America\" appears on a map",
+      "authors": [
+        "TOBY LESTER"
+      ],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "1521, August 13 Mexico in America",
+      "authors": [
+        "KIRSTEN SILVA GRUESZ"
+      ],
+      "printed_page_number": "6",
+      "skip": false
+    },
+    {
+      "title": "1536, July 24 Alvar Núñez Cabeza de Vaca",
+      "authors": [
+        "ILAN STAVANS"
+      ],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "1585 \"Counterfeited according to the truth\"",
+      "authors": [
+        "MICHAEL GAUDIO"
+      ],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "1607 Fear and love in the Virginia colony",
+      "authors": [
+        "ADAM GOODHEART"
+      ],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "1630 A city upon a hill",
+      "authors": [
+        "ELIZABETH WINTHROP"
+      ],
+      "printed_page_number": "26",
+      "skip": false
+    },
+    {
+      "title": "1643 A nearer neighbor to the Indians",
+      "authors": [
+        "TED WIDMER"
+      ],
+      "printed_page_number": "30",
+      "skip": false
+    },
+    {
+      "title": "1666, July 10 Anne Bradstreet",
+      "authors": [
+        "WAI CHEE DIMOCK"
+      ],
+      "printed_page_number": "35",
+      "skip": false
+    },
+    {
+      "title": "1670 The American jeremiad",
+      "authors": [
+        "EMORY ELLIOTT"
+      ],
+      "printed_page_number": "40",
+      "skip": false
+    },
+    {
+      "title": "1670 The stamp of God's image",
+      "authors": [
+        "JASON D. LoFOUNTAIN"
+      ],
+      "printed_page_number": "44",
+      "skip": false
+    },
+    {
+      "title": "1673 The Jesuit relations",
+      "authors": [
+        "LAURENT DUBOIS"
+      ],
+      "printed_page_number": "50",
+      "skip": false
+    },
+    {
+      "title": "1683 Francis Daniel Pastorius",
+      "authors": [
+        "ALFRED L. BROPHY"
+      ],
+      "printed_page_number": "54",
+      "skip": false
+    },
+    {
+      "title": "1692 The Salem witchcraft trials",
+      "authors": [
+        "SUSAN CASTILLO"
+      ],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "1693–1694, March 4 Edward Taylor",
+      "authors": [
+        "WERNER SOLLORS"
+      ],
+      "printed_page_number": "64",
+      "skip": false
+    },
+    {
+      "title": "1700 Samuel Sewall, The Selling of Joseph",
+      "authors": [
+        "DAVID BLIGHT"
+      ],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "1722 Benjamin Franklin, The Silence Dogood Letters",
+      "authors": [
+        "JOYCE E. CHAPLIN"
+      ],
+      "printed_page_number": "74",
+      "skip": false
+    },
+    {
+      "title": "1740 The Great Awakening",
+      "authors": [
+        "JOANNE VAN DER WOUDE"
+      ],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Late 1740s; 1814, September 13-14 Two national anthems",
+      "authors": [
+        "JOHN PICKER"
+      ],
+      "printed_page_number": "84",
+      "skip": false
+    },
+    {
+      "title": "1765, December 23 Michel-Guillaume Jean de Crèvecoeur",
+      "authors": [
+        "LEO DAMROSCH"
+      ],
+      "printed_page_number": "88",
+      "skip": false
+    },
+    {
+      "title": "1773, September Phillis Wheatley",
+      "authors": [
+        "RAFIA ZAFAR"
+      ],
+      "printed_page_number": "93",
+      "skip": false
+    },
+    {
+      "title": "1776 The Declaration of Independence",
+      "authors": [
+        "FRANK KELLETER"
+      ],
+      "printed_page_number": "98",
+      "skip": false
+    },
+    {
+      "title": "1784, June Charles Willson Peale",
+      "authors": [
+        "MICHAEL LEJA"
+      ],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "1787 James Madison, Notes of the Debates in the Federal Convention",
+      "authors": [
+        "MITCHELL MELTZER"
+      ],
+      "printed_page_number": "108",
+      "skip": false
+    },
+    {
+      "title": "1787–1790 John Adams, Discourses on Davila",
+      "authors": [
+        "JOHN DIGGINS"
+      ],
+      "printed_page_number": "113",
+      "skip": false
+    },
+    {
+      "title": "1791 Philip Freneau and The National Gazette",
+      "authors": [
+        "JEFFREY L. PASLEY"
+      ],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "1796 Washington's farewell address",
+      "authors": [
+        "FRANÇOIS FURSTENBERG"
+      ],
+      "printed_page_number": "122",
+      "skip": false
+    },
+    {
+      "title": "1798 Mary Rowlandson and the Alien and Sedition Acts",
+      "authors": [
+        "NANCY ARMSTRONG"
+      ],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "1798 American gothic",
+      "authors": [
+        "MARC AMFREVILLE"
+      ],
+      "printed_page_number": "131",
+      "skip": false
+    },
+    {
+      "title": "1801, March 4 Jefferson's first inaugural address",
+      "authors": [
+        "JAN ELLEN LEWIS"
+      ],
+      "printed_page_number": "136",
+      "skip": false
+    },
+    {
+      "title": "1804, January The matter of Haiti",
+      "authors": [
+        "KAIAMA GLOVER"
+      ],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "1809 Cupola of the world",
+      "authors": [
+        "JUDITH RICHARDSON"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "1819, February The Missouri crisis",
+      "authors": [
+        "JOHN STAUFFER"
+      ],
+      "printed_page_number": "150",
+      "skip": false
+    },
+    {
+      "title": "1820, November 27 Landscape with birds",
+      "authors": [
+        "CHRISTOPH IRMSCHER"
+      ],
+      "printed_page_number": "154",
+      "skip": false
+    },
+    {
+      "title": "1821 Sequoyah, the Cherokee syllabary",
+      "authors": [
+        "LISA BROOKS"
+      ],
+      "printed_page_number": "160",
+      "skip": false
+    },
+    {
+      "title": "1821, June 30 Junius Brutus Booth",
+      "authors": [
+        "COPPÉLIA KAHN"
+      ],
+      "printed_page_number": "164",
+      "skip": false
+    },
+    {
+      "title": "1822 Henry Rowe Schoolcraft, the Ojibwe firefly, and Longfellow's Hiawatha",
+      "authors": [
+        "DAVID TREUER"
+      ],
+      "printed_page_number": "168",
+      "skip": false
+    },
+    {
+      "title": "1825, November Thomas Cole and the Hudson River school",
+      "authors": [
+        "ALAN WALLACH"
+      ],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "1826, July 4 Songs of the republic",
+      "authors": [
+        "STEVE ERICKSON"
+      ],
+      "printed_page_number": "178",
+      "skip": false
+    },
+    {
+      "title": "1826 Cooper's Leatherstocking tales",
+      "authors": [
+        "RICHARD HUTSON"
+      ],
+      "printed_page_number": "182",
+      "skip": false
+    },
+    {
+      "title": "1826; 1927 Transnational poetry",
+      "authors": [
+        "STEPHEN BURT"
+      ],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "1827 Joseph Smith and the Book of Mormon",
+      "authors": [
+        "TERRYL L. GIVENS"
+      ],
+      "printed_page_number": "192",
+      "skip": false
+    },
+    {
+      "title": "1828 David Walker, Appeal, in Four Articles",
+      "authors": [
+        "TOMMIE SHELBY"
+      ],
+      "printed_page_number": "196",
+      "skip": false
+    },
+    {
+      "title": "1830, May 21 Jump Jim Crow",
+      "authors": [
+        "W. T. LHAMON, JR."
+      ],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "1831, March 5 The Cherokee Nation decision",
+      "authors": [
+        "PHILIP DELORIA"
+      ],
+      "printed_page_number": "205",
+      "skip": false
+    },
+    {
+      "title": "1832, July 10 President Jackson's bank veto",
+      "authors": [
+        "DAN FELLER"
+      ],
+      "printed_page_number": "210",
+      "skip": false
+    },
+    {
+      "title": "1835, January Democracy in America",
+      "authors": [
+        "TED WIDMER"
+      ],
+      "printed_page_number": "215",
+      "skip": false
+    },
+    {
+      "title": "1835 William Gilmore Simms, The Yemassee",
+      "authors": [
+        "JEFFREY JOHNSON"
+      ],
+      "printed_page_number": "221",
+      "skip": false
+    },
+    {
+      "title": "1835 The Sacred Harp",
+      "authors": [
+        "SEAN WILENTZ"
+      ],
+      "printed_page_number": "225",
+      "skip": false
+    },
+    {
+      "title": "1836, February 23–March 6 The Alamo and Texas border writing",
+      "authors": [
+        "NORMA E. CANTÚ"
+      ],
+      "printed_page_number": "230",
+      "skip": false
+    },
+    {
+      "title": "1836, February 28 Richard Henry Dana, Jr.",
+      "authors": [
+        "KIRSTEN SILVA GRUESZ"
+      ],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "1837, August 15 Ralph Waldo Emerson, \"The American Scholar\"",
+      "authors": [
+        "JAMES CONANT"
+      ],
+      "printed_page_number": "239",
+      "skip": false
+    },
+    {
+      "title": "1838, July 15 \"The Divinity School Address\"",
+      "authors": [
+        "HERWIG FRIEDL"
+      ],
+      "printed_page_number": "244",
+      "skip": false
+    },
+    {
+      "title": "1838, September 3 The slave narrative",
+      "authors": [
+        "CAILLE MILLNER"
+      ],
+      "printed_page_number": "249",
+      "skip": false
+    },
+    {
+      "title": "1841 \"The Murders in the Rue Morgue\"",
+      "authors": [
+        "ROBERT CLARK"
+      ],
+      "printed_page_number": "254",
+      "skip": false
+    },
+    {
+      "title": "1846, June James Russell Lowell's Biglow Papers",
+      "authors": [
+        "SHELLEY STREEBY"
+      ],
+      "printed_page_number": "259",
+      "skip": false
+    },
+    {
+      "title": "1846, late July Henry David Thoreau",
+      "authors": [
+        "JONATHAN ARAC"
+      ],
+      "printed_page_number": "263",
+      "skip": false
+    },
+    {
+      "title": "1850 The Scarlet Letter",
+      "authors": [
+        "BHARATI MUKHERJEE"
+      ],
+      "printed_page_number": "268",
+      "skip": false
+    },
+    {
+      "title": "1850, July 19 Margaret Fuller and the Transcendentalist Movement",
+      "authors": [
+        "LAWRENCE BUELL"
+      ],
+      "printed_page_number": "273",
+      "skip": false
+    },
+    {
+      "title": "1850, August 5 Nathaniel Hawthorne and Herman Melville",
+      "authors": [
+        "CLARK BLAISE"
+      ],
+      "printed_page_number": "278",
+      "skip": false
+    },
+    {
+      "title": "1851 Moby-Dick",
+      "authors": [
+        "GREIL MARCUS"
+      ],
+      "printed_page_number": "283",
+      "skip": false
+    },
+    {
+      "title": "1851 Uncle Tom's Cabin",
+      "authors": [
+        "BEVERLY LOWRY"
+      ],
+      "printed_page_number": "287",
+      "skip": false
+    },
+    {
+      "title": "1852 Hawthorne's Blithedale Romance and utopian communities",
+      "authors": [
+        "WINFRIED FLUCK"
+      ],
+      "printed_page_number": "292",
+      "skip": false
+    },
+    {
+      "title": "1852, July 5 Frederick Douglass, \"What to the slave is the Fourth of July?\"",
+      "authors": [
+        "LIAM KENNEDY"
+      ],
+      "printed_page_number": "297",
+      "skip": false
+    },
+    {
+      "title": "1854 Maria Cummins and sentimental fiction",
+      "authors": [
+        "CINDY WEINSTEIN"
+      ],
+      "printed_page_number": "302",
+      "skip": false
+    },
+    {
+      "title": "1855 Walt Whitman, Leaves of Grass",
+      "authors": [
+        "ANGUS FLETCHER"
+      ],
+      "printed_page_number": "306",
+      "skip": false
+    },
+    {
+      "title": "1858 The Lincoln-Douglas debates",
+      "authors": [
+        "MICHAEL T. GILMORE"
+      ],
+      "printed_page_number": "312",
+      "skip": false
+    },
+    {
+      "title": "1859 The science of the Indian",
+      "authors": [
+        "SCOTT RICHARD LYONS"
+      ],
+      "printed_page_number": "317",
+      "skip": false
+    },
+    {
+      "title": "1861 Emily Dickinson",
+      "authors": [
+        "SUSAN STEWART"
+      ],
+      "printed_page_number": "322",
+      "skip": false
+    },
+    {
+      "title": "1862, December 13 The journeys of Little Women",
+      "authors": [
+        "SHIRLEY SAMUELS"
+      ],
+      "printed_page_number": "328",
+      "skip": false
+    },
+    {
+      "title": "1865, March 4 Lincoln's second inaugural address",
+      "authors": [
+        "TED WIDMER"
+      ],
+      "printed_page_number": "333",
+      "skip": false
+    },
+    {
+      "title": "1865 \"Conditions of repose\"",
+      "authors": [
+        "ROBIN KELSEY"
+      ],
+      "printed_page_number": "338",
+      "skip": false
+    },
+    {
+      "title": "1869, March 4 Carl Schurz",
+      "authors": [
+        "MICHAEL BOYDEN"
+      ],
+      "printed_page_number": "344",
+      "skip": false
+    },
+    {
+      "title": "1872, November 5 All men and women are created equal",
+      "authors": [
+        "LAURA WEXLER"
+      ],
+      "printed_page_number": "349",
+      "skip": false
+    },
+    {
+      "title": "1875 The Winchester Rifle",
+      "authors": [
+        "MERRITT ROE SMITH"
+      ],
+      "printed_page_number": "353",
+      "skip": false
+    },
+    {
+      "title": "1876, January 6 Melville in the dark",
+      "authors": [
+        "KENNETH W. WARREN"
+      ],
+      "printed_page_number": "358",
+      "skip": false
+    },
+    {
+      "title": "1876, March 10 The art of telephony",
+      "authors": [
+        "AVITAL RONELL"
+      ],
+      "printed_page_number": "362",
+      "skip": false
+    },
+    {
+      "title": "1878 \"How to Make Our Ideas Clear\"",
+      "authors": [
+        "CHRISTOPHER HOOKWAY"
+      ],
+      "printed_page_number": "366",
+      "skip": false
+    },
+    {
+      "title": "1879 John Muir and nature writing",
+      "authors": [
+        "SCOTT SLOVIC"
+      ],
+      "printed_page_number": "371",
+      "skip": false
+    },
+    {
+      "title": "1881, January 24 Henry James, Portrait of a Lady",
+      "authors": [
+        "ALIDE CAGIDEMETRIO"
+      ],
+      "printed_page_number": "375",
+      "skip": false
+    },
+    {
+      "title": "1884 Mark Twain's hairball",
+      "authors": [
+        "ISHMAEL REED"
+      ],
+      "printed_page_number": "380",
+      "skip": false
+    },
+    {
+      "title": "1884, July The Linotype machine",
+      "authors": [
+        "LISA GITELMAN"
+      ],
+      "printed_page_number": "384",
+      "skip": false
+    },
+    {
+      "title": "1884, November The Southwest imagined",
+      "authors": [
+        "LEAH DILWORTH"
+      ],
+      "printed_page_number": "387",
+      "skip": false
+    },
+    {
+      "title": "1885 The problem of error",
+      "authors": [
+        "JAMES CONANT"
+      ],
+      "printed_page_number": "392",
+      "skip": false
+    },
+    {
+      "title": "1885, July Limits to violence",
+      "authors": [
+        "JAMES DAWES"
+      ],
+      "printed_page_number": "397",
+      "skip": false
+    },
+    {
+      "title": "1885, October Writing New Orleans",
+      "authors": [
+        "ANDREI CODRESCU"
+      ],
+      "printed_page_number": "401",
+      "skip": false
+    },
+    {
+      "title": "1888 The introduction of motion pictures",
+      "authors": [
+        "JONATHAN LETHEM"
+      ],
+      "printed_page_number": "406",
+      "skip": false
+    },
+    {
+      "title": "1889, August 28 A Connecticut Yankee in King Arthur's Court",
+      "authors": [
+        "YAEL SCHACHER"
+      ],
+      "printed_page_number": "410",
+      "skip": false
+    },
+    {
+      "title": "1893 Chief Simon Pokagon and Native American literature",
+      "authors": [
+        "DAVID TREUER"
+      ],
+      "printed_page_number": "415",
+      "skip": false
+    },
+    {
+      "title": "1895 Ida B. Wells, A Red Record",
+      "authors": [
+        "JACQUELINE GOLDSBY"
+      ],
+      "printed_page_number": "420",
+      "skip": false
+    },
+    {
+      "title": "1896 Paul Laurence Dunbar, Lyrics of Lowly Life",
+      "authors": [
+        "JUDITH JACKSON FOSSETT"
+      ],
+      "printed_page_number": "425",
+      "skip": false
+    },
+    {
+      "title": "1896, September 6 Queen Lili'uokalani",
+      "authors": [
+        "ROB WILSON"
+      ],
+      "printed_page_number": "429",
+      "skip": false
+    },
+    {
+      "title": "1897, Memorial Day The Robert Gould Shaw and 54th Regiment Monument",
+      "authors": [
+        "RICHARD POWERS"
+      ],
+      "printed_page_number": "434",
+      "skip": false
+    },
+    {
+      "title": "1898, June 22 Literature and imperialism",
+      "authors": [
+        "AMY KAPLAN"
+      ],
+      "printed_page_number": "440",
+      "skip": false
+    },
+    {
+      "title": "1899; 1924 McTeague and Greed",
+      "authors": [
+        "GILBERTO PEREZ"
+      ],
+      "printed_page_number": "445",
+      "skip": false
+    },
+    {
+      "title": "1900 Henry Adams",
+      "authors": [
+        "T. J. JACKSON LEARS"
+      ],
+      "printed_page_number": "450",
+      "skip": false
+    },
+    {
+      "title": "1900 The Wizard of Oz",
+      "authors": [
+        "GERALD EARLY"
+      ],
+      "printed_page_number": "455",
+      "skip": false
+    },
+    {
+      "title": "1900; 1905 Sister Carrie and The House of Mirth",
+      "authors": [
+        "FARAH JASMINE GRIFFIN"
+      ],
+      "printed_page_number": "459",
+      "skip": false
+    },
+    {
+      "title": "1901 Charles W. Chesnutt, The Marrow of Tradition",
+      "authors": [
+        "JOHN EDGAR WIDEMAN"
+      ],
+      "printed_page_number": "464",
+      "skip": false
+    },
+    {
+      "title": "1901; 1903 The problem of the color line",
+      "authors": [
+        "ARNOLD RAMPERSAD"
+      ],
+      "printed_page_number": "469",
+      "skip": false
+    },
+    {
+      "title": "1903, May 5 \"The real American has not yet arrived\"",
+      "authors": [
+        "AVIVA TAUBENFELD"
+      ],
+      "printed_page_number": "473",
+      "skip": false
+    },
+    {
+      "title": "1903 The invention of the blues",
+      "authors": [
+        "LUC SANTE"
+      ],
+      "printed_page_number": "478",
+      "skip": false
+    },
+    {
+      "title": "1903 One sees what one sees",
+      "authors": [
+        "DANIEL ALBRIGHT"
+      ],
+      "printed_page_number": "482",
+      "skip": false
+    },
+    {
+      "title": "1904, August 30 Henry James in America",
+      "authors": [
+        "ROSS POSNOCK"
+      ],
+      "printed_page_number": "488",
+      "skip": false
+    },
+    {
+      "title": "1905, October 15 Little Nemo in Slumberland",
+      "authors": [
+        "KERRY ROEDER"
+      ],
+      "printed_page_number": "493",
+      "skip": false
+    },
+    {
+      "title": "1906, April 9 The Azusa Street revival",
+      "authors": [
+        "RJ SMITH"
+      ],
+      "printed_page_number": "498",
+      "skip": false
+    },
+    {
+      "title": "1906, April 18, 5:14 a.m. The San Francisco Earthquake",
+      "authors": [
+        "KATHLEEN MORAN"
+      ],
+      "printed_page_number": "503",
+      "skip": false
+    },
+    {
+      "title": "1911 \"Alexander's Ragtime Band\"",
+      "authors": [
+        "PHILIP FURIA"
+      ],
+      "printed_page_number": "507",
+      "skip": false
+    },
+    {
+      "title": "1912, April 15 Lifeboats cut adrift",
+      "authors": [
+        "ALAN ACKERMAN"
+      ],
+      "printed_page_number": "512",
+      "skip": false
+    },
+    {
+      "title": "1912 The lure of impossible things",
+      "authors": [
+        "HEATHER LOVE"
+      ],
+      "printed_page_number": "517",
+      "skip": false
+    },
+    {
+      "title": "1912 Tarzan begins his reign",
+      "authors": [
+        "GERALD EARLY"
+      ],
+      "printed_page_number": "522",
+      "skip": false
+    },
+    {
+      "title": "1913 A modernist moment",
+      "authors": [
+        "BONNIE COSTELLO"
+      ],
+      "printed_page_number": "526",
+      "skip": false
+    },
+    {
+      "title": "1915 D. W. Griffith, The Birth of a Nation",
+      "authors": [
+        "RICHARD SCHICKEL"
+      ],
+      "printed_page_number": "531",
+      "skip": false
+    },
+    {
+      "title": "1915 Robert Frost",
+      "authors": [
+        "CHRISTIAN WIMAN"
+      ],
+      "printed_page_number": "536",
+      "skip": false
+    },
+    {
+      "title": "1917 The philosopher and the millionaire",
+      "authors": [
+        "RICHARD J. BERNSTEIN"
+      ],
+      "printed_page_number": "540",
+      "skip": false
+    },
+    {
+      "title": "1920, August 10 Mamie Smith's \"Crazy Blues\"",
+      "authors": [
+        "DAPHNE A. BROOKS"
+      ],
+      "printed_page_number": "545",
+      "skip": false
+    },
+    {
+      "title": "1921 Jean Toomer",
+      "authors": [
+        "ELIZABETH ALEXANDER"
+      ],
+      "printed_page_number": "550",
+      "skip": false
+    },
+    {
+      "title": "1922 T. S. Eliot and D. H. Lawrence",
+      "authors": [
+        "ANITA PATTERSON"
+      ],
+      "printed_page_number": "554",
+      "skip": false
+    },
+    {
+      "title": "1923, October Chaplinesque",
+      "authors": [
+        "DAVID THOMSON"
+      ],
+      "printed_page_number": "559",
+      "skip": false
+    },
+    {
+      "title": "1924 F. O. Matthiessen meets Russell Cheney",
+      "authors": [
+        "ROBERT POLITO"
+      ],
+      "printed_page_number": "564",
+      "skip": false
+    },
+    {
+      "title": "1924, May 26 The Johnson-Reed Act and ethnic literature",
+      "authors": [
+        "YAEL SCHACHER"
+      ],
+      "printed_page_number": "569",
+      "skip": false
+    },
+    {
+      "title": "1925 The Great Gatsby",
+      "authors": [
+        "LAN TRAN"
+      ],
+      "printed_page_number": "574",
+      "skip": false
+    },
+    {
+      "title": "1925, June Sinclair Lewis",
+      "authors": [
+        "JEFFREY FERGUSON"
+      ],
+      "printed_page_number": "580",
+      "skip": false
+    },
+    {
+      "title": "1925, July The Scopes trial",
+      "authors": [
+        "MICHAEL KAZIN"
+      ],
+      "printed_page_number": "584",
+      "skip": false
+    },
+    {
+      "title": "1925, August 16 Dorothy Parker",
+      "authors": [
+        "CATHERINE KEYSER"
+      ],
+      "printed_page_number": "588",
+      "skip": false
+    },
+    {
+      "title": "1926 Fire!!",
+      "authors": [
+        "CARLA KAPLAN"
+      ],
+      "printed_page_number": "593",
+      "skip": false
+    },
+    {
+      "title": "1926 Hardboiled",
+      "authors": [
+        "WALTER MOSLEY"
+      ],
+      "printed_page_number": "598",
+      "skip": false
+    },
+    {
+      "title": "1926 The Book-of-the-Month Club",
+      "authors": [
+        "JOAN SHELLEY RUBIN"
+      ],
+      "printed_page_number": "602",
+      "skip": false
+    },
+    {
+      "title": "1927 Carl Sandburg and The American Songbag",
+      "authors": [
+        "PAUL MULDOON"
+      ],
+      "printed_page_number": "607",
+      "skip": false
+    },
+    {
+      "title": "1927, May 16 \"Free to develop their faculties\"",
+      "authors": [
+        "JEFFREY ROSEN"
+      ],
+      "printed_page_number": "612",
+      "skip": false
+    },
+    {
+      "title": "1928, April 8, Easter Sunday Dilsey Gibson goes to church",
+      "authors": [
+        "WERNER SOLLORS"
+      ],
+      "printed_page_number": "617",
+      "skip": false
+    },
+    {
+      "title": "1928, Summer John Dos Passos",
+      "authors": [
+        "PHOEBE KOSMAN"
+      ],
+      "printed_page_number": "622",
+      "skip": false
+    },
+    {
+      "title": "1928, November 18 The mouse that whistled",
+      "authors": [
+        "KARAL ANN MARLING"
+      ],
+      "printed_page_number": "627",
+      "skip": false
+    },
+    {
+      "title": "1930 \"You're swell!\"",
+      "authors": [
+        "ROBERT GOTTLIEB"
+      ],
+      "printed_page_number": "632",
+      "skip": false
+    },
+    {
+      "title": "1930, March The Silent Enemy",
+      "authors": [
+        "MICAH TREUER"
+      ],
+      "printed_page_number": "636",
+      "skip": false
+    },
+    {
+      "title": "1930, October Grant Wood's American Gothic",
+      "authors": [
+        "SARAH VOWELL"
+      ],
+      "printed_page_number": "640",
+      "skip": false
+    },
+    {
+      "title": "1931, March 19 Nevada legalizes gambling",
+      "authors": [
+        "DAVID THOMSON"
+      ],
+      "printed_page_number": "644",
+      "skip": false
+    },
+    {
+      "title": "1932 Edmund Wilson, The American Jitters",
+      "authors": [
+        "ANTHONY GRAFTON"
+      ],
+      "printed_page_number": "649",
+      "skip": false
+    },
+    {
+      "title": "1932 Arthur Miller",
+      "authors": [
+        "ANDREA MOST"
+      ],
+      "printed_page_number": "654",
+      "skip": false
+    },
+    {
+      "title": "1932, April or May The River Rouge plant and industrial beauty",
+      "authors": [
+        "JOHN M. STAUDENMAIER, S.J."
+      ],
+      "printed_page_number": "659",
+      "skip": false
+    },
+    {
+      "title": "1932, Christmas Ned Cobb",
+      "authors": [
+        "ROBERT CANTWELL"
+      ],
+      "printed_page_number": "663",
+      "skip": false
+    },
+    {
+      "title": "1933 Baby Face is censored",
+      "authors": [
+        "STEPHANIE ZACHAREK"
+      ],
+      "printed_page_number": "668",
+      "skip": false
+    },
+    {
+      "title": "1933, March FDR's first Fireside Chat",
+      "authors": [
+        "PAULA RABINOWITZ"
+      ],
+      "printed_page_number": "672",
+      "skip": false
+    },
+    {
+      "title": "1934, September Robert Penn Warren",
+      "authors": [
+        "HOWELL RAINES"
+      ],
+      "printed_page_number": "677",
+      "skip": false
+    },
+    {
+      "title": "1935 The Popular Front",
+      "authors": [
+        "ANGELA MILLER"
+      ],
+      "printed_page_number": "683",
+      "skip": false
+    },
+    {
+      "title": "1935 The skyscraper",
+      "authors": [
+        "SARAH WHITING"
+      ],
+      "printed_page_number": "689",
+      "skip": false
+    },
+    {
+      "title": "1935, June 10 Alcoholics Anonymous",
+      "authors": [
+        "MICHAEL TOLKIN"
+      ],
+      "printed_page_number": "695",
+      "skip": false
+    },
+    {
+      "title": "1935, October 10 Porgy and Bess",
+      "authors": [
+        "JOHN ROCKWELL"
+      ],
+      "printed_page_number": "700",
+      "skip": false
+    },
+    {
+      "title": "1936 Gone with the Wind and Absalom, Absalom!",
+      "authors": [
+        "CAROLYN PORTER"
+      ],
+      "printed_page_number": "705",
+      "skip": false
+    },
+    {
+      "title": "1936, July 5 Two days in Harlem",
+      "authors": [
+        "ADAM BRADLEY"
+      ],
+      "printed_page_number": "710",
+      "skip": false
+    },
+    {
+      "title": "1936, November 23 Life begins",
+      "authors": [
+        "MICHAEL LESY"
+      ],
+      "printed_page_number": "714",
+      "skip": false
+    },
+    {
+      "title": "1938 Superman",
+      "authors": [
+        "DOUGLAS WOLK"
+      ],
+      "printed_page_number": "719",
+      "skip": false
+    },
+    {
+      "title": "1938, May Jelly Roll Morton speaks",
+      "authors": [
+        "MARYBETH HAMILTON"
+      ],
+      "printed_page_number": "724",
+      "skip": false
+    },
+    {
+      "title": "1939 Billie Holiday, \"Strange Fruit\"",
+      "authors": [
+        "ROBERT O'MEALLY"
+      ],
+      "printed_page_number": "728",
+      "skip": false
+    },
+    {
+      "title": "1939; 1981 Up from invisibility",
+      "authors": [
+        "JOSEF JAŘAB"
+      ],
+      "printed_page_number": "732",
+      "skip": false
+    },
+    {
+      "title": "1940 \"No way like the American way\"",
+      "authors": [
+        "ERIKA DOSS"
+      ],
+      "printed_page_number": "737",
+      "skip": false
+    },
+    {
+      "title": "1940–1944 Preston Sturges",
+      "authors": [
+        "DOUGLAS McGRATH"
+      ],
+      "printed_page_number": "742",
+      "skip": false
+    },
+    {
+      "title": "1941 An insolent style",
+      "authors": [
+        "CARRIE TIRADO BRAMEN"
+      ],
+      "printed_page_number": "747",
+      "skip": false
+    },
+    {
+      "title": "1941 Citizen Kane",
+      "authors": [
+        "JOSEPH McBRIDE"
+      ],
+      "printed_page_number": "752",
+      "skip": false
+    },
+    {
+      "title": "1941 The word \"multicultural\"",
+      "authors": [
+        "WERNER SOLLORS"
+      ],
+      "printed_page_number": "757",
+      "skip": false
+    },
+    {
+      "title": "1943 Hemingway's paradise, Hemingway's prose",
+      "authors": [
+        "KEITH TAYLOR"
+      ],
+      "printed_page_number": "762",
+      "skip": false
+    },
+    {
+      "title": "1944 The second Bill of Rights",
+      "authors": [
+        "CASS R. SUNSTEIN"
+      ],
+      "printed_page_number": "766",
+      "skip": false
+    },
+    {
+      "title": "1945, February Bebop",
+      "authors": [
+        "INGRID MONSON"
+      ],
+      "printed_page_number": "770",
+      "skip": false
+    },
+    {
+      "title": "1945, April 11 Thomas Pynchon and modern war",
+      "authors": [
+        "GLENDA CARPIO"
+      ],
+      "printed_page_number": "775",
+      "skip": false
+    },
+    {
+      "title": "1945, August 6, 10:45 a.m. The atom bomb",
+      "authors": [
+        "SHARON GHAMARI-TABRIZI"
+      ],
+      "printed_page_number": "780",
+      "skip": false
+    },
+    {
+      "title": "1946, December 5 Integrating the military",
+      "authors": [
+        "GERALD EARLY"
+      ],
+      "printed_page_number": "786",
+      "skip": false
+    },
+    {
+      "title": "1947, December 3 Tennessee Williams",
+      "authors": [
+        "CAMILLE PAGLIA"
+      ],
+      "printed_page_number": "790",
+      "skip": false
+    },
+    {
+      "title": "1948 Norbert Wiener, Cybernetics",
+      "authors": [
+        "DAVID A. MINDELL"
+      ],
+      "printed_page_number": "795",
+      "skip": false
+    },
+    {
+      "title": "1948 Saul Bellow",
+      "authors": [
+        "RUTH WISSE"
+      ],
+      "printed_page_number": "799",
+      "skip": false
+    },
+    {
+      "title": "1949–1950 \"The Birth of the Cool\"",
+      "authors": [
+        "TED GIOIA"
+      ],
+      "printed_page_number": "804",
+      "skip": false
+    },
+    {
+      "title": "1950, November 28 \"Damned busy painting\"",
+      "authors": [
+        "T. J. CLARK"
+      ],
+      "printed_page_number": "809",
+      "skip": false
+    },
+    {
+      "title": "1951 A poet among painters",
+      "authors": [
+        "MARK FORD"
+      ],
+      "printed_page_number": "814",
+      "skip": false
+    },
+    {
+      "title": "1951 The Catcher in the Rye",
+      "authors": [
+        "GISH JEN"
+      ],
+      "printed_page_number": "819",
+      "skip": false
+    },
+    {
+      "title": "1951 James Jones, From Here to Eternity",
+      "authors": [
+        "LINDSAY WATERS"
+      ],
+      "printed_page_number": "823",
+      "skip": false
+    },
+    {
+      "title": "1951 A soft voice",
+      "authors": [
+        "M. LYNN WEISS"
+      ],
+      "printed_page_number": "828",
+      "skip": false
+    },
+    {
+      "title": "1952, April 12 Elia Kazan and the blacklist in Hollywood",
+      "authors": [
+        "MICHAEL VENTURA"
+      ],
+      "printed_page_number": "832",
+      "skip": false
+    },
+    {
+      "title": "1952, June 10 C. L. R. James",
+      "authors": [
+        "DONALD E. PEASE"
+      ],
+      "printed_page_number": "837",
+      "skip": false
+    },
+    {
+      "title": "1953, January 1 The song in country music",
+      "authors": [
+        "DAVE HICKEY"
+      ],
+      "printed_page_number": "842",
+      "skip": false
+    },
+    {
+      "title": "1954 Wallace Stevens, Collected Poems",
+      "authors": [
+        "HELEN VENDLER"
+      ],
+      "printed_page_number": "847",
+      "skip": false
+    },
+    {
+      "title": "1955, August 11 \"The self-respect of my people\"",
+      "authors": [
+        "MONICA L. MILLER"
+      ],
+      "printed_page_number": "852",
+      "skip": false
+    },
+    {
+      "title": "1955, September 21 A. J. Liebling and the Marciano-Moore fight",
+      "authors": [
+        "CARLO ROTELLA"
+      ],
+      "printed_page_number": "856",
+      "skip": false
+    },
+    {
+      "title": "1955, October 7 A generation in miniature",
+      "authors": [
+        "RICHARD CÁNDIDA SMITH"
+      ],
+      "printed_page_number": "861",
+      "skip": false
+    },
+    {
+      "title": "1955, December Nabokov's Lolita",
+      "authors": [
+        "STEPHEN SCHIFF"
+      ],
+      "printed_page_number": "866",
+      "skip": false
+    },
+    {
+      "title": "1956, April 16 \"Roll Over Beethoven\"",
+      "authors": [
+        "JAMES MILLER"
+      ],
+      "printed_page_number": "871",
+      "skip": false
+    },
+    {
+      "title": "1957 Dr. Seuss",
+      "authors": [
+        "PHILIP NEL"
+      ],
+      "printed_page_number": "876",
+      "skip": false
+    },
+    {
+      "title": "1959 \"Nobody's perfect\"",
+      "authors": [
+        "WILLIAM J. MANN"
+      ],
+      "printed_page_number": "880",
+      "skip": false
+    },
+    {
+      "title": "1960 Psycho",
+      "authors": [
+        "WILLIAM BEARD"
+      ],
+      "printed_page_number": "885",
+      "skip": false
+    },
+    {
+      "title": "1960, January More than a game",
+      "authors": [
+        "MICHAEL MacCAMBRIDGE"
+      ],
+      "printed_page_number": "890",
+      "skip": false
+    },
+    {
+      "title": "1961, January 20 JFK's inaugural address and Catch-22",
+      "authors": [
+        "CHARLES TAYLOR"
+      ],
+      "printed_page_number": "895",
+      "skip": false
+    },
+    {
+      "title": "1961, July 2 The author as advertisement",
+      "authors": [
+        "DAVID THOMSON"
+      ],
+      "printed_page_number": "899",
+      "skip": false
+    },
+    {
+      "title": "1962 Bob Dylan writes \"Song to Woody\"",
+      "authors": [
+        "JOSHUA CLOVER"
+      ],
+      "printed_page_number": "904",
+      "skip": false
+    },
+    {
+      "title": "1962 \"White Elephant Art vs. Termite Art\"",
+      "authors": [
+        "HOWARD HAMPTON"
+      ],
+      "printed_page_number": "908",
+      "skip": false
+    },
+    {
+      "title": "1963, April \"Letter from Birmingham Jail\"",
+      "authors": [
+        "GEORGE HUTCHINSON"
+      ],
+      "printed_page_number": "913",
+      "skip": false
+    },
+    {
+      "title": "1964 Robert Lowell, \"For the Union Dead\"",
+      "authors": [
+        "PETER SACKS"
+      ],
+      "printed_page_number": "918",
+      "skip": false
+    },
+    {
+      "title": "1964, October 27 \"The last stand on Earth\"",
+      "authors": [
+        "GARY KAMIYA"
+      ],
+      "printed_page_number": "923",
+      "skip": false
+    },
+    {
+      "title": "1965, September 11 The Council on Interracial Books for Children",
+      "authors": [
+        "DIANNE JOHNSON"
+      ],
+      "printed_page_number": "928",
+      "skip": false
+    },
+    {
+      "title": "1965, October The Autobiography of Malcolm X",
+      "authors": [
+        "DAVID BRADLEY"
+      ],
+      "printed_page_number": "932",
+      "skip": false
+    },
+    {
+      "title": "1968 Norman Mailer",
+      "authors": [
+        "MARY GAITSKILL"
+      ],
+      "printed_page_number": "938",
+      "skip": false
+    },
+    {
+      "title": "1968, March The illusory babels of language",
+      "authors": [
+        "HAL FOSTER"
+      ],
+      "printed_page_number": "943",
+      "skip": false
+    },
+    {
+      "title": "1968, August 28 The plight of conservative literature",
+      "authors": [
+        "MICHAEL KIMMAGE"
+      ],
+      "printed_page_number": "948",
+      "skip": false
+    },
+    {
+      "title": "1969 Elizabeth Bishop, Complete Poems",
+      "authors": [
+        "LAURA QUINNEY"
+      ],
+      "printed_page_number": "953",
+      "skip": false
+    },
+    {
+      "title": "1969, January 11 The first Asian Americans",
+      "authors": [
+        "HUA HSU"
+      ],
+      "printed_page_number": "958",
+      "skip": false
+    },
+    {
+      "title": "1969, November 12 The eye of Vietnam",
+      "authors": [
+        "THI PHUONG-LAN BUI"
+      ],
+      "printed_page_number": "963",
+      "skip": false
+    },
+    {
+      "title": "1970 Maya Angelou, Toni Morrison, Alice Walker",
+      "authors": [
+        "CHERYL A. WALL"
+      ],
+      "printed_page_number": "968",
+      "skip": false
+    },
+    {
+      "title": "1970; 1972 Linda Lovelace",
+      "authors": [
+        "ANN MARLOWE"
+      ],
+      "printed_page_number": "973",
+      "skip": false
+    },
+    {
+      "title": "1973 Loisaida literature",
+      "authors": [
+        "FRANCES R. APARICIO"
+      ],
+      "printed_page_number": "977",
+      "skip": false
+    },
+    {
+      "title": "1973 Adrienne Rich, Diving into the Wreck",
+      "authors": [
+        "MAUREEN N. McLANE"
+      ],
+      "printed_page_number": "983",
+      "skip": false
+    },
+    {
+      "title": "1975 Gayl Jones",
+      "authors": [
+        "ROBERT O'MEALLY"
+      ],
+      "printed_page_number": "988",
+      "skip": false
+    },
+    {
+      "title": "1981, March 31 Toni Morrison",
+      "authors": [
+        "FARAH JASMINE GRIFFIN"
+      ],
+      "printed_page_number": "993",
+      "skip": false
+    },
+    {
+      "title": "1982 Edmund White, A Boy's Own Story",
+      "authors": [
+        "SARAH SHUN-LIEN BYNUM"
+      ],
+      "printed_page_number": "997",
+      "skip": false
+    },
+    {
+      "title": "1982 Wild Style",
+      "authors": [
+        "HUA HSU"
+      ],
+      "printed_page_number": "1002",
+      "skip": false
+    },
+    {
+      "title": "1982 Maya Lin's wall",
+      "authors": [
+        "ANNE M. WAGNER"
+      ],
+      "printed_page_number": "1006",
+      "skip": false
+    },
+    {
+      "title": "1982, November 8 Harriet Wilson",
+      "authors": [
+        "SAIDIYA V. HARTMAN"
+      ],
+      "printed_page_number": "1012",
+      "skip": false
+    },
+    {
+      "title": "1985, April 24 Henry Roth",
+      "authors": [
+        "MARIO MATERASSI"
+      ],
+      "printed_page_number": "1016",
+      "skip": false
+    },
+    {
+      "title": "1987 Maxine Hong Kingston, Tripmaster Monkey",
+      "authors": [
+        "SEO-YOUNG CHU"
+      ],
+      "printed_page_number": "1020",
+      "skip": false
+    },
+    {
+      "title": "1995 Philip Roth",
+      "authors": [
+        "HANA WIRTH-NESHER"
+      ],
+      "printed_page_number": "1025",
+      "skip": false
+    },
+    {
+      "title": "2001 Twenty-first-century free verse",
+      "authors": [
+        "STEPHEN BURT"
+      ],
+      "printed_page_number": "1030",
+      "skip": false
+    },
+    {
+      "title": "2003 Richard Powers, The Time of Our Singing",
+      "authors": [
+        "GREIL MARCUS"
+      ],
+      "printed_page_number": "1035",
+      "skip": false
+    },
+    {
+      "title": "2005, August 29 Hurricane Katrina",
+      "authors": [
+        "GREIL MARCUS",
+        "WERNER SOLLORS"
+      ],
+      "printed_page_number": "1039",
+      "skip": false
+    },
+    {
+      "title": "2008, November 4 Barack Obama",
+      "authors": [
+        "KARA WALKER"
+      ],
+      "printed_page_number": "1045",
+      "skip": false
+    },
+    {
+      "title": "Contributors",
+      "authors": [],
+      "printed_page_number": "1051",
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "1063",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

@@ -1,0 +1,418 @@
+{
+  "generated_at": 1787580878.371178,
+  "duration_seconds": 21.94183245798922,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": "V",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Vorwort des Herausgebers des Handbuchs \u201eDeutschunterricht in Theorie und Praxis\u201c",
+      "printed_page_number": "IX",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Vorwort der Herausgeberin dieses Bandes",
+      "printed_page_number": "XIII",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "A Geschichte und Entwicklung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "A1 Geschichte der Grammatikdidaktik \u2013 von den Anf\u00e4ngen bis zur Gegenwart",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Jakob Ossner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "B Konzeptionelle und empirische Grundlagen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "B1 Sprachreflexion, Sprachbewusstheit, Sprachwissen, Sprachgef\u00fchl und die Kompetenz der Sprachthematisierung \u2013 ein Einblick in ein Begriffsfeld",
+      "printed_page_number": "41",
+      "source_page_index": -1,
+      "authors": [
+        "Hildegard Gornik"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "B2 Linguistische Theoriebildung, Schulgrammatik und Terminologie",
+      "printed_page_number": "59",
+      "source_page_index": -1,
+      "authors": [
+        "Ludger Hoffmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "B3 Formen und Funktionen in der Grammatik",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [
+        "Wilhelm K\u00f6ller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "B4 Grammatik und sprachliches Handeln",
+      "printed_page_number": "110",
+      "source_page_index": -1,
+      "authors": [
+        "Ludger Hoffmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "B5 Grammatik und Textualit\u00e4t",
+      "printed_page_number": "142",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Klotz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "B6 Grammatik und Literalit\u00e4t",
+      "printed_page_number": "160",
+      "source_page_index": -1,
+      "authors": [
+        "Ursula Bredel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "B7 Vorschulische Sprachreflexion",
+      "printed_page_number": "174",
+      "source_page_index": -1,
+      "authors": [
+        "Helga Andresen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "B8 Sprachreflexion und Schriftspracherwerb",
+      "printed_page_number": "184",
+      "source_page_index": -1,
+      "authors": [
+        "Eduard Hauwei"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "B9 Sprachreflexion von Jugendlichen innerhalb und au\u00dferhalb der Schule",
+      "printed_page_number": "194",
+      "source_page_index": -1,
+      "authors": [
+        "Eva Neuland",
+        "Petra Balslemke",
+        "Hanne Steffin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "C Kompetenzbereiche, Gegenst\u00e4nde, Unterrichtsziele",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "C1 Sprachstrukturen verstehen: Die Entwicklung grammatischer Kategorien",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Granzow-Emden"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "C2 Sprachreflexion und Texte erfassen",
+      "printed_page_number": "242",
+      "source_page_index": -1,
+      "authors": [
+        "Thorsten Pohl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "C3 Sprachreflexion und Orthographie",
+      "printed_page_number": "266",
+      "source_page_index": -1,
+      "authors": [
+        "Ursula Bredel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "C4 Grammatische Sprachreflexion und elaboriertes Textverstehen",
+      "printed_page_number": "282",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Lischeid"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "C5 Sprachreflexion und m\u00fcndliche Kommunikation",
+      "printed_page_number": "299",
+      "source_page_index": -1,
+      "authors": [
+        "Anne Berkemeier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "C6 Sprachentwicklung \u2013 Sprachwandel \u2013 Sprachevolution reflektieren",
+      "printed_page_number": "308",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Steinig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "C7 Grammatikunterricht, Sprachreflexion und Sprachkritik",
+      "printed_page_number": "326",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg Kilian"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "D Methoden",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "D1 Methodische Konzepte der Sprachreflexion im Unterricht",
+      "printed_page_number": "343",
+      "source_page_index": -1,
+      "authors": [
+        "Ann Peyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "D2 Sprachreflexion/Grammatikunterricht in Sprachb\u00fcchern und anderen Medien",
+      "printed_page_number": "365",
+      "source_page_index": -1,
+      "authors": [
+        "Christina Noack",
+        "Oliver Teuber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "D3 Sprachvergleich als methodischer Zugang",
+      "printed_page_number": "385",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Jeuk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "D4 Sprachreflexion und Vermittlung der Grammatik im russischen Muttersprachenunterricht",
+      "printed_page_number": "398",
+      "source_page_index": -1,
+      "authors": [
+        "Irina Ezhova-Heer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "E Empirische Unterrichtsforschung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "E1 Der Beitrag der empirischen Unterrichtsforschung zur Debatte um Unterrichtsqualit\u00e4t im Grammatikunterricht",
+      "printed_page_number": "415",
+      "source_page_index": -1,
+      "authors": [
+        "R\u00fcven Stahns"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "E2 Grammatikunterricht, grammatisches Wissen und schriftsprachliches K\u00f6nnen",
+      "printed_page_number": "429",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhold Funke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "F Erfolgskontrollen/Leistungsmessung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "F1 Sprachreflexion laut Bildungsstandards und Bildungspl\u00e4nen",
+      "printed_page_number": "457",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Werner Huneke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "F2 Leistungsaufgaben zu grammatischem Wissen",
+      "printed_page_number": "473",
+      "source_page_index": -1,
+      "authors": [
+        "Peter K\u00fchn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "G Exemplarische Unterrichtsmodelle",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "G1 Sich S\u00e4tze erkl\u00e4ren \u2013 zur Verbindung von Form und Funktion im Grammatikunterricht",
+      "printed_page_number": "499",
+      "source_page_index": -1,
+      "authors": [
+        "Bj\u00f6rn Rothstein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "G2 Fortf\u00fchren",
+      "printed_page_number": "512",
+      "source_page_index": -1,
+      "authors": [
+        "Friederike Kern"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "G3 Konnektoren als Schnittstelle zwischen Grammatik- und Schreibunterricht",
+      "printed_page_number": "525",
+      "source_page_index": -1,
+      "authors": [
+        "Sonja Ocheduska-Aden"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "G4 Treffend bezeichnen",
+      "printed_page_number": "538",
+      "source_page_index": -1,
+      "authors": [
+        "Astrid M\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "G5 Textnahe Lekt\u00fcre durch grammatisches Wissen",
+      "printed_page_number": "552",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Klotz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "G6 W\u00f6rter zusammenschreiben oder auseinander. Orthographie und Sprachbewusstheit",
+      "printed_page_number": "565",
+      "source_page_index": -1,
+      "authors": [
+        "Jakob Ossner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "G7 Textrezeption durch Interpunktion steuern \u2013 am Beispiel punktaltiger Zeichen",
+      "printed_page_number": "578",
+      "source_page_index": -1,
+      "authors": [
+        "Birgit Mesch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sachwortregister",
+      "printed_page_number": "605",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

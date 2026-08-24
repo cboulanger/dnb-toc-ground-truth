@@ -1,0 +1,4621 @@
+{
+  "entries": [
+    {
+      "title": "Preface",
+      "authors": [],
+      "printed_page_number": "xxiii",
+      "skip": true
+    },
+    {
+      "title": "Part I: Introduction",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Introduction to Part I and, in Turn, This Book",
+      "authors": [],
+      "printed_page_number": "I-3",
+      "skip": false
+    },
+    {
+      "title": "Origins, Objectives, and Scope of the Social Science Agricultural Agenda Project (SSAAP)",
+      "authors": [],
+      "printed_page_number": "I-3",
+      "skip": true
+    },
+    {
+      "title": "Four Driving Forces That Increase Rural Productivity Broadly Defined",
+      "authors": [],
+      "printed_page_number": "I-5",
+      "skip": true
+    },
+    {
+      "title": "Administration of RSSs and BSSDs",
+      "authors": [],
+      "printed_page_number": "I-5",
+      "skip": true
+    },
+    {
+      "title": "SSAAP's Three-Stage Program of Work",
+      "authors": [],
+      "printed_page_number": "I-6",
+      "skip": true
+    },
+    {
+      "title": "Historical and Geographic Perspectives",
+      "authors": [],
+      "printed_page_number": "I-6",
+      "skip": true
+    },
+    {
+      "title": "Past Research Agendas for Agriculture and Food and the Social Sciences",
+      "authors": [],
+      "printed_page_number": "I-7",
+      "skip": true
+    },
+    {
+      "title": "Three Common Critical Issues for the Work of SSAAP",
+      "authors": [],
+      "printed_page_number": "I-7",
+      "skip": true
+    },
+    {
+      "title": "Issue 1: Despite Common Assertions to the Contrary There Have Been Substantial Past Accomplishments by Rural and Basic Social Scientists",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Issue 2: Underinvestment in the Social Sciences",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Issue 3: Imbalance in the Agricultural Establishment's Efforts to Improve the Four Prime Movers for Agricultural and Rural Progress",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Dimensions in the Work of the Rural Social Sciences (RSSs) and Basic Social Science Disciplines (BSSDs)",
+      "authors": [],
+      "printed_page_number": "I-10",
+      "skip": true
+    },
+    {
+      "title": "Kinds of Knowledge",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Accountability and Peer Review of Rural and Basic Social Science Work",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Remainder of Part I",
+      "authors": [],
+      "printed_page_number": "I-11",
+      "skip": true
+    },
+    {
+      "title": "2. A History of American Agriculture from Jefferson to Revolution to Crisis",
+      "authors": [
+        "Richard S. Kirkendall"
+      ],
+      "printed_page_number": "I-14",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "I-14",
+      "skip": true
+    },
+    {
+      "title": "American Agrarianism",
+      "authors": [],
+      "printed_page_number": "I-14",
+      "skip": true
+    },
+    {
+      "title": "Surplus People",
+      "authors": [],
+      "printed_page_number": "I-15",
+      "skip": true
+    },
+    {
+      "title": "The Great American Agricultural Revolution",
+      "authors": [],
+      "printed_page_number": "I-15",
+      "skip": true
+    },
+    {
+      "title": "The Contributions of Government",
+      "authors": [],
+      "printed_page_number": "I-16",
+      "skip": true
+    },
+    {
+      "title": "The Agricultural System",
+      "authors": [],
+      "printed_page_number": "I-16",
+      "skip": true
+    },
+    {
+      "title": "Agripower, the Food Crisis, and the Boom",
+      "authors": [],
+      "printed_page_number": "I-17",
+      "skip": true
+    },
+    {
+      "title": "The New Crisis",
+      "authors": [],
+      "printed_page_number": "I-19",
+      "skip": true
+    },
+    {
+      "title": "The Final Crisis",
+      "authors": [],
+      "printed_page_number": "I-20",
+      "skip": true
+    },
+    {
+      "title": "Conclusions",
+      "authors": [],
+      "printed_page_number": "I-21",
+      "skip": true
+    },
+    {
+      "title": "3. Social Science Institutions, Knowledge, and Tools to Address Problems and Issues",
+      "authors": [
+        "Frederick H. Buttel"
+      ],
+      "printed_page_number": "I-26",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "I-26",
+      "skip": true
+    },
+    {
+      "title": "A Perspective on the Social, Political, and Economic Structure of U.S. Agricultural Research Institutions: A Brief Statement",
+      "authors": [],
+      "printed_page_number": "I-26",
+      "skip": true
+    },
+    {
+      "title": "The Establishment of the Rural Social Sciences and Their Contributions to the Solution of Agricultural and Rural-Related Problems",
+      "authors": [],
+      "printed_page_number": "I-29",
+      "skip": true
+    },
+    {
+      "title": "The Development of the Rural Social Science Disciplines",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Disciplinary, Subject-Matter, and Problem-Solving Research in Agricultural Economics and Rural Sociology",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Contributions of the Rural Social Sciences to Problem Solving",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The State of the Rural Social Sciences as Disciplines",
+      "authors": [],
+      "printed_page_number": "I-32",
+      "skip": true
+    },
+    {
+      "title": "Agricultural Economics",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Rural Sociology",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Nontraditional Rural Social Sciences",
+      "authors": [],
+      "printed_page_number": "I-36",
+      "skip": true
+    },
+    {
+      "title": "Anthropology",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Political Science",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "History",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Philosophy and Ethics",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Geography",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Agricultural-Rural Research and Information Delivery System",
+      "authors": [],
+      "printed_page_number": "I-39",
+      "skip": true
+    },
+    {
+      "title": "Some Concluding Comments on the Status and Future Roles of the Rural Social Sciences",
+      "authors": [],
+      "printed_page_number": "I-41",
+      "skip": true
+    },
+    {
+      "title": "Comments on Kirkendall and Buttel",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Comments on Kirkendall and Buttel",
+      "authors": [
+        "Richard P. Haynes"
+      ],
+      "printed_page_number": "I-44",
+      "skip": false
+    },
+    {
+      "title": "Comments on Kirkendall and Buttel",
+      "authors": [
+        "William F. Freudenburg"
+      ],
+      "printed_page_number": "I-47",
+      "skip": false
+    },
+    {
+      "title": "Comments on Kirkendall and Buttel",
+      "authors": [
+        "Billie R. DeWalt"
+      ],
+      "printed_page_number": "I-51",
+      "skip": false
+    },
+    {
+      "title": "Comments on Kirkendall and Buttel",
+      "authors": [
+        "Leo V. Mayer"
+      ],
+      "printed_page_number": "I-53",
+      "skip": false
+    },
+    {
+      "title": "4. Agricultural Institutions Under Fire",
+      "authors": [
+        "Lester C. Thurow"
+      ],
+      "printed_page_number": "I-55",
+      "skip": false
+    },
+    {
+      "title": "The Relative Decline of Farming",
+      "authors": [],
+      "printed_page_number": "I-55",
+      "skip": true
+    },
+    {
+      "title": "It's Un-American to Plan for Decline",
+      "authors": [],
+      "printed_page_number": "I-57",
+      "skip": true
+    },
+    {
+      "title": "The Technological Fix",
+      "authors": [],
+      "printed_page_number": "I-58",
+      "skip": true
+    },
+    {
+      "title": "The Foreign Solution",
+      "authors": [],
+      "printed_page_number": "I-60",
+      "skip": true
+    },
+    {
+      "title": "Exploring Alternative Systems",
+      "authors": [],
+      "printed_page_number": "I-61",
+      "skip": true
+    },
+    {
+      "title": "Environmental Issues",
+      "authors": [],
+      "printed_page_number": "I-62",
+      "skip": true
+    },
+    {
+      "title": "The Current Crisis",
+      "authors": [],
+      "printed_page_number": "I-63",
+      "skip": true
+    },
+    {
+      "title": "Conclusion",
+      "authors": [],
+      "printed_page_number": "I-64",
+      "skip": true
+    },
+    {
+      "title": "Comments on Thurow",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Comments on Thurow",
+      "authors": [
+        "Gary Comstock"
+      ],
+      "printed_page_number": "I-65",
+      "skip": false
+    },
+    {
+      "title": "The Environment",
+      "authors": [],
+      "printed_page_number": "I-65",
+      "skip": true
+    },
+    {
+      "title": "Large Farms",
+      "authors": [],
+      "printed_page_number": "I-66",
+      "skip": true
+    },
+    {
+      "title": "Developing Countries",
+      "authors": [],
+      "printed_page_number": "I-66",
+      "skip": true
+    },
+    {
+      "title": "Economic Power",
+      "authors": [],
+      "printed_page_number": "I-67",
+      "skip": true
+    },
+    {
+      "title": "Spiritual Identity",
+      "authors": [],
+      "printed_page_number": "I-67",
+      "skip": true
+    },
+    {
+      "title": "5. The Role of the Social Sciences in Rural Development and Natural Resource Management",
+      "authors": [
+        "Vernon W. Ruttan"
+      ],
+      "printed_page_number": "I-69",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "I-69",
+      "skip": true
+    },
+    {
+      "title": "Institutional Reform and the Demand for Social Science Knowledge",
+      "authors": [],
+      "printed_page_number": "I-69",
+      "skip": true
+    },
+    {
+      "title": "Ideology and the Demand for Social Science Knowledge",
+      "authors": [],
+      "printed_page_number": "I-70",
+      "skip": true
+    },
+    {
+      "title": "Social Science Knowledge and the Supply of Institutional Innovation",
+      "authors": [],
+      "printed_page_number": "I-71",
+      "skip": true
+    },
+    {
+      "title": "Social Science Research in the College of Agriculture",
+      "authors": [],
+      "printed_page_number": "I-73",
+      "skip": true
+    },
+    {
+      "title": "Social Science in the Ministry of Agriculture",
+      "authors": [],
+      "printed_page_number": "I-74",
+      "skip": true
+    },
+    {
+      "title": "The Demand for Social Science Knowledge—Again",
+      "authors": [],
+      "printed_page_number": "I-75",
+      "skip": true
+    },
+    {
+      "title": "6. Science and Technology Policy for the Twenty-First Century: The United States in a Global Economy",
+      "authors": [
+        "G. Edward Schuh"
+      ],
+      "printed_page_number": "I-78",
+      "skip": false
+    },
+    {
+      "title": "The Forces at Work on the U.S. Economy",
+      "authors": [],
+      "printed_page_number": "I-78",
+      "skip": true
+    },
+    {
+      "title": "Basic Developments in the International Economy",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Factor Price Equalization",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Strategic Developments on the International Scene",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Developments in the Domestic Economy",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Summary",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Critical Factors That Will Influence Our Economic Growth in the Future",
+      "authors": [],
+      "printed_page_number": "I-81",
+      "skip": true
+    },
+    {
+      "title": "The Research Agenda",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Persistent Underinvestment in Agricultural Research",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Improvement of the Physical and Social Infrastructure of Rural America",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Understanding the Rapid Changes in the International Economy and Society",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Understanding Why Society Underinvests in Human Capital",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Understanding the Breakup of the American Family",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Designing New Institutional Arrangements for Investing in Human Capital",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Concluding Comments",
+      "authors": [],
+      "printed_page_number": "I-82",
+      "skip": true
+    },
+    {
+      "title": "7. From the Perspective of Users and Affected Persons",
+      "authors": [
+        "Richard J. Sauer"
+      ],
+      "printed_page_number": "I-84",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "I-84",
+      "skip": true
+    },
+    {
+      "title": "What's Right About Us",
+      "authors": [],
+      "printed_page_number": "I-84",
+      "skip": true
+    },
+    {
+      "title": "Public Criticisms and Perceptions",
+      "authors": [],
+      "printed_page_number": "I-85",
+      "skip": true
+    },
+    {
+      "title": "Some Complicating Factors",
+      "authors": [],
+      "printed_page_number": "I-86",
+      "skip": true
+    },
+    {
+      "title": "Agriculture's Complexity",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Lack of Comprehensive Agricultural Policy",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Agricultural Research is Underfunded",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Interdisciplinary Team Science",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Land-Grant Universities as Predictors of Change",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Land-Grant Universities as Change Agents",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Land-Grant Universities and Agricultural Policy Development",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Challenges for Social Scientists",
+      "authors": [],
+      "printed_page_number": "I-88",
+      "skip": true
+    },
+    {
+      "title": "Agriculture and the Environment",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Public Opinion and Agriculture",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Economic Development and Rural Communities",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "A New Agricultural Research Agenda",
+      "authors": [],
+      "printed_page_number": "I-88",
+      "skip": true
+    },
+    {
+      "title": "Conclusions",
+      "authors": [],
+      "printed_page_number": "I-89",
+      "skip": true
+    },
+    {
+      "title": "8. Abridged Work Group Reports from SSAAP's Phase I Spring Hill Conference June 9-11, 1988",
+      "authors": [],
+      "printed_page_number": "I-91",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "I-91",
+      "skip": true
+    },
+    {
+      "title": "Work Group 1 on Farmers, Agribusiness, and Consumers",
+      "authors": [],
+      "printed_page_number": "I-91",
+      "skip": true
+    },
+    {
+      "title": "Work Group 2 on Natural and Rural Community Resources and the Environment and Their Uses",
+      "authors": [],
+      "printed_page_number": "I-93",
+      "skip": true
+    },
+    {
+      "title": "Work Group 3 on International Affairs",
+      "authors": [],
+      "printed_page_number": "I-94",
+      "skip": true
+    },
+    {
+      "title": "Work Group 4 on Administrative and Funding Strategies",
+      "authors": [],
+      "printed_page_number": "I-95",
+      "skip": true
+    },
+    {
+      "title": "9. SSAAP's Houston Workshop/Conference and the Structure of This Book",
+      "authors": [],
+      "printed_page_number": "I-99",
+      "skip": false
+    },
+    {
+      "title": "The Organization of SSAAP'S Houston Workshop/Conference",
+      "authors": [],
+      "printed_page_number": "I-99",
+      "skip": true
+    },
+    {
+      "title": "Work Groups and Their Leadership Under Each of the Main Areas Outlined Above",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Plenary Presentations at SSAAP's Houston Conference",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Commissioned Papers",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Phase III SSAAP Meetings after its Houston Conference",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Organization of the Remainder of this Book",
+      "authors": [],
+      "printed_page_number": "I-102",
+      "skip": true
+    },
+    {
+      "title": "Index to Preface and Part I",
+      "authors": [],
+      "printed_page_number": "I-104",
+      "skip": true
+    },
+    {
+      "title": "Part II: Introduction to Domestic Farm, Agribusiness, and Consumer Work and All International Agricultural Development Work",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Section 1: Domestic",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Introduction to Section on Domestic Agriculture",
+      "authors": [],
+      "printed_page_number": "II-3",
+      "skip": false
+    },
+    {
+      "title": "Contributing Assessments",
+      "authors": [],
+      "printed_page_number": "II-3",
+      "skip": true
+    },
+    {
+      "title": "Needs Assessments for Technical Advances",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Farm Management (Including Farm-Level Resource Sustainability)",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Home Management",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Special Case of Small Farms",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Agribusinesses",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Food Consumption and Nutrition",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Policies Affecting Farm People, Agribusinesses, and Consumers",
+      "authors": [],
+      "printed_page_number": "II-11",
+      "skip": true
+    },
+    {
+      "title": "Setting Social Science Agendas for Farms (Including Homes), Agribusinesses, and Consumers",
+      "authors": [],
+      "printed_page_number": "II-14",
+      "skip": true
+    },
+    {
+      "title": "Cross References in this Book",
+      "authors": [],
+      "printed_page_number": "II-14",
+      "skip": true
+    },
+    {
+      "title": "2. Identification and Prioritization of Researchable Questions in Agricultural Economics: Where Are the Potential Payoffs?",
+      "authors": [
+        "Clarence F. Davan, Jr."
+      ],
+      "printed_page_number": "II-18",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "II-18",
+      "skip": true
+    },
+    {
+      "title": "Situation",
+      "authors": [],
+      "printed_page_number": "II-18",
+      "skip": true
+    },
+    {
+      "title": "Methods",
+      "authors": [],
+      "printed_page_number": "II-18",
+      "skip": true
+    },
+    {
+      "title": "Identification and Prioritization of Major Agricultural Problems",
+      "authors": [],
+      "printed_page_number": "II-19",
+      "skip": true
+    },
+    {
+      "title": "Identification and Prioritization of Researchable Agricultural Economic Questions",
+      "authors": [],
+      "printed_page_number": "II-19",
+      "skip": true
+    },
+    {
+      "title": "Current Agricultural Economic Research Patterns",
+      "authors": [],
+      "printed_page_number": "II-23",
+      "skip": true
+    },
+    {
+      "title": "Users of Agricultural Economics Research Results",
+      "authors": [],
+      "printed_page_number": "II-24",
+      "skip": true
+    },
+    {
+      "title": "Time, Costs, and Returns to Conduct Research on the Agricultural Economics Researchable Questions",
+      "authors": [],
+      "printed_page_number": "II-26",
+      "skip": true
+    },
+    {
+      "title": "Conclusions and Recommendations",
+      "authors": [],
+      "printed_page_number": "II-26",
+      "skip": true
+    },
+    {
+      "title": "3. Studies of Households Reviewed in Relation to Farm and Home, Balanced Farming, Farming Systems, and Farm Management Programs and Studies in the Colleges of Agriculture",
+      "authors": [
+        "Cornelia Butler Flora"
+      ],
+      "printed_page_number": "II-31",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "II-31",
+      "skip": true
+    },
+    {
+      "title": "Households in Agriculture",
+      "authors": [],
+      "printed_page_number": "II-32",
+      "skip": true
+    },
+    {
+      "title": "When is the Household a Relevant Unit?",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Extrahousehold Considerations",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "How Do We Know about Households?",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Approaches to the Household in Agriculture",
+      "authors": [],
+      "printed_page_number": "II-32",
+      "skip": true
+    },
+    {
+      "title": "Intrahousehold Issues",
+      "authors": [],
+      "printed_page_number": "II-33",
+      "skip": true
+    },
+    {
+      "title": "Decision Making and Power",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Changes in Households and the Structure of Agriculture",
+      "authors": [],
+      "printed_page_number": "II-33",
+      "skip": true
+    },
+    {
+      "title": "The Importance of Relations of Production",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Household as a Source of Labor",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Household as a Tool in Defining Agricultural Research",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Importance of Separate Enterprises within the Household",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Rural Development and the Household",
+      "authors": [],
+      "printed_page_number": "II-35",
+      "skip": true
+    },
+    {
+      "title": "What Changes Could Household Studies Bring?",
+      "authors": [],
+      "printed_page_number": "II-35",
+      "skip": true
+    },
+    {
+      "title": "4. Theoretical Advances Arising from Studies of Women and Farming",
+      "authors": [
+        "Wava G. Haney"
+      ],
+      "printed_page_number": "II-38",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "II-38",
+      "skip": true
+    },
+    {
+      "title": "Women's Roles in Farming",
+      "authors": [],
+      "printed_page_number": "II-38",
+      "skip": true
+    },
+    {
+      "title": "Land",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Labor on the Farm",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Management and Decision Making",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Work Off the Farm",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Women's Roles in Farm Communities",
+      "authors": [],
+      "printed_page_number": "II-40",
+      "skip": true
+    },
+    {
+      "title": "Theoretical Contributions and Implications",
+      "authors": [],
+      "printed_page_number": "II-41",
+      "skip": true
+    },
+    {
+      "title": "5. Integration in Home Economics and Human Ecology",
+      "authors": [
+        "Margaret M. Bubolz",
+        "M. Suzanne Sontag"
+      ],
+      "printed_page_number": "II-44",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "II-44",
+      "skip": true
+    },
+    {
+      "title": "Underlying Assumptions about Human Ecology",
+      "authors": [],
+      "printed_page_number": "II-45",
+      "skip": true
+    },
+    {
+      "title": "The Meaning of Integration",
+      "authors": [],
+      "printed_page_number": "II-45",
+      "skip": true
+    },
+    {
+      "title": "Assumptions Underlying Integration in Human Ecology",
+      "authors": [],
+      "printed_page_number": "II-46",
+      "skip": true
+    },
+    {
+      "title": "A Model for Integration in Human Ecology",
+      "authors": [],
+      "printed_page_number": "II-46",
+      "skip": true
+    },
+    {
+      "title": "Core Concepts, Competencies, and Values",
+      "authors": [],
+      "printed_page_number": "II-49",
+      "skip": true
+    },
+    {
+      "title": "General System Concepts",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Ecosystem Concepts",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Issues for Further Consideration",
+      "authors": [],
+      "printed_page_number": "II-49",
+      "skip": true
+    },
+    {
+      "title": "Further Work Needed",
+      "authors": [],
+      "printed_page_number": "II-50",
+      "skip": true
+    },
+    {
+      "title": "6. The Relationship between International Rural Development and International Trade and Finance",
+      "authors": [
+        "Timothy E. Josling"
+      ],
+      "printed_page_number": "II-52",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "II-52",
+      "skip": true
+    },
+    {
+      "title": "Structural Changes in Agriculture and the World Economy",
+      "authors": [],
+      "printed_page_number": "II-52",
+      "skip": true
+    },
+    {
+      "title": "Implication of Increased Linkages between Agriculture and the Nonfarm Sector",
+      "authors": [],
+      "printed_page_number": "II-53",
+      "skip": true
+    },
+    {
+      "title": "Implication of Increased Linkages among Agricultural Sectors in the World Economy",
+      "authors": [],
+      "printed_page_number": "II-55",
+      "skip": true
+    },
+    {
+      "title": "Policy Issues Arising from the Linkages",
+      "authors": [],
+      "printed_page_number": "II-55",
+      "skip": true
+    },
+    {
+      "title": "Research Priorities",
+      "authors": [],
+      "printed_page_number": "II-56",
+      "skip": true
+    },
+    {
+      "title": "7. Farm (Including Home), Agribusiness, and Consumers: Agendas and Conclusions",
+      "authors": [],
+      "printed_page_number": "II-58",
+      "skip": false
+    },
+    {
+      "title": "Abridged Work Group Reports from SSAAP's Houston Conference",
+      "authors": [],
+      "printed_page_number": "II-58",
+      "skip": true
+    },
+    {
+      "title": "Work Group on U.S. Agricultural Policies, National Economic Policies, and International Trade",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Work Group on Structural Change in Rural America",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Work Group on Productivity and Development of U.S. Agriculture",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Work Group on Farm and Agribusiness Management",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Work Group on Homes, Families, Food, and Nutrition",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Work Group on Databases for Farming, Agribusiness, and Consumers",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Work Group on Ethics in Public Choice and Private Decision Making",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Additional Agenda Items and Conclusions",
+      "authors": [],
+      "printed_page_number": "II-62",
+      "skip": true
+    },
+    {
+      "title": "Farm Management",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Home Management",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Agricultural Markets and Agribusiness",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Food Consumption and Nutrition",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Policies and Programs",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Section 2: International",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Introduction to the Section on International Rural Development",
+      "authors": [],
+      "printed_page_number": "II-66",
+      "skip": false
+    },
+    {
+      "title": "Review of World Food Situation",
+      "authors": [],
+      "printed_page_number": "II-66",
+      "skip": true
+    },
+    {
+      "title": "African Rural Development Priorities",
+      "authors": [],
+      "printed_page_number": "II-68",
+      "skip": true
+    },
+    {
+      "title": "Review of Asian Rural Development",
+      "authors": [],
+      "printed_page_number": "II-68",
+      "skip": true
+    },
+    {
+      "title": "Review of Agricultural Development in Latin America",
+      "authors": [],
+      "printed_page_number": "II-70",
+      "skip": true
+    },
+    {
+      "title": "Institutions, Technology, and Policies for Rural Development",
+      "authors": [],
+      "printed_page_number": "II-72",
+      "skip": true
+    },
+    {
+      "title": "Priorities for U.S. Development Assistance",
+      "authors": [],
+      "printed_page_number": "II-74",
+      "skip": true
+    },
+    {
+      "title": "Transaction Costs and Multidisciplinary Simulations in the History of Thought and Research on International Rural Development",
+      "authors": [],
+      "printed_page_number": "II-76",
+      "skip": true
+    },
+    {
+      "title": "Organization of this Section",
+      "authors": [],
+      "printed_page_number": "II-76",
+      "skip": true
+    },
+    {
+      "title": "2. International Affairs and Economic Development",
+      "authors": [
+        "G. Edward Schuh"
+      ],
+      "printed_page_number": "II-80",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "II-80",
+      "skip": true
+    },
+    {
+      "title": "The Changing Context of International Agriculture",
+      "authors": [],
+      "printed_page_number": "II-80",
+      "skip": true
+    },
+    {
+      "title": "International Affairs",
+      "authors": [],
+      "printed_page_number": "II-82",
+      "skip": true
+    },
+    {
+      "title": "Agricultural and Economic Development",
+      "authors": [],
+      "printed_page_number": "II-85",
+      "skip": true
+    },
+    {
+      "title": "Concluding Comments",
+      "authors": [],
+      "printed_page_number": "II-87",
+      "skip": true
+    },
+    {
+      "title": "3. Social Science Roles in Meeting the Needs of International Donors for the Assessment of Agricultural Technologies",
+      "authors": [
+        "Michael Lipton"
+      ],
+      "printed_page_number": "II-88",
+      "skip": false
+    },
+    {
+      "title": "4. Designing Social Science Research to Inform Agricultural Market Reforms and Structural Adjustments in Developing Countries",
+      "authors": [
+        "John M. Staatz"
+      ],
+      "printed_page_number": "II-98",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "II-98",
+      "skip": true
+    },
+    {
+      "title": "Conceptual Approach",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Research Challenges",
+      "authors": [],
+      "printed_page_number": "II-99",
+      "skip": true
+    },
+    {
+      "title": "Empirical Testing of the Basic Assumptions Underlying Current or Proposed Reforms",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Measuring the Incidence of Market Adjustments and Reforms",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Research on the Design of Improved Institutions",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Improving the Theory of Markets and States in the Development Process",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Implications for the Organization of Social Science Research",
+      "authors": [],
+      "printed_page_number": "II-102",
+      "skip": true
+    },
+    {
+      "title": "5. The Bumpers Amendment: Aid and Trade Issues for U.S. Agriculture",
+      "authors": [
+        "Paul B. Thompson"
+      ],
+      "printed_page_number": "II-106",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "II-106",
+      "skip": true
+    },
+    {
+      "title": "Public Research for Foreign Competitiveness: The Moral Issue",
+      "authors": [],
+      "printed_page_number": "II-106",
+      "skip": true
+    },
+    {
+      "title": "The Interest Argument",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Philosophical Argument",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "International Agricultural Assistance and the Interests of U.S. Agriculture",
+      "authors": [],
+      "printed_page_number": "II-108",
+      "skip": true
+    },
+    {
+      "title": "The True Interests of U.S. Agriculture",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Is the Pro-Bumpers Argument True?",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Should the Pro-Bumpers Case Be Made?",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Why the True Interests Argument Fails to Address the Philosophical Case",
+      "authors": [],
+      "printed_page_number": "II-109",
+      "skip": true
+    },
+    {
+      "title": "Presumptive and Discretionary Goods",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Presumptive Goods and the True Interests Argument",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Toward a Rehabilitation of USAID's International Development Goals",
+      "authors": [],
+      "printed_page_number": "II-110",
+      "skip": true
+    },
+    {
+      "title": "International Agricultural Development Aid as a Presumptive Good: An Argument Sketch",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Research Needs",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "6. Food Security and Its Relationship to Technology, Institutions, Policies, and Human Capital",
+      "authors": [
+        "Michael T. Weber",
+        "Thomas S. Jayne"
+      ],
+      "printed_page_number": "II-114",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "II-114",
+      "skip": true
+    },
+    {
+      "title": "Definition and Dimensions of Food Security",
+      "authors": [],
+      "printed_page_number": "II-114",
+      "skip": true
+    },
+    {
+      "title": "Supply/Demand",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Food Security Also Has an Important Temporal Dimension",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Level of Aggregation",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Prime Movers of Food Security and Their Interrelationships",
+      "authors": [],
+      "printed_page_number": "II-115",
+      "skip": true
+    },
+    {
+      "title": "Examples of Prime Movers and Their Interrelationships in Affecting Food Security",
+      "authors": [],
+      "printed_page_number": "II-117",
+      "skip": true
+    },
+    {
+      "title": "Zimbabwe",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Mali",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Rwanda",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Operationalizing Food Security",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Balancing Short-Run and Long-Run Objectives",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Dynamic Interactions among the Prime Movers",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "7. Institutional Reform: Accomplishments and Unmet Needs In China, Newly Industrialized Countries of Asia, the Soviet Union and Eastern Europe and the Developed Countries",
+      "authors": [
+        "Glenn L. Johnson"
+      ],
+      "printed_page_number": "II-122",
+      "skip": false
+    },
+    {
+      "title": "The Papers Presented at the Beijing Symposium",
+      "authors": [],
+      "printed_page_number": "II-123",
+      "skip": true
+    },
+    {
+      "title": "The Transaction Cost/Institutional Analysis of the Firm and Interpretation of Agricultural History",
+      "authors": [],
+      "printed_page_number": "II-127",
+      "skip": true
+    },
+    {
+      "title": "Conclusions and Speculations about Unmet Needs for Reforms in Agricultural Institutions",
+      "authors": [],
+      "printed_page_number": "II-132",
+      "skip": true
+    },
+    {
+      "title": "8. On-Farm Capital Formation and Rural Financial Markets: Research Issues",
+      "authors": [
+        "Dale W. Adams"
+      ],
+      "printed_page_number": "II-136",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "II-136",
+      "skip": true
+    },
+    {
+      "title": "Definitions",
+      "authors": [],
+      "printed_page_number": "II-136",
+      "skip": true
+    },
+    {
+      "title": "Intersections",
+      "authors": [],
+      "printed_page_number": "II-137",
+      "skip": true
+    },
+    {
+      "title": "Research on Capital Formation",
+      "authors": [],
+      "printed_page_number": "II-137",
+      "skip": true
+    },
+    {
+      "title": "Research Agenda on Capital Formation",
+      "authors": [],
+      "printed_page_number": "II-138",
+      "skip": true
+    },
+    {
+      "title": "Research on RFMS",
+      "authors": [],
+      "printed_page_number": "II-138",
+      "skip": true
+    },
+    {
+      "title": "Conclusion",
+      "authors": [],
+      "printed_page_number": "II-140",
+      "skip": true
+    },
+    {
+      "title": "9. Agricultural-Sector Analysis and Rural Development: Social Science Research Priorities",
+      "authors": [
+        "Clark W. Reynolds"
+      ],
+      "printed_page_number": "II-141",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "II-141",
+      "skip": true
+    },
+    {
+      "title": "The Problem of the Rural Sector and Underemployment in Late-Developing Countries",
+      "authors": [],
+      "printed_page_number": "II-142",
+      "skip": true
+    },
+    {
+      "title": "Lessons from the Agricultural-Development Experience",
+      "authors": [],
+      "printed_page_number": "II-143",
+      "skip": true
+    },
+    {
+      "title": "Links between Agriculture and the Rural and Urban Transitional Sectors",
+      "authors": [],
+      "printed_page_number": "II-144",
+      "skip": true
+    },
+    {
+      "title": "Need for a Broader Rural-Development-Modeling Framework",
+      "authors": [],
+      "printed_page_number": "II-146",
+      "skip": true
+    },
+    {
+      "title": "Summary and Suggestions for Social Science Research on Diversified Rural Development",
+      "authors": [],
+      "printed_page_number": "II-147",
+      "skip": true
+    },
+    {
+      "title": "10. The Relevance of SSAAP's Agendas for Resident Instruction: A RICOP Response",
+      "authors": [
+        "Joseph E. Kunsman"
+      ],
+      "printed_page_number": "II-152",
+      "skip": false
+    },
+    {
+      "title": "11. International Rural Development: Agendas and Conclusions",
+      "authors": [],
+      "printed_page_number": "II-154",
+      "skip": false
+    },
+    {
+      "title": "Abridged Work Group Reports From SSAAP's Houston Conference",
+      "authors": [],
+      "printed_page_number": "II-154",
+      "skip": true
+    },
+    {
+      "title": "Overall Summary—Bruce Johnston",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Work Group on U.S. Agricultural Policies, national Economic Policies, and International Trade",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Work Group on Macroeconomic and Trade Policies",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Work Group on Development Processes and Assistance to LDCs",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Work Group on Farm and Agribusiness Management in LDCs",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Joint Working Group on Marketing and Food Security in Developing Countries",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Work Group on International Dimensions of Public Choice and Private Decision Making Including Agroethics",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Databases for LDC Development",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Work Group on the Potential for a Rural Social Science Collaborative Research Support Project (CRSP)",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Agenda Items and Conclusions from the Editorial Group after SSAAP's Houston Conference",
+      "authors": [],
+      "printed_page_number": "II-158",
+      "skip": true
+    },
+    {
+      "title": "Index to Part II",
+      "authors": [],
+      "printed_page_number": "II-160",
+      "skip": true
+    },
+    {
+      "title": "Part III: The Four Driving Forces For Development: Institutional Change, Human Development, Natural Resource Enhancement and Growth In Manmade Capital, And Technical Advance",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Section 1: Institutional Change",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Introduction to Section on Institutional Improvements",
+      "authors": [],
+      "printed_page_number": "III-6",
+      "skip": false
+    },
+    {
+      "title": "A Review of Societal Interests in the Reform and Modification of Farm and Rural Development Institutions",
+      "authors": [],
+      "printed_page_number": "III-6",
+      "skip": true
+    },
+    {
+      "title": "Problem-Solving (PS), Subject-Matter (SM), and Applied Disciplinary (DISC) Work of Rural and Basic Social Scientists on Institutions",
+      "authors": [],
+      "printed_page_number": "III-8",
+      "skip": true
+    },
+    {
+      "title": "Theories and Conceptualizations of Institutional Change",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Some Needed Developments of the Public Choice/Transaction Cost Approach",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Public Choice/Transaction Costs in Relation to Systems Analysis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Agroethics and Public Choice",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Remaining Chapters of this Section and Important Cross References",
+      "authors": [],
+      "printed_page_number": "III-11",
+      "skip": true
+    },
+    {
+      "title": "Cross References in this Book",
+      "authors": [],
+      "printed_page_number": "III-12",
+      "skip": true
+    },
+    {
+      "title": "2. Social Science Issues in Agriculture and Rural Communities",
+      "authors": [
+        "Paul W. Barkley"
+      ],
+      "printed_page_number": "III-15",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "III-15",
+      "skip": true
+    },
+    {
+      "title": "The Internationalization of Agriculture",
+      "authors": [],
+      "printed_page_number": "III-15",
+      "skip": true
+    },
+    {
+      "title": "Domestic Agricultural Policy",
+      "authors": [],
+      "printed_page_number": "III-16",
+      "skip": true
+    },
+    {
+      "title": "The Structure of Agriculture",
+      "authors": [],
+      "printed_page_number": "III-17",
+      "skip": true
+    },
+    {
+      "title": "Downsizing of Agriculture",
+      "authors": [],
+      "printed_page_number": "III-17",
+      "skip": true
+    },
+    {
+      "title": "The Creation of Human Capital",
+      "authors": [],
+      "printed_page_number": "III-18",
+      "skip": true
+    },
+    {
+      "title": "Changing Demographics",
+      "authors": [],
+      "printed_page_number": "III-18",
+      "skip": true
+    },
+    {
+      "title": "Environmental Quality",
+      "authors": [],
+      "printed_page_number": "III-19",
+      "skip": true
+    },
+    {
+      "title": "Discussion",
+      "authors": [],
+      "printed_page_number": "III-19",
+      "skip": true
+    },
+    {
+      "title": "3. Rural People, Resources, and Communities: An Assessment of the Capabilities of the Social Sciences in Agriculture",
+      "authors": [
+        "James C. Hite"
+      ],
+      "printed_page_number": "III-21",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "III-21",
+      "skip": true
+    },
+    {
+      "title": "Rural America in Change",
+      "authors": [],
+      "printed_page_number": "III-21",
+      "skip": true
+    },
+    {
+      "title": "Rural Regions in a Post-Modern World",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Rural Natural Resources",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Rural Human Resources and Community Institutions",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Epistemological Capabilities of the Social Sciences' Framework for Assessment",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Theory and Methods",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Data Resources",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Problem-Solving Capabilities",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Community of Social Science Scholars",
+      "authors": [],
+      "printed_page_number": "III-27",
+      "skip": true
+    },
+    {
+      "title": "Number of Scholars",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Recruitment and Training of Replacements",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Institutional Environment",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Summary and Conclusion",
+      "authors": [],
+      "printed_page_number": "III-29",
+      "skip": true
+    },
+    {
+      "title": "Discussion of Chapter 3 by James C. Hite",
+      "authors": [
+        "Don Paarlberg"
+      ],
+      "printed_page_number": "III-31",
+      "skip": false
+    },
+    {
+      "title": "4. Economic Institutions and the Development Problem: History and Prognosis",
+      "authors": [
+        "Daniel W. Bromley"
+      ],
+      "printed_page_number": "III-33",
+      "skip": false
+    },
+    {
+      "title": "Institutions and Transaction Costs",
+      "authors": [],
+      "printed_page_number": "III-33",
+      "skip": true
+    },
+    {
+      "title": "Policy Crisis in Agriculture",
+      "authors": [],
+      "printed_page_number": "III-34",
+      "skip": true
+    },
+    {
+      "title": "The Agricultural Policy Crisis in the Industrial Nations",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Agricultural Policy Crisis in the Agrarian Nations",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Challenge to the Social Sciences",
+      "authors": [],
+      "printed_page_number": "III-36",
+      "skip": true
+    },
+    {
+      "title": "5. Irony, Tragedy, and Temporality in Agricultural Systems or How Values and Systems are Related",
+      "authors": [
+        "Lawrence Busch"
+      ],
+      "printed_page_number": "III-38",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "III-38",
+      "skip": true
+    },
+    {
+      "title": "The Nature of Agricultural Systems",
+      "authors": [],
+      "printed_page_number": "III-39",
+      "skip": true
+    },
+    {
+      "title": "The Nature of Nature",
+      "authors": [],
+      "printed_page_number": "III-40",
+      "skip": true
+    },
+    {
+      "title": "Temporality",
+      "authors": [],
+      "printed_page_number": "III-40",
+      "skip": true
+    },
+    {
+      "title": "Irony",
+      "authors": [],
+      "printed_page_number": "III-41",
+      "skip": true
+    },
+    {
+      "title": "Tragedy",
+      "authors": [],
+      "printed_page_number": "III-42",
+      "skip": true
+    },
+    {
+      "title": "Conclusions",
+      "authors": [],
+      "printed_page_number": "III-42",
+      "skip": true
+    },
+    {
+      "title": "6. The Rural Development Dilemma",
+      "authors": [
+        "Louis E. Swanson"
+      ],
+      "printed_page_number": "III-45",
+      "skip": false
+    },
+    {
+      "title": "Flawed Views of Rural America",
+      "authors": [],
+      "printed_page_number": "III-45",
+      "skip": true
+    },
+    {
+      "title": "Limited Database",
+      "authors": [],
+      "printed_page_number": "III-46",
+      "skip": true
+    },
+    {
+      "title": "Lack of Viable Solutions",
+      "authors": [],
+      "printed_page_number": "III-46",
+      "skip": true
+    },
+    {
+      "title": "No Powerful Constituency",
+      "authors": [],
+      "printed_page_number": "III-46",
+      "skip": true
+    },
+    {
+      "title": "Comprehensive Rural Policy?",
+      "authors": [],
+      "printed_page_number": "III-47",
+      "skip": true
+    },
+    {
+      "title": "7. Institutional Improvements—Agendas and Conclusions",
+      "authors": [],
+      "printed_page_number": "III-48",
+      "skip": false
+    },
+    {
+      "title": "Abstracts of Houston Work Group Reports Relevant for Institutional Change, Mainly at Local and Community Levels",
+      "authors": [],
+      "printed_page_number": "III-48",
+      "skip": true
+    },
+    {
+      "title": "Work Group on Change and Development in Rural Communities and Areas",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Work Group on Design, Evaluation, Assessment, Analysis, and Utilization of State and Local Institutions, Programs, and Policies, and the Community Services They Create",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Work Group on Local Government, Revenues, Expenditures, and Effectiveness of Operations",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Work Group on Public Choice and Private Decisions in the Use of Community Resources",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Work Group on Database Needs for Community Resource Decisions",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Agenda Items Developed after SSAAP's Houston Conference",
+      "authors": [],
+      "printed_page_number": "III-52",
+      "skip": true
+    },
+    {
+      "title": "Cross References to Reports of Other Work Groups with Agenda Items on Institutional Change",
+      "authors": [],
+      "printed_page_number": "III-53",
+      "skip": true
+    },
+    {
+      "title": "Section 2: Human Development",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Introduction to Section on Human Development",
+      "authors": [],
+      "printed_page_number": "III-55",
+      "skip": false
+    },
+    {
+      "title": "How Human Development Was Addressed by SSAAP at Spring Hill and at Houston",
+      "authors": [],
+      "printed_page_number": "III-55",
+      "skip": true
+    },
+    {
+      "title": "Background on Human Development from Outside of SSAAP",
+      "authors": [],
+      "printed_page_number": "III-56",
+      "skip": true
+    },
+    {
+      "title": "The Challenge for the Agricultural Establishment",
+      "authors": [],
+      "printed_page_number": "III-56",
+      "skip": true
+    },
+    {
+      "title": "The Public (Multiperson) Choice/Transaction Cost Approach to Human Capital Generating Institutions",
+      "authors": [],
+      "printed_page_number": "III-57",
+      "skip": true
+    },
+    {
+      "title": "Cross References in this Book",
+      "authors": [],
+      "printed_page_number": "III-58",
+      "skip": true
+    },
+    {
+      "title": "2. Human Capital for Future Economic Growth",
+      "authors": [
+        "Wallace E. Huffman"
+      ],
+      "printed_page_number": "III-61",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "III-61",
+      "skip": true
+    },
+    {
+      "title": "Human Capital for Poor Countries",
+      "authors": [],
+      "printed_page_number": "III-61",
+      "skip": true
+    },
+    {
+      "title": "Less Experience and More Education",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Improved Health and Other Human Capital Investments",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Human Capital for Rich Countries",
+      "authors": [],
+      "printed_page_number": "III-63",
+      "skip": true
+    },
+    {
+      "title": "Higher-Quality Education",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Advancing Science",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Researchable Topics",
+      "authors": [],
+      "printed_page_number": "III-65",
+      "skip": true
+    },
+    {
+      "title": "For Developing Countries",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "For Developing and Developed Countries",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "For Developed Countries",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "3. Education and Tomorrow's Work Force: A National Agenda",
+      "authors": [
+        "Clifton R. Wharton, Jr."
+      ],
+      "printed_page_number": "III-68",
+      "skip": false
+    },
+    {
+      "title": "Aging and Productivity",
+      "authors": [],
+      "printed_page_number": "III-69",
+      "skip": true
+    },
+    {
+      "title": "Area One: High School Graduation Rates",
+      "authors": [],
+      "printed_page_number": "III-69",
+      "skip": true
+    },
+    {
+      "title": "Area Two: Teenage Full Employment",
+      "authors": [],
+      "printed_page_number": "III-69",
+      "skip": true
+    },
+    {
+      "title": "Areas Three and Four: College Attendance and Graduation Rates",
+      "authors": [],
+      "printed_page_number": "III-69",
+      "skip": true
+    },
+    {
+      "title": "Area Five: Graduate Professional Studies",
+      "authors": [],
+      "printed_page_number": "III-70",
+      "skip": true
+    },
+    {
+      "title": "Area Six: Faculty Representation",
+      "authors": [],
+      "printed_page_number": "III-70",
+      "skip": true
+    },
+    {
+      "title": "Area Seven: Private and Voluntary Organizations' Involvement",
+      "authors": [],
+      "printed_page_number": "III-70",
+      "skip": true
+    },
+    {
+      "title": "Area Eight: Corporate Leadership",
+      "authors": [],
+      "printed_page_number": "III-70",
+      "skip": true
+    },
+    {
+      "title": "Area Nine: Minority Leadership",
+      "authors": [],
+      "printed_page_number": "III-70",
+      "skip": true
+    },
+    {
+      "title": "Conclusion",
+      "authors": [],
+      "printed_page_number": "III-70",
+      "skip": true
+    },
+    {
+      "title": "4. Disadvantaged Rural Farm and Nonfarm People in General",
+      "authors": [
+        "Refugio I. Rochin"
+      ],
+      "printed_page_number": "III-72",
+      "skip": false
+    },
+    {
+      "title": "Our Major Concern",
+      "authors": [],
+      "printed_page_number": "III-72",
+      "skip": true
+    },
+    {
+      "title": "The Thesis for this Chapter",
+      "authors": [],
+      "printed_page_number": "III-72",
+      "skip": true
+    },
+    {
+      "title": "Brief Perspectives on Human Development",
+      "authors": [],
+      "printed_page_number": "III-73",
+      "skip": true
+    },
+    {
+      "title": "Studies of the Disadvantaged and Human Development",
+      "authors": [],
+      "printed_page_number": "III-74",
+      "skip": true
+    },
+    {
+      "title": "Appropriate Social Science Themes",
+      "authors": [],
+      "printed_page_number": "III-74",
+      "skip": true
+    },
+    {
+      "title": "Summary and Action Agendas",
+      "authors": [],
+      "printed_page_number": "III-76",
+      "skip": true
+    },
+    {
+      "title": "Issues of Discrimination",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Issues of Poverty and Inequality",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Issues of Powerlessness",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Other Agendas on the Disadvantaged",
+      "authors": [],
+      "printed_page_number": "III-77",
+      "skip": true
+    },
+    {
+      "title": "5. Poverty Among Caucasians in Nonmetro America",
+      "authors": [
+        "J. Allan Beegle"
+      ],
+      "printed_page_number": "III-78",
+      "skip": false
+    },
+    {
+      "title": "The Incidence and Trends in Rural Caucasian Poverty",
+      "authors": [],
+      "printed_page_number": "III-79",
+      "skip": true
+    },
+    {
+      "title": "The Context of Rural Poverty in the United States",
+      "authors": [],
+      "printed_page_number": "III-81",
+      "skip": true
+    },
+    {
+      "title": "Restrictive Economic Base",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Unemployment and Underemployment",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Income",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The People and Their Infrastructure",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Summary",
+      "authors": [],
+      "printed_page_number": "III-84",
+      "skip": true
+    },
+    {
+      "title": "6. Rural Issues Pertaining to the Rise of Hispanics in America",
+      "authors": [
+        "Refugio I. Rochin",
+        "Adela de la Torre"
+      ],
+      "printed_page_number": "III-86",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "III-86",
+      "skip": true
+    },
+    {
+      "title": "Hispanic-Americans",
+      "authors": [],
+      "printed_page_number": "III-86",
+      "skip": true
+    },
+    {
+      "title": "Overview",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Demographic Trends",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Work Force Participation",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Occupational Patterns",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Income and Poverty",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Hispanics of Rural America",
+      "authors": [],
+      "printed_page_number": "III-88",
+      "skip": true
+    },
+    {
+      "title": "Characteristics",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Our Hispanic Legacy of the Southwest",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Origins of Migrant Workers",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Farm Labor Unions and Collective Bargaining",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Immigration",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Hispanic Farms and Farmers",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Rural Settlements",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Rural Hispanic Issues",
+      "authors": [],
+      "printed_page_number": "III-92",
+      "skip": true
+    },
+    {
+      "title": "Agendas to Improve the Status of Rural Hispanic-Americans",
+      "authors": [],
+      "printed_page_number": "III-92",
+      "skip": true
+    },
+    {
+      "title": "7. Research Areas Relating to Native American Rural Human Development Needs",
+      "authors": [
+        "Jack D. Forbes"
+      ],
+      "printed_page_number": "III-96",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "III-96",
+      "skip": true
+    },
+    {
+      "title": "Landless Indigenous Groups",
+      "authors": [],
+      "printed_page_number": "III-97",
+      "skip": true
+    },
+    {
+      "title": "Rural Federally Recognized Reservation Groups and Tribal Governments",
+      "authors": [],
+      "printed_page_number": "III-97",
+      "skip": true
+    },
+    {
+      "title": "Rural Non-Federally Recognized Reservations or Communities",
+      "authors": [],
+      "printed_page_number": "III-98",
+      "skip": true
+    },
+    {
+      "title": "General Research Needs",
+      "authors": [],
+      "printed_page_number": "III-98",
+      "skip": true
+    },
+    {
+      "title": "Research Relating to Food and Fiber Management and Production Issues",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Research Relating to Environmental and Ecological Issues",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Research Relating to Quality-of-Life Issues",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Summary",
+      "authors": [],
+      "printed_page_number": "III-100",
+      "skip": true
+    },
+    {
+      "title": "8. The African-American, Farming, and Rural Society",
+      "authors": [
+        "Ralph D. Christy"
+      ],
+      "printed_page_number": "III-102",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "III-102",
+      "skip": true
+    },
+    {
+      "title": "The Changing Structure of U.S. Agriculture and the Decline of the African-American Farmer",
+      "authors": [],
+      "printed_page_number": "III-103",
+      "skip": true
+    },
+    {
+      "title": "Number and Size of Farms",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Land",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Tenure Characteristics",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Value of Products by Sale Category",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The African-American in a Changing Rural Economy",
+      "authors": [],
+      "printed_page_number": "III-105",
+      "skip": true
+    },
+    {
+      "title": "Conclusions",
+      "authors": [],
+      "printed_page_number": "III-106",
+      "skip": true
+    },
+    {
+      "title": "9. Increasing Health in Rural America: Research Issues During a Transitional Period",
+      "authors": [
+        "Robert D. Stevens"
+      ],
+      "printed_page_number": "III-109",
+      "skip": false
+    },
+    {
+      "title": "The Need for Increased Health Levels in Rural Areas",
+      "authors": [],
+      "printed_page_number": "III-109",
+      "skip": true
+    },
+    {
+      "title": "The Complementarity of Investments in Rural Health with Other Investments in Human Productivity",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Increasing Diversity, Instability, and Change in Rural America",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Rural People are in Poorer Health",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Less Access to Health Services in Rural Areas",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Role of Research on the Economics of Rural Health",
+      "authors": [],
+      "printed_page_number": "III-112",
+      "skip": true
+    },
+    {
+      "title": "The Source of Demand for Economic and Other Social Science Research on the Health Sector",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "A Framework for Analysis of Factors Affecting Health Status",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Rural Economic Development and the Demand for and Supply of Rural Health Services",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Issues in Institutional Change in Health-Service Delivery",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "A Research Agenda to Achieve Better Health for People in Rural Areas",
+      "authors": [],
+      "printed_page_number": "III-115",
+      "skip": true
+    },
+    {
+      "title": "How to Encourage Healthier Lifestyles and Better Self-Care",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Assuring Appropriate Demand for Curative Health Services in Rural Areas",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Augmenting the Supply of Cost-Effective Rural Health Services",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "10. Human Development: Agendas and Conclusions",
+      "authors": [],
+      "printed_page_number": "III-122",
+      "skip": false
+    },
+    {
+      "title": "General Agendas for the Agricultural Establishment (AE) to Meet the Rural Human Development and Poverty Alleviation Challenges",
+      "authors": [],
+      "printed_page_number": "III-122",
+      "skip": true
+    },
+    {
+      "title": "Rural Social Science (RSS) Agendas for Meeting the Challenge of Human Development and Poverty Alleviation",
+      "authors": [],
+      "printed_page_number": "III-122",
+      "skip": true
+    },
+    {
+      "title": "Basic Social Science Agendas to Meet the Challenges of Rural Human Development and Poverty Alleviation",
+      "authors": [],
+      "printed_page_number": "III-125",
+      "skip": true
+    },
+    {
+      "title": "Section 3: Resource Enhancement",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Introduction to Section on Resource Enhancement and Growth in Capital Bases",
+      "authors": [],
+      "printed_page_number": "III-126",
+      "skip": false
+    },
+    {
+      "title": "A Review of Academic Thought about Natural Resources",
+      "authors": [],
+      "printed_page_number": "III-127",
+      "skip": true
+    },
+    {
+      "title": "Value Dimensions",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Optimal Levels of Sustainability",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Optimizing Use of Manmade Resources or Capital",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Difficulties with the Concept of Efficiency/Equality Tradeoffs",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Primitive Undeveloped Nature of Public Choice/Transaction Cost Approach for Analysis of Resource Issues",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "A Review of Academic Thought about Manmade Resources (or Capital)",
+      "authors": [],
+      "printed_page_number": "III-131",
+      "skip": true
+    },
+    {
+      "title": "Organization of this Section",
+      "authors": [],
+      "printed_page_number": "III-131",
+      "skip": true
+    },
+    {
+      "title": "Cross References in this Book",
+      "authors": [],
+      "printed_page_number": "III-132",
+      "skip": true
+    },
+    {
+      "title": "2. Natural Resources in Agriculture: Trends and Issues",
+      "authors": [
+        "Kenneth D. Frederick",
+        "Roger A. Sedjo",
+        "Pierre Crosson"
+      ],
+      "printed_page_number": "III-134",
+      "skip": false
+    },
+    {
+      "title": "The Nature of Natural Resources",
+      "authors": [],
+      "printed_page_number": "III-135",
+      "skip": true
+    },
+    {
+      "title": "Natural Resource Management",
+      "authors": [],
+      "printed_page_number": "III-136",
+      "skip": true
+    },
+    {
+      "title": "Lessons from the Resource Studies",
+      "authors": [],
+      "printed_page_number": "III-136",
+      "skip": true
+    },
+    {
+      "title": "Interdependence among the Resources",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Resource Use and Technical Change",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Institutions and the Status of the Resources",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "3. Trends and Implications of Agricultural Input Use in U.S. Agriculture",
+      "authors": [
+        "Joseph R. Barse",
+        "John R. Schaub"
+      ],
+      "printed_page_number": "III-142",
+      "skip": false
+    },
+    {
+      "title": "Trends in Agricultural Inputs",
+      "authors": [],
+      "printed_page_number": "III-142",
+      "skip": true
+    },
+    {
+      "title": "Purchased Inputs and Productivity",
+      "authors": [],
+      "printed_page_number": "III-142",
+      "skip": true
+    },
+    {
+      "title": "Fertilizer",
+      "authors": [],
+      "printed_page_number": "III-145",
+      "skip": true
+    },
+    {
+      "title": "Pesticides",
+      "authors": [],
+      "printed_page_number": "III-145",
+      "skip": true
+    },
+    {
+      "title": "Energy",
+      "authors": [],
+      "printed_page_number": "III-145",
+      "skip": true
+    },
+    {
+      "title": "Livestock Feeds",
+      "authors": [],
+      "printed_page_number": "III-145",
+      "skip": true
+    },
+    {
+      "title": "Credit",
+      "authors": [],
+      "printed_page_number": "III-147",
+      "skip": true
+    },
+    {
+      "title": "Farm Machinery",
+      "authors": [],
+      "printed_page_number": "III-147",
+      "skip": true
+    },
+    {
+      "title": "Hired Labor",
+      "authors": [],
+      "printed_page_number": "III-147",
+      "skip": true
+    },
+    {
+      "title": "Implications for Consumers and the Environment",
+      "authors": [],
+      "printed_page_number": "III-147",
+      "skip": true
+    },
+    {
+      "title": "Water Quality",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Food Safety",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Food Prices",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "4. People, Processes, and Products: Potential Contribution of the Social Sciences to the Preservation and Enhancement of Natural Resources in the Third World Countries",
+      "authors": [
+        "Louise P. Fortmann",
+        "Daniel C. Mountjoy",
+        "Bruce F. Johnston"
+      ],
+      "printed_page_number": "III-150",
+      "skip": false
+    },
+    {
+      "title": "The Problem of Defining Problems",
+      "authors": [],
+      "printed_page_number": "III-150",
+      "skip": true
+    },
+    {
+      "title": "Problems in Past Analyses and Strategies",
+      "authors": [],
+      "printed_page_number": "III-150",
+      "skip": true
+    },
+    {
+      "title": "Analytical Assumptions",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Strategic Shortfalls",
+      "authors": [],
+      "printed_page_number": "III-152",
+      "skip": true
+    },
+    {
+      "title": "The Need for Social Science",
+      "authors": [],
+      "printed_page_number": "III-153",
+      "skip": true
+    },
+    {
+      "title": "Conclusions",
+      "authors": [],
+      "printed_page_number": "III-155",
+      "skip": true
+    },
+    {
+      "title": "5. Defining a Sustainable Future: Basic Issues in Agriculture",
+      "authors": [
+        "William Lockeretz"
+      ],
+      "printed_page_number": "III-159",
+      "skip": false
+    },
+    {
+      "title": "Evolution and Current Status of the Concept",
+      "authors": [],
+      "printed_page_number": "III-159",
+      "skip": true
+    },
+    {
+      "title": "Fundamental Questions",
+      "authors": [],
+      "printed_page_number": "III-160",
+      "skip": true
+    },
+    {
+      "title": "What Are the Differences between Sustainable, Regenerative, Alternative, Low-Input, and Ecological Agriculture?",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Is Sustainable Agriculture Primarily a Matter of Reducing Certain Inputs, or Reducing Inputs in General, or Instituting Positive Practices that Make Some Inputs Unnecessary?",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Does Sustainable Agriculture Require Fundamental Changes in Either the Economic and Institutional Environment or Farmers' Motivations and Values?",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "To What Extent Do the Resource-Conserving and Environmentally Sounder Techniques Being Developed at Mainstream Agricultural Institutions Already Represent Sustainable Agriculture?",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Does Sustainable Agriculture Require a Higher Level of Management Ability among Farmers?",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Conclusions",
+      "authors": [],
+      "printed_page_number": "III-163",
+      "skip": true
+    },
+    {
+      "title": "6. Abstract: Sustainable Development: Challenges to the Profession of Agricultural Economics",
+      "authors": [
+        "Sandra S. Batie"
+      ],
+      "printed_page_number": "III-165",
+      "skip": false
+    },
+    {
+      "title": "7. Resource Enhancement and Growth in Capital Bases: Agendas and Conclusions",
+      "authors": [],
+      "printed_page_number": "III-167",
+      "skip": false
+    },
+    {
+      "title": "Natural Resource Agendas from SSAAP's Houston Conference",
+      "authors": [],
+      "printed_page_number": "III-167",
+      "skip": true
+    },
+    {
+      "title": "Work Group Reports from the Houston Conference",
+      "authors": [],
+      "printed_page_number": "III-168",
+      "skip": true
+    },
+    {
+      "title": "Natural Resource Use, Development, and Disinvestments",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Evaluation, Assessment, and Utilization of Natural Resources",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Natural Resource Commodities",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Waste, Environmental Pollutants, Food-Chain Contamination, and Natural Resources",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Public Choice and Private Decisions with Respect to Natural Resources",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Resources Data",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Developments after the Houston SSAAP Conference and Conclusions",
+      "authors": [],
+      "printed_page_number": "III-171",
+      "skip": true
+    },
+    {
+      "title": "Section 4: Technical Advance",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Introduction to Section on Technical Advance",
+      "authors": [],
+      "printed_page_number": "III-172",
+      "skip": false
+    },
+    {
+      "title": "Past Agenda- and Priority-Setting Exercises Concerning Technical Change Dominated by Biological and Physical Agricultural Scientists",
+      "authors": [],
+      "printed_page_number": "III-172",
+      "skip": true
+    },
+    {
+      "title": "Past Social Science Work on Technical Change for Agriculture",
+      "authors": [],
+      "printed_page_number": "III-173",
+      "skip": true
+    },
+    {
+      "title": "The Remainder of this Section",
+      "authors": [],
+      "printed_page_number": "III-175",
+      "skip": true
+    },
+    {
+      "title": "Cross References in this Book",
+      "authors": [],
+      "printed_page_number": "III-175",
+      "skip": true
+    },
+    {
+      "title": "2. Technical Advance: Agendas and Conclusions",
+      "authors": [],
+      "printed_page_number": "III-177",
+      "skip": false
+    },
+    {
+      "title": "Partnerships with Biological and Physical Agricultural Sciences",
+      "authors": [],
+      "printed_page_number": "III-177",
+      "skip": true
+    },
+    {
+      "title": "Institutions and Policies Generating and Disseminating Technical Advances for Agriculture",
+      "authors": [],
+      "printed_page_number": "III-178",
+      "skip": true
+    },
+    {
+      "title": "Ethical Aspects of Technical Advances",
+      "authors": [],
+      "printed_page_number": "III-179",
+      "skip": true
+    },
+    {
+      "title": "Agendas Vis-A-Vis Databases for Technical Agricultural Change",
+      "authors": [],
+      "printed_page_number": "III-180",
+      "skip": true
+    },
+    {
+      "title": "Disciplinary Agendas Vis-A-Vis Technical Change",
+      "authors": [],
+      "printed_page_number": "III-180",
+      "skip": true
+    },
+    {
+      "title": "Index to Part III",
+      "authors": [],
+      "printed_page_number": "III-181",
+      "skip": true
+    },
+    {
+      "title": "Part IV: Three Crosscutting Concerns",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Section 1: Databases and Information Systems",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Introduction to Section on Databases and Information Systems",
+      "authors": [],
+      "printed_page_number": "IV-4",
+      "skip": false
+    },
+    {
+      "title": "Review of Data and Information-System Concerns",
+      "authors": [],
+      "printed_page_number": "IV-5",
+      "skip": true
+    },
+    {
+      "title": "Some Encouraging Developments",
+      "authors": [],
+      "printed_page_number": "IV-8",
+      "skip": true
+    },
+    {
+      "title": "International Agricultural Data",
+      "authors": [],
+      "printed_page_number": "IV-9",
+      "skip": true
+    },
+    {
+      "title": "Concluding Comments",
+      "authors": [],
+      "printed_page_number": "IV-9",
+      "skip": true
+    },
+    {
+      "title": "Cross References in this Book",
+      "authors": [],
+      "printed_page_number": "IV-10",
+      "skip": true
+    },
+    {
+      "title": "2. Rural Development in the 1990s: Data and Research Needs",
+      "authors": [
+        "Kenneth L. Deavers"
+      ],
+      "printed_page_number": "IV-13",
+      "skip": false
+    },
+    {
+      "title": "Rural America: Lagging Economic Performance",
+      "authors": [],
+      "printed_page_number": "IV-13",
+      "skip": true
+    },
+    {
+      "title": "Employment and Unemployment",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Income and Poverty",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Population Retention",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Economic Specialization and Structural Adjustment",
+      "authors": [],
+      "printed_page_number": "IV-14",
+      "skip": true
+    },
+    {
+      "title": "Rural Counties with Strong Economic Performance",
+      "authors": [],
+      "printed_page_number": "IV-14",
+      "skip": true
+    },
+    {
+      "title": "Why Did Rural Areas Lag in the 1980s?",
+      "authors": [],
+      "printed_page_number": "IV-18",
+      "skip": true
+    },
+    {
+      "title": "Changed Rural Comparative Advantage",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Metropolitan Patterns of Growth",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Federal Policy Choices",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Why Care about Lagging Rural Development?",
+      "authors": [],
+      "printed_page_number": "IV-21",
+      "skip": true
+    },
+    {
+      "title": "Economic Efficiency",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Fairness",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Public Goods",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "What Are the Data and Knowledge Gaps?",
+      "authors": [],
+      "printed_page_number": "IV-23",
+      "skip": true
+    },
+    {
+      "title": "Changing the Emphasis in Rural Data",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Some Specific Data Needs",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Rural Research Priorities",
+      "authors": [],
+      "printed_page_number": "IV-25",
+      "skip": true
+    },
+    {
+      "title": "Economic Disadvantage and Rurality",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Structural Change, Migration, and Rural Disadvantage",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Process of Local Development",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Effects of Public Policy",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "3. Social Science Agendas for Databases and Information Systems",
+      "authors": [],
+      "printed_page_number": "IV-28",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "IV-28",
+      "skip": true
+    },
+    {
+      "title": "Farming, Agribusiness, and Consumers",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Natural and Community Resources",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Rural Development of Less Developed Countries (LDC)",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Abridged Crosscut Agenda for Rural Information Systems from the Houston Conference",
+      "authors": [],
+      "printed_page_number": "IV-29",
+      "skip": true
+    },
+    {
+      "title": "New Agenda Items and Conclusions Developed since the Houston Conference",
+      "authors": [],
+      "printed_page_number": "IV-30",
+      "skip": true
+    },
+    {
+      "title": "Section 2: Basic Social Sciences",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Introduction to Section on Basic Social Science Disciplines (BSSDs)",
+      "authors": [],
+      "printed_page_number": "IV-33",
+      "skip": false
+    },
+    {
+      "title": "The Work of BSSDs and RSSs with Respect to Agriculture and Rural Societies",
+      "authors": [],
+      "printed_page_number": "IV-33",
+      "skip": true
+    },
+    {
+      "title": "BSSD Contributions to Farming and Rural Societies",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Important Complementarities between the RSSs and the BSSDs",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Basic Social Science Disciplines and Ancillary Disciplines Are Important for Agriculture, Rural Societies, and Consumers",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Administration and Funding for the BSSDs and RSSs",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Related Literature Relevant for Establishing Agendas in the Basic Social Science Disciplines to Assist Farmers and Rural Societies",
+      "authors": [],
+      "printed_page_number": "IV-35",
+      "skip": true
+    },
+    {
+      "title": "Anthropology",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Economics",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Geography",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "History",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Human Ecology",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Philosophy",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Political Science",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Sociology",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Statistics",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Organization of Section 2",
+      "authors": [],
+      "printed_page_number": "IV-40",
+      "skip": true
+    },
+    {
+      "title": "Cross References in this Book",
+      "authors": [],
+      "printed_page_number": "IV-41",
+      "skip": true
+    },
+    {
+      "title": "2. Utility, Utilitarianism, and Public Policy",
+      "authors": [
+        "Edward F. McClennen"
+      ],
+      "printed_page_number": "IV-44",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "IV-44",
+      "skip": true
+    },
+    {
+      "title": "Some Utilitarian Theorems",
+      "authors": [],
+      "printed_page_number": "IV-44",
+      "skip": true
+    },
+    {
+      "title": "The Problem of Equality",
+      "authors": [],
+      "printed_page_number": "IV-45",
+      "skip": true
+    },
+    {
+      "title": "A Questionable Axiomatic Presupposition",
+      "authors": [],
+      "printed_page_number": "IV-46",
+      "skip": true
+    },
+    {
+      "title": "An Alternative, and More Positive, Suggestion",
+      "authors": [],
+      "printed_page_number": "IV-47",
+      "skip": true
+    },
+    {
+      "title": "3. Progress Made and Advances Needed in Social Indicators and Social Accounting Research of Potential Value in Researching Rural Issues and Problems",
+      "authors": [
+        "Karl A. Fox"
+      ],
+      "printed_page_number": "IV-50",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "IV-50",
+      "skip": true
+    },
+    {
+      "title": "Concrete Examples of Social Indicators: The OECD List (1982)",
+      "authors": [],
+      "printed_page_number": "IV-50",
+      "skip": true
+    },
+    {
+      "title": "Relations of the OECD List to Various Objectives of the Social-Indicators Movement",
+      "authors": [],
+      "printed_page_number": "IV-52",
+      "skip": true
+    },
+    {
+      "title": "Some Historical Comments on the Social-Indicators Movement",
+      "authors": [],
+      "printed_page_number": "IV-52",
+      "skip": true
+    },
+    {
+      "title": "Contributions by Terleckyj and Stone, 1975",
+      "authors": [],
+      "printed_page_number": "IV-53",
+      "skip": true
+    },
+    {
+      "title": "Contributions by Fox, 1974",
+      "authors": [],
+      "printed_page_number": "IV-54",
+      "skip": true
+    },
+    {
+      "title": "Some Conceptual Advantages of Social Accounts over Social Indicators",
+      "authors": [],
+      "printed_page_number": "IV-55",
+      "skip": true
+    },
+    {
+      "title": "Some Conceptual Advantages of Behavior Settings over Alternative Basic Units in Time-Use Accounts for a Community",
+      "authors": [],
+      "printed_page_number": "IV-55",
+      "skip": true
+    },
+    {
+      "title": "Time-Use Accounts for a Community",
+      "authors": [],
+      "printed_page_number": "IV-56",
+      "skip": true
+    },
+    {
+      "title": "Linking Barkers's Concepts to Those of other Disciplines and to Social Indicators and Accounts",
+      "authors": [],
+      "printed_page_number": "IV-56",
+      "skip": true
+    },
+    {
+      "title": "Some Advantages of Rural Social Scientists in Social Accounting Research",
+      "authors": [],
+      "printed_page_number": "IV-57",
+      "skip": true
+    },
+    {
+      "title": "Concluding Remarks: Some Broader Implications of Behavior Settings for the Social Sciences",
+      "authors": [],
+      "printed_page_number": "IV-58",
+      "skip": true
+    },
+    {
+      "title": "4. Anthropology, Evolution, and Agricultural Development",
+      "authors": [
+        "Billie R. DeWalt"
+      ],
+      "printed_page_number": "IV-60",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "IV-60",
+      "skip": true
+    },
+    {
+      "title": "Anthropology and Agricultural Development",
+      "authors": [],
+      "printed_page_number": "IV-60",
+      "skip": true
+    },
+    {
+      "title": "Background",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Anthropology in Agricultural Development",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Evolutionary Theory and Agricultural Development",
+      "authors": [],
+      "printed_page_number": "IV-61",
+      "skip": true
+    },
+    {
+      "title": "Evolutionary Theory",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Adaptive Strategies and Decision Making",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Adaptive Systems",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Evolution of Agriculture",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Conclusions",
+      "authors": [],
+      "printed_page_number": "IV-65",
+      "skip": true
+    },
+    {
+      "title": "5. The Basic Social Science Disciplines (BSSDs): Agendas and Conclusions",
+      "authors": [],
+      "printed_page_number": "VI-69",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "IV-69",
+      "skip": true
+    },
+    {
+      "title": "Basic Social Science Agendas from Houston",
+      "authors": [],
+      "printed_page_number": "IV-69",
+      "skip": true
+    },
+    {
+      "title": "Anthropology",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Economics and Statistics",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Geography",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "History",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Home Economics",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Philosophy",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Political Science",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Sociology",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Conclusion: Goals and Strategies",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Editorial Agendas Developed after the Houston Meeting",
+      "authors": [],
+      "printed_page_number": "IV-75",
+      "skip": true
+    },
+    {
+      "title": "A Conclusion about Resolving Disciplinary Versus RSS Stakes in Improving the BSSDs",
+      "authors": [],
+      "printed_page_number": "IV-79",
+      "skip": true
+    },
+    {
+      "title": "Section 3: Ethics, Decisions, and Public Choices",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "1. Introduction-Ethics, Private Decision Making, and Public Choices",
+      "authors": [],
+      "printed_page_number": "IV-80",
+      "skip": false
+    },
+    {
+      "title": "Background Information",
+      "authors": [],
+      "printed_page_number": "IV-80",
+      "skip": true
+    },
+    {
+      "title": "Values and Ethics in Solving Farm and Rural Problems",
+      "authors": [],
+      "printed_page_number": "IV-82",
+      "skip": true
+    },
+    {
+      "title": "Transaction Costs for Public and Private Decision Making and Choosing",
+      "authors": [],
+      "printed_page_number": "IV-85",
+      "skip": true
+    },
+    {
+      "title": "Kinds of Values of Concern in Making Public Choices and Private Decisions",
+      "authors": [],
+      "printed_page_number": "IV-86",
+      "skip": true
+    },
+    {
+      "title": "Philosophic Orientations Affecting Rural and Basic Social Science Work on Agroethics",
+      "authors": [],
+      "printed_page_number": "IV-88",
+      "skip": true
+    },
+    {
+      "title": "The Development of Agenda Items Concerning Agricultural Ethics at and after SSAAP's Houston Conference",
+      "authors": [],
+      "printed_page_number": "IV-89",
+      "skip": true
+    },
+    {
+      "title": "Cross References in this Book",
+      "authors": [],
+      "printed_page_number": "IV-90",
+      "skip": true
+    },
+    {
+      "title": "2. Philosophy in the Social Science Agricultural Agenda",
+      "authors": [
+        "Paul B. Thompson"
+      ],
+      "printed_page_number": "IV-93",
+      "skip": false
+    },
+    {
+      "title": "Philosophy and Philosophical Research",
+      "authors": [],
+      "printed_page_number": "IV-93",
+      "skip": true
+    },
+    {
+      "title": "Methodological Issues",
+      "authors": [],
+      "printed_page_number": "IV-94",
+      "skip": true
+    },
+    {
+      "title": "Disciplinary Research Methodology",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Subject-Matter Research",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Problem-Solving Research",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Conclusions",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Philosophy and Public Policy",
+      "authors": [],
+      "printed_page_number": "IV-96",
+      "skip": true
+    },
+    {
+      "title": "Establishment of Social Goals",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Legitimation of Government Authority",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Conclusion",
+      "authors": [],
+      "printed_page_number": "IV-97",
+      "skip": true
+    },
+    {
+      "title": "3. Ethics, Private Decisions, and Public Choices: Agendas and Conclusions",
+      "authors": [],
+      "printed_page_number": "IV-100",
+      "skip": false
+    },
+    {
+      "title": "Abridged Work-Group Reports from SSAAP's Houston Conference",
+      "authors": [],
+      "printed_page_number": "IV-100",
+      "skip": true
+    },
+    {
+      "title": "Overall Agendas Relative to Ethics, Public Choice, and Private Decision Making",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "General Agenda Items Developed after the Houston Conference",
+      "authors": [],
+      "printed_page_number": "IV-101",
+      "skip": true
+    },
+    {
+      "title": "Index to Part IV",
+      "authors": [],
+      "printed_page_number": "IV-103",
+      "skip": true
+    },
+    {
+      "title": "Part V: Needed Research and Strategies",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Cross References in this Book",
+      "authors": [],
+      "printed_page_number": "V-12",
+      "skip": true
+    },
+    {
+      "title": "1. Introduction to Administration and Funding: Needed Research and Strategies",
+      "authors": [],
+      "printed_page_number": "V-3",
+      "skip": false
+    },
+    {
+      "title": "Three Administrative Imbalances",
+      "authors": [],
+      "printed_page_number": "V-3",
+      "skip": true
+    },
+    {
+      "title": "Selected Literature, Past Discussions, and Experiences Pertaining to Administrative and Funding Strategies",
+      "authors": [],
+      "printed_page_number": "V-5",
+      "skip": true
+    },
+    {
+      "title": "The Alleged Primacy of Disciplinary (DISC) versus Multidisciplinary Problem-Solving (PS) and Subject-Matter (SM) Efforts",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Relative Emphasis on the Four Driving Forces for Progress of the Food and Fiber System and Rural Societies",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Beyond Research to Other Kinds of Work",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Agroethics",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Administrative Relationships among Departments, Disciplines, and Kinds of Work",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Endowments, General Funds, Formula Funding, Budget Line Items, Soft Money, and Competitive Grants as Funding Sources",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "U.S. Department of Agriculture/Land-Grant Funding and Administrative Relationship vis-a-vis",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Experiences of SSAAP's Editorial Group in Meeting with Various Administrative and Funding Agencies",
+      "authors": [],
+      "printed_page_number": "V-12",
+      "skip": true
+    },
+    {
+      "title": "2. A Systems Approach for Understanding Research on the Organization and Administration of the Agricultural Scientific Enterprise",
+      "authors": [
+        "Charles L. Mulford",
+        "Gerald E. Klonglan",
+        "Ge Xiao Jia"
+      ],
+      "printed_page_number": "V-15",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "V-15",
+      "skip": true
+    },
+    {
+      "title": "Policy Issues and Research Priorities for the 1990s",
+      "authors": [],
+      "printed_page_number": "V-17",
+      "skip": true
+    },
+    {
+      "title": "Diversified Demands and Multiple Constituencies: The Input Side",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Important Issues on the Input Side of the System",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Research Needed on the Input Side of the System",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Structuring the Work of Professionals in Research, Teaching, and Extension: Throughput Process",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Research Needed on Throughput",
+      "authors": [],
+      "printed_page_number": "V-20",
+      "skip": true
+    },
+    {
+      "title": "Assessing Organizational Effectiveness: The Output Side",
+      "authors": [],
+      "printed_page_number": "V-21",
+      "skip": true
+    },
+    {
+      "title": "Summary and Conclusions",
+      "authors": [],
+      "printed_page_number": "V-23",
+      "skip": true
+    },
+    {
+      "title": "3. Social Science Knowledge and Tools to Address Problems and Issues: From the Perspective of Both the Rural and the Basic Social Sciences",
+      "authors": [
+        "Larry J. Connor"
+      ],
+      "printed_page_number": "V-26",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "V-26",
+      "skip": true
+    },
+    {
+      "title": "Social Science Theory, Methods of Analysis, and Tools",
+      "authors": [],
+      "printed_page_number": "V-26",
+      "skip": true
+    },
+    {
+      "title": "Heterogeneity of Social Sciences",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Requirements of Basic Social Sciences",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Capacities of Social Sciences to Address Rural Problems",
+      "authors": [],
+      "printed_page_number": "V-27",
+      "skip": true
+    },
+    {
+      "title": "Types and Levels of Research",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Major Sources of Change in Societal Capacity and Information Needs",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Impacts of Alternative Institutional Models on Rural Social Sciences",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Ranking of Rural Social Science Problem Areas",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Research Areas of Opportunity",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Summary",
+      "authors": [],
+      "printed_page_number": "V-33",
+      "skip": true
+    },
+    {
+      "title": "4. From the Perspective of Research Administration",
+      "authors": [
+        "H. O. Kunkel"
+      ],
+      "printed_page_number": "V-35",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "V-35",
+      "skip": true
+    },
+    {
+      "title": "Performance of Social Sciences",
+      "authors": [],
+      "printed_page_number": "V-35",
+      "skip": true
+    },
+    {
+      "title": "Administrative Issues",
+      "authors": [],
+      "printed_page_number": "V-36",
+      "skip": true
+    },
+    {
+      "title": "Work of the Social Sciences",
+      "authors": [],
+      "printed_page_number": "V-38",
+      "skip": true
+    },
+    {
+      "title": "5. Funding Social Science Research: The Problem Of Priorities",
+      "authors": [
+        "Richard G. Stuby"
+      ],
+      "printed_page_number": "V-41",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "V-41",
+      "skip": true
+    },
+    {
+      "title": "The Funding Process",
+      "authors": [],
+      "printed_page_number": "V-41",
+      "skip": true
+    },
+    {
+      "title": "Priority Setting",
+      "authors": [],
+      "printed_page_number": "V-41",
+      "skip": true
+    },
+    {
+      "title": "Changes in Procedures",
+      "authors": [],
+      "printed_page_number": "V-43",
+      "skip": true
+    },
+    {
+      "title": "What Can the Social Sciences Do?",
+      "authors": [],
+      "printed_page_number": "V-43",
+      "skip": true
+    },
+    {
+      "title": "6. Perspectives on the Administration and Funding of Rural Social Science Research and Extension",
+      "authors": [
+        "R.J. Hildreth"
+      ],
+      "printed_page_number": "V-45",
+      "skip": false
+    },
+    {
+      "title": "After 75 Years of Cooperative Extension—What in the World is Ahead?",
+      "authors": [],
+      "printed_page_number": "V-45",
+      "skip": true
+    },
+    {
+      "title": "Policy Issues",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Alternatives and Consequences",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Political Puzzles of Research Funding",
+      "authors": [],
+      "printed_page_number": "V-48",
+      "skip": true
+    },
+    {
+      "title": "7. An Assessment of the Agricultural Economics Profession",
+      "authors": [
+        "Richard E. Just",
+        "Gordon C. Rausser"
+      ],
+      "printed_page_number": "V-51",
+      "skip": false
+    },
+    {
+      "title": "8. Administrative and Funding Strategies and Research Agendas",
+      "authors": [],
+      "printed_page_number": "V-53",
+      "skip": false
+    },
+    {
+      "title": "SSAAP's Overall Administrative and Funding Strategies",
+      "authors": [],
+      "printed_page_number": "V-53",
+      "skip": true
+    },
+    {
+      "title": "Results from SSAAP's Houston Conference",
+      "authors": [],
+      "printed_page_number": "V-55",
+      "skip": true
+    },
+    {
+      "title": "Administrative Strategies from SSAAP's Houston Conference",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Funding Strategies from SSAAP's Houston Conference",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Needed Research on Administration and Funding as Reported from SSAAP's Houston Conference",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Administrative and Funding Changes Needed to Support SSAAP's Substantive Agendas from Parts II through IV",
+      "authors": [],
+      "printed_page_number": "V-60",
+      "skip": true
+    },
+    {
+      "title": "The Long-Term Need for A \"SSAAP-Like\" Organization",
+      "authors": [],
+      "printed_page_number": "V-62",
+      "skip": true
+    },
+    {
+      "title": "9. Summary and Conclusions: Challenges and Agendas for Rural and Basic Social Scientists and Their Administrators",
+      "authors": [],
+      "printed_page_number": "V-64",
+      "skip": false
+    },
+    {
+      "title": "SSAAP's Broad Strategic Challenges",
+      "authors": [],
+      "printed_page_number": "V-66",
+      "skip": true
+    },
+    {
+      "title": "The Broad Challenges for Administrators Are to Encourage, Facilitate, and Fund Partnership Arrangements",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Requirements for Success",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Satisfying the Requirements",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "The Broad Challenges for the Rural and Basic or Disciplinary Social Sciences and Their Associated Disciplines Are Those of Contributing To",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Multidisciplinary and multidepartmental problem-solving and issue or subject-matter partnership or team efforts",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Applied, more specialized, disciplinary social science work in individual basic social science disciplines",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Disciplinary work on deficiencies in the theories, techniques, and data of the basic social science disciplines that constrain work on problems and subjects",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Ten Challenging Rural and Agricultural Agendas for the Social Sciences",
+      "authors": [],
+      "printed_page_number": "V-67",
+      "skip": true
+    },
+    {
+      "title": "Two Agendas for Domestic and International Service",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Challenging Agendas for Domestic Farming, Farm Families, Agribusinesses, and Consumers",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Challenging Agendas for International Farm and Rural Development",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Four Agendas about the Primary Forces for Improving Food, Rural Resource, and Fiber Systems; Rural Societies; and the Lives of Rural People",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Challenging Agendas for Improving Rural and Agricultural Institutions",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Challenging Agendas for Human Development and the Rural Disadvantaged of the U.S.",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Challenging Agendas for the Enhancement, Conservation, Development, and Utilization of Natural and Manmade Rural Resource Bases",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Challenging Agendas with Respect to Technical Advance",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Four Crosscutting Agendas",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Challenging Agendas Concerning Databases and Supporting Information Systems",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Challenging Agendas for the Basic Social Science Disciplines (BSSDs)",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Challenging Agendas with Respect to Agroethics and Philosophic Orientations",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Challenging Agendas Pertaining to Research on Administration and Funding",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "More Detailed Challenges",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "For Administrators",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "For Social Scientists",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Meeting the Challenges",
+      "authors": [],
+      "printed_page_number": "V-76",
+      "skip": true
+    },
+    {
+      "title": "Index to Part V",
+      "authors": [],
+      "printed_page_number": "V-78",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

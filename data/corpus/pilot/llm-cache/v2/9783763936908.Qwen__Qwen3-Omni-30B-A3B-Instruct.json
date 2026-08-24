@@ -1,0 +1,250 @@
+{
+  "generated_at": 1787581838.426365,
+  "duration_seconds": 9.831713041989133,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [
+        "Corinna Br\u00fcntink",
+        "Bundesministerium f\u00fcr Bildung und Forschung"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zusammenfassung",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf Tippelt",
+        "Claudia Strobel",
+        "Andrea Reupold"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "20",
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf Tippelt",
+        "Andrea Reupold",
+        "Claudia Strobel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1 Theoretischer Rahmen und begriffliche Grundlagen",
+      "printed_page_number": "24",
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf Tippelt",
+        "Claudia Strobel",
+        "Andrea Reupold"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Methodisches Vorgehen der Wissenschaftlichen Begleitung",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf Tippelt",
+        "Helmut Kuwan",
+        "Claudia Strobel",
+        "Andrea Reupold"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3 Quantitative Angebotsstrukturen, Breitenwirkung und Marktf\u00e4higkeit von Angeboten in verschiedenen Handlungsfeldern",
+      "printed_page_number": "42",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Kuwan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Innovationen in Netzwerken",
+      "printed_page_number": "55",
+      "source_page_index": -1,
+      "authors": [
+        "Claudia Strobel",
+        "Helmut Kuwan",
+        "Andrea Reupold",
+        "Rudolf Tippelt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 \u00dcberg\u00e4nge in Lern- und Bildungsphasen",
+      "printed_page_number": "66",
+      "source_page_index": -1,
+      "authors": [
+        "Andrea Reupold",
+        "Sandra Fuchs",
+        "Nil\u00fcfer Pekince"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Qualit\u00e4tssicherung und Qualit\u00e4tsentwicklung",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Sch\u00f6nfeld",
+        "Andrea Reupold",
+        "Nil\u00fcfer Pekince"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Bildungsmarketing",
+      "printed_page_number": "90",
+      "source_page_index": -1,
+      "authors": [
+        "Andrea Reupold",
+        "Claudia Strobel",
+        "Helmut Kuwan",
+        "Rudolf Tippelt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Beratungsdienstleistungen",
+      "printed_page_number": "107",
+      "source_page_index": -1,
+      "authors": [
+        "Claudia Strobel",
+        "Andrea Reupold",
+        "Nil\u00fcfer Pekince"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 Neue Lernwelten",
+      "printed_page_number": "119",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Sch\u00f6nfeld",
+        "Nil\u00fcfer Pekince",
+        "Claudia Strobel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "10 Erfolge, Erfsbedingungen und Hindernisse",
+      "printed_page_number": "132",
+      "source_page_index": -1,
+      "authors": [
+        "Claudia Strobel",
+        "Helmut Kuwan",
+        "Andrea Reupold"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11 Kooperation in Netzwerken",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [
+        "Andrea Reupold",
+        "Helmut Kuwan",
+        "Claudia Strobel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12 Regionalentwicklung",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Sch\u00f6nfeld",
+        "Helmut Kuwan",
+        "Nil\u00fcfer Pekince",
+        "Andrea Reupold"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13 Idealtypen und Erfolgsmuster",
+      "printed_page_number": "187",
+      "source_page_index": -1,
+      "authors": [
+        "Lothar Abicht",
+        "Peter Sch\u00f6nfeld",
+        "Andrea Reupold",
+        "Rudolf Tippelt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14 Aspekte von Nachhaltigkeit",
+      "printed_page_number": "196",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Kuwan",
+        "Andrea Reupold",
+        "Nil\u00fcfer Pekince",
+        "Rudolf Tippelt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15 Ausblick und Weiterentwicklung",
+      "printed_page_number": "206",
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf Tippelt",
+        "Claudia Strobel",
+        "Andrea Reupold"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Literatur",
+      "printed_page_number": "215",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Abbildungsverzeichnis",
+      "printed_page_number": "226",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Tabellenverzeichnis",
+      "printed_page_number": "227",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

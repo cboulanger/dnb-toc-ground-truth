@@ -1,0 +1,1374 @@
+{
+  "entries": [
+    {
+      "title": "Basics",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Harmonization of Insurance Supervisory Law",
+      "authors": [],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "4",
+      "skip": false
+    },
+    {
+      "title": "The Typology of Harmonization Methods",
+      "authors": [],
+      "printed_page_number": "5",
+      "skip": false
+    },
+    {
+      "title": "The European Law Sources for Harmonization of the Insurance Supervisory Regime",
+      "authors": [],
+      "printed_page_number": "8",
+      "skip": false
+    },
+    {
+      "title": "The Solvency II Framework Directive",
+      "authors": [],
+      "printed_page_number": "8",
+      "skip": false
+    },
+    {
+      "title": "The Implementing Regulations for the Solvency II Framework Directive",
+      "authors": [],
+      "printed_page_number": "12",
+      "skip": false
+    },
+    {
+      "title": "The EIOPA Regulation",
+      "authors": [],
+      "printed_page_number": "14",
+      "skip": false
+    },
+    {
+      "title": "Interim Result",
+      "authors": [],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "Consequences for the Future Insurance Supervisory System in Germany",
+      "authors": [],
+      "printed_page_number": "16",
+      "skip": false
+    },
+    {
+      "title": "The Impact of Full Harmonization on the Insurance Supervision Act",
+      "authors": [],
+      "printed_page_number": "16",
+      "skip": false
+    },
+    {
+      "title": "Supervision According to the Principle of Abusiveness with Regard to Primary Insurance Undertakings",
+      "authors": [],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "The Effect of Full Harmonization in Certain Areas",
+      "authors": [],
+      "printed_page_number": "21",
+      "skip": false
+    },
+    {
+      "title": "Conclusions",
+      "authors": [],
+      "printed_page_number": "23",
+      "skip": false
+    },
+    {
+      "title": "Supervisory Review Process",
+      "authors": [],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "28",
+      "skip": false
+    },
+    {
+      "title": "Principles of Insurance Supervision Under Solvency II",
+      "authors": [],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "Objective and Concept of the Supervisory Review Process",
+      "authors": [],
+      "printed_page_number": "30",
+      "skip": false
+    },
+    {
+      "title": "Objective",
+      "authors": [],
+      "printed_page_number": "30",
+      "skip": false
+    },
+    {
+      "title": "Art. 36 of the Solvency II Directive and Its Implementation in Sec. 289, Paras. 2–4 of the VAG Reg-E [Government's Draft of a Tenth Act Amending the German Insurance Supervision Act]",
+      "authors": [],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "The CEIOPS Advice on Procedures for Supervisory Authorities",
+      "authors": [],
+      "printed_page_number": "36",
+      "skip": false
+    },
+    {
+      "title": "The Subjects of the Supervisory Review Process",
+      "authors": [],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "Subject of the Investigation and Investigatory Standard",
+      "authors": [],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "The Governance System as Examination Subject",
+      "authors": [],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "Capital Requirements as Examination Subject",
+      "authors": [],
+      "printed_page_number": "44",
+      "skip": false
+    },
+    {
+      "title": "Powers of Supervisory Authorities to Remedy Weaknesses and Deficiencies",
+      "authors": [],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "\"Weaknesses or Deficiencies\" as Legal Terms",
+      "authors": [],
+      "printed_page_number": "53",
+      "skip": false
+    },
+    {
+      "title": "The Role of Art. 36, Para. 5 of the Solvency II Directive in the Classification of Intervention Powers",
+      "authors": [],
+      "printed_page_number": "58",
+      "skip": false
+    },
+    {
+      "title": "Non-compliance with Capital Requirements",
+      "authors": [],
+      "printed_page_number": "60",
+      "skip": false
+    },
+    {
+      "title": "Non-compliance with Requirements on Governance",
+      "authors": [],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Summary",
+      "authors": [],
+      "printed_page_number": "63",
+      "skip": false
+    },
+    {
+      "title": "Insurance Supervisory Law and Consumer Protection",
+      "authors": [],
+      "printed_page_number": "67",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "68",
+      "skip": false
+    },
+    {
+      "title": "Consumer Protection Provisions of the New Insurance Supervisory Regime",
+      "authors": [],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "The EIOPA Regulation",
+      "authors": [],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "The Solvency II Directive",
+      "authors": [],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "The Draft Regulation on Key Information Documents and the Draft Directive on Insurance Mediation",
+      "authors": [],
+      "printed_page_number": "72",
+      "skip": false
+    },
+    {
+      "title": "The Second and Third Regulatory Levels of the Solvency II System",
+      "authors": [],
+      "printed_page_number": "72",
+      "skip": false
+    },
+    {
+      "title": "The VAG-RegE [Government's Draft of a Tenth Act Amending the German Insurance Supervision Act]",
+      "authors": [],
+      "printed_page_number": "73",
+      "skip": false
+    },
+    {
+      "title": "The BaFin [Federal Financial Supervisory Authority]",
+      "authors": [],
+      "printed_page_number": "74",
+      "skip": false
+    },
+    {
+      "title": "The Role of Consumer Protection in the Supervision of Insurance Undertakings",
+      "authors": [],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "The Objective of Supervision",
+      "authors": [],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "Further Implications",
+      "authors": [],
+      "printed_page_number": "77",
+      "skip": false
+    },
+    {
+      "title": "Summary",
+      "authors": [],
+      "printed_page_number": "94",
+      "skip": false
+    },
+    {
+      "title": "Solvency",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Solvency Requirements",
+      "authors": [],
+      "printed_page_number": "99",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "100",
+      "skip": false
+    },
+    {
+      "title": "The Solvency System Under Supervisory Law",
+      "authors": [],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "The Economic Balance Sheet (Solvency Statement)",
+      "authors": [],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "Own Funds Under Supervisory Law",
+      "authors": [],
+      "printed_page_number": "102",
+      "skip": false
+    },
+    {
+      "title": "Capital Requirements Under Supervisory Law",
+      "authors": [],
+      "printed_page_number": "103",
+      "skip": false
+    },
+    {
+      "title": "The Supervisory Review Process",
+      "authors": [],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "Complexity, Volatility and Procyclicality of the Solvency Requirements: Implications for Solvency Supervision",
+      "authors": [],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "The Problems",
+      "authors": [],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "Complexity",
+      "authors": [],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "Volatility",
+      "authors": [],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "Procyclicality",
+      "authors": [],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "The New Roles of the Managing and Supervisory Boards, Supervisory Authorities, Courts and Insurance Academics in the Solvency Supervision of Insurance Undertakings",
+      "authors": [],
+      "printed_page_number": "124",
+      "skip": false
+    },
+    {
+      "title": "The Managing and Supervisory Boards of Insurance Undertakings",
+      "authors": [],
+      "printed_page_number": "124",
+      "skip": false
+    },
+    {
+      "title": "The Supervisory Authorities",
+      "authors": [],
+      "printed_page_number": "133",
+      "skip": false
+    },
+    {
+      "title": "Competent Courts in the Insurance Supervisory Regime",
+      "authors": [],
+      "printed_page_number": "146",
+      "skip": false
+    },
+    {
+      "title": "Insurance Academics",
+      "authors": [],
+      "printed_page_number": "148",
+      "skip": false
+    },
+    {
+      "title": "Summary",
+      "authors": [],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "Governance",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Own Risk and Solvency Assessment",
+      "authors": [],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "158",
+      "skip": false
+    },
+    {
+      "title": "Subject-Matter and Objective of the ORSA",
+      "authors": [],
+      "printed_page_number": "160",
+      "skip": false
+    },
+    {
+      "title": "The Solvency II Legal Principles Applicable to the ORSA",
+      "authors": [],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "The ORSA and the Risk Management System",
+      "authors": [],
+      "printed_page_number": "162",
+      "skip": false
+    },
+    {
+      "title": "The European Law Framework",
+      "authors": [],
+      "printed_page_number": "162",
+      "skip": false
+    },
+    {
+      "title": "Present Law: The Relationship of the ORSA to Sec. 64 a, Para. 1, 2 of the VAG [German Insurance Supervision Act] and the MaRisk VA [Minimum Requirements for Risk Management (Insurance Supervision)]",
+      "authors": [],
+      "printed_page_number": "164",
+      "skip": false
+    },
+    {
+      "title": "Future Law: Sec. 28 of the VAG [German Insurance Supervision Act] in the Version of the Ministerial Draft",
+      "authors": [],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "ORSA, Actuarial Function, Standard Formula and Internal Model",
+      "authors": [],
+      "printed_page_number": "170",
+      "skip": false
+    },
+    {
+      "title": "The ORSA, the Compliance Function, and the Internal Audit Function",
+      "authors": [],
+      "printed_page_number": "172",
+      "skip": false
+    },
+    {
+      "title": "Individual Issues Concerning the ORSA",
+      "authors": [],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "The ORSA and Free Enterprise",
+      "authors": [],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "The Relationship of the ORSA to Capital Add-Ons",
+      "authors": [],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "The Own Assessment of Interest Rate Risk",
+      "authors": [],
+      "printed_page_number": "180",
+      "skip": false
+    },
+    {
+      "title": "Significant Deviation from the Assumptions Underlying the Calculation of the Standard Formula and the Internal Model",
+      "authors": [],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "Documentation and Publication of the ORSA",
+      "authors": [],
+      "printed_page_number": "186",
+      "skip": false
+    },
+    {
+      "title": "Addressees and General Principles of the ORSA Information",
+      "authors": [],
+      "printed_page_number": "186",
+      "skip": false
+    },
+    {
+      "title": "The Internal Report",
+      "authors": [],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "Requirements for Reporting to the Supervisory Authorities",
+      "authors": [],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "Requirements for Reporting to the Public",
+      "authors": [],
+      "printed_page_number": "190",
+      "skip": false
+    },
+    {
+      "title": "Supervisory Powers with Respect to the ORSA",
+      "authors": [],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "Summary",
+      "authors": [],
+      "printed_page_number": "192",
+      "skip": false
+    },
+    {
+      "title": "Fitness of Members of Supervisory Board",
+      "authors": [],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "196",
+      "skip": false
+    },
+    {
+      "title": "General Requirements of Company Law Applicable to the Qualification of Supervisory Board Members",
+      "authors": [],
+      "printed_page_number": "197",
+      "skip": false
+    },
+    {
+      "title": "The Federal Court of Justice-Ruling in Hertie",
+      "authors": [],
+      "printed_page_number": "197",
+      "skip": false
+    },
+    {
+      "title": "The German Corporate Governance Code",
+      "authors": [],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "The Insurance Supervisory Regime Requirements for the Qualification of Supervisory Board Members",
+      "authors": [],
+      "printed_page_number": "200",
+      "skip": false
+    },
+    {
+      "title": "The Statutory Rules on the Expertise Requirement",
+      "authors": [],
+      "printed_page_number": "200",
+      "skip": false
+    },
+    {
+      "title": "The BaFin [Federal Financial Supervisory Authority] Bulletin of 22 February 2010",
+      "authors": [],
+      "printed_page_number": "204",
+      "skip": false
+    },
+    {
+      "title": "Amendments in the Process of Implementing Solvency II",
+      "authors": [],
+      "printed_page_number": "206",
+      "skip": false
+    },
+    {
+      "title": "Individual Expertise of the Supervisory Board Members and the Overall Qualification of the Supervisory Board",
+      "authors": [],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "Requirements for the Individual Supervisory Board Member",
+      "authors": [],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "Overall Qualification of the Supervisory Board",
+      "authors": [],
+      "printed_page_number": "212",
+      "skip": false
+    },
+    {
+      "title": "Summary",
+      "authors": [],
+      "printed_page_number": "214",
+      "skip": false
+    },
+    {
+      "title": "Definition and Holders of Key Functions",
+      "authors": [],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "218",
+      "skip": false
+    },
+    {
+      "title": "The Term \"Key Function\"",
+      "authors": [],
+      "printed_page_number": "219",
+      "skip": false
+    },
+    {
+      "title": "The Key Functions",
+      "authors": [],
+      "printed_page_number": "219",
+      "skip": false
+    },
+    {
+      "title": "Terminological Dual-Tracking and the Irrelevance of the Difference Between \"Key Function\" and \"Key Task\"",
+      "authors": [],
+      "printed_page_number": "220",
+      "skip": false
+    },
+    {
+      "title": "The Term \"Key Functions\": Exhaustive or Open?",
+      "authors": [],
+      "printed_page_number": "223",
+      "skip": false
+    },
+    {
+      "title": "The Key Function Holders and Their Subordinate Staff Members in Key Functions",
+      "authors": [],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "The Solvency II System",
+      "authors": [],
+      "printed_page_number": "227",
+      "skip": false
+    },
+    {
+      "title": "The Equalization of Key Function Holders and Persons Who Effectively Run the Undertaking",
+      "authors": [],
+      "printed_page_number": "228",
+      "skip": false
+    },
+    {
+      "title": "Factual Distinctions in the Duty of Notice",
+      "authors": [],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "Factual Distinctions in Qualification Requirements",
+      "authors": [],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "Determination of Each Key Function Holder and the Staff Members Subordinate to Them",
+      "authors": [],
+      "printed_page_number": "232",
+      "skip": false
+    },
+    {
+      "title": "Summary",
+      "authors": [],
+      "printed_page_number": "241",
+      "skip": false
+    },
+    {
+      "title": "Supervisory Review of Key Functions",
+      "authors": [],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "244",
+      "skip": false
+    },
+    {
+      "title": "The \"Fit\" Requirement for Key Function Holders and Their Subordinate Staff Members in Key Functions",
+      "authors": [],
+      "printed_page_number": "245",
+      "skip": false
+    },
+    {
+      "title": "The Two-Tier Qualification Structure in General",
+      "authors": [],
+      "printed_page_number": "245",
+      "skip": false
+    },
+    {
+      "title": "The Special Rules",
+      "authors": [],
+      "printed_page_number": "247",
+      "skip": false
+    },
+    {
+      "title": "The Fitness of Key Function Holders",
+      "authors": [],
+      "printed_page_number": "249",
+      "skip": false
+    },
+    {
+      "title": "The Fitness of Subordinate Staff to Key Function Holders",
+      "authors": [],
+      "printed_page_number": "257",
+      "skip": false
+    },
+    {
+      "title": "The \"Proper\" Requirement for Key Function Holders and Their Subordinate Staff Members in Key Functions",
+      "authors": [],
+      "printed_page_number": "258",
+      "skip": false
+    },
+    {
+      "title": "The Two-Tier Structure of the Proper Requirement and the Proceduralization of the Proper Requirement as Starting Point",
+      "authors": [],
+      "printed_page_number": "258",
+      "skip": false
+    },
+    {
+      "title": "The Proper Requirement of Key Function Holders",
+      "authors": [],
+      "printed_page_number": "259",
+      "skip": false
+    },
+    {
+      "title": "The \"Proper\" Requirement for Staff Members Subordinate to Key Function Holders",
+      "authors": [],
+      "printed_page_number": "264",
+      "skip": false
+    },
+    {
+      "title": "The Remuneration of Key Function Holders",
+      "authors": [],
+      "printed_page_number": "264",
+      "skip": false
+    },
+    {
+      "title": "The Duties of Notice and Public Disclosure for Key Function Holders",
+      "authors": [],
+      "printed_page_number": "265",
+      "skip": false
+    },
+    {
+      "title": "The Duties of Notice to Supervisory Authorities",
+      "authors": [],
+      "printed_page_number": "265",
+      "skip": false
+    },
+    {
+      "title": "The Duties of Public Disclosure",
+      "authors": [],
+      "printed_page_number": "268",
+      "skip": false
+    },
+    {
+      "title": "Supervisory Recall and Prohibition of Exercise of Function for Key Function Holders in Cases of Fit-and-Proper Deficiencies and Supervisory Right to Direct Information from Key Function Holders",
+      "authors": [],
+      "printed_page_number": "268",
+      "skip": false
+    },
+    {
+      "title": "Solvency II",
+      "authors": [],
+      "printed_page_number": "268",
+      "skip": false
+    },
+    {
+      "title": "VAG-RegE [Government's Draft of a Tenth Act Amending the German Insurance Supervision Act]",
+      "authors": [],
+      "printed_page_number": "269",
+      "skip": false
+    },
+    {
+      "title": "Summary",
+      "authors": [],
+      "printed_page_number": "271",
+      "skip": false
+    },
+    {
+      "title": "'Senior Management' of Insurance Undertakings",
+      "authors": [],
+      "printed_page_number": "275",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "275",
+      "skip": false
+    },
+    {
+      "title": "The Normative Rules",
+      "authors": [],
+      "printed_page_number": "276",
+      "skip": false
+    },
+    {
+      "title": "'Senior Management' in the Solvency II System",
+      "authors": [],
+      "printed_page_number": "277",
+      "skip": false
+    },
+    {
+      "title": "Summary",
+      "authors": [],
+      "printed_page_number": "281",
+      "skip": false
+    },
+    {
+      "title": "Definition, Tasks and Legal Nature of the Compliance Function",
+      "authors": [],
+      "printed_page_number": "283",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "284",
+      "skip": false
+    },
+    {
+      "title": "The Legal Bases of Compliance Under the Insurance Supervisory Regime",
+      "authors": [],
+      "printed_page_number": "286",
+      "skip": false
+    },
+    {
+      "title": "The Relationship of Compliance Under the Insurance Supervisory Regime to Compliance Under General Company Law",
+      "authors": [],
+      "printed_page_number": "286",
+      "skip": false
+    },
+    {
+      "title": "The Solvency II Directive",
+      "authors": [],
+      "printed_page_number": "287",
+      "skip": false
+    },
+    {
+      "title": "The Draft of the Solvency II Implementing Regulation",
+      "authors": [],
+      "printed_page_number": "288",
+      "skip": false
+    },
+    {
+      "title": "The CEIOPS Guidelines on the System of Governance",
+      "authors": [],
+      "printed_page_number": "290",
+      "skip": false
+    },
+    {
+      "title": "The EIOPA Guidelines on the System of Governance",
+      "authors": [],
+      "printed_page_number": "291",
+      "skip": false
+    },
+    {
+      "title": "The VAG-RegE [Government's Draft of a Tenth Act Amending the Insurance Supervision Act]",
+      "authors": [],
+      "printed_page_number": "292",
+      "skip": false
+    },
+    {
+      "title": "The Government's Draft of the German Banking Ringfencing Act",
+      "authors": [],
+      "printed_page_number": "293",
+      "skip": false
+    },
+    {
+      "title": "MaRisk BA [Minimum Requirements for Risk Management (Banking Supervision)]",
+      "authors": [],
+      "printed_page_number": "294",
+      "skip": false
+    },
+    {
+      "title": "MaComp VA [Minimum Requirements for the Compliance Function (Insurance Supervision)]",
+      "authors": [],
+      "printed_page_number": "294",
+      "skip": false
+    },
+    {
+      "title": "The Definition of \"Compliance Under the Insurance Supervisory Regime\"",
+      "authors": [],
+      "printed_page_number": "296",
+      "skip": false
+    },
+    {
+      "title": "The Task of Compliance Under the Insurance Supervisory Regime and the Compliance-Related Requirements",
+      "authors": [],
+      "printed_page_number": "299",
+      "skip": false
+    },
+    {
+      "title": "Underlying Principles",
+      "authors": [],
+      "printed_page_number": "299",
+      "skip": false
+    },
+    {
+      "title": "General Legal Monitoring",
+      "authors": [],
+      "printed_page_number": "306",
+      "skip": false
+    },
+    {
+      "title": "Advising the Managing Board",
+      "authors": [],
+      "printed_page_number": "313",
+      "skip": false
+    },
+    {
+      "title": "Evaluation of Risks from Changes in the Legal Environment",
+      "authors": [],
+      "printed_page_number": "316",
+      "skip": false
+    },
+    {
+      "title": "Evaluation of the Compliance Risk",
+      "authors": [],
+      "printed_page_number": "317",
+      "skip": false
+    },
+    {
+      "title": "The Legal Nature of Compliance Under the Insurance Supervisory Regime",
+      "authors": [],
+      "printed_page_number": "318",
+      "skip": false
+    },
+    {
+      "title": "The Long Arm of the Insurance Supervisory Authority?",
+      "authors": [],
+      "printed_page_number": "318",
+      "skip": false
+    },
+    {
+      "title": "Company Officials?",
+      "authors": [],
+      "printed_page_number": "319",
+      "skip": false
+    },
+    {
+      "title": "Statutorily Prescribed and Designed Functions of Undertakings",
+      "authors": [],
+      "printed_page_number": "321",
+      "skip": false
+    },
+    {
+      "title": "Summary",
+      "authors": [],
+      "printed_page_number": "322",
+      "skip": false
+    },
+    {
+      "title": "Integrating the Compliance Function into the Legal Department",
+      "authors": [],
+      "printed_page_number": "325",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "326",
+      "skip": false
+    },
+    {
+      "title": "Combining the Legal Department and the Compliance Function as a Legal Problem",
+      "authors": [],
+      "printed_page_number": "327",
+      "skip": false
+    },
+    {
+      "title": "Combining the Legal Department and the Compliance Function in Light of Their Respective Responsibilities",
+      "authors": [],
+      "printed_page_number": "328",
+      "skip": false
+    },
+    {
+      "title": "Crossover in Tasks",
+      "authors": [],
+      "printed_page_number": "328",
+      "skip": false
+    },
+    {
+      "title": "Advisement of Insurance Undertakings' Staff Members as an Area of Potential Conflict",
+      "authors": [],
+      "printed_page_number": "330",
+      "skip": false
+    },
+    {
+      "title": "Advisement of an Insurance Undertaking's Managing Board as an Area of Potential Conflict",
+      "authors": [],
+      "printed_page_number": "331",
+      "skip": false
+    },
+    {
+      "title": "Formation of Law by the Legal Department as an Area of Potential Conflict",
+      "authors": [],
+      "printed_page_number": "333",
+      "skip": false
+    },
+    {
+      "title": "Combining the Legal Department and the Compliance Function in Light of the Special Rules Aimed at the Compliance Function as a Key Function",
+      "authors": [],
+      "printed_page_number": "334",
+      "skip": false
+    },
+    {
+      "title": "Particular Competencies",
+      "authors": [],
+      "printed_page_number": "334",
+      "skip": false
+    },
+    {
+      "title": "Special Qualifications",
+      "authors": [],
+      "printed_page_number": "335",
+      "skip": false
+    },
+    {
+      "title": "Combining the Legal Department and the Compliance Function in Light of the Principle of Functional Segregation",
+      "authors": [],
+      "printed_page_number": "336",
+      "skip": false
+    },
+    {
+      "title": "Combining the Legal Department and the Compliance Function in Light of the Principle of Functional Independence",
+      "authors": [],
+      "printed_page_number": "337",
+      "skip": false
+    },
+    {
+      "title": "Combining the Legal Department and the Compliance Function in Light of the Principles of Freedom of Internal Organization and of Proportionality",
+      "authors": [],
+      "printed_page_number": "338",
+      "skip": false
+    },
+    {
+      "title": "Summary",
+      "authors": [],
+      "printed_page_number": "340",
+      "skip": false
+    },
+    {
+      "title": "Disclosure",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Supervisory Reporting",
+      "authors": [],
+      "printed_page_number": "345",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "346",
+      "skip": false
+    },
+    {
+      "title": "The Obligations to Notify Based on Formal Grounds",
+      "authors": [],
+      "printed_page_number": "347",
+      "skip": false
+    },
+    {
+      "title": "The Term \"Obligations to Notify Based on Formal Grounds\"",
+      "authors": [],
+      "printed_page_number": "347",
+      "skip": false
+    },
+    {
+      "title": "Obligations to Notify Based on Formal Organizational Grounds",
+      "authors": [],
+      "printed_page_number": "348",
+      "skip": false
+    },
+    {
+      "title": "Reporting Duties Related to Tariffs and General Policy Conditions",
+      "authors": [],
+      "printed_page_number": "351",
+      "skip": false
+    },
+    {
+      "title": "The Disclosure Obligations of Financial Reporting",
+      "authors": [],
+      "printed_page_number": "352",
+      "skip": false
+    },
+    {
+      "title": "The Disclosure Obligations for Financial Reporting Based on Formal Organizational Grounds",
+      "authors": [],
+      "printed_page_number": "352",
+      "skip": false
+    },
+    {
+      "title": "The Disclosure Obligations for Substantive Financial Reporting",
+      "authors": [],
+      "printed_page_number": "357",
+      "skip": false
+    },
+    {
+      "title": "The Disclosure Obligations for Risk Reporting",
+      "authors": [],
+      "printed_page_number": "364",
+      "skip": false
+    },
+    {
+      "title": "Disclosure Obligations at the Group Level",
+      "authors": [],
+      "printed_page_number": "366",
+      "skip": false
+    },
+    {
+      "title": "The Obligations to Notify Based on Formal Grounds at the Group Level",
+      "authors": [],
+      "printed_page_number": "366",
+      "skip": false
+    },
+    {
+      "title": "The Disclosure Obligations of Financial Reporting at the Group Level",
+      "authors": [],
+      "printed_page_number": "368",
+      "skip": false
+    },
+    {
+      "title": "The Disclosure Obligations of Risk Reporting at the Group Level",
+      "authors": [],
+      "printed_page_number": "371",
+      "skip": false
+    },
+    {
+      "title": "The Disclosure Obligations for Financial Conglomerates",
+      "authors": [],
+      "printed_page_number": "372",
+      "skip": false
+    },
+    {
+      "title": "Further Implications",
+      "authors": [],
+      "printed_page_number": "373",
+      "skip": false
+    },
+    {
+      "title": "The Function of the Reporting and Disclosure Obligations",
+      "authors": [],
+      "printed_page_number": "373",
+      "skip": false
+    },
+    {
+      "title": "The Scope of the Reporting and Disclosure Obligations",
+      "authors": [],
+      "printed_page_number": "375",
+      "skip": false
+    },
+    {
+      "title": "The Relationship Between the VAG [German Insurance Supervision Act] and Solvency II Directive Regarding Reporting and Disclosure Obligations",
+      "authors": [],
+      "printed_page_number": "377",
+      "skip": false
+    },
+    {
+      "title": "The Concretization and Practical Management of Reporting and Disclosure Obligations",
+      "authors": [],
+      "printed_page_number": "380",
+      "skip": false
+    },
+    {
+      "title": "Summary",
+      "authors": [],
+      "printed_page_number": "382",
+      "skip": false
+    },
+    {
+      "title": "Public Disclosure",
+      "authors": [],
+      "printed_page_number": "385",
+      "skip": false
+    },
+    {
+      "title": "Introduction",
+      "authors": [],
+      "printed_page_number": "386",
+      "skip": false
+    },
+    {
+      "title": "The Objectives and Addressees of the Duties of Public Disclosure",
+      "authors": [],
+      "printed_page_number": "388",
+      "skip": false
+    },
+    {
+      "title": "Minimum Content of the Report on Solvency and Financial Condition",
+      "authors": [],
+      "printed_page_number": "391",
+      "skip": false
+    },
+    {
+      "title": "Overview",
+      "authors": [],
+      "printed_page_number": "391",
+      "skip": false
+    },
+    {
+      "title": "Financial Reporting",
+      "authors": [],
+      "printed_page_number": "392",
+      "skip": false
+    },
+    {
+      "title": "Information Related to Formal Organizational Aspects",
+      "authors": [],
+      "printed_page_number": "397",
+      "skip": false
+    },
+    {
+      "title": "The Information on Risk Reporting",
+      "authors": [],
+      "printed_page_number": "398",
+      "skip": false
+    },
+    {
+      "title": "The Duty to Update in the Event of Significant Changes to Published Information",
+      "authors": [],
+      "printed_page_number": "400",
+      "skip": false
+    },
+    {
+      "title": "The Duty of Disclosure for Direct Insurance and Reinsurance Undertakings in the National Context",
+      "authors": [],
+      "printed_page_number": "401",
+      "skip": false
+    },
+    {
+      "title": "Disclosure Duties Under Capital Market Law",
+      "authors": [],
+      "printed_page_number": "401",
+      "skip": false
+    },
+    {
+      "title": "Disclosure Duties Under Commercial Law",
+      "authors": [],
+      "printed_page_number": "404",
+      "skip": false
+    },
+    {
+      "title": "Comparison of the Report on Solvency and Financial Condition Under Solvency II and Publication Required Under National Commercial and Capital Market Law",
+      "authors": [],
+      "printed_page_number": "407",
+      "skip": false
+    },
+    {
+      "title": "The Equal Rank of the Disclosure Duties of Solvency II and Disclosure Duties Under Capital Market and Commercial Law",
+      "authors": [],
+      "printed_page_number": "407",
+      "skip": false
+    },
+    {
+      "title": "Content Overlap Between the Report on Solvency and Financial Condition Under Solvency II and the Annual Financial Statement and Management Report",
+      "authors": [],
+      "printed_page_number": "408",
+      "skip": false
+    },
+    {
+      "title": "Content Overlap Between the Report on Solvency and Financial Condition Under Solvency II and Publications Under Capital Market Law",
+      "authors": [],
+      "printed_page_number": "410",
+      "skip": false
+    },
+    {
+      "title": "Disclosure Duties at Group Level",
+      "authors": [],
+      "printed_page_number": "410",
+      "skip": false
+    },
+    {
+      "title": "Disclosure Duties at Group Level Under Solvency II",
+      "authors": [],
+      "printed_page_number": "410",
+      "skip": false
+    },
+    {
+      "title": "Disclosure Duties at Group Level in National Context",
+      "authors": [],
+      "printed_page_number": "412",
+      "skip": false
+    },
+    {
+      "title": "Content Overlap Between the Report on Solvency and Financial Condition at Group Level Under Solvency II and the Annual Financial Statement, Management Report, and Financial Reports Under Capital Market Law",
+      "authors": [],
+      "printed_page_number": "413",
+      "skip": false
+    },
+    {
+      "title": "Form of Disclosure in the Report on Solvency and Financial Condition",
+      "authors": [],
+      "printed_page_number": "414",
+      "skip": false
+    },
+    {
+      "title": "Protection of Business and Trade Secrets in Public Disclosure Duties",
+      "authors": [],
+      "printed_page_number": "415",
+      "skip": false
+    },
+    {
+      "title": "Further Conclusions",
+      "authors": [],
+      "printed_page_number": "416",
+      "skip": false
+    },
+    {
+      "title": "Regulatory Approach in Public Disclosure Duties",
+      "authors": [],
+      "printed_page_number": "416",
+      "skip": false
+    },
+    {
+      "title": "Potential Synergies in Fulfillment of Public Disclosure Duties",
+      "authors": [],
+      "printed_page_number": "418",
+      "skip": false
+    },
+    {
+      "title": "Selection of Publication Date for the Report on Solvency and Financial Condition",
+      "authors": [],
+      "printed_page_number": "419",
+      "skip": false
+    },
+    {
+      "title": "Relief at Group Level and the Principle of Proportionality",
+      "authors": [],
+      "printed_page_number": "420",
+      "skip": false
+    },
+    {
+      "title": "Less Favorable Protection of Confidentiality Interests for Direct Insurance and Reinsurance Undertakings Compared to Basel II",
+      "authors": [],
+      "printed_page_number": "421",
+      "skip": false
+    },
+    {
+      "title": "Summary",
+      "authors": [],
+      "printed_page_number": "423",
+      "skip": false
+    },
+    {
+      "title": "List of Rules",
+      "authors": [],
+      "printed_page_number": "425",
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "authors": [],
+      "printed_page_number": "473",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

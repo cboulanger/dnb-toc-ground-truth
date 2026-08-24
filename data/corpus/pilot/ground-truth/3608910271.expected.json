@@ -1,0 +1,342 @@
+{
+  "entries": [
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": "5",
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": true
+    },
+    {
+      "title": "1. Was ist philosophische Ethik?",
+      "authors": [],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "2. Wie praktisch ist die Ethik?",
+      "authors": [],
+      "printed_page_number": "26",
+      "skip": false
+    },
+    {
+      "title": "3. Naturteleologie und Handlung",
+      "authors": [],
+      "printed_page_number": "37",
+      "skip": false
+    },
+    {
+      "title": "4. Einzelhandlungen",
+      "authors": [],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "5. Die zwei Grundbegriffe der Moral",
+      "authors": [],
+      "printed_page_number": "64",
+      "skip": false
+    },
+    {
+      "title": "6. Praktische Gewi\u00dfheit. Descartes' provisorische Moral",
+      "authors": [],
+      "printed_page_number": "82",
+      "skip": false
+    },
+    {
+      "title": "7. Die Zweideutigkeit des Gl\u00fccks",
+      "authors": [],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "8. \u00dcber den Begriff der Menschenw\u00fcrde",
+      "authors": [],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "9. Das Nat\u00fcrliche und das Vern\u00fcnftige",
+      "authors": [],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "10. Die Bedeutung des Nat\u00fcrlichen im Recht",
+      "authors": [],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "II. Daseinsrelativit\u00e4t der Werte",
+      "authors": [],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "12. Moral und Gewalt",
+      "authors": [],
+      "printed_page_number": "160",
+      "skip": false
+    },
+    {
+      "title": "13. Der Ha\u00df des Sarastro",
+      "authors": [],
+      "printed_page_number": "181",
+      "skip": false
+    },
+    {
+      "title": "14. \u00dcber die Unm\u00f6glichkeit einer universalteologischen Ethik",
+      "authors": [],
+      "printed_page_number": "193",
+      "skip": false
+    },
+    {
+      "title": "15. Verantwortung als ethischer Grundbegriff",
+      "authors": [],
+      "printed_page_number": "212",
+      "skip": false
+    },
+    {
+      "title": "16. Wer hat wof\u00fcr Verantwortung? Kritische \u00dcberlegungen zur Unterscheidung von Gesinnungsethik und Verantwortungsethik",
+      "authors": [],
+      "printed_page_number": "218",
+      "skip": false
+    },
+    {
+      "title": "17. Teleologische und deontologische Moralbegr\u00fcndung",
+      "authors": [],
+      "printed_page_number": "238",
+      "skip": false
+    },
+    {
+      "title": "18. Disziplin und das Problem der sekund\u00e4ren Tugenden",
+      "authors": [],
+      "printed_page_number": "249",
+      "skip": false
+    },
+    {
+      "title": "19. Zur Ontologie der Begriffe \u00bbrechts\u00ab und \u00bblinks\u00ab",
+      "authors": [],
+      "printed_page_number": "260",
+      "skip": false
+    },
+    {
+      "title": "20. Der Anschlag auf den Sonntag",
+      "authors": [],
+      "printed_page_number": "273",
+      "skip": false
+    },
+    {
+      "title": "21. Zur philosophisch-theologischen Diskussion um die Atombombe",
+      "authors": [],
+      "printed_page_number": "281",
+      "skip": false
+    },
+    {
+      "title": "22. Die Zerst\u00f6rung der naturrechtlichen Kriegslehre. Erwiderung an P. Gustav Gundlach S. J.",
+      "authors": [],
+      "printed_page_number": "298",
+      "skip": false
+    },
+    {
+      "title": "23. Brief an Heinrich B\u00f6ll",
+      "authors": [],
+      "printed_page_number": "320",
+      "skip": false
+    },
+    {
+      "title": "24. Frieden \u2013 utopisches Ideal, kategorischer Imperativ oder politischer Begriff?",
+      "authors": [],
+      "printed_page_number": "324",
+      "skip": false
+    },
+    {
+      "title": "25. Werte gegen Menschen. Wie der Kosovo-Krieg die Begriffe verwirrt",
+      "authors": [],
+      "printed_page_number": "328",
+      "skip": false
+    },
+    {
+      "title": "26. Die totale Gesundheit",
+      "authors": [],
+      "printed_page_number": "332",
+      "skip": false
+    },
+    {
+      "title": "27. Die Herausforderung des \u00e4rztlichen Berufsethos durch die medizinische Wissenschaft",
+      "authors": [],
+      "printed_page_number": "336",
+      "skip": false
+    },
+    {
+      "title": "28. Am Ende der Debatte um \u00a7 218 StGB",
+      "authors": [],
+      "printed_page_number": "352",
+      "skip": false
+    },
+    {
+      "title": "29. Haben Ungeborene ein Recht auf Leben?",
+      "authors": [],
+      "printed_page_number": "361",
+      "skip": false
+    },
+    {
+      "title": "30. Verantwortung f\u00fcr die Ungeborenen",
+      "authors": [],
+      "printed_page_number": "367",
+      "skip": false
+    },
+    {
+      "title": "31. Das Entscheidungsrecht der Frau entlastet den Mann und die Mitwelt. Die Erlaubnis zu t\u00f6ten kommt einer Unzurechnungsf\u00e4higkeiterkl\u00e4rung gleich",
+      "authors": [],
+      "printed_page_number": "382",
+      "skip": false
+    },
+    {
+      "title": "32. Die schlechte Lehre vom guten Zweck. Der korrumpierende Kalk\u00fcl hinter der Schein-Debatte",
+      "authors": [],
+      "printed_page_number": "391",
+      "skip": false
+    },
+    {
+      "title": "33. Ist die Ausstellung des Beratungsscheins eine \u00bbformelle Mitwirkung\u00ab bei der Abtreibung?",
+      "authors": [],
+      "printed_page_number": "401",
+      "skip": false
+    },
+    {
+      "title": "34. Wozu der Aufwand? Sloterdijk fehlt das R\u00fcstzeug",
+      "authors": [],
+      "printed_page_number": "406",
+      "skip": false
+    },
+    {
+      "title": "35. Wir d\u00fcrfen das Euthanasie-Tabu nicht aufgeben",
+      "authors": [],
+      "printed_page_number": "410",
+      "skip": false
+    },
+    {
+      "title": "36. Sind alle Menschen Personen? \u00dcber neue philosophische Rechtfertigungen der Lebensvernichtung",
+      "authors": [],
+      "printed_page_number": "417",
+      "skip": false
+    },
+    {
+      "title": "37. Es gibt kein gutes T\u00f6ten",
+      "authors": [],
+      "printed_page_number": "428",
+      "skip": false
+    },
+    {
+      "title": "38. Todesstrafe",
+      "authors": [],
+      "printed_page_number": "440",
+      "skip": false
+    },
+    {
+      "title": "39. Technische Eingriffe in die Natur als Problem der politischen Ethik",
+      "authors": [],
+      "printed_page_number": "448",
+      "skip": false
+    },
+    {
+      "title": "40. Tierschutz und Menschenw\u00fcrde",
+      "authors": [],
+      "printed_page_number": "467",
+      "skip": false
+    },
+    {
+      "title": "41. Emanzipation \u2013 ein Bildungsziel?",
+      "authors": [],
+      "printed_page_number": "476",
+      "skip": false
+    },
+    {
+      "title": "42. \u00dcber den Mut zur Erziehung",
+      "authors": [],
+      "printed_page_number": "490",
+      "skip": false
+    },
+    {
+      "title": "43. Erziehung zur Wirklichkeit. Rede zum Jubil\u00e4um eines Kinderhauses",
+      "authors": [],
+      "printed_page_number": "503",
+      "skip": false
+    },
+    {
+      "title": "44. Wer ist ein gebildeter Mensch? Aus einer Promotionsrede",
+      "authors": [],
+      "printed_page_number": "513",
+      "skip": false
+    },
+    {
+      "title": "45. Zum Sinn des Ethikunterrichts in der Schule",
+      "authors": [],
+      "printed_page_number": "516",
+      "skip": false
+    },
+    {
+      "title": "46. Weltethos als \u00bbProjekt\u00ab",
+      "authors": [],
+      "printed_page_number": "525",
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen",
+      "authors": [],
+      "printed_page_number": "539",
+      "skip": true
+    },
+    {
+      "title": "TEIL I \u25c6 GRUNDFRAGEN",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "TEIL II \u25c6 THEMEN DER ZEIT",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Inhalt",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Teil I",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Grundfragen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Teil II",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Themen der Zeit",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    }
+  ],
+  "verified": false,
+  "source": "bulk_gate"
+}

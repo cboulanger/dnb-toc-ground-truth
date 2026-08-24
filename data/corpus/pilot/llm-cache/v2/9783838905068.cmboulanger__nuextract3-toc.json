@@ -1,0 +1,566 @@
+{
+  "generated_at": 1787586088.094408,
+  "duration_seconds": 167.09858891699696,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "Verena Bentele"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort der Herausgeberinnen",
+      "printed_page_number": "18",
+      "source_page_index": -1,
+      "authors": [
+        "Theresia Degener",
+        "Elke Diehl"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Teil I",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Historische Entwicklung, Begrifflichkeit und Paradigmenwechsel",
+      "printed_page_number": "23",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der lange Weg zur Selbstbestimmung. Ein historischer Abriss Philosophie und Bedrohung in der Antike \u2013 \u00bb... besser, nicht zu leben\u00ab \u00bbWundergeburt\u00ab und D\u00e4monisierung in Flugbl\u00e4ttern der Fr\u00fchen Neuzeit Aussonderung und Zurschaustellung im 19. Jahrhundert \u00bbKr\u00fcppelf\u00fcrsorge\u00ab und Selbsthilfe um 1920 Die \u00bbEuthanasie\u00ab in der Zeit des Nationalsozialismus Das \u00bbrehabilitative Heilregime\u00ab der DDR Von der Fremdbestimmung zur Selbstbestimmt-Leben-Bewegung Nationale und internationale rechtspolitische Erfolge",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [
+        "Christian M\u00fcerner",
+        "Udo Sierck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "LeibEigenschaften \u2013 eine barrierefreie Ausstellung \u00fcber den Umgang mit Beeintr\u00e4chtigungen in der Vormoderne",
+      "printed_page_number": "38",
+      "source_page_index": -1,
+      "authors": [
+        "Swantje K\u00f6bsell"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Was bedeutet Inklusion? Ann\u00e4herungen an einen vielschichtigen Begriff",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [
+        "Gudrun Wansing"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die UN-Behindertenrechtskonvention \u2013 ein neues Verst\u00e4ndnis von Behinderung",
+      "printed_page_number": "55",
+      "source_page_index": -1,
+      "authors": [
+        "Theresia Degener"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil II",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die innerstaatliche Durchsetzung der UN-Behindertenrechtskonvention",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Verantwortung der staatlichen Anlaufstelle (Focal Point)",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Knospe",
+        "Christian Papadopoulos"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Unabh\u00e4ngig und kritisch: die Monitoring-Stelle zur UN-BRK",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "Valentin Aichele"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00bbNichts \u00fcber uns ohne uns!\u00ab \u2013 Die Zivilgesellschaft spricht mit. Staatliche Koordinierungsstelle und Parallelbericht",
+      "printed_page_number": "93",
+      "source_page_index": -1,
+      "authors": [
+        "Sigrid Arnade"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Teil III",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Weg in eine inklusive Gesellschaft \u2013 neue Rahmenbedingungen nach der UN-Behindertenrechtskonvention",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Arbeit, Besch\u00e4ftigung und Ausbildung",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Trenk-Hinterberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inklusion in Unternehmen: Boehringer Ingelheim und UnternehmensForum",
+      "printed_page_number": "118",
+      "source_page_index": -1,
+      "authors": [
+        "Olaf Guttzeit"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inklusion im \u00d6ffentlichen Dienst: Beispiel Paul-Ehrlich-Institut",
+      "printed_page_number": "124",
+      "source_page_index": -1,
+      "authors": [
+        "Annetraud Grote"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inklusive Bildung: Leitidee von der Kindertageseinrichtung bis zur Hochschule",
+      "printed_page_number": "130",
+      "source_page_index": -1,
+      "authors": [
+        "Andrea Platte"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lern- und Lebensraum f\u00fcr behinderte und nicht behinderte Kinder am Beispiel einer inklusiven Grundschule",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [
+        "Christina Lang-Winter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00bbSophie-Scholl-Inklusiv\u00ab \u2013 ein Transfer- und Fortbildungsprojekt zur inklusiven Schulentwicklung",
+      "printed_page_number": "154",
+      "source_page_index": -1,
+      "authors": [
+        "Wiltrud Thies"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Der Arbeitsansatz des Dortmunder Zentrums Behinderung und Studium als \u00fcbertragbarer Weg zu einer \u00bbHochschule f\u00fcr Alle\u00ab",
+      "printed_page_number": "162",
+      "source_page_index": -1,
+      "authors": [
+        "Birgit Rothenberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Barrierefreiheit",
+      "printed_page_number": "170",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Bethke",
+        "Klemens Kruse",
+        "Markus Rebstock",
+        "Felix Welti"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mobilit\u00e4t ohne Barrieren \u2013 regionale Beispiele",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [
+        "Dirk Boenke",
+        "Heike Witsch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Barrierefreie Informationstechnik",
+      "printed_page_number": "197",
+      "source_page_index": -1,
+      "authors": [
+        "Christian B\u00fchler",
+        "Birgit Scheer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gesundheit und Rehabilitation in einem inklusiven Gemeinwesen",
+      "printed_page_number": "204",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Schmidt-Ohlemann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Unterst\u00fctzte Kommunikation \u2013 mein Sprungbrett zur Selbstbestimmung",
+      "printed_page_number": "217",
+      "source_page_index": -1,
+      "authors": [
+        "Kathrin Lemler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Selbstbestimmt leben",
+      "printed_page_number": "226",
+      "source_page_index": -1,
+      "authors": [
+        "Albrecht Rohrmann",
+        "Erik Weber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Durch Pers\u00f6nliche Assistenz zu einem selbstbestimmten Leben \u2013 ein Erfahrungsbericht",
+      "printed_page_number": "241",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Vernaldi"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einmal Psychiatrie und zur\u00fcck \u2013 ein Erfahrungsbericht",
+      "printed_page_number": "248",
+      "source_page_index": -1,
+      "authors": [
+        "Bettina Jahnke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Mehrdimensionale Diskriminierung",
+      "printed_page_number": "253",
+      "source_page_index": -1,
+      "authors": [
+        "Gisela Hermes"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Einbindung von Frauen mit Behinderungen als Expert_innen in eigener Sache",
+      "printed_page_number": "269",
+      "source_page_index": -1,
+      "authors": [
+        "Brigitte Faber"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inklusion als gesellschaftliche Zugeh\u00f6rigkeit \u2013 das Recht auf Partizipation am politischen und kulturellen Leben",
+      "printed_page_number": "275",
+      "source_page_index": -1,
+      "authors": [
+        "Leander Palleit",
+        "Gudrun Kellermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Partizipation und Barrierefreiheit am Beispiel der Arbeitsgruppen in den Senatsverwaltungen in Berlin",
+      "printed_page_number": "289",
+      "source_page_index": -1,
+      "authors": [
+        "Katrin Gr\u00fcber",
+        "Martin Marquard"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Barrierefreiheit im Landesmuseum Mainz",
+      "printed_page_number": "296",
+      "source_page_index": -1,
+      "authors": [
+        "Ursula Wallbrecher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00bbArt Blind\u00ab \u2013 ein multisensorisch erfahrbares Kunsterlebnis au\u00dferhalb des klassischen Museumsbetriebs",
+      "printed_page_number": "302",
+      "source_page_index": -1,
+      "authors": [
+        "Siegfried H. X. Saerberg"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bewundernswert an den Rollstuhl gefesselt \u2013 Medien und Sprache in einer noch nicht inklusiven Gesellschaft",
+      "printed_page_number": "308",
+      "source_page_index": -1,
+      "authors": [
+        "Rebecca Maskos"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Medien und Geb\u00e4rdensprache \u2013 bestehende Angebote und Zukunftsperspektiven",
+      "printed_page_number": "320",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Rathmann",
+        "Ralph Raule"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Leichte Sprache \u00f6ffnet T\u00fcren \u2013 Menschen mit Lernschwierigkeiten im Interview",
+      "printed_page_number": "327",
+      "source_page_index": -1,
+      "authors": [
+        "Susanne G\u00f6bel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Disability Studies als interdisziplin\u00e4res Forschungsfeld",
+      "printed_page_number": "334",
+      "source_page_index": -1,
+      "authors": [
+        "Anne Waldschmidt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Disability Studies und Partizipation in der Forschung \u2013 \u00fcber ein Projekt zum Bildverst\u00e4ndnis von Behinderung",
+      "printed_page_number": "345",
+      "source_page_index": -1,
+      "authors": [
+        "Petra Flieger",
+        "Volker Sch\u00f6nwiese"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Europ\u00e4ische Union als Vertragspartei der UN-Behindertenrechtskonvention",
+      "printed_page_number": "352",
+      "source_page_index": -1,
+      "authors": [
+        "Wiebke Sch\u00e4r",
+        "Wolfgang Angermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inklusive Strategien und internationale Zusammenarbeit",
+      "printed_page_number": "365",
+      "source_page_index": -1,
+      "authors": [
+        "Gabriele Weigt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Exkurs: Das globale Zusammenwirken der Weltverb\u00e4nde von Menschen mit Behinderungen",
+      "printed_page_number": "377",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Lachwitz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inklusive Armutsbek\u00e4mpfung in Togo",
+      "printed_page_number": "382",
+      "source_page_index": -1,
+      "authors": [
+        "Rika Esser",
+        "Johanna Kern"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Inklusion als sozialpolitischer Leitbegriff",
+      "printed_page_number": "388",
+      "source_page_index": -1,
+      "authors": [
+        "Heinz Bude"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Text der UN-Behindertenrechtskonvention",
+      "printed_page_number": "401",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Fakultativprotokoll",
+      "printed_page_number": "436",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zeittafel",
+      "printed_page_number": "442",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Literaturhinweise",
+      "printed_page_number": "455",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Webseiten",
+      "printed_page_number": "466",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Medien\u00fcberblick zum Thema Behinderung",
+      "printed_page_number": "470",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Adressen",
+      "printed_page_number": "476",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Abk\u00fcrzungsverzeichnis",
+      "printed_page_number": "483",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sachregister",
+      "printed_page_number": "486",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Verzeichnis der Autor_innen",
+      "printed_page_number": "498",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

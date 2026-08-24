@@ -35,11 +35,11 @@ metadata into open databases.
 | Metric | Count |
 |---|---|
 | Manifest books | 1251 |
-| Books with ground truth | 776 |
-| — via two-model gate (`bulk_gate`) | 193 |
-| — via arbitration (`agent_arbitration`) | 583 |
-| Books with a `Qwen/Qwen3-Omni-30B-A3B-Instruct` reading | 762 |
-| Books with a `mistralai/Mistral-Small-3.2-24B-Instruct-2506` reading | 631 |
+| Books with ground truth | 825 |
+| — via two-model gate (`bulk_gate`) | 209 |
+| — via arbitration (`agent_arbitration`) | 616 |
+| Books with a `Qwen/Qwen3-Omni-30B-A3B-Instruct` reading | 778 |
+| Books with a `mistralai/Mistral-Small-3.2-24B-Instruct-2506` reading | 664 |
 | Books with a `numind/NuExtract3` reading | 684 |
 | Books awaiting arbitration | 0 |
 | Books permanently rejected (unrecoverable) | 0 |

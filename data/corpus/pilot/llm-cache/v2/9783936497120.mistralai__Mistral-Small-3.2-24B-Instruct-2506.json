@@ -1,0 +1,320 @@
+{
+  "generated_at": 1787583704.619481,
+  "duration_seconds": 31.70842562499456,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Norbert Grob / Bernd Kiefer Mit dem Kino das Leben entdecken Zur Definition der Nouvelle Vague",
+      "printed_page_number": "8",
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Grob",
+        "Bernd Kiefer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans Helmut Prinzler Wie die Nouvelle Vague nach Berlin kam Eine kleine Festival-Chronologie",
+      "printed_page_number": "28",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Helmut Prinzler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rainer Gansera Der Mann mit der Seele eines Kindes Fran\u00e7ois Truffaut",
+      "printed_page_number": "34",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Gansera"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Thomas Klein Jean-Pierre L\u00e9aud",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Klein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Norbert Grob Mit der Kamera \u00bbIch\u00ab sagen Le Cin\u00e9ma des auteurs",
+      "printed_page_number": "48",
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Grob"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Marcus Stiglegger St\u00e9phane Audran",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Marcus Stiglegger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Thomas Klein / Marcus Stiglegger Der antibourgeoise Bourgeois Claude Chabrol",
+      "printed_page_number": "62",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Klein",
+        "Marcus Stiglegger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Andreas Rauscher Jean-Claude Brialy",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Rauscher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fritz G\u00f6ttler Das ganze Leben erfassen Notate zur Nouvelle Vague",
+      "printed_page_number": "70",
+      "source_page_index": -1,
+      "authors": [
+        "Fritz G\u00f6ttler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Thomas Klein Bernadette Lafont",
+      "printed_page_number": "83",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Klein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bernd Kiefer Verstrickungen Jean-Luc Godard",
+      "printed_page_number": "84",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Kiefer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Josef Rauscher Anna Karina",
+      "printed_page_number": "105",
+      "source_page_index": -1,
+      "authors": [
+        "Josef Rauscher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Manuela Reichart Es ging fast immer um die Liebe Masculin-F\u00e9minin in der Nouvelle Vague",
+      "printed_page_number": "106",
+      "source_page_index": -1,
+      "authors": [
+        "Manuela Reichart"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Norbert Grob Jeanne Moreau",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Grob"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Thomas Klein \u00dcber das Augenscheinliche hinaus Eric Rohmer",
+      "printed_page_number": "118",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Klein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Norbert Grob Jean Seberg",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Grob"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Karl Pr\u00fcmm Die Welt in einem neuen Licht Bemerkungen zur Bildlichkeit der Nouvelle Vague",
+      "printed_page_number": "132",
+      "source_page_index": -1,
+      "authors": [
+        "Karl Pr\u00fcmm"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Norbert Grob Juliet Berto",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Grob"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Karlheinz Oplustil Parallele Welt wie aus Tr\u00e4umen Jacques Rivette",
+      "printed_page_number": "144",
+      "source_page_index": -1,
+      "authors": [
+        "Karlheinz Oplustil"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Karlheinz Oplustil Bulle Ogier",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [
+        "Karlheinz Oplustil"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Markus Moninger Selbstreflexion als \u00c4sthet(h)ik der Freiheit",
+      "printed_page_number": "160",
+      "source_page_index": -1,
+      "authors": [
+        "Markus Moninger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bernd Kiefer Jean Paul Belmondo",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Kiefer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Marcus Stiglegger Ged\u00e4chtnis-Skulpturen Alain Resnais",
+      "printed_page_number": "172",
+      "source_page_index": -1,
+      "authors": [
+        "Marcus Stiglegger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Norbert Grob Delphine Seyrig",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Grob"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Miriam Fuchs / Norbert Grob Agn\u00e8s et les autres Agn\u00e8s Varda \u2013 Louis Malle \u2013 Jacques Demy",
+      "printed_page_number": "186",
+      "source_page_index": -1,
+      "authors": [
+        "Miriam Fuchs",
+        "Norbert Grob"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bernd Kiefer Brigitte Bardot",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [
+        "Bernd Kiefer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Josef Rauscher Der ungl\u00fcckliche Liebhaber Jean Eustache",
+      "printed_page_number": "202",
+      "source_page_index": -1,
+      "authors": [
+        "Josef Rauscher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "50 Filme",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ausgew\u00e4hlte Bibliographie",
+      "printed_page_number": "219",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zu den Autorinnen und Autoren",
+      "printed_page_number": "222",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

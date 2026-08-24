@@ -1,0 +1,230 @@
+{
+  "generated_at": 1787589686.763474,
+  "duration_seconds": 10.797679208015325,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Barbara Riedm\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Neue an der Frauenbewegung. Versuch einer Wirkungsanalyse der neuen Frauenbewegung",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "I. WISSENSCHAFT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Uta Gerhardt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Frauenrolle und Rollenanalyse",
+      "printed_page_number": "45",
+      "source_page_index": -1,
+      "authors": [
+        "Uta Gerhardt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rainer D\u00f6bert",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "M\u00e4nnliche Moral \u2013 weibliche Moral?",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer D\u00f6bert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Yvonne Sch\u00fctze",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "M\u00fctterliche Erwerbst\u00e4tigkeit und wissenschaftliche Forschung",
+      "printed_page_number": "114",
+      "source_page_index": -1,
+      "authors": [
+        "Yvonne Sch\u00fctze"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. RECHT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Barbara Willenbacher",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Thesen zur rechtlichen Stellung der Frau",
+      "printed_page_number": "141",
+      "source_page_index": -1,
+      "authors": [
+        "Barbara Willenbacher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christine Hohmann-Dennhardt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gleichberechtigung via Rechtsnorm?",
+      "printed_page_number": "166",
+      "source_page_index": -1,
+      "authors": [
+        "Christine Hohmann-Dennhardt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Frage eines Antidiskriminierungsgesetzes in der Bundesrepublik",
+      "printed_page_number": "166",
+      "source_page_index": -1,
+      "authors": [
+        "Christine Hohmann-Dennhardt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wolfgang van den Daele",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der F\u00f6tus als Subjekt und die Autonomie der Frau. Wissenschaftlich-technische Optionen und soziale Kontrollen in der Schwangerschaft",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang van den Daele"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. FAMILIE UND ARBEITSMARKT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Hans-Joachim Hoffmann-Nowotny",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Weibliche Erwerbst\u00e4tigkeit und Kinderzahl",
+      "printed_page_number": "219",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-Joachim Hoffmann-Nowotny"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans Bertram und Renate Bormann-M\u00fcller",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Von der Hausfrau zur Berufsfrau? Der Einflu\u00df struktureller Wandlungen des Frauseins auf familiales Zusammenleben",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Bertram",
+        "Renate Bormann-M\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Angelika Wetterer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbMan marschiert als Frau auf Neuland\u00ab \u2013 \u00dcber den schwierigen Weg der Frauen in die Wissenschaft",
+      "printed_page_number": "273",
+      "source_page_index": -1,
+      "authors": [
+        "Angelika Wetterer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hinweise zu den Autorinnen und Autoren",
+      "printed_page_number": "292",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

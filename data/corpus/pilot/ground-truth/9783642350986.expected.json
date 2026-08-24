@@ -1,0 +1,973 @@
+{
+  "entries": [
+    {
+      "title": "Art der Studie",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Anwendungsbeobachtungen",
+      "authors": [
+        "Josef Högel"
+      ],
+      "printed_page_number": "3",
+      "skip": false
+    },
+    {
+      "title": "Arzneimittelstudie",
+      "authors": [
+        "Rainer Muche",
+        "Dietrich Rothenbacher"
+      ],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Klinische Prüfung chirurgischer Eingriffe",
+      "authors": [
+        "Markus Huber-Lang",
+        "Florian Gebhard"
+      ],
+      "printed_page_number": "17",
+      "skip": false
+    },
+    {
+      "title": "Studien zu diagnostischen Verfahren",
+      "authors": [
+        "Jürgen Helm"
+      ],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "Forschung mit ionisierenden Strahlen in Deutschland (Röntgen, CT, PET)",
+      "authors": [
+        "Thomas Herrmann"
+      ],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Genetische Forschung",
+      "authors": [
+        "Christian Kubisch"
+      ],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "Genomweite Assoziationsstudien (GWAS)",
+      "authors": [
+        "Michael Krawczak"
+      ],
+      "printed_page_number": "39",
+      "skip": false
+    },
+    {
+      "title": "Gewebeforschung",
+      "authors": [
+        "Nils Hoppe",
+        "Koko Kwisda"
+      ],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "Heilversuch",
+      "authors": [
+        "Dieter Hart"
+      ],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Kohortenstudien",
+      "authors": [
+        "Josef Högel"
+      ],
+      "printed_page_number": "57",
+      "skip": false
+    },
+    {
+      "title": "Pharmakogenomik",
+      "authors": [
+        "Jürgen Brockmöller",
+        "Daniel Sehrt"
+      ],
+      "printed_page_number": "61",
+      "skip": false
+    },
+    {
+      "title": "Die Phaseneinteilung klinischer Studien",
+      "authors": [
+        "Peter Gierschik"
+      ],
+      "printed_page_number": "71",
+      "skip": false
+    },
+    {
+      "title": "Prospektive und retrospektive Studien – ein Überblick",
+      "authors": [
+        "Kurt Bestehorn"
+      ],
+      "printed_page_number": "83",
+      "skip": false
+    },
+    {
+      "title": "Psychometrische Befragung",
+      "authors": [
+        "Dan Pokorny"
+      ],
+      "printed_page_number": "87",
+      "skip": false
+    },
+    {
+      "title": "Zentrale ethische und rechtliche Themen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Anonymisieren und Pseudonymisieren als Möglichkeit der Forschung mit sensiblen, personenbezogenen Forschungsdaten",
+      "authors": [
+        "Peter Schaar"
+      ],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "Aufwandsentschädigung",
+      "authors": [
+        "Andreas Spickhoff",
+        "Katja Pröbstl"
+      ],
+      "printed_page_number": "101",
+      "skip": false
+    },
+    {
+      "title": "Autonomie/Selbstbestimmung",
+      "authors": [
+        "Monika Bobbert",
+        "Micha H. Werner"
+      ],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "Biomaterialien",
+      "authors": [
+        "Bianka S. Dörr",
+        "Christian Lenk"
+      ],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "Datenschutz in der Forschung am Menschen",
+      "authors": [
+        "Sebastian Graf von Kielmansegg"
+      ],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "Ethische Probleme der Forschung in Entwicklungsländern",
+      "authors": [
+        "Hans-Jörg Ehni",
+        "Urban Wiesing"
+      ],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "Equipoise. Klinisches Gleichgewicht",
+      "authors": [
+        "Martin Hoffmann"
+      ],
+      "printed_page_number": "135",
+      "skip": false
+    },
+    {
+      "title": "Ethikkommission",
+      "authors": [
+        "Elmar Doppelfeld"
+      ],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "Fälschung von Studienergebnissen",
+      "authors": [
+        "Michael Fuchs"
+      ],
+      "printed_page_number": "145",
+      "skip": false
+    },
+    {
+      "title": "Forschungsfreiheit",
+      "authors": [
+        "Klaus Ferdinand Gärditz"
+      ],
+      "printed_page_number": "149",
+      "skip": false
+    },
+    {
+      "title": "Freiwilligkeit bei der Teilnahme/unangemessene Anreize",
+      "authors": [
+        "Andreas Spickhoff",
+        "Hilke Marie Knehe"
+      ],
+      "printed_page_number": "157",
+      "skip": false
+    },
+    {
+      "title": "Geistiges Eigentum",
+      "authors": [
+        "Nils Hoppe",
+        "Koko Kwisda"
+      ],
+      "printed_page_number": "159",
+      "skip": false
+    },
+    {
+      "title": "Gerechtigkeit, gleicher Zugang, Diskriminierung",
+      "authors": [
+        "Nikola Biller-Andorno"
+      ],
+      "printed_page_number": "163",
+      "skip": false
+    },
+    {
+      "title": "Geschichte der Forschung am Menschen",
+      "authors": [
+        "Heiner Fangerau"
+      ],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "Informierte Zustimmung/Einwilligungserklärung",
+      "authors": [
+        "Friedrich von Freier"
+      ],
+      "printed_page_number": "177",
+      "skip": false
+    },
+    {
+      "title": "Interessenkonflikte",
+      "authors": [
+        "Michael Fuchs"
+      ],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "Lebensqualität – Quality of Life (QoL)",
+      "authors": [
+        "Maria De Santis",
+        "Tanja Steininger"
+      ],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "Menschenwürde",
+      "authors": [
+        "Roberto Andorno",
+        "Birgit Christensen"
+      ],
+      "printed_page_number": "197",
+      "skip": false
+    },
+    {
+      "title": "Nichtschadensprinzip (Principle of Nonmaleficence)",
+      "authors": [
+        "Martin Hoffmann"
+      ],
+      "printed_page_number": "201",
+      "skip": false
+    },
+    {
+      "title": "Nutzen, Art des Nutzens",
+      "authors": [
+        "Sebastian Graf von Kielmansegg"
+      ],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "Patienten-/Probandenrekrutierung und Kontaktaufnahme",
+      "authors": [
+        "Daniel Strech"
+      ],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "Patientenrechte",
+      "authors": [
+        "Christian Katzenmeier",
+        "Raphael Hebecker"
+      ],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "Placebo",
+      "authors": [
+        "Christian Lenk"
+      ],
+      "printed_page_number": "223",
+      "skip": false
+    },
+    {
+      "title": "Publikationsklausel",
+      "authors": [
+        "Heiner Fangerau"
+      ],
+      "printed_page_number": "229",
+      "skip": false
+    },
+    {
+      "title": "Recht auf Wissen/Recht auf Nichtwissen",
+      "authors": [
+        "Gunnar Duttge"
+      ],
+      "printed_page_number": "233",
+      "skip": false
+    },
+    {
+      "title": "Risiko",
+      "authors": [
+        "Christian Lenk",
+        "Michael Noll-Hussong"
+      ],
+      "printed_page_number": "239",
+      "skip": false
+    },
+    {
+      "title": "Schweigepflicht",
+      "authors": [
+        "Heiner Fangerau"
+      ],
+      "printed_page_number": "247",
+      "skip": false
+    },
+    {
+      "title": "Studienbedingte Belastungen",
+      "authors": [
+        "Klaus Fischer"
+      ],
+      "printed_page_number": "253",
+      "skip": false
+    },
+    {
+      "title": "Strahlenschutz in Medizin und Gesellschaft",
+      "authors": [
+        "Thomas Herrmann"
+      ],
+      "printed_page_number": "259",
+      "skip": false
+    },
+    {
+      "title": "Therapeutische Hoffnung",
+      "authors": [
+        "Heiner Fangerau"
+      ],
+      "printed_page_number": "267",
+      "skip": false
+    },
+    {
+      "title": "Therapeutische und nicht-therapeutische Forschung",
+      "authors": [
+        "Thorsten Noack",
+        "Anke Hoffstadt",
+        "Nikola Zotz"
+      ],
+      "printed_page_number": "273",
+      "skip": false
+    },
+    {
+      "title": "Todesfälle",
+      "authors": [
+        "Jürgen Helm"
+      ],
+      "printed_page_number": "277",
+      "skip": false
+    },
+    {
+      "title": "Unethische Forschung und gute wissenschaftliche Praxis",
+      "authors": [
+        "Christian Lenk"
+      ],
+      "printed_page_number": "279",
+      "skip": false
+    },
+    {
+      "title": "Verantwortung",
+      "authors": [
+        "Katharina Beier"
+      ],
+      "printed_page_number": "287",
+      "skip": false
+    },
+    {
+      "title": "Versicherung",
+      "authors": [
+        "Andreas Spickhoff",
+        "Julia Schmidt"
+      ],
+      "printed_page_number": "293",
+      "skip": false
+    },
+    {
+      "title": "Vulnerabilität",
+      "authors": [
+        "Verina Wild"
+      ],
+      "printed_page_number": "297",
+      "skip": false
+    },
+    {
+      "title": "Wissenschaftlicher und sozialer Wert",
+      "authors": [
+        "Daniel Strech"
+      ],
+      "printed_page_number": "299",
+      "skip": false
+    },
+    {
+      "title": "Zufallsbefunde in der epidemiologischen Forschung",
+      "authors": [
+        "Martin Hoffmann"
+      ],
+      "printed_page_number": "305",
+      "skip": false
+    },
+    {
+      "title": "Patientengruppen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Forschung am demenzkranken Patienten",
+      "authors": [
+        "Britta Walther",
+        "Matthias Riepe"
+      ],
+      "printed_page_number": "315",
+      "skip": false
+    },
+    {
+      "title": "Ethik der Forschung mit ethnischen Minderheiten",
+      "authors": [
+        "Frank Kressing"
+      ],
+      "printed_page_number": "323",
+      "skip": false
+    },
+    {
+      "title": "Patienten mit geistiger Behinderung",
+      "authors": [
+        "Anke Hoffstadt",
+        "Thorsten Noack"
+      ],
+      "printed_page_number": "329",
+      "skip": false
+    },
+    {
+      "title": "Studien an gesunden Personen – aus ethischer Sicht",
+      "authors": [
+        "Susanne Michl",
+        "Norbert W. Paul"
+      ],
+      "printed_page_number": "335",
+      "skip": false
+    },
+    {
+      "title": "Arzneimittelforschung an gesunden Probanden",
+      "authors": [
+        "Daniel Sehrt",
+        "Jürgen Brockmöller",
+        "Axel Mescheder"
+      ],
+      "printed_page_number": "341",
+      "skip": false
+    },
+    {
+      "title": "Patienten mit infauster Prognose",
+      "authors": [
+        "Ralf J. Jox"
+      ],
+      "printed_page_number": "347",
+      "skip": false
+    },
+    {
+      "title": "Nicht einwilligungsfähige, volljährige Patienten",
+      "authors": [
+        "Dorothea Magnus"
+      ],
+      "printed_page_number": "353",
+      "skip": false
+    },
+    {
+      "title": "Forschungsethische Aspekte in der Palliativmedizin",
+      "authors": [
+        "Bernd Alt-Epping",
+        "Friedemann Nauck"
+      ],
+      "printed_page_number": "359",
+      "skip": false
+    },
+    {
+      "title": "Besonderheiten medizinischer Forschung mit psychiatrischen Patienten – Ethische und medizinische Aspekte",
+      "authors": [
+        "Katrin Gade",
+        "Thomas G Schulze"
+      ],
+      "printed_page_number": "367",
+      "skip": false
+    },
+    {
+      "title": "Forschung bei Patienten mit psychischen Erkrankungen – Juristische Aspekte",
+      "authors": [
+        "Heinz Schöch"
+      ],
+      "printed_page_number": "375",
+      "skip": false
+    },
+    {
+      "title": "Schwangere Frauen",
+      "authors": [
+        "Verina Wild"
+      ],
+      "printed_page_number": "381",
+      "skip": false
+    },
+    {
+      "title": "Studien mit Kindern und Jugendlichen – aus rechtlicher Sicht",
+      "authors": [
+        "Dorothea Magnus"
+      ],
+      "printed_page_number": "385",
+      "skip": false
+    },
+    {
+      "title": "Studien mit Kindern und Jugendlichen – aus medizinischer Sicht",
+      "authors": [
+        "Michael Kölch",
+        "Jörg M. Fegert"
+      ],
+      "printed_page_number": "391",
+      "skip": false
+    },
+    {
+      "title": "Verstorbene, Forschung an Leichen",
+      "authors": [
+        "Dominik Groß",
+        "Brigitte Tag",
+        "Markus Thier"
+      ],
+      "printed_page_number": "397",
+      "skip": false
+    },
+    {
+      "title": "Wachkomapatienten",
+      "authors": [
+        "Gunnar Duttge"
+      ],
+      "printed_page_number": "403",
+      "skip": false
+    },
+    {
+      "title": "Zwangsweise Untergebrachte",
+      "authors": [
+        "Jürgen L. Müller"
+      ],
+      "printed_page_number": "409",
+      "skip": false
+    },
+    {
+      "title": "Forschungsbereiche",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Biobanken",
+      "authors": [
+        "Christian Lenk"
+      ],
+      "printed_page_number": "419",
+      "skip": false
+    },
+    {
+      "title": "Gentherapie",
+      "authors": [
+        "Kristian Köchy",
+        "Silke Domasch",
+        "Boris Fehse"
+      ],
+      "printed_page_number": "427",
+      "skip": false
+    },
+    {
+      "title": "Infektionskrankheiten",
+      "authors": [
+        "Gisela Badura-Lotter"
+      ],
+      "printed_page_number": "433",
+      "skip": false
+    },
+    {
+      "title": "Klonierungstechnik am Menschen",
+      "authors": [
+        "Gisela Badura-Lotter"
+      ],
+      "printed_page_number": "441",
+      "skip": false
+    },
+    {
+      "title": "Nanomedizin und ihre klinische Erforschung",
+      "authors": [
+        "Jens Clausen",
+        "Urban Wiesing"
+      ],
+      "printed_page_number": "449",
+      "skip": false
+    },
+    {
+      "title": "Ethische Aspekte der neurowissenschaftlichen Forschung",
+      "authors": [
+        "Jens Clausen"
+      ],
+      "printed_page_number": "457",
+      "skip": false
+    },
+    {
+      "title": "Onkologische Studien",
+      "authors": [
+        "Georg Marckmann",
+        "Urban Wiesing"
+      ],
+      "printed_page_number": "465",
+      "skip": false
+    },
+    {
+      "title": "Stammzellforschung",
+      "authors": [
+        "Hubert Schrezenmeier"
+      ],
+      "printed_page_number": "475",
+      "skip": false
+    },
+    {
+      "title": "Dokumente und Institutionen",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Allgemeine Versicherungsbedingungen",
+      "authors": [
+        "Andreas Spickhoff",
+        "Julia Schmidt"
+      ],
+      "printed_page_number": "483",
+      "skip": false
+    },
+    {
+      "title": "Arzneimittelrecht",
+      "authors": [
+        "Gunnar Duttge"
+      ],
+      "printed_page_number": "487",
+      "skip": false
+    },
+    {
+      "title": "Belmont Report",
+      "authors": [
+        "Susanne Michl",
+        "Norbert W. Paul"
+      ],
+      "printed_page_number": "495",
+      "skip": false
+    },
+    {
+      "title": "Bioethikkonvention des Europarates",
+      "authors": [
+        "Nils Hoppe",
+        "Koko Kwisda"
+      ],
+      "printed_page_number": "501",
+      "skip": false
+    },
+    {
+      "title": "Datenschutz und Forschungsfreiheit",
+      "authors": [
+        "Benedikt Buchner",
+        "Dennis-Kenji Kipker"
+      ],
+      "printed_page_number": "507",
+      "skip": false
+    },
+    {
+      "title": "Die Deklaration von Helsinki des Weltärztebundes – Ethische Grundsätze für die Forschung am Menschen",
+      "authors": [
+        "Urban Wiesing",
+        "Hans-Jörg Ehni"
+      ],
+      "printed_page_number": "517",
+      "skip": false
+    },
+    {
+      "title": "Die Regulierung der klinischen Forschung in der Europäischen Union",
+      "authors": [
+        "Stephanie Dagron"
+      ],
+      "printed_page_number": "525",
+      "skip": false
+    },
+    {
+      "title": "GCP-Verordnung",
+      "authors": [
+        "Jürgen Helm"
+      ],
+      "printed_page_number": "531",
+      "skip": false
+    },
+    {
+      "title": "Haftungspflicht und Schadensersatz",
+      "authors": [
+        "Andreas Spickhoff",
+        "Hilke Marie Knehe"
+      ],
+      "printed_page_number": "535",
+      "skip": false
+    },
+    {
+      "title": "Die International Conference on Harmonization of Technical Requirements for Registration of Pharmaceuticals for Human Use (ICH)",
+      "authors": [
+        "Stéphanie Dagron"
+      ],
+      "printed_page_number": "541",
+      "skip": false
+    },
+    {
+      "title": "Rechtlicher Rahmen der Prüfung von Medizinprodukten an Menschen",
+      "authors": [
+        "Wolfgang A. Rehmann"
+      ],
+      "printed_page_number": "547",
+      "skip": false
+    },
+    {
+      "title": "Nürnberger Kodex",
+      "authors": [
+        "Dominik Groß"
+      ],
+      "printed_page_number": "559",
+      "skip": false
+    },
+    {
+      "title": "Strahlenschutz- und Röntgenverordnung",
+      "authors": [
+        "Kathrin Stascheit"
+      ],
+      "printed_page_number": "565",
+      "skip": false
+    },
+    {
+      "title": "Fachbegriffe zur Studiendurchführung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Ausschlusskriterien - Einschlusskriterien",
+      "authors": [
+        "Axel Mescheder",
+        "Daniel Sehrt"
+      ],
+      "printed_page_number": "571",
+      "skip": false
+    },
+    {
+      "title": "Bias",
+      "authors": [
+        "Heiner Fangerau"
+      ],
+      "printed_page_number": "579",
+      "skip": false
+    },
+    {
+      "title": "Endpunkte in der Forschung am Menschen",
+      "authors": [
+        "Jürgen Brockmöller",
+        "Daniel Sehrt"
+      ],
+      "printed_page_number": "583",
+      "skip": false
+    },
+    {
+      "title": "Finanzierung",
+      "authors": [
+        "Urs Harnischmacher"
+      ],
+      "printed_page_number": "591",
+      "skip": false
+    },
+    {
+      "title": "Inspektion",
+      "authors": [
+        "Bianka S. Dörr"
+      ],
+      "printed_page_number": "597",
+      "skip": false
+    },
+    {
+      "title": "Klinische Prüfung",
+      "authors": [
+        "Thomas Sudhop"
+      ],
+      "printed_page_number": "601",
+      "skip": false
+    },
+    {
+      "title": "Leiter der Klinischen Prüfung (LKP)",
+      "authors": [
+        "Thomas Sudhop"
+      ],
+      "printed_page_number": "603",
+      "skip": false
+    },
+    {
+      "title": "Monitoring und Audit",
+      "authors": [
+        "Gabriele Schwarz"
+      ],
+      "printed_page_number": "605",
+      "skip": false
+    },
+    {
+      "title": "Monozentrische Studie",
+      "authors": [
+        "Maria De Santis",
+        "Tanja Steininger"
+      ],
+      "printed_page_number": "613",
+      "skip": false
+    },
+    {
+      "title": "Nebenwirkungen und Unerwünschte Arzneimittelwirkungen",
+      "authors": [
+        "Daniel Sehrt",
+        "Jürgen Brockmöller"
+      ],
+      "printed_page_number": "617",
+      "skip": false
+    },
+    {
+      "title": "Nichtinterventionelle Prüfung",
+      "authors": [
+        "Thomas Sudhop"
+      ],
+      "printed_page_number": "625",
+      "skip": false
+    },
+    {
+      "title": "Prüfer",
+      "authors": [
+        "Bianka S. Dörr"
+      ],
+      "printed_page_number": "627",
+      "skip": false
+    },
+    {
+      "title": "Prüfplan",
+      "authors": [
+        "Urs Harnischmacher"
+      ],
+      "printed_page_number": "631",
+      "skip": false
+    },
+    {
+      "title": "Prüfpräparate und Verblindung von klinischen Studien",
+      "authors": [
+        "Matthias Schyns"
+      ],
+      "printed_page_number": "633",
+      "skip": false
+    },
+    {
+      "title": "Randomisierung",
+      "authors": [
+        "Rainer Muche",
+        "Dietrich Rothenbacher"
+      ],
+      "printed_page_number": "639",
+      "skip": false
+    },
+    {
+      "title": "Registrierung klinischer Studien",
+      "authors": [
+        "Gabriele Dreier",
+        "Susanne Jena"
+      ],
+      "printed_page_number": "643",
+      "skip": false
+    },
+    {
+      "title": "Sponsor",
+      "authors": [
+        "Bianka S. Dörr"
+      ],
+      "printed_page_number": "649",
+      "skip": false
+    },
+    {
+      "title": "Stratifizierung",
+      "authors": [
+        "Josef Högel"
+      ],
+      "printed_page_number": "653",
+      "skip": false
+    },
+    {
+      "title": "Studiendesign",
+      "authors": [
+        "Rainer Muche",
+        "Dietrich Rothenbacher"
+      ],
+      "printed_page_number": "657",
+      "skip": false
+    },
+    {
+      "title": "Studienleiter",
+      "authors": [
+        "Thomas Sudhop"
+      ],
+      "printed_page_number": "661",
+      "skip": false
+    },
+    {
+      "title": "Versuchsperson",
+      "authors": [
+        "Nikola Zotz",
+        "Thorsten Noack"
+      ],
+      "printed_page_number": "663",
+      "skip": false
+    },
+    {
+      "title": "Sachverzeichnis",
+      "authors": [],
+      "printed_page_number": "667",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

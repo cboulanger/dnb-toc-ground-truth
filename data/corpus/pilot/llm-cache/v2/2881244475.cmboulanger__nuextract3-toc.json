@@ -1,0 +1,411 @@
+{
+  "generated_at": 1787577817.1897511,
+  "duration_seconds": 16.428012916992884,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Introduction to the Series",
+      "printed_page_number": "ix",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of Contributors",
+      "printed_page_number": "xi",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Acknowledgements",
+      "printed_page_number": "xvii",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "PART I MASS MEDIA IN THE CARIBBEAN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Introductory Comments",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "SECTION A THE ENGLISH-SPEAKING CARIBBEAN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Chapter 1 Mass Media in Jamaica",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Aggrey Brown"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 2 Mass Media in Trinidad and Tobago",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [
+        "Ewart C. Skinner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 3 Mass Media in Barbados",
+      "printed_page_number": "55",
+      "source_page_index": -1,
+      "authors": [
+        "Mark D. Alleyne"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 4 Mass Media in Guyana",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "Erwin K. Thomas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 5 Mass Media in Grenada",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "John A. Lent"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 6 Mass Media in St. Lucia",
+      "printed_page_number": "97",
+      "source_page_index": -1,
+      "authors": [
+        "J. Laurence Day"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 7 Mass Media in the Leeward Islands",
+      "printed_page_number": "103",
+      "source_page_index": -1,
+      "authors": [
+        "John A. Lent"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 8 Mass Media in Belize",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "Omar Souki Oliveira"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "SECTION B THE SPANISH-SPEAKING CARIBBEAN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Chapter 9 Mass Media in Cuba",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [
+        "James W. Carty Jr."
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 10 Mass Media in Puerto Rico",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [
+        "Federico A. Subervi-V\u00e9lez",
+        "Nitza M. Hern\u00e1ndez-L\u00f3pez",
+        "Aline Frambes-Buxeda"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 11 Mass Media in the Dominican Republic",
+      "printed_page_number": "177",
+      "source_page_index": -1,
+      "authors": [
+        "Marvin Alisky"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "SECTION C THE FRENCH- AND DUTCH-SPEAKING CARIBBEAN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Chapter 12 Mass Media in Haiti",
+      "printed_page_number": "193",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Habermann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 13 Mass Media in the Netherlands Antilles",
+      "printed_page_number": "209",
+      "source_page_index": -1,
+      "authors": [
+        "John A. Lent"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 14 Mass Media in Guadeloupe",
+      "printed_page_number": "223",
+      "source_page_index": -1,
+      "authors": [
+        "Alvina Ruprecht"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART II INTERNATIONAL AND REGIONAL MEDIA ISSUES",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Introductory Comments",
+      "printed_page_number": "241",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "SECTION A INTERNATIONAL INFLUENCES ON CARIBBEAN MEDIA",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Chapter 15 Effects of the New World Information Order on Caribbean Media",
+      "printed_page_number": "251",
+      "source_page_index": -1,
+      "authors": [
+        "Aggrey Brown"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 16 Effects of Cable TV in the Dominican Republic",
+      "printed_page_number": "273",
+      "source_page_index": -1,
+      "authors": [
+        "Joseph Straubhaar",
+        "Gloria Viscasillas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 17 Laissez-Faire Policies, VCRs and Caribbean Identity",
+      "printed_page_number": "287",
+      "source_page_index": -1,
+      "authors": [
+        "Marlene Cuthbert",
+        "Stewart Hoover"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 18 Caribbean Cultural Identification, Cultural Consciousness and Mass Media Imperialism",
+      "printed_page_number": "299",
+      "source_page_index": -1,
+      "authors": [
+        "Stuart H. Surlin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "SECTION B INTERNATIONAL COVERAGE OF THE CARIBBEAN",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Chapter 19 The Press as a Predictor of Military Conflict in the Caribbean: The Case of Grenada",
+      "printed_page_number": "321",
+      "source_page_index": -1,
+      "authors": [
+        "Walter C. Soderlund"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 20 Ideological Differences in Press Coverage of the Grenada Crisis",
+      "printed_page_number": "331",
+      "source_page_index": -1,
+      "authors": [
+        "Marlene Cuthbert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 21 Coverage of the Caribbean Basin Initiative",
+      "printed_page_number": "351",
+      "source_page_index": -1,
+      "authors": [
+        "Robert G. Picard"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 22 Telling the Truth: Voice of America, Radio Marti and the Radio War against Cuba",
+      "printed_page_number": "361",
+      "source_page_index": -1,
+      "authors": [
+        "Howard H. Frederick",
+        "Bruce E. Drushel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 23 Canadian and American Press Coverage of the Haitian Election Crisis",
+      "printed_page_number": "373",
+      "source_page_index": -1,
+      "authors": [
+        "Walter C. Soderlund",
+        "Ralph C. Nelson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "SECTION C CARIBBEAN MEDIA: RADIO AND MUSIC",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Chapter 24 Uses and Gratifications of Jamaican Talk Radio",
+      "printed_page_number": "393",
+      "source_page_index": -1,
+      "authors": [
+        "Stuart H. Surlin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 25 A Model for a Small, Independent News Agency: CANA and CANA Radio",
+      "printed_page_number": "403",
+      "source_page_index": -1,
+      "authors": [
+        "Marlene Cuthbert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 26 Calypso as a Medium of Political Communication",
+      "printed_page_number": "415",
+      "source_page_index": -1,
+      "authors": [
+        "Frank E. Manning"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Chapter 27 Reggae as a Medium of Political Communication",
+      "printed_page_number": "429",
+      "source_page_index": -1,
+      "authors": [
+        "Gladstone Wilson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Afterword",
+      "printed_page_number": "451",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Author Index",
+      "printed_page_number": "455",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Subject Index",
+      "printed_page_number": "461",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

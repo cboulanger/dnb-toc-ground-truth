@@ -1,0 +1,383 @@
+{
+  "generated_at": 1787585439.586393,
+  "duration_seconds": 17.241823374992236,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "I. Perspektiven der Anerkennung: Sozialphilosophie mit und nach Hegel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wertpluralismus und Selbstverwirklichung. \u00dcberlegungen zu einer postuniversalistischen Politik der Anerkennung",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Maeve Cooke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Gold im Gestein. Verdinglichung und Anerkennung",
+      "printed_page_number": "40",
+      "source_page_index": -1,
+      "authors": [
+        "Alessandro Ferrara"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Verlangen nach Anerkennung. Liebe und die Verletzlichkeit des Selbst",
+      "printed_page_number": "64",
+      "source_page_index": -1,
+      "authors": [
+        "Eva Illouz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das Nichtanerkennungbare. Oder warum das moderne Recht keine \u00bbSph\u00e4re der Anerkennung\u00ab ist",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [
+        "Christoph Menke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die normative Bedeutung von \u00bbNatur\u00ab im moralischen und politischen Denken Rousseaus",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [
+        "Frederick Neuhouser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zu Hegels Behauptung, Selbstbewusstsein sei \u00bbBegierde \u00fcberhaupt\u00ab",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [
+        "Robert B. Pippin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anerkennung und Aufmerksamkeit. \u00dcber drei Quellen der Kritik",
+      "printed_page_number": "157",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Seel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kampf um Anerkennung bei Hegel und Honneth",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [
+        "Ludwig Siep"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. Erweiterte Gerechtigkeit: Autonomie, Moral, Politik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zwei Bilder der Gerechtigkeit",
+      "printed_page_number": "205",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Forst"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ius post bellum. \u00dcberlegungen zum Verh\u00e4ltnis der drei Teile der Theorie des gerechten Krieges",
+      "printed_page_number": "229",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Frank"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zum Ursprung der Normativit\u00e4t",
+      "printed_page_number": "250",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Gosepath"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anerkennung, Verantwortung, Gerechtigkeit",
+      "printed_page_number": "269",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus G\u00fcnther"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eine deutsche Idee von der Freiheit? Cassirer und Troeltsch zwischen Deutschland und dem Westen",
+      "printed_page_number": "288",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Joas"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Moral als Implikation von Liebe",
+      "printed_page_number": "317",
+      "source_page_index": -1,
+      "authors": [
+        "Georg Lohmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die M\u00f6glichkeit globaler Gerechtigkeit",
+      "printed_page_number": "339",
+      "source_page_index": -1,
+      "authors": [
+        "David M. Rasmussen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autonomie und Ambivalenz",
+      "printed_page_number": "359",
+      "source_page_index": -1,
+      "authors": [
+        "Beate R\u00f6ssler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Was ist und was hei\u00dft \u00bbunverf\u00fcgbar\u00ab? Philosophische \u00dcberlegungen zu einer nicht nur ethischen Frage",
+      "printed_page_number": "384",
+      "source_page_index": -1,
+      "authors": [
+        "Lutz Wingert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Reflexion und Identit\u00e4t. Harry Frankfurts Auffassung menschlichen Handelns",
+      "printed_page_number": "409",
+      "source_page_index": -1,
+      "authors": [
+        "Ursula Wolf"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. Theorie und Kritik: Analysen der Gesellschaft",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Autonomiel\u00fccken als soziale Pathologie. Ideologiekritik jenseits des Paternalismus",
+      "printed_page_number": "433",
+      "source_page_index": -1,
+      "authors": [
+        "Joel Anderson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eine Studie in Schwarz. Recht und soziale Ordnung im Kriminalroman",
+      "printed_page_number": "454",
+      "source_page_index": -1,
+      "authors": [
+        "Luc Boltanski"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Feminismus, Kapitalismus und die List der Geschichte",
+      "printed_page_number": "481",
+      "source_page_index": -1,
+      "authors": [
+        "Nancy Fraser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Vorstellungskraft, Mitgef\u00fchl und Kritik. \u00dcberlegungen im Anschluss an Adam Smith",
+      "printed_page_number": "506",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Hartmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Was ist eine (gute) Institution?",
+      "printed_page_number": "528",
+      "source_page_index": -1,
+      "authors": [
+        "Rabel Jaeggi"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00bbNeo-Rassismus\u00ab. \u00dcberlegungen zur rassistischen Ideologie nach dem Niedergang der \u00bbRasse\u00ab",
+      "printed_page_number": "545",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas McCarthy"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Macht und Kritik",
+      "printed_page_number": "567",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Saar"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gesellschaftskritik und Gesellschaftstheorie",
+      "printed_page_number": "588",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Walzer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IV. Elemente einer Zeitdiagnose: Psyche, Kultur, Moderne",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00dcberlegungen zum Strukturwandel der Psyche. Eine programmatische Skizze",
+      "printed_page_number": "611",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Dornes"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wir Mahlerianer. Zur Symphonik in der Sp\u00e4tmoderne",
+      "printed_page_number": "634",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Kuhlmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Von der stabilen Position zur dynamischen Performanz. Beschleunigung und Anerkennung in der Sp\u00e4tmoderne",
+      "printed_page_number": "655",
+      "source_page_index": -1,
+      "authors": [
+        "Hartmut Rosa"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Bedeutung des S\u00e4kularismus",
+      "printed_page_number": "672",
+      "source_page_index": -1,
+      "authors": [
+        "Charles Taylor"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Vom Faschismus zum Fundamentalismus. Kritische Theorie und Psychoanalyse heute",
+      "printed_page_number": "697",
+      "source_page_index": -1,
+      "authors": [
+        "Joel Whitebook"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die ergreifende Macht der Musik, an Beispielen aus Mozarts \u00bbDon Giovanni\u00ab und \u00bbZauberfl\u00f6te\u00ab",
+      "printed_page_number": "716",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Wildt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u00dcber die Autorinnen und Autoren",
+      "printed_page_number": "738",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

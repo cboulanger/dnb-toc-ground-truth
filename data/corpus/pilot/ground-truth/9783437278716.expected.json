@@ -1,0 +1,2922 @@
+{
+  "entries": [
+    {
+      "title": "Pflegeprozesse und Pflegediagnostik",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Vorbehaltsaufgaben und Pflegeprozesssteuerung",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Vorbehaltsaufgaben",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Bedingungen der Pflegeprozesssteuerung",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Pflegeprozess gleich Beziehungsprozess",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Pflegeprozess-Modelle",
+      "authors": [],
+      "printed_page_number": "1",
+      "skip": false
+    },
+    {
+      "title": "Pflegeassessment",
+      "authors": [],
+      "printed_page_number": "2",
+      "skip": false
+    },
+    {
+      "title": "Pflegeprozess konkret",
+      "authors": [],
+      "printed_page_number": "4",
+      "skip": false
+    },
+    {
+      "title": "Umsetzung des Pflegeprozesses in der Praxis",
+      "authors": [],
+      "printed_page_number": "6",
+      "skip": false
+    },
+    {
+      "title": "Vorteile der Pflegeplanung",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Pflegeplanung in Ausbildung und Prüfung",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Informationsmanagement und Pflegedokumentation",
+      "authors": [],
+      "printed_page_number": "7",
+      "skip": false
+    },
+    {
+      "title": "Pflegediagnosen und Pflegeklassifikationen",
+      "authors": [],
+      "printed_page_number": "8",
+      "skip": false
+    },
+    {
+      "title": "Patientenbeobachtung",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Wahrnehmen",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Beobachten",
+      "authors": [],
+      "printed_page_number": "11",
+      "skip": false
+    },
+    {
+      "title": "Beurteilen",
+      "authors": [],
+      "printed_page_number": "13",
+      "skip": false
+    },
+    {
+      "title": "Atmung",
+      "authors": [],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "Physiologische Grundlagen",
+      "authors": [],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "Beobachtung und Dokumentation",
+      "authors": [],
+      "printed_page_number": "15",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Dyspnoe",
+      "authors": [],
+      "printed_page_number": "18",
+      "skip": false
+    },
+    {
+      "title": "Unterstützung der Atmung und Pneumonieprophylaxe",
+      "authors": [],
+      "printed_page_number": "19",
+      "skip": false
+    },
+    {
+      "title": "Sauerstofftherapie",
+      "authors": [],
+      "printed_page_number": "25",
+      "skip": false
+    },
+    {
+      "title": "Herz-Kreislauf-System",
+      "authors": [],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Puls",
+      "authors": [],
+      "printed_page_number": "27",
+      "skip": false
+    },
+    {
+      "title": "Blutdruck",
+      "authors": [],
+      "printed_page_number": "29",
+      "skip": false
+    },
+    {
+      "title": "Thromboseprophylaxe",
+      "authors": [],
+      "printed_page_number": "31",
+      "skip": false
+    },
+    {
+      "title": "Körpertemperatur",
+      "authors": [],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "Physiologische Grundlagen",
+      "authors": [],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "Beobachtung und Dokumentation",
+      "authors": [],
+      "printed_page_number": "33",
+      "skip": false
+    },
+    {
+      "title": "Beurteilung der Körpertemperatur",
+      "authors": [],
+      "printed_page_number": "34",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Fieber",
+      "authors": [],
+      "printed_page_number": "36",
+      "skip": false
+    },
+    {
+      "title": "Schweiß",
+      "authors": [],
+      "printed_page_number": "38",
+      "skip": false
+    },
+    {
+      "title": "Haut- und Körperpflege",
+      "authors": [],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "Hautpflege",
+      "authors": [],
+      "printed_page_number": "41",
+      "skip": false
+    },
+    {
+      "title": "Körperpflege",
+      "authors": [],
+      "printed_page_number": "43",
+      "skip": false
+    },
+    {
+      "title": "Rasur und Bartpflege",
+      "authors": [],
+      "printed_page_number": "47",
+      "skip": false
+    },
+    {
+      "title": "Augenpflege",
+      "authors": [],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "Ohrenpflege",
+      "authors": [],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "Nasenpflege",
+      "authors": [],
+      "printed_page_number": "48",
+      "skip": false
+    },
+    {
+      "title": "Mund- und Zahnpflege",
+      "authors": [],
+      "printed_page_number": "49",
+      "skip": false
+    },
+    {
+      "title": "Haarpflege",
+      "authors": [],
+      "printed_page_number": "52",
+      "skip": false
+    },
+    {
+      "title": "Nagelpflege",
+      "authors": [],
+      "printed_page_number": "54",
+      "skip": false
+    },
+    {
+      "title": "An- und Ausziehen von Kleidung",
+      "authors": [],
+      "printed_page_number": "54",
+      "skip": false
+    },
+    {
+      "title": "Dekubitusprophylaxe",
+      "authors": [],
+      "printed_page_number": "55",
+      "skip": false
+    },
+    {
+      "title": "Ernährung",
+      "authors": [],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "Physiologische Grundlagen",
+      "authors": [],
+      "printed_page_number": "59",
+      "skip": false
+    },
+    {
+      "title": "Beobachtung und Dokumentation",
+      "authors": [],
+      "printed_page_number": "62",
+      "skip": false
+    },
+    {
+      "title": "Beurteilung von Körpergröße und -gewicht, Ernährungszustand und -verhalten",
+      "authors": [],
+      "printed_page_number": "64",
+      "skip": false
+    },
+    {
+      "title": "Nahrungszubereitung",
+      "authors": [],
+      "printed_page_number": "65",
+      "skip": false
+    },
+    {
+      "title": "Nahrungsaufnahme",
+      "authors": [],
+      "printed_page_number": "66",
+      "skip": false
+    },
+    {
+      "title": "Kostformen und Diäten",
+      "authors": [],
+      "printed_page_number": "68",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei enteralen Sonden",
+      "authors": [],
+      "printed_page_number": "69",
+      "skip": false
+    },
+    {
+      "title": "Nahrungskarenz",
+      "authors": [],
+      "printed_page_number": "74",
+      "skip": false
+    },
+    {
+      "title": "Ernährungsberatung",
+      "authors": [],
+      "printed_page_number": "74",
+      "skip": false
+    },
+    {
+      "title": "Aspirationsprophylaxe",
+      "authors": [],
+      "printed_page_number": "74",
+      "skip": false
+    },
+    {
+      "title": "Schlucken und Schlucktraining",
+      "authors": [],
+      "printed_page_number": "75",
+      "skip": false
+    },
+    {
+      "title": "Dehydratationsprophylaxe",
+      "authors": [],
+      "printed_page_number": "76",
+      "skip": false
+    },
+    {
+      "title": "Ausscheidung",
+      "authors": [],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Urin",
+      "authors": [],
+      "printed_page_number": "79",
+      "skip": false
+    },
+    {
+      "title": "Stuhl",
+      "authors": [],
+      "printed_page_number": "86",
+      "skip": false
+    },
+    {
+      "title": "Erbrechen",
+      "authors": [],
+      "printed_page_number": "92",
+      "skip": false
+    },
+    {
+      "title": "Bewegung",
+      "authors": [],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "Physiologische Grundlagen",
+      "authors": [],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "Beobachtung und Dokumentation",
+      "authors": [],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "Beurteilung der Bewegung",
+      "authors": [],
+      "printed_page_number": "95",
+      "skip": false
+    },
+    {
+      "title": "Bettlägerigkeit",
+      "authors": [],
+      "printed_page_number": "96",
+      "skip": false
+    },
+    {
+      "title": "Kinästhetik",
+      "authors": [],
+      "printed_page_number": "98",
+      "skip": false
+    },
+    {
+      "title": "Mobilisation",
+      "authors": [],
+      "printed_page_number": "98",
+      "skip": false
+    },
+    {
+      "title": "Kontrakturprophylaxe",
+      "authors": [],
+      "printed_page_number": "102",
+      "skip": false
+    },
+    {
+      "title": "Sturzprophylaxe",
+      "authors": [],
+      "printed_page_number": "102",
+      "skip": false
+    },
+    {
+      "title": "Dokumentation von Sturzereignissen",
+      "authors": [],
+      "printed_page_number": "104",
+      "skip": false
+    },
+    {
+      "title": "Kommunikation",
+      "authors": [],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "Physiologische Grundlagen",
+      "authors": [],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "Beobachtung und Dokumentation",
+      "authors": [],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "Beurteilung der Kommunikation",
+      "authors": [],
+      "printed_page_number": "105",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Sprach- und Sprechstörungen",
+      "authors": [],
+      "printed_page_number": "106",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Hörstörungen",
+      "authors": [],
+      "printed_page_number": "107",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Sehstörung, Sehbehinderung und Blindheit",
+      "authors": [],
+      "printed_page_number": "108",
+      "skip": false
+    },
+    {
+      "title": "Schlaf",
+      "authors": [],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "Physiologische Grundlagen",
+      "authors": [],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "Beobachtung und Dokumentation",
+      "authors": [],
+      "printed_page_number": "109",
+      "skip": false
+    },
+    {
+      "title": "Beurteilung des Schlafs",
+      "authors": [],
+      "printed_page_number": "110",
+      "skip": false
+    },
+    {
+      "title": "Schlaffördernde Maßnahmen",
+      "authors": [],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "Bettenmachen",
+      "authors": [],
+      "printed_page_number": "111",
+      "skip": false
+    },
+    {
+      "title": "Positionierung",
+      "authors": [],
+      "printed_page_number": "112",
+      "skip": false
+    },
+    {
+      "title": "Bewusstsein, Wahrnehmung und Verhalten",
+      "authors": [],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "Physiologische Grundlagen",
+      "authors": [],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "Beobachtung und Dokumentation",
+      "authors": [],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "Beurteilung von Bewusstsein, Wahrnehmung und Verhalten",
+      "authors": [],
+      "printed_page_number": "115",
+      "skip": false
+    },
+    {
+      "title": "Verwirrtheit",
+      "authors": [],
+      "printed_page_number": "116",
+      "skip": false
+    },
+    {
+      "title": "Habituation und Deprivation",
+      "authors": [],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "Geistige Behinderung",
+      "authors": [],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "Basale Stimulation®",
+      "authors": [],
+      "printed_page_number": "117",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Schmerzen",
+      "authors": [],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "Physiologische Grundlagen",
+      "authors": [],
+      "printed_page_number": "121",
+      "skip": false
+    },
+    {
+      "title": "Schmerzmanagement",
+      "authors": [],
+      "printed_page_number": "123",
+      "skip": false
+    },
+    {
+      "title": "Schmerztherapie",
+      "authors": [],
+      "printed_page_number": "125",
+      "skip": false
+    },
+    {
+      "title": "Schmerzprävention",
+      "authors": [],
+      "printed_page_number": "127",
+      "skip": false
+    },
+    {
+      "title": "Information, Schulung und Beratung",
+      "authors": [],
+      "printed_page_number": "128",
+      "skip": false
+    },
+    {
+      "title": "Pflege in Notfallsituationen",
+      "authors": [],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "Was ist ein Notfall?",
+      "authors": [],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "Vorbereitung auf einen Notfall",
+      "authors": [],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "Nicht reanimationspflichtige Notfälle",
+      "authors": [],
+      "printed_page_number": "129",
+      "skip": false
+    },
+    {
+      "title": "Schock",
+      "authors": [],
+      "printed_page_number": "130",
+      "skip": false
+    },
+    {
+      "title": "Erste Hilfe",
+      "authors": [],
+      "printed_page_number": "132",
+      "skip": false
+    },
+    {
+      "title": "Kardiopulmonale Reanimation",
+      "authors": [],
+      "printed_page_number": "137",
+      "skip": false
+    },
+    {
+      "title": "Übergabe des Patienten an das Klinikpersonal",
+      "authors": [],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "Pflege in der Notaufnahme",
+      "authors": [],
+      "printed_page_number": "141",
+      "skip": false
+    },
+    {
+      "title": "Entwicklung des Menschen",
+      "authors": [],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "Entwicklungspsychologie",
+      "authors": [],
+      "printed_page_number": "143",
+      "skip": false
+    },
+    {
+      "title": "Sozialisation",
+      "authors": [],
+      "printed_page_number": "144",
+      "skip": false
+    },
+    {
+      "title": "Einflussfaktoren auf die Entwicklung",
+      "authors": [],
+      "printed_page_number": "144",
+      "skip": false
+    },
+    {
+      "title": "Lebenskrisen",
+      "authors": [],
+      "printed_page_number": "150",
+      "skip": false
+    },
+    {
+      "title": "Krisenbewältigung",
+      "authors": [],
+      "printed_page_number": "151",
+      "skip": false
+    },
+    {
+      "title": "Pflegephänomene",
+      "authors": [],
+      "printed_page_number": "153",
+      "skip": false
+    },
+    {
+      "title": "Gesundheitsförderung und Prävention",
+      "authors": [],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "Begriffsklärung",
+      "authors": [],
+      "printed_page_number": "155",
+      "skip": false
+    },
+    {
+      "title": "Gesundheitsförderung in Gesellschaft und Politik",
+      "authors": [],
+      "printed_page_number": "160",
+      "skip": false
+    },
+    {
+      "title": "Pflege und Gesundheitsförderung",
+      "authors": [],
+      "printed_page_number": "161",
+      "skip": false
+    },
+    {
+      "title": "Berufliche Gesundheitsförderung für Pflegende",
+      "authors": [],
+      "printed_page_number": "162",
+      "skip": false
+    },
+    {
+      "title": "Berufsstolz in der Pflege",
+      "authors": [],
+      "printed_page_number": "167",
+      "skip": false
+    },
+    {
+      "title": "Rehabilitation",
+      "authors": [],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "Bedeutung von Rehabilitation und Pflege",
+      "authors": [],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "Rahmenbedingungen für die Rehabilitation",
+      "authors": [],
+      "printed_page_number": "169",
+      "skip": false
+    },
+    {
+      "title": "Zusammenhang von Pflege und Rehabilitation",
+      "authors": [],
+      "printed_page_number": "173",
+      "skip": false
+    },
+    {
+      "title": "Rehabilitationsschwerpunkte in speziellen Situationen",
+      "authors": [],
+      "printed_page_number": "174",
+      "skip": false
+    },
+    {
+      "title": "Rehabilitationsschwerpunkte bei ausgewählten Krankheitsgeschehen",
+      "authors": [],
+      "printed_page_number": "175",
+      "skip": false
+    },
+    {
+      "title": "Pflege von Kindern",
+      "authors": [],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Das Kind in der Gesellschaft",
+      "authors": [],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Physiologische Entwicklung",
+      "authors": [],
+      "printed_page_number": "179",
+      "skip": false
+    },
+    {
+      "title": "Das pflegebedürftige Kind",
+      "authors": [],
+      "printed_page_number": "185",
+      "skip": false
+    },
+    {
+      "title": "Das Kind im Krankenhaus",
+      "authors": [],
+      "printed_page_number": "187",
+      "skip": false
+    },
+    {
+      "title": "Ambulante Kinderkrankenpflege",
+      "authors": [],
+      "printed_page_number": "189",
+      "skip": false
+    },
+    {
+      "title": "Pflege von älteren Menschen",
+      "authors": [],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "Leben im Alter",
+      "authors": [],
+      "printed_page_number": "191",
+      "skip": false
+    },
+    {
+      "title": "Veränderungen im Alter",
+      "authors": [],
+      "printed_page_number": "192",
+      "skip": false
+    },
+    {
+      "title": "Aktivierung und sinnstiftende Beschäftigung",
+      "authors": [],
+      "printed_page_number": "195",
+      "skip": false
+    },
+    {
+      "title": "Tagesstrukturierung",
+      "authors": [],
+      "printed_page_number": "196",
+      "skip": false
+    },
+    {
+      "title": "Alltagsbewältigung",
+      "authors": [],
+      "printed_page_number": "197",
+      "skip": false
+    },
+    {
+      "title": "Pflege- und Therapiekonzepte in der Geriatrie",
+      "authors": [],
+      "printed_page_number": "197",
+      "skip": false
+    },
+    {
+      "title": "Altersgerechtes Wohnen",
+      "authors": [],
+      "printed_page_number": "199",
+      "skip": false
+    },
+    {
+      "title": "Der geriatrische Patient im Krankenhaus",
+      "authors": [],
+      "printed_page_number": "200",
+      "skip": false
+    },
+    {
+      "title": "Palliative Care und Pflege in der letzten Lebensphase",
+      "authors": [],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "Palliative Care und Hospizarbeit",
+      "authors": [],
+      "printed_page_number": "203",
+      "skip": false
+    },
+    {
+      "title": "Begleitung in der letzten Lebensphase",
+      "authors": [],
+      "printed_page_number": "205",
+      "skip": false
+    },
+    {
+      "title": "Symptomkontrolle",
+      "authors": [],
+      "printed_page_number": "207",
+      "skip": false
+    },
+    {
+      "title": "Das Sterben begleiten",
+      "authors": [],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "Die Sterbephase",
+      "authors": [],
+      "printed_page_number": "211",
+      "skip": false
+    },
+    {
+      "title": "Ethische und rechtliche Aspekte",
+      "authors": [],
+      "printed_page_number": "213",
+      "skip": false
+    },
+    {
+      "title": "Nach dem Tod",
+      "authors": [],
+      "printed_page_number": "214",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Herzerkrankungen",
+      "authors": [],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Herzerkrankungen",
+      "authors": [],
+      "printed_page_number": "217",
+      "skip": false
+    },
+    {
+      "title": "Hauptbeschwerden und Leitbefunde",
+      "authors": [],
+      "printed_page_number": "218",
+      "skip": false
+    },
+    {
+      "title": "Der Weg zur Diagnose",
+      "authors": [],
+      "printed_page_number": "220",
+      "skip": false
+    },
+    {
+      "title": "Herz- und Herzklappenfehler",
+      "authors": [],
+      "printed_page_number": "222",
+      "skip": false
+    },
+    {
+      "title": "Durchblutungsstörungen des Herzens",
+      "authors": [],
+      "printed_page_number": "224",
+      "skip": false
+    },
+    {
+      "title": "Herzinsuffizienz",
+      "authors": [],
+      "printed_page_number": "226",
+      "skip": false
+    },
+    {
+      "title": "Herzrhythmusstörungen",
+      "authors": [],
+      "printed_page_number": "228",
+      "skip": false
+    },
+    {
+      "title": "Entzündliche Herzerkrankungen",
+      "authors": [],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "Kardiomyopathien",
+      "authors": [],
+      "printed_page_number": "231",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Kreislauf- und Gefäßerkrankungen",
+      "authors": [],
+      "printed_page_number": "233",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Kreislauf- und Gefäßerkrankungen",
+      "authors": [],
+      "printed_page_number": "233",
+      "skip": false
+    },
+    {
+      "title": "Hauptbeschwerden",
+      "authors": [],
+      "printed_page_number": "235",
+      "skip": false
+    },
+    {
+      "title": "Der Weg zur Diagnose",
+      "authors": [],
+      "printed_page_number": "237",
+      "skip": false
+    },
+    {
+      "title": "Blutdruckregulationsstörungen",
+      "authors": [],
+      "printed_page_number": "238",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen der Arterien",
+      "authors": [],
+      "printed_page_number": "240",
+      "skip": false
+    },
+    {
+      "title": "Thrombozytenaggregationshemmung, Antikoagulation und Lyse",
+      "authors": [],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen der Venen",
+      "authors": [],
+      "printed_page_number": "243",
+      "skip": false
+    },
+    {
+      "title": "Gefäßverletzungen",
+      "authors": [],
+      "printed_page_number": "245",
+      "skip": false
+    },
+    {
+      "title": "Arteriovenöse Fisteln",
+      "authors": [],
+      "printed_page_number": "246",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen der Lymphgefäße",
+      "authors": [],
+      "printed_page_number": "246",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Lungenerkrankungen",
+      "authors": [],
+      "printed_page_number": "249",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Lungenerkrankungen",
+      "authors": [],
+      "printed_page_number": "249",
+      "skip": false
+    },
+    {
+      "title": "Hauptbeschwerden und Leitbefunde",
+      "authors": [],
+      "printed_page_number": "253",
+      "skip": false
+    },
+    {
+      "title": "Der Weg zur Diagnose",
+      "authors": [],
+      "printed_page_number": "254",
+      "skip": false
+    },
+    {
+      "title": "Infektiöse Erkrankungen der Atmungsorgane",
+      "authors": [],
+      "printed_page_number": "256",
+      "skip": false
+    },
+    {
+      "title": "Asthma bronchiale",
+      "authors": [],
+      "printed_page_number": "260",
+      "skip": false
+    },
+    {
+      "title": "Chronisch-obstruktive Lungenerkrankung",
+      "authors": [],
+      "printed_page_number": "261",
+      "skip": false
+    },
+    {
+      "title": "Lungenemphysem",
+      "authors": [],
+      "printed_page_number": "262",
+      "skip": false
+    },
+    {
+      "title": "Interstitielle Lungenerkrankung/Lungenfibrose",
+      "authors": [],
+      "printed_page_number": "262",
+      "skip": false
+    },
+    {
+      "title": "Bösartige Lungentumoren",
+      "authors": [],
+      "printed_page_number": "263",
+      "skip": false
+    },
+    {
+      "title": "Pneumothorax",
+      "authors": [],
+      "printed_page_number": "264",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen des Lungenkreislaufs",
+      "authors": [],
+      "printed_page_number": "264",
+      "skip": false
+    },
+    {
+      "title": "Schlafapnoesyndrom",
+      "authors": [],
+      "printed_page_number": "265",
+      "skip": false
+    },
+    {
+      "title": "Pleuraerkrankungen",
+      "authors": [],
+      "printed_page_number": "265",
+      "skip": false
+    },
+    {
+      "title": "Mukoviszidose",
+      "authors": [],
+      "printed_page_number": "266",
+      "skip": false
+    },
+    {
+      "title": "ARDS",
+      "authors": [],
+      "printed_page_number": "267",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen des Mediastinums",
+      "authors": [],
+      "printed_page_number": "267",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Erkrankungen des Magen-Darm-Trakts",
+      "authors": [],
+      "printed_page_number": "269",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Erkrankungen des Magen-Darm-Trakts",
+      "authors": [],
+      "printed_page_number": "269",
+      "skip": false
+    },
+    {
+      "title": "Hauptbeschwerden",
+      "authors": [],
+      "printed_page_number": "271",
+      "skip": false
+    },
+    {
+      "title": "Der Weg zur Diagnose",
+      "authors": [],
+      "printed_page_number": "274",
+      "skip": false
+    },
+    {
+      "title": "Ösophaguserkrankungen",
+      "authors": [],
+      "printed_page_number": "275",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen des Magens",
+      "authors": [],
+      "printed_page_number": "278",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen des Dünn- und Dickdarms",
+      "authors": [],
+      "printed_page_number": "281",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen der Analregion",
+      "authors": [],
+      "printed_page_number": "287",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen des Bauchfells",
+      "authors": [],
+      "printed_page_number": "288",
+      "skip": false
+    },
+    {
+      "title": "Hernien",
+      "authors": [],
+      "printed_page_number": "289",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Erkrankungen von Leber, Gallenwegen, Pankreas und Milz",
+      "authors": [],
+      "printed_page_number": "291",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Erkrankungen von Leber, Gallenwegen, Pankreas und Milz",
+      "authors": [],
+      "printed_page_number": "291",
+      "skip": false
+    },
+    {
+      "title": "Hauptbeschwerden",
+      "authors": [],
+      "printed_page_number": "291",
+      "skip": false
+    },
+    {
+      "title": "Der Weg zur Diagnose",
+      "authors": [],
+      "printed_page_number": "292",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen der Leber",
+      "authors": [],
+      "printed_page_number": "294",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen von Gallenblase und Gallenwegen",
+      "authors": [],
+      "printed_page_number": "298",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen des Pankreas",
+      "authors": [],
+      "printed_page_number": "300",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen der Milz",
+      "authors": [],
+      "printed_page_number": "303",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei endokrinologischen, stoffwechsel- und ernährungsbedingten Erkrankungen",
+      "authors": [],
+      "printed_page_number": "305",
+      "skip": false
+    },
+    {
+      "title": "Angeborene Hormon- und Stoffwechselstörungen",
+      "authors": [],
+      "printed_page_number": "305",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen der Hypophyse",
+      "authors": [],
+      "printed_page_number": "305",
+      "skip": false
+    },
+    {
+      "title": "Schilddrüsenerkrankungen",
+      "authors": [],
+      "printed_page_number": "305",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen der Nebenschilddrüsen",
+      "authors": [],
+      "printed_page_number": "308",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen der Nebennierenrinde",
+      "authors": [],
+      "printed_page_number": "309",
+      "skip": false
+    },
+    {
+      "title": "Diabetes mellitus",
+      "authors": [],
+      "printed_page_number": "310",
+      "skip": false
+    },
+    {
+      "title": "Ernährungsbedingte Erkrankungen",
+      "authors": [],
+      "printed_page_number": "318",
+      "skip": false
+    },
+    {
+      "title": "Fettstoffwechselstörungen",
+      "authors": [],
+      "printed_page_number": "320",
+      "skip": false
+    },
+    {
+      "title": "Hyperurikämie und Gicht",
+      "authors": [],
+      "printed_page_number": "320",
+      "skip": false
+    },
+    {
+      "title": "Diabetes insipidus",
+      "authors": [],
+      "printed_page_number": "321",
+      "skip": false
+    },
+    {
+      "title": "Neuroendokrine Neoplasien",
+      "authors": [],
+      "printed_page_number": "321",
+      "skip": false
+    },
+    {
+      "title": "Alpha-1-Antitrypsin-Mangel",
+      "authors": [],
+      "printed_page_number": "321",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei hämatologischen und onkologischen Erkrankungen",
+      "authors": [],
+      "printed_page_number": "323",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei hämatologischen und onkologischen Erkrankungen",
+      "authors": [],
+      "printed_page_number": "323",
+      "skip": false
+    },
+    {
+      "title": "Grundlagen der Onkologie",
+      "authors": [],
+      "printed_page_number": "325",
+      "skip": false
+    },
+    {
+      "title": "Hauptbeschwerden und Leitbefunde",
+      "authors": [],
+      "printed_page_number": "326",
+      "skip": false
+    },
+    {
+      "title": "Der Weg zur Diagnose",
+      "authors": [],
+      "printed_page_number": "326",
+      "skip": false
+    },
+    {
+      "title": "Behandlungsstrategien in der Hämatologie und Onkologie",
+      "authors": [],
+      "printed_page_number": "329",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen der roten Blutzellen",
+      "authors": [],
+      "printed_page_number": "335",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen der weißen Blutzellen",
+      "authors": [],
+      "printed_page_number": "336",
+      "skip": false
+    },
+    {
+      "title": "Maligne Lymphome",
+      "authors": [],
+      "printed_page_number": "337",
+      "skip": false
+    },
+    {
+      "title": "Hämorrhagische Diathesen",
+      "authors": [],
+      "printed_page_number": "337",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei rheumatischen Erkrankungen",
+      "authors": [],
+      "printed_page_number": "341",
+      "skip": false
+    },
+    {
+      "title": "Pflege von Menschen mit rheumatischen Erkrankungen",
+      "authors": [],
+      "printed_page_number": "341",
+      "skip": false
+    },
+    {
+      "title": "Einteilung rheumatischer Erkrankungen",
+      "authors": [],
+      "printed_page_number": "342",
+      "skip": false
+    },
+    {
+      "title": "Hauptbeschwerden und Leitbefunde",
+      "authors": [],
+      "printed_page_number": "342",
+      "skip": false
+    },
+    {
+      "title": "Der Weg zur Diagnose",
+      "authors": [],
+      "printed_page_number": "343",
+      "skip": false
+    },
+    {
+      "title": "Behandlungsstrategien in der Rheumatologie",
+      "authors": [],
+      "printed_page_number": "343",
+      "skip": false
+    },
+    {
+      "title": "Entzündlich-rheumatische Gelenkerkrankungen",
+      "authors": [],
+      "printed_page_number": "344",
+      "skip": false
+    },
+    {
+      "title": "Kollagenosen",
+      "authors": [],
+      "printed_page_number": "346",
+      "skip": false
+    },
+    {
+      "title": "Vaskulitiden",
+      "authors": [],
+      "printed_page_number": "348",
+      "skip": false
+    },
+    {
+      "title": "Fibromyalgiesyndrom",
+      "authors": [],
+      "printed_page_number": "348",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei orthopädischen und traumatologischen Erkrankungen",
+      "authors": [],
+      "printed_page_number": "351",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei orthopädischen und traumatologischen Erkrankungen",
+      "authors": [],
+      "printed_page_number": "351",
+      "skip": false
+    },
+    {
+      "title": "Hauptbeschwerden und Leitbefunde",
+      "authors": [],
+      "printed_page_number": "353",
+      "skip": false
+    },
+    {
+      "title": "Der Weg zur Diagnose",
+      "authors": [],
+      "printed_page_number": "355",
+      "skip": false
+    },
+    {
+      "title": "Orthopädische und traumatologische Behandlungsstrategien",
+      "authors": [],
+      "printed_page_number": "357",
+      "skip": false
+    },
+    {
+      "title": "Allgemeine Traumatologie",
+      "authors": [],
+      "printed_page_number": "360",
+      "skip": false
+    },
+    {
+      "title": "Therapieprinzipien bei Frakturen",
+      "authors": [],
+      "printed_page_number": "362",
+      "skip": false
+    },
+    {
+      "title": "Systemische Knochenerkrankungen, Infektionen und Tumoren",
+      "authors": [],
+      "printed_page_number": "365",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen und Verletzungen von Kopf, Wirbelsäule und Rumpf",
+      "authors": [],
+      "printed_page_number": "368",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen und Verletzungen von Schultergürtel und Oberarm",
+      "authors": [],
+      "printed_page_number": "372",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen und Verletzungen von Ellenbogen und Unterarm",
+      "authors": [],
+      "printed_page_number": "374",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen und Verletzungen von Handgelenk und Hand",
+      "authors": [],
+      "printed_page_number": "376",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen und Verletzungen von Beckengürtel und Oberschenkel",
+      "authors": [],
+      "printed_page_number": "376",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen und Verletzungen von Knie und Unterschenkel",
+      "authors": [],
+      "printed_page_number": "379",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen und Verletzungen von Sprunggelenk und Fuß",
+      "authors": [],
+      "printed_page_number": "380",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Infektionskrankheiten",
+      "authors": [],
+      "printed_page_number": "383",
+      "skip": false
+    },
+    {
+      "title": "Pflege von Menschen mit Infektionskrankheiten",
+      "authors": [],
+      "printed_page_number": "383",
+      "skip": false
+    },
+    {
+      "title": "Grundbegriffe der klinischen Infektionslehre",
+      "authors": [],
+      "printed_page_number": "385",
+      "skip": false
+    },
+    {
+      "title": "Infektionsprophylaxe",
+      "authors": [],
+      "printed_page_number": "387",
+      "skip": false
+    },
+    {
+      "title": "Infektionsschutzgesetz",
+      "authors": [],
+      "printed_page_number": "388",
+      "skip": false
+    },
+    {
+      "title": "Der Weg zur Diagnose",
+      "authors": [],
+      "printed_page_number": "389",
+      "skip": false
+    },
+    {
+      "title": "Sepsis",
+      "authors": [],
+      "printed_page_number": "390",
+      "skip": false
+    },
+    {
+      "title": "Bakterielle Infektionen",
+      "authors": [],
+      "printed_page_number": "391",
+      "skip": false
+    },
+    {
+      "title": "Virale Infektionen",
+      "authors": [],
+      "printed_page_number": "397",
+      "skip": false
+    },
+    {
+      "title": "Infektionen durch Pilze (Mykosen)",
+      "authors": [],
+      "printed_page_number": "404",
+      "skip": false
+    },
+    {
+      "title": "Infektionen durch Protozoen",
+      "authors": [],
+      "printed_page_number": "405",
+      "skip": false
+    },
+    {
+      "title": "Wurmerkrankungen",
+      "authors": [],
+      "printed_page_number": "406",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Erkrankungen des Immunsystems",
+      "authors": [],
+      "printed_page_number": "409",
+      "skip": false
+    },
+    {
+      "title": "Immundefekte",
+      "authors": [],
+      "printed_page_number": "409",
+      "skip": false
+    },
+    {
+      "title": "Allergien",
+      "authors": [],
+      "printed_page_number": "409",
+      "skip": false
+    },
+    {
+      "title": "Autoimmunerkrankungen",
+      "authors": [],
+      "printed_page_number": "411",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Haut- und Geschlechtskrankheiten",
+      "authors": [],
+      "printed_page_number": "413",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Menschen mit Haut- und Geschlechtskrankheiten",
+      "authors": [],
+      "printed_page_number": "413",
+      "skip": false
+    },
+    {
+      "title": "Hauptbeschwerden und Leitbefunde",
+      "authors": [],
+      "printed_page_number": "414",
+      "skip": false
+    },
+    {
+      "title": "Der Weg zur Diagnose",
+      "authors": [],
+      "printed_page_number": "415",
+      "skip": false
+    },
+    {
+      "title": "Dermatologische Behandlungsstrategien",
+      "authors": [],
+      "printed_page_number": "416",
+      "skip": false
+    },
+    {
+      "title": "Erregerbedingte Erkrankungen",
+      "authors": [],
+      "printed_page_number": "417",
+      "skip": false
+    },
+    {
+      "title": "Allergisch bedingte Hauterkrankungen und Urtikaria",
+      "authors": [],
+      "printed_page_number": "421",
+      "skip": false
+    },
+    {
+      "title": "Ekzematöse Hauterkrankungen",
+      "authors": [],
+      "printed_page_number": "422",
+      "skip": false
+    },
+    {
+      "title": "Psoriasis vulgaris",
+      "authors": [],
+      "printed_page_number": "424",
+      "skip": false
+    },
+    {
+      "title": "Tumoren der Haut",
+      "authors": [],
+      "printed_page_number": "424",
+      "skip": false
+    },
+    {
+      "title": "Akne und akneähnliche Erkrankungen",
+      "authors": [],
+      "printed_page_number": "426",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen der Haare und Nägel",
+      "authors": [],
+      "printed_page_number": "426",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Erkrankungen der Niere und der ableitenden Harnwege",
+      "authors": [],
+      "printed_page_number": "429",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei nephrologischen und urologischen Erkrankungen",
+      "authors": [],
+      "printed_page_number": "429",
+      "skip": false
+    },
+    {
+      "title": "Hauptbeschwerden und Leitbefunde",
+      "authors": [],
+      "printed_page_number": "434",
+      "skip": false
+    },
+    {
+      "title": "Der Weg zur Diagnose",
+      "authors": [],
+      "printed_page_number": "436",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen von Harnblase und Harnröhre",
+      "authors": [],
+      "printed_page_number": "439",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen der Nieren und Harnleiter",
+      "authors": [],
+      "printed_page_number": "440",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen der Prostata",
+      "authors": [],
+      "printed_page_number": "446",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen der Hoden und Nebenhoden",
+      "authors": [],
+      "printed_page_number": "447",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen des Penis",
+      "authors": [],
+      "printed_page_number": "449",
+      "skip": false
+    },
+    {
+      "title": "Sexualfunktionsstörungen des Mannes",
+      "authors": [],
+      "printed_page_number": "450",
+      "skip": false
+    },
+    {
+      "title": "Störungen des Wasser- und Elektrolythaushalts",
+      "authors": [],
+      "printed_page_number": "450",
+      "skip": false
+    },
+    {
+      "title": "Störungen des Säure-Basen-Haushalts",
+      "authors": [],
+      "printed_page_number": "453",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei gynäkologischen Erkrankungen, Schwangerschaft, Geburt und Wochenbett",
+      "authors": [],
+      "printed_page_number": "455",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei gynäkologischen Erkrankungen, Schwangerschaft, Geburt und Wochenbett",
+      "authors": [],
+      "printed_page_number": "455",
+      "skip": false
+    },
+    {
+      "title": "Hauptbeschwerden und Leitbefunde",
+      "authors": [],
+      "printed_page_number": "456",
+      "skip": false
+    },
+    {
+      "title": "Der Weg zur Diagnose",
+      "authors": [],
+      "printed_page_number": "459",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen der Brust",
+      "authors": [],
+      "printed_page_number": "462",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen der Tuben und der Ovarien",
+      "authors": [],
+      "printed_page_number": "464",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen des Uterus",
+      "authors": [],
+      "printed_page_number": "465",
+      "skip": false
+    },
+    {
+      "title": "Descensus Uteri",
+      "authors": [],
+      "printed_page_number": "467",
+      "skip": false
+    },
+    {
+      "title": "Endometriose",
+      "authors": [],
+      "printed_page_number": "467",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen von Vulva und Vagina",
+      "authors": [],
+      "printed_page_number": "467",
+      "skip": false
+    },
+    {
+      "title": "Klimakterisches Syndrom",
+      "authors": [],
+      "printed_page_number": "468",
+      "skip": false
+    },
+    {
+      "title": "Empfängnisverhütung",
+      "authors": [],
+      "printed_page_number": "469",
+      "skip": false
+    },
+    {
+      "title": "Sterilität und Infertilität",
+      "authors": [],
+      "printed_page_number": "470",
+      "skip": false
+    },
+    {
+      "title": "Betreuung von Schwangeren",
+      "authors": [],
+      "printed_page_number": "470",
+      "skip": false
+    },
+    {
+      "title": "Schwangerschaftsabbruch",
+      "authors": [],
+      "printed_page_number": "473",
+      "skip": false
+    },
+    {
+      "title": "Pathologische Schwangerschaft",
+      "authors": [],
+      "printed_page_number": "474",
+      "skip": false
+    },
+    {
+      "title": "Untersuchungen vor oder während der Geburt",
+      "authors": [],
+      "printed_page_number": "478",
+      "skip": false
+    },
+    {
+      "title": "Physiologische Geburt",
+      "authors": [],
+      "printed_page_number": "479",
+      "skip": false
+    },
+    {
+      "title": "Erstversorgung des Neugeborenen",
+      "authors": [],
+      "printed_page_number": "480",
+      "skip": false
+    },
+    {
+      "title": "Pathologische Geburt",
+      "authors": [],
+      "printed_page_number": "480",
+      "skip": false
+    },
+    {
+      "title": "Übernahme der Wöchnerin aus dem Kreißsaal",
+      "authors": [],
+      "printed_page_number": "483",
+      "skip": false
+    },
+    {
+      "title": "Physiologisches Wochenbett",
+      "authors": [],
+      "printed_page_number": "483",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen im Wochenbett",
+      "authors": [],
+      "printed_page_number": "486",
+      "skip": false
+    },
+    {
+      "title": "Pflege des Neugeborenen",
+      "authors": [],
+      "printed_page_number": "487",
+      "skip": false
+    },
+    {
+      "title": "Kranke und gefährdete Neugeborene",
+      "authors": [],
+      "printed_page_number": "488",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Augenerkrankungen",
+      "authors": [],
+      "printed_page_number": "495",
+      "skip": false
+    },
+    {
+      "title": "Pflege von Menschen mit Augenerkrankungen",
+      "authors": [],
+      "printed_page_number": "495",
+      "skip": false
+    },
+    {
+      "title": "Hauptbeschwerden und Leitbefunde",
+      "authors": [],
+      "printed_page_number": "498",
+      "skip": false
+    },
+    {
+      "title": "Der Weg zur Diagnose",
+      "authors": [],
+      "printed_page_number": "499",
+      "skip": false
+    },
+    {
+      "title": "Arzneimittel in der Augenheilkunde",
+      "authors": [],
+      "printed_page_number": "501",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen von Augenlid und Tränenorganen",
+      "authors": [],
+      "printed_page_number": "501",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen von Bindehaut und Hornhaut",
+      "authors": [],
+      "printed_page_number": "502",
+      "skip": false
+    },
+    {
+      "title": "Katarakt",
+      "authors": [],
+      "printed_page_number": "502",
+      "skip": false
+    },
+    {
+      "title": "Glaukom",
+      "authors": [],
+      "printed_page_number": "504",
+      "skip": false
+    },
+    {
+      "title": "Glaskörpererkrankungen",
+      "authors": [],
+      "printed_page_number": "505",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen von Netzhaut, Aderhaut und Sehnerv",
+      "authors": [],
+      "printed_page_number": "505",
+      "skip": false
+    },
+    {
+      "title": "Brechungsfehler",
+      "authors": [],
+      "printed_page_number": "506",
+      "skip": false
+    },
+    {
+      "title": "Schielen",
+      "authors": [],
+      "printed_page_number": "507",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Hals-Nasen-Ohren-Erkrankungen",
+      "authors": [],
+      "printed_page_number": "509",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei Hals-Nasen-Ohren-Erkrankungen",
+      "authors": [],
+      "printed_page_number": "509",
+      "skip": false
+    },
+    {
+      "title": "Hauptbeschwerden und Leitbefunde",
+      "authors": [],
+      "printed_page_number": "514",
+      "skip": false
+    },
+    {
+      "title": "Der Weg zur Diagnose",
+      "authors": [],
+      "printed_page_number": "515",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen des Ohrs",
+      "authors": [],
+      "printed_page_number": "516",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen von Nase, Nasennebenhöhlen und Nasopharynx",
+      "authors": [],
+      "printed_page_number": "519",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen von Lippen, Mundhöhle und Oropharynx",
+      "authors": [],
+      "printed_page_number": "521",
+      "skip": false
+    },
+    {
+      "title": "Tumoren des Hypopharynx",
+      "authors": [],
+      "printed_page_number": "523",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen des Larynx",
+      "authors": [],
+      "printed_page_number": "523",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen der Trachea",
+      "authors": [],
+      "printed_page_number": "525",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen der Kopfspeicheldrüsen",
+      "authors": [],
+      "printed_page_number": "526",
+      "skip": false
+    },
+    {
+      "title": "Halszysten",
+      "authors": [],
+      "printed_page_number": "526",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei neurologischen und neurochirurgischen Erkrankungen",
+      "authors": [],
+      "printed_page_number": "527",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei neurologischen und neurochirurgischen Erkrankungen",
+      "authors": [],
+      "printed_page_number": "527",
+      "skip": false
+    },
+    {
+      "title": "Hauptbeschwerden und Leitbefunde",
+      "authors": [],
+      "printed_page_number": "527",
+      "skip": false
+    },
+    {
+      "title": "Der Weg zur Diagnose",
+      "authors": [],
+      "printed_page_number": "532",
+      "skip": false
+    },
+    {
+      "title": "Fehlbildungen und Entwicklungsstörungen des Nervensystems",
+      "authors": [],
+      "printed_page_number": "534",
+      "skip": false
+    },
+    {
+      "title": "Intrakranielle Druckerhöhung",
+      "authors": [],
+      "printed_page_number": "535",
+      "skip": false
+    },
+    {
+      "title": "Durchblutungsstörungen und Blutungen des ZNS: Schlaganfall",
+      "authors": [],
+      "printed_page_number": "537",
+      "skip": false
+    },
+    {
+      "title": "Weitere Durchblutungsstörungen und Blutungen des ZNS",
+      "authors": [],
+      "printed_page_number": "540",
+      "skip": false
+    },
+    {
+      "title": "Epileptische Anfälle und Epilepsie",
+      "authors": [],
+      "printed_page_number": "541",
+      "skip": false
+    },
+    {
+      "title": "ZNS-Infektionen",
+      "authors": [],
+      "printed_page_number": "543",
+      "skip": false
+    },
+    {
+      "title": "Multiple Sklerose",
+      "authors": [],
+      "printed_page_number": "544",
+      "skip": false
+    },
+    {
+      "title": "Degenerative Erkrankungen des zentralen Nervensystems",
+      "authors": [],
+      "printed_page_number": "545",
+      "skip": false
+    },
+    {
+      "title": "Tumoren des Nervensystems",
+      "authors": [],
+      "printed_page_number": "548",
+      "skip": false
+    },
+    {
+      "title": "Verletzungen des ZNS",
+      "authors": [],
+      "printed_page_number": "550",
+      "skip": false
+    },
+    {
+      "title": "Kopf- und Gesichtsschmerz",
+      "authors": [],
+      "printed_page_number": "551",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen des peripheren Nervensystems",
+      "authors": [],
+      "printed_page_number": "552",
+      "skip": false
+    },
+    {
+      "title": "Neuromuskuläre Erkrankungen und Muskelerkrankungen",
+      "authors": [],
+      "printed_page_number": "555",
+      "skip": false
+    },
+    {
+      "title": "Pflege bei psychischen Erkrankungen",
+      "authors": [],
+      "printed_page_number": "557",
+      "skip": false
+    },
+    {
+      "title": "Pflege von Menschen mit psychischen Erkrankungen",
+      "authors": [],
+      "printed_page_number": "557",
+      "skip": false
+    },
+    {
+      "title": "Leitbefunde und Weg zur Diagnose",
+      "authors": [],
+      "printed_page_number": "562",
+      "skip": false
+    },
+    {
+      "title": "Psychopharmaka",
+      "authors": [],
+      "printed_page_number": "565",
+      "skip": false
+    },
+    {
+      "title": "Psychotherapie",
+      "authors": [],
+      "printed_page_number": "567",
+      "skip": false
+    },
+    {
+      "title": "Einteilungen psychischer Erkrankungen",
+      "authors": [],
+      "printed_page_number": "568",
+      "skip": false
+    },
+    {
+      "title": "Ausgewählte Aspekte der Kinder- und Jugendpsychiatrie und -psychotherapie",
+      "authors": [],
+      "printed_page_number": "569",
+      "skip": false
+    },
+    {
+      "title": "Organisch bedingte psychische Störungen",
+      "authors": [],
+      "printed_page_number": "571",
+      "skip": false
+    },
+    {
+      "title": "Abhängigkeit",
+      "authors": [],
+      "printed_page_number": "571",
+      "skip": false
+    },
+    {
+      "title": "Erkrankungen des schizophrenen Formenkreises",
+      "authors": [],
+      "printed_page_number": "573",
+      "skip": false
+    },
+    {
+      "title": "Affektive Störungen",
+      "authors": [],
+      "printed_page_number": "575",
+      "skip": false
+    },
+    {
+      "title": "Belastungs- und Anpassungsstörungen",
+      "authors": [],
+      "printed_page_number": "577",
+      "skip": false
+    },
+    {
+      "title": "Angst- und Zwangsstörungen",
+      "authors": [],
+      "printed_page_number": "577",
+      "skip": false
+    },
+    {
+      "title": "Dissoziative Störungen",
+      "authors": [],
+      "printed_page_number": "578",
+      "skip": false
+    },
+    {
+      "title": "Persönlichkeitsstörungen",
+      "authors": [],
+      "printed_page_number": "578",
+      "skip": false
+    },
+    {
+      "title": "Psychosomatische Störungen",
+      "authors": [],
+      "printed_page_number": "579",
+      "skip": false
+    },
+    {
+      "title": "Suizid",
+      "authors": [],
+      "printed_page_number": "579",
+      "skip": false
+    },
+    {
+      "title": "Kommunikation und Beratung",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Kommunikation und Konfliktmanagement",
+      "authors": [],
+      "printed_page_number": "583",
+      "skip": false
+    },
+    {
+      "title": "Kommunikation",
+      "authors": [],
+      "printed_page_number": "583",
+      "skip": false
+    },
+    {
+      "title": "Kommunikationsmodelle",
+      "authors": [],
+      "printed_page_number": "585",
+      "skip": false
+    },
+    {
+      "title": "Gespräche führen",
+      "authors": [],
+      "printed_page_number": "586",
+      "skip": false
+    },
+    {
+      "title": "Konfliktmanagement",
+      "authors": [],
+      "printed_page_number": "589",
+      "skip": false
+    },
+    {
+      "title": "Interaktion in Gruppen und Teams",
+      "authors": [],
+      "printed_page_number": "589",
+      "skip": false
+    },
+    {
+      "title": "Information, Schulung, Beratung und Anleitung",
+      "authors": [],
+      "printed_page_number": "593",
+      "skip": false
+    },
+    {
+      "title": "Patientenedukation",
+      "authors": [],
+      "printed_page_number": "593",
+      "skip": false
+    },
+    {
+      "title": "Patienteninformation",
+      "authors": [],
+      "printed_page_number": "594",
+      "skip": false
+    },
+    {
+      "title": "Schulung",
+      "authors": [],
+      "printed_page_number": "594",
+      "skip": false
+    },
+    {
+      "title": "Beratung",
+      "authors": [],
+      "printed_page_number": "595",
+      "skip": false
+    },
+    {
+      "title": "Praxisanleitung",
+      "authors": [],
+      "printed_page_number": "597",
+      "skip": false
+    },
+    {
+      "title": "Intra- und interprofessionelles Handeln",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Hygiene",
+      "authors": [],
+      "printed_page_number": "599",
+      "skip": false
+    },
+    {
+      "title": "Organisation der Hygiene in Einrichtungen des Gesundheitswesens",
+      "authors": [],
+      "printed_page_number": "599",
+      "skip": false
+    },
+    {
+      "title": "Standardhygienemaßnahmen",
+      "authors": [],
+      "printed_page_number": "599",
+      "skip": false
+    },
+    {
+      "title": "Maßnahmen zur Keimreduktion",
+      "authors": [],
+      "printed_page_number": "601",
+      "skip": false
+    },
+    {
+      "title": "Hygienegerechtes Verhalten",
+      "authors": [],
+      "printed_page_number": "603",
+      "skip": false
+    },
+    {
+      "title": "Umgang mit Medizinprodukten",
+      "authors": [],
+      "printed_page_number": "604",
+      "skip": false
+    },
+    {
+      "title": "Umgang mit Abfall im Krankenhaus",
+      "authors": [],
+      "printed_page_number": "605",
+      "skip": false
+    },
+    {
+      "title": "Diagnostik",
+      "authors": [],
+      "printed_page_number": "607",
+      "skip": false
+    },
+    {
+      "title": "Einführung",
+      "authors": [],
+      "printed_page_number": "607",
+      "skip": false
+    },
+    {
+      "title": "Ärztliche Anamnese",
+      "authors": [],
+      "printed_page_number": "607",
+      "skip": false
+    },
+    {
+      "title": "Körperliche Untersuchung",
+      "authors": [],
+      "printed_page_number": "607",
+      "skip": false
+    },
+    {
+      "title": "Funktionsdiagnostik",
+      "authors": [],
+      "printed_page_number": "608",
+      "skip": false
+    },
+    {
+      "title": "Labordiagnostik",
+      "authors": [],
+      "printed_page_number": "608",
+      "skip": false
+    },
+    {
+      "title": "Bildgebende Diagnoseverfahren",
+      "authors": [],
+      "printed_page_number": "611",
+      "skip": false
+    },
+    {
+      "title": "Invasive Diagnoseverfahren",
+      "authors": [],
+      "printed_page_number": "615",
+      "skip": false
+    },
+    {
+      "title": "Untersuchungsmethoden in der Pathologie",
+      "authors": [],
+      "printed_page_number": "616",
+      "skip": false
+    },
+    {
+      "title": "Diagnoseklassifikationen: ICD-Diagnoseklassifikation",
+      "authors": [],
+      "printed_page_number": "616",
+      "skip": false
+    },
+    {
+      "title": "Heilmethoden und Therapie",
+      "authors": [],
+      "printed_page_number": "619",
+      "skip": false
+    },
+    {
+      "title": "Einführung",
+      "authors": [],
+      "printed_page_number": "619",
+      "skip": false
+    },
+    {
+      "title": "Rechtliche Grundlagen einer Behandlung",
+      "authors": [],
+      "printed_page_number": "619",
+      "skip": false
+    },
+    {
+      "title": "Arzneimitteltherapie",
+      "authors": [],
+      "printed_page_number": "620",
+      "skip": false
+    },
+    {
+      "title": "Injektionen",
+      "authors": [],
+      "printed_page_number": "624",
+      "skip": false
+    },
+    {
+      "title": "Infusionen",
+      "authors": [],
+      "printed_page_number": "628",
+      "skip": false
+    },
+    {
+      "title": "Physikalische Therapie",
+      "authors": [],
+      "printed_page_number": "634",
+      "skip": false
+    },
+    {
+      "title": "Ergotherapie",
+      "authors": [],
+      "printed_page_number": "636",
+      "skip": false
+    },
+    {
+      "title": "Entspannungstechniken",
+      "authors": [],
+      "printed_page_number": "636",
+      "skip": false
+    },
+    {
+      "title": "Naturheilverfahren",
+      "authors": [],
+      "printed_page_number": "636",
+      "skip": false
+    },
+    {
+      "title": "Lasertherapie",
+      "authors": [],
+      "printed_page_number": "636",
+      "skip": false
+    },
+    {
+      "title": "Strahlentherapie",
+      "authors": [],
+      "printed_page_number": "637",
+      "skip": false
+    },
+    {
+      "title": "Invasive Therapien",
+      "authors": [],
+      "printed_page_number": "637",
+      "skip": false
+    },
+    {
+      "title": "Wundversorgung",
+      "authors": [],
+      "printed_page_number": "637",
+      "skip": false
+    },
+    {
+      "title": "Transplantationen",
+      "authors": [],
+      "printed_page_number": "646",
+      "skip": false
+    },
+    {
+      "title": "Perioperative Pflege",
+      "authors": [],
+      "printed_page_number": "649",
+      "skip": false
+    },
+    {
+      "title": "Einteilung von Operationen",
+      "authors": [],
+      "printed_page_number": "649",
+      "skip": false
+    },
+    {
+      "title": "Präoperative Phase",
+      "authors": [],
+      "printed_page_number": "649",
+      "skip": false
+    },
+    {
+      "title": "Perioperative Thromboembolieprophylaxe",
+      "authors": [],
+      "printed_page_number": "651",
+      "skip": false
+    },
+    {
+      "title": "Pflege in der Operationsabteilung",
+      "authors": [],
+      "printed_page_number": "651",
+      "skip": false
+    },
+    {
+      "title": "Postoperative Pflege",
+      "authors": [],
+      "printed_page_number": "654",
+      "skip": false
+    },
+    {
+      "title": "Intensivpflege",
+      "authors": [],
+      "printed_page_number": "661",
+      "skip": false
+    },
+    {
+      "title": "Das medizinische Fachgebiet",
+      "authors": [],
+      "printed_page_number": "661",
+      "skip": false
+    },
+    {
+      "title": "Besonderheiten und Organisation einer Intensivstation",
+      "authors": [],
+      "printed_page_number": "661",
+      "skip": false
+    },
+    {
+      "title": "Intensivüberwachung",
+      "authors": [],
+      "printed_page_number": "662",
+      "skip": false
+    },
+    {
+      "title": "Beatmungstherapie",
+      "authors": [],
+      "printed_page_number": "664",
+      "skip": false
+    },
+    {
+      "title": "Anästhesiepflege",
+      "authors": [],
+      "printed_page_number": "669",
+      "skip": false
+    },
+    {
+      "title": "Einführung",
+      "authors": [],
+      "printed_page_number": "669",
+      "skip": false
+    },
+    {
+      "title": "Grundlagen der Anästhesie",
+      "authors": [],
+      "printed_page_number": "669",
+      "skip": false
+    },
+    {
+      "title": "Die wichtigsten Arzneimittel in der Anästhesie",
+      "authors": [],
+      "printed_page_number": "669",
+      "skip": false
+    },
+    {
+      "title": "Narkosesysteme und Narkosegeräte",
+      "authors": [],
+      "printed_page_number": "671",
+      "skip": false
+    },
+    {
+      "title": "Beatmung in der Anästhesie",
+      "authors": [],
+      "printed_page_number": "671",
+      "skip": false
+    },
+    {
+      "title": "Der Anästhesiearbeitsplatz",
+      "authors": [],
+      "printed_page_number": "671",
+      "skip": false
+    },
+    {
+      "title": "Vorbereitung der Patientin",
+      "authors": [],
+      "printed_page_number": "671",
+      "skip": false
+    },
+    {
+      "title": "Allgemeinanästhesie",
+      "authors": [],
+      "printed_page_number": "672",
+      "skip": false
+    },
+    {
+      "title": "Regionalanästhesie",
+      "authors": [],
+      "printed_page_number": "675",
+      "skip": false
+    },
+    {
+      "title": "Betreuung nach der Narkose",
+      "authors": [],
+      "printed_page_number": "677",
+      "skip": false
+    },
+    {
+      "title": "Narkosezwischenfälle und Narkosekomplikationen",
+      "authors": [],
+      "printed_page_number": "678",
+      "skip": false
+    },
+    {
+      "title": "Anästhesie in besonderen Situationen",
+      "authors": [],
+      "printed_page_number": "678",
+      "skip": false
+    },
+    {
+      "title": "Gesetze, Verordnungen, ethische Leitlinien",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Pflege im Gesundheitssystem",
+      "authors": [],
+      "printed_page_number": "681",
+      "skip": false
+    },
+    {
+      "title": "Berufe und Einrichtungen der Versorgung",
+      "authors": [],
+      "printed_page_number": "681",
+      "skip": false
+    },
+    {
+      "title": "Pflegeleistungen im Sozialrecht",
+      "authors": [],
+      "printed_page_number": "681",
+      "skip": false
+    },
+    {
+      "title": "Finanzierung von Pflege und Versorgung",
+      "authors": [],
+      "printed_page_number": "682",
+      "skip": false
+    },
+    {
+      "title": "Bedarfserfassung, Dokumentation und Abrechnung von Pflegeleistungen",
+      "authors": [],
+      "printed_page_number": "683",
+      "skip": false
+    },
+    {
+      "title": "Pflegeorganisationssysteme",
+      "authors": [],
+      "printed_page_number": "684",
+      "skip": false
+    },
+    {
+      "title": "Steuerung der Versorgung",
+      "authors": [],
+      "printed_page_number": "685",
+      "skip": false
+    },
+    {
+      "title": "Qualitätssicherung und Qualitätsmanagement",
+      "authors": [],
+      "printed_page_number": "686",
+      "skip": false
+    },
+    {
+      "title": "Recht",
+      "authors": [],
+      "printed_page_number": "691",
+      "skip": false
+    },
+    {
+      "title": "Grundgesetz",
+      "authors": [],
+      "printed_page_number": "691",
+      "skip": false
+    },
+    {
+      "title": "Strafrecht",
+      "authors": [],
+      "printed_page_number": "691",
+      "skip": false
+    },
+    {
+      "title": "Zivilrecht",
+      "authors": [],
+      "printed_page_number": "693",
+      "skip": false
+    },
+    {
+      "title": "Berufsbezogene Gesetze und Vorschriften",
+      "authors": [],
+      "printed_page_number": "694",
+      "skip": false
+    },
+    {
+      "title": "Arbeitsrecht und Arbeitsschutzrecht",
+      "authors": [],
+      "printed_page_number": "695",
+      "skip": false
+    },
+    {
+      "title": "Gesetze zur Ausbildung",
+      "authors": [],
+      "printed_page_number": "696",
+      "skip": false
+    },
+    {
+      "title": "Ethisches Handeln",
+      "authors": [],
+      "printed_page_number": "697",
+      "skip": false
+    },
+    {
+      "title": "Grundlagen der Ethik",
+      "authors": [],
+      "printed_page_number": "697",
+      "skip": false
+    },
+    {
+      "title": "Ethische und rechtliche Normen",
+      "authors": [],
+      "printed_page_number": "698",
+      "skip": false
+    },
+    {
+      "title": "Pflegeethik",
+      "authors": [],
+      "printed_page_number": "699",
+      "skip": false
+    },
+    {
+      "title": "Ethische Entscheidung",
+      "authors": [],
+      "printed_page_number": "700",
+      "skip": false
+    },
+    {
+      "title": "Ethik in Pflegesituationen",
+      "authors": [],
+      "printed_page_number": "701",
+      "skip": false
+    },
+    {
+      "title": "Ethische Herausforderungen im Gesundheitswesen",
+      "authors": [],
+      "printed_page_number": "702",
+      "skip": false
+    },
+    {
+      "title": "Ethik in der Organisation",
+      "authors": [],
+      "printed_page_number": "702",
+      "skip": false
+    },
+    {
+      "title": "Wissenschaft und Berufsethik",
+      "authors": [],
+      "printed_page_number": null,
+      "skip": true
+    },
+    {
+      "title": "Pflegewissenschaft",
+      "authors": [],
+      "printed_page_number": "705",
+      "skip": false
+    },
+    {
+      "title": "Pflege als Wissenschaft",
+      "authors": [],
+      "printed_page_number": "705",
+      "skip": false
+    },
+    {
+      "title": "Pflegeforschung",
+      "authors": [],
+      "printed_page_number": "705",
+      "skip": false
+    },
+    {
+      "title": "Pflegetheorien und Pflegemodelle",
+      "authors": [],
+      "printed_page_number": "709",
+      "skip": false
+    },
+    {
+      "title": "Pflege als Beruf und Profession",
+      "authors": [],
+      "printed_page_number": "715",
+      "skip": false
+    },
+    {
+      "title": "Geschichte der Pflege",
+      "authors": [],
+      "printed_page_number": "715",
+      "skip": false
+    },
+    {
+      "title": "Verständnis von Pflege und Pflegeberuf",
+      "authors": [],
+      "printed_page_number": "716",
+      "skip": false
+    },
+    {
+      "title": "Pflegerische Aufgaben und Berufsfelder",
+      "authors": [],
+      "printed_page_number": "718",
+      "skip": false
+    },
+    {
+      "title": "Pflegebildung",
+      "authors": [],
+      "printed_page_number": "719",
+      "skip": false
+    },
+    {
+      "title": "Berufspolitik",
+      "authors": [],
+      "printed_page_number": "721",
+      "skip": false
+    },
+    {
+      "title": "Laborwerte",
+      "authors": [],
+      "printed_page_number": "723",
+      "skip": false
+    },
+    {
+      "title": "Register",
+      "authors": [],
+      "printed_page_number": "729",
+      "skip": true
+    }
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

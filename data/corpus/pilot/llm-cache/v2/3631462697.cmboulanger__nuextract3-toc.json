@@ -1,0 +1,457 @@
+{
+  "generated_at": 1787584988.9471612,
+  "duration_seconds": 47.258810582978185,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kunst",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Michel Seuphor, Text, 1992.",
+      "printed_page_number": "8",
+      "source_page_index": -1,
+      "authors": [
+        "Michel Seuphor"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Michel Seuphor, \"Ein Wachstum \u2013 f\u00fcr Lorenz Dittmann\", 1992.",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Michel Seuphor"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Thomas Kaminsky, Ohne Titel, 1990.",
+      "printed_page_number": "10",
+      "source_page_index": -1,
+      "authors": [
+        "Thomas Kaminsky"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Frank Badur, \"UNDERCOVER BLUE oder Rot \u00fcber Blau \u2013 f\u00fcr Lorenz Dittmann\", 1992.",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Frank Badur"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Emil Schumacher, \"Melancholia\", 1989.",
+      "printed_page_number": "12",
+      "source_page_index": -1,
+      "authors": [
+        "Emil Schumacher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Raimund Girke, Ohne Titel, 1991.",
+      "printed_page_number": "13",
+      "source_page_index": -1,
+      "authors": [
+        "Raimund Girke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lukas Kramer, \"Havariert I\", 1993.",
+      "printed_page_number": "14",
+      "source_page_index": -1,
+      "authors": [
+        "Lukas Kramer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Klaus Steinmann, \"Schamane\", 1992.",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Steinmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gerhard Hoehme, Ohne Titel.",
+      "printed_page_number": "16",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard Hoehme"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Paul Schneider, \"K\u00f6rper + Raum \u2013 Licht + Dunkelheit. S\u00e4ulen in Vijayanagar\", 25.1.1993.",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "Paul Schneider"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans Steinhrenner, \"Figur\", 1991.",
+      "printed_page_number": "18",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Steinhrenner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Francesco Marino di Teana, \"Structure Monumentale\".",
+      "printed_page_number": "19",
+      "source_page_index": -1,
+      "authors": [
+        "Francesco Marino di Teana"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Francesco Marino di Teana, \"Structure Architecturale\", 1971.",
+      "printed_page_number": "20",
+      "source_page_index": -1,
+      "authors": [
+        "Francesco Marino di Teana"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Francesco Marino di Teana, \"Libert\u00e9\", 1990.",
+      "printed_page_number": "21",
+      "source_page_index": -1,
+      "authors": [
+        "Francesco Marino di Teana"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Francesco Marino di Teana, \"Hommage \u00e0 la Science\".",
+      "printed_page_number": "23",
+      "source_page_index": -1,
+      "authors": [
+        "Francesco Marino di Teana"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Francesco Marino di Teana, Text.",
+      "printed_page_number": "24",
+      "source_page_index": -1,
+      "authors": [
+        "Francesco Marino di Teana"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wissenschaft",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Dieter J\u00e4hnig, Sprache als \"\u00dcberschu\u00df\". Gedanken Jacob Burckhardts zum Sprach-Charakter der K\u00fcnste.",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [
+        "Dieter J\u00e4hnig"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Werner Braun, Licht und Schatten in der Musik: Aspekte eines Denkbildes (1680-1810).",
+      "printed_page_number": "37",
+      "source_page_index": -1,
+      "authors": [
+        "Werner Braun"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Friedrich Hiller, Ein merkw\u00fcrdiger Kopf von der Saar.",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [
+        "Friedrich Hiller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christa Schwinn, Beobachtungen zu Bildsymmetrie und Goldgrund bei Stefan Lochner.",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Christa Schwinn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sigrid Braunfels, Aspekte der Bewegung. Umrisse von Leonardos Proportions- und Bewegungslehre.",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [
+        "Sigrid Braunfels"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rudolf Kuhn, Figur, Hell-Dunkel und Farbe bei Rubens.",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [
+        "Rudolf Kuhn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erika S. K\u00f6ltzsch, Lebensfreude und Verg\u00e4nglichkeit. Zum Zusammenhang von Bildgestalt und Bildmotiv im holl\u00e4ndischen Stilleben des 17. Jahrhunderts.",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [
+        "Erika S. K\u00f6ltzsch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Frank Werner Veauthier, Von der sichtbaren Best\u00e4tigung der Ph\u00e4nomenologie durch die Malerei.",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [
+        "Frank Werner Veauthier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gottfried Boehm, Orte der Gegenwart. \u00dcber die Zeiterfahrung in der modernen Kunst.",
+      "printed_page_number": "107",
+      "source_page_index": -1,
+      "authors": [
+        "Gottfried Boehm"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anna Maria Kuhn-Wengenmayr, Die Metrisierung in einigen Figurenbildern Edouard Manets und deren k\u00fcnstlerische Herkunft.",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "Anna Maria Kuhn-Wengenmayr"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Norbert Knopp, Picassos Pointillismus.",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [
+        "Norbert Knopp"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Georg W. K\u00f6ltzsch, Expressionismus \u2013 Die Welt ist nicht fest.",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [
+        "Georg W. K\u00f6ltzsch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christa Lichtenstern, Henri Laurens im Gespr\u00e4ch mit Maillol und Matisse.",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [
+        "Christa Lichtenstern"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J.A. Schmoll gen. Eisenwerth, Mathias Goeritz - 1915-1990 - ein internationaler K\u00fcnstler aus Deutschland in Mexiko.",
+      "printed_page_number": "157",
+      "source_page_index": -1,
+      "authors": [
+        "J.A. Schmoll gen. Eisenwerth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Walter Biemel, Friedrich von B\u00f6mches. Bemerkungen zum Schaffen des siebenb\u00fcrgischen K\u00fcnstlers.",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [
+        "Walter Biemel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christian Lenz, Albrecht von Hancke. Die j\u00fcngeren Gem\u00e4lde und Zeichnungen.",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Lenz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Matthias Bunge, Joseph Beuys und Leonardo da Vinci. Vom \"erweiterten Kunstbegriff\" zu einem erweiterten Kunstwissenschaftsbegriff.",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Bunge"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Julian Heynen, Ein Ort zwischen den Grenzen. Skulptur und Sprache bei Richard Deacon, Harald Klingelh\u00f6ller, Franz West.",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [
+        "Julian Heynen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erich Kubach, Santiago und Toulouse im Rahmen der romanischen Emporenhallen S\u00fcdwesteuropas.",
+      "printed_page_number": "217",
+      "source_page_index": -1,
+      "authors": [
+        "Erich Kubach"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Reinhard Liess, Die Fassade des Stra\u00dfburger M\u00fcnsters im Licht.",
+      "printed_page_number": "223",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Liess"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Erich Hubala, Architekturgliederung als Veranschaulichung von Proportionen.",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [
+        "Erich Hubala"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Martin Kubelik, Vicenza: Kontinuit\u00e4t und Wandel in der Architektargeschichte.",
+      "printed_page_number": "269",
+      "source_page_index": -1,
+      "authors": [
+        "Martin Kubelik"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Klaus Schwager, Anl\u00e4\u00dflich eines unbekannten Stichs des R\u00f6mischen 'Il Ges\u00f9' von Valerianus Regnartius.",
+      "printed_page_number": "295",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus Schwager"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wolfgang G\u00f6tz, Betrachtungen zum Bautyp von Schlo\u00df Moritzburg bei Dresden.",
+      "printed_page_number": "313",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang G\u00f6tz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Klaus G\u00fcthlein, Die Sprache der Postmodernen Architektur im Kontext.",
+      "printed_page_number": "327",
+      "source_page_index": -1,
+      "authors": [
+        "Klaus G\u00fcthlein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schriftenverzeichnis Lorenz Dittmann, zusammengestellt von Christoph Wagner.",
+      "printed_page_number": "339",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Tabula Gratulatoria",
+      "printed_page_number": "347",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

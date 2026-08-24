@@ -1,0 +1,649 @@
+{
+  "generated_at": 1787576570.821506,
+  "duration_seconds": 72.42370341700735,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "die horen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zeitschrift f\u00fcr Literatur, Kunst und Kritik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "58. Jahrgang | Ausgabe 252",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Nie gelungen Lied",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Nibelunge N\u00f4t",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zusammengestellt von",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Detlef Goller und Nora Gomringer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "DETFLEF GOLLER | NORA GOMRINGER Nie gelungen Lied.",
+      "printed_page_number": "4",
+      "source_page_index": -1,
+      "authors": [
+        "Detlef Goller",
+        "Nora Gomringer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zu diesem Band Seite 4",
+      "printed_page_number": "4",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Es gab keinen Sieger",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "FELICITAS HOPPE | TILMAN SPRECKELSEN K\u00f6pfe Z\u00e4hlen. Ein Gespr\u00e4ch | Die Nibelungensage (erz\u00e4hlt von den Kindern der Klasse 4a) Seite 7",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Felicitas Hoppe",
+        "Tilman Spreckelsen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "GEORG OSWALD COTT Sightseeing Seite 14",
+      "printed_page_number": "14",
+      "source_page_index": -1,
+      "authors": [
+        "Georg Oswald Cott"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ALBAN NIKOLAI HERBST Spreet\u00f6chter. Ein Nibelungen-Pastiche in Bernhards Alter Meister Manier Seite 15",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [
+        "Alban Nikolai Herbst"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ULRIKE DRAESNER heinobar Seite 25",
+      "printed_page_number": "25",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Draesner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "WENZEL Nie gesungen Lied Seite 26",
+      "printed_page_number": "26",
+      "source_page_index": -1,
+      "authors": [
+        "Wenzel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ALEXANDER GUMZ das nibelungenlied: free download Seite 29",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [
+        "Alexander Gumz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Unsere Halle ist voll von Harm",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "DANIELA DANZ Die Helden Seite 30",
+      "printed_page_number": "30",
+      "source_page_index": -1,
+      "authors": [
+        "Daniela Danz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "SAID odin musste w\u00e4hlen Seite 31",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "SAID"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ULRIKE DRAESNER feld elternlos Seite 32",
+      "printed_page_number": "32",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrike Draesner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HANS THILL Vier Eisen Seite 33",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [
+        "Hans Thill"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PETER BRAUN Hagens Lied. Monolog Seite 35",
+      "printed_page_number": "35",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Braun"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MARIA W\u00dcSTENHAGEN Brunhild Seite 38",
+      "printed_page_number": "38",
+      "source_page_index": -1,
+      "authors": [
+        "Maria W\u00fcstenhagen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "SIGURBJ\u00d6RG THR\u00c1STARD\u00d3TTIR Unsere Halle ist voll von Harm Seite 43",
+      "printed_page_number": "43",
+      "source_page_index": -1,
+      "authors": [
+        "Sigurbj\u00f6rg Thr\u00e1stad\u00f3ttir"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Helden im Bilde",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2xGOLDSTEIN Blut-Piktos Seite 44",
+      "printed_page_number": "44",
+      "source_page_index": -1,
+      "authors": [
+        "2xGoldstein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "NORA GOMRINGER Spot on: S Seite 46",
+      "printed_page_number": "46",
+      "source_page_index": -1,
+      "authors": [
+        "Nora Gomringer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JUDITH KINITZ Ohne Titel Seite 47",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [
+        "Judith Kinitz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "WIEBKE SIEM Szenen aus dem Nibelungenstoff Seite 48",
+      "printed_page_number": "48",
+      "source_page_index": -1,
+      "authors": [
+        "Wiebke Siem"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "KATJA SCHILLER Tattoos Seite 51",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "Katja Schiller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "REIMAR LIMMER Helden I\u2013III Seite 54",
+      "printed_page_number": "54",
+      "source_page_index": -1,
+      "authors": [
+        "Reimar Limmer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Am Ende, mit dem letzten Orchesterton",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "ROLF SCHNEIDER F\u00fcnf Anmerkungen zu Richard Wagners Ring des Nibelungen Seite 57",
+      "printed_page_number": "57",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Schneider"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ULRICH HOLBEIN Ring und Licht \u2013 Wotan und Luzifer Seite 62",
+      "printed_page_number": "62",
+      "source_page_index": -1,
+      "authors": [
+        "Ulrich Holbein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "WOLFGANG SCHL\u00dcTER Endlich: Der Ring auf Originalinstrumenten! Seite 65",
+      "printed_page_number": "65",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Schl\u00fcter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Im \u00dcbrigen, wie Wagner will!",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "ANDREA GRAFETST\u00c4TTER Komischer Heldentod. Siegfried oder die sterbende Trappgans Seite 67",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [
+        "Andrea Grafetst\u00e4tter"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "JAN DREES sam zwei wildiu pantel sie liefen durch den kl\u00e9. Barbarischer Sport und h\u00f6fische Wettk\u00e4mpfe im Spiegel unserer Zeit Seite 76",
+      "printed_page_number": "76",
+      "source_page_index": -1,
+      "authors": [
+        "Jan Drees"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "FITZGERALD KUSZ siechfried Seite 80",
+      "printed_page_number": "80",
+      "source_page_index": -1,
+      "authors": [
+        "Fitzgerald Kusz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "FRANZ HODJAK Kontaktanzeige Seite 80",
+      "printed_page_number": "80",
+      "source_page_index": -1,
+      "authors": [
+        "Franz Hodjak"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MICHAEL WILDENHAIN Siegfried Seite 81",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Wildenhain"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ALBERT GIER \u00bbDer gute Onkel Hagen / Soll ihn nach Tisch erschlagen\u00ab. Die Nibelungen in Parodie und Operette Seite 82",
+      "printed_page_number": "82",
+      "source_page_index": -1,
+      "authors": [
+        "Albert Gier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J\u00d6RG BIRNSTENGEL Was gilt der Begriff uns von Treue | Der Siegfried, so tapfer und grade | Es konnte Kriemhilde den Hagen | Ein Epos berichtet von Mut. Nibelicks Seite 88",
+      "printed_page_number": "88",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg Birnstengel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dem Original wird kein Schaden zugef\u00fcgt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "MARC POMMERENING Der Vers, das Lied, das Land Seite 89",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "Marc Pommerening"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "NINE MIEDEMA Moritz Rinke: Die Nibelungen Seite 92",
+      "printed_page_number": "92",
+      "source_page_index": -1,
+      "authors": [
+        "Nine Miedema"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VOLKER GALL\u00c9 Das Heldenepos und seine offenen T\u00fcren. Kurze Geschichte der Nibelungeninszenierungen in Worms Seite 95",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [
+        "Volker Gall\u00e9"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "SUSANNE SCHUL Nibelungen \u2013 born to die. Im Hier und Heute den alten maeren ganz nah Seite 101",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [
+        "Susanne Schul"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HEIKE GEISSLER \u00bbInsgeheim sind alle m\u00fcde.\u00ab Claudia Binger im Gespr\u00e4ch mit dem Regisseur Nikolas Rufdracht Seite 114",
+      "printed_page_number": "114",
+      "source_page_index": -1,
+      "authors": [
+        "Heike Geissler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ein Niederlagenfried",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "VOLKER GALL\u00c9 das scheitern der frauen Seite 124",
+      "printed_page_number": "124",
+      "source_page_index": -1,
+      "authors": [
+        "Volker Gall\u00e9"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HENNING BO\u00cbTIUS Siegfrieds Dilemma Seite 125",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [
+        "Henning Bo\u00ebtius"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PETER WIECHMANN Warum gerade Ritter? Ein Erkl\u00e4rungsversuch Seite 127",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [
+        "Peter Wiechmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HARALD GR\u00d6HLER Kriemhild, hinten von einem J\u00fcngeren betrachtet Seite 134",
+      "printed_page_number": "134",
+      "source_page_index": -1,
+      "authors": [
+        "Harald Gr\u00f6hler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fackelz\u00fcge oder Every German knows the story",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "SIGURBJ\u00d6RG THR\u00c1STARD\u00d3TTIR Fackelz\u00fcge Seite 139",
+      "printed_page_number": "139",
+      "source_page_index": -1,
+      "authors": [
+        "Sigurbj\u00f6rg Thr\u00e1stad\u00f3ttir"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "INGRID BENNEWITZ Siegfried Unchained, oder: Die gef\u00e4hrliche Brautwerbung des Quentin Tarantino Seite 140",
+      "printed_page_number": "140",
+      "source_page_index": -1,
+      "authors": [
+        "Ingrid Bennewitz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PAUL ALFRED KLEINERT Zur Neugewinnung alter Erz\u00e4hlstoffe. Das Filmszenarium Der Nibelunge Not von Franz F\u00fchmann Seite 145",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [
+        "Paul Alfred Kleinert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "WERNER NELL Siegfried und die \u00bbNebeljungen\u00ab. Einige Nibelungen-Motive im Schatten des Nationalsozialismus Seite 151",
+      "printed_page_number": "151",
+      "source_page_index": -1,
+      "authors": [
+        "Werner Nell"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ich kann nichts daf\u00fcr Seite 111",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "SIGURBJ\u00d6RG THR\u00c1STARD\u00d3TTIR Caf\u00e9 Borges Seite 163",
+      "printed_page_number": "163",
+      "source_page_index": -1,
+      "authors": [
+        "Sigurbj\u00f6rg Thr\u00e1stad\u00f3ttir"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "MARKUS ORTHS Das K\u00fcnftige Seite 164",
+      "printed_page_number": "164",
+      "source_page_index": -1,
+      "authors": [
+        "Markus Orths"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "GONDE DITTMER \u00dcbernahmen Seite 168",
+      "printed_page_number": "168",
+      "source_page_index": -1,
+      "authors": [
+        "Gonde Dittmer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HEIKO MICHAEL HARTMANN Die Christianisierung des Abendlandes Seite 176",
+      "printed_page_number": "176",
+      "source_page_index": -1,
+      "authors": [
+        "Heiko Michael Hartmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HARALD GRILL am ende der geschichte. \u00fcber eine brautreise vom rhein zur donau bis ungarn Seite 179",
+      "printed_page_number": "179",
+      "source_page_index": -1,
+      "authors": [
+        "Harald Grill"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Autoren, K\u00fcnstler & \u00dcbersetzer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Seite 183",
+      "printed_page_number": "183",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

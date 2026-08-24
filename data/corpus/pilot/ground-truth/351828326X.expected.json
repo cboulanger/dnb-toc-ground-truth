@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {"title": "Inhalt", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Vorwort", "authors": [], "printed_page_number": "7", "skip": true},
+    {"title": "Das Neue an der Frauenbewegung. Versuch einer Wirkungsanalyse der neuen Frauenbewegung", "authors": ["Barbara Riedmüller"], "printed_page_number": "15", "skip": false},
+    {"title": "I. WISSENSCHAFT", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Frauenrolle und Rollenanalyse", "authors": ["Uta Gerhardt"], "printed_page_number": "45", "skip": false},
+    {"title": "Männliche Moral – weibliche Moral?", "authors": ["Rainer Döbert"], "printed_page_number": "81", "skip": false},
+    {"title": "Mütterliche Erwerbstätigkeit und wissenschaftliche Forschung", "authors": ["Yvonne Schütze"], "printed_page_number": "114", "skip": false},
+    {"title": "II. RECHT", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Thesen zur rechtlichen Stellung der Frau", "authors": ["Barbara Willenbacher"], "printed_page_number": "141", "skip": false},
+    {"title": "Gleichberechtigung via Rechtsnorm? Zur Frage eines Antidiskriminierungsgesetzes in der Bundesrepublik", "authors": ["Christine Hohmann-Dennhardt"], "printed_page_number": "166", "skip": false},
+    {"title": "Der Fötus als Subjekt und die Autonomie der Frau. Wissenschaftlich-technische Optionen und soziale Kontrollen in der Schwangerschaft", "authors": ["Wolfgang van den Daele"], "printed_page_number": "189", "skip": false},
+    {"title": "III. FAMILIE UND ARBEITSMARKT", "authors": [], "printed_page_number": null, "skip": true},
+    {"title": "Weibliche Erwerbstätigkeit und Kinderzahl", "authors": ["Hans-Joachim Hoffmann-Nowotny"], "printed_page_number": "219", "skip": false},
+    {"title": "Von der Hausfrau zur Berufsfrau? Der Einfluß struktureller Wandlungen des Frauseins auf familiales Zusammenleben", "authors": ["Hans Bertram", "Renate Borrmann-Müller"], "printed_page_number": "251", "skip": false},
+    {"title": "»Man marschiert als Frau auf Neuland« – Über den schwierigen Weg der Frauen in die Wissenschaft", "authors": ["Angelika Wetterer"], "printed_page_number": "273", "skip": false},
+    {"title": "Hinweise zu den Autorinnen und Autoren", "authors": [], "printed_page_number": "292", "skip": true}
+  ],
+  "verified": true,
+  "source": "agent_arbitration"
+}

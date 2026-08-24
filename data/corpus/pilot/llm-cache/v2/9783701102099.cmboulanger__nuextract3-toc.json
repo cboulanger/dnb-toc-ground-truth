@@ -1,0 +1,318 @@
+{
+  "generated_at": 1787584126.013483,
+  "duration_seconds": 13.906686000002082,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Stefan Karner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zur Einleitung",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfram Dornik"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1. Osteuropa zwischen Krieg und Revolution 1914\u201322",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "1.a Zeit der Wirren: Revolution\u00e4re Umw\u00e4lzungen und bewaffnete Auseinandersetzungen im ehemaligen Zarenreich 1917\u201322",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [
+        "Hannes Leidinge"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.b Der Krieg in Osteuropa 1914\u201319",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfram Dornik"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "1.c Die Ukrainepolitik der Mittelm\u00e4chte w\u00e4hrend des Ersten Weltkrieges",
+      "printed_page_number": "91",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfram Dornik",
+        "Peter Lieb"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2. Die ukrainischen \u201eStaatsbildungsversuche\u201c zwischen Selbstst\u00e4ndigkeit und Fremdherrschaft",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "2.a Die Ukraine zwischen Revolution, Selbstst\u00e4ndigkeit und Fremdherrschaft",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [
+        "Georgiy Kasianov"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2.b Die Westukrainische Volksrepublik von 1918/19",
+      "printed_page_number": "181",
+      "source_page_index": -1,
+      "authors": [
+        "Vasyl' Rasevy\u010d"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3. Das Deutsche Reich und \u00d6sterreich-Ungarn als Besatzer der Ukraine 1918",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "3.a Die milit\u00e4rischen Operationen",
+      "printed_page_number": "203",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfram Dornik",
+        "Peter Lieb"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.b Die Besatzungsverwaltung",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfram Dornik",
+        "Peter Lieb"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.c Die wirtschaftliche Ausnutzung",
+      "printed_page_number": "281",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfram Dornik",
+        "Peter Lieb"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "3.d Die Sicht von innen \u2013 Besatzungsalltag",
+      "printed_page_number": "325",
+      "source_page_index": -1,
+      "authors": [
+        "Vasyl' Rasevy\u010d"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4. Die Ukraine in den internationalen Beziehungen um 1918",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "4.a Die Ukrainepolitik Russlands bis 1917",
+      "printed_page_number": "345",
+      "source_page_index": -1,
+      "authors": [
+        "Alexey Miller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.b Die Ukrainepolitik des bolschewikischen Russlands, 1917\u201322",
+      "printed_page_number": "367",
+      "source_page_index": -1,
+      "authors": [
+        "Bogdan Musial"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.c Die Ukrainepolitik Frankreichs 1917\u201324",
+      "printed_page_number": "391",
+      "source_page_index": -1,
+      "authors": [
+        "Hannes Leidinge"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.d Die Ukrainepolitik des Vereinigten K\u00f6nigreiches von Gro\u00dfbritannien und Irland 1914\u201320",
+      "printed_page_number": "413",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfram Dornik"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.e Die Ukrainepolitik der Vereinigten Staaten von Amerika 1914\u201319",
+      "printed_page_number": "431",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfram Dornik"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.f Die Ukrainepolitik Polens von 1918\u201322",
+      "printed_page_number": "449",
+      "source_page_index": -1,
+      "authors": [
+        "Bogdan Musial"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4.g Exkurs: Die Ukrainepolitik der Schweiz 1918",
+      "printed_page_number": "465",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfram Dornik",
+        "Peter Lieb"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schluss",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ausblick: Die Besatzungsverwaltungen 1918 und 1941/44 im Vergleich",
+      "printed_page_number": "477",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfram Dornik",
+        "Georgiy Kasianov",
+        "Peter Lieb"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Schlussbetrachtungen",
+      "printed_page_number": "489",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfram Dornik"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anhang",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Abk\u00fcrzungsverzeichnis",
+      "printed_page_number": "499",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Abbildungsverzeichnis",
+      "printed_page_number": "505",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Quellenverzeichnis",
+      "printed_page_number": "507",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "printed_page_number": "515",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ortsregister",
+      "printed_page_number": "537",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Personenregister",
+      "printed_page_number": "539",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "printed_page_number": "543",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

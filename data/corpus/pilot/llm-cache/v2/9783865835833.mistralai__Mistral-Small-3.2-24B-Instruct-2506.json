@@ -1,0 +1,341 @@
+{
+  "generated_at": 1787583673.170447,
+  "duration_seconds": 35.99264970800141,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorbemerkungen",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bert Pampel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Bert Pampel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gedenkst\u00e4tten als \u201eau\u00dferschulische Lernorte\u201c. Theoretische Aspekte \u2013 empirische Befunde \u2013 praktische Herausforderungen",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Bert Pampel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ines Garnitschnig/Nora Sternfeld",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ines Garnitschnig",
+        "Nora Sternfeld"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Forschung als Prozess. \u00dcberlegungen zu transnationaler Geschichtsvermittlung mit Sch\u00fclerInnen in der postnazistischen Migrationsgesellschaft",
+      "printed_page_number": "59",
+      "source_page_index": -1,
+      "authors": [
+        "Ines Garnitschnig",
+        "Nora Sternfeld"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gedenkst\u00e4tten",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kerstin Dietzel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Kerstin Dietzel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eMan denkt schon dar\u00fcber nach, wie schrecklich es damals gewesen sein muss und w\u00fcnscht sich diese Zeit niemals zur\u00fcck.\u201c Ergebnisse einer Sch\u00fclerbefragung in der Gedenkst\u00e4tte Moritzplatz Magdeburg",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [
+        "Kerstin Dietzel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Annette Eberle",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Annette Eberle"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eIch fand es schrecklich, weil es sind Menschen so wie wir.\u201c Eine Befragung \u00fcber \u201eF\u00fchlen\u201c und \u201eDenken\u201c bei einem Besuch der KZ-Gedenkst\u00e4tte Dachau",
+      "printed_page_number": "97",
+      "source_page_index": -1,
+      "authors": [
+        "Annette Eberle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Alexandra Marx/Michael Sauer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Alexandra Marx",
+        "Michael Sauer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Lerneffekte von Gedenkst\u00e4ttenbesuchen im Kontext des Geschichtsunterrichts. Eine quantitative Studie am Beispiel der KZ-Gedenkst\u00e4tten Buchenwald und Moringen",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [
+        "Alexandra Marx",
+        "Michael Sauer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kathi Bromberger/Matthias Rosendahl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Kathi Bromberger",
+        "Matthias Rosendahl"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Gedenkst\u00e4tte Bautzen als au\u00dferschulischer Lernort. Ergebnisse einer empirischen Studie zu Schulklassenbesuchen",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [
+        "Kathi Bromberger",
+        "Matthias Rosendahl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Meik Z\u00fclsdorf-Kersting",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Meik Z\u00fclsdorf-Kersting"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Historisches Lernen in der Gedenkst\u00e4tte. Zur Stabilit\u00e4t vorgefertigter Geschichtsbilder",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [
+        "Meik Z\u00fclsdorf-Kersting"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Katarzyna Stec",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Katarzyna Stec"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Symbolik und Bedeutung der Gedenkst\u00e4tte Auschwitz-Birkenau aus der Perspektive jugendlicher polnischer Besucher",
+      "printed_page_number": "193",
+      "source_page_index": -1,
+      "authors": [
+        "Katarzyna Stec"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Isabella Girstmair/Andreas Baumgartner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Isabella Girstmair",
+        "Andreas Baumgartner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zwischen Betroffenheit und Schaulust. Konzeption und erste Ergebnisse einer BesucherInnen-Studie an der KZ-Gedenkst\u00e4tte Mauthausen im Hinblick auf Sch\u00fclerInnen",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [
+        "Isabella Girstmair",
+        "Andreas Baumgartner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Alexander Pollak",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Alexander Pollak"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Verkn\u00fcpfung von historischem Wissen und Reflexion \u00fcber Menschenrechte \u2013 Herausforderung f\u00fcr Gedenkst\u00e4tten und Schulen. Eine empirische Studie der EU-Grundrechteagentur (FRA)",
+      "printed_page_number": "237",
+      "source_page_index": -1,
+      "authors": [
+        "Alexander Pollak"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Marion Klein",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Marion Klein"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das Denkmal f\u00fcr die ermordeten Juden Europas in Berlin: Strategien der (Nicht-)Authentisierung von Sch\u00fclerinnen und Sch\u00fclern",
+      "printed_page_number": "255",
+      "source_page_index": -1,
+      "authors": [
+        "Marion Klein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zeitgeschichtliche Ausstellungen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Volker Sch\u00f6nert/Susanne Weckwerth",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Volker Sch\u00f6nert",
+        "Susanne Weckwerth"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Emotionale \u00dcberw\u00e4ltigung durch Inszenierung? Ergebnisse einer Sch\u00fclerbefragung am Deutschen Hygiene-Museum Dresden in der Ausstellung \u201eT\u00f6dliche Medizin. Rassenwahn im Nationalsozialismus\u201c",
+      "printed_page_number": "283",
+      "source_page_index": -1,
+      "authors": [
+        "Volker Sch\u00f6nert",
+        "Susanne Weckwerth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Martina Christmeier",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Martina Christmeier"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wahrnehmung eines authentischen Ortes. Jugendliche Besucher im Dokumentationszentrum Reichsparteitagsgel\u00e4nde N\u00fcrnberg",
+      "printed_page_number": "307",
+      "source_page_index": -1,
+      "authors": [
+        "Martina Christmeier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Julia Franz/Patrick Siegele/Nicole Warmbold",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Julia Franz",
+        "Patrick Siegele",
+        "Nicole Warmbold"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Lebensweltorienticrungen in der historisch-politischen Jugendbildungsarbeit. Evaluation und Weiterentwicklung der p\u00e4dagogischen Arbeit in der Ausstellung \u201eAnne Frank. hier & heute\u201c",
+      "printed_page_number": "329",
+      "source_page_index": -1,
+      "authors": [
+        "Julia Franz",
+        "Patrick Siegele",
+        "Nicole Warmbold"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Bibliografische Informationen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}
