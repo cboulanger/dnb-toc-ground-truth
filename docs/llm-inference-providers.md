@@ -85,6 +85,53 @@ first spawn of a given model can take up to an hour if the weights
 aren't cached yet; respawning the *same* model afterward (even a fresh
 session/job) took as little as ~5 minutes.
 
+## A session's reliability can crater mid-run, and lowering client concurrency does not fix it
+
+Observed 2026-08-23/24 backfilling `numind/NuExtract3` and
+`mistralai/Mistral-Small-3.2-24B-Instruct-2506` readings onto ~300+
+already-ground-truthed books each (`cli/generate_ground_truth.py`'s
+`--keys-file` backfill mode, see `AGENTS.md`) -- both sessions started
+healthy and got noticeably less reliable over the following hours, but
+in two different shapes worth telling apart:
+
+- **`Mistral-Small-3.2-24B-Instruct-2506`'s failure rate was not a
+  fixed set of hard books -- it was the session itself.** Four
+  successive passes over the same shrinking leftover pool, at
+  `--concurrency` 4, 4, 2, then serial 1, gave real-attempt success
+  rates of **97.6% (83/85), 18.4% (41/223), 31.3% (57/182), 16.0%
+  (20/125)** -- almost every failure past the first pass was
+  `_call_with_retry`'s 450s hard wall-clock timeout, not a request
+  error. If specific books were simply hard, success should climb
+  monotonically as the pool shrinks to just the easy remainder; instead
+  round 3 (31.3%) beat round 2 (18.4%) on a strictly harder residual
+  pool, and cutting concurrency all the way to 1 (round 4) didn't
+  recover round-1 reliability either. That non-monotonic, concurrency-
+  insensitive pattern points at the vLLM server itself having entered a
+  degraded state early in the session (a wedged worker or fragmented
+  KV cache from continuous batching over many large multi-image
+  requests is the likely mechanism, though not confirmed against
+  server-side logs) rather than at any particular book. **Direct probe
+  requests bypassing the CLI's retry logic still succeeded fine during
+  the degraded period** (a trivial text-only completion in ~9s, a real
+  6-page vision request with the production prompt and
+  `max_tokens=4096` in ~41s) -- so the session wasn't fully dead, just
+  unreliable at the concurrency/request pattern the real batch used.
+  No client-side fix was found; the practical takeaway is to budget for
+  a full session respawn via the dashboard if a long batch's success
+  rate craters partway through, rather than trusting a concurrency
+  knob or more retries to recover it.
+- **`numind/NuExtract3`'s decline, by contrast, tracked genuinely hard
+  books.** Three passes (concurrency 4, 2, then serial 1) gave
+  monotonically *dropping* success as the pool shrank to its hardest
+  residual: 76.5% (189/247), 51.7% (30/58), 10.7% (3/28) -- consistent
+  with a fixed subset of books the model can't reliably read regardless
+  of load, not a session-health signal. The 25 books that still failed
+  after all three passes (mostly the same 450s timeout, some
+  `InternalServerError`) were recorded via `cli/skip_list.py` rather
+  than chased further -- see AGENTS.md step 6 and this repo's existing
+  10 pre-2026-08-24 `NuExtract3` skip-list entries for the same pattern
+  on other books.
+
 ## Spawn-form fields that matter
 
 - **Machine**: `Viper` for the AMD MI300A path (this is what all the
