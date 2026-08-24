@@ -1,0 +1,231 @@
+{
+  "generated_at": 1787521998.485354,
+  "duration_seconds": 28.457826792029664,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "INHALT",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Prof. Dr. Dieter Ruloff",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Prof. Dr. Dieter Ruloff"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Universit\u00e4t Z\u00fcrich und Delegierter des Schweizerischen Instituts f\u00fcr Auslandforschung",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einleitung: Markt, Wissenschaft und Technologie als Triebkr\u00e4fte der Globalgesellschaft",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Prof. Dr. J\u00fcrgen Mittelstrass",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Prof. Dr. J\u00fcrgen Mittelstrass"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zentrum Philosophie und Wissenschaftstheorie der Universit\u00e4t Konstanz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zwischen Prometheus und Kassandra Licht und Dunkel in der Welt des technischen Verstandes",
+      "printed_page_number": "23",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Prof. Dr. Lawrence David Freedman",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Prof. Dr. Lawrence David Freedman"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Department of War Studies, King's College, London",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "War and Society in the Information Age",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Prof. Dr. Gert Lorenz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Prof. Dr. Gert Lorenz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Universit\u00e4t M\u00fcnchen, Lehrstuhl f\u00fcr Integrierte Schaltungen (LIS); Vorstandsmitglied der Philips AG a.d.",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Innovation, Substitution und Globalisierung Mikroelektronik: Basisinnovation des 20. Jahrhunderts",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dr. Martin Bangemann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Dr. Martin Bangemann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Mitglied der Europ\u00e4ischen Kommission (1989\u20131999)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Globalisierung: Zusammenarbeit zwischen dem privaten und \u00f6ffentlichen Sektor zur Politikentwicklung",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "The Rt. Hon. The Lord Dearing CB",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "The Rt. Hon. The Lord Dearing CB"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Chairman, National Committee of Inquiry into Higher Education, London",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Education in Times of Rapid Social and Technological Change",
+      "printed_page_number": "101",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Prof. Dr. Ing. Ulrich Seiffert",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Prof. Dr. Ing. Ulrich Seiffert"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Technische Universit\u00e4t Braunschweig und WiTech Engineering GmbH, ehem. Vorstandsmitglied f\u00fcr Forschung und Entwicklung der Volkswagen AG, Wolfsburg",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Ingenieur im Spannungsfeld von unternehmerischen, technologischen und gesellschaftlichen Anforderungen",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dr. Horst Teltschik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Dr. Horst Teltschik"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Mitglied des Vorstandes, Bayerische Motorenwerke AG (BMW), M\u00fcnchen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "M\u00f6glichkeiten und Grenzen von Mobilit\u00e4t",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

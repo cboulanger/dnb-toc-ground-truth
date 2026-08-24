@@ -1,0 +1,96 @@
+{
+  "generated_at": 1787527417.7351522,
+  "duration_seconds": 11.594313625013456,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gru\u00dfwort",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [
+        "Theophil Gallo"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u201eFreudenklang hat unser Ohr vernommen\u201c",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Zur Sammlung der \u201eHambacher Festges\u00e4nge\u201c",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Reiner Marx"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u201eWenn V\u00f6lker sich mit Macht erheben\u201c",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Hambacher Lieder im Wortlaut",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Namen, Nuancen und Notizen",
+      "printed_page_number": "208",
+      "source_page_index": -1,
+      "authors": [
+        "Reiner Marx",
+        "Martin Baus"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anmerkungen zu den Hambacher Liedern",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "\u201eDeutschland\u201c, \u201eNation\u201c und \u201ePatriotismus\u201c \u2013",
+      "printed_page_number": "223",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Was ist eigentlich des Deutschen Vaterland? \u2013 Hambacher L\u00f6sungen und ihre Evolution",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Martin Baus"
+      ],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

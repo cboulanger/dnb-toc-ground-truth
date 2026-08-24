@@ -1,0 +1,81 @@
+{
+  "generated_at": 1787521554.889229,
+  "duration_seconds": 4.511792875127867,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einf\u00fchrung",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Philippe Fritsch"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Pierre Bourdieu im Gespr\u00e4ch mit Philippe Fritsch",
+      "printed_page_number": "29",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Das politische Feld",
+      "printed_page_number": "41",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die politische Repr\u00e4sentation",
+      "printed_page_number": "67",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Formen politischen Handelns und Existenzweisen von Gruppen",
+      "printed_page_number": "115",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kurze Bemerkung \u00fcber die Antinomie des kollektiven Protests",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sozialer Raum und politisches Feld",
+      "printed_page_number": "127",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Politische Monopolisierung und symbolische Revolutionen",
+      "printed_page_number": "133",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

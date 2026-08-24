@@ -59,6 +59,156 @@
       "model": "numind/NuExtract3",
       "reason": "non-terminating/malformed generation even serially at concurrency=1 (deeply-nested TOC w/ heavy repetition); frequency_penalty 0.1-0.3 tested as a fix, unreliable and regresses other books -- retry once guided/structured JSON decoding is available",
       "skipped_at": "2026-08-23"
+    },
+    {
+      "key": "9780128201244",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9783422802933",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9783456860831",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9783579081878",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9783700138204",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9783796542305",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9783811464261",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9783816927884",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9783832261801",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9783835330078",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9783835332782",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9783884145937",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9783885590897",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9783890863603",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9783890864273",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9783940543042",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9783958537415",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9783966052252",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9783966650816",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9788491925439",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "9789185142705",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "990003849240206441",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "990173480400206441",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "990191360280206441",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
+    },
+    {
+      "key": "99376110497706441",
+      "model": "numind/NuExtract3",
+      "reason": "consistently non-terminating or 500/timeout-erroring across 3 independent attempts (concurrency 4, 2, then serial 1) during the 2026-08-23/24 NuExtract3 backfill batch, while other cached models read the same book fine -- retry once guided/structured JSON decoding is available (see AGENTS.md)",
+      "skipped_at": "2026-08-24"
     }
   ]
 }

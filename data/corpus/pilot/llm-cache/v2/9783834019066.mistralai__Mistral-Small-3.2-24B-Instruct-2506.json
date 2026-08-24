@@ -1,0 +1,489 @@
+{
+  "generated_at": 1787537498.192391,
+  "duration_seconds": 22.933120207861066,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Michael Schratz / Hans Anand Pant",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Michael Schratz",
+        "Hans Anand Pant"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Schratz",
+        "Hans Anand Pant"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Markus Wilhelm / Markus Rehm / Volker Reinhardt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Markus Wilhelm",
+        "Markus Rehm",
+        "Volker Reinhardt"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Qualit\u00e4tsvoller Fachunterricht",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Markus Wilhelm",
+        "Markus Rehm",
+        "Volker Reinhardt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Markus Vogel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Markus Vogel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wirksamer Mathematikunterricht \u2013 Eine Einf\u00fchrung",
+      "printed_page_number": "19",
+      "source_page_index": -1,
+      "authors": [
+        "Markus Vogel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Andreas Eichler",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Eichler"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Mit gut strukturierten didaktischen Suchr\u00e4umen zur wirksamen Praxis",
+      "printed_page_number": "27",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Eichler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christian Fahse",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Christian Fahse"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Immer Neues ist unn\u00f6tig \u2013 Moderner Unterricht hat Tradition",
+      "printed_page_number": "35",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Fahse"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Michael Felten",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Michael Felten"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zutrauen, zuwenden, zumuten \u2013 In Mathe geht\u2019s um mehr als Zahlen",
+      "printed_page_number": "45",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Felten"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Henning K\u00f6rner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Henning K\u00f6rner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Mathematik produktiv unterrichten \u2013 Was braucht man? Wie geht das?",
+      "printed_page_number": "54",
+      "source_page_index": -1,
+      "authors": [
+        "Henning K\u00f6rner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anselm Lambert",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Anselm Lambert"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Lehrperson muss die Sache verstehen und die Kinder ernst nehmen",
+      "printed_page_number": "66",
+      "source_page_index": -1,
+      "authors": [
+        "Anselm Lambert"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Katja Lengnink",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Katja Lengnink"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Mathematikunterricht ist wirksam, wenn er ein belastbares Verh\u00e4ltnis von Mathematik und Mensch erreicht!",
+      "printed_page_number": "77",
+      "source_page_index": -1,
+      "authors": [
+        "Katja Lengnink"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Timo Leuders",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Timo Leuders"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Guter Mathematikunterricht \u2013 Zwischen Evidenz-basierter Wirksamkeit und komplexer Praxis",
+      "printed_page_number": "87",
+      "source_page_index": -1,
+      "authors": [
+        "Timo Leuders"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anke Lindmeier",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Anke Lindmeier"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gibt es den \u201efertigen Lehrer\u201c? \u2013 Warum durch wirksamen Mathematikunterricht nicht nur die Sch\u00fclerinnen und Sch\u00fcler lernen sollten",
+      "printed_page_number": "100",
+      "source_page_index": -1,
+      "authors": [
+        "Anke Lindmeier"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J\u00f6rg Meyer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg Meyer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wirksamer Mathematikunterricht aus der Sicht eines Fachleiters",
+      "printed_page_number": "112",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00f6rg Meyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Renate Motzer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Renate Motzer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Mathematische Zusammenh\u00e4nge m\u00fcssen bewusst gemacht werden und erfahrbar",
+      "printed_page_number": "120",
+      "source_page_index": -1,
+      "authors": [
+        "Renate Motzer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Andreas Pallack",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Pallack"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Von der Passion zur Profession: Mathematik lehren",
+      "printed_page_number": "131",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Pallack"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Guido Pinkernell",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Guido Pinkernell"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Mathematik im Schulunterricht",
+      "printed_page_number": "140",
+      "source_page_index": -1,
+      "authors": [
+        "Guido Pinkernell"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Susanne Prediger",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Susanne Prediger"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Verstehensorientiert und differenziert \u2013 Von der Bedeutung, Lernziele zu spezifizieren",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [
+        "Susanne Prediger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Andreas Pr\u00f6mmel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Pr\u00f6mmel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Mathematikunterricht neu denken",
+      "printed_page_number": "158",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Pr\u00f6mmel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Matthias R\u00f6mer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Matthias R\u00f6mer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Immer wieder von vorne anfangen",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias R\u00f6mer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J\u00fcrgen Roth",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Roth"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wirksamer Mathematikunterricht \u2013 Ausrichtung an Kernideen der mathematischen Inhalte und den Lernenden",
+      "printed_page_number": "182",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Roth"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Reinhard Schmidt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Schmidt"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Emanzipation f\u00f6rdern im und durch Mathematikunterricht",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [
+        "Reinhard Schmidt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ute Sproesser",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ute Sproesser"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sch\u00fclerinnen und Sch\u00fcler im Mathematikunterricht aktivieren \u2013 Kleine Ma\u00dfnahmen k\u00f6nnen helfen!",
+      "printed_page_number": "199",
+      "source_page_index": -1,
+      "authors": [
+        "Ute Sproesser"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Maike Vollstedt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Maike Vollstedt"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Sch\u00fclerinnen und Sch\u00fcler im Blick zur Erm\u00f6glichung von sinnhaften Lernprozessen",
+      "printed_page_number": "209",
+      "source_page_index": -1,
+      "authors": [
+        "Maike Vollstedt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Markus Vogel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Markus Vogel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wirksamer Mathematikunterricht \u2013 Ein Fazit",
+      "printed_page_number": "220",
+      "source_page_index": -1,
+      "authors": [
+        "Markus Vogel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Die Reihenherausgeber",
+      "printed_page_number": "239",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

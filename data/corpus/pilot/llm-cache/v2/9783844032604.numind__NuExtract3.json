@@ -1,0 +1,258 @@
+{
+  "generated_at": 1787523506.546745,
+  "duration_seconds": 35.663499207934365,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "DIETRICH KURZ Vorwort",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "DIETRICH KURZ"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "I Deutungen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "ECKART BALZ Zur Genese differenzanalytischer Forschung in der Sportp\u00e4dagogik",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [
+        "ECKART BALZ"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "HEINZ ASCHEBROCK & G\u00dcNTER STIBBE Anspruchsvolle Schulsportentwicklung",
+      "printed_page_number": "21",
+      "source_page_index": -1,
+      "authors": [
+        "HEINZ ASCHEBROCK",
+        "G\u00dcNTER STIBBE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "INGRID B\u00c4HR & RALF SYGUSCH Sportp\u00e4dagogische Programmevaluation \u2013 Orientierungspunkte zwischen Anspruch und Wirklichkeit",
+      "printed_page_number": "37",
+      "source_page_index": -1,
+      "authors": [
+        "INGRID B\u00c4HR",
+        "RALF SYGUSCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PETER NEUMANN Zur Charakteristik des differenzanalytischen Forschungsansatzes",
+      "printed_page_number": "51",
+      "source_page_index": -1,
+      "authors": [
+        "PETER NEUMANN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II Differenzstudien (a)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "TIM BINDEL Von der Bewegten Schule zum Bewegten Ganztag",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "TIM BINDEL"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VALERIE KASTRUP Sportlehrkr\u00e4fte zwischen Anspruch und Wirklichkeit",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [
+        "VALERIE KASTRUP"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "DETLEF KUHLMANN Differenzstudien zum Schulsport als Re-Analysen",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "DETLEF KUHLMANN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ANNE-CHRISTIN ROTH Studien zur Kompetenzorientierung im Grundschulsport",
+      "printed_page_number": "98",
+      "source_page_index": -1,
+      "authors": [
+        "ANNE-CHRISTIN ROTH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III Differenzstudien (b)",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "JULIA HAPKE & RALF SYGUSCH P\u00e4dagogische Perspektiven differenzanalytisch betrachtet",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [
+        "JULIA HAPKE",
+        "RALF SYGUSCH"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Forum Sportp\u00e4dagogik, Bd. 6 \u00a9",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bibliografische Informationen http://d-nb.info/1062806441",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "ANETTE B\u00d6TTCHER \u201eEtwas wagen und verantworten\u201c \u2013 eine empirische Pr\u00fcfung",
+      "printed_page_number": "123",
+      "source_page_index": -1,
+      "authors": [
+        "ANETTE B\u00d6TTCHER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ROLF SCHWARZ Einsteigen in den Sportunterricht \u2013 didaktische Anspr\u00fcche, empirische Daten, epistemologische Differenzen",
+      "printed_page_number": "135",
+      "source_page_index": -1,
+      "authors": [
+        "ROLF SCHWARZ"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J\u00dcRGEN KITTSTEINER Individualisierung im Volleyballunterricht \u2013 Differenzen zwischen fachdidaktischen Anspr\u00fcchen und unterrichtspraktischer Wirklichkeit",
+      "printed_page_number": "147",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00dcRGEN KITTSTEINER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VALERIE PFISTER Mindeststandards im Sportunterricht der Grundschule zwischen Anspruch und Wirklichkeit",
+      "printed_page_number": "160",
+      "source_page_index": -1,
+      "authors": [
+        "VALERIE PFISTER"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IV Denkanst\u00f6\u00dfe",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "ESTHER SERWE-PANDRICK & J\u00d6RG THIELE \u201eReflektierte Praxis\u201c im Sportunterricht der Sekundarstufe I und II \u2013 Fachdidaktische Positionen und lehrpraktische Perspektiven",
+      "printed_page_number": "173",
+      "source_page_index": -1,
+      "authors": [
+        "ESTHER SERWE-PANDRICK",
+        "J\u00d6RG THIELE"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "ECKART BALZ Befindlichkeitsver\u00e4nderungen im Sportunterricht \u2013 eine L\u00e4ngsschnittstudie",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [
+        "ECKART BALZ"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PETER NEUMANN Hinweise zur Planung und Durchf\u00fchrung von Differenzstudien",
+      "printed_page_number": "194",
+      "source_page_index": -1,
+      "authors": [
+        "PETER NEUMANN"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VANESSA KRAFFT Umgang mit \u201eBankdr\u00fcckern\u201c im Sportunterricht \u2013 eine Differenzstudie",
+      "printed_page_number": "207",
+      "source_page_index": -1,
+      "authors": [
+        "VANESSA KRAFFT"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PETER NEUMANN & ECKART BALZ \u201eMehr als Anspruch und Wirklichkeit\u201c \u2013 Ein Interview der Herausgeber mit J\u00f6rg Thiele",
+      "printed_page_number": "216",
+      "source_page_index": -1,
+      "authors": [
+        "PETER NEUMANN",
+        "ECKART BALZ"
+      ],
+      "printed_roman": false,
+      "skip": false
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "generated_at": 1787525528.219137,
+  "duration_seconds": 36.92378087504767,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Siglen",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einleitung",
+      "printed_page_number": "9",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "I. Quellen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Andrea Lindmayr-Brandl: \u00bbTeutsche Liedlein\u00ab im fr\u00fchen Notendruck. Ein neuer Blick",
+      "printed_page_number": "19",
+      "source_page_index": -1,
+      "authors": [
+        "Andrea Lindmayr-Brandl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sven Limbeck: \u00bbTeutsche Liedlein\u00ab in Wolfenb\u00fcttel. Ein bestandsgeschichtlicher Blick auf die Quellen der Herzog August Bibliothek",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Sven Limbeck"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Nicole Schwindt: Das Ende vom Lied. Dreier in Liedern des fr\u00fchen 16. Jahrhunderts",
+      "printed_page_number": "53",
+      "source_page_index": -1,
+      "authors": [
+        "Nicole Schwindt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sonja Tr\u00f6ster: Volkslied ade. Zu einer neuen Klassifikation des Cantus firmus-Liedes im 16. Jahrhundert",
+      "printed_page_number": "81",
+      "source_page_index": -1,
+      "authors": [
+        "Sonja Tr\u00f6ster"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Armin Brinzing: \u00bbIn der Composition Don vincela mit 4. stimmen zusingen\u00ab. Chanson und Lied in der musikalischen Praxis des 16. Jahrhunderts",
+      "printed_page_number": "99",
+      "source_page_index": -1,
+      "authors": [
+        "Armin Brinzing"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. Fallstudien zu einzelnen Liederb\u00fcchern und Komponisten",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Elisabeth Giselbrecht: Manuscript and print combined. Re-discovered manuscript additions in the Krak\u00f3w copy of Peter Sch\u00f6ffer\u2019s third songbook (1536)",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "Elisabeth Giselbrecht"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Grantley McDonald: Leonhard Paminger\u2019s Liederbuch",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "Grantley McDonald"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Birgit Lodes: Liederliche M\u00e4nner, b\u00f6se Frauen und gute Ehen. Zu Orlando di Lassos Lied Mein Frau Hilgart",
+      "printed_page_number": "157",
+      "source_page_index": -1,
+      "authors": [
+        "Birgit Lodes"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fr\u00e9d\u00e9rique Renno: Giovanni Battista Pinello de Ghirardi und seine deutsche Liedsammlung Nawe kurtzweilige deutsche Lieder (1584). Ein Beispiel f\u00fcr italienisch-deutsche Liedkunst im ausgehenden 16. Jahrhundert",
+      "printed_page_number": "201",
+      "source_page_index": -1,
+      "authors": [
+        "Fr\u00e9d\u00e9rique Renno"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Susan Lewis Hammond: Valentin Haussmann as Poet, Composer, and Translator. \u00bbTeutsche Lieder\u00ab (1592\u20131597)",
+      "printed_page_number": "233",
+      "source_page_index": -1,
+      "authors": [
+        "Susan Lewis Hammond"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. Rezeptions\u00e4sthetische Aspekte",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Izabela Bogdan: The secular Tenorlied in sixteenth-century K\u00f6nigsberg in the context of the development of German polyphonic song in German-speaking territories of Western Europe",
+      "printed_page_number": "249",
+      "source_page_index": -1,
+      "authors": [
+        "Izabela Bogdan"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Achim Aurnhammer: Pr\u00e4senz und Funktion des antiken Mythos in \u00bbTeutschen Liedlein\u00ab um 1600",
+      "printed_page_number": "271",
+      "source_page_index": -1,
+      "authors": [
+        "Achim Aurnhammer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Irmgard Scheitler: Kontrafakturpraxis und Liedeinsatz im Drama",
+      "printed_page_number": "289",
+      "source_page_index": -1,
+      "authors": [
+        "Irmgard Scheitler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Albrecht Classen: Poetische Reflexionen der Geschlechterverh\u00e4ltnisse in Liederb\u00fcchern des 16. und 17. Jahrhunderts. Der Fall des Heidelberger Liederbuchs und die Lieder von Erasmus Widmann",
+      "printed_page_number": "319",
+      "source_page_index": -1,
+      "authors": [
+        "Albrecht Classen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Dieter Martin: Nationalpoetische Aneignung. Aus \u00bbFrischen Teutschen Liedlein\u00ab werden \u00bbAlte deutsche Lieder\u00ab",
+      "printed_page_number": "339",
+      "source_page_index": -1,
+      "authors": [
+        "Dieter Martin"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Register",
+      "printed_page_number": "367",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

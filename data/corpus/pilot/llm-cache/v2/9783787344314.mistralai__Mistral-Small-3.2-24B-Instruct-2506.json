@@ -1,0 +1,223 @@
+{
+  "generated_at": 1787526868.7840111,
+  "duration_seconds": 34.71612637490034,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Marco Tamborini",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einleitung. Die Formen der Biorobotik",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Danksagung",
+      "printed_page_number": "14",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Michael Vogrin, Martina Szopek, Matthias Becher, Martin Stefanec, Dajana Lazic, Valerin Stokanic, Daniel Nicolas Hofstadler, Laurenz Fedotoff, Thomas Schmickl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Biohybride Technologien zur Unterst\u00fctzung von Natur und Mensch",
+      "printed_page_number": "15",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Lukas Geiszler",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Automatenbau zwischen Illusion und Imitation. Zur Debatte um den Modellcharakter von (K\u00f6rper-)Automaten",
+      "printed_page_number": "37",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fiorella Battaglia",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Technoanthropologie. Was hei\u00dft die Verschmelzung von Mensch und Maschine f\u00fcr die menschliche Natur?",
+      "printed_page_number": "56",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ruth Stock-Homburg",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Androide Roboter. Menschliche Assoziationen und ethische Aspekte der Gestaltung",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Marco Tamborini",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u00bbIm Anfang war die Tat\u00ab. Form und Materie der Biorobotik",
+      "printed_page_number": "95",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Jos\u00e9 Antonio P\u00e9rez-Escobar",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Epistemische Br\u00fccken zwischen dem Verst\u00e4ndnis von Artefakten und der Biologie. Welche Teleologie brauchen wir?",
+      "printed_page_number": "111",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Edoardo Datteri",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Interaktive humanoide Biorobotik. Vom unruhigen COG zum g\u00e4hnenden Roboter",
+      "printed_page_number": "122",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Johanna Seifert, Orsolya Friedrich",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Bioroboter. Neue Perspektiven auf das Verh\u00e4ltnis von Leben und Technik",
+      "printed_page_number": "145",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Philipp Schmidt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Soziale Erfahrung? Embodiment und Einf\u00fchlung in der Mensch-Maschinen-Interaktion",
+      "printed_page_number": "159",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Thomas Fuchs",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sophia verstehen? Menschliche Interaktion mit k\u00fcnstlichen Systemen",
+      "printed_page_number": "182",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Catrin Misselhorn",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Artifizielle Empathie auf dem Weg zur Biorobotik",
+      "printed_page_number": "207",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autor*innen",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

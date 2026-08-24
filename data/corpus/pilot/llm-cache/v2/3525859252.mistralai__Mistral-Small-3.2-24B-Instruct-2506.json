@@ -1,0 +1,419 @@
+{
+  "generated_at": 1787521918.28509,
+  "duration_seconds": 37.78962866705842,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "I. Staat und Markt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Erik Boettcher",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Erik Boettcher"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zur Diskussion \u00fcber kollektive und \u00f6ffentliche G\u00fcter und ihre Bedeutung f\u00fcr die heutige Wirtschaftspolitik",
+      "printed_page_number": "3",
+      "source_page_index": -1,
+      "authors": [
+        "Erik Boettcher"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Heinz Grossekettler",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Heinz Grossekettler"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Verwaltungsstrukturpolitik",
+      "printed_page_number": "16",
+      "source_page_index": -1,
+      "authors": [
+        "Heinz Grossekettler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Clemens-August Andreae und Engelberth Theurl",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Clemens-August Andreae",
+        "Engelberth Theurl"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Probleme der Integration der Gesundheitsversorgung",
+      "printed_page_number": "52",
+      "source_page_index": -1,
+      "authors": [
+        "Clemens-August Andreae",
+        "Engelberth Theurl"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "II. Industrie- und Gewerbepolitik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Helmut Schuster",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Schuster"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wirtschaftsf\u00f6rderung als besch\u00e4ftigungspolitische Strategie",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Schuster"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hans-J\u00fcrgen Ewers",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hans-J\u00fcrgen Ewers"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kleine und mittlere Unternehmen als Ansatzpunkt einer besch\u00e4ftigungsorientierten Strukturpolitik",
+      "printed_page_number": "88",
+      "source_page_index": -1,
+      "authors": [
+        "Hans-J\u00fcrgen Ewers"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Harald J\u00fcrgensen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Harald J\u00fcrgensen"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Anpassungsprobleme der deutschen Stahlindustrie \u2013 Ursachen und L\u00f6sungschancen",
+      "printed_page_number": "112",
+      "source_page_index": -1,
+      "authors": [
+        "Harald J\u00fcrgensen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "III. Verkehrspolitik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Claude Kaspar",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Claude Kaspar"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die schweizerische Gesamtverkehrskonzeption und ihre strukturpolitischen Zielsetzungen \u2013 eine kritische W\u00fcrdigung",
+      "printed_page_number": "137",
+      "source_page_index": -1,
+      "authors": [
+        "Claude Kaspar"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Leo H. Klaassen",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Leo H. Klaassen"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Der Beitrag des \u00f6ffentlichen Verkehrs zur gesellschaftlichen Wohlfahrt",
+      "printed_page_number": "154",
+      "source_page_index": -1,
+      "authors": [
+        "Leo H. Klaassen"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "VIII",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Inhalt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gerd Aberle",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gerd Aberle"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Verkehrswegerechnungen und Wegeentgelte \u2013 Theoriedefizite und Datenl\u00fccken in der Verkehrspolitik",
+      "printed_page_number": "175",
+      "source_page_index": -1,
+      "authors": [
+        "Gerd Aberle"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ken M. Gwilliam",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ken M. Gwilliam"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Review of Bus Deregulation in the United Kingdom",
+      "printed_page_number": "194",
+      "source_page_index": -1,
+      "authors": [
+        "Ken M. Gwilliam"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "K\u00e1lm\u00e1n K\u00e1das",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "K\u00e1lm\u00e1n K\u00e1das"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die wissenschaftliche Zukunftsforschung und die Planung der Entwicklung des Verkehrs",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [
+        "K\u00e1lm\u00e1n K\u00e1das"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "IV. Regionalpolitik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Rolf Funck und Ulrich Blum",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Funck",
+        "Ulrich Blum"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zentral\u00f6rtlicher Status, Verkehrsinfrastruktur und regionales Einkommen",
+      "printed_page_number": "223",
+      "source_page_index": -1,
+      "authors": [
+        "Rolf Funck",
+        "Ulrich Blum"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rainer Thoss",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Thoss"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Das regionale Entwicklungspotential als Ansatzpunkt f\u00fcr die Koordinierung von Raumordnungs-, Struktur- und Umweltpolitik",
+      "printed_page_number": "234",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Thoss"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "V. Energie- und Umweltpolitik",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Hans K. Schneider",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hans K. Schneider"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Internationale Energiem\u00e4rkte im Umbruch",
+      "printed_page_number": "247",
+      "source_page_index": -1,
+      "authors": [
+        "Hans K. Schneider"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Karl-Heinrich Hansmeyer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Karl-Heinrich Hansmeyer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Abgaben als Instrumente der Umweltpolitik \u2013 Erfahrungen und Perspektiven",
+      "printed_page_number": "270",
+      "source_page_index": -1,
+      "authors": [
+        "Karl-Heinrich Hansmeyer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Rainer Willeke",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Willeke"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sozialkosten des Stra\u00dfenverkehrs und das Verursacherprinzip",
+      "printed_page_number": "291",
+      "source_page_index": -1,
+      "authors": [
+        "Rainer Willeke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ver\u00f6ffentlichungen von Hellmuth Stefan Seidenfus",
+      "printed_page_number": "304",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Anschriftenverzeichnis der Autoren",
+      "printed_page_number": "310",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "F\u00f6rderer der Drucklegung",
+      "printed_page_number": "312",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

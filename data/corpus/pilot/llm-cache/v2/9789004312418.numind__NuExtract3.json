@@ -1,0 +1,292 @@
+{
+  "generated_at": 1787527907.859931,
+  "duration_seconds": 46.032936041941866,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "List of Figures and Tables",
+      "printed_page_number": "IX",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "List of Contributors",
+      "printed_page_number": "XI",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "1 Foreword",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Sydney Anglo"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "2 Introduction",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Karin Verelst",
+        "Timothy Dawson",
+        "Daniel Jaquet"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART 1",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Fight Books and Methodological Issues through Disciplinary Lenses",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "3 Before the Fight Books: Identifying Sources of Martial Techniques in Antique and Medieval Art",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Timothy Dawson"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "4 Teaching How to Fight with Encrypted Words: Linguistic Aspects of German Fencing and Wrestling Treatises of the Middle Ages and Early Modern Times",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Johannes Bauer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "5 Only a Flesh-Wound? The Literary Background to Medieval German Fight Books",
+      "printed_page_number": "62",
+      "source_page_index": -1,
+      "authors": [
+        "Rachel E. Kellet"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "6 Visualised Motion: Iconography of Medieval and Renaissance Fencing Books",
+      "printed_page_number": "88",
+      "source_page_index": -1,
+      "authors": [
+        "Jens Peter Kleinau"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "7 Finding a Way through the Labyrinth: Some Methodological Remarks on Critically Editing the Fight Book Corpus",
+      "printed_page_number": "117",
+      "source_page_index": -1,
+      "authors": [
+        "Karin Verelst"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "8 Problems of Interpretation and Application in Fight Book Studies",
+      "printed_page_number": "189",
+      "source_page_index": -1,
+      "authors": [
+        "John Clements"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "9 Experimenting Historical European Martial Arts, a Scientific Method?",
+      "printed_page_number": "216",
+      "source_page_index": -1,
+      "authors": [
+        "Daniel Jaquet"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART 2",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "From the Books to the Arts: The Fighting Arts in Context",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "10 German Fechtb\u00fccher from the Middle Ages to the Renaissance",
+      "printed_page_number": "247",
+      "source_page_index": -1,
+      "authors": [
+        "Dierk Hagedorn"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "11 The Italian Schools of Fencing: Art, Science, and Pedagogy",
+      "printed_page_number": "280",
+      "source_page_index": -1,
+      "authors": [
+        "Ken Mondschein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "12 The Destreza Verdadera: A Global Phenomenon",
+      "printed_page_number": "324",
+      "source_page_index": -1,
+      "authors": [
+        "Manuel Valle Ortiz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "13 The French Fencing Traditions, from the 14th Century to 1630 through Fight Books",
+      "printed_page_number": "354",
+      "source_page_index": -1,
+      "authors": [
+        "Olivier Dupuis"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "14 Evolution of Martial Tradition in the Low Countries: Fencing Guilds and Treatises",
+      "printed_page_number": "376",
+      "source_page_index": -1,
+      "authors": [
+        "Bert Gevaert",
+        "Reinier van Noort"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "15 Common Themes in the Fighting Tradition of the British Isles",
+      "printed_page_number": "410",
+      "source_page_index": -1,
+      "authors": [
+        "Paul Wagner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "PART 3",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Martial Arts, Martial Culture and Case Studies",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "16 The Autograph of an Erudite Martial Artist: A Close Reading of Nuremberg, Germanisches Nationalmuseum, Hs. 3227a",
+      "printed_page_number": "451",
+      "source_page_index": -1,
+      "authors": [
+        "Eric Burkart"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "17 Development, Diffusion and Reception of the \u201cBuckler Play\u201d: A Case Study of a Fighting Art in the Making",
+      "printed_page_number": "481",
+      "source_page_index": -1,
+      "authors": [
+        "Franck Cinato"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "18 Martial Identity and the Culture of the Sword in Early Modern Germany",
+      "printed_page_number": "547",
+      "source_page_index": -1,
+      "authors": [
+        "B. Ann Tlusty"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "19 Science of Duel and Science of Honour in the Modern Age: The Construction of a New Science between Customs, Jurisprudence, Literature and Philosophy",
+      "printed_page_number": "571",
+      "source_page_index": -1,
+      "authors": [
+        "Marco Cavina"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "20 Conclusion",
+      "printed_page_number": "594",
+      "source_page_index": -1,
+      "authors": [
+        "Daniel Jaquet",
+        "Timothy Dawson",
+        "Karin Verelst"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "General Bibliography",
+      "printed_page_number": "603",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Index",
+      "printed_page_number": "614",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

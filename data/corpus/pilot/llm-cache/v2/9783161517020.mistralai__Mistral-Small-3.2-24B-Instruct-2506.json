@@ -1,0 +1,123 @@
+{
+  "generated_at": 1787525093.010447,
+  "duration_seconds": 9.432236541062593,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Vorwort",
+      "printed_page_number": "V",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": true,
+      "skip": true
+    },
+    {
+      "title": "Christian Bumke",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Christian Bumke"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Einf\u00fchrung in das Forschungsgespr\u00e4ch \u00fcber die richterliche Rechtsarbeit",
+      "printed_page_number": "1",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Bumke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christian Bumke",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Christian Bumke"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Verfassungsrechtliche Grenzen fachrichterlicher Rechtserzeugung",
+      "printed_page_number": "33",
+      "source_page_index": -1,
+      "authors": [
+        "Christian Bumke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Matthias Jestaedt",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Jestaedt"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Richterliche Rechtssetzung statt richterliche Rechtsfortbildung. Methodologische Betrachtungen zum sog. Richterrecht",
+      "printed_page_number": "49",
+      "source_page_index": -1,
+      "authors": [
+        "Matthias Jestaedt"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Paul Kirchhof",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Paul Kirchhof"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Rechtsphilosophische Fundierung des Richterrechts: Die Idee des Rechts",
+      "printed_page_number": "71",
+      "source_page_index": -1,
+      "authors": [
+        "Paul Kirchhof"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Eduard Picker",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Eduard Picker"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Richterrecht und Rechtsdogmatik. Zur rechtsdogmatischen Disziplinierung des Richterrechts",
+      "printed_page_number": "85",
+      "source_page_index": -1,
+      "authors": [
+        "Eduard Picker"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Verfasserverzeichnis",
+      "printed_page_number": "121",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

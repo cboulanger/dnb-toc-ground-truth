@@ -1,0 +1,103 @@
+{
+  "generated_at": 1787521842.000829,
+  "duration_seconds": 7.744409624952823,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Vorbemerkung",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Heinz Hengst",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Heinz Hengst"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Tendenzen der Liquidierung von Kindheit",
+      "printed_page_number": "11",
+      "source_page_index": -1,
+      "authors": [
+        "Heinz Hengst"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Michael K\u00f6hler",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Michael K\u00f6hler"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Unterhaltung als Botschaft und Kauf als Erfahrung: Die Equipierung der Kindheit",
+      "printed_page_number": "73",
+      "source_page_index": -1,
+      "authors": [
+        "Michael K\u00f6hler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Barbara Riedm\u00fcller",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Barbara Riedm\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Hilfe, Schutz und Kontrolle. Zur Verrechtlichung der Kindheit",
+      "printed_page_number": "132",
+      "source_page_index": -1,
+      "authors": [
+        "Barbara Riedm\u00fcller"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Manfred Max Wambach",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Manfred Max Wambach"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Kinder als Gefahr und Risiko. Zur Psychiatrisierung und Therapeutisierung von Kindheit",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [
+        "Manfred Max Wambach"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Kindheit als Fiktion",
+      "printed_page_number": "cop. 1981",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}

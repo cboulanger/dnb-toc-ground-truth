@@ -1,0 +1,613 @@
+{
+  "generated_at": 1787533437.5786629,
+  "duration_seconds": 36.11005545803346,
+  "kind": "vision",
+  "entries": [
+    {
+      "title": "Inhaltsverzeichnis",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vorwort",
+      "printed_page_number": "5",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Theo Rous",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Theo Rous"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zwischen Sokrates und Sisyphus \u2013 der Typ Treutlein",
+      "printed_page_number": "7",
+      "source_page_index": -1,
+      "authors": [
+        "Theo Rous"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "J\u00fcrgen Funke-Wieneke",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Funke-Wieneke"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "K\u00f6rpererfahrung",
+      "printed_page_number": "17",
+      "source_page_index": -1,
+      "authors": [
+        "J\u00fcrgen Funke-Wieneke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Arturo Hotz",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Arturo Hotz"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Perfekte Technik steht der Intuition n\u00e4her als der Biomechanik! \u2013 \u201eVieles, was wir machen, ist ein Ausprobieren. Wir wissen zwar ungef\u00e4hr, was passieren k\u00f6nnte, doch dann probieren wir es einfach aus...!\"",
+      "printed_page_number": "31",
+      "source_page_index": -1,
+      "authors": [
+        "Arturo Hotz"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Harald Lange",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Harald Lange"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "K\u00f6rpererfahrung und Bewegungskoordination: Schwimmen-Lernen als Thema einer sch\u00fclerorientierten Vermittlungskonzeption",
+      "printed_page_number": "47",
+      "source_page_index": -1,
+      "authors": [
+        "Harald Lange"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Fritz Dannenmann",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Fritz Dannenmann"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Gelingender Sportunterricht",
+      "printed_page_number": "61",
+      "source_page_index": -1,
+      "authors": [
+        "Fritz Dannenmann"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Michael Neuberger",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Michael Neuberger"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Anerkennung \u2013 Fundament einer tragf\u00e4higen Beziehungsebene",
+      "printed_page_number": "69",
+      "source_page_index": -1,
+      "authors": [
+        "Michael Neuberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Wolfgang Kn\u00f6rzer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Kn\u00f6rzer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Ressourcenorientierung als Grundlage des Aufbaus nachhaltiger Motivation zum Sport",
+      "printed_page_number": "75",
+      "source_page_index": -1,
+      "authors": [
+        "Wolfgang Kn\u00f6rzer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Udo Hanke",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Udo Hanke"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wie Sportlehrer und Trainer wahrnehmen, denken, f\u00fchlen und handeln",
+      "printed_page_number": "89",
+      "source_page_index": -1,
+      "authors": [
+        "Udo Hanke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Helmut Altenberger",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Altenberger"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Sportp\u00e4dagogik und olympische Erziehung \u2013 zwei fl\u00fcchtige Bekannte?",
+      "printed_page_number": "99",
+      "source_page_index": -1,
+      "authors": [
+        "Helmut Altenberger"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Elk Franke",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Elk Franke"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Fair play \u2013 ein Modell f\u00fcr gerechtes Handeln in komplexer Gesellschaft?",
+      "printed_page_number": "109",
+      "source_page_index": -1,
+      "authors": [
+        "Elk Franke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Karl-Heinrich Bette",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Karl-Heinrich Bette"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zur Ausdifferenzierung der Sportsoziologie: Einfl\u00fcsse und Antriebskr\u00e4fte",
+      "printed_page_number": "125",
+      "source_page_index": -1,
+      "authors": [
+        "Karl-Heinrich Bette"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gerhard Treutlein",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard Treutlein"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Zum Problem von Abh\u00e4ngigkeit und Fremdbestimmung in der Frauen-Leichtathletik",
+      "printed_page_number": "135",
+      "source_page_index": -1,
+      "authors": [
+        "Gerhard Treutlein"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Alexandra Ivanova",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Alexandra Ivanova"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eUnd Anja ist v\u00f6llig durchgeknallt!\" \u2013 Zum Problem der Fremdbestimmung in der Rhythmischen Sportgymnastik",
+      "printed_page_number": "143",
+      "source_page_index": -1,
+      "authors": [
+        "Alexandra Ivanova"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gertrud Pfister",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gertrud Pfister"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "The Beauty and the Beast \u2013 Marion Jones und ihre \u201eDoping-Beziehungen\": Eine qualitative Inhaltsanalyse der Olympiaberichterstattung 2000 und 2004 in d\u00e4nischen Boulevardzeitungen",
+      "printed_page_number": "149",
+      "source_page_index": -1,
+      "authors": [
+        "Gertrud Pfister"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Brigitte Berendonk",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Brigitte Berendonk"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Z\u00fcchten wir Monstren?",
+      "printed_page_number": "165",
+      "source_page_index": -1,
+      "authors": [
+        "Brigitte Berendonk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Hansj\u00f6rg Kofink",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Hansj\u00f6rg Kofink"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Anabolika im Frauen-Hochleistungssport. Erfahrungen eines DLV-Trainers \u2013 vor 40 Jahren",
+      "printed_page_number": "171",
+      "source_page_index": -1,
+      "authors": [
+        "Hansj\u00f6rg Kofink"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Werner W. Franke",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Werner W. Franke"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Anabolika im Sport. Der Arzt als Erf\u00fcllungsgehilfe des Sportfunktion\u00e4rs: Leichtfertige Verniedlichung von Nebenwirkungen",
+      "printed_page_number": "185",
+      "source_page_index": -1,
+      "authors": [
+        "Werner W. Franke"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Herbert Fischer-Solms",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Herbert Fischer-Solms"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "\u201eFl\u00e4chendeckende Verdr\u00e4ngung\". Der Spitzensport als Spritzenport \u2013 \u00dcber Doping in Westdeutschland",
+      "printed_page_number": "191",
+      "source_page_index": -1,
+      "authors": [
+        "Herbert Fischer-Solms"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Robert Lechner",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Robert Lechner"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Vom Ahnungslosen zum Auserw\u00e4hlten",
+      "printed_page_number": "197",
+      "source_page_index": -1,
+      "authors": [
+        "Robert Lechner"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Ralf Meutgens",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Ralf Meutgens"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Wer schneller f\u00e4hrt, ist fr\u00fcher tot",
+      "printed_page_number": "203",
+      "source_page_index": -1,
+      "authors": [
+        "Ralf Meutgens"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Christophe Brissonneau",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Christophe Brissonneau"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die politischen Auswirkungen des Antidopings auf die Karriere des Berufssportlers und das Doping im Radsport",
+      "printed_page_number": "213",
+      "source_page_index": -1,
+      "authors": [
+        "Christophe Brissonneau"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Horst Pagel",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Horst Pagel"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Doping \u2013 die neue Un\u00fcbersichtlichkeit",
+      "printed_page_number": "225",
+      "source_page_index": -1,
+      "authors": [
+        "Horst Pagel"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Sylvia Schenk",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Sylvia Schenk"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Jenseits des Anti-Dopingkampfes: Nichts Geringeres als eine Kulturrevolution",
+      "printed_page_number": "237",
+      "source_page_index": -1,
+      "authors": [
+        "Sylvia Schenk"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Anno Hecker und Evi Simeoni",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Anno Hecker",
+        "Evi Simeoni"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Medien als Helfer im Kampf gegen Doping",
+      "printed_page_number": "241",
+      "source_page_index": -1,
+      "authors": [
+        "Anno Hecker",
+        "Evi Simeoni"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Perikles Simon",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Perikles Simon"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Keine Angst vor Risiken und Nebenwirkungen: Ein Pl\u00e4doyer f\u00fcr mehr Transparenz und freiwillige Selbstkontrolle in der Sportmedizin",
+      "printed_page_number": "245",
+      "source_page_index": -1,
+      "authors": [
+        "Perikles Simon"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Andreas Singler",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Singler"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Dopingpr\u00e4vention auf Landesebene: Aktivit\u00e4ten, Einstellungen und Wahrnehmungen bei Sportfunktion\u00e4ren rheinland-pf\u00e4lzischer Fachverb\u00e4nde",
+      "printed_page_number": "257",
+      "source_page_index": -1,
+      "authors": [
+        "Andreas Singler"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Gert Hillringhaus",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Gert Hillringhaus"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Dopingpr\u00e4vention an der Basis \u2013 ein Erfahrungsbericht",
+      "printed_page_number": "269",
+      "source_page_index": -1,
+      "authors": [
+        "Gert Hillringhaus"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Patrick Laure",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Patrick Laure"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Die Pr\u00e4vention von Dopingmentalit\u00e4t: der Weg \u00fcber die Erziehung",
+      "printed_page_number": "275",
+      "source_page_index": -1,
+      "authors": [
+        "Patrick Laure"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Giselher Spitzer",
+      "printed_page_number": null,
+      "source_page_index": -1,
+      "authors": [
+        "Giselher Spitzer"
+      ],
+      "printed_roman": false,
+      "skip": true
+    },
+    {
+      "title": "Welche Auswirkungen k\u00f6nnte die Diskussion um einen liberaleren Umgang mit Neuro-Enhancement auf den Jugendsport haben?",
+      "printed_page_number": "289",
+      "source_page_index": -1,
+      "authors": [
+        "Giselher Spitzer"
+      ],
+      "printed_roman": false,
+      "skip": false
+    },
+    {
+      "title": "Autorenverzeichnis",
+      "printed_page_number": "299",
+      "source_page_index": -1,
+      "authors": [],
+      "printed_roman": false,
+      "skip": true
+    }
+  ]
+}
